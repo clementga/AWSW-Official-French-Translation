@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
+# Initial translation : Xraykill115
 
 # game/xemera.rpy:25
 translate frenchtl emera_e8b28693:
