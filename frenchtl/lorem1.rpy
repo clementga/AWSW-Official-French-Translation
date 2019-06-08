@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
+# Initial translation : AraMacaw
+
 
 # game/lorem1.rpy:36
 translate frenchtl lorem1_3d89afe3:
