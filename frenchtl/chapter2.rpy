@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2017-05-02 20:02
+ # Initial translation : BananaSplit2
 
 # game/chapter2.rpy:198
 translate french chapter2_76b2fe88:
