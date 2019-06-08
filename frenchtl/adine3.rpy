@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
+# Initial translation : alpha the dragon
 
 # game/adine3.rpy:27
 translate frenchtl adine3_a84b0c2b:
