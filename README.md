@@ -27,7 +27,7 @@ remy2 ✘<br/>
 xemera ✔<br/>
 xzhong ✔<br/>
 chapter3 ✘<br/>
-adine3 ✔<br/>
+adine3 en cours<br/>
 anna3 ✘<br/>
 bryce3 ✘<br/>
 lorem3 ✔<br/>
