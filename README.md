@@ -2,6 +2,7 @@
 Github pour la traduction officielle de AWSW en français
 
 Fichiers traduits (✘ = non fait, ✔ = fait, ✔✔✔ = version définitive relue) :
+
 common ✘
 dv ✘
 screens ✘
