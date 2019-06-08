@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
+# Initial translation : AraMacaw
 
 # game/lorem3.rpy:52
 translate frenchtl _call_skiptut_13_0ff5f677:
