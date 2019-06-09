@@ -1,131 +1,131 @@
 ﻿# TODO: Translation updated at 2019-06-07 17:56
+# Initial translation by : BananaSplit2
 
 # game/chapter1.rpy:56
 translate french nameentryx_dc71aba9:
 
     # s "Detecting user profile.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Détection du profil utilisateur.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:94
 translate french nameentryx_058ab5bf:
 
     # s "User profile not found."
-    s ""
-    $ player_name = u"Имя"
+    s "Profil utilisateur non trouvé."
 
 # game/chapter1.rpy:108
 translate french colormenu1_e933acee:
 
     # s "Choose a color." nointeract
-    s "" nointeract
+    s "Choisissez une couleur." nointeract
 
 # game/chapter1.rpy:163
 translate french colormenu2_e933acee:
 
     # s "Choose a color." nointeract
-    s "" nointeract
+    s "Choisissez une couleur." nointeract
 
 # game/chapter1.rpy:226
 translate french colormenu3_e933acee:
 
     # s "Choose a color." nointeract
-    s "" nointeract
+    s "Choisissez une couleur." nointeract
 
 # game/chapter1.rpy:289
 translate french colormenu4_e933acee:
 
     # s "Choose a color." nointeract
-    s "" nointeract
+    s "Choisissez une couleur." nointeract
 
 # game/chapter1.rpy:368
 translate french detected_bc6e30f8:
 
     # s "Welcome back, [player_name]."
-    s ""
+    s "Content de vous revoir, [player_name]."
 
 # game/chapter1.rpy:370
 translate french detected_84b78b40:
 
     # c "(Does this look right?)" nointeract
-    c "" nointeract
+    c "(Est-ce que cela a l'air correct ?)" nointeract
 
 # game/chapter1.rpy:378
 translate french detected_263f7f4c:
 
     # s "User profile confirmed."
-    s ""
+    s "Profil utilisateur confirmé."
 
 # game/chapter1.rpy:382
 translate french detected_bd29307b:
 
     # s "Before we start, please review the following information:"
-    s ""
+    s "Avant que nous ne commencions, veuillez passer en revue les informations suivantes :"
 
 # game/chapter1.rpy:383
 translate french detected_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    "Управление\nИспользуйте [[ЛКМ] или [[Enter] чтобы листать текст и выбирать пункты меню.\nНажмите [[Пробел] чтобы просто листнуть текст. Это поможет вам не выбрать случайно не тот вариант ответа."
+    "Contrôles\nUtilisez [[Clic Gauche] ou [[Entrée] pour avancer le texte et sélection une option quand un choix vous est offert.\nAppuyez sur la barre [[Espace] pour n'avancer que le texte. Cela est utile pour éviter de faire un choix accidentel."
 
 # game/chapter1.rpy:384
 translate french detected_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[ESC] или [[ПКМ] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Колесико мыши], или [[Page Up] и [[Page Down] чтобы смотреть прошлые сообщения."
+    "[[Échap] ou [[Clic Droit] permet d'afficher le menu.\n[[F] bascule le mode plein écran.\nUtilisez la [[Roulette de souris]], ou [[Page Haut] et [[Page Bas] pour revoir les messages passés et revenir en arrière."
 
 # game/chapter1.rpy:385
 translate french detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Зажмите [[Ctrl] или нажмите [[Tab] чтобы промотать просмотренные сообщения.\n[[S] снимает скриншот.\n[[СКМ] или [[H] скрывает текстовое окно.\nЕсли захотите увидеть эту информацию снова, вы можете попасть сюда из главного меню."
+    "Maintenez [[Ctrl] ou appuyez sur [[Tab] pour sauter les messages déjà vu.\n[[S] permet de prendre une capture d'écran.[[Clic Central] ou [[H] cache la fenêtre de dialogue.\nSi vous voulez revoir ces informations, vous pouvez le faire depuis le menu principal."
 
 # game/chapter1.rpy:386
 translate french detected_4f5f91c6:
 
     # s "That would be all.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Cela sera tout.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:393
 translate french colorend_84b78b40:
 
     # c "(Does this look right?)" nointeract
-    c "" nointeract
+    c "(Est-ce que cela a l'air correct ?)" nointeract
 
 # game/chapter1.rpy:401
 translate french colorend_263f7f4c:
 
     # s "User profile confirmed."
-    s ""
+    s "Profil utilisateur confirmé."
 
 # game/chapter1.rpy:405
 translate french colorend_bd29307b:
 
     # s "Before we start, please review the following information:"
-    s ""
+    s "Avant que nous ne commencions, veuillez passer en revue les informations suivantes :"
 
 # game/chapter1.rpy:406
 translate french colorend_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    "Управление\nИспользуйте [[ЛКМ] или [[Enter] чтобы листать текст и выбирать пункты меню.\nНажмите [[Пробел] чтобы просто листнуть текст. Это поможет вам не выбрать случайно не тот вариант ответа."
+    "Contrôles\nUtilisez [[Clic Gauche] ou [[Entrée] pour avancer le texte et sélection une option quand un choix vous est offert.\nAppuyez sur la barre [[Espace] pour n'avancer que le texte. Cela est utile pour éviter de faire un choix accidentel."
 
 # game/chapter1.rpy:407
 translate french colorend_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[ESC] или [[ПКМ] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Колесико мыши], или [[Page Up] и [[Page Down] чтобы смотреть прошлые сообщения."
+    "[[Échap] ou [[Clic Droit] permet d'afficher le menu.\n[[F] bascule le mode plein écran.\nUtilisez la [[Roulette de souris]], ou [[Page Haut] et [[Page Bas] pour revoir les messages passés et revenir en arrière."
 
 # game/chapter1.rpy:408
 translate french colorend_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Зажмите [[Ctrl] или нажмите [[Tab] чтобы промотать просмотренные сообщения.\n[[S] снимает скриншот.\n[[СКМ] или [[H] скрывает текстовое окно.\nЕсли захотите увидеть эту информацию снова, вы можете попасть сюда из главного меню."
+    "Maintenez [[Ctrl] ou appuyez sur [[Tab] pour sauter les messages déjà vu.\n[[S] permet de prendre une capture d'écran.[[Clic Central] ou [[H] cache la fenêtre de dialogue.\nSi vous voulez revoir ces informations, vous pouvez le faire depuis le menu principal."
 
 # game/chapter1.rpy:409
 translate french colorend_7c214f52:
 
     # s "That would be all."
-    s ""
+    s "Cela sera tout."
 
 # game/chapter1.rpy:419
 translate french begingame_76b2fe88:
@@ -137,31 +137,31 @@ translate french begingame_76b2fe88:
 translate french begingame_0420e91d:
 
     # n "The year is 20XX."
-    n ""
+    n "L'année est 20XX."
 
 # game/chapter1.rpy:422
 translate french begingame_02e25085:
 
     # n "Only recently has humanity discovered a portal that leads into a different world, populated with a race of intelligent, talking dragons. I was one of the few to travel to this world..."
-    n ""
+    n "L'humanité venait de découvrir tout récemment un portail menant vers un autre monde, peuplé d'une race de dragons intelligents et capables de paroles. Je fus l'un des rares élus à voyager vers ce monde..."
 
 # game/chapter1.rpy:423
 translate french begingame_ef5e9be2:
 
     # n "...but, maybe, I should start at the beginning..."
-    n ""
+    n "...mais, peut-être devrais-je débuter par le commencement..."
 
 # game/chapter1.rpy:424
 translate french begingame_c9f110ae:
 
     # n "It all began when we discovered a strange device in the middle of nowhere during one of our expeditions... a portal."
-    n ""
+    n "Tout commença quand nous découvrîmes un étrange appareil au milieu de nul part au cours de l'une de nos expéditions... un portail."
 
 # game/chapter1.rpy:431
 translate french begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n ""
+    n "J'avais déjà entendu parler d'une technologie similaire par le passé, mais plutôt à un niveau expérimental. De ce que je savais, d'autres portails avaient été créés par le passé, et leur production en masse était en cours de considération. Pour ce qui était de celui-là en particulier, nous n'avions aucune idée de qui l'avait construit, ni quand - ou même pourquoi nous l'avions trouvé au beau milieu de contrées sauvages tel que ce fut le cas. Ce qui était le plus palpitant, était le fait que ce portail était... fonctionnel."
 
 # game/chapter1.rpy:433
 translate french begingame_337d015e:
@@ -169,19 +169,19 @@ translate french begingame_337d015e:
     # nvl clear
     # n "After our first tests, we found there was someone else on the other side who was in possession of a similar portal, and our attempts at communication through letters were successful. But in the end, the machine's extraordinary demand for power meant we needed to act quickly as we wouldn’t be able to keep the portal open much longer. "
     nvl clear
-    n ""
+    n "Après nos premiers tests, nous découvrîmes qu'il y avait quelqu'un de l'autre côté qui était en possession d'un portail similaire, et nos tentatives de communication par lettres furent couronnées de succès. Malgré cela, l'extraordinaire demande en énergie de la machine nous força à agir rapidement car nous ne serions pas capables de maintenir le portail ouvert encore bien longtemps."
 
 # game/chapter1.rpy:436
 translate french begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n ""
+    n "Quand nous fîmes savoir cela à l'autre côté, nous reçumes une réponse très inattendue : une lettre d'inviation. Après quelques délibérations, il fut décidé d'accepter leur hospitalité et d'envoyer une personne de l'autre côté."
 
 # game/chapter1.rpy:437
 translate french begingame_3dadd8d0:
 
     # n "There was an individual who took the job almost immediately."
-    n ""
+    n "Un individu se proposa presque immédiatement."
 
 # game/chapter1.rpy:443
 translate french begingame_76b2fe88_1:
@@ -193,37 +193,37 @@ translate french begingame_76b2fe88_1:
 translate french begingame_f40eb8ae:
 
     # n "Reza Izquierdo."
-    n ""
+    n "Reza Izquierdo."
 
 # game/chapter1.rpy:447
 translate french begingame_f4966cae:
 
     # n "I knew him. Or rather, had known him. We attended the same school back then, and even had a few classes together. We never really were very close friends, but we talked to each other occasionally and hung around with the same crowd sometimes. However, we still went our separate ways in the end."
-    n ""
+    n "Je le connaissais. Ou plutôt, je l'eus connu. Nous allions à la même école à l'époque, et avions parfois même été dans la même classe. Nous ne fûmes jamais des amis proches, mais nous discutions occasionnellement, et traînions tous les deux avec les mêmes groupes d'étudiants. Malgré tout, nous allâmes au final chacun notre chemin."
 
 # game/chapter1.rpy:448
 translate french begingame_d966c5be:
 
     # n "I wasn't sure what to think about the whole thing, but he had to have known what he was doing. He certainly was brave."
-    n ""
+    n "Je n'étais pas sûr quoi penser de toute cette histoire, il devait savoir ce qu'il faisait. Il était certainement courageux."
 
 # game/chapter1.rpy:449
 translate french begingame_0be71cd9:
 
     # n "Either that, or just very, very foolish."
-    n ""
+    n "Soit ça, soit simplement très, très imprudent et stupide."
 
 # game/chapter1.rpy:450
 translate french begingame_71b0a869:
 
     # n "While I wasn't sure which, his courage was applauded by others. After all, he couldn't possibly have known who or what would await him at the other end of the portal, and if he did meet someone there, who knew what kinds of intentions they might have?"
-    n ""
+    n "Bien que je ne susse pas la réponse à cela, son courage fut applaudi par les autres. Après tout, il ne pouvait pas savoir qui ou quoi l'attendrait de l'autre côté du portail, et s'il avait rencontré quelqu'un, qui sait ce que leurs intentions auraient pu être ?"
 
 # game/chapter1.rpy:451
 translate french begingame_11930bc6:
 
     # n "Not that any speculation on our part would've made a difference."
-    n ""
+    n "De toute façon, toute spéculation de notre part n'aurait fait aucune différence."
 
 # game/chapter1.rpy:452
 translate french begingame_82f1d7da:
@@ -231,7 +231,7 @@ translate french begingame_82f1d7da:
     # nvl clear
     # n "When the day finally came, through he went, with applause echoing across the area - equipped only with the clothes he wore, his multi-tool, a gun and a device on his wrist that acted as a PDA."
     nvl clear
-    n ""
+    n "Quand le jour vint enfin, il franchit le portail, des applaudissements résonnant dans toute la zone - équipé uniquement des vêtements qu'il portait, de son outil multi-fonction, d'un revolver et et d'un PDA à son poignet"
 
 # game/chapter1.rpy:458
 translate french begingame_76b2fe88_2:
@@ -243,37 +243,37 @@ translate french begingame_76b2fe88_2:
 translate french begingame_02377e2f:
 
     # n "Then we waited..."
-    n ""
+    n "Puis vint l'attente..."
 
 # game/chapter1.rpy:462
 translate french begingame_a929e4ad:
 
     # n "The crowd that was applauding him slowly dispersed when the enthusiasm died down, as there was nothing for us to do but wait and speculate."
-    n ""
+    n "La foule qui avait si longuement applaudi se dispersa lentement lorsque l'enthousiasme retomba, puisque nous n'avions plus rien à faire d'autre qu'à attendre et à spéculer."
 
 # game/chapter1.rpy:463
 translate french begingame_4e5d991b:
 
     # n "Approximately 8 hours later, we received our first message from him."
-    n ""
+    n "Approximativement 8 heures plus tard, nous reçûmes notre premier message de sa part."
 
 # game/chapter1.rpy:464
 translate french begingame_282e06e8:
 
     # n "While we had assumed the portal led to another in a different country, or maybe on a different continent, the reality turned out to be much more... foreign."
-    n ""
+    n "Alors que nous avions présumé la destination du portail comme étant un autre pays, ou même un autre continent, la vérité se révéla bien plus... étrangère."
 
 # game/chapter1.rpy:465
 translate french begingame_2a8e54d7:
 
     # n "The situation he described to us was so outlandish that we initially took it as a joke."
-    n ""
+    n "La situation qu'il nous décrivit fut tellement étrange que nous la prîmes initialement comme une blague."
 
 # game/chapter1.rpy:466
 translate french begingame_bb325a0f:
 
     # n "A very bad joke, maybe, with even worse timing and no punchline at all."
-    n ""
+    n "Une très mauvaise blague, peut-être, avec un timing encore plus mauvais et une absence complète de chute."
 
 # game/chapter1.rpy:467
 translate french begingame_ac587ebf:
@@ -281,31 +281,31 @@ translate french begingame_ac587ebf:
     # nvl clear
     # n "It soon became clear to us, though, that we may just have made one of the most important discoveries since the dawn of mankind."
     nvl clear
-    n ""
+    n "Il nous devint clair cependant, que nous venions peut-être de faire l'une des plus importantes découvertes depuis l'aube de l'humanité."
 
 # game/chapter1.rpy:469
 translate french begingame_273be6cf:
 
     # n "Finding the portal had been remarkable in itself, but this took it to a completely different level."
-    n ""
+    n "Découvrir le portail avait été remarquable en soi, mais cette nouvelle lui fit prendre une toute autre importance."
 
 # game/chapter1.rpy:471
 translate french begingame_942d3fc8:
 
     # n "From what he described about the place - or, more accurately, its inhabitants - we surmised it could not be part of Earth at all."
-    n ""
+    n "De par sa description de l'endroit - ou, plus exactement, de ses habitants - nous déduisîmes qu'il ne pouvait absolument pas s'agir d'un lieu situé sur Terre."
 
 # game/chapter1.rpy:472
 translate french begingame_b4430af1:
 
     # n "We called them {i}dragons{/i}, because according to Reza, that's what they were, or at least what they resembled most."
-    n ""
+    n "Nous les appelâmes {i}dragons{/i}, puisque selon Reza, c'est ce qu'ils étaient, où en tout cas ce à quoi ils ressemblaient le plus."
 
 # game/chapter1.rpy:473
 translate french begingame_73af8ba0:
 
     # n "Even though we found it hard to believe, it had been these dragons who sent us all the letters. And what Reza found on the other side of the portal was a whole civilization of them. They could talk, write books, had buildings and electricity. In many ways, their society was actually very similar to our own."
-    n ""
+    n "Nous le trouvâmes difficile à croire, mais c'était ces dragons qui nous avaient envoyé toutes ces lettres. Et ce que Reza trouva de l'autre côté du portail était une entière civilization de dragons. Ils pouvaient parler, écrire des livres, avaient des bâtiments et l'électricité. En de nombreux points, leur société était de fait très similaire à la notre."
 
 # game/chapter1.rpy:474
 translate french begingame_6abe8d77:
@@ -313,19 +313,19 @@ translate french begingame_6abe8d77:
     # nvl clear
     # n "So, who were they? And where was this place? Could they be aliens?"
     nvl clear
-    n ""
+    n "Alors, qui étaient-ils ? And où était cet endroit ? Pouvaient-ils être des aliens ?"
 
 # game/chapter1.rpy:476
 translate french begingame_1020ae93:
 
     # n "Our speculations led us to conclude otherwise. After all, we knew about the existence of thousands of planets, millions of light-years away that may have been theoretically habitable, yet even then we had never found conclusive proof in regards to actual alien life-forms."
-    n ""
+    n "Nos spéculations nous poussèrent à conclure autrement. Après tout, nous connaissions l'existence de milliers de planètes, à des millions d'années-lumière, qui auraient pu être théoriquement habitable, et malgré cela, nous ne trouvâmes jamais de preuve concluante en regard de l'existence de formes de vie alien."
 
 # game/chapter1.rpy:478
 translate french begingame_3ff6841f:
 
     # n "Some people brought up quantum mechanics and parallel universes, but in the end all of this was just conjecture and an ultimately fruitless endeavor, since we neither had the means nor the resources to explore these possibilities in greater detail."
-    n ""
+    n "Certaines personnes invoquèrent les mécaniques quantiques et les univers parallèles, mais en tout et pour tout, tout cela n'était que conjecture et entreprise infructueuse, puisque nous n'avions ni les moyens, ni les ressources pour explorer ces possibilités plus en détails."
 
 # game/chapter1.rpy:479
 translate french begingame_94c45763:
@@ -333,31 +333,31 @@ translate french begingame_94c45763:
     # nvl clear
     # n "I think there's just one more thing worth mentioning before I move on:"
     nvl clear
-    n ""
+    n "Je pense qu'il y a une dernière chose que je devrais mentionner avant de passer à la suite :"
 
 # game/chapter1.rpy:481
 translate french begingame_fe72b4b9:
 
     # n "The previous isolation had been mutual."
-    n ""
+    n "L'isolement préalable avait été mutuel."
 
 # game/chapter1.rpy:482
 translate french begingame_dc6c4ac0:
 
     # n "They hadn't known about any other intelligent life-form beyond their own, their portal had only recently been discovered and was a technology previously unknown to them, and just as we had myths about dragons, they had myths about us."
-    n ""
+    n "Ils n'avaient eu aucune connaissance d'une autre forme de vie intelligente en dehors de la leur, leur portail avait été récemment découvert et leur était une technologie précédemment inconnue, et tout comme nous avions des mythes sur les dragons, ils avaient des mythes sur nous."
 
 # game/chapter1.rpy:484
 translate french begingame_32508c0c:
 
     # n "That was what we knew about them so far, and as interesting as learning those things and debating their cultural significance was, we didn't really know what we should make of it all."
-    n ""
+    n "C'est tout ce que nous savions d'eux à ce point, et aussi intéressant que pouvait être d'apprendre tout cela et de débattre leur importance culturelle, nous ne savions pas vraiment quoi en faire."
 
 # game/chapter1.rpy:485
 translate french begingame_26e2ea6a:
 
     # n "Reza apparently was sure of what he was doing, though, as he eventually let us know that they had agreed on a trade."
-    n ""
+    n "Reza était apparamment sûr de ce qu'il faisait cependant, puisqu'il nous finit par nous faire savoir qu'ils avaient accepté un échange."
 
 # game/chapter1.rpy:486
 translate french begingame_32345ff9:
@@ -365,19 +365,19 @@ translate french begingame_32345ff9:
     # nvl clear
     # n "We were to give them a few of our PDA devices, which contained vast amounts of knowledge, dwarfing even that of encyclopedias. In return, they would supply us with generators."
     nvl clear
-    n ""
+    n "Nous leur donnerions quelques de nos PDA, qui contenaient de vastes quantités de connaissance, éclipsant celles même des encyclopédies. En échanges, ils nous fourniraient en générateurs."
 
 # game/chapter1.rpy:488
 translate french begingame_23bd1b9f:
 
     # n "Overall, they didn't seem as technologically advanced as we had been, but they did surpass us in that one aspect. Their means of generating energy seemed... sustainable."
-    n ""
+    n "Globalement, ils ne semblaient pas aussi avancés technologiquement que nous l'avions pu être, mais ils nous surpassaient dans un aspect. Leurs moyens de produire de l'énergie semblaient... durables."
 
 # game/chapter1.rpy:489
 translate french begingame_9422efc0:
 
     # n "Not only that, but evidently also quite efficient. We certainly would be able to put technology like that to good use, and trading mere past knowledge of the human race for something more... tangible... was a good call on his part."
-    n ""
+    n "Pas seulement ça, mais ils étaient aussi de façon évidente assez efficaces. Nous pouvions certainement mettre ce genre de technologie à profit, et n'échanger que de simples connaissances anciennes de la race humaine pour quelque chose de plus... tangible... était une bonne idée de sa part."
 
 # game/chapter1.rpy:494
 translate french begingame_76b2fe88_3:
@@ -389,31 +389,31 @@ translate french begingame_76b2fe88_3:
 translate french begingame_c8829c2c:
 
     # n "That was where I came in."
-    n ""
+    n "C'est là que je suis intervenu."
 
 # game/chapter1.rpy:498
 translate french begingame_9cb37fb9:
 
     # n "My prior experience in both biology and sociology made me a good fit to deliver our PDA devices for the trade. And while in the dragons' world, waiting for the prototypes of our generators to be manufactured by them, I would act as an ambassador on humanity's behalf."
-    n ""
+    n "Mon expérience à la fois en biologie et en sociologie faisait de moi un bon candidat pour délivrer ces PDA pour notre échange. Et pendant ma présence dans le monde des dragons, en attendant que les prototypes de nos générateurs soient manufacturés, j'agirais en tant qu'ambassadeur au nom de l'humanité."
 
 # game/chapter1.rpy:499
 translate french begingame_062d5b60:
 
     # n "What a way to make a first impression by a display of mutual goodwill. Everyone benefits and everyone goes home happy."
-    n ""
+    n "Quelle façon de faire une première impression par une démonstration de bonne volontée mutuelle. Tout le monde profite et tout le monde est content."
 
 # game/chapter1.rpy:500
 translate french begingame_b084fb87:
 
     # n "All is well."
-    n ""
+    n "Tout va bien qui finit bien."
 
 # game/chapter1.rpy:501
 translate french begingame_fe0f2718:
 
     # n "At least, that was the plan."
-    n ""
+    n "En tout cas, c'était le plan."
 
 # game/chapter1.rpy:502
 translate french begingame_a1d738a9:
@@ -421,19 +421,19 @@ translate french begingame_a1d738a9:
     # nvl clear
     # n "Despite the images that living, talking dragons might conjure up in some people's minds, I didn't even think of bringing a weapon myself, considering that they were reportedly friendly and peaceful enough."
     nvl clear
-    n ""
+    n "Malgré les images que des dragons vivants et capables de paroles pourraient conjurer dans l'esprit de certaines personnes, je ne pensai même pas à prendre une arme avec moi, prenant en compte le fait qu'ils étaient apparamment amicaux et pacifiques."
 
 # game/chapter1.rpy:504
 translate french begingame_01f41d60:
 
     # n "There was no need for me to fear potential ill intentions like Reza did when he had stepped into unknown territory, and acting as humanity's ambassador, I had to do my best to uphold a high standard in fostering this diplomatic relationship."
-    n ""
+    n "Il n'était pas utile pour moi de craindre de potentielles mauvaises intentions, comme Reza lorsqu'il eut dû poser un pied en territoire inconnu, et, devant agir comme ambassaeur de l'humanité, je me devais de faire de mon mieux pour maintenir des standards élevés afin de nourrir et entretenir cette relation diplomatique."
 
 # game/chapter1.rpy:505
 translate french begingame_29ac0db6:
 
     # n "When the time came for me to step through the portal, all my mental preparedness vanished. My anxiousness was fueled by all the questions lurking in my head, just as the machine started to do its work."
-    n ""
+    n "Quand le temps vint pour moi de traverser le portail, toute ma préparation mentale se volatilisa. Mon anxiété fut nourrie par toutes les questions tapies dans mon esprit, alors que la machine commençait à faire son travail."
 
 # game/chapter1.rpy:506
 translate french begingame_608fb1d8:
@@ -441,31 +441,31 @@ translate french begingame_608fb1d8:
     # nvl clear
     # n "Would it hurt?"
     nvl clear
-    n ""
+    n "Cela serait-il douloureux ?"
 
 # game/chapter1.rpy:509
 translate french begingame_1b21db5d:
 
     # n "Who would I meet on the other side?"
-    n ""
+    n "Qui rencontrerais-je de l'autre côté ?"
 
 # game/chapter1.rpy:510
 translate french begingame_8b5b997c:
 
     # n "What if they really weren't so friendly and just made Reza write those letters, with the pretense of appearing friendly, only to lure us into the den of man-eating monsters and certain doom, with us ending up as nothing more than a tasty afternoon snack?"
-    n ""
+    n "Et s'ils n'étaient pas aussi amicaux que ça ? Et qu'ils avaient fait écrire ces lettres à Reza sous la prétention d'apparaître amicaux, simplement pour nous attirer dans le repaire de monstres mangeurs d'hommes et vers une mort certaine, ne faisant de nous pas plus que de savoureux goûters ?"
 
 # game/chapter1.rpy:512
 translate french begingame_605c857b:
 
     # n "Maybe I should've brought a weapon after all..."
-    n ""
+    n "Peut-être aurais-je dû apporter une arme après tout..."
 
 # game/chapter1.rpy:520
 translate french begingame_4ca759d4:
 
     # n "{cps=80}Suddenly, I felt a shiver coursing throughout my whole body and beyond when I disintegrated, as if every cell, every atom of my body was torn from me and pulled into a different direction.{/cps}{nw}"
-    n ""
+    n "{cps=80}Soudainement, je sentis un frisson traverser mon corps entier et au-delà quand je fus désintégré, comme si chaque cellule, chaque atome de mon corps m'était déchiré et tiré dans une direction différente.{/cps}{nw}"
 
 # game/chapter1.rpy:598
 translate french begingame_76b2fe88_4:
@@ -477,13 +477,13 @@ translate french begingame_76b2fe88_4:
 translate french begingame_3ba6854d:
 
     # n "{cps=80}I saw darkness and light, painting patterns in the stars as I traveled, and images rapidly flashed before me of things unseen and unspoken.{/cps}{nw}"
-    n ""
+    n "{cps=80}Je vis l'obsurité et la lumière, des motifs peints dans les étoiles alors que je voyageais, et des images de choses cachées et tacites se succédèrent à toute allure devant mes yeux.{/cps}{nw}"
 
 # game/chapter1.rpy:609
 translate french begingame_0d6baf11:
 
     # n "{cps=80}Both horrifying and beautiful, it was an experience unlike any other, yet over in just a split second.{/cps}"
-    n ""
+    n "{cps=80}À la fois horrifiant et magnifique, ce fut une expérience comme aucune autre, et pourtant elle fut terminée en à peine une fraction de seconde.{/cps}"
 
 # game/chapter1.rpy:613
 translate french begingame_76b2fe88_5:
@@ -495,7 +495,7 @@ translate french begingame_76b2fe88_5:
 translate french begingame_d079f0e6:
 
     # n "Then it was dark."
-    n ""
+    n "Puis ce fut l'obscurité."
 
 # game/chapter1.rpy:618
 translate french begingame_9ea6cf05:
