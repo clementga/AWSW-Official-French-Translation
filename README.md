@@ -8,6 +8,7 @@ Composition du git :<br/>
 - "fr_trad_mod" : le mod permettant de charger les traductions dans le jeu pour les tester
 - "Tester les traductions en jeu.md" : contient les instructions pour utiliser le mod pour tester les traductions
 - "Harmonisation.md" : contient la liste des différentes décisions prises en matière d'harmonisation du travail entre les différents traducteurs. Merci de bien garder en tête ce qui y est écrit !
+- "Cohérence.md" : contient la liste des phrases qui se retrouvent régulièrement à différents endroits dans le jeu, et qui devraient être traduits de la même manière (notamment les message systèmes)
 
 Fichiers traduits (✘ = non fait, ✔ = fait, ✔✔ = relu, ✔✔✔ = version définitive) :
 
