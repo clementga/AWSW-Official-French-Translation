@@ -1,5 +1,5 @@
 # TODO: Translation updated at 2017-05-02 20:02
-# Initial translation : ceanoth
+# Initial translation : ?
 
 # game/xzhong.rpy:27
 translate frenchtl zhong_05bfcd47:
