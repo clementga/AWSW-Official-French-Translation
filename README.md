@@ -24,7 +24,7 @@ adine1 ✔<br/>
 anna1 ✔<br/>
 bryce1 ✘<br/>
 lorem1 ✔<br/>
-remy1 ✘<br/>
+remy1 ✘ En cours (gone461)<br/>
 xsebastian ✘<br/>
 endings ✘<br/>
 chapter2 ✔<br/>
