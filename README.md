@@ -21,7 +21,7 @@ images ✔<br/>
 script ✔<br/>
 chapter1 En cours (BananaSplit2) <br/>
 adine1 ✔<br/>
-anna1 En cours (Obscurity Dragon)<br/>
+anna1 ✔<br/>
 bryce1 ✘<br/>
 lorem1 ✔<br/>
 remy1 ✘<br/>
@@ -29,7 +29,7 @@ xsebastian ✘<br/>
 endings ✘<br/>
 chapter2 ✔<br/>
 adine2 ✔<br/>
-anna2 En cours (Obscurity Dragon)<br/>
+anna2 ✔<br/>
 bryce2 ✘<br/>
 lorem2 ✔<br/>
 remy2 ✘<br/>
