@@ -1,0 +1,1 @@
+Ce fichier contient les phrases qui réapparaissent régulièrement sous la même forme à travers le jeu, et qui devraient donc être traduites de la même manière partout.

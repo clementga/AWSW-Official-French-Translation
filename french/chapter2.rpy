@@ -12,19 +12,19 @@ translate french chapter2_76b2fe88:
 translate french _call_skiptut_11_7c2b96fe:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?"
-    s "﻿Mes données indiquent que vous avez déjà complété cette section d'une manière satisfaisante. Voulez-vous directement aller à la sélection des scènes ?"
+    s "﻿Mes données indiquent que vous avez déjà vécu cette section d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
 
 # game/chapter2.rpy:228
 translate french _call_skiptut_11_84d46f4f:
 
     # s "It looks like you've seen this before. Skip to the scene selection?"
-    s "On dirait que vous avez déjà vu cela par le passé. Sauter à la sélection des scènes ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la sélection des scènes ?"
 
 # game/chapter2.rpy:236
 translate french _call_skiptut_11_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Et bien, il semble vous ayez déjà vu cela auparavant. Vous pouvez de nouveau revivre cela, ou alors on pourrait gagner un peu de temps et aller directement à la sélection des scènes."
+    s "Et bien, il semble vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des scènes."
 
 # game/chapter2.rpy:250
 translate french _call_skiptut_11_0054b77b:
