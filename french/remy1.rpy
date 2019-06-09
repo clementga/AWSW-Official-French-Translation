@@ -10,325 +10,325 @@ translate frenchtl remyhints_76b2fe88:
 translate frenchtl remyhints_c0bfdd08:
 
     # n "Hints:"
-    n ""
+    n "Indices"
 
 # game/remy1.rpy:8
 translate frenchtl remyhints_c3f728f1:
 
     # n "{i}The Third War{/i} is directly preceded by {i}The Spark{/i}."
-    n ""
+    n "{i}La Troisième Guerre{/i} est directement précédée par {i}L'étincelle{/i}"
 
 # game/remy1.rpy:9
 translate frenchtl remyhints_93914509:
 
     # n "{i}The First War{/i} is directly preceded by {i}The Inception{/i}."
-    n ""
+    n "{i}La Première Guerre{/i} est directement précédée par {i}La Génèse{/i}"
 
 # game/remy1.rpy:10
 translate frenchtl remyhints_59858f73:
 
     # n "{i}The Invention{/i} is not the third, seventh, or last book."
-    n ""
+    n "{i}L'invention{/i} n'est pas le troisième, le septième ou le dernier livre"
 
 # game/remy1.rpy:11
 translate frenchtl remyhints_2a5bc0b4:
 
     # n "{i}The Second War{/i} is the 4th book."
-    n ""
+    n "{i}La deuxième Guerre{/i} est le quatrième livre"
 
 # game/remy1.rpy:12
 translate frenchtl remyhints_be908dd2:
 
     # n "There is only one book before {i}The First War{/i}."
-    n ""
+    n "Il n'y a qu'un seul livre précédant {i}La Première Guerre{/i}"
 
 # game/remy1.rpy:13
 translate frenchtl remyhints_64fc1750:
 
     # n "{i}The Enlightenment{/i} comes at some point after {i}The Third War{/i}."
-    n ""
+    n "{i}L'Illumination{/i} se déroule quelque part après {i}La Troisième Guerre{/i}"
 
 # game/remy1.rpy:44
 translate frenchtl remy1_5a48632f:
 
     # c "(He told me to meet him in the lobby, but nobody's here. Maybe I should look for him. He can't be too far, after all.)"
-    c ""
+    c "(Il m'a dit de le retrouver à la réception, mais il n'y a personne. Peut être que je devrais aller le trouver. Il ne peut pas être loin après tout)"
 
 # game/remy1.rpy:63
 translate frenchtl _call_skiptut_22_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez vous passer cette scène?"
 
 # game/remy1.rpy:71
 translate frenchtl _call_skiptut_22_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène?"
 
 # game/remy1.rpy:79
 translate frenchtl _call_skiptut_22_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant.Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène."
 
 # game/remy1.rpy:94
 translate frenchtl _call_skiptut_22_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy1.rpy:115
 translate frenchtl _call_skipcheck_22_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy1.rpy:120
 translate frenchtl _call_skipcheck_22_6788763a:
 
     # m "It was quite a spacious building, lined with many bookcases on multiple floors. From the looks of it, it seemed to be as much of an archive as it was a library, with immaculate order permeating the chamber. It was the kind of place I could see myself getting lost in for an afternoon or two, thumbing through all the interesting books it could offer me."
-    m ""
+    m "Le bâtiment était assez spacieux, garni d'un grand nombre d'étagères, le tout sur plusieurs étages. En apparence, cela ressemblait plus à une salle d'archive qu'à une bibliothèque, à cause notamment de l'atmosphère ordonnée qui embaume la salle. C'était le genre de lieu dans lequel je me serais perdu volontier le temps d'une après midi ou deux, à feuilleter tout les livres passionnant que cet endroit avait à m'offrir."
 
 # game/remy1.rpy:121
 translate frenchtl _call_skipcheck_22_97628180:
 
     # m "I was looking around in wonder, when suddenly, a voice penetrated the silence."
-    m ""
+    m "J'étais en train de flâner, perdu dans mes pensées, quand soudain, une voix pénétra le silence."
 
 # game/remy1.rpy:125
 translate frenchtl _call_skipcheck_22_67f8c7af:
 
     # "???" "REMY!" with vpunch
-    "???" "" with vpunch
+    "???" "REMI" with vpunch
 
 # game/remy1.rpy:129
 translate frenchtl _call_skipcheck_22_b1af94d4:
 
     # Em "REMY!" with vpunch
-    Em "" with vpunch
+    Em "REMI" with vpunch
 
 # game/remy1.rpy:131
 translate frenchtl _call_skipcheck_22_5e2d76e5:
 
     # m "I couldn't see who the voice belonged to, but it came from the more private area in the back. It was followed by footsteps that approached it."
-    m ""
+    m "Je ne pouvais voir à qui la voix appartenait, mais elle avait l'air de venir d'une zone à l'accès plus restreint à l'arrière. Elle était suivi par des bruits de pas qui se rapprochèrent d'elle."
 
 # game/remy1.rpy:132
 translate frenchtl _call_skipcheck_22_6d9aa4da:
 
     # Ry "Oh, you're still here?"
-    Ry ""
+    Ry "Oh, vous êtes toujours là?"
 
 # game/remy1.rpy:136
 translate frenchtl _call_skipcheck_22_fb2c105e:
 
     # "???" "Of course I am still here. I have business to attend to."
-    "???" ""
+    "???" "Bien sûre que je suis toujours là. J'ai du travail à faire."
 
 # game/remy1.rpy:140
 translate frenchtl _call_skipcheck_22_8a10c49e:
 
     # Em "Of course I am still here. I have business to attend to."
-    Em ""
+    Em "Bien sûre que je suis toujours là. J'ai du travail à faire."
 
 # game/remy1.rpy:142
 translate frenchtl _call_skipcheck_22_4000d24e:
 
     # Ry "Certainly. I just assumed you'd be done by now, Emera."
-    Ry ""
+    Ry "Certainement. J'ai juste présumé que vous veniez de finir, Emera."
 
 # game/remy1.rpy:143
 translate frenchtl _call_skipcheck_22_3e416787:
 
     # Em "Guess your assumption was wrong, then. Be a good boy and bring me some coffee, will you?"
-    Em ""
+    Em "Il faut croire que ton hypothèse était erronée. Sois un gentil garçon et apporte moi du café, veux tu?"
 
 # game/remy1.rpy:144
 translate frenchtl _call_skipcheck_22_17c1de41:
 
     # Ry "Of course, Emera."
-    Ry ""
+    Ry "Bien sûr, Emera."
 
 # game/remy1.rpy:145
 translate frenchtl _call_skipcheck_22_088c5d29:
 
     # m "I heard more movement, though I still could not see either of the two who spoke behind all the bookcases. I assumed the area was off-limits to a visitor like myself and decided to wait."
-    m ""
+    m "J'ai entendu du mouvement, mais je ne pouvais apercevoir aucun des deux qui discutaient derrière les étagères. Je me suis dit que la section était probablement hors-limites pour un visiteur comme moi. Je décida donc d'attendre."
 
 # game/remy1.rpy:146
 translate frenchtl _call_skipcheck_22_74d7fe9d:
 
     # Ry "Here you go."
-    Ry ""
+    Ry "Voilà pour vous."
 
 # game/remy1.rpy:147
 translate frenchtl _call_skipcheck_22_a95ce9a8:
 
     # Em "Now let me read in peace, you silly boy."
-    Em ""
+    Em "Maintenant laisses moi lire en paix, espèce d'idiot."
 
 # game/remy1.rpy:148
 translate frenchtl _call_skipcheck_22_a45b01ce:
 
     # Ry "Of course."
-    Ry ""
+    Ry "Entendu."
 
 # game/remy1.rpy:149
 translate frenchtl _call_skipcheck_22_fd1c755b:
 
     # m "I heard him walk towards my direction, until he emerged from behind a bookcase and spotted me."
-    m ""
+    m "Je l'ai entendu marcher dans ma direction, jusqu'à ce qu'il émerge de derrière une étagère et me remarque."
 
 # game/remy1.rpy:153
 translate frenchtl _call_skipcheck_22_e9081a43:
 
     # Ry "Oh, hello [player_name]. I didn't expect you so soon."
-    Ry ""
+    Ry "Oh, bonjour [player_name]. Je ne t'attendais pas de sitôt."
 
 # game/remy1.rpy:168
 translate frenchtl _call_skipcheck_22_a0f3ef29:
 
     # Ry "Well, I'm glad to see you again, at any rate."
-    Ry ""
+    Ry "Quoi qu'il en soit, je suis content de te revoir."
 
 # game/remy1.rpy:173
 translate frenchtl _call_skipcheck_22_c591d661:
 
     # c "Was that Emera?"
-    c ""
+    c "Est-ce que c'était Emera?"
 
 # game/remy1.rpy:177
 translate frenchtl _call_skipcheck_22_eb5eccaf:
 
     # Ry "Y-Yes..."
-    Ry ""
+    Ry "O-oui..."
 
 # game/remy1.rpy:179
 translate frenchtl _call_skipcheck_22_7214cfe2:
 
     # c "Oh..."
-    c ""
+    c "Oh..."
 
 # game/remy1.rpy:181
 translate frenchtl _call_skipcheck_22_0edb3f5d:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy1.rpy:185
 translate frenchtl _call_skipcheck_22_db919de6:
 
     # c "Who was that back there?"
-    c ""
+    c "Qui était-ce à l'instant?"
 
 # game/remy1.rpy:189
 translate frenchtl _call_skipcheck_22_d65000d9:
 
     # Ry "I guess you heard that, didn't you? That was my superior. She's the Minister of Culture & Arts, which means I'm technically in her employment, though generally speaking I work for the council at large, not just her."
-    Ry ""
+    Ry "Il faut croire que tu as entendu cela, n'est-ce pas? C'était ma supérieure. C'est la Ministre de la Culture et des Arts, ce qui signifie que je suis techniquement son employé, bien que de manière plus général je travaille également pour le conseil, pas juste pour elle."
 
 # game/remy1.rpy:191
 translate frenchtl _call_skipcheck_22_50e9faed:
 
     # c "So this is where you work, huh?"
-    c ""
+    c "C'est donc là que tu travailles hein?"
 
 # game/remy1.rpy:195
 translate frenchtl _call_skipcheck_22_61ac3c30:
 
     # Ry "Most of the time, yes."
-    Ry ""
+    Ry "La plupart du temps, en effet."
 
 # game/remy1.rpy:196
 translate frenchtl _call_skipcheck_22_52050fce:
 
     # c "That makes you a librarian, I suppose."
-    c ""
+    c "Cela fait de toi un bibliothécaire, je suppose."
 
 # game/remy1.rpy:197
 translate frenchtl _call_skipcheck_22_ad82a65a:
 
     # Ry "There's a little more to it. I'm not just in charge of the books, I'm a scholar and study them, too."
-    Ry ""
+    Ry "Pas seulement. Je ne suis pas seulement en charge des livres. Je suis également un érudit qui les étudis."
 
 # game/remy1.rpy:198
 translate frenchtl _call_skipcheck_22_c6d1c1bf:
 
     # Ry "For example, if the council requests knowledge on certain topics, like facts, statistics or other information of interest, it is part of my job to research it and present it to them in an appropriate manner."
-    Ry ""
+    Ry "Par exemple, si le conseil ont besoin de connaissances sur certains sujets, comme des faits, des statistiques ou d'autres informations pertinentes, une partie de mon travail consiste à faire les recherches et à leur présenter le tout de façon apporpriée."
 
 # game/remy1.rpy:202
 translate frenchtl _call_skipcheck_22_9dd4aac9:
 
     # Ry "No, just an expert at finding information."
-    Ry ""
+    Ry "Non, juste un expert pour trouver les informations"
 
 # game/remy1.rpy:208
 translate frenchtl _call_skipcheck_22_d05a30c6:
 
     # Ry "Guess you came to the right place, then."
-    Ry ""
+    Ry "Il faut croire que tu es au bon endroit, alors."
 
 # game/remy1.rpy:215
 translate frenchtl _call_skipcheck_22_b9bec562:
 
     # Ry "I suppose it's a good thing that I am the one who works here and not you."
-    Ry ""
+    Ry "Je suppose que c'est une bonne chose que je sois celui qui travaille ici et pas toi."
 
 # game/remy1.rpy:218
 translate frenchtl _call_skipcheck_22_1f3452ca:
 
     # Ry "Anyways, was there a particular reason why you wanted to meet me?"
-    Ry ""
+    Ry "A part cela, y avait-il une raison pour laquelle tu désirais me voir?"
 
 # game/remy1.rpy:225
 translate frenchtl _call_skipcheck_22_adca4501:
 
     # Ry "D-Don't say that."
-    Ry ""
+    Ry "N-ne dis pas une chose pareil."
 
 # game/remy1.rpy:232
 translate frenchtl _call_skipcheck_22_7f4176ad:
 
     # Ry "Oh, right! I still have work to do, but I could show you something afterwards."
-    Ry ""
+    Ry "Oh, oui bien sûr! J'ai encore du travail à faire, mais je pourrai éventuellement te montrer quelque chose après."
 
 # game/remy1.rpy:236
 translate frenchtl _call_skipcheck_22_5be30e2a:
 
     # Ry "I'll just take that as a compliment."
-    Ry ""
+    Ry "Je vais prendre ça comme un compliment."
 
 # game/remy1.rpy:238
 translate frenchtl _call_skipcheck_22_98dde53e:
 
     # Ry "Either way, now that you're here, you could help me with something. I've got some books that need to be sorted over there."
-    Ry ""
+    Ry "Quoi qu'il en soit, maintenant que tu es ici, tu pourrais m'aider pour quelque chose. J'ai quelques livres là bas qui doivent être classé."
 
 # game/remy1.rpy:242
 translate frenchtl _call_skipcheck_22_d214d454:
 
     # Ry "Are you sure? This could take a while and I don't want to keep you waiting."
-    Ry ""
+    Ry "En est tu sûr? Cela pourrai prendre un moment et je ne veux pas te faire attendre."
 
 # game/remy1.rpy:245
 translate frenchtl _call_skipcheck_22_3b7b76ba:
 
     # Ry "Very well."
-    Ry ""
+    Ry "Très bien."
 
 # game/remy1.rpy:248
 translate frenchtl _call_skipcheck_22_fd7f4b2e:
 
     # Ry "In that case, you should probably wait outside. I don't think the staff would approve of you loitering in the lobby."
-    Ry ""
+    Ry "Dans ce cas tu devrais peut être attendre dehors. Je ne pense pas que le personnel approuverait que tu rôdes dans le lobby de la sorte."
 
 # game/remy1.rpy:249
 translate frenchtl _call_skipcheck_22_255ecca1:
 
     # c "I will."
-    c ""
+    c "Ca marche"
 
 # game/remy1.rpy:254
 translate frenchtl _call_skipcheck_22_76b2fe88:
@@ -2080,75 +2080,75 @@ translate frenchtl strings:
 
     # remy1.rpy:26
     old "Chapter 4 - Remy 1"
-    new ""
+    new "Chapitre 4 - Rémi 1"
 
     # remy1.rpy:30
     old "Chapter 3 - Remy 1"
-    new ""
+    new "Chapitre 3 - Rémi 1"
 
     # remy1.rpy:34
     old "Chapter 2 - Remy 1"
-    new ""
+    new "Chapitre 2 - Rémi 1"
 
     # remy1.rpy:38
     old "Chapter 1 - Remy 1"
-    new ""
+    new "Chapitre 1 - Rémi 1"
 
     # remy1.rpy:155
     old "Not like I had anything better to do."
-    new ""
+    new "Ce n'est pas comme si j'avais quelque chose de mieux à faire"
 
     # remy1.rpy:155
     old "Better be safe than sorry."
-    new ""
+    new "Mieux vaut tard qu jamais."
 
     # remy1.rpy:155
     old "Yeah, I probably shouldn't have come at all."
-    new ""
+    new "Ouais, j'aurais mieux fait de ne pas venir du tout."
 
     # remy1.rpy:200
     old "So, basically you're an expert on everything?"
-    new ""
+    new "Donc, à la base tu es un expert sur tout les sujets."
 
     # remy1.rpy:200
     old "That sounds like the kind of thing I'd like to do."
-    new ""
+    new "Ca a l'air du genre de chose que j'aimerais faire."
 
     # remy1.rpy:200
     old "Just thinking about doing that kind of work day after day gives me a headache."
-    new ""
+    new "Le simple fait de penser à ce genre de travail me donne mal au crâne."
 
     # remy1.rpy:220
     old "You're just too damn cute, that's why."
-    new ""
+    new "Tu es juste trop mignon, voilà pourquoi"
 
     # remy1.rpy:220
     old "I was interested in what you said the other day. You have myths about humans?"
-    new ""
+    new "Ce que tu m'as dit l'autre jour m'a intéressé. Vous avez des mythes au sujet des humains?"
 
     # remy1.rpy:220
     old "I was bored and coming here seemed to be the most interesting option."
-    new ""
+    new "Je m'ennuyais et venir ici semblait être la meilleure option."
 
     # remy1.rpy:240
     old "I respectfully decline your request for help."
-    new ""
+    new "Je vais respectueusement décliner ta demande."
 
     # remy1.rpy:240
     old "Sure, not like I have anything better to do."
-    new ""
+    new "Bien sûr, ce n'est pas comme si j'avais mieux à faire."
 
     # remy1.rpy:240
     old "Alright. How do I fit them in, alphabetically?"
-    new ""
+    new "Ca marche. Comment je les range. Par ordre alphabétique?"
 
     # remy1.rpy:243
     old "I have reconsidered my stance on this matter and have decided to help you."
-    new ""
+    new "J'ai reconsidéré ma position sur le problème et ai décidé de t'aider."
 
     # remy1.rpy:243
     old "I'm sure."
-    new ""
+    new "J'en suis sûr"
 
     # remy1.rpy:292
     old "That does sound very intuitive."
@@ -2401,4 +2401,3 @@ translate frenchtl strings:
     # remy1.rpy:1705
     old "How about a kiss?"
     new ""
-
