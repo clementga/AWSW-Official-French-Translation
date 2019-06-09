@@ -20,7 +20,7 @@ images ✘<br/>
 script ✘<br/>
 chapter1 ✘<br/>
 adine1 ✔<br/>
-anna1 En cours<br/>
+anna1 En cours (Obscurity Dragon)<br/>
 bryce1 ✘<br/>
 lorem1 ✔<br/>
 remy1 ✘<br/>
@@ -28,15 +28,15 @@ xsebastian ✘<br/>
 endings ✘<br/>
 chapter2 ✔<br/>
 adine2 ✔<br/>
-anna2 En cours<br/>
+anna2 En cours (Obscurity Dragon)<br/>
 bryce2 ✘<br/>
 lorem2 ✔<br/>
 remy2 ✘<br/>
 xemera ✔<br/>
 xzhong ✔<br/>
 chapter3 ✘<br/>
-adine3 En cours<br/>
-anna3 En cours<br/>
+adine3 En cours (alpha the dragon)<br/>
+anna3 En cours (Obscurity Dragon)<br/>
 bryce3 ✘<br/>
 lorem3 ✔<br/>
 remy3 ✘<br/>
