@@ -6,8 +6,10 @@ Composition du git :<br/>
 - "_updated translation files" : les fichiers de traduction vierges, dernière MaJ le 09/06/2019. Veuillez utilisez ceux-ci désormais
 - "french" : toutes les traductions faites/en cours sont stockées ici
 - "fr_trad_mod" : le mod permettant de charger les traductions dans le jeu pour les tester
+- "Tester les traductions en jeu.md" : contient les instructions pour utiliser le mod pour tester les traductions
+- "Harmonisation.md" : contient la liste des différentes décisions prises en matière d'harmonisation du travail entre les différents traducteurs. Merci de bien garder en tête ce qui y est écrit !
 
-Fichiers traduits (✘ = non fait, ✔ = fait, ✔✔✔ = version définitive relue) :
+Fichiers traduits (✘ = non fait, ✔ = fait, ✔✔ = relu, ✔✔✔ = version définitive) :
 
 common ✘<br/>
 dv ✘<br/>
@@ -18,7 +20,7 @@ images ✘<br/>
 script ✘<br/>
 chapter1 ✘<br/>
 adine1 ✔<br/>
-anna1 ✘<br/>
+anna1 En cours<br/>
 bryce1 ✘<br/>
 lorem1 ✔<br/>
 remy1 ✘<br/>
@@ -26,15 +28,15 @@ xsebastian ✘<br/>
 endings ✘<br/>
 chapter2 ✔<br/>
 adine2 ✔<br/>
-anna2 ✘<br/>
+anna2 En cours<br/>
 bryce2 ✘<br/>
 lorem2 ✔<br/>
 remy2 ✘<br/>
 xemera ✔<br/>
 xzhong ✔<br/>
 chapter3 ✘<br/>
-adine3 en cours<br/>
-anna3 ✘<br/>
+adine3 En cours<br/>
+anna3 En cours<br/>
 bryce3 ✘<br/>
 lorem3 ✔<br/>
 remy3 ✘<br/>
