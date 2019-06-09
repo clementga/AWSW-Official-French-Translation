@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+﻿# TODO: Translation updated at 2019-06-07 17:56
 
-translate frenchtl strings:
+translate french strings:
 
     # images.rpy:1137
     old "Remy"

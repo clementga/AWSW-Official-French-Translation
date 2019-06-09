@@ -1,1794 +1,1794 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+﻿# TODO: Translation updated at 2019-06-07 17:56
 
 # game/adine1.rpy:27
-translate frenchtl adine1_b66a50f0:
+translate french adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
     m ""
 
 # game/adine1.rpy:32
-translate frenchtl adine1_d60c0822:
+translate french adine1_d60c0822:
 
     # c "(Well, that was quick.)"
     c ""
 
 # game/adine1.rpy:39
-translate frenchtl adine1_245dbdc1:
+translate french adine1_245dbdc1:
 
     # m "It just so happened that Adine herself stood in the doorway, dripping wet and with damp containers in her grip."
     m ""
 
 # game/adine1.rpy:61
-translate frenchtl adine1_c084e644:
+translate french adine1_c084e644:
 
     # Ad "Oh, it's you."
     Ad ""
 
 # game/adine1.rpy:63
-translate frenchtl adine1_2ec83f33:
+translate french adine1_2ec83f33:
 
-    # Ad think b "I thought they sent you away after everything that's going on." This and the next few lines refer to when this scene is played in chapter 3 or later. Remember that we meet adine and say goodbye to her in chapter 3 when we are ordered by Emera to go back to the Human world. Adine in this instance doesn't know that we ultimately stayed.
+    # Ad think b "I thought they sent you away after everything that's going on."
     Ad think b ""
 
 # game/adine1.rpy:65
-translate frenchtl adine1_ba9efa2f:
+translate french adine1_ba9efa2f:
 
     # c "They changed their minds, so I suppose you'll be stuck with me for a little while longer."
     c ""
 
 # game/adine1.rpy:67
-translate frenchtl adine1_c84f55d5:
+translate french adine1_c84f55d5:
 
     # Ad normal b "I see."
     Ad normal b ""
 
 # game/adine1.rpy:73
-translate frenchtl adine1_796a7e39:
+translate french adine1_796a7e39:
 
     # Ad "Oh, it's you again."
     Ad ""
 
 # game/adine1.rpy:79
-translate frenchtl adine1_7c3e6087:
+translate french adine1_7c3e6087:
 
     # Ad "I do remember your name, though. It was... [player_name], right?"
     Ad ""
 
 # game/adine1.rpy:80
-translate frenchtl adine1_56d0beb3:
+translate french adine1_56d0beb3:
 
     # c "That's right."
     c ""
 
 # game/adine1.rpy:83
-translate frenchtl adine1_9d2d1212:
+translate french adine1_9d2d1212:
 
     # Ad "Shouldn't come as a surprise, considering you knew I deliver for the café."
     Ad ""
 
 # game/adine1.rpy:85
-translate frenchtl adine1_56e644c8:
+translate french adine1_56e644c8:
 
     # Ad "Hey."
     Ad ""
 
 # game/adine1.rpy:88
-translate frenchtl adine1_1cc03842:
+translate french adine1_1cc03842:
 
     # Ad "Here's your order. Sorry, it got a little wet, but it should still be okay."
     Ad ""
 
 # game/adine1.rpy:94
-translate frenchtl adine1choice1_e6f972e8:
+translate french adine1choice1_e6f972e8:
 
     # Ad "It's raining pretty heavily outside, that's all."
     Ad ""
 
 # game/adine1.rpy:100
-translate frenchtl adine1choice1_9a5ca63d:
+translate french adine1choice1_9a5ca63d:
 
     # Ad "Thanks, I was just about to ask you if I could stay for a little while. This was actually my last delivery for the day, and I live on the other side of town."
     Ad ""
 
 # game/adine1.rpy:101
-translate frenchtl adine1choice1_be0b9602:
+translate french adine1choice1_be0b9602:
 
     # c "Of course, I couldn't let you fly back when it's this ugly outside."
     c ""
 
 # game/adine1.rpy:105
-translate frenchtl adine1choice1_8c2647a6:
+translate french adine1choice1_8c2647a6:
 
     # m "I was just about to close the door in her face again when she suddenly spoke up."
     m ""
 
 # game/adine1.rpy:107
-translate frenchtl adine1choice1_db4b5fa0:
+translate french adine1choice1_db4b5fa0:
 
     # Ad "Wait."
     Ad ""
 
 # game/adine1.rpy:108
-translate frenchtl adine1choice1_0f173ebb:
+translate french adine1choice1_0f173ebb:
 
     # c "What is it?"
     c ""
 
 # game/adine1.rpy:110
-translate frenchtl adine1choice1_f8bbc1ff:
+translate french adine1choice1_f8bbc1ff:
 
     # Ad "Do you think I could come in for a few minutes? It's raining pretty heavily outside, and this was my last delivery for the day. I actually live on the other side of town, and I don't really want to fly back in the rain."
     Ad ""
 
 # game/adine1.rpy:117
-translate frenchtl menadine_b2d97902:
+translate french menadine_b2d97902:
 
     # Ad "Thank you."
     Ad ""
 
 # game/adine1.rpy:126
-translate frenchtl menadine_76b2fe88:
+translate french menadine_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/adine1.rpy:128
-translate frenchtl menadine_544afc3c:
+translate french menadine_544afc3c:
 
     # n "Without another word, I closed the door, with nothing now separating me from the delights of the slightly soggy food before me."
     n ""
 
 # game/adine1.rpy:129
-translate frenchtl menadine_a00b0992:
+translate french menadine_a00b0992:
 
     # n "I opened my container in anticipation, but what I found inside wasn't at all what I was expecting. It was noodles, with chicken and some sort of sauce."
     n ""
 
 # game/adine1.rpy:130
-translate frenchtl menadine_07803e25:
+translate french menadine_07803e25:
 
     # n "The problem was, I hadn't ordered noodles. I rushed to the door, wondering what had gone wrong and what I had done to deserve this, but it was too late."
     n ""
 
 # game/adine1.rpy:131
-translate frenchtl menadine_54475cd1:
+translate french menadine_54475cd1:
 
     # n "Adine was already gone."
     n ""
 
 # game/adine1.rpy:156
-translate frenchtl menadine_b01b710e:
+translate french menadine_b01b710e:
 
     # Ad "Thank you!"
     Ad ""
 
 # game/adine1.rpy:162
-translate frenchtl menadine_68d0fcf9:
+translate french menadine_68d0fcf9:
 
     # Ad "Come on, don't make me fly in the rain like this. Please?"
     Ad ""
 
 # game/adine1.rpy:188
-translate frenchtl _call_skiptut_10_0ff5f677:
+translate french _call_skiptut_10_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
     s ""
 
 # game/adine1.rpy:196
-translate frenchtl _call_skiptut_10_eee83226:
+translate french _call_skiptut_10_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
     s ""
 
 # game/adine1.rpy:204
-translate frenchtl _call_skiptut_10_e7709aa0:
+translate french _call_skiptut_10_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
     s ""
 
 # game/adine1.rpy:218
-translate frenchtl _call_skiptut_10_0054b77b:
+translate french _call_skiptut_10_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
     s ""
 
 # game/adine1.rpy:251
-translate frenchtl _call_skipcheck_10_0054b77b:
+translate french _call_skipcheck_10_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
     s ""
 
 # game/adine1.rpy:254
-translate frenchtl _call_skipcheck_10_e53dbbb3:
+translate french _call_skipcheck_10_e53dbbb3:
 
     # c "Feel right at home. I better eat this before it gets cold."
     c ""
 
 # game/adine1.rpy:257
-translate frenchtl _call_skipcheck_10_f212dc62:
+translate french _call_skipcheck_10_f212dc62:
 
     # m "I sat down at the table and started eating my food while Adine decided to take a seat opposite of myself."
     m ""
 
 # game/adine1.rpy:260
-translate frenchtl _call_skipcheck_10_58b7831b:
+translate french _call_skipcheck_10_58b7831b:
 
     # Ad "Do you like it?"
     Ad ""
 
 # game/adine1.rpy:263
-translate frenchtl _call_skipcheck_10_d2241b6c:
+translate french _call_skipcheck_10_d2241b6c:
 
     # c "Yeah, I ordered something I knew I'd actually like this time. I didn't want to make the same mistake I did earlier today."
     c ""
 
 # game/adine1.rpy:265
-translate frenchtl _call_skipcheck_10_d9534b58:
+translate french _call_skipcheck_10_d9534b58:
 
     # c "Yeah, it's actually quite good."
     c ""
 
 # game/adine1.rpy:267
-translate frenchtl _call_skipcheck_10_502163a4:
+translate french _call_skipcheck_10_502163a4:
 
     # Ad "Do you have something similar where you come from?"
     Ad ""
 
 # game/adine1.rpy:268
-translate frenchtl _call_skipcheck_10_a47ef0d2:
+translate french _call_skipcheck_10_a47ef0d2:
 
     # c "We do. As a matter of fact, it's almost scary how close it is to what we have back home."
     c ""
 
 # game/adine1.rpy:272
-translate frenchtl _call_skipcheck_10_1571c3b3:
+translate french _call_skipcheck_10_1571c3b3:
 
     # Ad "Really? Maybe we all just share a similar taste."
     Ad ""
 
 # game/adine1.rpy:278
-translate frenchtl _call_skipcheck_10_f57b79ce:
+translate french _call_skipcheck_10_f57b79ce:
 
     # Ad "At least, that's what I think."
     Ad ""
 
 # game/adine1.rpy:282
-translate frenchtl _call_skipcheck_10_5727fe5d:
+translate french _call_skipcheck_10_5727fe5d:
 
     # Ad "What do you mean?"
     Ad ""
 
 # game/adine1.rpy:283
-translate frenchtl _call_skipcheck_10_e241a15e:
+translate french _call_skipcheck_10_e241a15e:
 
     # c "Well, don't you trace your origins back to humans in some way? I know what kind of reputation we have in your culture."
     c ""
 
 # game/adine1.rpy:285
-translate frenchtl _call_skipcheck_10_629d7ddb:
+translate french _call_skipcheck_10_629d7ddb:
 
     # Ad "That is true."
     Ad ""
 
 # game/adine1.rpy:286
-translate frenchtl _call_skipcheck_10_45ce6c6a:
+translate french _call_skipcheck_10_45ce6c6a:
 
     # c "Let me ask you this: Where do you think the portal you found came from? Who built it?"
     c ""
 
 # game/adine1.rpy:288
-translate frenchtl _call_skipcheck_10_ef636fcf:
+translate french _call_skipcheck_10_ef636fcf:
 
     # Ad "Humans did it, of course."
     Ad ""
 
 # game/adine1.rpy:290
-translate frenchtl _call_skipcheck_10_4ab51b92:
+translate french _call_skipcheck_10_4ab51b92:
 
     # c "Exactly. If you believe humans had something to do with an artifact created who knows how many years ago, it wouldn't be a stretch to think they could have also influenced you in other ways."
     c ""
 
 # game/adine1.rpy:292
-translate frenchtl _call_skipcheck_10_9fafc86f:
+translate french _call_skipcheck_10_9fafc86f:
 
     # Ad "Even something as simple as this dish? I like that idea."
     Ad ""
 
 # game/adine1.rpy:299
-translate frenchtl _call_skipcheck_10_24fbdd31:
+translate french _call_skipcheck_10_24fbdd31:
 
     # Ad "I thought you just did."
     Ad ""
 
 # game/adine1.rpy:302
-translate frenchtl _call_skipcheck_10_a0052a82:
+translate french _call_skipcheck_10_a0052a82:
 
     # c "So, what do you do when you aren't working in the restaurant? Do you have a family?"
     c ""
 
 # game/adine1.rpy:303
-translate frenchtl _call_skipcheck_10_558a112a:
+translate french _call_skipcheck_10_558a112a:
 
     # Ad "Well, most of the time I take care of my kids."
     Ad ""
 
 # game/adine1.rpy:304
-translate frenchtl _call_skipcheck_10_77d64a46:
+translate french _call_skipcheck_10_77d64a46:
 
     # c "Oh, nice. How many children do you have?"
     c ""
 
 # game/adine1.rpy:305
-translate frenchtl _call_skipcheck_10_2463bcdc:
+translate french _call_skipcheck_10_2463bcdc:
 
     # Ad "They aren't really my children, per se. I just take care of them."
     Ad ""
 
 # game/adine1.rpy:306
-translate frenchtl _call_skipcheck_10_6ab075ea:
+translate french _call_skipcheck_10_6ab075ea:
 
     # c "You are more of a foster parent, then?"
     c ""
 
 # game/adine1.rpy:307
-translate frenchtl _call_skipcheck_10_4252207b:
+translate french _call_skipcheck_10_4252207b:
 
     # Ad "Not quite. These are orphaned children I'm talking about. I just volunteer to spend some time with them, so I'm really more of a babysitter and teacher all in one."
     Ad ""
 
 # game/adine1.rpy:309
-translate frenchtl _call_skipcheck_10_719209ef:
+translate french _call_skipcheck_10_719209ef:
 
     # Ad "I can't really take them in and care for them 24/7 like a proper parent would. I'd love to, but I work far too much to be a single parent."
     Ad ""
 
 # game/adine1.rpy:310
-translate frenchtl _call_skipcheck_10_6dae616b:
+translate french _call_skipcheck_10_6dae616b:
 
     # Ad "With the amount of time I spend at the restaurant, I don't think the kids would be any better off, so I just help out whenever I can."
     Ad ""
 
 # game/adine1.rpy:311
-translate frenchtl _call_skipcheck_10_8a56387f:
+translate french _call_skipcheck_10_8a56387f:
 
     # c "That's very nice of you."
     c ""
 
 # game/adine1.rpy:313
-translate frenchtl _call_skipcheck_10_03b324fd:
+translate french _call_skipcheck_10_03b324fd:
 
     # Ad "Thanks. These kids already didn't get a very good hand in life. I just thought that if I can make even a small difference for them it'd be worth it."
     Ad ""
 
 # game/adine1.rpy:314
-translate frenchtl _call_skipcheck_10_d29d4197:
+translate french _call_skipcheck_10_d29d4197:
 
     # c "I see. What about hobbies? Do you have any?"
     c ""
 
 # game/adine1.rpy:318
-translate frenchtl _call_skipcheck_10_ebf1fe4b:
+translate french _call_skipcheck_10_ebf1fe4b:
 
     # Ad "Can I ask a question for a change?"
     Ad ""
 
 # game/adine1.rpy:328
-translate frenchtl _call_skipcheck_10_f8d5feb5:
+translate french _call_skipcheck_10_f8d5feb5:
 
     # Ad "What? Why not?"
     Ad ""
 
 # game/adine1.rpy:329
-translate frenchtl _call_skipcheck_10_ac95ba08:
+translate french _call_skipcheck_10_ac95ba08:
 
     # c "Just kidding. Go ahead."
     c ""
 
 # game/adine1.rpy:335
-translate frenchtl _call_skipcheck_10_cdd3e6f5:
+translate french _call_skipcheck_10_cdd3e6f5:
 
     # Ad "You're silly. I like that."
     Ad ""
 
 # game/adine1.rpy:338
-translate frenchtl _call_skipcheck_10_75906cf7:
+translate french _call_skipcheck_10_75906cf7:
 
     # Ad "Well, I don't really know much about you. Actually, I'm not sure if there is anyone here who does."
     Ad ""
 
 # game/adine1.rpy:339
-translate frenchtl _call_skipcheck_10_41444a40:
+translate french _call_skipcheck_10_41444a40:
 
     # c "What would you like to know?"
     c ""
 
 # game/adine1.rpy:341
-translate frenchtl _call_skipcheck_10_0dce8ee6:
+translate french _call_skipcheck_10_0dce8ee6:
 
     # Ad "What did you do before you came here?"
     Ad ""
 
 # game/adine1.rpy:346
-translate frenchtl _call_skipcheck_10_52e199a5:
+translate french _call_skipcheck_10_52e199a5:
 
     # c "Nothing special, really. I mean, I have my degrees, but this is the first time I did something that was actually related to them. The work I did previously was just to keep afloat."
     c ""
 
 # game/adine1.rpy:348
-translate frenchtl _call_skipcheck_10_4b7f20ab:
+translate french _call_skipcheck_10_4b7f20ab:
 
     # Ad "I know what you mean."
     Ad ""
 
 # game/adine1.rpy:353
-translate frenchtl _call_skipcheck_10_02e1a99e:
+translate french _call_skipcheck_10_02e1a99e:
 
     # c "Nun."
     c ""
 
 # game/adine1.rpy:354
-translate frenchtl _call_skipcheck_10_31f04825:
+translate french _call_skipcheck_10_31f04825:
 
     # Ad "Nun? What do you mean?"
     Ad ""
 
 # game/adine1.rpy:355
-translate frenchtl _call_skipcheck_10_939a58e1:
+translate french _call_skipcheck_10_939a58e1:
 
     # c "I mean that it's {i}nun{/i} of your business."
     c ""
 
 # game/adine1.rpy:357
-translate frenchtl _call_skipcheck_10_91cd4cae:
+translate french _call_skipcheck_10_91cd4cae:
 
     # Ad "Okay..."
     Ad ""
 
 # game/adine1.rpy:363
-translate frenchtl _call_skipcheck_10_d049fb42:
+translate french _call_skipcheck_10_d049fb42:
 
     # Ad "Of course it is."
     Ad ""
 
 # game/adine1.rpy:366
-translate frenchtl _call_skipcheck_10_0cc7643e:
+translate french _call_skipcheck_10_0cc7643e:
 
     # c "I suppose it's my turn again, so tell me about your hobbies."
     c ""
 
 # game/adine1.rpy:367
-translate frenchtl _call_skipcheck_10_cc546db3:
+translate french _call_skipcheck_10_cc546db3:
 
     # Ad "The one I enjoy most is probably flying."
     Ad ""
 
 # game/adine1.rpy:368
-translate frenchtl _call_skipcheck_10_37f5b9ba:
+translate french _call_skipcheck_10_37f5b9ba:
 
     # c "Just flying?"
     c ""
 
 # game/adine1.rpy:370
-translate frenchtl _call_skipcheck_10_4b4db401:
+translate french _call_skipcheck_10_4b4db401:
 
     # Ad "Well, not {i}just{/i} flying."
     Ad ""
 
 # game/adine1.rpy:372
-translate frenchtl _call_skipcheck_10_43ec0d7d:
+translate french _call_skipcheck_10_43ec0d7d:
 
     # Ad "I do Aerobatics, or stunt flying. I've been doing that on and off for a couple of years now."
     Ad ""
 
 # game/adine1.rpy:379
-translate frenchtl _call_skipcheck_10_f106bf6f:
+translate french _call_skipcheck_10_f106bf6f:
 
     # Ad "Actually, that might not be so far from the truth."
     Ad ""
 
 # game/adine1.rpy:386
-translate frenchtl _call_skipcheck_10_a846bbc7:
+translate french _call_skipcheck_10_a846bbc7:
 
     # Ad "That's what hobbies are for, though, right? It's just something I enjoy doing."
     Ad ""
 
 # game/adine1.rpy:390
-translate frenchtl _call_skipcheck_10_abbb67c9:
+translate french _call_skipcheck_10_abbb67c9:
 
     # Ad "It's the practice of doing flying maneuvers like rolls, spins or loops."
     Ad ""
 
 # game/adine1.rpy:392
-translate frenchtl _call_skipcheck_10_3a20ab9d:
+translate french _call_skipcheck_10_3a20ab9d:
 
     # Ad "I'm actually hoping to be part of a competition in some time."
     Ad ""
 
 # game/adine1.rpy:399
-translate frenchtl _call_skipcheck_10_e2d25ad9:
+translate french _call_skipcheck_10_e2d25ad9:
 
     # Ad "Just because I can fly in the rain doesn't mean that I want to."
     Ad ""
 
 # game/adine1.rpy:402
-translate frenchtl _call_skipcheck_10_a6751830:
+translate french _call_skipcheck_10_a6751830:
 
     # Ad "That's what I'm trying to find out."
     Ad ""
 
 # game/adine1.rpy:406
-translate frenchtl _call_skipcheck_10_3a15203a:
+translate french _call_skipcheck_10_3a15203a:
 
     # Ad "I suppose that depends on whether you will still be here when it takes place. It's part of a festival we hold in this town every year."
     Ad ""
 
 # game/adine1.rpy:409
-translate frenchtl _call_skipcheck_10_410ee6b4:
+translate french _call_skipcheck_10_410ee6b4:
 
     # Ad "Okay, since it is my turn again, well..."
     Ad ""
 
 # game/adine1.rpy:411
-translate frenchtl _call_skipcheck_10_02d2db07:
+translate french _call_skipcheck_10_02d2db07:
 
     # Ad "This might be an unusual question, so... When they said it was a human that would be coming here, I kinda expected something a little different."
     Ad ""
 
 # game/adine1.rpy:418
-translate frenchtl _call_skipcheck_10_9beac2da:
+translate french _call_skipcheck_10_9beac2da:
 
     # Ad "You know what I mean..."
     Ad ""
 
 # game/adine1.rpy:424
-translate frenchtl _call_skipcheck_10_2f44ec25:
+translate french _call_skipcheck_10_2f44ec25:
 
     # Ad "I'm not sure exactly, but they do say it was humans that made us who we are today. You don't seem so different from us, though."
     Ad ""
 
 # game/adine1.rpy:427
-translate frenchtl _call_skipcheck_10_53f42aeb:
+translate french _call_skipcheck_10_53f42aeb:
 
     # c "I know. Remy told me about some of the commonly held beliefs here."
     c ""
 
 # game/adine1.rpy:430
-translate frenchtl _call_skipcheck_10_ac2a2159:
+translate french _call_skipcheck_10_ac2a2159:
 
     # Ad "I mean, yeah, you do look different from us, but you're not really anything like some of the things that have been said about your kind."
     Ad ""
 
 # game/adine1.rpy:431
-translate frenchtl _call_skipcheck_10_91928a3d:
+translate french _call_skipcheck_10_91928a3d:
 
     # c "I could say the same thing about you."
     c ""
 
 # game/adine1.rpy:433
-translate frenchtl _call_skipcheck_10_c097ab55:
+translate french _call_skipcheck_10_c097ab55:
 
     # Ad "Really?"
     Ad ""
 
 # game/adine1.rpy:434
-translate frenchtl _call_skipcheck_10_93f88486:
+translate french _call_skipcheck_10_93f88486:
 
     # c "Yeah, we have plenty of myths about dragons."
     c ""
 
 # game/adine1.rpy:438
-translate frenchtl _call_skipcheck_10_8b9da41f:
+translate french _call_skipcheck_10_8b9da41f:
 
     # Ad "Like what?"
     Ad ""
 
 # game/adine1.rpy:442
-translate frenchtl _call_skipcheck_10_c21eb134:
+translate french _call_skipcheck_10_c21eb134:
 
     # c "There are just too many to list. Some of them good, some not so much."
     c ""
 
 # game/adine1.rpy:444
-translate frenchtl _call_skipcheck_10_8abc6d5e:
+translate french _call_skipcheck_10_8abc6d5e:
 
     # Ad "Sounds like what we have on you, actually. Now that I see one of you right in front of me, it's almost silly what some of the myths say."
     Ad ""
 
 # game/adine1.rpy:452
-translate frenchtl _call_skipcheck_10_54e6a0c5:
+translate french _call_skipcheck_10_54e6a0c5:
 
     # c "Well, according to some, you are greedy, man-eating monsters, and also sometimes associated with evil and the apocalypse."
     c ""
 
 # game/adine1.rpy:454
-translate frenchtl _call_skipcheck_10_b7bc313e:
+translate french _call_skipcheck_10_b7bc313e:
 
     # Ad "Well, that's not very nice."
     Ad ""
 
 # game/adine1.rpy:456
-translate frenchtl _call_skipcheck_10_fbe98f30:
+translate french _call_skipcheck_10_fbe98f30:
 
     # Ad "Though to be fair, some of what we have about you isn't very nice, either."
     Ad ""
 
 # game/adine1.rpy:458
-translate frenchtl _call_skipcheck_10_db56dd45:
+translate french _call_skipcheck_10_db56dd45:
 
     # c "Phew, good to know you aren't vicious monsters, then."
     c ""
 
 # game/adine1.rpy:459
-translate frenchtl _call_skipcheck_10_e5322ba8:
+translate french _call_skipcheck_10_e5322ba8:
 
     # Ad "Oh, we can be vicious if we want to be. We just usually know better."
     Ad ""
 
 # game/adine1.rpy:465
-translate frenchtl _call_skipcheck_10_377987b8:
+translate french _call_skipcheck_10_377987b8:
 
     # c "They are often cited as a symbol of power and strength, but also one of wisdom, possessing an intellect that has no equal. They are noble creatures, and their depictions enjoy an almost universal appeal."
     c ""
 
 # game/adine1.rpy:466
-translate frenchtl _call_skipcheck_10_d7e7b442:
+translate french _call_skipcheck_10_d7e7b442:
 
     # Ad "I could get used to that, though it would be even nicer if it were all true."
     Ad ""
 
 # game/adine1.rpy:468
-translate frenchtl _call_skipcheck_10_9fd77ad2:
+translate french _call_skipcheck_10_9fd77ad2:
 
     # Ad "To be honest, I don't know if it's such a good idea to generalize like that - even if it's good things you're saying about us. We're all different, you know, and not all of us are nice."
     Ad ""
 
 # game/adine1.rpy:470
-translate frenchtl _call_skipcheck_10_89aefe22:
+translate french _call_skipcheck_10_89aefe22:
 
     # c "I see."
     c ""
 
 # game/adine1.rpy:471
-translate frenchtl _call_skipcheck_10_c249e3f8:
+translate french _call_skipcheck_10_c249e3f8:
 
     # Ad "But then, we have said many good things about your kind, too."
     Ad ""
 
 # game/adine1.rpy:476
-translate frenchtl _call_skipcheck_10_0eb9375b:
+translate french _call_skipcheck_10_0eb9375b:
 
     # c "Well, no matter what you might think about humans, I can assure you that I am in no way special or supernatural."
     c ""
 
 # game/adine1.rpy:478
-translate frenchtl _call_skipcheck_10_a498f8f9:
+translate french _call_skipcheck_10_a498f8f9:
 
     # Ad "I disagree with that."
     Ad ""
 
 # game/adine1.rpy:479
-translate frenchtl _call_skipcheck_10_4e5a4202:
+translate french _call_skipcheck_10_4e5a4202:
 
     # c "Why?"
     c ""
 
 # game/adine1.rpy:481
-translate frenchtl _call_skipcheck_10_dc481bac:
+translate french _call_skipcheck_10_dc481bac:
 
     # Ad "You say that you aren't special, but just the fact that you're here with us right now is quite special to me and many others. Just try to see it the other way around."
     Ad ""
 
 # game/adine1.rpy:482
-translate frenchtl _call_skipcheck_10_488948a9:
+translate french _call_skipcheck_10_488948a9:
 
     # c "You know, you have a good point."
     c ""
 
 # game/adine1.rpy:483
-translate frenchtl _call_skipcheck_10_161c79f2:
+translate french _call_skipcheck_10_161c79f2:
 
     # Ad "What were you thinking when you first heard about us?"
     Ad ""
 
 # game/adine1.rpy:487
-translate frenchtl _call_skipcheck_10_22fb7d86:
+translate french _call_skipcheck_10_22fb7d86:
 
     # c "I thought it was a joke. Of course, all of that changed once I came through the portal."
     c ""
 
 # game/adine1.rpy:489
-translate frenchtl _call_skipcheck_10_27b32db1:
+translate french _call_skipcheck_10_27b32db1:
 
     # Ad "See, having something you've only heard about in stories turn out to be real is quite special."
     Ad ""
 
 # game/adine1.rpy:496
-translate frenchtl _call_skipcheck_10_aaa0f5f8:
+translate french _call_skipcheck_10_aaa0f5f8:
 
     # c "I wasn't sure what to think about it. That is, until I got here and was standing in front of one of you. And after that, I was just rendered speechless."
     c ""
 
 # game/adine1.rpy:498
-translate frenchtl _call_skipcheck_10_c9851cf8:
+translate french _call_skipcheck_10_c9851cf8:
 
     # Ad "Told you so. It was special for you, too!"
     Ad ""
 
 # game/adine1.rpy:506
-translate frenchtl _call_skipcheck_10_9cf84c2e:
+translate french _call_skipcheck_10_9cf84c2e:
 
     # c "I thought making a discovery like this was just awesome. Many people would love to have the opportunity I had by coming here."
     c ""
 
 # game/adine1.rpy:508
-translate frenchtl _call_skipcheck_10_821be8f1:
+translate french _call_skipcheck_10_821be8f1:
 
     # Ad "See, it's not so one-sided after all, so don't be surprised if some of us feel the same way."
     Ad ""
 
 # game/adine1.rpy:514
-translate frenchtl _call_skipcheck_10_827a62d3:
+translate french _call_skipcheck_10_827a62d3:
 
     # c "And it's not just the discovery of you dragons. We found a portal to an entirely different world. We still haven't figured that one out."
     c ""
 
 # game/adine1.rpy:515
-translate frenchtl _call_skipcheck_10_684b625c:
+translate french _call_skipcheck_10_684b625c:
 
     # Ad "Neither have we."
     Ad ""
 
 # game/adine1.rpy:516
-translate frenchtl _call_skipcheck_10_5479d226:
+translate french _call_skipcheck_10_5479d226:
 
     # c "I'm sure we'll find out soon enough."
     c ""
 
 # game/adine1.rpy:520
-translate frenchtl _call_skipcheck_10_ef4c12fa:
+translate french _call_skipcheck_10_ef4c12fa:
 
     # Ad "By the way, interesting selection of books you have there. \"Draconic Desire\", \"Ixomen Sphere\" - are these yours?"
     Ad ""
 
 # game/adine1.rpy:521
-translate frenchtl _call_skipcheck_10_304794b1:
+translate french _call_skipcheck_10_304794b1:
 
     # c "No, they were already here when I moved in."
     c ""
 
 # game/adine1.rpy:525
-translate frenchtl _call_skipcheck_10_173c151b:
+translate french _call_skipcheck_10_173c151b:
 
     # Ad "Have you read any of them?"
     Ad ""
 
 # game/adine1.rpy:526
-translate frenchtl _call_skipcheck_10_2ad87d8f:
+translate french _call_skipcheck_10_2ad87d8f:
 
     # c "I did read \"Sheridan and the Scepter of Sovereignty\"."
     c ""
 
 # game/adine1.rpy:527
-translate frenchtl _call_skipcheck_10_8752fb4f:
+translate french _call_skipcheck_10_8752fb4f:
 
     # Ad "How did you like it?"
     Ad ""
 
 # game/adine1.rpy:533
-translate frenchtl _call_skipcheck_10_26e8f868:
+translate french _call_skipcheck_10_26e8f868:
 
     # Ad "\"Nothing special\" is a good way to describe the entire series, actually."
     Ad ""
 
 # game/adine1.rpy:543
-translate frenchtl _call_skipcheck_10_43ebd9ef:
+translate french _call_skipcheck_10_43ebd9ef:
 
     # Ad "I see."
     Ad ""
 
 # game/adine1.rpy:553
-translate frenchtl _call_skipcheck_10_4f76bc1a:
+translate french _call_skipcheck_10_4f76bc1a:
 
     # Ad "I can see why."
     Ad ""
 
 # game/adine1.rpy:559
-translate frenchtl _call_skipcheck_10_a9cad82b:
+translate french _call_skipcheck_10_a9cad82b:
 
     # Ad "Oh, you've got \"Price and Prayer\". You should totally read that one."
     Ad ""
 
 # game/adine1.rpy:560
-translate frenchtl _call_skipcheck_10_d98d0cd8:
+translate french _call_skipcheck_10_d98d0cd8:
 
     # c "You think so? Why's that?"
     c ""
 
 # game/adine1.rpy:561
-translate frenchtl _call_skipcheck_10_9df698e3:
+translate french _call_skipcheck_10_9df698e3:
 
     # Ad "It's not just an interesting story, it's based on true events. The author is so right when he says there's a lot we can learn from what happened back then."
     Ad ""
 
 # game/adine1.rpy:568
-translate frenchtl _call_skipcheck_10_089aa707:
+translate french _call_skipcheck_10_089aa707:
 
     # Ad "It's more than just a book. I suppose it might not seem that important to someone who doesn't live here, though."
     Ad ""
 
 # game/adine1.rpy:573
-translate frenchtl _call_skipcheck_10_98d1aad3:
+translate french _call_skipcheck_10_98d1aad3:
 
     # Ad "Let me know when you do. I'd be interested in hearing what you have to say about it."
     Ad ""
 
 # game/adine1.rpy:578
-translate frenchtl _call_skipcheck_10_4b7f20ab_1:
+translate french _call_skipcheck_10_4b7f20ab_1:
 
     # Ad "I know what you mean."
     Ad ""
 
 # game/adine1.rpy:581
-translate frenchtl _call_skipcheck_10_9e9eaf83:
+translate french _call_skipcheck_10_9e9eaf83:
 
     # Ad "Alright, since you asked about my family earlier, I'm going to do the same thing. Is there a Mr. or Mrs. [player_name] back home waiting for you?"
     Ad ""
 
 # game/adine1.rpy:582
-translate frenchtl _call_skipcheck_10_a26d4342:
+translate french _call_skipcheck_10_a26d4342:
 
     # c "No, can't say there is."
     c ""
 
 # game/adine1.rpy:584
-translate frenchtl _call_skipcheck_10_d16f87c9:
+translate french _call_skipcheck_10_d16f87c9:
 
     # Ad "How about a potential Mr. or Mrs. [player_name], then? Are you looking to date anyone?"
     Ad ""
 
 # game/adine1.rpy:591
-translate frenchtl _call_skipcheck_10_02b24bc2:
+translate french _call_skipcheck_10_02b24bc2:
 
     # Ad "Come on, tell me!"
     Ad ""
 
 # game/adine1.rpy:595
-translate frenchtl _call_skipcheck_10_75d20bbd:
+translate french _call_skipcheck_10_75d20bbd:
 
     # Ad "I see. Anyone on your radar, then? Someone you think is attractive?"
     Ad ""
 
 # game/adine1.rpy:602
-translate frenchtl _call_skipcheck_10_6b0e1c03:
+translate french _call_skipcheck_10_6b0e1c03:
 
     # Ad "Oh, it's a shame you can't be with them now, then."
     Ad ""
 
 # game/adine1.rpy:604
-translate frenchtl _call_skipcheck_10_d3b70432:
+translate french _call_skipcheck_10_d3b70432:
 
     # Ad "Or are you talking about someone you met here?"
     Ad ""
 
 # game/adine1.rpy:615
-translate frenchtl tellme_98edf115:
+translate french tellme_98edf115:
 
     # Ad "Oh, I know what that means."
     Ad ""
 
 # game/adine1.rpy:617
-translate frenchtl tellme_195fa010:
+translate french tellme_195fa010:
 
     # Ad "Is there anyone on your radar at least? Someone you think is kinda cute?"
     Ad ""
 
 # game/adine1.rpy:621
-translate frenchtl tellme_1e619300:
+translate french tellme_1e619300:
 
     # Ad "I see. Anyone on your radar, at least? Someone you think is cute?"
     Ad ""
 
 # game/adine1.rpy:627
-translate frenchtl tellme_6b0e1c03:
+translate french tellme_6b0e1c03:
 
     # Ad "Oh, it's a shame you can't be with them now, then."
     Ad ""
 
 # game/adine1.rpy:629
-translate frenchtl tellme_d3b70432:
+translate french tellme_d3b70432:
 
     # Ad "Or are you talking about someone you met here?"
     Ad ""
 
 # game/adine1.rpy:638
-translate frenchtl choiceb_6b0e1c03:
+translate french choiceb_6b0e1c03:
 
     # Ad "Oh, it's a shame you can't be with them now, then."
     Ad ""
 
 # game/adine1.rpy:640
-translate frenchtl choiceb_d3b70432:
+translate french choiceb_d3b70432:
 
     # Ad "Or are you talking about someone you met here?"
     Ad ""
 
 # game/adine1.rpy:647
-translate frenchtl choiceb_2c403123:
+translate french choiceb_2c403123:
 
     # Ad "No one at all? I don't believe you. I think you just don't want to tell me. So, who is the lucky person?"
     Ad ""
 
 # game/adine1.rpy:655
-translate frenchtl choicec_9c4bb8e8:
+translate french choicec_9c4bb8e8:
 
     # Ad "Oh my."
     Ad ""
 
 # game/adine1.rpy:657
-translate frenchtl choicec_41d17e99:
+translate french choicec_41d17e99:
 
     # Ad "Would it happen to be someone I know?"
     Ad ""
 
 # game/adine1.rpy:661
-translate frenchtl choicec_8d8ef32c:
+translate french choicec_8d8ef32c:
 
     # Ad "Oh. Well, that's a shame."
     Ad ""
 
 # game/adine1.rpy:663
-translate frenchtl choicec_9e4b6bcd:
+translate french choicec_9e4b6bcd:
 
     # Ad "No one from around here catch your eye?"
     Ad ""
 
 # game/adine1.rpy:669
-translate frenchtl choicec_9c4bb8e8_1:
+translate french choicec_9c4bb8e8_1:
 
     # Ad "Oh my."
     Ad ""
 
 # game/adine1.rpy:671
-translate frenchtl choicec_41d17e99_1:
+translate french choicec_41d17e99_1:
 
     # Ad "Would it happen to be someone I know?"
     Ad ""
 
 # game/adine1.rpy:680
-translate frenchtl choicee_e3b23a3c:
+translate french choicee_e3b23a3c:
 
     # Ad "Well, who is it?"
     Ad ""
 
 # game/adine1.rpy:688
-translate frenchtl choicee_e3b23a3c_1:
+translate french choicee_e3b23a3c_1:
 
     # Ad "Well, who is it?"
     Ad ""
 
 # game/adine1.rpy:692
-translate frenchtl choicee_43ebd9ef:
+translate french choicee_43ebd9ef:
 
     # Ad "I see."
     Ad ""
 
 # game/adine1.rpy:697
-translate frenchtl nextsc_e17aa8de:
+translate french nextsc_e17aa8de:
 
     # c "I'm not sure how many questions that was, but I'm sure it's not your turn anymore."
     c ""
 
 # game/adine1.rpy:701
-translate frenchtl nextsc_fe09c854:
+translate french nextsc_fe09c854:
 
     # Ad "Are we even still playing this game?"
     Ad ""
 
 # game/adine1.rpy:708
-translate frenchtl nextsc_98f9c271:
+translate french nextsc_98f9c271:
 
     # Ad "That's true. You seem to be enjoying it, though."
     Ad ""
 
 # game/adine1.rpy:714
-translate frenchtl nextsc_9603eefb:
+translate french nextsc_9603eefb:
 
     # Ad "You and me both."
     Ad ""
 
 # game/adine1.rpy:719
-translate frenchtl nextsc_45100626:
+translate french nextsc_45100626:
 
     # Ad "Well, go ahead, then."
     Ad ""
 
 # game/adine1.rpy:721
-translate frenchtl nextsc_e5da73be:
+translate french nextsc_e5da73be:
 
     # c "You know, why don't we make this a little more interesting while we're at it?"
     c ""
 
 # game/adine1.rpy:723
-translate frenchtl nextsc_4a6d854a:
+translate french nextsc_4a6d854a:
 
     # Ad "What do you suggest?"
     Ad ""
 
 # game/adine1.rpy:724
-translate frenchtl nextsc_27c37c55:
+translate french nextsc_27c37c55:
 
     # c "Truth or dare."
     c ""
 
 # game/adine1.rpy:726
-translate frenchtl nextsc_8f23b6c8:
+translate french nextsc_8f23b6c8:
 
     # Ad "What's that?"
     Ad ""
 
 # game/adine1.rpy:727
-translate frenchtl nextsc_20ec6614:
+translate french nextsc_20ec6614:
 
     # c "We continue asking questions, but if one of us doesn't want to answer the question, we have to do something the other person tells us to."
     c ""
 
 # game/adine1.rpy:729
-translate frenchtl nextsc_bf87ec10:
+translate french nextsc_bf87ec10:
 
     # Ad "I don't even know what kind of dare I would make you do."
     Ad ""
 
 # game/adine1.rpy:730
-translate frenchtl nextsc_4453a933:
+translate french nextsc_4453a933:
 
     # c "It could be something that would make me uncomfortable, or something you'd like to see me do."
     c ""
 
 # game/adine1.rpy:734
-translate frenchtl nextsc_0532a010:
+translate french nextsc_0532a010:
 
     # Ad "Anything?"
     Ad ""
 
 # game/adine1.rpy:735
-translate frenchtl nextsc_206795eb:
+translate french nextsc_206795eb:
 
     # c "Well, keep in mind that revenge might be coming quicker than you think, so don't ask someone for anything you wouldn't do yourself."
     c ""
 
 # game/adine1.rpy:739
-translate frenchtl nextsc_b0e643f3:
+translate french nextsc_b0e643f3:
 
     # Ad "Got it. So, who's first?"
     Ad ""
 
 # game/adine1.rpy:740
-translate frenchtl nextsc_24285aa7:
+translate french nextsc_24285aa7:
 
     # c "You asked the last few questions, so it's only fair if I start."
     c ""
 
 # game/adine1.rpy:744
-translate frenchtl nextsc_58abfc7c:
+translate french nextsc_58abfc7c:
 
     # Ad "Alright."
     Ad ""
 
 # game/adine1.rpy:752
-translate frenchtl nextsc_deda5e50:
+translate french nextsc_deda5e50:
 
     # Ad "Probably my sides."
     Ad ""
 
 # game/adine1.rpy:754
-translate frenchtl nextsc_4e50fccb:
+translate french nextsc_4e50fccb:
 
     # c "Good to know."
     c ""
 
 # game/adine1.rpy:756
-translate frenchtl nextsc_6c279b9e:
+translate french nextsc_6c279b9e:
 
     # Ad "You wouldn't misuse that knowledge, would you?"
     Ad ""
 
 # game/adine1.rpy:757
-translate frenchtl nextsc_a59f8f81:
+translate french nextsc_a59f8f81:
 
     # c "Of course not."
     c ""
 
 # game/adine1.rpy:761
-translate frenchtl nextsc_d40811d3:
+translate french nextsc_d40811d3:
 
     # Ad "I don't really keep secrets."
     Ad ""
 
 # game/adine1.rpy:762
-translate frenchtl nextsc_bc038d06:
+translate french nextsc_bc038d06:
 
     # c "That's not a real answer."
     c ""
 
 # game/adine1.rpy:763
-translate frenchtl nextsc_a3e8b670:
+translate french nextsc_a3e8b670:
 
     # Ad "But it's the truth."
     Ad ""
 
 # game/adine1.rpy:764
-translate frenchtl nextsc_87f87efc:
+translate french nextsc_87f87efc:
 
     # c "You know, you aren't very good at this game."
     c ""
 
 # game/adine1.rpy:766
-translate frenchtl nextsc_a0221976:
+translate french nextsc_a0221976:
 
     # Ad "Hey, it's my first time."
     Ad ""
 
 # game/adine1.rpy:767
-translate frenchtl nextsc_5101fbef:
+translate french nextsc_5101fbef:
 
     # c "Don't worry about it."
     c ""
 
 # game/adine1.rpy:773
-translate frenchtl nextsc_8a18e93a:
+translate french nextsc_8a18e93a:
 
     # Ad "Hmm, let me think..."
     Ad ""
 
 # game/adine1.rpy:775
-translate frenchtl nextsc_f0510f43:
+translate french nextsc_f0510f43:
 
     # Ad "There was this one time when I was still a teenager. I was messing around and wanted to try out a new flying maneuver: a barrel roll. Needless to say, it ended badly."
     Ad ""
 
 # game/adine1.rpy:776
-translate frenchtl nextsc_b917eced:
+translate french nextsc_b917eced:
 
     # c "I guess you didn't succeed, then?"
     c ""
 
 # game/adine1.rpy:777
-translate frenchtl nextsc_895e7591:
+translate french nextsc_895e7591:
 
     # Ad "No, the roll itself went fine, but I lost control after that and plunged right to the ground."
     Ad ""
 
 # game/adine1.rpy:778
-translate frenchtl nextsc_b2517d74:
+translate french nextsc_b2517d74:
 
     # c "Oh, were you hurt?"
     c ""
 
 # game/adine1.rpy:780
-translate frenchtl nextsc_54608f68:
+translate french nextsc_54608f68:
 
     # Ad "No, luckily I wasn't too high when I did it, and there was a great puddle of mud on the ground right where I landed. Of course all my friends were there to see it."
     Ad ""
 
 # game/adine1.rpy:781
-translate frenchtl nextsc_57d8dcd9:
+translate french nextsc_57d8dcd9:
 
     # c "That wasn't enough to stop you from ever trying again?"
     c ""
 
 # game/adine1.rpy:783
-translate frenchtl nextsc_818b4ba1:
+translate french nextsc_818b4ba1:
 
     # Ad "No. If anything, it only made me want to try harder."
     Ad ""
 
 # game/adine1.rpy:785
-translate frenchtl nextsc_1b02c93b:
+translate french nextsc_1b02c93b:
 
     # Ad "Since it is my turn now: What is your greatest wish?"
     Ad ""
 
 # game/adine1.rpy:790
-translate frenchtl nextsc_c00b79d5:
+translate french nextsc_c00b79d5:
 
     # c "More than anything, I'd want there to be peace on Earth."
     c ""
 
 # game/adine1.rpy:791
-translate frenchtl nextsc_24edf6f0:
+translate french nextsc_24edf6f0:
 
     # Ad "That is an honorable wish, [player_name]."
     Ad ""
 
 # game/adine1.rpy:797
-translate frenchtl nextsc_646ac1a5:
+translate french nextsc_646ac1a5:
 
     # Ad "That seems to be a very personal wish, [player_name]."
     Ad ""
 
 # game/adine1.rpy:804
-translate frenchtl nextsc_de415d5c:
+translate french nextsc_de415d5c:
 
     # c "Be rich and have the freedom to do what I want to, whenever I want to."
     c ""
 
 # game/adine1.rpy:806
-translate frenchtl nextsc_43ebd9ef:
+translate french nextsc_43ebd9ef:
 
     # Ad "I see."
     Ad ""
 
 # game/adine1.rpy:812
-translate frenchtl nextsc_416efc12:
+translate french nextsc_416efc12:
 
     # c "Okay, my turn."
     c ""
 
 # game/adine1.rpy:819
-translate frenchtl nextsc_2ebf59c9:
+translate french nextsc_2ebf59c9:
 
     # Ad "Invisible, huh?"
     Ad ""
 
 # game/adine1.rpy:820
-translate frenchtl nextsc_bc0926e9:
+translate french nextsc_bc0926e9:
 
     # Ad "That's a hard one. I mean, no one would see my flying then, and I do want people to see that."
     Ad ""
 
 # game/adine1.rpy:821
-translate frenchtl nextsc_5b659cad:
+translate french nextsc_5b659cad:
 
     # c "Well, with this question it's more about what you would do if you had the opportunity to do something without getting caught, like something mischievous or criminal."
     c ""
 
 # game/adine1.rpy:823
-translate frenchtl nextsc_d89cde73:
+translate french nextsc_d89cde73:
 
     # Ad "Oh, I know what I would do. I'd check out the building they found along with the portal."
     Ad ""
 
 # game/adine1.rpy:824
-translate frenchtl nextsc_1531db24:
+translate french nextsc_1531db24:
 
     # c "What building?"
     c ""
 
 # game/adine1.rpy:825
-translate frenchtl nextsc_a70918ca:
+translate french nextsc_a70918ca:
 
     # Ad "Didn't you hear about that? They found a whole building along with the portal."
     Ad ""
 
 # game/adine1.rpy:826
-translate frenchtl nextsc_e950f342:
+translate french nextsc_e950f342:
 
     # Ad "It's actually underground, and they have it heavily guarded while a team of archaeologists works on it. I think it might contain many secrets and answers about the portal and where it came from."
     Ad ""
 
 # game/adine1.rpy:827
-translate frenchtl nextsc_81939529:
+translate french nextsc_81939529:
 
     # c "Interesting. I think I'd like to check that out as well."
     c ""
 
 # game/adine1.rpy:830
-translate frenchtl nextsc_e306f303:
+translate french nextsc_e306f303:
 
     # Ad "No, absolutely not."
     Ad ""
 
 # game/adine1.rpy:831
-translate frenchtl nextsc_73c2fcc2:
+translate french nextsc_73c2fcc2:
 
     # c "Why not?"
     c ""
 
 # game/adine1.rpy:832
-translate frenchtl nextsc_6507f194:
+translate french nextsc_6507f194:
 
     # Ad "Well, I do have some ideas of what might happen afterwards, but even if what I think isn't true, I'm not afraid of the unknown."
     Ad ""
 
 # game/adine1.rpy:834
-translate frenchtl nextsc_c1901d4d:
+translate french nextsc_c1901d4d:
 
     # Ad "In some sort of twisted way, I'm actually kinda curious to find out what it'll be like when it's all over."
     Ad ""
 
 # game/adine1.rpy:840
-translate frenchtl nextsc_dace38e7:
+translate french nextsc_dace38e7:
 
     # Ad "Aren't you curious as well?"
     Ad ""
 
 # game/adine1.rpy:841
-translate frenchtl nextsc_11a66161:
+translate french nextsc_11a66161:
 
     # c "Not this curious."
     c ""
 
 # game/adine1.rpy:842
-translate frenchtl nextsc_43ebd9ef_1:
+translate french nextsc_43ebd9ef_1:
 
     # Ad "I see."
     Ad ""
 
 # game/adine1.rpy:848
-translate frenchtl nextsc_43ebd9ef_2:
+translate french nextsc_43ebd9ef_2:
 
     # Ad "I see."
     Ad ""
 
 # game/adine1.rpy:854
-translate frenchtl nextsc_da6029a2:
+translate french nextsc_da6029a2:
 
     # Ad "That's not funny, [player_name]."
     Ad ""
 
 # game/adine1.rpy:860
-translate frenchtl nextsc_ff57023e:
+translate french nextsc_ff57023e:
 
     # Ad "Well, I wouldn't really call it a flaw, but if I could change one thing, it would probably be these stripes on my muzzle."
     Ad ""
 
 # game/adine1.rpy:862
-translate frenchtl nextsc_7bbf2eae:
+translate french nextsc_7bbf2eae:
 
     # Ad "I don't like them very much."
     Ad ""
 
 # game/adine1.rpy:865
-translate frenchtl nextsc_08e5ce63:
+translate french nextsc_08e5ce63:
 
     # Ad "No matter if people like them or not, they always stand out. That's what I don't like."
     Ad ""
 
 # game/adine1.rpy:871
-translate frenchtl nextsc_7b61b183:
+translate french nextsc_7b61b183:
 
     # Ad "I know they aren't pretty. You don't have to repeat what I just said."
     Ad ""
 
 # game/adine1.rpy:877
-translate frenchtl nextsc_27e1283c:
+translate french nextsc_27e1283c:
 
     # Ad "But then you aren't the one who's supposed to answer the question."
     Ad ""
 
 # game/adine1.rpy:879
-translate frenchtl nextsc_3d75357b:
+translate french nextsc_3d75357b:
 
     # Ad "If you knew the world was about to end, what would you do?"
     Ad ""
 
 # game/adine1.rpy:884
-translate frenchtl nextsc_0b95e538:
+translate french nextsc_0b95e538:
 
     # Ad "Going out with a bang, huh?"
     Ad ""
 
 # game/adine1.rpy:895
-translate frenchtl nextsc_375c54ad:
+translate french nextsc_375c54ad:
 
     # Ad "An optimist until the very end. I like that."
     Ad ""
 
 # game/adine1.rpy:905
-translate frenchtl nextsc_c11e0ee0:
+translate french nextsc_c11e0ee0:
 
     # Ad "That would be quite a show, huh?"
     Ad ""
 
 # game/adine1.rpy:915
-translate frenchtl nextsc_aa2237bc:
+translate french nextsc_aa2237bc:
 
     # Ad "I'm not sure if I could do that. I don't like tight, enclosed spaces."
     Ad ""
 
 # game/adine1.rpy:927
-translate frenchtl nextsc_e3afd84b:
+translate french nextsc_e3afd84b:
 
     # Ad "That's a very difficult question, you know."
     Ad ""
 
 # game/adine1.rpy:929
-translate frenchtl nextsc_d022c5bd:
+translate french nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
     Ad ""
 
 # game/adine1.rpy:932
-translate frenchtl nextsc_b8fb304d:
+translate french nextsc_b8fb304d:
 
     # Ad "Oh my..."
     Ad ""
 
 # game/adine1.rpy:934
-translate frenchtl nextsc_2355e57c:
+translate french nextsc_2355e57c:
 
     # Ad "..."
     Ad ""
 
 # game/adine1.rpy:935
-translate frenchtl nextsc_a77509ab:
+translate french nextsc_a77509ab:
 
     # Ad "I think it might be time for a dare now."
     Ad ""
 
 # game/adine1.rpy:936
-translate frenchtl nextsc_86148265:
+translate french nextsc_86148265:
 
     # c "Alright."
     c ""
 
 # game/adine1.rpy:942
-translate frenchtl nextsc_0268ca80:
+translate french nextsc_0268ca80:
 
     # Ad "Just that? That's not very hard."
     Ad ""
 
 # game/adine1.rpy:943
-translate frenchtl nextsc_dc9a1cef:
+translate french nextsc_dc9a1cef:
 
     # c "I thought I'd go easy on you, since it is your first time and all."
     c ""
 
 # game/adine1.rpy:944
-translate frenchtl nextsc_43ebd9ef_3:
+translate french nextsc_43ebd9ef_3:
 
     # Ad "I see."
     Ad ""
 
 # game/adine1.rpy:953
-translate frenchtl nextsc_bfaeb6df:
+translate french nextsc_bfaeb6df:
 
     # Ad "There. Satisfied?"
     Ad ""
 
 # game/adine1.rpy:955
-translate frenchtl nextsc_5ce0ffef:
+translate french nextsc_5ce0ffef:
 
     # c "Definitely."
     c ""
 
 # game/adine1.rpy:974
-translate frenchtl _call_syscheck_48_b8834e95:
+translate french _call_syscheck_48_b8834e95:
 
     # s "You got Adine to remove her headgear!"
     s ""
 
 # game/adine1.rpy:978
-translate frenchtl _call_syscheck_48_5c7f4389:
+translate french _call_syscheck_48_5c7f4389:
 
     # s "You got Adine to remove her headgear. Wow."
     s ""
 
 # game/adine1.rpy:982
-translate frenchtl _call_syscheck_48_890abada:
+translate french _call_syscheck_48_890abada:
 
     # s "You got Adine to remove her headgear. Don't let it go to your head."
     s ""
 
 # game/adine1.rpy:987
-translate frenchtl _call_syscheck_48_93f9d835:
+translate french _call_syscheck_48_93f9d835:
 
     # Ad "That's your dare?"
     Ad ""
 
 # game/adine1.rpy:988
-translate frenchtl _call_syscheck_48_c0334108:
+translate french _call_syscheck_48_c0334108:
 
     # c "Yep."
     c ""
 
 # game/adine1.rpy:989
-translate frenchtl _call_syscheck_48_2355e57c:
+translate french _call_syscheck_48_2355e57c:
 
     # Ad "..."
     Ad ""
 
 # game/adine1.rpy:991
-translate frenchtl _call_syscheck_48_9e2d907e:
+translate french _call_syscheck_48_9e2d907e:
 
     # Ad "Alright, whatever. I'll do it."
     Ad ""
 
 # game/adine1.rpy:1000
-translate frenchtl _call_syscheck_48_7b0e0bd9:
+translate french _call_syscheck_48_7b0e0bd9:
 
     # Ad "There, I did it. Satisfied?"
     Ad ""
 
 # game/adine1.rpy:1002
-translate frenchtl _call_syscheck_48_5ce0ffef:
+translate french _call_syscheck_48_5ce0ffef:
 
     # c "Definitely."
     c ""
 
 # game/adine1.rpy:1007
-translate frenchtl _call_syscheck_48_989cc9bb:
+translate french _call_syscheck_48_989cc9bb:
 
     # Ad "Is that all?"
     Ad ""
 
 # game/adine1.rpy:1008
-translate frenchtl _call_syscheck_48_38babdee:
+translate french _call_syscheck_48_38babdee:
 
     # c "You can find one in the pantry."
     c ""
 
 # game/adine1.rpy:1010
-translate frenchtl _call_syscheck_48_58abfc7c:
+translate french _call_syscheck_48_58abfc7c:
 
     # Ad "Alright."
     Ad ""
 
 # game/adine1.rpy:1015
-translate frenchtl _call_syscheck_48_e78a619c:
+translate french _call_syscheck_48_e78a619c:
 
     # Ad "So, should I just take a bite out of this one?"
     Ad ""
 
 # game/adine1.rpy:1016
-translate frenchtl _call_syscheck_48_d88b5013:
+translate french _call_syscheck_48_d88b5013:
 
     # c "That's your dare."
     c ""
 
 # game/adine1.rpy:1017
-translate frenchtl _call_syscheck_48_14ef9c1b:
+translate french _call_syscheck_48_14ef9c1b:
 
     # Ad "If you say so..."
     Ad ""
 
 # game/adine1.rpy:1022
-translate frenchtl _call_syscheck_48_7711fd6d:
+translate french _call_syscheck_48_7711fd6d:
 
     # c "(She didn't even peel it or anything...)"
     c ""
 
 # game/adine1.rpy:1027
-translate frenchtl _call_syscheck_48_0950e22e:
+translate french _call_syscheck_48_0950e22e:
 
     # Ad "I'm not sure what's so special about that."
     Ad ""
 
 # game/adine1.rpy:1028
-translate frenchtl _call_syscheck_48_e8bc5fde:
+translate french _call_syscheck_48_e8bc5fde:
 
     # c "You didn't mind at all?"
     c ""
 
 # game/adine1.rpy:1030
-translate frenchtl _call_syscheck_48_9270e653:
+translate french _call_syscheck_48_9270e653:
 
     # Ad "Not a bit."
     Ad ""
 
 # game/adine1.rpy:1032
-translate frenchtl _call_syscheck_48_d19f855d:
+translate french _call_syscheck_48_d19f855d:
 
     # c "..."
     c ""
 
 # game/adine1.rpy:1033
-translate frenchtl _call_syscheck_48_89aefe22:
+translate french _call_syscheck_48_89aefe22:
 
     # c "I see."
     c ""
 
 # game/adine1.rpy:1038
-translate frenchtl _call_syscheck_48_ef602e3b:
+translate french _call_syscheck_48_ef602e3b:
 
     # Ad "Is that your question, or is that already a dare?"
     Ad ""
 
 # game/adine1.rpy:1039
-translate frenchtl _call_syscheck_48_8bc84341:
+translate french _call_syscheck_48_8bc84341:
 
     # c "A question. I just couldn't think of anything better."
     c ""
 
 # game/adine1.rpy:1041
-translate frenchtl _call_syscheck_48_30f9f005:
+translate french _call_syscheck_48_30f9f005:
 
     # Ad "Well, then my answer would be no. I don't kiss just anyone, you know."
     Ad ""
 
 # game/adine1.rpy:1043
-translate frenchtl _call_syscheck_48_5eb2273d:
+translate french _call_syscheck_48_5eb2273d:
 
     # Ad "However, if it was a dare, my answer might be different."
     Ad ""
 
 # game/adine1.rpy:1046
-translate frenchtl _call_syscheck_48_b1f9f1ed:
+translate french _call_syscheck_48_b1f9f1ed:
 
     # Ad "Alright, so from those you have met here so far, who is the one you fancy most?"
     Ad ""
 
 # game/adine1.rpy:1196
-translate frenchtl _call_syscheck_48_ad7dc334:
+translate french _call_syscheck_48_ad7dc334:
 
     # c "I think I'll take a dare for this one."
     c ""
 
 # game/adine1.rpy:1203
-translate frenchtl _call_syscheck_48_ff5b729b:
+translate french _call_syscheck_48_ff5b729b:
 
     # Ad "Oh, finally."
     Ad ""
 
 # game/adine1.rpy:1210
-translate frenchtl _call_syscheck_48_f69997a6:
+translate french _call_syscheck_48_f69997a6:
 
     # Ad "Hmm, what am I going to have you do?"
     Ad ""
 
 # game/adine1.rpy:1211
-translate frenchtl _call_syscheck_48_eeef949d:
+translate french _call_syscheck_48_eeef949d:
 
     # c "Whatever you like."
     c ""
 
 # game/adine1.rpy:1218
-translate frenchtl _call_syscheck_48_bd0be8be:
+translate french _call_syscheck_48_bd0be8be:
 
     # Ad "No, I honestly have no idea."
     Ad ""
 
 # game/adine1.rpy:1220
-translate frenchtl _call_syscheck_48_f918b61d:
+translate french _call_syscheck_48_f918b61d:
 
     # c "Take your time."
     c ""
 
 # game/adine1.rpy:1227
-translate frenchtl _call_syscheck_48_7215760e:
+translate french _call_syscheck_48_7215760e:
 
     # Ad "Alright, let me think for a minute."
     Ad ""
 
 # game/adine1.rpy:1241
-translate frenchtl _call_syscheck_48_8b45fabd:
+translate french _call_syscheck_48_8b45fabd:
 
     # c "Oh, looks like it's getting late."
     c ""
 
 # game/adine1.rpy:1248
-translate frenchtl _call_syscheck_48_1f70b032:
+translate french _call_syscheck_48_1f70b032:
 
     # Ad "Wait, what time is it?"
     Ad ""
 
 # game/adine1.rpy:1255
-translate frenchtl _call_syscheck_48_dc9e044d:
+translate french _call_syscheck_48_dc9e044d:
 
     # Ad "Whoops, seems like I've been here longer than I thought."
     Ad ""
 
 # game/adine1.rpy:1262
-translate frenchtl _call_syscheck_48_5eb06388:
+translate french _call_syscheck_48_5eb06388:
 
     # Ad "I probably should be going now."
     Ad ""
 
 # game/adine1.rpy:1263
-translate frenchtl _call_syscheck_48_24049db2:
+translate french _call_syscheck_48_24049db2:
 
     # c "Seems like the rain has stopped, too."
     c ""
 
 # game/adine1.rpy:1264
-translate frenchtl _call_syscheck_48_334f9430:
+translate french _call_syscheck_48_334f9430:
 
     # Ad "Yeah, that's great."
     Ad ""
 
 # game/adine1.rpy:1268
-translate frenchtl _call_syscheck_48_3d8af9e3:
+translate french _call_syscheck_48_3d8af9e3:
 
     # Ad "Anyways, if you want to invite me over again, why don't I give you my personal number and we just skip the part where you order food to make me come by?"
     Ad ""
 
 # game/adine1.rpy:1269
-translate frenchtl _call_syscheck_48_244ffce1:
+translate french _call_syscheck_48_244ffce1:
 
     # c "But I like the food."
     c ""
 
 # game/adine1.rpy:1276
-translate frenchtl _call_syscheck_48_a475c68f:
+translate french _call_syscheck_48_a475c68f:
 
     # Ad "Or maybe I'll get your number instead. Since you ordered from us, I already have it anyway."
     Ad ""
 
 # game/adine1.rpy:1277
-translate frenchtl _call_syscheck_48_405efdd0:
+translate french _call_syscheck_48_405efdd0:
 
     # c "I'm not sure what to say to that."
     c ""
 
 # game/adine1.rpy:1284
-translate frenchtl _call_syscheck_48_69937dff:
+translate french _call_syscheck_48_69937dff:
 
     # Ad "Take it as a compliment."
     Ad ""
 
 # game/adine1.rpy:1291
-translate frenchtl _call_syscheck_48_a27ee51f:
+translate french _call_syscheck_48_a27ee51f:
 
     # Ad "Bye!"
     Ad ""
 
 # game/adine1.rpy:1299
-translate frenchtl _call_syscheck_48_76b2fe88:
+translate french _call_syscheck_48_76b2fe88:
 
     # nvl clear
     nvl clear
 
 # game/adine1.rpy:1302
-translate frenchtl _call_syscheck_48_9b53a99d:
+translate french _call_syscheck_48_9b53a99d:
 
     # n "She was gone as quickly as she had appeared, but given her enthusiasm, I doubted that was the last time I would hear from her."
     n ""
 
 # game/adine1.rpy:1342
-translate frenchtl adine1skip_57b8b63d:
+translate french adine1skip_57b8b63d:
 
     # Ad "You know, if you want me to come over again, you don't have to order anything to do it."
     Ad ""
 
 # game/adine1.rpy:1351
-translate frenchtl adine1skip_1f4d0787:
+translate french adine1skip_1f4d0787:
 
     # Ad "Here's my private number."
     Ad ""
 
 # game/adine1.rpy:1352
-translate frenchtl adine1skip_1f5067bf:
+translate french adine1skip_1f5067bf:
 
     # c "I'll keep that in mind, thanks."
     c ""
 
 # game/adine1.rpy:1353
-translate frenchtl adine1skip_a27ee51f:
+translate french adine1skip_a27ee51f:
 
     # Ad "Bye!"
     Ad ""
 
 # game/adine1.rpy:1382
-translate frenchtl adine1skip_c0cb69d1:
+translate french adine1skip_c0cb69d1:
 
     # c "Will I see you again?"
     c ""
 
 # game/adine1.rpy:1383
-translate frenchtl adine1skip_a544d69c:
+translate french adine1skip_a544d69c:
 
     # Ad "Well, you're always welcome to order food if you're hungry."
     Ad ""
 
 # game/adine1.rpy:1384
-translate frenchtl adine1skip_e0210aa9:
+translate french adine1skip_e0210aa9:
 
     # c "That wasn't what I was talking about."
     c ""
 
 # game/adine1.rpy:1391
-translate frenchtl adine1skip_a9ea478e:
+translate french adine1skip_a9ea478e:
 
     # Ad "Oh, I know."
     Ad ""
 
 # game/adine1.rpy:1398
-translate frenchtl adine1skip_ce4f72ae:
+translate french adine1skip_ce4f72ae:
 
     # Ad "Look, I don't want to be rude or anything, but I think it's better if we go our separate ways from now on. Sorry!"
     Ad ""
 
-translate frenchtl strings:
+translate french strings:
 
     # adine1.rpy:10
     old "Chapter 4 - Adine 1"
