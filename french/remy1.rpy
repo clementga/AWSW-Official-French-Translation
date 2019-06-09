@@ -340,31 +340,31 @@ translate frenchtl _call_skipcheck_22_76b2fe88:
 translate frenchtl _call_skipcheck_22_e1e8e35b:
 
     # n "I waited outside for the dragon to finish his work and passed the time by reading a book I had brought from my apartment."
-    n ""
+    n "J'ai attendu dehors que le dragon finisse son travail et ai passé le temps en lisant un livre de mon appartement."
 
 # game/remy1.rpy:257
 translate frenchtl _call_skipcheck_22_19c7ea57:
 
     # n "When I finished the book and the dragon still hadn't appeared, I grew impatient and tried to return inside to check up on him, only to find the door to the library had been locked."
-    n ""
+    n "Quand j'eus fini le livre et que le dragon n'était toujours pas réapparu, j'ai commencé à m'impatienter. J'ai donc essayé de retourner à l'intérieur pour voir où il en était, pour au final me retrouver devan la porte vérouillée de la bibliothèque."
 
 # game/remy1.rpy:258
 translate frenchtl _call_skipcheck_22_fb80d4ed:
 
     # n "When I looked up, I realized all the lights inside had been turned off as well and the library no doubt had closed for the day."
-    n ""
+    n "En jetant un œil, j'ai réalisé que toutes les lumières à l'intérieur avait été éteintes et que la bibliothèque avait sûrement fermé pour la journée."
 
 # game/remy1.rpy:259
 translate frenchtl _call_skipcheck_22_4ceeca04:
 
     # n "I was not sure whether he left me waiting on purpose, or had just forgotten about me while he finished his work."
-    n ""
+    n "Je ne pouvais dire si il m'avait fait attendre intentionellement, ou si, alors qu'il finissait son travail, il m'avait tout simplement oublié."
 
 # game/remy1.rpy:260
 translate frenchtl _call_skipcheck_22_96716c1e:
 
     # n "Either way, it seemed like a sign that we wouldn't meet again."
-    n ""
+    n "Quoi qu'il en soit, cela m'avait l'air d'un signe que nous ne nous recroiserions plus à l'avenir."
 
 # game/remy1.rpy:262
 translate frenchtl _call_skipcheck_22_76b2fe88_1:
