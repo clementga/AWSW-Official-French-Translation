@@ -1,6 +1,12 @@
 # AWSW-Official-French-Translation
 Github pour la traduction officielle de AWSW en français
 
+Composition du git :<br/>
+- "_original script files for reference" : les scripts originaux du jeu, sont intéressants pour comprendre l'enchaînement des dialogues
+- "_updated translation files" : les fichiers de traduction vierges, dernière MaJ le 09/06/2019. Veuillez utilisez ceux-ci désormais
+- "french" : toutes les traductions faites/en cours sont stockées ici
+- "fr_trad_mod" : le mod permettant de charger les traductions dans le jeu pour les tester
+
 Fichiers traduits (✘ = non fait, ✔ = fait, ✔✔✔ = version définitive relue) :
 
 common ✘<br/>
