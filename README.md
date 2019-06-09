@@ -34,7 +34,7 @@ bryce2 ✘<br/>
 lorem2 ✔<br/>
 remy2 ✘<br/>
 xemera ✔<br/>
-xzhong ✔<br/>
+xzhong ✔ (à reprendre)<br/>
 chapter3 ✘<br/>
 adine3 En cours (alpha the dragon)<br/>
 anna3 En cours (Obscurity Dragon)<br/>
