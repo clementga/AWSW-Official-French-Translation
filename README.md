@@ -12,13 +12,13 @@ Composition du git :<br/>
 
 Fichiers traduits (✘ = non fait, ✔ = fait, ✔✔ = relu, ✔✔✔ = version définitive) :
 
-common ✘<br/>
-dv ✘<br/>
-screens ✘<br/>
-status ✘<br/>
-help ✘<br/>
-images ✘<br/>
-script ✘<br/>
+common ✔<br/>
+dv ✔<br/>
+screens ✔<br/>
+status ✔<br/>
+help ✔<br/>
+images ✔<br/>
+script ✔<br/>
 chapter1 ✘<br/>
 adine1 ✔<br/>
 anna1 En cours (Obscurity Dragon)<br/>
