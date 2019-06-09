@@ -1,0 +1,86 @@
+This is a list of abbreviations, names and other terms appearing in the game. They do not need to be translated here, but are helpful as a list of reference. Below that is a list of terms appearing in the secret ending puzzle (sec.rpy) that do need to be translated.
+
+c = Main character (set by player, or defaults to "Alex")
+n = Narrator (no name displayed)
+m = Main character speaking in third person (no name displayed)
+Ry = Remy
+Sb = Sebastian
+Rz = Reza
+Mv = Maverick
+An = Anna
+Ad = Adine
+Br = Bryce
+Zh = Zhong
+Em = Emera
+Al = Narrator during Remy's RPG (no name displayed)
+s = System
+Vr = Vara
+Dm = Damion
+Am = Amely
+As = The Administrator
+Iz = Izumi
+Hz = Heinz
+Fr = Francois
+Sy = Sybil
+Fv = Food Vendor
+Wr = Waiter
+St = Store Clerk
+Ka = Katsuharu
+Kv = Kevin
+Dr = Dramavian
+Xi = Xith
+Lu = Lucius
+Op = Ophinia
+Kl = Kalinth
+Gr = Grey
+Le = Leymas
+Ei = Quas
+Hu = Huang Fu
+Xu = Xiuying
+Lo = Lorem
+Ip = Ipsum
+a = Narrator (no name displayed)
+b = Narrator (no name displayed)
+
+Miles
+Haziq Aaqil
+
+Names and other terms from the Secret ending puzzles that may need to be translated:
+This will also be in the translation files, but there are some restrictions as to what the translated term can be, which are outlined as follows:
+
+Isabel
+Metropolis
+CTT = abbreviation for "transferrence technology"
+STS = abbreviation for "stabilizer technology"
+Pavilion
+books = (password for remy's image, 5 characters or less)
+slide = (password for anna's image, 5 characters or less)
+ixomen sphere = (password for lorem's image, 13 characters or less)
+bloodstain = (password for bryce's image, 10 characters or less)
+sandcastle = (password for adine's image, 10 characters or less)
+politician = (password for emera's image, 10 characters or less)
+gentleman = (password for zhong's image, 9 characters or less)
+handcuffs = (password for sebastian's image, 9 characters or less)
+college = (password for kevin's image, 7 characters or less)
+ice cream = (password for katsuharu's image, 9 characters or less)
+The scarred one
+Soreil
+Sy = (short for System)
+Emissary
+Philanthropists
+The Agency
+Remcom = (short for remains of the company)
+Talisman
+correcthorsebatterystaple = (password for the Talisman entry, reference to xkcd comic)
+Cuthbert
+Aver
+Nash
+Trevor
+Naomi
+Marcus
+Vance
+Operation Black Bird
+Portal
+Visionary = (must be consistent with when "the visionary's vice" is mentioned so people can look up this entry as a hint)
+tatsu = The word that is written on a piece of paper and slipped into the main characters pocket in chapter 2. Old japanese word for dragon.
+cHeWiNg gUm = the password to unlock developer tools - the hint is given in Marcus' entry as he likes chewing gum, but we have odd capitalization here to make it a bit harder. The List of characters/capitalization to not use is: %,C,h,E,w,I,n,G,u,M,q,R,t,Z,o,P,a,S,d,F,j,K,l,Y,x,V,b
