@@ -1,4 +1,5 @@
-﻿﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
+# Initial translation : Ceanoth
 
 # game/xkevin.rpy:30
 translate frenchtl kevin_cb2b8cb1:
