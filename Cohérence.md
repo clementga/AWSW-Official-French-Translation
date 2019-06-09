@@ -1,7 +1,7 @@
 Ce fichier contient les phrases qui réapparaissent régulièrement sous la même forme à travers le jeu, et qui devraient donc être traduites de la même manière partout.
 
 #s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?" <br/>
-s "Mes données indiquent que vous avez déjà vécu cette section d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
+s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
 
 
 #s "It looks like you've seen this before. Skip to the scene selection?"<br/>
