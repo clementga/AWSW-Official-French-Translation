@@ -19,7 +19,7 @@ status ✔<br/>
 help ✔<br/>
 images ✔<br/>
 script ✔<br/>
-chapter1 ✘<br/>
+chapter1 En cours (BananaSplit2) <br/>
 adine1 ✔<br/>
 anna1 En cours (Obscurity Dragon)<br/>
 bryce1 ✘<br/>

@@ -24,7 +24,7 @@ translate french _call_skiptut_11_84d46f4f:
 translate french _call_skiptut_11_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Et bien, il semble vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des scènes."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des scènes."
 
 # game/chapter2.rpy:250
 translate french _call_skiptut_11_0054b77b:
@@ -3458,7 +3458,7 @@ translate french _call_skiptut_12_11989f6d:
 translate french _call_skiptut_12_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Et bien, il semble vous ayez déjà vu cela auparavant. Vous pouvez de nouveau revivre cela, ou alors on pourrait gagner un peu de temps et aller directement à la sélection des personnages."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez de nouveau revivre cela, ou alors on pourrait gagner un peu de temps et aller directement à la sélection des personnages."
 
 # game/chapter2.rpy:3352
 translate french _call_skiptut_12_0054b77b:
