@@ -65,19 +65,19 @@ translate french detected_bd29307b:
 translate french detected_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    "Contrôles\nUtilisez [[Clic Gauche] ou [[Entrée] pour avancer le texte et sélection une option quand un choix vous est offert.\nAppuyez sur la barre [[Espace] pour n'avancer que le texte. Cela est utile pour éviter de faire un choix accidentel."
+    "Contrôles\nUtilisez [[Clic Gauche] ou [[Entrée] pour avancer le texte et sélectionner une option quand un choix vous est offert.\nAppuyez sur la barre [[Espace] pour n'avancer que le texte. Cela est utile pour éviter de faire un choix accidentel."
 
 # game/chapter1.rpy:384
 translate french detected_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[Échap] ou [[Clic Droit] permet d'afficher le menu.\n[[F] bascule le mode plein écran.\nUtilisez la [[Roulette de souris]], ou [[Page Haut] et [[Page Bas] pour revoir les messages passés et revenir en arrière."
+    "[[Échap] ou [[Clic Droit] permettent d'afficher le menu.\n[[F] bascule le mode plein écran.\nUtilisez la [[Roulette de souris], ou [[Page Haut] et [[Page Bas] pour revoir les messages passés et revenir en arrière."
 
 # game/chapter1.rpy:385
 translate french detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Maintenez [[Ctrl] ou appuyez sur [[Tab] pour sauter les messages déjà vu.\n[[S] permet de prendre une capture d'écran.[[Clic Central] ou [[H] cache la fenêtre de dialogue.\nSi vous voulez revoir ces informations, vous pouvez le faire depuis le menu principal."
+    "Maintenez [[Ctrl] ou appuyez sur [[Tab] pour sauter les messages déjà vu.\n[[S] permet de prendre une capture d'écran.\n[[Clic Central] ou [[H] cache la fenêtre de dialogue.\nSi vous voulez revoir ces informations, vous pouvez le faire depuis le menu principal."
 
 # game/chapter1.rpy:386
 translate french detected_4f5f91c6:
@@ -107,19 +107,19 @@ translate french colorend_bd29307b:
 translate french colorend_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    "Contrôles\nUtilisez [[Clic Gauche] ou [[Entrée] pour avancer le texte et sélection une option quand un choix vous est offert.\nAppuyez sur la barre [[Espace] pour n'avancer que le texte. Cela est utile pour éviter de faire un choix accidentel."
+    "Contrôles\nUtilisez [[Clic Gauche] ou [[Entrée] pour avancer le texte et sélectionner une option quand un choix vous est offert.\nAppuyez sur la barre [[Espace] pour n'avancer que le texte. Cela est utile pour éviter de faire un choix accidentel."
 
 # game/chapter1.rpy:407
 translate french colorend_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[Échap] ou [[Clic Droit] permet d'afficher le menu.\n[[F] bascule le mode plein écran.\nUtilisez la [[Roulette de souris]], ou [[Page Haut] et [[Page Bas] pour revoir les messages passés et revenir en arrière."
+    "[[Échap] ou [[Clic Droit] permettent d'afficher le menu.\n[[F] bascule le mode plein écran.\nUtilisez la [[Roulette de souris], ou [[Page Haut] et [[Page Bas] pour revoir les messages passés et revenir en arrière."
 
 # game/chapter1.rpy:408
 translate french colorend_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Maintenez [[Ctrl] ou appuyez sur [[Tab] pour sauter les messages déjà vu.\n[[S] permet de prendre une capture d'écran.[[Clic Central] ou [[H] cache la fenêtre de dialogue.\nSi vous voulez revoir ces informations, vous pouvez le faire depuis le menu principal."
+    "Maintenez [[Ctrl] ou appuyez sur [[Tab] pour sauter les messages déjà vu.\n[[S] permet de prendre une capture d'écran.\n[[Clic Central] ou [[H] cache la fenêtre de dialogue.\nSi vous voulez revoir ces informations, vous pouvez le faire depuis le menu principal."
 
 # game/chapter1.rpy:409
 translate french colorend_7c214f52:
@@ -175,7 +175,7 @@ translate french begingame_337d015e:
 translate french begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Quand nous fîmes savoir cela à l'autre côté, nous reçumes une réponse très inattendue : une lettre d'inviation. Après quelques délibérations, il fut décidé d'accepter leur hospitalité et d'envoyer une personne de l'autre côté."
+    n "Quand nous fîmes savoir cela à l'autre côté, nous reçumes une réponse très inattendue : une lettre d'invitation. Après quelques délibérations, il fut décidé d'accepter leur hospitalité et d'envoyer une personne de l'autre côté."
 
 # game/chapter1.rpy:437
 translate french begingame_3dadd8d0:
@@ -211,7 +211,7 @@ translate french begingame_d966c5be:
 translate french begingame_0be71cd9:
 
     # n "Either that, or just very, very foolish."
-    n "Soit ça, soit simplement très, très imprudent et stupide."
+    n "Soit ça, soit simplement très, très imprudent, voire stupide."
 
 # game/chapter1.rpy:450
 translate french begingame_71b0a869:
@@ -223,7 +223,7 @@ translate french begingame_71b0a869:
 translate french begingame_11930bc6:
 
     # n "Not that any speculation on our part would've made a difference."
-    n "De toute façon, toute spéculation de notre part n'aurait fait aucune différence."
+    n "De toute façon, toute spéculation de notre part était vaine."
 
 # game/chapter1.rpy:452
 translate french begingame_82f1d7da:
@@ -231,7 +231,7 @@ translate french begingame_82f1d7da:
     # nvl clear
     # n "When the day finally came, through he went, with applause echoing across the area - equipped only with the clothes he wore, his multi-tool, a gun and a device on his wrist that acted as a PDA."
     nvl clear
-    n "Quand le jour vint enfin, il franchit le portail, des applaudissements résonnant dans toute la zone - équipé uniquement des vêtements qu'il portait, de son outil multi-fonction, d'un revolver et et d'un PDA à son poignet"
+    n "Quand le jour vint enfin, il franchit le portail, des applaudissements résonnant dans toute la zone - équipé uniquement des vêtements qu'il portait, de son outil multi-fonction, d'un revolver et d'un PDA à son poignet"
 
 # game/chapter1.rpy:458
 translate french begingame_76b2fe88_2:
@@ -261,7 +261,7 @@ translate french begingame_4e5d991b:
 translate french begingame_282e06e8:
 
     # n "While we had assumed the portal led to another in a different country, or maybe on a different continent, the reality turned out to be much more... foreign."
-    n "Alors que nous avions présumé la destination du portail comme étant un autre pays, ou même un autre continent, la vérité se révéla bien plus... étrangère."
+    n "Alors que nous avions présumé la destination du portail comme étant un autre pays, ou même un autre continent, la réalité se révéla bien plus... étrangère."
 
 # game/chapter1.rpy:465
 translate french begingame_2a8e54d7:
@@ -287,7 +287,7 @@ translate french begingame_ac587ebf:
 translate french begingame_273be6cf:
 
     # n "Finding the portal had been remarkable in itself, but this took it to a completely different level."
-    n "Découvrir le portail avait été remarquable en soi, mais cette nouvelle lui fit prendre une toute autre importance."
+    n "Découvrir le portail avait été remarquable en soi, mais ces nouvelles lui firent prendre une toute autre importance."
 
 # game/chapter1.rpy:471
 translate french begingame_942d3fc8:
@@ -305,7 +305,7 @@ translate french begingame_b4430af1:
 translate french begingame_73af8ba0:
 
     # n "Even though we found it hard to believe, it had been these dragons who sent us all the letters. And what Reza found on the other side of the portal was a whole civilization of them. They could talk, write books, had buildings and electricity. In many ways, their society was actually very similar to our own."
-    n "Nous le trouvâmes difficile à croire, mais c'était ces dragons qui nous avaient envoyé toutes ces lettres. Et ce que Reza trouva de l'autre côté du portail était une entière civilization de dragons. Ils pouvaient parler, écrire des livres, avaient des bâtiments et l'électricité. En de nombreux points, leur société était de fait très similaire à la notre."
+    n "Nous le trouvâmes difficile à croire, mais c'était ces dragons qui nous avaient envoyé toutes ces lettres. Et ce que Reza trouva de l'autre côté du portail en était une entière civilization. Ils pouvaient parler, écrire des livres, avaient des bâtiments et l'électricité. En de nombreux points, leur société était de fait très similaire à la notre."
 
 # game/chapter1.rpy:474
 translate french begingame_6abe8d77:
@@ -313,7 +313,7 @@ translate french begingame_6abe8d77:
     # nvl clear
     # n "So, who were they? And where was this place? Could they be aliens?"
     nvl clear
-    n "Alors, qui étaient-ils ? And où était cet endroit ? Pouvaient-ils être des aliens ?"
+    n "Alors, qui étaient-ils ? Et où était cet endroit ? Pouvaient-ils être des aliens ?"
 
 # game/chapter1.rpy:476
 translate french begingame_1020ae93:
@@ -351,7 +351,7 @@ translate french begingame_dc6c4ac0:
 translate french begingame_32508c0c:
 
     # n "That was what we knew about them so far, and as interesting as learning those things and debating their cultural significance was, we didn't really know what we should make of it all."
-    n "C'est tout ce que nous savions d'eux à ce point, et aussi intéressant que pouvait être d'apprendre tout cela et de débattre leur importance culturelle, nous ne savions pas vraiment quoi en faire."
+    n "C'est tout ce que nous savions d'eux à ce point, et aussi intéressant que cela pouvait être d'apprendre tout cela et d'en débattre l'importance culturelle, nous ne savions pas vraiment quoi en faire."
 
 # game/chapter1.rpy:485
 translate french begingame_26e2ea6a:
@@ -365,7 +365,7 @@ translate french begingame_32345ff9:
     # nvl clear
     # n "We were to give them a few of our PDA devices, which contained vast amounts of knowledge, dwarfing even that of encyclopedias. In return, they would supply us with generators."
     nvl clear
-    n "Nous leur donnerions quelques de nos PDA, qui contenaient de vastes quantités de connaissance, éclipsant celles même des encyclopédies. En échanges, ils nous fourniraient en générateurs."
+    n "Nous leur donnerions quelques de nos PDA, qui contenaient de vastes quantités de connaissances, éclipsant celles même des encyclopédies. En échange, ils nous fourniraient en générateurs."
 
 # game/chapter1.rpy:488
 translate french begingame_23bd1b9f:
@@ -377,7 +377,7 @@ translate french begingame_23bd1b9f:
 translate french begingame_9422efc0:
 
     # n "Not only that, but evidently also quite efficient. We certainly would be able to put technology like that to good use, and trading mere past knowledge of the human race for something more... tangible... was a good call on his part."
-    n "Pas seulement ça, mais ils étaient aussi de façon évidente assez efficaces. Nous pouvions certainement mettre ce genre de technologie à profit, et n'échanger que de simples connaissances anciennes de la race humaine pour quelque chose de plus... tangible... était une bonne idée de sa part."
+    n "Pas seulement ça, mais ils étaient aussi de façon évidente assez efficaces. Nous pouvions certainement mettre ce genre de technologie à profit, et n'échanger que de simples connaissances anciennes de la race humaine pour quelque chose de plus... tangible... était une bonne initiative de sa part."
 
 # game/chapter1.rpy:494
 translate french begingame_76b2fe88_3:
@@ -401,7 +401,7 @@ translate french begingame_9cb37fb9:
 translate french begingame_062d5b60:
 
     # n "What a way to make a first impression by a display of mutual goodwill. Everyone benefits and everyone goes home happy."
-    n "Quelle façon de faire une première impression par une démonstration de bonne volontée mutuelle. Tout le monde profite et tout le monde est content."
+    n "Quelle façon de faire une première impression par une démonstration de bonne volonté mutuelle. Tout le monde profite et tout le monde est content."
 
 # game/chapter1.rpy:500
 translate french begingame_b084fb87:
@@ -483,7 +483,7 @@ translate french begingame_3ba6854d:
 translate french begingame_0d6baf11:
 
     # n "{cps=80}Both horrifying and beautiful, it was an experience unlike any other, yet over in just a split second.{/cps}"
-    n "{cps=80}À la fois horrifiant et magnifique, ce fut une expérience comme aucune autre, et pourtant elle fut terminée en à peine une fraction de seconde.{/cps}"
+    n "{cps=80}À la fois horrifiante et magnifique, ce fut une expérience comme aucune autre, et pourtant elle fut terminée en à peine une fraction de seconde.{/cps}"
 
 # game/chapter1.rpy:613
 translate french begingame_76b2fe88_5:
@@ -501,13 +501,13 @@ translate french begingame_d079f0e6:
 translate french begingame_9ea6cf05:
 
     # n "I could only see a patch of lighter color contrasting with its dark surroundings as my vision started to clear. Its edges got sharper as the patch of light slowly took shape, giving me the distinguished outline of a reptilian head, and an array of horns spouting from it."
-    n ""
+    n "Quand ma vision me revint progressivement, je ne pus voir qu'une tâche d'une couleur claire contrastant avec l'obscurité environnante. Ses bords devinrent plus nets, alors que la tâche prit lentement forme, me donnant le contour distinct d'une tête reptilienne, une série de cornes semblant en jaillir."
 
 # game/chapter1.rpy:639
 translate french holetravel_6a175cfd:
 
     # m "It was a dragon!{w=1.0}\nAnd as I could now see, a dragon who not only had a pair of round glasses, but also wore a burgundy tie around its neck."
-    m ""
+    m "C'était un dragon !{w=1.0}\nEt d'après ma vision récupérée, un dragon qui avait non seulement une paire de lunettes rondes mais qui portait également une cravate bordeaux autour du cou."
 
 # game/chapter1.rpy:640
 translate french holetravel_76b2fe88:
@@ -519,145 +519,145 @@ translate french holetravel_76b2fe88:
 translate french holetravel_7941b5bd:
 
     # Ry "In the name of our people, I bid you welcome. If I may introduce myself, I am Remy, your guide and ambassador - a representative of our council."
-    Ry ""
+    Ry "Au nom de notre peuple, je vous souhaite la bienvenue. Si je puis me présenter, je suis Rémi, votre guide et ambassadeur - un représentant de notre conseil."
 
 # game/chapter1.rpy:664
 translate french holetravel_b40dd6f0:
 
     # m "The dragon spoke! It was one thing to have heard and read about this, but something else entirely to have one standing in front of me, in flesh and blood... and tongue. It was good that all my mental preparedness had disappeared when I was teleported, because nothing could have prepared me for this."
-    m ""
+    m "Le dragon parla ! C'était une chose d'en avoir eu vent, mais c'était complément différent d'en avoir un se tenant devant moi, en chair et en os... et en langue. C'était une bonne chose que toute ma préparation mentale disparut quand j'eus été téléporté, car rien n'aurait pu me préparer pour cela."
 
 # game/chapter1.rpy:665
 translate french holetravel_5c6fb2e0:
 
     # Ry "Sorry, I imagine you might still feel the effects of the teleportation. Drowsiness or weakness is not unusual, as is fainting and spontaneous emptying of your bowels, bladder or stomach. How do you feel?"
-    Ry ""
+    Ry "Excusez-moi, j'imagine que vous sentez toujours les effets de la téléportation. Somnolence et faiblesse sont usuels, tout comme la perte de connaissance, et la vidange spontanée de vos intestins, votre vessie ou votre estomac. Comment vous sentez-vous ? "
 
 # game/chapter1.rpy:666
 translate french holetravel_b43650b7:
 
     # m "Rendered speechless, I had totally forgotten that I was shouldering the burden of representing my people to them as well. So much for being professional, but at least he gave me a good excuse for my blunder."
-    m ""
+    m "Rendu sans voix, j'avais complètement oublié que j'endossais également la responsabilité de représenter les miens auprès d'eux. Tant de préparation pour ça... Mais au moins il me donnait une bonne excuse pour ma bévue."
 
 # game/chapter1.rpy:667
 translate french holetravel_883eb98b:
 
     # c "I... think I'm alright."
-    c ""
+    c "Je... pense que je vais bien."
 
 # game/chapter1.rpy:669
 translate french holetravel_1b80444e:
 
     # Ry "Well, I'm glad to hear that."
-    Ry ""
+    Ry "Et bien, je suis content d'entendre ça."
 
 # game/chapter1.rpy:671
 translate french holetravel_a3fad319:
 
     # Ry "Maybe we should go before it gets too dark. Come with me, please."
-    Ry ""
+    Ry "Nous devrions probablement y aller avant qu'il ne fasse trop sombre. Venez avec moi, s'il vous plaît."
 
 # game/chapter1.rpy:674
 translate french holetravel_91c5ac30:
 
     # m "So I followed the dragon, not straying too far from him, as the sun had already departed for the day and the remaining light diminished by the minute."
-    m ""
+    m "Je suivis alors le dragon, ne traînant pas trop loin derrière lui, le soleil s'étant déjà eclipsé pour la journée et la lumière restante diminuée par la minute."
 
 # game/chapter1.rpy:678
 translate french holetravel_98cf1cad:
 
     # c "It is getting hard to see where I'm going..."
-    c ""
+    c "Cela devient difficile de voir où je vais..."
 
 # game/chapter1.rpy:682
 translate french holetravel_aeb0c88e:
 
     # Ry "Sorry about that, but we had a good reason to schedule your arrival like this. We did not want you to be ambushed by a crowd, so we had to keep your exact time and date of arrival secret."
-    Ry ""
+    Ry "Désolé pour ça, mais nous avions une bonne raison de programmer votre arrivée de cette manière. Nous ne voulions pas être pris en embuscade par une foule, nous avons donc du garder votre date et heure exacte d'arrivée secrète."
 
 # game/chapter1.rpy:683
 translate french holetravel_b1ea774c:
 
     # c "Thanks. I suppose an event like this would make me a celebrity of sorts. It would be the same if one of you came to us."
-    c ""
+    c "Merci. Je suppose qu'un évènement comme celui-là fait de moi une sorte de célébrité. Ça serait pareil si l'un de vous venait chez nous."
 
 # game/chapter1.rpy:684
 translate french holetravel_a75b3c45:
 
     # Ry "That's quite an understatement. Some people here are rather superstitious. They might regard you or any of your kind as... divine, I suppose."
-    Ry ""
+    Ry "C'est un euphémisme. Certaines personnes ici sont assez superstitieuses. Ils pourraient vous voir vous ou n'importe qui d'autre de votre espèce comme... divin, je suppose."
 
 # game/chapter1.rpy:687
 translate french holetravel_73aa25c3:
 
     # c "Really? How so?"
-    c ""
+    c "Vraiment ? Comment ça ?"
 
 # game/chapter1.rpy:691
 translate french holetravel_437d1607:
 
     # Ry "We do have certain myths that involve humans and as such... Oh, I suppose the history lesson will have to wait for another time. Here we are."
-    Ry ""
+    Ry "Nous avons certains mythes impliquant des humains, et du coup... Oh, je suppose que la leçon d'histoire devra attendre. Nous y voilà."
 
 # game/chapter1.rpy:695
 translate french holetravel_6e0c5972:
 
     # m "By this point, it had gotten so dark that I could barely make out the building before us. I briefly wondered whether they might have street lights elsewhere, or if they just did not require any due to possible enhanced eyesight or night vision."
-    m ""
+    m "À ce point, il faisait tellement sombre que je pouvais à peine voir le bâtiment se dressant devant nous. Je me demandai brièvement s'ils avaient des éclairages publics ailleurs, où s'ils n'en avaient simplement pas besoin en raison d'une meilleure acuité visuelle ou d'une meilleure vision nocturne."
 
 # game/chapter1.rpy:696
 translate french holetravel_4bcd03cc:
 
     # m "I could vaguely see the dragon, his light colors still visible within the blackness that engulfed the area, rear up and manipulate the door handle with one of his forepaws."
-    m ""
+    m "Je pus vaguement apercevoir le dragon, ses couleurs lumineuses toujours visibles malgré l'obscurité qui avait englouti l'endroit, se cabrer et manipuler la poignée de la porte avec l'une de ses pattes avant."
 
 # game/chapter1.rpy:709
 translate french holetravel_f97397b2:
 
     # m "Hinges creaking, the door opened, and with the flick of a switch, the apartment was flooded with light, blinding me after all the time we had just spent without it."
-    m ""
+    m "Accompagnée d'un grincement des gonds, la porte s'ouvrit, et par un simple coup d'interrupteur, l'appartement s'inonda de lumière, m'aveuglant après tout ce temps passé sans."
 
 # game/chapter1.rpy:713
 translate french holetravel_7c536461:
 
     # Ry "This is where you will live for the time being. It is fully stocked, but in case you need anything else, I left you a note with a few phone numbers."
-    Ry ""
+    Ry "C'est ici que vous vivrez pour le moment. L'appartement est entièrement approvisionné, mais si vous avez besoin de quoi que ce soit d'autre, je vous ai laissé une note avec quelques numéros de téléphone."
 
 # game/chapter1.rpy:714
 translate french holetravel_e590ac89:
 
     # Ry "It is getting rather late, so I will have to take my leave now. In any case, someone will come and meet you tomorrow morning."
-    Ry ""
+    Ry "Il se fait tard, je vais donc devoir prendre congé. Dans tous les cas, quelqu'un viendra vous rencontrer demain matin."
 
 # game/chapter1.rpy:715
 translate french holetravel_a1bc0095:
 
     # c "Thank you, Remy. Have a good night."
-    c ""
+    c "Merci, Rémi. Passe une bonne nuit."
 
 # game/chapter1.rpy:716
 translate french holetravel_acc659e8:
 
     # Ry "Until we meet again."
-    Ry ""
+    Ry "À la prochaine."
 
 # game/chapter1.rpy:727
 translate french holetravel_7ce680cd:
 
     # n "With a nod, Remy left the apartment, mindful enough to close the door behind himself. Surveying the room, I considered the events that had just transpired as my gaze met the window."
-    n ""
+    n "Avec un signe de la tête, Rémi quitta l'appartement, suffisamment soucieux pour fermer la porte derrière lui. "
 
 # game/chapter1.rpy:728
 translate french holetravel_0066f440:
 
     # n "I could see movement outside, and as I drew nearer, startled, I could hear footsteps in the grass, moving away quickly. Assuming it must have been the dragon I just met, I thought nothing of it as I went to bed and slowly succumbed to the sweet allure of sleep overdue."
-    n ""
+    n "Je vis du mouvement dehors, et alors que je m'approchai, surpris, je pus entendre des bruits de pas dans l'herbe, s'éloignant rapidement. Supposant qu'il s'agissait du dragon que je venais de rencontrer, je n'en pensai rien alors que j'eus rejoint mon lit, succombant lentement au doux appel du sommeil."
 
 # game/chapter1.rpy:733
 translate french holetravel_344cc935:
 
     # n "I spent a few moments thinking about my role, my mission and what it meant to be here now."
-    n ""
+    n "Je pris quelques moments pour penser à mon rôle, ma mission et la signification de ma présence ici et maintenant."
 
 # game/chapter1.rpy:740
 translate french holetravel_76b2fe88_1:
@@ -669,13 +669,13 @@ translate french holetravel_76b2fe88_1:
 translate french holetravel_49a3a932:
 
     # n "Now here I was, a stranger in a strange land, as I only began to feel the weight of the burden that lay upon me, the pressure of my task and the expectations I would have to meet in representing a species, culture and civilization."
-    n ""
+    n "J'étais là, un étranger dans un monde étrange, alors que je commençai tout juste à ressentir le poids des responsabilités qui pesaient sur moi, la pression de ma tâche et les attentes que j'aurais à satisfaire pour représenter une espèce, une culture, une civilisation."
 
 # game/chapter1.rpy:744
 translate french holetravel_d92940c8:
 
     # n "So many would depend on it, yet I did not even know where the only human contact I had currently was."
-    n ""
+    n "Tellement de personnes en dépendaient, et pourtant je ne savais même pas où se trouvait actuellement le seul contact humain que j'avais."
 
 # game/chapter1.rpy:745
 translate french holetravel_75a177a0:
@@ -683,7 +683,7 @@ translate french holetravel_75a177a0:
     # nvl clear
     # n "I was alone."
     nvl clear
-    n ""
+    n "J'étais seul."
 
 # game/chapter1.rpy:752
 translate french holetravel_76b2fe88_2:
@@ -695,13 +695,13 @@ translate french holetravel_76b2fe88_2:
 translate french holetravel_2b565a45:
 
     # n "So many possibilities and prospects raced through my mind. Truth be told, the thought of being able to meet an entirely new species and civilization excited me. As I was going to be one of the first to truly experience their society with its own little quirks, differences and similarities, I couldn't help but feel like some sort of modern Vasco da Gama or Marco Polo."
-    n ""
+    n "Tant de possibilités et de perspectives me vinrent à l'esprit. À vrai dire, l'idée de pouvoir rencontrer une toute nouvelle espèce et civilisation m'excitait. Puisque j'allais être l'un des premiers à réellement vivre leur société, avec ses propres particularités, différences et similarités, je ne pouvais m'empêcher de me sentir comme une sorte de Vasco de Gama ou de Marco Polo des temps modernes."
 
 # game/chapter1.rpy:756
 translate french holetravel_8355d8c5:
 
     # n "Maybe I would even write a book about the whole experience after it's all over. I was sure it would become a hit, all things considered."
-    n ""
+    n "Peut-être que je pourrais même écrire un livre sur tout cette aventure quand tout sera fini. J'étais certain que cela aurait un franc succès, tout bien considéré."
 
 # game/chapter1.rpy:757
 translate french holetravel_ed81ce8a:
@@ -709,7 +709,7 @@ translate french holetravel_ed81ce8a:
     # nvl clear
     # n "At any rate, this was going to be fun."
     nvl clear
-    n ""
+    n "Dans tous les cas, cela allait être amusant."
 
 # game/chapter1.rpy:809
 translate french skipintro_4ceaddf2:
@@ -4629,111 +4629,111 @@ translate french strings:
 
     # chapter1.rpy:43
     old "Chapter 1"
-    new ""
+    new "Chapitre 1"
 
     # chapter1.rpy:44
     old "Prologue"
-    new ""
+    new "Prologue"
 
     # chapter1.rpy:50
     old "Name"
-    new ""
+    new "Nom"
 
     # chapter1.rpy:99
     old "Please, enter your name:"
-    new ""
+    new "Veuillez entrer votre nom : "
 
     # chapter1.rpy:108
     old "{color=#0000ff}B{/color}lue"
-    new ""
+    new "{color=#0000ff}B{/color}leu"
 
     # chapter1.rpy:108
     old "{color=#ff0000}R{/color}ed"
-    new ""
+    new "{color=#ff0000}R{/color}ouge"
 
     # chapter1.rpy:108
     old "{color=#ffff00}Y{/color}ellow"
-    new ""
+    new "{color=#ffff00}J{/color}aune"
 
     # chapter1.rpy:108
     old "{color=#008000}G{/color}reen"
-    new ""
+    new "{color=#008000}V{/color}ert"
 
     # chapter1.rpy:108
     old "{color=#d3d3d3}G{/color}ray"
-    new ""
+    new "{color=#d3d3d3}G{/color}ris"
 
     # chapter1.rpy:108
     old "[[Show more colors.]"
-    new ""
+    new "[[Montrer plus de couleurs.]"
 
     # chapter1.rpy:163
     old "{color=#00ffff}C{/color}yan"
-    new ""
+    new "{color=#00ffff}C{/color}yan"
 
     # chapter1.rpy:163
     old "{color=#ff00ff}M{/color}agenta"
-    new ""
+    new "{color=#ff00ff}M{/color}agenta"
 
     # chapter1.rpy:163
     old "{color=#00ff00}L{/color}ime"
-    new ""
+    new "{color=#00ff00}V{/color}ert citron"
 
     # chapter1.rpy:163
     old "{color=#ffa500}O{/color}range"
-    new ""
+    new "{color=#ffa500}O{/color}range"
 
     # chapter1.rpy:163
     old "{color=#ffffff}W{/color}hite"
-    new ""
+    new "{color=#ffffff}B{/color}lanc"
 
     # chapter1.rpy:226
     old "{color=#ffd700}G{/color}old"
-    new ""
+    new "{color=#ffd700}O{/color}r"
 
     # chapter1.rpy:226
     old "{color=#c0c0c0}S{/color}ilver"
-    new ""
+    new "{color=#c0c0c0}A{/color}rgent"
 
     # chapter1.rpy:226
     old "{color=#b5a642}B{/color}rass"
-    new ""
+    new "{color=#b5a642}L{/color}aiton"
 
     # chapter1.rpy:226
     old "{color=#cd7f32}B{/color}ronze"
-    new ""
+    new "{color=#cd7f32}B{/color}ronze"
 
     # chapter1.rpy:226
     old "{color=#cb6d51}C{/color}opper"
-    new ""
+    new "{color=#cb6d51}C{/color}uivre"
 
     # chapter1.rpy:289
     old "{color=#808000}O{/color}live"
-    new ""
+    new "{color=#808000}O{/color}live"
 
     # chapter1.rpy:289
     old "{color=#8b4513}B{/color}rown"
-    new ""
+    new "{color=#8b4513}M{/color}arron"
 
     # chapter1.rpy:289
     old "{color=#008080}T{/color}eal"
-    new ""
+    new "{color=#008080}B{/color}leu sarcelle"
 
     # chapter1.rpy:289
     old "{color=#800080}P{/color}urple"
-    new ""
+    new "{color=#800080}V{/color}iolet"
 
     # chapter1.rpy:289
     old "{color=#800000}M{/color}aroon"
-    new ""
+    new "{color=#800000}B{/color}ordeaux"
 
     # chapter1.rpy:737
     old "I felt the responsibility placed on my shoulders."
-    new ""
+    new "Je sentais la responsabilité placée sur mes épaules."
 
     # chapter1.rpy:737
     old "I was eager for the adventure to come."
-    new ""
+    new "J'avais hâte pour l'aventure à venir."
 
     # chapter1.rpy:1261
     old "Shake his hand."
