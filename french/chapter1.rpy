@@ -715,19 +715,19 @@ translate french holetravel_ed81ce8a:
 translate french skipintro_4ceaddf2:
 
     # s "{cps=20}You wish to glimpse the past, [player_name]? Very well.{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "{cps=20}Vous souhaitez entrevoir le passé, [player_name] ? Très bien.{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:813
 translate french skipintro_664c5cbc:
 
     # s "{cps=20}You wish to return once more, [player_name]? Very well.{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "{cps=20}You souhaitez revenir encore une fois, [player_name] ? Très bien.{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:817
 translate french skipintro_bc457b13:
 
     # s "{cps=20}Continue your journey, [player_name].{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "{cps=20}Poursuivez votre parcours, [player_name].{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:1132
 translate french seccont_76b2fe88:
@@ -739,121 +739,121 @@ translate french seccont_76b2fe88:
 translate french seccont_f6acc4a0:
 
     # n "I awoke from uneasy dreams looking at an unfamiliar ceiling. Just for a moment, I wondered where I was before the events of last night all came back to me."
-    n ""
+    n "Je me réveillai en regardant un plafond inconnu, les rêves désagréables de la nuit toujours en tête. Le temps d'un instant, je me demandai où j'étais avant que les évènements de la nuit dernière me revinssent subitement en tête."
 
 # game/chapter1.rpy:1148
 translate french seccont_22affa1d:
 
     # n "After a good stretch, I looked around the room illuminated by the sunlight coming in from the window. Outside, in the distance, the portal I had emerged from proudly stood on the peak of a small hill."
-    n ""
+    n "Après un bon étirement, je regardai autour de moi la salle illuminée par la lumière du soleil venant de la fenêtre. Dehors, au loin, le portail duquel j'avais émergé se tenait fièrement au sommet d'une petite colline."
 
 # game/chapter1.rpy:1149
 translate french seccont_f69b9100:
 
     # n "Getting ready, I noticed something lying on the table. It was the note Remy had left for me in case I needed anything. Along with his own home phone and work number, there were also some numbers for delivery of food and other necessities, as well as emergency and even janitorial services. He had certainly thought of everything, even though I now had to wonder what a dragon plumber might look like."
-    n ""
+    n "En me préparant, je remarquai quelque chose sur la table. Il s'agissait de la note que Rémi avait laissé pour moi au cas où j'eusse besoin de quelque chose. En plus de son propre numéro de domicile et de travail, il y avait plusieurs numéros pour des livraisons de nourriture et autres nécessités, ainsi que des numéros d'urgence et même des numéros pour des services de conciergerie. Il avait certainement pensé à tout, même si je devais maintenant me demander à quoi un dragon plombier pouvait bien ressembler."
 
 # game/chapter1.rpy:1153
 translate french seccont_b34a115e:
 
     # n "My musings were interrupted when the doorbell rang. When I opened the door, I was met by another dragon."
-    n ""
+    n "Mes rêveries furent interrompues lorsque la sonnerie de la porte retentit. Quand j'ouvris la porte, je fis la connaissance d'un autre dragon."
 
 # game/chapter1.rpy:1188
 translate french _call_skiptut_2_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des personnages ?"
 
 # game/chapter1.rpy:1196
 translate french _call_skiptut_2_11989f6d:
 
     # s "It looks like you've seen this before. Skip to the character selection?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la sélection des personnages ?"
 
 # game/chapter1.rpy:1204
 translate french _call_skiptut_2_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des personnages."
 
 # game/chapter1.rpy:1218
 translate french _call_skiptut_2_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter1.rpy:1239
 translate french _call_skipcheck_2_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter1.rpy:1257
 translate french _call_skipcheck_2_8b54a3a5:
 
     # Sb "H-Hello! You must be [player_name]. I'm Sebastian, and I'll be your escort... or s-security, I suppose. Usually I work for the police, though. Nice to meet you."
-    Sb ""
+    Sb "B-bonjour ! Vous devez être [player_name]. Je suis Sébastien, et je serai votre escorte... ou s-sécurité, je suppose. Habituellement je travaille pour la police. Content de vous rencontrer."
 
 # game/chapter1.rpy:1259
 translate french _call_skipcheck_2_dd8ee6c6:
 
     # m "He seemed a lot smaller than Remy, and when he somewhat nervously extended his arm towards me, I noticed he apparently only walked on his hind legs, the two forelimbs instead having distinct arms, hands and fingers."
-    m ""
+    m "Il semblait beaucoup plus petit que Rémi, et quand il tenda plutôt nerveusement son bras vers moi, je remarquai qu'il ne marchait apparamment que sur ses pattes arrières, ses deux membres avant ayant distinctement des bras, des mains et des doigts"
 
 # game/chapter1.rpy:1264
 translate french _call_skipcheck_2_369fcd63:
 
     # m "When I took his hand into mine to shake it gently, I could feel the individual bumps and scales on his rough skin."
-    m ""
+    m "Quand je pris sa main dans la mienne pour la serrer avec douceur, je pus sentir individuellement les bosses et les écailles sur sa peau rugueuse."
 
 # game/chapter1.rpy:1265
 translate french _call_skipcheck_2_7a25dc5e:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c ""
+    c "Content de te rencontrer aussi, Sébastien. Alors, où m'emmènes-tu ?"
 
 # game/chapter1.rpy:1268
 translate french _call_skipcheck_2_7a25dc5e_1:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c ""
+    c "Content de te rencontrer aussi, Sébastien. Alors, où m'emmènes-tu ?"
 
 # game/chapter1.rpy:1274
 translate french _call_skipcheck_2_540956bc:
 
     # m "When I took his hand into mine, preparing to kiss it, I could feel the individual bumps and scales on his rough skin."
-    m ""
+    m "Quand je pris sa main dans la mienne, me préparant à l'embrasser, je pus sentir individuellement les bosses et les écailles sur sa peau rugueuse."
 
 # game/chapter1.rpy:1278
 translate french _call_skipcheck_2_7a25dc5e_2:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c ""
+    c "Content de te rencontrer aussi, Sébastien. Alors, où m'emmènes-tu ?"
 
 # game/chapter1.rpy:1284
 translate french _call_skipcheck_2_89d32851:
 
     # Sb "Straight to business, eh? We're going to visit the plant where they are making your generators. They have some news for you, or so I've heard."
-    Sb ""
+    Sb "Droit au but, n'est-ce-pas ? Nous allons visiter le complexe où ils fabriquent vos générateurs. Ils ont quelques nouvelles pour vous, de ce que j'ai entendu dire."
 
 # game/chapter1.rpy:1285
 translate french _call_skipcheck_2_e6da4888:
 
     # Sb "Reza will be there, too."
-    Sb ""
+    Sb "Reza sera là aussi."
 
 # game/chapter1.rpy:1286
 translate french _call_skipcheck_2_5a47fdba:
 
     # c "Sounds great."
-    c ""
+    c "Ça me semble être un bon programme."
 
 # game/chapter1.rpy:1287
 translate french _call_skipcheck_2_cc9b257f:
 
     # Sb "Just follow me."
-    Sb ""
+    Sb "Suis-moi."
 
 # game/chapter1.rpy:1295
 translate french _call_skipcheck_2_76b2fe88:
@@ -865,145 +865,145 @@ translate french _call_skipcheck_2_76b2fe88:
 translate french _call_skipcheck_2_a0f2016d:
 
     # n "While we walked, I was under the impression we were purposefully avoiding the busier parts of the town, instead straying towards the edges and small alleys as to not garner too much attention."
-    n ""
+    n "Alors que nous marchions, j'avais l'impression que nous évitions intentionnellement les parties plus animées de la ville, s'éloignant à la place vers les bords et les petites allées afin d'éviter d'attirer trop d'attention."
 
 # game/chapter1.rpy:1299
 translate french _call_skipcheck_2_04ea8b49:
 
     # n "Even then, we got the occasional stare."
-    n ""
+    n "Même avec ces précautions, nous eûmes d'occasionnels regards incrédules."
 
 # game/chapter1.rpy:1301
 translate french _call_skipcheck_2_a313ff65:
 
     # n "After just a couple of minutes, we arrived at our destination where we were met by Reza, as well as yet another dragon, a vicious looking beast that didn't stay too close to him."
-    n ""
+    n "Après quelques minutes, nous arrivâmes à notre destination où nous fûmes accueillis par Reza, ainsi que par encore un autre dragon, une bête à l'aspect vicieux qui restait à une certaine distance de lui."
 
 # game/chapter1.rpy:1319
 translate french _call_skipcheck_2_ed3bc404:
 
     # Rz "Hey."
-    Rz ""
+    Rz "Salut."
 
 # game/chapter1.rpy:1320
 translate french _call_skipcheck_2_4e1f9793:
 
     # c "Reza, long time no see."
-    c ""
+    c "Reza, ça faisait longtemps."
 
 # game/chapter1.rpy:1321
 translate french _call_skipcheck_2_035ee4c5:
 
     # Rz "How true that is. Good to finally see another human face around here."
-    Rz ""
+    Rz "Tu ne peux pas plus avoir raison. Ça fait du bien d'enfin voir un autre visage humain par ici."
 
 # game/chapter1.rpy:1323
 translate french _call_skipcheck_2_ab689bf0:
 
     # Rz "What a coincidence to have you, of all people, show up."
-    Rz ""
+    Rz "Quelle coïncidence que ce soit toi, de toutes les personnes possibles."
 
 # game/chapter1.rpy:1324
 translate french _call_skipcheck_2_a304046d:
 
     # c "Yeah, guess those degrees aren't so useless after all."
-    c ""
+    c "Ouais, j'imagine que ces diplômes n'étaient pas si inutiles après tout."
 
 # game/chapter1.rpy:1325
 translate french _call_skipcheck_2_1d959df5:
 
     # c "By the way, who's your friend?"
-    c ""
+    c "Au fait, qui est ton ami ?"
 
 # game/chapter1.rpy:1326
 translate french _call_skipcheck_2_bf84f7f4:
 
     # Rz "Just my bodyguard, same as yours. Don't bother with him, he doesn't talk much."
-    Rz ""
+    Rz "Juste mon garde du corps, tout comme le tiens. Ne t'occupes pas de lui, il ne parle pas beaucoup."
 
 # game/chapter1.rpy:1330
 translate french _call_skipcheck_2_8eee5c09:
 
     # Rz "Hah."
-    Rz ""
+    Rz "Ha."
 
 # game/chapter1.rpy:1336
 translate french _call_skipcheck_2_4c394714:
 
     # Rz "That's what he always looks like. And yes, that does mean he's always grumpy."
-    Rz ""
+    Rz "Il est toujours comme ça. Et oui, ça veut dire qu'il est tout le temps grincheux."
 
 # game/chapter1.rpy:1342
 translate french _call_skipcheck_2_03306bb6:
 
     # Rz "Very funny."
-    Rz ""
+    Rz "Très drôle."
 
 # game/chapter1.rpy:1347
 translate french _call_skipcheck_2_f80ab64c:
 
     # m "The two dragons exchanged a few words and as I met the gaze of the larger, tenebrous dragon a few paces from us, Sebastian turned towards me and spoke up again."
-    m ""
+    m "Les deux dragons échangèrent quelques mots et alors que je rencontrai le regard du dragon ténébreux et plus imposant à quelques pas de nous, Sébastien se tourna vers moi et parla de nouveau."
 
 # game/chapter1.rpy:1353
 translate french _call_skipcheck_2_e3c71041:
 
     # Sb "Hey, [player_name], this is Maverick."
-    Sb ""
+    Sb "Hé, [player_name], voici Maverick."
 
 # game/chapter1.rpy:1354
 translate french _call_skipcheck_2_ec602286:
 
     # c "Nice to meet you."
-    c ""
+    c "Content de te rencontrer."
 
 # game/chapter1.rpy:1355
 translate french _call_skipcheck_2_dc037c95:
 
     # Mv "Yeah, whatever. Just don't expect me to give you any special treatment like everyone else is and we'll be good."
-    Mv ""
+    Mv "Oui, oui, si tu veux. Ne t'attends juste pas à un traitement de faveur de ma part et tout ira bien."
 
 # game/chapter1.rpy:1356
 translate french _call_skipcheck_2_3070bc42:
 
     # c "What are you talking about?"
-    c ""
+    c "De quoi veux-tu parler ?"
 
 # game/chapter1.rpy:1357
 translate french _call_skipcheck_2_d732b21c:
 
     # Mv "So you're saying you haven't noticed the stares and how they all treat you like you're the next messiah or something?"
-    Mv ""
+    Mv "Alors, tu veux me dire que tu n'as pas remarqué les regards, et comment ils te traitent tous comme si tu étais le prochain messie ?"
 
 # game/chapter1.rpy:1358
 translate french _call_skipcheck_2_529aeda4:
 
     # c "N-No.. I just thought..."
-    c ""
+    c "N-non... je pensais juste..."
 
 # game/chapter1.rpy:1363
 translate french _call_skipcheck_2_4f894d15:
 
     # Rz "We're not the ones making a big deal out of this, you are. We're just here to get what we agreed on and then we'll be gone. If anything, I'd actually prefer if you left us alone, but you're the one who insists on following me around wherever I go."
-    Rz ""
+    Rz "Ce n'est pas nous qui en faisons tout une histoire, c'est toi. Nous sommes juste là pour récupérer ce sur quoi nous nous sommes mis d'accord et nous nous en iront. En soit, je préférerais plutôt que tu nous laisses tranquilles, mais tu ne fais qu'insister à me suivre où que j'aille."
 
 # game/chapter1.rpy:1369
 translate french _call_skipcheck_2_bf0efca8:
 
     # m "A growl escaped the darker dragon's trembling lips as he bared his teeth at Reza."
-    m ""
+    m "Un grognement s'échappa des lèvres tremblantes du dragon plus foncé alors qu'il montra ses dents à Reza."
 
 # game/chapter1.rpy:1373
 translate french _call_skipcheck_2_9cffa3e3:
 
     # Sb "Alright, alright, that's quite enough. Let's just all go inside already, shall we?"
-    Sb ""
+    Sb "Ok, ok, ça suffit. Allons juste tous ensemble à l'intérieur, d'accord ?"
 
 # game/chapter1.rpy:1374
 translate french _call_skipcheck_2_6044a25e:
 
     # c "After you."
-    c ""
+    c "Après toi."
 
 # game/chapter1.rpy:1380
 translate french _call_skipcheck_2_76b2fe88_1:
@@ -1015,295 +1015,295 @@ translate french _call_skipcheck_2_76b2fe88_1:
 translate french _call_skipcheck_2_0c52476d:
 
     # m "The crisis was quickly averted as we entered the building, which was characterized by its many floors, high ceilings and long, narrow hallways as Sebastian led us to our destination."
-    m ""
+    m "La crise fut évitée de justesse lorsque nous entrâmes dans le bâtiment, qui se caractérisait par ses nombreux étages, ses hauts plafonds, et ses long et étroits couloirs alors que Sébastien nous emmenait vers notre destination."
 
 # game/chapter1.rpy:1389
 translate french _call_skipcheck_2_aed26b36:
 
     # "???" "There you are. I was waiting for you."
-    "???" ""
+    "???" "Ah, vous voilà. Je vous attendais."
 
 # game/chapter1.rpy:1401
 translate french _call_skipcheck_2_1e106597:
 
     # Sb "Wait a minute, I thought we were going to meet the guys from production. What are you doing here?"
-    Sb ""
+    Sb "Attends une minute, je pensais que nous allions rencontrer les gars de la production. Que fais-tu ici ?"
 
 # game/chapter1.rpy:1405
 translate french _call_skipcheck_2_8c860b7d:
 
     # "???" "They're only coming in later today, so you'll just have to make do with me."
-    "???" ""
+    "???" "Ils ne viendront que plus tard aujourd'hui, alors vous devrez faire avec moi."
 
 # game/chapter1.rpy:1409
 translate french _call_skipcheck_2_759b976c:
 
     # Sb "I see."
-    Sb ""
+    Sb "Je vois."
 
 # game/chapter1.rpy:1410
 translate french _call_skipcheck_2_46975328:
 
     # Sb "Well, [player_name], this is Anna. She kinda manages this building, though actually she's more involved with the research wing rather than production and engineering."
-    Sb ""
+    Sb "Et bien, [player_name], voici Anna. Elle gère ce bâtiment, même si elle est plus impliquée dans l'aile de la recherche que dans celle de la production et de l'ingéniérie."
 
 # game/chapter1.rpy:1411
 translate french _call_skipcheck_2_ec602286_1:
 
     # c "Nice to meet you."
-    c ""
+    c "Content de te rencontrer."
 
 # game/chapter1.rpy:1412
 translate french _call_skipcheck_2_e2ad732a:
 
     # An "My pleasure. I have something for you, by the way. It'll take them a while to make all the generators we promised, but we've got one for you here. Feel free to send it home and give it a test."
-    An ""
+    An "Tout le plaisir est pour moi. J'ai quelque chose pour vous au fait. Ça leur prendra du temps pour fabriquer tous les générateurs que nous avons promis mais nous avons celui-ci pour vous. Vous êtes libres de l'envoyer chez vous et de l'essayer."
 
 # game/chapter1.rpy:1420
 translate french _call_skipcheck_2_494a6341:
 
     # Rz "That's great. I'll take it."
-    Rz ""
+    Rz "Parfait. Je vais le prendre."
 
 # game/chapter1.rpy:1424
 translate french _call_skipcheck_2_83471fa0:
 
     # c "Looks a little small, if you ask me."
-    c ""
+    c "Ça a l'air un peu petit si vous voulez mon avis."
 
 # game/chapter1.rpy:1425
 translate french _call_skipcheck_2_71aa7402:
 
     # An "Don't underestimate its power. Oh, and do be careful not to drop it."
-    An ""
+    An "Ne surestimez pas sa puissance. Oh, et faites attention à ne pas le faire tomber."
 
 # game/chapter1.rpy:1426
 translate french _call_skipcheck_2_6e8828ce:
 
     # Rz "Sure. I'll be waiting outside while you do your thing, [player_name]."
-    Rz ""
+    Rz "Bien sûr. On va attendre dehors pendant tu fais ce que tu as à faire, [player_name]."
 
 # game/chapter1.rpy:1434
 translate french _call_skipcheck_2_07f32a3b:
 
     # Sb "I suppose I'll wait for you outside as well."
-    Sb ""
+    Sb "Je suppose que je t'attendrai dehors aussi."
 
 # game/chapter1.rpy:1442
 translate french _call_skipcheck_2_352f0511:
 
     # c "What thing?"
-    c ""
+    c "Ce que j'ai à faire ?"
 
 # game/chapter1.rpy:1443
 translate french _call_skipcheck_2_e7d08b3b:
 
     # An "Oh, have you brought the PDA?"
-    An ""
+    An "Oh, as-tu amené le PDA ?"
 
 # game/chapter1.rpy:1444
 translate french _call_skipcheck_2_22753051:
 
     # c "Of course. Here you go."
-    c ""
+    c "Bien sûr. Le voici."
 
 # game/chapter1.rpy:1448
 translate french _call_skipcheck_2_e93cdc3b:
 
     # An "Alright, now to give this thing a test run..."
-    An ""
+    An "Bien, maintenant faisons un essai..."
 
 # game/chapter1.rpy:1452
 translate french _call_skipcheck_2_677e591a:
 
     # m "The PDA lit up as her hands swiftly moved around its interface in calculated motions."
-    m ""
+    m "Le PDA s'alluma et ses mains bougèrent rapidement à travers l'interface de façon minutieuse."
 
 # game/chapter1.rpy:1454
 translate french _call_skipcheck_2_63d2793a:
 
     # An "By the way, would you consider letting me run some tests on you as well? It would only take a drop of your blood."
-    An ""
+    An "Au fait, accepterais-tu de me laisser faire quelques tests sur toi également ? Ça ne prendra qu'une goutte de ton sang. "
 
 # game/chapter1.rpy:1455
 translate french _call_skipcheck_2_115c34c4:
 
     # c "What? Why?"
-    c ""
+    c "Hein ? Pourquoi ?"
 
 # game/chapter1.rpy:1456
 translate french _call_skipcheck_2_86653501:
 
     # An "I work in biology, so obviously this kind of thing would be very interesting to us. I'd share the results with you, of course."
-    An ""
+    An "Je travaille dans le domaine de la biologie, alors évidemment ce genre de chose nous serait très intéressante. Bien sûr, je partagerais les résultats avec toi."
 
 # game/chapter1.rpy:1466
 translate french _call_skipcheck_2_747d3bb6:
 
     # An "Really? I thought you wouldn't mind."
-    An ""
+    An "Vraiment ? Je pensais que ça ne te dérangerait pas."
 
 # game/chapter1.rpy:1469
 translate french _call_skipcheck_2_4f8dfa7a:
 
     # An "Well, maybe next time."
-    An ""
+    An "Peut-être la prochaine fois alors."
 
 # game/chapter1.rpy:1475
 translate french _call_skipcheck_2_a0d5dc78:
 
     # An "That's a shame..."
-    An ""
+    An "Dommage..."
 
 # game/chapter1.rpy:1479
 translate french _call_skipcheck_2_35e7a623:
 
     # An "Great."
-    An ""
+    An "Génial."
 
 # game/chapter1.rpy:1480
 translate french _call_skipcheck_2_ff60882c:
 
     # m "She was quick to produce a small device from a drawer, which from a glance reminded me a lot of a test tube."
-    m ""
+    m "Elle sortit rapidement un petit appareil d'un tiroir, qui, à première vue, me rappelait beaucoup un tube à essai."
 
 # game/chapter1.rpy:1482
 translate french _call_skipcheck_2_4cb93198:
 
     # An "Now, if you would give me your hand, please."
-    An ""
+    An "Bien, peux-tu me donner ta main, s'il te plaît."
 
 # game/chapter1.rpy:1483
 translate french _call_skipcheck_2_5bb6a80a:
 
     # m "As I reached out to her, she took my hand into hers before she pressed the device into the back of my hand. I winced as pain jolted through my hand. Something sharp drove itself through my skin and, shortly afterwards, a droplet of blood was sucked into the tube attached to the small needle."
-    m ""
+    m "Je lui tendis la main, qu'elle me pris dans les siennes avant d'appuyer l'appareil dans le dos de ma main. Je grimaçai lorsqu'une douleur sembla subitement la traverser. Quelque chose de pointu transperça ma peau et, peu après, une gouttelette de sang fut aspiré dans le tube attaché à la petite aiguille."
 
 # game/chapter1.rpy:1485
 translate french _call_skipcheck_2_26e39b53:
 
     # An "Thanks."
-    An ""
+    An "Merci."
 
 # game/chapter1.rpy:1486
 translate french _call_skipcheck_2_7e89f10e:
 
     # c "You're... welcome?"
-    c ""
+    c "De... rien ?"
 
 # game/chapter1.rpy:1503
 translate french _call_syscheck_4_90c87390:
 
     # s "You gave Anna your blood!{image=image/ui/status/havetestresults.png}"
-    s ""
+    s "Vous avez donné votre sang à Anna !{image=image/ui/status/havetestresults.png}"
 
 # game/chapter1.rpy:1507
 translate french _call_syscheck_4_32106a9e:
 
     # s "You gave Anna your blood?{image=image/ui/status/havetestresults.png}"
-    s ""
+    s "Vous avez donné votre sang à Anna ?{image=image/ui/status/havetestresults.png}"
 
 # game/chapter1.rpy:1511
 translate french _call_syscheck_4_62f75a4e:
 
     # s "You gave Anna your blood? Oh, well...{image=image/ui/status/havetestresults.png}"
-    s ""
+    s "Vous avez donné votre sang Anna ? Oh, tant pis...{image=image/ui/status/havetestresults.png}"
 
 # game/chapter1.rpy:1515
 translate french _call_syscheck_4_6ef34d2e:
 
     # An "Looks like your PDA is good, by the way, so we're just about done here."
-    An ""
+    An "Au fait, on dirait que tout est en ordre avec ton PDA, du coup je pense qu'on en a fini ici."
 
 # game/chapter1.rpy:1516
 translate french _call_syscheck_4_efd29328:
 
     # An "And since we're both in biology, it could be interesting if you want to meet me some other time as well. Here's my number."
-    An ""
+    An "Et puisque nous sommes tous les deux dans la biologie, ça pourrait être intéressant si tu voulais venir me voir un autre jour. Voici mon numéro."
 
 # game/chapter1.rpy:1517
 translate french _call_syscheck_4_86148265:
 
     # c "Alright."
-    c ""
+    c "Ça marche."
 
 # game/chapter1.rpy:1521
 translate french _call_syscheck_4_46986bde:
 
     # An "See you soon."
-    An ""
+    An "Au revoir."
 
 # game/chapter1.rpy:1525
 translate french _call_syscheck_4_ee80c080:
 
     # c "Well, that was interesting."
-    c ""
+    c "Et bien, c'était quelque chose."
 
 # game/chapter1.rpy:1529
 translate french _call_syscheck_4_aa6687bb:
 
     # Rz "Did she ask you for your blood too?"
-    Rz ""
+    Rz "Elle t'as demandé ton sang aussi ?"
 
 # game/chapter1.rpy:1530
 translate french _call_syscheck_4_a1f0da02:
 
     # c "Yeah..."
-    c ""
+    c "Ouais..."
 
 # game/chapter1.rpy:1531
 translate french _call_syscheck_4_ee81a23f:
 
     # Rz "Did you give it to her?"
-    Rz ""
+    Rz "Tu lui as donné ?"
 
 # game/chapter1.rpy:1535
 translate french _call_syscheck_4_6bc8260f:
 
     # Rz "Me neither. I mean, if we're going to give them our body, let's not do it for free, right?"
-    Rz ""
+    Rz "Moi non plus. Je veux dire, si on doit leur donner notre corps, autant ne pas le faire gratuitement, n'est-ce-pas ?"
 
 # game/chapter1.rpy:1536
 translate french _call_syscheck_4_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "C'est sûr."
 
 # game/chapter1.rpy:1540
 translate french _call_syscheck_4_f0387be4:
 
     # Rz "Oh... Well, it's your choice. We've got no idea what they might do with it, though."
-    Rz ""
+    Rz "Oh... Et bien, c'est ton choix. On a aucune idée de ce qu'ils vont faire avec cependant."
 
 # game/chapter1.rpy:1542
 translate french _call_syscheck_4_9bb48a13:
 
     # c "I'm getting hungry. How about some breakfast?"
-    c ""
+    c "Je commence à avoir faim. Que penses-tu d'un petit déjeuner ?"
 
 # game/chapter1.rpy:1543
 translate french _call_syscheck_4_ed80bfe0:
 
     # Rz "I'm all for it. I can't stand early mornings like this."
-    Rz ""
+    Rz "Je suis entièrement pour. Je ne supporte pas les petits matins comme celui-là."
 
 # game/chapter1.rpy:1547
 translate french _call_syscheck_4_f6fea122:
 
     # Sb "That shouldn't be a problem. There's a café not far from here. What do you say, Mavers?"
-    Sb ""
+    Sb "Ça ne devrait pas être un problème. Il y a un café par loin d'ici. Qu'en dis-tu, Mav ?"
 
 # game/chapter1.rpy:1551
 translate french _call_syscheck_4_0facad65:
 
     # Mv "I wouldn't mind to grab a bite myself."
-    Mv ""
+    Mv "Je ne dirais pas non à une bouchée."
 
 # game/chapter1.rpy:1553
 translate french _call_syscheck_4_714176d2:
 
     # Sb "That settles it, then."
-    Sb ""
+    Sb "C'est décidé alors."
 
 # game/chapter1.rpy:1573
 translate french _call_skiptut_3_65cc2485:
@@ -4737,27 +4737,37 @@ translate french strings:
 
     # chapter1.rpy:1261
     old "Shake his hand."
-    new ""
+    new "Lui serrer la main."
 
     # chapter1.rpy:1261
     old "Don't shake his hand."
-    new ""
+    new "Ne pas lui serrer la main."
 
     # chapter1.rpy:1261
     old "Kiss his hand."
-    new ""
+    new "Lui baiser la main."
 
     # chapter1.rpy:1328
     old "I bet he'd win in a fight with mine, though."
-    new ""
+    new "Je suis prêt à parier qu'il gagnerait un combat contre le mien, cependant."
 
     # chapter1.rpy:1328
     old "He looks grumpy."
-    new ""
+    new "Il a l'air grognon."
 
     # chapter1.rpy:1328
     old "Just like you."
-    new ""
+    new "Comme toi."
+    
+    # chapter1.rpy:1461
+    # Ajout
+    old "I'd rather not."
+    new "Je ne préfère pas."
+    
+    # chapter1.rpy:1477
+    # Ajout
+    old "Sure, why not."
+    new "Pourquoi pas."
 
     # chapter1.rpy:1627
     old "They say it's for our own security."
