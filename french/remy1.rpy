@@ -10,43 +10,43 @@ translate frenchtl remyhints_76b2fe88:
 translate frenchtl remyhints_c0bfdd08:
 
     # n "Hints:"
-    n "Indices"
+    n "Indices:"
 
 # game/remy1.rpy:8
 translate frenchtl remyhints_c3f728f1:
 
     # n "{i}The Third War{/i} is directly preceded by {i}The Spark{/i}."
-    n "{i}La Troisième Guerre{/i} est directement précédée par {i}L'étincelle{/i}"
+    n "{i}La Troisième Guerre{/i} est directement précédée par {i}L'étincelle{/i}."
 
 # game/remy1.rpy:9
 translate frenchtl remyhints_93914509:
 
     # n "{i}The First War{/i} is directly preceded by {i}The Inception{/i}."
-    n "{i}La Première Guerre{/i} est directement précédée par {i}La Génèse{/i}"
+    n "{i}La Première Guerre{/i} est directement précédée par {i}La Génèse{/i}."
 
 # game/remy1.rpy:10
 translate frenchtl remyhints_59858f73:
 
     # n "{i}The Invention{/i} is not the third, seventh, or last book."
-    n "{i}L'invention{/i} n'est pas le troisième, le septième ou le dernier livre"
+    n "{i}L'invention{/i} n'est pas le troisième, le septième ou le dernier livre."
 
 # game/remy1.rpy:11
 translate frenchtl remyhints_2a5bc0b4:
 
     # n "{i}The Second War{/i} is the 4th book."
-    n "{i}La deuxième Guerre{/i} est le quatrième livre"
+    n "{i}La deuxième Guerre{/i} est le quatrième livre."
 
 # game/remy1.rpy:12
 translate frenchtl remyhints_be908dd2:
 
     # n "There is only one book before {i}The First War{/i}."
-    n "Il n'y a qu'un seul livre précédant {i}La Première Guerre{/i}"
+    n "Il n'y a qu'un seul livre précédant {i}La Première Guerre{/i}."
 
 # game/remy1.rpy:13
 translate frenchtl remyhints_64fc1750:
 
     # n "{i}The Enlightenment{/i} comes at some point after {i}The Third War{/i}."
-    n "{i}L'Illumination{/i} se déroule quelque part après {i}La Troisième Guerre{/i}"
+    n "{i}L'Illumination{/i} se déroule quelque part après {i}La Troisième Guerre{/i}."
 
 # game/remy1.rpy:44
 translate frenchtl remy1_5a48632f:
@@ -328,7 +328,7 @@ translate frenchtl _call_skipcheck_22_fd7f4b2e:
 translate frenchtl _call_skipcheck_22_255ecca1:
 
     # c "I will."
-    c "Ca marche"
+    c "C'est ce que je vais faire."
 
 # game/remy1.rpy:254
 translate frenchtl _call_skipcheck_22_76b2fe88:
@@ -376,61 +376,61 @@ translate frenchtl _call_skipcheck_22_76b2fe88_1:
 translate frenchtl _call_skipcheck_22_6fbeaa53:
 
     # Ry "Oh, no. The arrangement you see in this library is based on a sophisticated system that sorts everything in a very intuitive manner based on a number of criteria: genre, author, complexity and age."
-    Ry ""
+    Ry "Oh, non. L'arrangement que tu vois dans cette bibliothèque est basée sur un système sophistiquée qui classe tout de manière très intuitive en se basant sur les critères suivants : genre, auteur, complexité et date de publication."
 
 # game/remy1.rpy:291
 translate frenchtl _call_skipcheck_22_717e9b8a:
 
     # Ry "As you can probably tell, we have a lot of specimens, so just sorting them by alphabet would be far from suf- and ef-ficient."
-    Ry ""
+    Ry "Comme tu peux éventuellement le voir, nous disposons d'un grand nombre de specimens, donc simplement les classer par ordre alphabétique serait de loin insuffisant et innefficace."
 
 # game/remy1.rpy:297
 translate frenchtl _call_skipcheck_22_6702a2ec:
 
     # Ry "It is."
-    Ry ""
+    Ry "Ca l'est."
 
 # game/remy1.rpy:301
 translate frenchtl _call_skipcheck_22_daeeef43:
 
     # Ry "It's not that hard. I'll show you."
-    Ry ""
+    Ry "Ce n'est pas si difficile, Je vais te montrer"
 
 # game/remy1.rpy:307
 translate frenchtl _call_skipcheck_22_5f988610:
 
     # Ry "Well, if you say so..."
-    Ry ""
+    Ry "Si tu le dis..."
 
 # game/remy1.rpy:310
 translate frenchtl _call_skipcheck_22_6a25340a:
 
     # Ry "Basically, these eight books you see over there were all part of a section that was moved, so they have to be sorted into their new area."
-    Ry ""
+    Ry "A la base, ces huit livres que tu vois là faisaient tous partie d'une section qui a été déplacée, donc il doivent être reclassés à leur nouvelle place."
 
 # game/remy1.rpy:311
 translate frenchtl _call_skipcheck_22_25021eee:
 
     # Ry "The problem is their labels are so old that they've started to fade away, which makes sorting them a little harder. They will get new labels soon, but until then, we'll just have to make do with what we have here."
-    Ry ""
+    Ry "Le problème, c'est que leurs étiquettes sont si anciennes qu'elle ont commencé à s'effacer, ce qui les rend encore plus difficile à classer. On va bientôt changer les étiquettes, mais pour l'instant, il faudra faire avec ce que l'on a."
 
 # game/remy1.rpy:312
 translate frenchtl _call_skipcheck_22_b53b83fe:
 
     # Ry "All of them are by Haziq Aakil, a writer on the subject of history - and a very prolific one, I might add. You will find the shelf they belong to over there. Now it is just a matter of placing them in the right order, from oldest to newest."
-    Ry ""
+    Ry "Ils ont tous été rédigés par Haziq Aakil, un essayiste sur le thème de l'histoire - et un des plus prolifiques, si je puis dire. Tu pourras trouver leur étagère là bas. Maintenant il est juste question de les placer dans le bon ordre, du plus vieux au plus récent."
 
 # game/remy1.rpy:313
 translate frenchtl _call_skipcheck_22_8f3517f3:
 
     # Ry "I have written down everything still legible from the old labels here. For someone like you, putting them in order shouldn't be a problem."
-    Ry ""
+    Ry "J'ai noté toutes les informations des anciennes étiquettes qui étaient encore lisibles juste là. Pour quelqu'un comme toi, les ranger dans l'ordre ne devrait pas être un problème."
 
 # game/remy1.rpy:314
 translate frenchtl _call_skipcheck_22_77d6d50d:
 
     # Ry "In any case, I'll be working on something else in the meantime, so let me know once you're done."
-    Ry ""
+    Ry "Dans tout les cas, Je serai en train de travailler sur autre chose pendant ce temps, donc préviens moi une fois que tu as fini."
 
 # game/remy1.rpy:323
 translate frenchtl reset_76b2fe88:
@@ -442,115 +442,115 @@ translate frenchtl reset_76b2fe88:
 translate frenchtl reset_c0bfdd08:
 
     # n "Hints:"
-    n ""
+    n "Indices:"
 
-# game/remy1.rpy:327
-translate frenchtl reset_c3f728f1:
+# game/remy1.rpy:8
+translate frenchtl remyhints_c3f728f1:
 
     # n "{i}The Third War{/i} is directly preceded by {i}The Spark{/i}."
-    n ""
+    n "{i}La Troisième Guerre{/i} est directement précédée par {i}L'étincelle{/i}."
 
-# game/remy1.rpy:328
-translate frenchtl reset_93914509:
+# game/remy1.rpy:9
+translate frenchtl remyhints_93914509:
 
     # n "{i}The First War{/i} is directly preceded by {i}The Inception{/i}."
-    n ""
+    n "{i}La Première Guerre{/i} est directement précédée par {i}La Génèse{/i}."
 
-# game/remy1.rpy:329
-translate frenchtl reset_59858f73:
+# game/remy1.rpy:10
+translate frenchtl remyhints_59858f73:
 
     # n "{i}The Invention{/i} is not the third, seventh, or last book."
-    n ""
+    n "{i}L'invention{/i} n'est pas le troisième, le septième ou le dernier livre."
 
-# game/remy1.rpy:330
-translate frenchtl reset_2a5bc0b4:
+# game/remy1.rpy:11
+translate frenchtl remyhints_2a5bc0b4:
 
     # n "{i}The Second War{/i} is the 4th book."
-    n ""
+    n "{i}La deuxième Guerre{/i} est le quatrième livre."
 
-# game/remy1.rpy:331
-translate frenchtl reset_be908dd2:
+# game/remy1.rpy:12
+translate frenchtl remyhints_be908dd2:
 
     # n "There is only one book before {i}The First War{/i}."
-    n ""
+    n "Il n'y a qu'un seul livre précédant {i}La Première Guerre{/i}."
 
-# game/remy1.rpy:332
-translate frenchtl reset_64fc1750:
+# game/remy1.rpy:13
+translate frenchtl remyhints_64fc1750:
 
     # n "{i}The Enlightenment{/i} comes at some point after {i}The Third War{/i}."
-    n ""
+    n "{i}L'Illumination{/i} se déroule quelque part après {i}La Troisième Guerre{/i}."
 
 # game/remy1.rpy:713
 translate frenchtl _call_remyhints_10_182c2031:
 
     # c "I think that's it."
-    c ""
+    c "Je pense que c'est tout."
 
 # game/remy1.rpy:717
 translate frenchtl _call_remyhints_10_a21ba720:
 
     # Ry "Oh, you're done? Let's take a look, then."
-    Ry ""
+    Ry "Oh tu as fini? Regardons ça."
 
 # game/remy1.rpy:726
 translate frenchtl _call_remyhints_10_db9fa518:
 
     # Ry "Seems you got it all right. Well done, [player_name]."
-    Ry ""
+    Ry "Tout ça m'a l'air d'être bon. Bien joué, [player_name]."
 
 # game/remy1.rpy:742
 translate frenchtl _call_syscheck_85_85d9d7a5:
 
     # s "You brought Remy's books into the correct order!"
-    s ""
+    s "Tu as rangé les livres de Rémi dans le bon ordre!"
 
 # game/remy1.rpy:746
 translate frenchtl _call_syscheck_85_54c6365b:
 
     # s "You brought Remy's books into the correct order. Amazing."
-    s ""
+    s "Tu as rangé les livres de Rémi dans le bon ordre. Fantastique."
 
 # game/remy1.rpy:750
 translate frenchtl _call_syscheck_85_3b1c21eb:
 
     # s "You brought Remy's books into the correct order. What an achievement."
-    s ""
+    s "Tu as rangé les livres de Rémi dans le bon ordre. Ca pour un succès."
 
 # game/remy1.rpy:756
 translate frenchtl _call_syscheck_85_71a3b0ac:
 
     # Ry "It gets easier with practice."
-    Ry ""
+    Ry "Ca devient plus simple avec de la pratique."
 
 # game/remy1.rpy:767
 translate frenchtl _call_syscheck_85_75d2c1f9:
 
     # Ry "I can't tell if you are serious, but I appreciate your help regardless."
-    Ry ""
+    Ry "Je n'arrive pas à dire si tu es sérieux, mais j'apprécie tono aide malgré tout."
 
 # game/remy1.rpy:776
 translate frenchtl _call_syscheck_85_444989f6:
 
     # Ry "No, this doesn't seem to be completely right. It looks like [remyanswers] books are in the right place, though."
-    Ry ""
+    Ry "Non, ça n'a pas l'air d'être complètement en ordre. Bien que [remyanswers] livres semblent être à leur place."
 
 # game/remy1.rpy:780
 translate frenchtl _call_syscheck_85_b548434c:
 
     # Ry "Alright, I'll come back in a bit."
-    Ry ""
+    Ry "D'accord, je reviens dans un moment."
 
 # game/remy1.rpy:787
 translate frenchtl _call_syscheck_85_de4d9064:
 
     # Ry "Alright, let me fix that up for you."
-    Ry ""
+    Ry "D'accord, laisse moi arranger ça pour toi."
 
 # game/remy1.rpy:791
 translate frenchtl _call_syscheck_85_d703d4e0:
 
     # Ry "There, that should be it."
-    Ry ""
+    Ry "Voilà, ça devrait le faire."
 
 # game/remy1.rpy:796
 translate frenchtl _call_syscheck_85_be4a8d64:
