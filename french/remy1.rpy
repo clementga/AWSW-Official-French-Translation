@@ -550,19 +550,19 @@ translate frenchtl _call_syscheck_85_de4d9064:
 translate frenchtl _call_syscheck_85_d703d4e0:
 
     # Ry "There, that should be it."
-    Ry "Voilà, ça devrait le faire."
+    Ry "Voilà, ça devrait être bon."
 
 # game/remy1.rpy:796
 translate frenchtl _call_syscheck_85_be4a8d64:
 
     # c "I give up. This is stupid and you're stupid for making me do your work for you."
-    c ""
+    c "J'abandonne. Tout ça est stupide et toi aussi tu es stupide de me faire faire ton travail à ta place."
 
 # game/remy1.rpy:798
 translate frenchtl _call_syscheck_85_135c3fa5:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry ""
+    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu es capable de trouver la sortie."
 
 # game/remy1.rpy:801
 translate frenchtl _call_syscheck_85_76b2fe88:
@@ -574,19 +574,19 @@ translate frenchtl _call_syscheck_85_76b2fe88:
 translate frenchtl _call_syscheck_85_cb3d9530:
 
     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n ""
+    n "Apparemment Rémi n'a pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate frenchtl _call_syscheck_85_6fabc8b8:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n ""
+    n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place?"
 
 # game/remy1.rpy:805
 translate frenchtl _call_syscheck_85_c3f8240c:
 
     # n "Thanks, but no thanks, buddy."
-    n ""
+    n "Merci, mais non merci, l'ami."
 
 # game/remy1.rpy:807
 translate frenchtl _call_syscheck_85_76b2fe88_1:
@@ -598,37 +598,37 @@ translate frenchtl _call_syscheck_85_76b2fe88_1:
 translate frenchtl _call_syscheck_85_f811fa9e:
 
     # Ry "Sorry to disappoint you, but it seems only a single book is in the right place."
-    Ry ""
+    Ry "Je ne voudrais pas te vexer, mais il semble qu'il n'y ait qu'un seul livre à la bonne place."
 
 # game/remy1.rpy:841
 translate frenchtl _call_syscheck_85_b548434c_1:
 
     # Ry "Alright, I'll come back in a bit."
-    Ry ""
+    Ry "D'accord, Je reviens dans un moment"
 
 # game/remy1.rpy:850
 translate frenchtl _call_syscheck_85_1b7297b4:
 
     # Ry "I see. Let me fix that up for you, then."
-    Ry ""
+    Ry "Je vois. Laisses moi arranger ça pour toi, alors."
 
 # game/remy1.rpy:854
 translate frenchtl _call_syscheck_85_d703d4e0_1:
 
     # Ry "There, that should be it."
-    Ry ""
+    Ry "Voilà, ça devrait être bon."
 
 # game/remy1.rpy:859
 translate frenchtl _call_syscheck_85_be4a8d64_1:
 
     # c "I give up. This is stupid and you're stupid for making me do your work for you."
-    c ""
+    c "J'abandonne. Tout ça est stupide et toi aussi tu es stupide de me faire faire ton travail à ta place."
 
 # game/remy1.rpy:860
 translate frenchtl _call_syscheck_85_135c3fa5_1:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry ""
+    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu es capable de trouver la sortie."
 
 # game/remy1.rpy:863
 translate frenchtl _call_syscheck_85_76b2fe88_2:
@@ -639,20 +639,20 @@ translate frenchtl _call_syscheck_85_76b2fe88_2:
 # game/remy1.rpy:865
 translate frenchtl _call_syscheck_85_cb3d9530_1:
 
-    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n ""
+   # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
+    n "Apparemment Rémi n'a pas approuvé ma réticence à jouer les esclaves."
 
-# game/remy1.rpy:866
-translate frenchtl _call_syscheck_85_6fabc8b8_1:
+# game/remy1.rpy:804
+translate frenchtl _call_syscheck_85_6fabc8b8:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n ""
+    n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place?"
 
-# game/remy1.rpy:867
-translate frenchtl _call_syscheck_85_c3f8240c_1:
+# game/remy1.rpy:805
+translate frenchtl _call_syscheck_85_c3f8240c:
 
     # n "Thanks, but no thanks, buddy."
-    n ""
+    n "Merci, mais non merci, l'ami."
 
 # game/remy1.rpy:869
 translate frenchtl _call_syscheck_85_76b2fe88_3:
@@ -664,37 +664,37 @@ translate frenchtl _call_syscheck_85_76b2fe88_3:
 translate frenchtl _call_syscheck_85_b2060474:
 
     # Ry "Sorry to disappoint you, but it seems not a single book is in the right place."
-    Ry ""
+    Ry "Je ne voudrais pas te vexer, mais il semblerai qu'aucun des livres ne soit rangé correctement."
 
 # game/remy1.rpy:903
 translate frenchtl _call_syscheck_85_b548434c_2:
 
     # Ry "Alright, I'll come back in a bit."
-    Ry ""
+    Ry "D'accord, Je reviens dans un moment"
 
-# game/remy1.rpy:912
-translate frenchtl _call_syscheck_85_1b7297b4_1:
+# game/remy1.rpy:850
+translate frenchtl _call_syscheck_85_1b7297b4:
 
     # Ry "I see. Let me fix that up for you, then."
-    Ry ""
+    Ry "Je vois. Laisses moi arranger ça pour toi, alors."
 
-# game/remy1.rpy:916
-translate frenchtl _call_syscheck_85_d703d4e0_2:
+# game/remy1.rpy:854
+translate frenchtl _call_syscheck_85_d703d4e0_1:
 
     # Ry "There, that should be it."
-    Ry ""
-
+    Ry "Voilà, ça devrait être bon."
+    
 # game/remy1.rpy:921
 translate frenchtl _call_syscheck_85_be4a8d64_2:
 
     # c "I give up. This is stupid and you're stupid for making me do your work for you."
-    c ""
+    c "J'abandonne. Tout ça est stupide et toi aussi tu es stupide de me faire faire ton travail à ta place."
 
 # game/remy1.rpy:922
 translate frenchtl _call_syscheck_85_135c3fa5_2:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry ""
+    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu es capable de trouver la sortie."
 
 # game/remy1.rpy:925
 translate frenchtl _call_syscheck_85_76b2fe88_4:
@@ -705,20 +705,20 @@ translate frenchtl _call_syscheck_85_76b2fe88_4:
 # game/remy1.rpy:927
 translate frenchtl _call_syscheck_85_cb3d9530_2:
 
-    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n ""
+      # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
+    n "Apparemment Rémi n'a pas approuvé ma réticence à jouer les esclaves."
 
-# game/remy1.rpy:928
-translate frenchtl _call_syscheck_85_6fabc8b8_2:
+# game/remy1.rpy:804
+translate frenchtl _call_syscheck_85_6fabc8b8:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n ""
+    n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place?"
 
-# game/remy1.rpy:929
-translate frenchtl _call_syscheck_85_c3f8240c_2:
+# game/remy1.rpy:805
+translate frenchtl _call_syscheck_85_c3f8240c:
 
     # n "Thanks, but no thanks, buddy."
-    n ""
+    n "Merci, mais non merci, l'ami."
 
 # game/remy1.rpy:931
 translate frenchtl _call_syscheck_85_76b2fe88_5:
@@ -730,37 +730,37 @@ translate frenchtl _call_syscheck_85_76b2fe88_5:
 translate frenchtl _call_syscheck_85_fdbdfbc8:
 
     # Ry "Sorry to disappoint you, but it seems only [remyanswers] books are in the right place."
-    Ry ""
+    Ry "Je ne voudrais pas être vexant, mais il semblerait que seulement [remyanswers] livres soient rangés correctement."
 
 # game/remy1.rpy:965
 translate frenchtl _call_syscheck_85_b548434c_3:
 
-    # Ry "Alright, I'll come back in a bit."
-    Ry ""
+     # Ry "Alright, I'll come back in a bit."
+    Ry "D'accord, Je reviens dans un moment"
 
-# game/remy1.rpy:974
-translate frenchtl _call_syscheck_85_1b7297b4_2:
+# game/remy1.rpy:850
+translate frenchtl _call_syscheck_85_1b7297b4:
 
     # Ry "I see. Let me fix that up for you, then."
-    Ry ""
+    Ry "Je vois. Laisses moi arranger ça pour toi, alors."
 
-# game/remy1.rpy:978
-translate frenchtl _call_syscheck_85_d703d4e0_3:
+# game/remy1.rpy:854
+translate frenchtl _call_syscheck_85_d703d4e0_1:
 
     # Ry "There, that should be it."
-    Ry ""
+    Ry "Voilà, ça devrait être bon."
 
 # game/remy1.rpy:983
 translate frenchtl _call_syscheck_85_be4a8d64_3:
 
     # c "I give up. This is stupid and you're stupid for making me do your work for you."
-    c ""
+    c "J'abandonne. Tout ça est stupide et toi aussi tu es stupide de me faire faire ton travail à ta place."
 
 # game/remy1.rpy:984
 translate frenchtl _call_syscheck_85_135c3fa5_3:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry ""
+    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu es capable de trouver la sortie."
 
 # game/remy1.rpy:987
 translate frenchtl _call_syscheck_85_76b2fe88_6:
@@ -771,20 +771,20 @@ translate frenchtl _call_syscheck_85_76b2fe88_6:
 # game/remy1.rpy:989
 translate frenchtl _call_syscheck_85_cb3d9530_3:
 
-    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n ""
+     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
+    n "Apparemment Rémi n'a pas approuvé ma réticence à jouer les esclaves."
 
-# game/remy1.rpy:990
-translate frenchtl _call_syscheck_85_6fabc8b8_3:
+# game/remy1.rpy:804
+translate frenchtl _call_syscheck_85_6fabc8b8:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n ""
+    n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place?"
 
-# game/remy1.rpy:991
-translate frenchtl _call_syscheck_85_c3f8240c_3:
+# game/remy1.rpy:805
+translate frenchtl _call_syscheck_85_c3f8240c:
 
     # n "Thanks, but no thanks, buddy."
-    n ""
+    n "Merci, mais non merci, l'ami."
 
 # game/remy1.rpy:993
 translate frenchtl _call_syscheck_85_76b2fe88_7:
