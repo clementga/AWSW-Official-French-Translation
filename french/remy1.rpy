@@ -796,55 +796,55 @@ translate frenchtl _call_syscheck_85_76b2fe88_7:
 translate frenchtl remycont_952d0424:
 
     # Ry "In any case, there's a box here that belongs in storage. You can put that away, I'll finish the last bit of sorting, and then we will be done for the day."
-    Ry ""
+    Ry "Quoi qu'il en soit, Il y a une boîte là qui provient de la réserve. Tu peux la mettre là bas, Je vais finir de trier ce qu'il reste, et on aura fini pour la journée."
 
 # game/remy1.rpy:1028
 translate frenchtl remycont_4faa4cf5:
 
     # Ry "No, you don't have to, but it would be a lot easier for you than it would be for me - considering that you, by nature, are gifted with proper and more dexterous hands than mine."
-    Ry ""
+    Ry "Non, tu n'es pas obligé, mais ce serait plus facile à faire pour toi que pour moi - si on considère le fait que la nature t'a fait don de mains plus habiles et adéquate que les miennes."
 
 # game/remy1.rpy:1029
 translate frenchtl remycont_cd84b377:
 
     # c "Alright, alright. I'll do it."
-    c ""
+    c "D'accord, d'accord. Je vais le faire."
 
 # game/remy1.rpy:1032
 translate frenchtl remycont_b5d687eb:
 
     # Ry "Great! See you in a bit, then."
-    Ry ""
+    Ry "Génial! A tout de suite, alors."
 
 # game/remy1.rpy:1042
 translate frenchtl remycont_ec80488f:
 
     # c "(Phew, that is heavier than I thought.)"
-    c ""
+    c "(Fiou, c'est plus lourd que ce que j'aurai pensé.)"
 
 # game/remy1.rpy:1043
 translate frenchtl remycont_5d9f39f8:
 
     # m "I lifted the box and carried it towards its shelf, but just as I was about to reach it, I tripped suddenly, sending me to the ground as the contents of the box spilled across the floor."
-    m ""
+    m "J'ai soulevé la boîte pour l'apporter jusqu'à son étagère, mais juste au moment d'arriver à son niveau, je trébuchai soudainement, m'étalant sur le sol avec le contenu de cette dernière."
 
 # game/remy1.rpy:1047
 translate frenchtl remycont_e37926fe:
 
     # c "Ouch!" with vpunch
-    c "" with vpunch
+    c "Aouch!" with vpunch
 
 # game/remy1.rpy:1048
 translate frenchtl remycont_c1913be8:
 
     # m "I scrambled to gather the various items as the voice of the dragon called out to me."
-    m ""
+    m "J'ai tenté désespérément de rassembler les divers objets alors que j'entendis la voix du dragon plus loin qui m'interpella."
 
 # game/remy1.rpy:1049
 translate frenchtl remycont_83b5ca96:
 
     # Ry "Is everything alright?"
-    Ry ""
+    Ry "Est-ce que tout va bien?"
 
 # game/remy1.rpy:1050
 translate frenchtl remycont_273998e3:
@@ -2152,123 +2152,131 @@ translate frenchtl strings:
 
     # remy1.rpy:292
     old "That does sound very intuitive."
-    new ""
+    new "Ca a l?air super intuitif."
 
     # remy1.rpy:292
     old "That sounds complicated."
-    new ""
+    new "Ca a l'air compliqué."
 
     # remy1.rpy:292
     old "That sounds really boring."
-    new ""
+    new "Ca a l'air d'un ennui."
 
     # remy1.rpy:347
     old "The first book is:"
-    new ""
+    new "Le premier livre est:"
 
     # remy1.rpy:347
     old "The Second War"
-    new ""
+    new "La Deuxième Guerre"
 
     # remy1.rpy:347
     old "The Tribe"
-    new ""
+    new "La Tribu"
 
     # remy1.rpy:347
     old "The Invention"
-    new ""
+    new "L'Invention"
 
     # remy1.rpy:347
     old "The Enlightenment"
-    new ""
+    new "L'Illumination"
 
     # remy1.rpy:347
-    old "[[Show more books.]"
-    new ""
+    old "[Show more books.]"
+    new "[Voir les autres livres.]"
 
     # remy1.rpy:347
-    old "[[Show hints.]"
-    new ""
+    old "[Show hints.]"
+    new "[Voir les indices.]"
 
     # remy1.rpy:376
     old "The Third War"
-    new ""
+    new "La Troisième Guerre"
 
     # remy1.rpy:376
     old "The Inception"
-    new ""
+    new "La Genèse"
 
     # remy1.rpy:376
     old "The Spark"
-    new ""
+    new "L'Etincelle"
 
     # remy1.rpy:376
     old "The First War"
-    new ""
+    new "La Première Guerre"
 
     # remy1.rpy:407
     old "The second book is:"
-    new ""
+    new "Le deuxième livre est:"
 
     # remy1.rpy:466
     old "The third book is:"
-    new ""
+    new "Le troisième livre est: "
 
     # remy1.rpy:525
     old "The fourth book is:"
-    new ""
+    new "Le quatrième livre est:"
 
     # remy1.rpy:583
     old "The fifth book is:"
-    new ""
+    new "Le cinquième livre est:"
 
     # remy1.rpy:617
     old "The sixth book is:"
-    new ""
+    new "Le sixième livre est:"
 
     # remy1.rpy:651
     old "The seventh book is:"
-    new ""
+    new "Le septième livre est:"
 
     # remy1.rpy:684
     old "The eighth book is:"
-    new ""
+    new "Le huitième livre est:"
 
     # remy1.rpy:752
     old "Phew, that was hard work."
-    new ""
+    new "Fiou, C'était un sacré paquet de boulot."
 
     # remy1.rpy:752
     old "That wasn't too hard..."
-    new ""
+    new "Ce n'était pas si dure..."
 
     # remy1.rpy:752
     old "I didn't know I could have this much fun in a library."
-    new ""
+    new "Je n'aurais jamais pensé pouvoir m'amuser autant dans une bibliothèque."
 
     # remy1.rpy:777
     old "Let me try again."
-    new ""
+    new "Permet moi de réessayer."
 
     # remy1.rpy:777
     old "This is the best I can do."
-    new ""
+    new "C'est le mieux que je puisse faire."
 
     # remy1.rpy:777
     old "[[Give up and leave.]"
-    new ""
+    new "[Laisser tomber et partir]"
 
     # remy1.rpy:1019
     old "Do I have to?"
-    new ""
+    new "Suis-je vraiment obligé de faire ça?"
+    
+    #remy1.rpy:1019
+    old "If I have to."
+    new "S'il faut le faire."
+    
+    #remy1.rpy:1019
+    old "Sure thing."
+    new "Bien sûr."
 
     # remy1.rpy:1060
     old "S-Sorry..."
-    new ""
+    new "D-désolé..."
 
     # remy1.rpy:1060
     old "Oh, guess my own safety isn't worth as much."
-    new ""
+    new "Oh, il faut croire que ma propre sécurité n'a pas tant de valeur que ça."
 
     # remy1.rpy:1060
     old "You shouldn't have asked me for help if you were so worried about the condition of these things."
