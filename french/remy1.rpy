@@ -898,13 +898,13 @@ translate frenchtl remycont_d5f5d069:
 translate frenchtl remycont_2897079b:
 
     # m "I picked up one of the scrolls that had unraveled during the commotion and taunted him with it. It now had a large hole after falling on one of the other artifacts."
-    m ""
+    m "Je ramassai un des parchemins qui s'était détaché durant la confusion et le taquinai avec. Il arborait à présent un large trou à la suite de sa chute sur les autres artefacts."
 
 # game/remy1.rpy:1084
 translate frenchtl remycont_15e5e930:
 
     # c "Oh, look at me, I'm Remy! I'm such a huge NERD. I like scrolls so much that I'd marry them if I could."
-    c ""
+    c "Oh, regardez moi, je m'appelle Rémi! Je suis un gros intello. J'aime tellement les parchemins que je me marierais avec si je le pouvais."
 
 # game/remy1.rpy:1085
 translate frenchtl remycont_0edb3f5d:
@@ -916,187 +916,187 @@ translate frenchtl remycont_0edb3f5d:
 translate frenchtl remycont_1f9751cc:
 
     # c "Wait a minute, is that why that hole is there? I mean, I knew you liked them, but this is a little much, don't you think?"
-    c ""
+    c "Attends une minute, est-ce pour cette raison qu'il y a ce trou juste là? Je savais que tu les adorais, mais tu en fais peut être un peu trop, non?"
 
 # game/remy1.rpy:1087
 translate frenchtl remycont_a9ef8715:
 
     # Ry "No, it's because you dropped this highly fragile scroll on this relic. You damaged it!"
-    Ry ""
+    Ry "Non, C'est parce que tu as fait tomber ce parchemin, hautement fragile, sur cette relique. Tu l'as endommagé!"
 
 # game/remy1.rpy:1088
 translate frenchtl remycont_200b01c9:
 
     # c "Chill out, it's not like it belongs to anyone. It's just a library item."
-    c ""
+    c "Relax, ce n'est pas comme si ça appartenais à quelqu'un. C'est juste un objet de la bibliothèque."
 
 # game/remy1.rpy:1089
 translate frenchtl remycont_5e104f7f:
 
     # Ry "That makes it even worse. That scroll belongs to everybody. I hope you plan to make up for this."
-    Ry ""
+    Ry "C'est encore pire. Ce parchemin est la propriété de chacun. J'espère que tu as prévu de réparer ça."
 
 # game/remy1.rpy:1090
 translate frenchtl remycont_9e6560a1:
 
     # c "Nothing a little tape can't fix. No one will even notice the difference."
-    c ""
+    c "Rien qu'un peu de scotch ne puisse réparer. Personne ne verra la différence."
 
 # game/remy1.rpy:1091
 translate frenchtl remycont_dc421cc1:
 
     # Ry "We don't approve of such an obvious disregard for public property. Don't you realize such behavior does not only reflect poorly on yourself, but also on the whole of mankind? You're an ambassador! How could you be so irresponsible?"
-    Ry ""
+    Ry "Nous n'approuvons pas un tel manque de considération à l'égard des biens publiques. Ne réalises tu pas qu'un tel comportement ne reflète pas seulement une image déplorable de toi, mais également de l'humanité toute entière? Tu es un ambassadeur! Comment peut tu être aussi irresponsable?"
 
 # game/remy1.rpy:1092
 translate frenchtl remycont_f6e14a6d:
 
     # c "I already said I was sorry, so shut up already."
-    c ""
+    c "Je t'ai dit que j'étais désolé, alors fermes là."
 
 # game/remy1.rpy:1093
 translate frenchtl remycont_71219a2d:
 
     # Ry "You did not say you were sorry!"
-    Ry ""
+    Ry "Tu n'as pas dit que tu étais désolé!"
 
 # game/remy1.rpy:1094
 translate frenchtl remycont_c0e298c0:
 
     # c "Sorry. I mean, sorry for not being sorry earlier."
-    c ""
+    c "Désolé. Je veux dire, désolé pour ne pas l'avoir été plus tôt."
 
 # game/remy1.rpy:1095
 translate frenchtl remycont_68e7f5a9:
 
     # Ry "Frankly, this is inexcusable. We're both lucky that Emera isn't here to see this. I'll have to think about how we can fix it."
-    Ry ""
+    Ry "Franchement, C'est inexcusable. Nous sommes tous les deux chanceux qu'Emera ne soit pas là pour voir ça. Je vais devoir réfléchir à comment réparer ça."
 
 # game/remy1.rpy:1096
 translate frenchtl remycont_09ae7c16:
 
     # c "I've got an idea. We only need some white glue, a paperclip and some googly eyes."
-    c ""
+    c "J'ai une idée. Nnous avons juste besoin de colle blanche, d'un trombonne et d'une paire d'yeux globuleux."
 
 # game/remy1.rpy:1097
 translate frenchtl remycont_0edb3f5d_1:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy1.rpy:1098
 translate frenchtl remycont_5d77faf3:
 
     # Ry "I think you should leave."
-    Ry ""
+    Ry "Je pense que tu devrais partir."
 
 # game/remy1.rpy:1099
 translate frenchtl remycont_0837e098:
 
     # c "I just told you, I've got a great idea!"
-    c ""
+    c "Je viens de te dire que j'avais une bonne idée!"
 
 # game/remy1.rpy:1100
 translate frenchtl remycont_084626ba:
 
     # Ry "Now."
-    Ry ""
+    Ry "Maintenant."
 
 # game/remy1.rpy:1125
 translate frenchtl remycont_02ab816f:
 
     # c "What is all this stuff, anyway?"
-    c ""
+    c "Au fait, qu'est-ce que c'est que tout ça?"
 
 # game/remy1.rpy:1130
 translate frenchtl remystuff_bafba272:
 
     # Ry "In preparation for your arrival, I wanted to study what knowledge we had on humans."
-    Ry ""
+    Ry "En guise de préparation pour ton arrivée, Je voulais étudier quelle connaissances nous avions sur les humains."
 
 # game/remy1.rpy:1131
 translate frenchtl remystuff_c74e17c1:
 
     # c "And what did you learn?"
-    c ""
+    c "Et qu'as tu appris?"
 
 # game/remy1.rpy:1132
 translate frenchtl remystuff_78e378f7:
 
     # Ry "Heh, not much. The human is a creature shrouded in mystery and legend, yet one we apparently share some history with."
-    Ry ""
+    Ry "Heh, pas grand chose. L'humain est une créature entourée de mystères et de légendes, pourtant une avec laquelle nous partageons une histoire commune."
 
 # game/remy1.rpy:1133
 translate frenchtl remystuff_e25b8cc1:
 
     # c "(Sure, dragon. Tell me I'm the mythological creature.)"
-    c ""
+    c "(Bien sûr, dragon. Dis que c'est moi la créature mythologique.)"
 
 # game/remy1.rpy:1134
 translate frenchtl remystuff_9538df89:
 
     # Ry "As the story goes, we dragons were once a primitive and savage civilization, living in caves and whatnot. We fought other creatures and amongst each other for resources and territory."
-    Ry ""
+    Ry "D'après notre histoire, nous les dragons étions jadis une civilisation primitive et sauvage, vivant dans des grottes et des choses similaires. Nous nous battions contre d'autres créatures et entre nous pour des ressources et du territoire."
 
 # game/remy1.rpy:1135
 translate frenchtl remystuff_9ffee246:
 
     # Ry "One day, however, a human arrived who performed many miracles and gave us the gifts of electricity and reason. We refer to this event as our {i}awakening{/i}."
-    Ry ""
+    Ry "Un jour, cependant, un humain ayant surgit de nul part accomplit des miracles et nous fit dont de l'électricité et de la raison. Nous nous référons à cet évènement comme étant notre {i}éveil{/i}"
 
 # game/remy1.rpy:1136
 translate frenchtl remystuff_03b21ea8:
 
     # c "What happened to them? And who were they, anyway?"
-    c ""
+    c "Qu'est-ce qui lui est arrivé? Et qui était-ce, d'ailleurs?"
 
 # game/remy1.rpy:1137
 translate frenchtl remystuff_9f517d47:
 
     # Ry "They say it was a divine creature, a supernatural being that saved our species by making peace between our clans and uniting us, as our numbers were dwindling from our pointless conflicts."
-    Ry ""
+    Ry "Certains disent qu'il s'agissait d'une créature divine, un être surnaturel qui sauva notre espèce en établissant la paix entre nos clans et en nous unifiant, alors que notre nombre diminuait à cause de nos conflits sans intérêts."
 
 # game/remy1.rpy:1138
 translate frenchtl remystuff_899d71e0:
 
     # Ry "And when the deed was done, they ascended to the heavens from where they came - or turned into a dragon and lived among us, ruling with kindness and wisdom until their eventual passing, depending on who you ask."
-    Ry ""
+    Ry "Et quand la chose fut faite, Il retourna aux cieux d'où il était arrivé- où se transforma en dragon et vécut parmi nous, dirigeant avec bienveillance et sagesse jusqu'à son éventuel trépas, tout dépend de à qui tu poses la question."
 
 # game/remy1.rpy:1139
 translate frenchtl remystuff_27ef0f56:
 
     # c "And what do you make of this story?"
-    c ""
+    c "Et toi, Que penses tu de cette histoire?"
 
 # game/remy1.rpy:1140
 translate frenchtl remystuff_84691354:
 
     # Ry "As unlikely as it sounds, there is evidence for sudden, unprecedented technological advancement in our timeline. We have artifacts from that time that couldn't have been built with the knowledge we had back then."
-    Ry ""
+    Ry "Aussi improbable que ça en a l'air, il y a des preuves dans notre chronologie d'une soudaine avancée technologique sans précédents. Nous possédons des artefacts de ce temps qui n'auraient pu être réalisés avec le savoir que nous avions à l'époque."
 
 # game/remy1.rpy:1141
 translate frenchtl remystuff_330c2a4d:
 
     # c "I'm starting to think you already have a theory."
-    c ""
+    c "Je commence à penser que tu as déjà une théorie."
 
 # game/remy1.rpy:1142
 translate frenchtl remystuff_54c5cbe4:
 
     # Ry "Indeed. I take it you are familiar with the way the portals through which you traveled here actually work?"
-    Ry ""
+    Ry "En effet. Je présume que tu es familier avec la façon dont le portail que tu as traversé fonctionne?"
 
 # game/remy1.rpy:1154
 translate frenchtl remystuff_e172207e:
 
     # Ry "It's simple, really. There are spontaneous wormholes that pop into existence now and then, but their highly unstable nature means that they instantly collapse in on themselves."
-    Ry ""
+    Ry "C'est vraiment simple. Il y a des trous de ver qui se forment spontanément dans le tissus de l'espace-temps, mais leur nature hautement instable fait qu'ils s'éffondrent sur eux même."
 
 # game/remy1.rpy:1155
 translate frenchtl remystuff_b4147b08:
 
     # Ry "The machinery of the portal merely stabilizes the wormhole so that we may utilize it. We actually are just taking advantage of a naturally occurring phenomenon."
-    Ry ""
+    Ry "La machinerie derrière ce portail stabilise simplement le trou de ver pour que nous puissions l'utiliser. En fait, nous ne faisons que tirer parti d'un phénomène arrivant naturellement."
 
 # game/remy1.rpy:1167
 translate frenchtl remystuff_d5dc3f83:
@@ -2288,27 +2288,27 @@ translate frenchtl strings:
 
     # remy1.rpy:1144
     old "Not very."
-    new ""
+    new "Pas vraiment."
 
     # remy1.rpy:1144
     old "Actually, I am."
-    new ""
+    new "Il se trouve que oui."
 
     # remy1.rpy:1144
     old "I don't know, nor do I care."
-    new ""
+    new "Je ne sais pas, ou je m'en fous."
 
     # remy1.rpy:1157
     old "Fascinating stuff."
-    new ""
+    new "C'est fascinant."
 
     # remy1.rpy:1157
     old "That's pretty cool."
-    new ""
+    new "C'est plutôt cool."
 
     # remy1.rpy:1157
     old "The longer you keep talking about this, the less I care."
-    new ""
+    new "Plus tu continues de parler, moins j'en ai quelque chose à cirer."
 
     # remy1.rpy:1183
     old "Well, I can tell you that there is nothing supernatural about me."
