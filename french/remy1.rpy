@@ -820,13 +820,13 @@ translate frenchtl remycont_b5d687eb:
 translate frenchtl remycont_ec80488f:
 
     # c "(Phew, that is heavier than I thought.)"
-    c "(Fiou, c'est plus lourd que ce que j'aurai pensé.)"
+    c "(Fiou, c'est plus lourd que ce que j'aurais pensé.)"
 
 # game/remy1.rpy:1043
 translate frenchtl remycont_5d9f39f8:
 
     # m "I lifted the box and carried it towards its shelf, but just as I was about to reach it, I tripped suddenly, sending me to the ground as the contents of the box spilled across the floor."
-    m "J'ai soulevé la boîte pour l'apporter jusqu'à son étagère, mais juste au moment d'arriver à son niveau, je trébuchai soudainement, m'étalant sur le sol avec le contenu de cette dernière."
+    m "J'avais saisi la boîte pour l'apporter jusqu'à son étagère, quand soudain au moment d'arriver à son niveau je trébuchai, m'étalant sur le sol avec le contenu de cette dernière."
 
 # game/remy1.rpy:1047
 translate frenchtl remycont_e37926fe:
@@ -838,7 +838,7 @@ translate frenchtl remycont_e37926fe:
 translate frenchtl remycont_c1913be8:
 
     # m "I scrambled to gather the various items as the voice of the dragon called out to me."
-    m "J'ai tenté désespérément de rassembler les divers objets alors que j'entendis la voix du dragon plus loin qui m'interpella."
+    m "Je me précipitai pour ramasser les divers objets alors que j'entendis la voix du dragon au loin m'interpeller."
 
 # game/remy1.rpy:1049
 translate frenchtl remycont_83b5ca96:
@@ -850,49 +850,49 @@ translate frenchtl remycont_83b5ca96:
 translate frenchtl remycont_273998e3:
 
     # m "Before I could answer, Remy came around the corner, his face bearing a look of disapproval. He stooped over and helped me pick up the spilled objects."
-    m ""
+    m "Avant que je ne puisse répondre, Rémi surgit du coin, un regard désaprobateur sur son visage. Il se pencha et m'aida à ramasser les objets éparpillés."
 
 # game/remy1.rpy:1054
 translate frenchtl remycont_dfdabe9a:
 
     # c "Yeah, I'm fine."
-    c ""
+    c "Ouais, je vais bien"
 
 # game/remy1.rpy:1058
 translate frenchtl remycont_f8b8b643:
 
     # Ry "I was mainly asking about the priceless artifacts you just dropped."
-    Ry ""
+    Ry "Je parlais surtout des artefacts inestimables que tu as fais tomber."
 
 # game/remy1.rpy:1065
 translate frenchtl remycont_7bdef241:
 
     # Ry "Well, it doesn't look like anything is broken. That could have ended up much worse."
-    Ry ""
+    Ry "Eh bien, il semblerais que rien ne soit cassé. Ca aurait pu finir bien plus mal."
 
 # game/remy1.rpy:1070
 translate frenchtl remycont_c52d1141:
 
     # Ry "It is, but it's not like we could display you in a museum as a replacement."
-    Ry ""
+    Ry "Elle l'est, mais ce n'est pas comme si nous pouvions t'exposer dans un musée en guise de solution de remplacement."
 
 # game/remy1.rpy:1072
 translate frenchtl remycont_6476da4a:
 
     # Ry "On second thought, I suppose we could, but we would have to stuff you first."
-    Ry ""
+    Ry "En y repensant, nous pourrions le faire, mais il faudrait d'abord t'empailler."
 
 # game/remy1.rpy:1073
 translate frenchtl remycont_a6697a9f:
 
     # c "Speaking of stuff, what is all this, anyway?"
-    c ""
+    c "D'ailleurs, en parlant de décoration, qu'est-ce c'est que tout ça?"
 
 # game/remy1.rpy:1080
 translate frenchtl remycont_d5f5d069:
 
     # Ry "I suppose you have a point."
-    Ry ""
+    Ry "Je suppose que tu marques un point."
 
 # game/remy1.rpy:1083
 translate frenchtl remycont_2897079b:
@@ -910,7 +910,7 @@ translate frenchtl remycont_15e5e930:
 translate frenchtl remycont_0edb3f5d:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy1.rpy:1086
 translate frenchtl remycont_1f9751cc:
@@ -2183,12 +2183,12 @@ translate frenchtl strings:
     new "L'Illumination"
 
     # remy1.rpy:347
-    old "[Show more books.]"
-    new "[Voir les autres livres.]"
+    old "[[Show more books.]"
+    new "[[Voir les autres livres.]"
 
     # remy1.rpy:347
-    old "[Show hints.]"
-    new "[Voir les indices.]"
+    old "[[Show hints.]"
+    new "[[Voir les indices.]"
 
     # remy1.rpy:376
     old "The Third War"
@@ -2256,7 +2256,7 @@ translate frenchtl strings:
 
     # remy1.rpy:777
     old "[[Give up and leave.]"
-    new "[Laisser tomber et partir]"
+    new "[[Laisser tomber et partir]"
 
     # remy1.rpy:1019
     old "Do I have to?"
@@ -2276,15 +2276,15 @@ translate frenchtl strings:
 
     # remy1.rpy:1060
     old "Oh, guess my own safety isn't worth as much."
-    new "Oh, il faut croire que ma propre sécurité n'a pas tant de valeur que ça."
+    new "Oh, il faut croire que ma propre sécurité n'est pas si importante que ça."
 
     # remy1.rpy:1060
     old "You shouldn't have asked me for help if you were so worried about the condition of these things."
-    new ""
+    new "Tu n'aurais pas dû me demander de l'aide si tu craignais pour l'intégrité de ces trucs."
 
     # remy1.rpy:1060
     old "[[Make fun of him for caring so much about books and scrolls.]"
-    new ""
+    new "[[Se moquer de lui et de son intérêt pour les livres et les parchemins.]"
 
     # remy1.rpy:1144
     old "Not very."
