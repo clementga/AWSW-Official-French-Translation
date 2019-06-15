@@ -4640,19 +4640,19 @@ translate french strings:
 
     # chapter2.rpy:4444
     old "Meet with Adine."
-    new "Sortir avec Adine."
+    new "Aller voir Adine."
 
     # chapter2.rpy:4444
     old "Meet with the store clerk."
-    new "Sortir avec l'épicier."
+    new "Aller voir l'épicier."
 
     # chapter2.rpy:4444
     old "Meet with Zhong."
-    new "Sortir avec Zhong."
+    new "Aller voir Zhong."
 
     # chapter2.rpy:4444
     old "Meet with Emera."
-    new "Sortir avec Emera."
+    new "Aller voir Emera."
 
     # chapter2.rpy:4596
     old "Spend the day reading."
