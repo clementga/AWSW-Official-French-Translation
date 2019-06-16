@@ -1102,55 +1102,55 @@ translate frenchtl remystuff_b4147b08:
 translate frenchtl remystuff_d5dc3f83:
 
     # Ry "Long story short, my theory is that this legendary person stumbled upon one of these natural wormholes in the split second it existed, bringing them into our world."
-    Ry ""
+    Ry "Pour faire court, ma théorie est que ce personnage légendaire tomba par hasard sur un de ces trous de ver naturels dans l'instant où ce dernier est apparu, ce qui l'amena dans notre monde."
 
 # game/remy1.rpy:1168
 translate frenchtl remystuff_8fb1e1bd:
 
     # c "Being thrust into an unfamiliar world with no means to return to their own. Talk about being at the wrong place at the wrong time."
-    c ""
+    c "Etre propulsé dans un monde qui lui est étranger avec aucun moyen de retourner dans le sien. Tu parles d'être au mauvais endroit au mauvais moment."
 
 # game/remy1.rpy:1169
 translate frenchtl remystuff_49d4a3db:
 
     # Ry "Or just the right one, if you ask me. If it wasn't for them, we wouldn't be here today."
-    Ry ""
+    Ry "Ou le bon, si tu veux mon avis. Sans cette personne, nous n'en serions pas là aujourd'hui."
 
 # game/remy1.rpy:1170
 translate frenchtl remystuff_59e00080:
 
     # Ry "Oh, what I would give to know more about them."
-    Ry ""
+    Ry "Oh, Qu'est-ce que je donnerai pour en savoir plus à son sujet."
 
 # game/remy1.rpy:1171
 translate frenchtl remystuff_d7a2a949:
 
     # c "How do you know so much about the portal, anyway?"
-    c ""
+    c "Au passage, comment est tu au courant de toute ces choses au sujet du portail?"
 
 # game/remy1.rpy:1172
 translate frenchtl remystuff_97afbb15:
 
     # Ry "We found it a while ago, so we've had time to study it. Not me personally, mind you, but I followed its developments with great interest."
-    Ry ""
+    Ry "On l'a découvert il y a un moment, donc nous avons eu du temps pour l'étudier. Pas moi personnellement, tu l'entendras, mais j'ai suivi son déroulement avec grand intérêt."
 
 # game/remy1.rpy:1173
 translate frenchtl remystuff_956d61cb:
 
     # c "What else have you discovered about it?"
-    c ""
+    c "Qu'avez vous découvert d'autre à ce sujet?"
 
 # game/remy1.rpy:1174
 translate frenchtl remystuff_359dd383:
 
     # Ry "Not much, I'm afraid. We didn't want to take the risk of permanent damage, so we won't do anything rash until we completely understand the technology and can replicate it for ourselves."
-    Ry ""
+    Ry "Pas grand chose, j'en ai peur. Nous ne voulions pas prendre le risque de le détruire, donc nous n'avons réalisé aucun test susceptible de l'endommager jusqu'à ce que nous comprenions la technologie qui est derrière pour pouvoir la reproduire."
 
 # game/remy1.rpy:1175
 translate frenchtl remystuff_a703a8da:
 
     # Ry "So far, the only thing it has done for us was locating your portal and connecting us to it. From the interface, it appears to have more functions, but we haven't been able to get any of them to work."
-    Ry ""
+    Ry "Jusqu'à présent, la seule chose que le portail ait réussi, fut de localiser le votre et de nous connecter à vous. D'après l'interface, il s'avère qu'il y ait plus de fonctionnalités, mais nous n'avons pas été capable de les faire fonctionner."
 
 # game/remy1.rpy:1176
 translate frenchtl remystuff_769a6324:
