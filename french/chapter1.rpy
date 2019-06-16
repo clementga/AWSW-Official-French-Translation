@@ -3196,7 +3196,7 @@ translate french continuation_f8069d10:
 translate french continuation_4f9d14fc:
 
     # m "In the dragon's side I could see the wound where the bullet had penetrated his hide, a trickle of blood staining his dark scales and the earth beneath. Reza used the opportunity to run off in some direction. I wasn't sure which."
-    m "Dans le flanc du dragon, je pus voir la plaie où la balle avait pénétré sa peau, un filet de sang en coulait, tâchant ses écailles sombres et le sol au-dessous."
+    m "Dans le flanc du dragon, je pus voir la plaie où la balle avait pénétré sa peau, un filet de sang en coulait, tâchant ses écailles sombres et le sol au-dessous. Reza usa de cette opportunité pour s'enfuir dans une direction, je n'étais pas sûr de laquelle."
 
 # game/chapter1.rpy:2908
 translate french continuation_b002be4f:
