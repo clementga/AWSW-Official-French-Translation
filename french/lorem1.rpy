@@ -55,21 +55,18 @@ translate french _call_skipcheck_16_165776d4:
 
     # Lo relieved "It's good to see you! I thought you might not show up."
     Lo relieved "Il est bon de te voir ! Je pensais que tu ne viendrais pas."
-## "C'est bon" semble un peu plus amical mais après c'est juste une question de préférence
 
 # game/lorem1.rpy:124
 translate french _call_skipcheck_16_c7d509db:
 
     # Lo normal "Not at all! I got here early."
     Lo normal "Pas du tout! Je suis venu en avance."
-## Pareil pour celle ci "plus tôt" me semble plus naturel dans une conversation
 
 # game/lorem1.rpy:130
 translate french _call_skipcheck_16_694b8196:
 
     # Lo happy "Yeah, I can certainly see that."
     Lo happy "Oui, je peux certainement voir ça."
-## J'ai fais la même erreur sur ma trad mais je pense qu'on pourrait traduire "yeah" par "ouais"
 
 # game/lorem1.rpy:138
 translate french _call_skipcheck_16_13dd88b5:
@@ -135,8 +132,7 @@ translate french _call_skipcheck_16_57ab5828:
 translate french _call_skipcheck_16_a750447a:
 
     # Lo normal "It's real, though. Sebastian knows I work for the local post office."
-    Lo normal "C'est la vérité cependant. Sébastien sait que je travaille pour la poste locale."
-## Je vais chipoter un peu mais rajouter "bureau" ne serait t'il pas mieux ?
+    Lo normal "C'est la vérité cependant. Sébastien sait que je travaille pour le bureau de poste local."
 
 # game/lorem1.rpy:165
 translate french _call_skipcheck_16_c4112abb:
@@ -172,8 +168,7 @@ translate french _call_skipcheck_16_f52dcfe5:
 translate french _call_skipcheck_16_d8bc587f:
 
     # Lo normal "Living in the city can be very expensive. I can always move later when I get a job there. I've got other plans right now, though."
-    Lo normal "Vivre dans une grande ville peut revenir très cher. Je peux toujours déménager plus tard si j'obtiens à travail là-bas. J'ai d'autres plans pour l'instant, cependant."
-## "à travail là-bas" faute de frappe ? 
+    Lo normal "Vivre dans une grande ville peut revenir très cher. Je peux toujours déménager plus tard si j'obtiens un travail là-bas. J'ai d'autres plans pour l'instant, cependant."
 
 # game/lorem1.rpy:194
 translate french _call_skipcheck_16_3ad10c5b:
@@ -1337,8 +1332,7 @@ translate french _call_skipcheck_16_260f4bd1:
 translate french _call_skipcheck_16_d4b333ad:
 
     # Lo think "Maybe I could convince you to meet me again some other time?"
-    Lo think "Peut-être pourrais-je te convaincre de me venir me revoir une autre fois ?"
-## "de me venir me revoir" --> "de venir me revoir" ?
+    Lo think "Peut-être pourrais-je te convaincre de venir me revoir une autre fois ?"
 
 # game/lorem1.rpy:823
 translate french _call_skipcheck_16_0fe8ac00:
@@ -1386,8 +1380,7 @@ translate french _call_skipcheck_16_77d9b866:
 translate french lorem1skip_0816df93:
 
     # c "Don't worry about it. I'll just consider it a public service."
-    c "Ne t'en fais pas pour ça. Je vais le simplement considèrer comme un service publique."
-## "Je vais le simplement" ""le"" est de trop je pense
+    c "Ne t'en fais pas pour ça. Je vais simplement le considèrer comme un service publique."
 
 # game/lorem1.rpy:871
 translate french lorem1skip_1847224a:
@@ -1429,7 +1422,7 @@ translate french lorem1skip_77d9b866:
 translate french lorem1skip_0816df93_1:
 
     # c "Don't worry about it. I'll just consider it a public service."
-    c "Ne t'en fais pas pour ça. Je vais le simplement considèrer comme un service publique."
+    c "Ne t'en fais pas pour ça. Je vais simplement le considèrer comme un service publique."
 ## Pareil que plus haut pour "le"
 
 # game/lorem1.rpy:912
@@ -1549,7 +1542,6 @@ translate french strings:
     # lorem1.rpy:233
     old "You're right about that. I can't help but feel a little deceived by this."
     new "Tu as raison. Je ne peux m'empêcher de me sentir un peu dupé."
-## "déçu" sonne un peu mieux je trouve
 
     # lorem1.rpy:253
     old "Leave."
@@ -1577,8 +1569,7 @@ translate french strings:
 
     # lorem1.rpy:332
     old "As long as it's based on the truth, you have my support."
-    new "Du moins qu'il est basé sur la vérité, tu as mon soutien."
-## ça sonne un peu étrange "Tant qu'il est basé sur la vérité" semble plus juste
+    new "Tant qu'il est basé sur la vérité, tu as mon soutien."
 
     # lorem1.rpy:367
     old "You certainly seem passionate enough about this."
