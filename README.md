@@ -26,7 +26,7 @@ bryce1 ✘<br/>
 lorem1 ✔✔<br/>
 remy1 ✘ En cours (gone461)<br/>
 xsebastian ✘<br/>
-endings ✘<br/>
+<i>endings (était utilisé dans la demo de AWSW, et peut donc être ignoré)<i/><br/>
 chapter2 ✔<br/>
 adine2 ✔<br/>
 anna2 ✔<br/>
