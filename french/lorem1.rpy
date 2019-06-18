@@ -6,7 +6,7 @@
 translate french lorem1_3d89afe3:
 
     # m "I went to the bar Lorem had suggested as our meeting place. When I looked around, I saw Bryce sitting at a table, talking to someone I couldn’t see. I lingered on him for a second, but soon spotted Lorem in the corner of my eye."
-    m "﻿J'allai au bar que Lorem avait suggéré pour notre rendez-vous. Quand je regardais autour de moi, j'aperçus Bryce assis a une table, parlant à une personne que je ne pouvais voir. Je m'attardai sur lui le temps d'une seconde, mais remarqua bientôt Lorem du coin de l'œil."
+    m "﻿J'allai au bar que Lorem avait suggéré pour notre rendez-vous. Quand je regardai autour de moi, j'aperçus Bryce assis a une table, parlant à une personne que je ne pouvais voir. Je m'attardai sur lui le temps d'une seconde, mais remarquai bientôt Lorem du coin de l'œil."
 
 # game/lorem1.rpy:40
 translate french lorem1_fb5ec58c:
@@ -138,7 +138,7 @@ translate french _call_skipcheck_16_a750447a:
 translate french _call_skipcheck_16_c4112abb:
 
     # c "Excuse me, but this still doesn't really tell me anything about why I'm here. You're a postman who wants to interview me for... what, exactly?"
-    c "Excuse moi, mais ça ne me dit toujours pas pourquoi nous sommes ici. Tu est un facteur qui veut m'interviewer pour... quoi, exactement ?"
+    c "Excuse moi, mais ça ne me dit toujours pas pourquoi nous sommes ici. Tu es un facteur qui veut m'interviewer pour... quoi, exactement ?"
 
 # game/lorem1.rpy:167
 translate french _call_skipcheck_16_4c2ac08e:
@@ -156,7 +156,7 @@ translate french _call_skipcheck_16_6a88e8e8:
 translate french _call_skipcheck_16_98593d8f:
 
     # Lo think "This town doesn't exactly offer the best opportunities to put my degree to good use, though."
-    Lo think "Cependant, cette ville n'offre pas vraiment les meilleurs opportunités pour mettre mon diplôme à profit."
+    Lo think "Cependant, cette ville n'offre pas vraiment les meilleures opportunités pour mettre mon diplôme à profit."
 
 # game/lorem1.rpy:190
 translate french _call_skipcheck_16_f52dcfe5:
@@ -198,7 +198,7 @@ translate french _call_skipcheck_16_1db2bc1a:
 translate french _call_skipcheck_16_2d0c2152:
 
     # Lo "Video games and computers are just starting to catch on in places like this town. Making good content will be very important to give a good first impression."
-    Lo "Les jeux vidéo et les ordinateurs ont tout juste commencé a devenir populair dans les endroits comme cette ville. Créer du bon contenu sera très important pour faire une bonne première impression."
+    Lo "Les jeux vidéo et les ordinateurs ont tout juste commencé a devenir populaires dans les endroits comme cette ville. Créer du bon contenu sera très important pour faire une bonne première impression."
 
 # game/lorem1.rpy:227
 translate french _call_skipcheck_16_b7b18181:
@@ -384,7 +384,7 @@ translate french _call_skipcheck_16_1c08cd7f:
 translate french _call_skipcheck_16_9bf80b9c:
 
     # Lo think "It wouldn't change anything, because I wouldn't base my opinion of an entire species on interactions with a single individual."
-    Lo think "Ça ne changerait bien je pense, car je ne baserais pas mon opinion sur une espèce entière sur mes interactions avec une personne."
+    Lo think "Ça ne changerait rien je pense, car je ne baserais pas mon opinion sur une espèce entière sur mes interactions avec une personne."
 
 # game/lorem1.rpy:391
 translate french _call_skipcheck_16_054e3918:
@@ -474,7 +474,7 @@ translate french _call_skipcheck_16_40ad1523:
 translate french _call_skipcheck_16_fca12b73:
 
     # Lo think "I haven’t worked that out yet, but humans alone give us a lot of material to work with."
-    Lo think "Je n'y ai pas trop encore pensé, mais les humains en eux-mêmes nous donnent déjà beaucoup de matière à travailler."
+    Lo think "Je n'y ai pas encore trop pensé, mais les humains en eux-mêmes nous donnent déjà beaucoup de matière à travailler."
 
 # game/lorem1.rpy:440
 translate french _call_skipcheck_16_be8b7287:
@@ -498,7 +498,7 @@ translate french _call_skipcheck_16_56a7507d:
 translate french _call_skipcheck_16_2ad9e663:
 
     # Lo happy "In general, the mythical human can be divided into three categories: Firstly, the human as a physical creature; secondly, the human as a non-physical entity; and thirdly, the human as a spiritual being."
-    Lo happy "En général, l'humain mythique peut être divisé en trois catégories : premièrement l'humain en tant que créature physique, secondement l'humain en tant qu'entité non physique, et troisièmement l'humain en tant qu'être spirituel."
+    Lo happy "En général, l'humain mythique peut être divisé en trois catégories : premièrement l'humain en tant que créature physique, deuxièmement l'humain en tant qu'entité non physique, et troisièmement l'humain en tant qu'être spirituel."
 
 # game/lorem1.rpy:448
 translate french _call_skipcheck_16_4facd386:
@@ -516,7 +516,7 @@ translate french _call_skipcheck_16_12a75e24:
 translate french _call_skipcheck_16_c28061a0:
 
     # Lo think "I can see you don't have wings, but most of us are able to create fire in some way, or at least have a breath weapon. How about you?"
-    Lo think "Je peux voir que tu n'as pas d'ailes, mais la plupart d'entre nous sont capables de créer du feu d'une manière ou d'une autre, ou au moins possèdent la capacité d'attaquer avec son souffle. Qu'en est-t'il de toi ?"
+    Lo think "Je peux voir que tu n'as pas d'ailes, mais la plupart d'entre nous sont capables de créer du feu d'une manière ou d'une autre, ou au moins possèdent la capacité d'attaquer avec leur souffle. Qu'en est-t'il de toi ?"
 
 # game/lorem1.rpy:459
 translate french _call_skipcheck_16_d275ced1:
@@ -570,7 +570,7 @@ translate french _call_skipcheck_16_c5aed8d5:
 translate french _call_skipcheck_16_0cef7eef:
 
     # Lo happy "Maybe it’s meant to be taken literally – meaning that when that ability was given to us, you lost it."
-    Lo happy "Peut être que c'est à prendre littéralement - c'est-à-dire qu'en nous ayant donné cette aptitude, vous l'avez perdu."
+    Lo happy "Peut-être que c'est à prendre littéralement - c'est-à-dire qu'en nous ayant donné cette aptitude, vous l'avez perdu."
 
 # game/lorem1.rpy:494
 translate french _call_skipcheck_16_8054cb2a:
@@ -582,7 +582,7 @@ translate french _call_skipcheck_16_8054cb2a:
 translate french _call_skipcheck_16_efda574e:
 
     # c "Humans are known to have created a lot of things out of nothing. After all, we only needed to discover how to create and use fire, because we didn't have a natural ability to do so."
-    c "Les humains sont connus pour avoir créé un grand nombre de choses à partir de rien. Après tout, nous avons du découvrir comment créer du feu et comment s'en servir, simplement parce que nous n'avions pas la capacité naturelle de le faire."
+    c "Les humains sont connus pour avoir créé un grand nombre de choses à partir de rien. Après tout, nous avons dû découvrir comment créer du feu et comment s'en servir, simplement parce que nous n'avions pas la capacité naturelle de le faire."
 
 # game/lorem1.rpy:498
 translate french _call_skipcheck_16_177d8150:
@@ -618,13 +618,13 @@ translate french _call_skipcheck_16_acf8adb4:
 translate french _call_skipcheck_16_6cfa7aeb:
 
     # c "It's also possible that what you've been led to believe about humans doesn't actually refer to us at all."
-    c "Il est aussi possible que ce que vous avez été amené à croire à propos des humains ne se réfère au final tout pas du tout à nous."
+    c "Il est aussi possible que ce que vous avez été amené à croire à propos des humains ne se réfère au final pas du tout à nous."
 
 # game/lorem1.rpy:510
 translate french _call_skipcheck_16_65122c50:
 
     # Lo relieved "Are you implying that you aren't human?"
-    Lo relieved "Sous-entends-tu que tu n'est pas humain ?"
+    Lo relieved "Sous-entends-tu que tu n'es pas humain ?"
 
 # game/lorem1.rpy:512
 translate french _call_skipcheck_16_b7f880a3:
@@ -648,7 +648,7 @@ translate french _call_skipcheck_16_96de6db3:
 translate french _call_skipcheck_16_637351f1:
 
     # Lo happy "I suppose you are right in the way that our images of humans are very inconsistent. They certainly can't all be humans in the way that we would refer to a single species. The name should probably be reserved for yours."
-    Lo happy "Je suppose que tu a raison dans le sens où nos images des humains sont très incohérentes. Ils ne peuvent certainement pas tous être humains dans le sens où nous nous référerions à une unique espèce. Ce nom devrait probablement vous être réservé."
+    Lo happy "Je suppose que tu as raison dans le sens où nos images des humains sont très incohérentes entre elles. Ils ne peuvent certainement pas tous être humains dans le sens où nous nous référerions à une unique espèce. Ce nom devrait probablement vous être réservé."
 
 # game/lorem1.rpy:520
 translate french _call_skipcheck_16_72d32989:
@@ -678,7 +678,7 @@ translate french _call_skipcheck_16_7f1295b3:
 translate french _call_skipcheck_16_6bb06f89:
 
     # Lo think "Honestly, the definitions get a bit muddled here. Going by conventional belief, a ghost could be a human who has died and thus changed into a different form. We would call this a spiritual human."
-    Lo think "Honnêtement, les définitions sont assez confuses à ce point. D'après la croyance populaire, un fantôme pourrait être un humain décédé et ayant ainsi changé de forme. Nous appelorions cela un humain spirituel."
+    Lo think "Honnêtement, les définitions sont assez confuses à ce point. D'après la croyance populaire, un fantôme pourrait être un humain décédé et ayant ainsi changé de forme. Nous appelerions cela un humain spirituel."
 
 # game/lorem1.rpy:530
 translate french _call_skipcheck_16_5b7b2cac:
@@ -696,7 +696,7 @@ translate french _call_skipcheck_16_e3d49b89:
 translate french _call_skipcheck_16_19a36f81:
 
     # Lo happy "Angels basically look like humans with wings. Their existence in ancient scripts was used to lend some credence to the theories about humans having become dragons."
-    Lo happy "Les anges ressemble en gros à des humains avec des ailes. Leur existence dans les scripts anciens a été utilisée afin d'appuyer les théories selon lesquelles les humains seraient devenus des dragons."
+    Lo happy "Les anges ressemblent en gros à des humains avec des ailes. Leur existence dans les scripts anciens a été utilisée afin d'appuyer les théories selon lesquelles les humains seraient devenus des dragons."
 
 # game/lorem1.rpy:536
 translate french _call_skipcheck_16_cafbb74d:
@@ -726,13 +726,13 @@ translate french _call_skipcheck_16_e2063eb2:
 translate french _call_skipcheck_16_b57cf12b:
 
     # c "When we met, you also told me something about a four-headed human."
-    c "Quand nous nous sommes rencontrés, tu m'as parlé d'humains à quatre têtes"
+    c "Quand nous nous sommes rencontrés, tu m'as parlé d'humains à quatre têtes."
 
 # game/lorem1.rpy:546
 translate french _call_skipcheck_16_cd5dac38:
 
     # Lo normal "Right. With that we'd go into the realm of creatures that just don't make much sense at all."
-    Lo normal "Ah, oui. Avec ça, on rejoindrait dans le domaine des créatures qui n'ont, à ce point, plus vraiment aucun sens."
+    Lo normal "Ah, oui. Avec ça, on rejoindrait le domaine des créatures qui n'ont, à ce point, plus vraiment aucun sens."
 
 # game/lorem1.rpy:548
 translate french _call_skipcheck_16_62c174e9:
@@ -762,7 +762,7 @@ translate french _call_skipcheck_16_a133a251:
 translate french _call_skipcheck_16_66b483cd:
 
     # c "What are they?"
-    c "Quels sont-elles ?"
+    c "Quelles sont-elles ?"
 
 # game/lorem1.rpy:558
 translate french _call_skipcheck_16_223625a4:
@@ -774,7 +774,7 @@ translate french _call_skipcheck_16_223625a4:
 translate french _call_skipcheck_16_d21ff05e:
 
     # c "We are mammals, though."
-    c "Nous somme des mammifères malgrè tout."
+    c "Nous sommes des mammifères malgrè tout."
 
 # game/lorem1.rpy:562
 translate french _call_skipcheck_16_1097c581:
@@ -954,7 +954,7 @@ translate french _call_skipcheck_16_433c0d98:
 translate french _call_skipcheck_16_baea8985:
 
     # Lo think "One species will certainly be modeled after you, but that doesn't mean we can't introduce some variety with the others."
-    Lo think "Une des espèces sera certainement modelée d'après vous, mais ça ne veut pas dire que nous ne pouvons introduire un peu de variété avec les autres."
+    Lo think "Une des espèces sera certainement modelée d'après vous, mais ça ne veut pas dire que nous ne pouvons pas introduire un peu de variété avec les autres."
 
 # game/lorem1.rpy:652
 translate french _call_skipcheck_16_610f35b2:
@@ -984,7 +984,7 @@ translate french _call_skipcheck_16_bea9746d:
 translate french _call_skipcheck_16_14145a58:
 
     # Lo "When we arrived here, you asked me if I was old enough to drink. That leads me to believe that your average human must be a lot taller."
-    Lo "Quand nous sommes arrivés ici, tu m'as demander si j'étais assez agé pour boire. Cela m'amène à penser que l'humain moyen doit doit être bien plus grand."
+    Lo "Quand nous sommes arrivés ici, tu m'as demandé si j'étais assez agé pour boire. Cela m'amène à penser que l'humain moyen doit doit être bien plus grand."
 
 # game/lorem1.rpy:662
 translate french _call_skipcheck_16_fa74b8ac:
@@ -1044,7 +1044,7 @@ translate french _call_skipcheck_16_7f71981e:
 translate french _call_skipcheck_16_43482f04:
 
     # c "Some people even believe your blood type influences your personality."
-    c "Certaines personnes pensent même que son groupe sanguin influence sa personnalité."
+    c "Certaines personnes pensent même que leur groupe sanguin influence leur personnalité."
 
 # game/lorem1.rpy:682
 translate french _call_skipcheck_16_fc46b979:
@@ -1062,7 +1062,7 @@ translate french _call_skipcheck_16_61e5afcb:
 translate french _call_skipcheck_16_845133b1:
 
     # Lo relieved "Phew, we already got so much. I'll have to think about if and how we can work all this into the game."
-    Lo relieved "Pfiou, nous avons déjà tellement de choses. Je vais devoir réflechier à si et comment nous alons pouvoir mettre tout ça dans le jeu."
+    Lo relieved "Pfiou, nous avons déjà tellement de choses. Je vais devoir réflechir à si et comment nous allons pouvoir mettre tout ça dans le jeu."
 
 # game/lorem1.rpy:688
 translate french _call_skipcheck_16_b184e63b:
@@ -1098,7 +1098,7 @@ translate french _call_skipcheck_16_86819a05:
 translate french _call_skipcheck_16_7a1ab47b:
 
     # Lo think "Phew. Must be several months now. I've got everything planned out and a lot of the groundwork has already been done."
-    Lo think "Pfiou. Ça doit faire quelques mois maintenant. J'ai tout planifié et la majeure partie des bases ont déjà été posées."
+    Lo think "Pfiou. Ça doit faire quelques mois maintenant. J'ai tout planifié et la majeure partie des bases a déjà été posée."
 
 # game/lorem1.rpy:700
 translate french _call_skipcheck_16_b055803d:
@@ -1164,7 +1164,7 @@ translate french _call_skipcheck_16_9b25687c:
 translate french _call_skipcheck_16_346b54b1:
 
     # Lo think "What do you mean?"
-    Lo think "Que veux tu dire ?"
+    Lo think "Que veux-tu dire ?"
 
 # game/lorem1.rpy:722
 translate french _call_skipcheck_16_efc51e51:
@@ -1260,7 +1260,7 @@ translate french _call_skipcheck_16_df4298d3:
 translate french _call_skipcheck_16_088e6966:
 
     # Lo relieved "You're right about that. One wrong move and you've suddenly shredded the letter you were just going to hand to someone."
-    Lo relieved "Tu a raison. Un faux mouvement et soudainement tu as déchiré la lettre que tu t'apprêtais à remettre à quelqu'un."
+    Lo relieved "Tu as raison. Un faux mouvement et soudainement tu as déchiré la lettre que tu t'apprêtais à remettre à quelqu'un."
 
 # game/lorem1.rpy:779
 translate french _call_skipcheck_16_9041e3cd:
@@ -1302,7 +1302,7 @@ translate french _call_skipcheck_16_de586ebf:
 translate french _call_skipcheck_16_c9537556:
 
     # Lo normal "My species is perfectly suited for the job, so they were glad to have me on board."
-    Lo normal "Mon espèce est parfaitement adaptée pour ce travail, ils sont donc contents de m'avoir à bord."
+    Lo normal "Mon espèce est parfaitement adaptée à ce travail, ils sont donc contents de m'avoir à bord."
 
 # game/lorem1.rpy:810
 translate french _call_skipcheck_16_1883cb8f:
@@ -1516,7 +1516,7 @@ translate french strings:
 
     # lorem1.rpy:169
     old "Sounds good to me."
-    new "ça sonne bien pour moi."
+    new "Ça me va."
 
     # lorem1.rpy:169
     old "I already regret coming here."
@@ -1621,6 +1621,11 @@ translate french strings:
     # lorem1.rpy:615
     old "I suppose that's why they're just myths."
     new "Je suppose que c'est la raison pour laquelle ce ne sont que des mythes."
+    
+    # lorem1.rpy:615
+    # old "Are you sure?"
+    # new "En es-tu sûr ?"
+    # Cette ligne doit pouvoir être traduite différement de la manière dont elle est traduite dans common.rpy, mais rien ne peut être fait pour ça pour le moment
 
     # lorem1.rpy:740
     old "Seems like you know what you're doing."
