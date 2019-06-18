@@ -1,4 +1,4 @@
-﻿﻿# TODO: Translation updated at 2019-06-07 17:56
+﻿# TODO: Translation updated at 2019-06-07 17:56
 # Original translator : AraMacaw
 # Reviews : 1 (BananaSplit)
 
@@ -594,7 +594,7 @@ translate french _call_skipcheck_16_177d8150:
 translate french _call_skipcheck_16_0bfb9c67:
 
     # Lo normal "What is it?"
-    Lo normal "Quel est il ?"
+    Lo normal "Quel est-il ?"
 
 # game/lorem1.rpy:502
 translate french _call_skipcheck_16_4a5b7618:
@@ -1423,7 +1423,6 @@ translate french lorem1skip_0816df93_1:
 
     # c "Don't worry about it. I'll just consider it a public service."
     c "Ne t'en fais pas pour ça. Je vais simplement le considèrer comme un service publique."
-## Pareil que plus haut pour "le"
 
 # game/lorem1.rpy:912
 translate french lorem1skip_5d6edec2:
@@ -1601,7 +1600,7 @@ translate french strings:
 
     # lorem1.rpy:455
     old "I can rub two sticks together to make fire. Does that count?"
-    new "Je peut frotter deux batons l'un contre l'autre pour faire du feu. Ça compte ?"
+    new "Je peux frotter deux bâtons l'un contre l'autre pour faire du feu. Ça compte ?"
 
     # lorem1.rpy:455
     old "Of course. I can also move things with my mind."
