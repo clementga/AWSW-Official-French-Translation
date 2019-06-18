@@ -2932,7 +2932,7 @@ translate french _call_syscheck_11_4c8f346f:
 translate french _call_syscheck_11_9c2c9e41:
 
     # c "(So, daddy grape finds his kid crying and asks \"What's wrong, kid?\", but through all the tears, the kid couldn't get a single word out. Eventually, daddy had enough, so he said: \"Stop wi...\" No, I won't say it. It wasn't a good joke anyway.)"
-    c "(Alors, papa raisin trouve son fils en train de pleurer et lui demande \"Qu'est-ce qui ne va pas mon enfant ?\", mais à travers les larmes, il ne put sortir un seul mot. Éventuellement, le père en a assez, et dit alors \"Arrête av...\". Non, je ne vais pas le dire. Ce n'était pas une bonne blague de toute façon.)"
+    c "(Alors, papa oignon trouve son fils en train de pleurer et lui demande \"Qu'est-ce qui ne va pas mon enfant ?\", mais à travers les larmes, il ne put sortir un seul mot. Éventuellement, le père en a assez, et dit alors \"Arrête de ple...\". Non, je ne vais pas le dire. Ce n'était pas une bonne blague de toute façon.)"
 
 # game/chapter1.rpy:2760
 translate french _call_syscheck_11_4a56c371:
@@ -5003,7 +5003,8 @@ translate french strings:
 
     # chapter1.rpy:2722
     old "Grape"
-    new "Raisin"
+    new "Oignon"
+    #J'ai changé l'aliment pour la blague
 
     # chapter1.rpy:2722
     old "Lemon"

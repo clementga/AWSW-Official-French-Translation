@@ -179,7 +179,8 @@ translate french strings:
 
     # 00gui.rpy:227
     old "Are you sure?"
-    new "Êtes-vous sur ?"
+    new "Tu en es sûr ?"
+    # Cette ligne est également utilisée dans lorem1. Je préfère qu'elle soit adaptée à lorem1 qu'au menu
 
     # 00gui.rpy:228
     old "Are you sure you want to delete this save?"
