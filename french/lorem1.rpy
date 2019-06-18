@@ -1194,7 +1194,7 @@ translate french _call_skipcheck_16_ab1f35dd:
 translate french _call_skipcheck_16_1c92ddc7:
 
     # Lo think "I can always look for another job, and maybe I'll end up working at a game studio, but I think once I've started doing something like that, I might not get this opportunity again."
-    Lo think "Je peux toujours trouver un autre travail, et peut être que je finirai par travailler dans un studio de jeu vidéo, mais je pense qu'une fois que j'aurai commencé à faire une chose comme celle-là, je n'aurais plus cette opportunité de nouveau.
+    Lo think "Je peux toujours trouver un autre travail, et peut être que je finirai par travailler dans un studio de jeu vidéo, mais je pense qu'une fois que j'aurai commencé à faire une chose comme celle-là, je n'aurais plus cette opportunité de nouveau."
 
 # game/lorem1.rpy:732
 translate french _call_skipcheck_16_aa53918d:
