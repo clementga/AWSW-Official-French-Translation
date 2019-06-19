@@ -549,7 +549,7 @@ translate french holetravel_883eb98b:
 translate french holetravel_1b80444e:
 
     # Ry "Well, I'm glad to hear that."
-    Ry "Et bien, je suis content d'entendre ça."
+    Ry "Eh bien, je suis content d'entendre ça."
 
 # game/chapter1.rpy:671
 translate french holetravel_a3fad319:
@@ -1045,7 +1045,7 @@ translate french _call_skipcheck_2_759b976c:
 translate french _call_skipcheck_2_46975328:
 
     # Sb "Well, [player_name], this is Anna. She kinda manages this building, though actually she's more involved with the research wing rather than production and engineering."
-    Sb "Et bien, [player_name], voici Anna. Elle gère ce bâtiment, même si elle est plus impliquée dans l'aile de la recherche que dans celle de la production et de l'ingéniérie."
+    Sb "Eh bien, [player_name], voici Anna. Elle gère ce bâtiment, même si elle est plus impliquée dans l'aile de la recherche que dans celle de la production et de l'ingéniérie."
 
 # game/chapter1.rpy:1411
 translate french _call_skipcheck_2_ec602286_1:
@@ -1237,7 +1237,7 @@ translate french _call_syscheck_4_46986bde:
 translate french _call_syscheck_4_ee80c080:
 
     # c "Well, that was interesting."
-    c "Et bien, c'était quelque chose."
+    c "Eh bien, c'était quelque chose."
 
 # game/chapter1.rpy:1529
 translate french _call_syscheck_4_aa6687bb:
@@ -1273,7 +1273,7 @@ translate french _call_syscheck_4_c48dc32f:
 translate french _call_syscheck_4_f0387be4:
 
     # Rz "Oh... Well, it's your choice. We've got no idea what they might do with it, though."
-    Rz "Oh... Et bien, c'est ton choix. On a aucune idée de ce qu'ils vont faire avec cependant."
+    Rz "Oh... Eh bien, c'est ton choix. On a aucune idée de ce qu'ils vont faire avec cependant."
 
 # game/chapter1.rpy:1542
 translate french _call_syscheck_4_9bb48a13:
@@ -1785,7 +1785,7 @@ translate french _call_syscheck_6_e9146df2:
 translate french _call_syscheck_6_09595634:
 
     # Sb "Well, too late for that now."
-    Sb "Et bien, c'est trop tard maintenant."
+    Sb "Eh bien, c'est trop tard maintenant."
 
 # game/chapter1.rpy:1901
 translate french _call_syscheck_6_61dd893b:
@@ -1827,7 +1827,7 @@ translate french _call_syscheck_6_936e0f77:
 translate french _call_syscheck_6_2dd88010:
 
     # Sb "Well, if you need anything, I'll be outside until my shift ends. Otherwise, I'll see you tomorrow."
-    Sb "Et bien, si tu as besoin de quoi que ce soit, je serai dehors jusqu'à ce que mon service se finisse. Sinon, nous nous reverrons demain."
+    Sb "Eh bien, si tu as besoin de quoi que ce soit, je serai dehors jusqu'à ce que mon service se finisse. Sinon, nous nous reverrons demain."
 
 # game/chapter1.rpy:1918
 translate french _call_syscheck_6_f37e170c:
@@ -3088,7 +3088,7 @@ translate french continuation_7d4645bd:
 translate french continuation_cc4c03c2:
 
     # Rz "You do? Well, then you know what we've got to do, right?"
-    Rz "Vraiment ? Et bien, tu sais ce que nous avons à faire alors, n'est-ce pas ?"
+    Rz "Vraiment ? Eh bien, tu sais ce que nous avons à faire alors, n'est-ce pas ?"
 
 # game/chapter1.rpy:2844
 translate french continuation_9f85b645:
@@ -3274,7 +3274,7 @@ translate french continuation_3b700e22:
 translate french continuation_49306a0f:
 
     # Mv "Well, that's just brilliant."
-    Mv "Et bien, c'est tout simplement génial."
+    Mv "Eh bien, c'est tout simplement génial."
 
 # game/chapter1.rpy:2986
 translate french continuation_6e8a23aa:
@@ -3712,7 +3712,7 @@ translate french investigation_3866bd40:
 translate french investigation_52ed0bbc:
 
     # c "Well, he's definitely dead."
-    c "Et bien, il est assurément mort."
+    c "Eh bien, il est assurément mort."
 
 # game/chapter1.rpy:3226
 translate french investigation_331499d0:
@@ -3826,7 +3826,7 @@ translate french quest2_e2599129:
 translate french quest2_5df50500:
 
     # Br "Well, he could have had a reason to use a knife over his \"gun\" if it was him. Can you think of any?"
-    Br "Et bien, il aurait pu avoir une raison pour utiliser un couteau et pas son \"revolver\" si c'était lui. Peux-tu en imaginer une ?"
+    Br "Eh bien, il aurait pu avoir une raison pour utiliser un couteau et pas son \"revolver\" si c'était lui. Peux-tu en imaginer une ?"
 
 # game/chapter1.rpy:3347
 translate french quest2_7d1411e6:
@@ -3999,7 +3999,7 @@ translate french quest4_f2232d68:
 translate french quest4_05ddcc31:
 
     # c "Well, there's a lot of blood."
-    c "Et bien, il y a beaucoup de sang."
+    c "Eh bien, il y a beaucoup de sang."
 
 # game/chapter1.rpy:3452
 translate french quest5_122763b9:
@@ -4047,7 +4047,7 @@ translate french quest5_f913b41f:
 translate french quest5_ac0be0ab:
 
     # Br "Well, there is no blood anywhere else in the vicinity that would suggest that. Unless the perpetrator had the time to clean up some of it."
-    Br "Et bien, il n'y a aucune présence de sang ailleurs dans les environs qui pourraient nous suggérer ça. Sauf si le coupable avait eu le temps d'en nettoyer une partie."
+    Br "Eh bien, il n'y a aucune présence de sang ailleurs dans les environs qui pourraient nous suggérer ça. Sauf si le coupable avait eu le temps d'en nettoyer une partie."
 
 # game/chapter1.rpy:3486
 translate french quest5_9e24a4c4:
@@ -4275,7 +4275,7 @@ translate french _call_syscheck_13_706f1fa0:
 translate french _call_syscheck_13_56659e1f:
 
     # Ad "Well, I'd call you by your name, but you never actually told me it."
-    Ad "Et bien, je t'appellerais par ton nom, mais tu ne me l'a jamais dit."
+    Ad "Eh bien, je t'appellerais par ton nom, mais tu ne me l'a jamais dit."
 
 # game/chapter1.rpy:3652
 translate french _call_syscheck_13_d2c48d95:
@@ -4533,7 +4533,7 @@ translate french _call_syscheck_13_f1d1df9e:
 translate french _call_syscheck_13_13ab97f3:
 
     # Br "Well, as long as he doesn't interfere with us, we can't really stop him from doing things in his own free time."
-    Br "Et bien, tant qu'il n'interfère pas avec nous, nous ne pouvons pas vraiment l'empêcher de faire ce qu'il veut dans son temps libre."
+    Br "Eh bien, tant qu'il n'interfère pas avec nous, nous ne pouvons pas vraiment l'empêcher de faire ce qu'il veut dans son temps libre."
 
 # game/chapter1.rpy:3765
 translate french _call_syscheck_13_ff7d6620:
@@ -4599,7 +4599,7 @@ translate french _call_syscheck_13_255ecca1:
 translate french _call_syscheck_13_46e457aa:
 
     # Br "Well, I think we're done here. Let's go."
-    Br "Et bien, je pense que nous en avons fini ici. Allons-y."
+    Br "Eh bien, je pense que nous en avons fini ici. Allons-y."
 
 # game/chapter1.rpy:3792
 translate french sceneselect_703d4088:
@@ -5012,7 +5012,7 @@ translate french strings:
 
     # chapter1.rpy:2811
     old "Guess I did."
-    new "Et bien me voilà."
+    new "Eh bien me voilà."
 
     # chapter1.rpy:2811
     old "What did you expect?"
@@ -5020,7 +5020,7 @@ translate french strings:
 
     # chapter1.rpy:2811
     old "Well, you didn't make it easy."
-    new "Et bien, tu n'as rendu les choses faciles."
+    new "Eh bien, tu n'as rendu les choses faciles."
 
     # chapter1.rpy:2841
     old "Yeah, I know."
@@ -5204,7 +5204,7 @@ translate french strings:
 
     # chapter1.rpy:3644
     old "Well, I'm {i}a{/i} human."
-    new "Et bien, je suis {i}un{/i} humain."
+    new "Eh bien, je suis {i}un{/i} humain."
 
     # chapter1.rpy:3644
     old "I have a name, you know."

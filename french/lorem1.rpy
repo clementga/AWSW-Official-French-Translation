@@ -210,7 +210,7 @@ translate french _call_skipcheck_16_b7b18181:
 translate french _call_skipcheck_16_ed1e847f:
 
     # c "Well..."
-    c "Et bien..."
+    c "Eh bien..."
 
 # game/lorem1.rpy:231
 translate french _call_skipcheck_16_60287eb6:
@@ -240,7 +240,7 @@ translate french _call_skipcheck_16_2660554d:
 translate french _call_skipcheck_16_dce6f68c:
 
     # c "Well, I'm already here and have nothing else to do, so let's make the most of this."
-    c "Et bien, je suis déjà là et je n'ai rien d'autre à faire, donc autant en profiter au maximum."
+    c "Eh bien, je suis déjà là et je n'ai rien d'autre à faire, donc autant en profiter au maximum."
 
 # game/lorem1.rpy:259
 translate french _call_skipcheck_16_55eb3920:
@@ -252,7 +252,7 @@ translate french _call_skipcheck_16_55eb3920:
 translate french _call_skipcheck_16_aded8efe:
 
     # c "Well, this was a waste of time."
-    c "Et bien, c'était une perte de temps."
+    c "Eh bien, c'était une perte de temps."
 
 # game/lorem1.rpy:267
 translate french _call_skipcheck_16_87c9bd59:
@@ -444,7 +444,7 @@ translate french _call_skipcheck_16_d879a92b:
 translate french _call_skipcheck_16_fafe2bd6:
 
     # Lo relieved "Well, I guess you're not part of the target audience, then."
-    Lo relieved "Et bien, je suppose que tu ne fais pas partie du public cible alors."
+    Lo relieved "Eh bien, je suppose que tu ne fais pas partie du public cible alors."
 
 # game/lorem1.rpy:423
 translate french _call_skipcheck_16_491774d2:
@@ -930,7 +930,7 @@ translate french _call_skipcheck_16_2a92c8b3:
 translate french _call_skipcheck_16_0b33fa04:
 
     # Lo happy "Well, you're doing an excellent job so far. And it's bound to help me a lot with my game as well."
-    Lo happy "Et bien, tu as fait un excellent travail jusqu'à maintenant. Et cela va m'aider énormément pour mon jeu également."
+    Lo happy "Eh bien, tu as fait un excellent travail jusqu'à maintenant. Et cela va m'aider énormément pour mon jeu également."
 
 # game/lorem1.rpy:644
 translate french _call_skipcheck_16_9d229f6a:
@@ -1170,7 +1170,7 @@ translate french _call_skipcheck_16_346b54b1:
 translate french _call_skipcheck_16_efc51e51:
 
     # c "Well, you're investing a certain amount of time and money into making this game. Ideally, you would make back your investment and hopefully get some profit on top of that."
-    c "Et bien, tu investis du temps et de l'argent à développer ce jeu. Idéalement, tu aurais un retour sur ton investissement et, avec un peu de chance, tu obtiendrais un profit par dessus."
+    c "Eh bien, tu investis du temps et de l'argent à développer ce jeu. Idéalement, tu aurais un retour sur ton investissement et, avec un peu de chance, tu obtiendrais un profit par dessus."
 
 # game/lorem1.rpy:724
 translate french _call_skipcheck_16_869998d9:
@@ -1446,7 +1446,7 @@ translate french lorem1skip_3070bc42:
 translate french lorem1skip_d098a468:
 
     # Lo relieved "Well, I can't help but feel like you still thought this was a waste of time."
-    Lo relieved "Et bien, je sens que, malgré tout, tu as pensé que tout ceci était une perte de temps."
+    Lo relieved "Eh bien, je sens que, malgré tout, tu as pensé que tout ceci était une perte de temps."
 
 # game/lorem1.rpy:920
 translate french lorem1skip_9ca6f404:
@@ -1508,7 +1508,7 @@ translate french strings:
 
     # lorem1.rpy:118
     old "Well, I'm here now."
-    new "Et bien, je suis là maintenant."
+    new "Eh bien, je suis là maintenant."
 
     # lorem1.rpy:118
     old "I almost didn't."

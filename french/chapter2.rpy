@@ -168,7 +168,7 @@ translate french _call_skipcheck_11_b08b3ab3:
 translate french _call_skipcheck_11_2003f708:
 
     # c "Well, what is it?"
-    c "Et bien, quel est-il ?"
+    c "Eh bien, quel est-il ?"
 
 # game/chapter2.rpy:360
 translate french _call_skipcheck_11_24b39723_1:
@@ -186,7 +186,7 @@ translate french _call_skipcheck_11_9cf059a8:
 translate french _call_skipcheck_11_2003f708_1:
 
     # c "Well, what is it?"
-    c "Et bien, quelles sont-elles ?"
+    c "Eh bien, quelles sont-elles ?"
 
 # game/chapter2.rpy:372
 translate french _call_skipcheck_11_24b39723_2:
@@ -234,7 +234,7 @@ translate french _call_skipcheck_11_8faa9d12:
 translate french _call_skipcheck_11_2003f708_2:
 
     # c "Well, what is it?"
-    c "Et bien, qu'allons-nous faire ?"
+    c "Eh bien, qu'allons-nous faire ?"
 
 # game/chapter2.rpy:401
 translate french _call_skipcheck_11_24b39723_3:
@@ -1436,7 +1436,7 @@ translate french chap2store_a83ed354:
 translate french chap2store_60df1031:
 
     # St "Well, if you put it that way, it kind of is."
-    St "Et bien, si tu le considères comme tel, ça en est plus ou moins une."
+    St "Eh bien, si tu le considères comme tel, ça en est plus ou moins une."
 
 # game/chapter2.rpy:1374
 translate french chap2store_90c9ae06_1:
@@ -1682,7 +1682,7 @@ translate french chap2store_a83ed354_1:
 translate french chap2store_60df1031_1:
 
     # St "Well, if you put it that way, it kind of is."
-    St "Et bien, si tu le considères comme tel, ça en est plus ou moins une."
+    St "Eh bien, si tu le considères comme tel, ça en est plus ou moins une."
 
 # game/chapter2.rpy:1506
 translate french chap2store_90c9ae06_5:
@@ -1790,7 +1790,7 @@ translate french chap2storeques_d9e0e084:
 translate french chap2storeques_af2aceae:
 
     # c "Well, that was easy."
-    c "Et bien, c'était facile."
+    c "Eh bien, c'était facile."
 
 # game/chapter2.rpy:1571
 translate french chap2storeques_3e8b8203:
@@ -2696,7 +2696,7 @@ translate french chap2libmenu_87d6e63f:
 translate french chap2libmenu_285dca13:
 
     # Ry "Then that shall be it."
-    Ry "Et bien qu'il en soit ainsi."
+    Ry "Eh bien qu'il en soit ainsi."
 
 # game/chapter2.rpy:2270
 translate french chap2libmenu_4a91bb19:
@@ -2942,7 +2942,7 @@ translate french _call_syscheck_55_09097829_1:
 translate french _call_syscheck_55_78f7f091:
 
     # c "(Well, maybe it {i}is{/i} a statue. Or I just turned invisible.)"
-    c "(Et bien, peut être que {i}c'est{/i} une statue. Ou alors je viens de devenir invisible.)"
+    c "(Eh bien, peut être que {i}c'est{/i} une statue. Ou alors je viens de devenir invisible.)"
 
 # game/chapter2.rpy:2569
 translate french _call_syscheck_55_5233c909:
@@ -3164,7 +3164,7 @@ translate french chap2park3choice_36d03084:
 translate french chap2park3choice_0de4a5be:
 
     # Em mean "Then let me fill that gap in your knowledge. My name is Emera and I am the Minister of Culture and Arts."
-    Em mean "Et bien laissez-moi vous renseigner sur ce point. Mon nom est Emera, et je suis la ministre de la Culture et des Arts."
+    Em mean "Eh bien laissez-moi vous renseigner sur ce point. Mon nom est Emera, et je suis la ministre de la Culture et des Arts."
 
 # game/chapter2.rpy:3100
 translate french chap2park3choice_89aefe22:
@@ -3194,7 +3194,7 @@ translate french chap2park3choice_36d03084_1:
 translate french chap2park3choice_defb337d:
 
     # "???" "Then let me fill that gap in your knowledge. My name is Emera and I am the Minister of Culture and Arts."
-    "???" "Et bien laissez-moi vous renseigner sur ce point. Mon nom est Emera, et je suis la ministre de la Culture et des Arts."
+    "???" "Eh bien laissez-moi vous renseigner sur ce point. Mon nom est Emera, et je suis la ministre de la Culture et des Arts."
 
 # game/chapter2.rpy:3120
 translate french chap2park3choice_89aefe22_1:
@@ -3230,7 +3230,7 @@ translate french chap2park3choice_e9aa42db:
 translate french chap2park3choice_922c6a91:
 
     # Em normal "Well, some of it."
-    Em normal "Et bien, en partie."
+    Em normal "Eh bien, en partie."
 
 # game/chapter2.rpy:3132
 translate french chap2park3choice_7f2f670b:
@@ -3266,7 +3266,7 @@ translate french chap2park3choice_ae31763c:
 translate french chap2park3choice_7d41a0ce:
 
     # Em "Oh, then you're missing out on some quality entertainment. You have to look at them next time you see him."
-    Em "Oh, et bien vous avez manqué un divertissement de qualité. Pensez à les regarder la prochaine fois que vous le voyez."
+    Em "Oh, Eh bien vous avez manqué un divertissement de qualité. Pensez à les regarder la prochaine fois que vous le voyez."
 
 # game/chapter2.rpy:3156
 translate french chap2park3choice_9f6b5cb0:
@@ -3314,7 +3314,7 @@ translate french chap2emselection_6fb65b35:
 translate french chap2emselection_db1472da:
 
     # Em normal "Well, I think it is about the most exciting thing that has happened here in the last few years."
-    Em normal "Et bien, je dois dire que c'est la chose la plus excitante qui soit arrivé ici depuis plusieurs années."
+    Em normal "Eh bien, je dois dire que c'est la chose la plus excitante qui soit arrivé ici depuis plusieurs années."
 
 # game/chapter2.rpy:3196
 translate french chap2emselection_36f0762f:
@@ -3398,7 +3398,7 @@ translate french chap2emselection_dd896968:
 translate french chap2emselection_4bbd843e:
 
     # Em ques "Well, I'm not so sure there is that much to say about it."
-    Em ques "Et bien, je ne suis pas sûr qu'il y ait beaucoup de choses à dire."
+    Em ques "Eh bien, je ne suis pas sûr qu'il y ait beaucoup de choses à dire."
 
 # game/chapter2.rpy:3240
 translate french chap2emselection_3bca9ae4:
@@ -3422,7 +3422,7 @@ translate french chap2emselection_4d41bd47:
 translate french chap2emselection_4fe18e35:
 
     # Em mean "Well, thank you for this most pleasant conversation, [player_name]."
-    Em mean "Et bien, merci pour cette plaisante conversation, [player_name]."
+    Em mean "Eh bien, merci pour cette plaisante conversation, [player_name]."
 
 # game/chapter2.rpy:3262
 translate french chap2emselection_8ee935fd:
@@ -4226,7 +4226,7 @@ translate french _call_popularcheck_11_abfdff27:
 translate french _call_popularcheck_11_c988d1f1:
 
     # c "(Well, she did get the right number and I'm still confused.)"
-    c "(Et bien, elle a eu le bon numéro, et je suis quand même confus.)"
+    c "(Eh bien, elle a eu le bon numéro, et je suis quand même confus.)"
 
 # game/chapter2.rpy:4241
 translate french _call_popularcheck_12_b9386ee3:
