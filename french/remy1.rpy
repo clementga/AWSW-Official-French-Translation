@@ -1156,19 +1156,19 @@ translate frenchtl remystuff_a703a8da:
 translate frenchtl remystuff_769a6324:
 
     # Ry "We were not even sure what it was capable of when we initially turned it on. Only after some time of being active did it actually find your portal, and only then were we able to make the connection."
-    Ry ""
+    Ry "Nous n'étions même pas sûre de ce dont c'était capable quand nous l'avons allumé. Il ne trouva votre portail qu'après un certain temps d'activité, et ce n'est qu'à partir de ce moment que nous fûmes capable d'établir la connection."
 
 # game/remy1.rpy:1177
 translate frenchtl remystuff_e372869d:
 
     # c "Making that discovery must have been very exciting, especially when you made contact with us and started exchanging letters with us."
-    c ""
+    c "Faire cette découverte a dû être très excitante, en particulier le moment où vous avez établi le contact avec nous et commencé à échanger des lettres."
 
 # game/remy1.rpy:1178
 translate frenchtl remystuff_f760c602:
 
     # Ry "Oh, you have no idea. Especially when Reza arrived and he turned out to be a human, of all things. Some people still worship them, you know."
-    Ry ""
+    Ry "Oh, tu n'as pas idée. Surtout le moment où Reza est arrivé et s'averra être un humain, parmi toutes les possibilités. Certains vous vouent toujours un culte, vous savez."
 
 # game/remy1.rpy:1179
 translate frenchtl remystuff_bd09f655:
