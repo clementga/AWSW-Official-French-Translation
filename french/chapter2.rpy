@@ -162,8 +162,7 @@ translate french _call_skipcheck_11_1dd3075a:
 translate french _call_skipcheck_11_b08b3ab3:
 
     # Br "Today's agenda isn't nearly as exciting or fun."
-    Br "Le programme d'aujourd'hui n'est certainement aussi excitant ou amusant."
-## je pense qu'il manque "pas" (n'est certainement pas aussi excitant ...)
+    Br "Le programme d'aujourd'hui n'est certainement pas aussi excitant ou amusant."
 
 # game/chapter2.rpy:356
 translate french _call_skipcheck_11_2003f708:
@@ -595,8 +594,7 @@ translate french _call_skipcheck_11_24a49291:
 translate french _call_skipcheck_11_b1e1dd58:
 
     # c "I just dislike all kinds of stairs, period."
-    c "Je n'aime pas tous les types d'escalier, point."
-## je chipote un peu mais la phrase semble manquer de quelque chose, "Je n'aime juste pas tous les types d'escalier, point." ou "Je déteste juste tous les type d'escalier, point."
+    c "Je déteste simplement tous les types d'escalier, point."
 
 # game/chapter2.rpy:657
 translate french _call_skipcheck_11_770cb11d:
@@ -710,8 +708,7 @@ translate french _call_skipcheck_11_ec9e9e05:
 translate french _call_skipcheck_11_4efdbd2a:
 
     # m "The figure crouched down next to me, its mask hovering right in front of my face. Merely a whisper reached my ears when it spoke."
-    m "La figure s'accroupit à mon niveau, son masque semblant flotter juste en face de mon visage. A peine un chuchotement parvint à mes oreilles lorsqu'elle parla."
-## Quelque chose me dérange ici, le jeu la décrit avec "it" vu que nous somme pas censé la connaitre, mais du coup en traduisant par "elle" n'est-il pas une sorte de spoil ?
+    m "La figure s'accroupit à mon niveau, son masque semblant flotter juste en face de mon visage. A peine un chuchotement parvint à mes oreilles lorsque celle-ci se mit à parler."
 
 # game/chapter2.rpy:777
 translate french _call_skipcheck_11_9beb3abe:
@@ -2015,8 +2012,7 @@ translate french chap2facility_923e730c:
 translate french chap2facility_781c3892:
 
     # "???" "Why don't I ever get any recognition? This is my lab as much as it is hers."
-    "???" "Pour n'ai-je jamais de quelconque reconnaissance. Ce laboratoire est autant le mien que le sien."
-## Je pense qu'il manque le "Pourquoi"
+    "???" "Pourquoi n'ai-je jamais de quelconque reconnaissance. Ce laboratoire est autant le mien que le sien."
 
 # game/chapter2.rpy:1786
 translate french chap2facility_909ef36b:
@@ -2724,8 +2720,7 @@ translate french chap2park_63c3de98:
 translate french chap2park1choice_891ef6d9:
 
     # "\"This park is dedicated to our creator, to whom we owe our sentience and existence. As it is our duty to remember, this place honors them every day with its beauty and grants a place of recreation and contemplation to all of us.\""
-    "\"Этот парк посвящен нашему создателю, которому мы обязаны нашим существованием и разумностью. Поскольку помнить об этом - наш долг, парк напоминает о нём своей красотой и предоставляет место для отдыха и размышлений всем нам.\""
-## Euuuh ? Je crois que j'ai besoin d'explication là
+    "\"Ce parc est dédié à notre créateur, à qui nous devons notre conscience et notre existence. Puisqu'il est de notre devoir ne nous souvenir, cet endroit l'honore tous les jours par sa beauté et offre un lieu de loisir et de contemplation à chacun de nous.\""
 
 # game/chapter2.rpy:2311
 translate french chap2park1choice_6800c3e1:
@@ -4297,8 +4292,7 @@ translate french _call_popularcheck_14_ad846bd9:
 translate french _call_popularcheck_14_45731809:
 
     # m "I figured I might still be able to go out or do something else, but when I looked at the time, I regretfully had to realize that the day was already over and it was too late."
-    m "Je me suis dit que j'avais encore le temps d'aller de hors ou de faire autre chose, mais quand j'ai vu l'heure, j'ai réalisé avec regret que la journée était déjà terminée, et que c'était trop tard."
-## "de hors" erreur de frappe ?
+    m "Je me suis dit que j'avais encore le temps d'aller dehors ou de faire autre chose, mais quand j'ai vu l'heure, j'ai réalisé avec regret que la journée était déjà terminée, et que c'était trop tard."
 
 # game/chapter2.rpy:4952
 translate french chap2altmenub2_85982b7e:
@@ -4316,8 +4310,7 @@ translate french chap2altmenub2_ad846bd9:
 translate french chap2altmenub2_45731809:
 
     # m "I figured I might still be able to go out or do something else, but when I looked at the time, I regretfully had to realize that the day was already over and it was too late."
-    m "Je me suis dit que j'avais peut-être encore le temps d'aller de hors ou de faire autre chose, mais quand j'ai vu l'heure, j'ai réalisé avec regret que la journée était déjà terminée, et que c'était trop tard."
-## Pareil que plus haut
+    m "Je me suis dit que j'avais peut-être encore le temps d'aller dehors ou de faire autre chose, mais quand j'ai vu l'heure, j'ai réalisé avec regret que la journée était déjà terminée, et que c'était trop tard."
 
 translate french strings:
 
