@@ -1,6 +1,6 @@
 ﻿﻿# TODO: Translation updated at 2019-06-07 17:56
 # Original translator : BananaSplit2
-# Reviews : 0
+# Reviews : 1 (AraMacaw)
 
 # game/chapter2.rpy:198
 translate french chapter2_76b2fe88:
