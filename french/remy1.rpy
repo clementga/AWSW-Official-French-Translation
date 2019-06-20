@@ -1168,79 +1168,79 @@ translate frenchtl remystuff_e372869d:
 translate frenchtl remystuff_f760c602:
 
     # Ry "Oh, you have no idea. Especially when Reza arrived and he turned out to be a human, of all things. Some people still worship them, you know."
-    Ry "Oh, tu n'as pas idée. Surtout le moment où Reza est arrivé et s'averra être un humain, parmi toutes les possibilités. Certains vous vouent toujours un culte, vous savez."
+    Ry "Oh, tu n'as pas idée. Surtout le moment où Reza est arrivé et s'est avéré être un humain, parmi toutes les possibilités. Certains vous vouent toujours un culte, vous savez."
 
 # game/remy1.rpy:1179
 translate frenchtl remystuff_bd09f655:
 
     # c "You've mentioned that before. How does that work? Do you have some kind of organized religion based around it?"
-    c ""
+    c "Tu m'as parlé de cela avant. Comment ça marche? Avez vous une sorte d'institution religieuse qui tourne autour de ça?"
 
 # game/remy1.rpy:1180
 translate frenchtl remystuff_f40ccde5:
 
     # Ry "Not exactly. It is more like an adoration on a personal level. I'd count myself amongst them if it wasn't for the fact that I consider myself to have a more reasonable approach to it than others."
-    Ry ""
+    Ry "Pas exactement. Il s'agit plus d'une adoration au niveau personnel. Je me serai compté parmi eux, si ce n'est que je me considère avoir une approche plus raisonnable sur le sujet comparé à d'autres."
 
 # game/remy1.rpy:1181
 translate frenchtl remystuff_4892c9b9:
 
     # Ry "For example, there are those that believe there is much more to your sudden appearance than there really is. I think they expect some sort of miracle from you, similar to what was ascribed to humans in the past."
-    Ry ""
+    Ry "Par exemple, il y a ceux qui croient qu'il y a plus derrière votre soudaine apparition que ce qu'il ne sembl. Je pense qu'ils attendent une sorte de miracles de votre part, semblable à ce qui était imputé au humains par le passé."
 
 # game/remy1.rpy:1188
 translate frenchtl remystuff_1d8d2308:
 
     # Ry "That's what I expected."
-    Ry ""
+    Ry "C'est ce à quoi je m'attendais."
 
 # game/remy1.rpy:1195
 translate frenchtl remystuff_3e0e5731:
 
     # Ry "Well, they're free to believe what they want. They'll see soon enough, anyway. Live and let live, as they say."
-    Ry ""
+    Ry "Eh bien, ils sont libres de croire ce qu'ils veulent. Ils se rendront compte assez vite, de toute façon. Savoir rester tolérant, comme ils disent."
 
 # game/remy1.rpy:1199
 translate frenchtl remystuff_123e30ab:
 
     # Ry "I'm sure you'd like that, but respect is earned, not given."
-    Ry ""
+    Ry "Je suis sûre que tu aimerais ça, mais le respect se gagne, il n'est pas dû."
 
 # game/remy1.rpy:1201
 translate frenchtl remystuff_4acfce25:
 
     # Ry "Either way, as a scholar, I'm looking forward to see everything your PDAs have to offer."
-    Ry ""
+    Ry "Quoi qu'il en soit, en tant qu'érudit, j'ai hâte de voir tout ce dont vos PDA recèlent."
 
 # game/remy1.rpy:1202
 translate frenchtl remystuff_7b2edb73:
 
     # c "I could show you sometime."
-    c ""
+    c "Je pourrais te montrer un de ces quatre."
 
 # game/remy1.rpy:1206
 translate frenchtl remystuff_0dadfd05:
 
     # Ry "I see. Well, don't worry about explaining them to me. I'm sure you have much more important things to do while you are here. It is just a question of time until one of them ends up with me, anyway."
-    Ry ""
+    Ry "Je vois. Eh bien, ne t'inquiètes pas pour ce qui est des explications. Je suis sûre que tu aura des choses plus importantes à faire pendant ton séjour ici. C'est juste une question de temps avant que l'un d'eux ne parvienne à moi, de toute façon."
 
 # game/remy1.rpy:1207
 translate frenchtl remystuff_af2e6b70:
 
     # c "Actually, the PDAs are one of the reasons I volunteered to come here."
-    c ""
+    c "En fait, les PDAs sont la raison pour laquelle je me suis porté volontaire pour venir ici."
 
 # game/remy1.rpy:1211
 translate frenchtl remystuff_94bcf8a0:
 
     # Ry "What do you mean?"
-    Ry ""
+    Ry "Que veux tu dire?"
 
 # game/remy1.rpy:1212
 translate frenchtl remystuff_93b1ebc8:
 
     # c "I know them pretty well. Enough to explain how they work, at least. Of course, that's far from the only reason. I just thought I'd be the kind of person who'd meet all of the requirements, and it turned out I was."
-    c ""
+    c "Je les connais assez bien. Au moins, assez pour expliquer leur fonctionnement. Bien sûr, c'est loin d'être la seule raison. J'ai juste pensé être le genre de personne pouvant remplir toutes les conditions, ce qui s'est avéré être le cas."
 
 # game/remy1.rpy:1213
 translate frenchtl remystuff_f6f7b1a2:
@@ -2312,15 +2312,15 @@ translate frenchtl strings:
 
     # remy1.rpy:1183
     old "Well, I can tell you that there is nothing supernatural about me."
-    new ""
+    new "Eh bien, je peux t'assurer qu'il n'y a rien de surnaturel à mon sujet."
 
     # remy1.rpy:1183
     old "Those people are stupid."
-    new ""
+    new "Ces gens sont idiots."
 
     # remy1.rpy:1183
     old "Maybe you should worship me."
-    new ""
+    new "Peut être que tu devrais me vénérer."
 
     # remy1.rpy:1242
     old "I have to admit I was, too. I was speechless when I saw you, and that wasn't just a side-effect of the teleportation."
