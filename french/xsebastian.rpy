@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-04 23:05
+# TODO: Translation updated at 2017-05-04 23:05
 # Initial translation by : BananaSplit2
 
 # game/xsebastian.rpy:32

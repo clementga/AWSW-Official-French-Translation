@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2019-06-07 17:56
 # Initial translation by : BananaSplit2
 
 # game/chapter1.rpy:56
@@ -746,6 +746,7 @@ translate french seccont_22affa1d:
 
     # n "After a good stretch, I looked around the room illuminated by the sunlight coming in from the window. Outside, in the distance, the portal I had emerged from proudly stood on the peak of a small hill."
     n "Après un bon étirement, je regardai autour de moi la salle illuminée par la lumière du soleil venant de la fenêtre. Dehors, au loin, le portail duquel j'avais émergé se tenait fièrement au sommet d'une petite colline."
+    nvl clear
 
 # game/chapter1.rpy:1149
 translate french seccont_f69b9100:

@@ -1,4 +1,4 @@
-﻿﻿# TODO: Translation updated at 2019-06-07 17:56
+﻿# TODO: Translation updated at 2019-06-07 17:56
 # Original translator : BananaSplit2
 # Reviews : 1 (AraMacaw)
 
@@ -323,8 +323,8 @@ translate french _call_skipcheck_11_7cb7dde3:
 # game/chapter2.rpy:475
 translate french _call_skipcheck_11_16bf0d2a:
 
-    # m "A closer look revealed that it was Sebastian, waving his arm in an attempt to get our attention as he ran toward us, his face grave."
-    m "Un examen plus minutieux révéla qu'il s'agissait de Sebastian, qui agitait son bras afin d'attirer notre attention tout en courant vers nous, le visage grave."
+    # m "A closer look revealed that it was Sébastien, waving his arm in an attempt to get our attention as he ran toward us, his face grave."
+    m "Un examen plus minutieux révéla qu'il s'agissait de Sébastien, qui agitait son bras afin d'attirer notre attention tout en courant vers nous, le visage grave."
 
 # game/chapter2.rpy:483
 translate french _call_skipcheck_11_703c30a7:
@@ -431,8 +431,8 @@ translate french _call_skipcheck_11_1685698e:
 # game/chapter2.rpy:535
 translate french _call_skipcheck_11_9540e863:
 
-    # m "Bryce's snout wrinkled with distaste as he glanced over Sebastian's shoulder."
-    m "Le museau de Bryce se rida de dégoût alors qu'il jetait un oeil par dessus l'épaule de Sebastian."
+    # m "Bryce's snout wrinkled with distaste as he glanced over Sébastien's shoulder."
+    m "Le museau de Bryce se rida de dégoût alors qu'il jetait un oeil par dessus l'épaule de Sébastien."
 
 # game/chapter2.rpy:537
 translate french _call_skipcheck_11_4916c811:
@@ -947,8 +947,8 @@ translate french _call_skipcheck_11_0bb352b1:
 # game/chapter2.rpy:956
 translate french _call_skipcheck_11_89baa06a:
 
-    # Br "Your earlier theory about what happened was pretty sound, Sebastian. Let's go with that, and add the bit about the generator being stolen."
-    Br "Ta théorie de tout à l'heure sur ce qu'il s'est passé me semble solide, Sebastian. Reprenons-là et rajoutons le vol du générateur."
+    # Br "Your earlier theory about what happened was pretty sound, Sébastien. Let's go with that, and add the bit about the generator being stolen."
+    Br "Ta théorie de tout à l'heure sur ce qu'il s'est passé me semble solide, Sébastien. Reprenons-là et rajoutons le vol du générateur."
 
 # game/chapter2.rpy:958
 translate french _call_skipcheck_11_a94ca74d:
@@ -1243,6 +1243,7 @@ translate french chapter2sections2_9196ef07:
 
     # n "My earlier encounter with the masked person was the only time today someone was close enough to smuggle something into my pocket. I figured if someone like Bryce tried to do something like that, I definitely would have noticed."
     n "Ma rencontre fortuite avec la personne masquée plus tôt était le seul moment dans la journée où quelqu'un fut suffisament près de moi pour glisser dicrètement quelque chose dans ma poche. Si quelqu'un comme Bryce avait tenté de le faire, je l'aurais forcément remarqué."
+    nvl clear
 
 # game/chapter2.rpy:1166
 translate french chapter2sections2_53e1b848:
@@ -1261,7 +1262,6 @@ translate french chapter2sections2_a3c147d5:
 
     # nvl clear
     # n "I also had to consider the list of places Reza had been to: A local grocery store, the production facility we had visited and the library were the three places closest to here."
-    nvl clear
     n "Il fallait aussi considérer la liste des endroits auxquels Reza s'était rendu : une épicerie locale, le complexe de production que nous avions visité, et la bibliothèque étaient les 3 endroits les plus proches d'ici."
 
 # game/chapter2.rpy:1174
@@ -1285,8 +1285,8 @@ translate french chapter2sections_d507e048:
 # game/chapter2.rpy:1251
 translate french chapter2sections_008d9b72:
 
-    # m "I decided I had done enough for today and went to my apartment to relax for a few hours until the afternoon sun hung low in the sky and I decided it was time to report my findings to the police. A brief call to the department, and I was on my way to an appointment with Sebastian."
-    m "Je considérai en avoir fait assez pour aujourd'hui, et je retournai à mon appartement pour me reposer quelques heures. Plus tard, le soleil de l'après-midi, rôdant bas dans le ciel, me fit décider qu'il était temps de parler de mes découvertes à la police. Un rapide appel au commissariat, et j'étais en route pour un rendez-vous avec Sebastian."
+    # m "I decided I had done enough for today and went to my apartment to relax for a few hours until the afternoon sun hung low in the sky and I decided it was time to report my findings to the police. A brief call to the department, and I was on my way to an appointment with Sébastien."
+    m "Je considérai en avoir fait assez pour aujourd'hui, et je retournai à mon appartement pour me reposer quelques heures. Plus tard, le soleil de l'après-midi, rôdant bas dans le ciel, me fit décider qu'il était temps de parler de mes découvertes à la police. Un rapide appel au commissariat, et j'étais en route pour un rendez-vous avec Sébastien."
 
 # game/chapter2.rpy:1278
 translate french chap2store_6edff375:
@@ -2263,8 +2263,8 @@ translate french chap2library_364b3f89:
 # game/chapter2.rpy:1999
 translate french chap2library_297e63ab:
 
-    # c "(Hey, it's Remy.)"
-    c "(Tiens, c'est Remy.)"
+    # c "(Hey, it's Rémi.)"
+    c "(Tiens, c'est Rémi.)"
 
 # game/chapter2.rpy:2003
 translate french chap2library_d2df87d5:
@@ -2353,8 +2353,8 @@ translate french chap2library_397c9469:
 # game/chapter2.rpy:2055
 translate french chap2library_ec2d8db0:
 
-    # m "I waited a few moments and wondered if it was a good time to talk to Remy. In the end, I decided that my task was too pressing to come back at another time. I shuffled through books and tried to look busy until I noticed he resumed his work so I could approach him."
-    m "J'attendis quelques minutes et me demandai s'il s'agissait d'un bon moment pour parler à Remy. Au final, je décidai que ma tâche était trop pressante pour avoir à revenir un autre jour. Je fouillai dans les livres et essayai d'avoir l'air occupé jusqu'à qu'il reprit son travail afin de pouvoir l'approcher."
+    # m "I waited a few moments and wondered if it was a good time to talk to Rémi. In the end, I decided that my task was too pressing to come back at another time. I shuffled through books and tried to look busy until I noticed he resumed his work so I could approach him."
+    m "J'attendis quelques minutes et me demandai s'il s'agissait d'un bon moment pour parler à Rémi. Au final, je décidai que ma tâche était trop pressante pour avoir à revenir un autre jour. Je fouillai dans les livres et essayai d'avoir l'air occupé jusqu'à qu'il reprit son travail afin de pouvoir l'approcher."
 
 # game/chapter2.rpy:2061
 translate french chap2library_bb8b98cc:
@@ -2365,8 +2365,8 @@ translate french chap2library_bb8b98cc:
 # game/chapter2.rpy:2063
 translate french chap2library_45f9fee3:
 
-    # c "You too, Remy."
-    c "Pareillement, Remy."
+    # c "You too, Rémi."
+    c "Pareillement, Rémi."
 
 # game/chapter2.rpy:2065
 translate french chap2library_8102b477:
@@ -3247,14 +3247,14 @@ translate french chap2park3choice_9a209945:
 # game/chapter2.rpy:3138
 translate french chap2park3choice_36bcf2f5:
 
-    # c "Speaking of your work: Remy works for you, right? I just met him the other day."
-    c "En parlant de votre travail : Remy travaille pour vous n'est-ce pas ? Je l'ai rencontré l'autre jour."
+    # c "Speaking of your work: Rémi works for you, right? I just met him the other day."
+    c "En parlant de votre travail : Rémi travaille pour vous n'est-ce pas ? Je l'ai rencontré l'autre jour."
 
 # game/chapter2.rpy:3140
 translate french chap2park3choice_781bcfe3:
 
-    # Em "Oh, Remy? Quite the little nerd, isn't he?"
-    Em "Oh, Remy ? Un bon gros coincé, n'est-ce pas ?"
+    # Em "Oh, Rémi? Quite the little nerd, isn't he?"
+    Em "Oh, Rémi ? Un bon gros coincé, n'est-ce pas ?"
 
 # game/chapter2.rpy:3142
 translate french chap2park3choice_ae31763c:
@@ -3439,8 +3439,8 @@ translate french chap2emselection_59e810c4:
 # game/chapter2.rpy:3301
 translate french chap2cont_eadb43d8:
 
-    # m "The afternoon sun hung low in the sky, and I decided it was time to report my findings to the police. A brief call to the department, and I was on my way to an appointment with Sebastian."
-    m "Le soleil de l'après-midi rôdait bas dans le ciel, et je décidai qu'il était temps de parler de mes découvertes à la police. Un rapide appel au commissariat, et j'étais en route pour un rendez-vous avec Sebastian."
+    # m "The afternoon sun hung low in the sky, and I decided it was time to report my findings to the police. A brief call to the department, and I was on my way to an appointment with Sébastien."
+    m "Le soleil de l'après-midi rôdait bas dans le ciel, et je décidai qu'il était temps de parler de mes découvertes à la police. Un rapide appel au commissariat, et j'étais en route pour un rendez-vous avec Sébastien."
 
 # game/chapter2.rpy:3322
 translate french _call_skiptut_12_4d25d249:
@@ -3709,8 +3709,8 @@ translate french _call_skipcheck_12_fb78f39a:
 # game/chapter2.rpy:3531
 translate french _call_skipcheck_12_e238361e:
 
-    # c "Hey, Sebastian! I thought I'd meet you at the front desk. What are we doing in Bryce's office?"
-    c "Salut, Sebastian ! Je pensais que je te trouverais à la réception. Que faisons-nous dans le bureau de Bryce ?"
+    # c "Hey, Sébastien! I thought I'd meet you at the front desk. What are we doing in Bryce's office?"
+    c "Salut, Sébastien ! Je pensais que je te trouverais à la réception. Que faisons-nous dans le bureau de Bryce ?"
 
 # game/chapter2.rpy:3533
 translate french _call_skipcheck_12_4ca90878:
@@ -4123,8 +4123,8 @@ translate french chapter2chars_b1f3b2e0:
 # game/chapter2.rpy:4071
 translate french chapter2chars_e0eb1d42:
 
-    # Ry "Hello, this is Remy speaking. I'm calling in regard to the dinner we talked about. I'll have an opening soon and was wondering if you also had the time."
-    Ry "Allo ? C'est Remy à l'appareil. J'appelle à propos du dîner dont nous avons parlé. J'aurai une disponibilité bientôt et je me demandais si tu étais également disponible."
+    # Ry "Hello, this is Rémi speaking. I'm calling in regard to the dinner we talked about. I'll have an opening soon and was wondering if you also had the time."
+    Ry "Allo ? C'est Rémi à l'appareil. J'appelle à propos du dîner dont nous avons parlé. J'aurai une disponibilité bientôt et je me demandais si tu étais également disponible."
 
 # game/chapter2.rpy:4073
 translate french chapter2chars_1335da7e:
@@ -4635,8 +4635,8 @@ translate french strings:
     new "Nous ne le trouverons jamais."
 
     # chapter2.rpy:3644
-    old "Thanks, Sebastian."
-    new "Merci Sebastian."
+    old "Thanks, Sébastien."
+    new "Merci Sébastien."
 
     # chapter2.rpy:4444
     old "Meet with Adine."

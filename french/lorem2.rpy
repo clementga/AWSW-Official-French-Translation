@@ -12,7 +12,7 @@ translate french lorem2_9837792f:
 translate french _call_skiptut_33_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes données indiquent que vous avez déjà expérimenté cette scène d'une manière satisfaisante. Souhaitez vous passer à la fin?"
+    s "Mes données indiquent que vous avez déjà expérimenté cette scène d'une manière satisfaisante. Souhaitez vous passer à la fin ?"
 
 # game/lorem2.rpy:59
 translate french _call_skiptut_33_eee83226:
