@@ -1012,7 +1012,7 @@ translate frenchtl remycont_02ab816f:
 translate frenchtl remystuff_bafba272:
 
     # Ry "In preparation for your arrival, I wanted to study what knowledge we had on humans."
-    Ry "En guise de préparation pour ton arrivée, Je voulais étudier quelle connaissances nous avions sur les humains."
+    Ry "Afin de préparer ton arrivée, Je voulais étudier les connaissances que nous avions sur les humains."
 
 # game/remy1.rpy:1131
 translate frenchtl remystuff_c74e17c1:
@@ -1246,139 +1246,139 @@ translate frenchtl remystuff_93b1ebc8:
 translate frenchtl remystuff_f6f7b1a2:
 
     # Ry "I see. It was nice of you to volunteer when you must have known there would be considerable risks in coming here."
-    Ry ""
+    Ry "Je vois. C'était brave de ta part de te porter volontaire en étant conscient des risque que tu courais en venant ici."
 
 # game/remy1.rpy:1214
 translate frenchtl remystuff_e3c5e20f:
 
     # c "You volunteered as well when you came to meet me, didn't you? I wouldn't think this kind of thing would fall under your jurisdiction regularly."
-    c ""
+    c "Tu t'es aussi porté volontaire quand tu es venu me rencontrer, n'est-ce pas? Je n'aurais jamais pensé que ce genre de chose sois sous ta juridiction, en temps normal."
 
 # game/remy1.rpy:1218
 translate frenchtl remystuff_ad281db4:
 
     # Ry "That is true, but by this point, my interest in these matters shouldn't surprise you."
-    Ry ""
+    Ry "C'est vrai, mais à ce stade, mon intérêt pour ces questions ne devrait plus te surprendre."
 
 # game/remy1.rpy:1219
 translate frenchtl remystuff_42f8c2dd:
 
     # c "I was more surprised that I arrived under cover of darkness to meet an ambassador, though I haven't seen much of you since."
-    c ""
+    c "J'étais plus surpris d'être arrivé de nuit à l'abri des regqrds pour rencontrer un ambassadeur, quoique que je ne t'ai pas beaucoup revu depuis."
 
 # game/remy1.rpy:1223
 translate frenchtl remystuff_5fc4caad:
 
     # Ry "Initially, they wanted to have an official reception headed by myself, but in the end they changed their minds due to security concerns, as I told you back then."
-    Ry ""
+    Ry "Initialement, ils voulaient une réception officielle que je devais diriger, mais au dernier moment ils changèrent d'avis pour des raisons de sécurité, je t'en avais déjà parlé."
 
 # game/remy1.rpy:1224
 translate frenchtl remystuff_29cb5fe4:
 
     # c "I suppose that's also why I'm being escorted by the police all the time."
-    c ""
+    c "Je suppose que c'est aussi la raison pour laquelle je suis tout le temps escorté par la police."
 
 # game/remy1.rpy:1225
 translate frenchtl remystuff_8eab60ed:
 
     # Ry "Yeah, that was supposed to be my job too, until someone from the police department objected and advocated for more security. Better be safe than sorry, I suppose."
-    Ry ""
+    Ry "Oui, C'était supposé être mon travail également, jusqu'à ce que quelqu'un de la police ait une objection et prêche pour plus de sécurité. On est jamais trop prudent, je suppose."
 
 # game/remy1.rpy:1226
 translate frenchtl remystuff_f94bb0bf:
 
     # c "Let me guess, that someone was Maverick."
-    c ""
+    c "Laisses moi deviner, cette personne c'était Maverick."
 
 # game/remy1.rpy:1229
 translate frenchtl remystuff_926e3754:
 
     # Ry "How'd you know that?"
-    Ry ""
+    Ry "Comment sais tu ça?"
 
 # game/remy1.rpy:1231
 translate frenchtl remystuff_96fda7d4:
 
     # c "Just a hunch."
-    c ""
+    c "Juste une intuition."
 
 # game/remy1.rpy:1235
 translate frenchtl remystuff_4ad7a7fb:
 
     # Ry "At least I still got to meet you."
-    Ry ""
+    Ry "Au moins, j'ai quand même pu te rencontrer."
 
 # game/remy1.rpy:1236
 translate frenchtl remystuff_4443c52f:
 
     # c "Were you nervous when you did?"
-    c ""
+    c "Etais tu nerveux sur le moment?"
 
 # game/remy1.rpy:1240
 translate frenchtl remystuff_aaba495e:
 
     # Ry "Only the brave or the foolish wouldn't be. I consider myself neither."
-    Ry ""
+    Ry "Seuls les téméraires ou les idiots ne le seraient pas. Je me considère n'appartenir à aucun des deux."
 
 # game/remy1.rpy:1245
 translate frenchtl remystuff_5e76fe07:
 
     # Ry "To be fair, I would have been as well, if we didn't already know about humans and Reza."
-    Ry ""
+    Ry "Pour être honnête, je l'aurais sûrement été, si je n'étais pas déjà renseigné sur les humains et Reza."
 
 # game/remy1.rpy:1251
 translate frenchtl remystuff_b3e4498c:
 
     # Ry "No, it was just scientific curiosity."
-    Ry ""
+    Ry "Non, ça n'était que la curiosité d'un scientifique."
 
 # game/remy1.rpy:1252
 translate frenchtl remystuff_580a23e2:
 
     # c "You know what they say about curiosity and cats."
-    c ""
+    c "Tu sais ce qu'ils dissent à propos de la curiosité et des chats."
 
 # game/remy1.rpy:1253
 translate frenchtl remystuff_2871815c:
 
     # Ry "I'm afraid I don't."
-    Ry ""
+    Ry "Je crains que non."
 
 # game/remy1.rpy:1262
 translate frenchtl remystuff_57f19239:
 
     # Ry "I'm starting to think so, too."
-    Ry ""
+    Ry "Je commence à penser la même chose."
 
 # game/remy1.rpy:1267
 translate frenchtl remystuff_37a8d66f:
 
     # m "There was a moment of silence between us and our eyes met briefly, when suddenly, a loud call echoed through the building."
-    m ""
+    m "Il y eut un moment de silence entre nous et nos regards se croisèrent brièvement, quand soudain, un appel bruyant résonna à travers le bâtiment."
 
 # game/remy1.rpy:1268
 translate frenchtl remystuff_b1af94d4:
 
     # Em "REMY!" with vpunch
-    Em "" with vpunch
+    Em "REMI!" with vpunch
 
 # game/remy1.rpy:1269
 translate frenchtl remystuff_a1dc5ba8:
 
     # Ry "I better go and see what that is about."
-    Ry ""
+    Ry "Je ferais mieux d'aller voir de quoi il est question."
 
 # game/remy1.rpy:1270
 translate frenchtl remystuff_1c08a712:
 
     # Ry "Maybe it would be better if you didn't stay out in the open. At the end of the hallway, you can find my office towards the right. Wait for me there."
-    Ry ""
+    Ry "Peut être il serait mieux que tu ne restes pas dans le hall. Au bout du couloir à droite, tu pourras trouver mon bureau. Attends moi là bas."
 
 # game/remy1.rpy:1271
 translate frenchtl remystuff_86148265:
 
     # c "Alright."
-    c ""
+    c "D'accord."
 
 # game/remy1.rpy:1281
 translate frenchtl remystuff_1da51af8:
@@ -2324,15 +2324,15 @@ translate frenchtl strings:
 
     # remy1.rpy:1242
     old "I have to admit I was, too. I was speechless when I saw you, and that wasn't just a side-effect of the teleportation."
-    new ""
+    new "Je dois admettre que je l'étais aussi. J'étais sans voix quand je t'ai vu, et ce n'était pas un effet secondaire de la téléportation."
 
     # remy1.rpy:1242
     old "I think you were pretty brave."
-    new ""
+    new "Je pense que tu as été très courageux."
 
     # remy1.rpy:1242
     old "I think you were pretty foolish."
-    new ""
+    new "Je pense que tu as été inconscient."
 
     # remy1.rpy:1294
     old "Rummage through his trash."
