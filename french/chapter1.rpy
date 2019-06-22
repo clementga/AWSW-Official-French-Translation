@@ -4936,11 +4936,11 @@ translate french strings:
 
     # chapter1.rpy:2339
     old "Draconic Desire"
-    new "Desir Draconique"
+    new "Désir draconique"
 
     # chapter1.rpy:2339
     old "Assault of the Humanoids from Outer Space"
-    new "Assaut des Humanoïdes de l'espace"
+    new "Assaut des humanoïdes de l'espace"
 
     # chapter1.rpy:2339
     old "Born to Serve"
@@ -4948,11 +4948,11 @@ translate french strings:
 
     # chapter1.rpy:2339
     old "Price and Prayer"
-    new "Prix et Prière"
+    new "Prix et prière"
 
     # chapter1.rpy:2339
     old "The Ixomen Sphere and How to Use it"
-    new "La sphère Ixomen et Comment l'utiliser"
+    new "La sphère Ixomen et comment l'utiliser"
 
     # chapter1.rpy:2480
     old "Look inside the cabinet."
