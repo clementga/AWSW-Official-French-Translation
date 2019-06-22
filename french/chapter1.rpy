@@ -175,7 +175,7 @@ translate french begingame_337d015e:
 translate french begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Quand nous fîmes savoir cela à l'autre côté, nous reçumes une réponse très inattendue : Une lettre d'invitation. Après quelques délibérations, il fut décidé d'accepter leur hospitalité et d'envoyer une personne de l'autre côté."
+    n "Quand nous fîmes savoir cela à l'autre côté, nous reçumes une réponse très inattendue : une lettre d'invitation. Après quelques délibérations, il fut décidé d'accepter leur hospitalité et d'envoyer une personne de l'autre côté."
 
 # game/chapter1.rpy:437
 translate french begingame_3dadd8d0:
@@ -2903,7 +2903,7 @@ translate french _call_syscheck_11_c3a06d2e:
 translate french _call_syscheck_11_1e35e980:
 
     # c "(But wait, there's more: The influence of figs also extends towards words, phrases and sayings we still use today.)"
-    c "(Mais attendez, ce n'est pas fini : L'influence des figues s'étend également à des mots, phrases et proverbes toujours utilisés de nos jours.)"
+    c "(Mais attendez, ce n'est pas fini : l'influence des figues s'étend également à des mots, phrases et proverbes toujours utilisés de nos jours.)"
 
 # game/chapter1.rpy:2739
 translate french _call_syscheck_11_b897d68b:
@@ -3071,7 +3071,7 @@ translate french continuation_809da3d8:
 translate french continuation_addb4e00:
 
     # Rz "As for the other: Do you know what this place is?"
-    Rz "Pour ce qui est du deuxièmement : Sais-tu où l'on est ?"
+    Rz "Pour ce qui est du deuxièmement : sais-tu où l'on est ?"
 
 # game/chapter1.rpy:2838
 translate french continuation_bde4f6a4:
