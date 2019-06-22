@@ -612,7 +612,7 @@ translate french _call_skipcheck_16_c3d29a7c:
 translate french _call_skipcheck_16_acf8adb4:
 
     # c "Here's another thing: You may have many different images of humans, but in the end, only one can be right."
-    c "Une autre chose : vous avez de nombreuses images différentes des humains, mais au final, il n'y en a qu'une qui peut être bonne."
+    c "Une autre chose : Vous avez de nombreuses images différentes des humains, mais au final, il n'y en a qu'une qui peut être bonne."
 
 # game/lorem1.rpy:508
 translate french _call_skipcheck_16_6cfa7aeb:

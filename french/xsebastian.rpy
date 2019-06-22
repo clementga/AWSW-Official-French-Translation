@@ -811,7 +811,7 @@ translate french sebgameexplanation_67880e0d:
 translate french sebgameexplanation_33b32518:
 
     # Sb "Now, this is how the game works: We will play a round for each card in the middle row, starting with the one you see at the very left."
-    Sb "Enfin, voici comment le jeu se joue : nous allons jouer un tour pour chaque carte dans la ligne centrale, en commençant par celle que tu vois tout à ta gauche."
+    Sb "Enfin, voici comment le jeu se joue : Nous allons jouer un tour pour chaque carte dans la ligne centrale, en commençant par celle que tu vois tout à ta gauche."
 
 # game/xsebastian.rpy:736
 translate french sebgameexplanation_718c24c0:
@@ -925,7 +925,7 @@ translate french sebgamestart_e99f54b7:
 translate french sebgamestart_27f4e54d:
 
     # Sb "The first point is yours, but now you'll have to ask yourself: Was it worth it?"
-    Sb "Le premier point te revient, mais maintenant tu vas devoir te poser la question suivante : est-ce que ça valait le coup ?"
+    Sb "Le premier point te revient, mais maintenant tu vas devoir te poser la question suivante : Est-ce que ça valait le coup ?"
 
 # game/xsebastian.rpy:1095
 translate french sebgamestart_95450ed5:

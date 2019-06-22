@@ -954,7 +954,7 @@ translate french _call_skipcheck_11_89baa06a:
 translate french _call_skipcheck_11_a94ca74d:
 
     # Br brow b "So, now the question is: Who has a motive for stealing a generator?"
-    Br brow b "Maintenant, la question est : qui a un motif pour voler un générateur ?"
+    Br brow b "Maintenant, la question est : Qui a un motif pour voler un générateur ?"
 
 # game/chapter2.rpy:965
 translate french _call_skipcheck_11_8ae6f97d:
@@ -2072,7 +2072,7 @@ translate french chap2facility_6d126859:
 translate french chap2facility_37ef5819:
 
     # "???" "Here's the short version: My name is Damion. I work in this facility, and I'm unfortunate enough to live the nightmare of having to deal with Anna on a daily basis. Nice to meet you."
-    "???" "Voici la version courte : mon nom est Damion. Je travaille dans ce complexe, and je suis suffisament poisseux pour avoir à vivre le cauchemar qu'est de devoir interagir avec Anna quotidiennement. Ravi de vous rencontrer."
+    "???" "Voici la version courte : Mon nom est Damion. Je travaille dans ce complexe, and je suis suffisament poisseux pour avoir à vivre le cauchemar qu'est de devoir interagir avec Anna quotidiennement. Ravi de vous rencontrer."
 
 # game/chapter2.rpy:1818
 translate french chap2facility_4ce6b84d:
@@ -2168,7 +2168,7 @@ translate french chap2facques_e9e2810d:
 translate french chap2facques_e6e60faf:
 
     # Dm face "I'll put it this way: I've known her far too long."
-    Dm face "Disons-le comme cela : je la connais depuis bien trop longtemps."
+    Dm face "Disons-le comme cela : Je la connais depuis bien trop longtemps."
 
 # game/chapter2.rpy:1893
 translate french chap2facques_234c334f:
@@ -3518,7 +3518,7 @@ translate french _call_skipcheck_12_0c3263aa:
 translate french _call_skipcheck_12_28318dfe:
 
     # Mv "Just tell me one thing: Why?"
-    Mv "Dis-moi juste une chose : pourquoi ?"
+    Mv "Dis-moi juste une chose : Pourquoi ?"
 
 # game/chapter2.rpy:3418
 translate french _call_skipcheck_12_f5e9bd20:
