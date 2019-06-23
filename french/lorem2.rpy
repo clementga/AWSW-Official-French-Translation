@@ -1339,7 +1339,7 @@ translate french _call_skipcheck_33_89aefe22:
 translate french _call_skipcheck_33_2853740d:
 
     # c "Lorem, you asked me about breath weapons last time, but I don't think you ever told me if you had one."
-    c "Lorem, tu m'as posé des questions sur les souffles draconique la dernière fois, mais je ne me rappelle pas t'avoir entendu mentionner si tu avais un."
+    c "Lorem, tu m'as posé des questions sur les souffles draconiques la dernière fois, mais je ne me rappelle pas t'avoir entendu mentionner si tu avais un."
 
 # game/lorem2.rpy:857
 translate french _call_skipcheck_33_57dd4cce:
