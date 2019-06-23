@@ -18,13 +18,13 @@ translate french chapter3_76b2fe88_1:
 translate french chapter3_0adae58e:
 
     # n "The morning sun declared the arrival of a new day and woke me from my vivid dreams. Memories of my home, enclosed within the towering perimeter wall raced through my head."
-    n "Le soleil matinal déclara l'aube d'une nouvelle journée et me réveilla de vifs rêves. Des souvenirs de ma maison, entourée d'imposants murs de périmètre, traversèrent mon esprit."
+    n "Le soleil matinal déclara l'aube d'une nouvelle journée et me réveilla de vifs rêves. Des souvenirs de ma maison, entourée d'imposants murs d'enceinte, traversèrent mon esprit."
 
 # game/chapter3.rpy:576
 translate french chapter3_f37eb593:
 
     # n "The peaceful landscape outside the apartment window stood in defiance of these old thoughts. Rolling hills and blue sky were familiar to me now, and the purity of the sight gave me hope."
-    n "Le paysage paisible visible à travers la fenêtre de l'appartement défiait ces vieux souvenirs. Les vertes collines et le ciel bleu m'étaient familier maintenant, et la pureté de cette vision me donna de l'espoir."
+    n "Le paysage paisible visible à travers la fenêtre de l'appartement contrastait avec ces vieux souvenirs. Les vertes collines et le ciel bleu m'étaient familier maintenant, et la pureté de cette vision me donna de l'espoir."
 
 # game/chapter3.rpy:592
 translate french chapter3_76b2fe88_2:
@@ -156,7 +156,7 @@ translate french chapter3_f1930e50:
 translate french chapter3_c72ebea5:
 
     # Br "I bet you're sorry about your diabetes joke now, huh?"
-    Br "Je parie que tu regrettes ta blague sur le diabètre maintenant, hein ?"
+    Br "Je parie que tu regrettes ta blague sur le diabète maintenant, hein ?"
 
 # game/chapter3.rpy:707
 translate french chapter3_99997eb2:
@@ -300,7 +300,7 @@ translate french chapter3_9eacaf37:
 translate french chapter3_fd737524:
 
     # Br stern b "No one else has a greater motive to steal the PDAs than Reza, especially after what happened between him and Maverick."
-    Br stern b "Personne n'a de meilleur motif pour voler les PDA que Reza, en particulier après ce qu'il s'est passé entre lui et Maverick."
+    Br stern b "Personne à part Reza n'a de meilleur motif pour voler les PDA, en particulier après ce qu'il s'est passé entre lui et Maverick."
 
 # game/chapter3.rpy:827
 translate french chapter3_6c747af0:
@@ -342,13 +342,13 @@ translate french chapter3_b372ad4f:
 translate french chapter3_81a13922:
 
     # Br stern b "I don't want to worry you, but we can be sure that action will be taken soon. I've been considering this possibility for a while, and think it might be best if you went back to your own world for now."
-    Br stern b "Je ne veux pas t'inquiéter, mais je pense que des décisions seront bientôt prises. Je considére cette possibilité depuis quelques temps, et je pense qu'il serait mieux si tu retournais dans ton propre monde pour l'instant."
+    Br stern b "Je ne veux pas t'inquiéter, mais je pense que des décisions seront bientôt prises. Je considère cette possibilité depuis quelques temps, et je pense qu'il serait mieux si tu retournais dans ton propre monde pour l'instant."
 
 # game/chapter3.rpy:841
 translate french chapter3_ba37bcc6:
 
     # Br "This way, we can take action before the ministry does, and before this all becomes public. If we wait, we don't know what they'll do or how the public will react. With everything going on, it's too dangerous for you to stay here."
-    Br "De cette manière, nous pouvoir agir avant que le ministère ne le fasse, et avant que tout cela ne devienne publique. Si nous attendons, qui sait ce qu'ils feront et comment la population réagira. Avec tout ce qu'il se passe, c'est trop dangereux pour toi de rester ici."
+    Br "De cette manière, nous pourrons agir avant que le ministère ne le fasse, et avant que tout cela ne devienne publique. Si nous attendons, qui sait ce qu'ils feront et comment la population réagira. Avec tout ce qu'il se passe, c'est trop dangereux pour toi de rester ici."
 
 # game/chapter3.rpy:843
 translate french chapter3_e69e42b8:
@@ -366,13 +366,13 @@ translate french chapter3_504cc006:
 translate french chapter3_6f357246:
 
     # c "This would be the worst possible time for me to leave. We've given up our PDAs and hardly have anything to show for it. We are owed several more generators, and let's not forget that Reza is still missing."
-    c "Ça serait le pire moment possible pour je parte. Nous avons donné nos PDA et n'avons encore rien en retour. On nous doit encore plusieurs générateurs, et n'oublions pas que Reza fait toujours défaut."
+    c "Ça serait le pire moment possible pour partir. Nous avons donné nos PDA et n'avons encore rien en retour. On nous doit encore plusieurs générateurs, et n'oublions pas que Reza fait toujours défaut."
 
 # game/chapter3.rpy:849
 translate french chapter3_97b938c0:
 
     # c "If I leave now, the only thing I return home with is my life. I'll have lost everything else. We need those generators, Bryce. I have no idea if your authorities will continue to uphold our deal, or what they'd do to Reza, but I'm not leaving until this is over."
-    c "Si je pars maintenant, la seule chose avec laquelle je rentrerais à la maison est ma vie. J'aurais perdu tout le reste. Nous avons besoin de ces générateurs, Bryce. Je n'ai aucune idée si vous autorités décideront de maintenir leur part du marché, ou ce qu'ils feraient à Reza, mais je ne partirai pas avant que tout cela soit fini."
+    c "Si je pars maintenant, la seule chose avec laquelle je rentrerais à la maison sera ma vie. J'aurais perdu tout le reste. Nous avons besoin de ces générateurs, Bryce. Je n'ai aucune idée si vos autorités décideront de maintenir leur part du marché, ou ce qu'ils feront à Reza, mais je ne partirai pas avant que tout cela soit fini."
 
 # game/chapter3.rpy:851
 translate french chapter3_ed6087b4:
@@ -390,7 +390,7 @@ translate french c3contx_a9c6669a:
 translate french c3contx_739cb691:
 
     # Br stern b "Furthermore, the murder weapon and method appear to be the same across all three victims, and that's going to be a big problem for you."
-    Br stern b "De plus, l'arme du crime et les méthodes apparaissent identiques pour les deux, et ça devenir un gros problème pour toi."
+    Br stern b "De plus, l'arme du crime et les méthodes apparaissent identiques pour les deux, et ça va devenir un gros problème pour toi."
 
 # game/chpter3.rpy:864
 translate french c3contx_1bc47770:
@@ -420,13 +420,13 @@ translate french c3contx_405efdd0:
 translate french c3contx_f5bf1324:
 
     # Br brow b "I don't want to worry you, but we can be sure that action will be taken soon. I've been considering this possibility for a while, and think it might be best if you went back to your own world for now."
-    Br brow b "Je ne veux pas t'inquiéter, mais je pense que des décisions seront bientôt prises. Je considére cette possibilité depuis quelques temps, et je pense qu'il serait mieux si tu retournais dans ton propre monde pour l'instant."
+    Br brow b "Je ne veux pas t'inquiéter, mais je pense que des décisions seront bientôt prises. Je considère cette possibilité depuis quelques temps, et je pense qu'il serait mieux si tu retournais dans ton propre monde pour l'instant."
 
 # game/chapter3.rpy:874
 translate french c3contx_bf7bf6e1:
 
     # Br stern b "This way, we can take action before the ministry does, and before this all becomes public. If we wait, we don't know what they'll do or how the public will react."
-    Br stern b "De cette manière, nous pouvoir agir avant que le ministère ne le fasse, et avant que tout cela ne devienne publique. Si nous attendons, qui sait ce qu'ils feront et comment la population réagira."
+    Br stern b "De cette manière, nous pourrons agir avant que le ministère ne le fasse, et avant que tout cela ne devienne publique. Si nous attendons, qui sait ce qu'ils feront et comment la population réagira."
 
 # game/chapter3.rpy:876
 translate french c3contx_b6fb7f2e:
@@ -450,13 +450,13 @@ translate french c3contx_504cc006:
 translate french c3contx_6f357246:
 
     # c "This would be the worst possible time for me to leave. We've given up our PDAs and hardly have anything to show for it. We are owed several more generators, and let's not forget that Reza is still missing."
-    c "Ça serait le pire moment possible pour je parte. Nous avons donné nos PDA et n'avons encore rien en retour. On nous doit encore plusieurs générateurs, et n'oublions pas que Reza fait toujours défaut."
+    c "Ça serait le pire moment possible pour partir. Nous avons donné nos PDA et n'avons encore rien en retour. On nous doit encore plusieurs générateurs, et n'oublions pas que Reza fait toujours défaut."
 
 # game/chapter3.rpy:884
 translate french c3contx_97b938c0:
 
     # c "If I leave now, the only thing I return home with is my life. I'll have lost everything else. We need those generators, Bryce. I have no idea if your authorities will continue to uphold our deal, or what they'd do to Reza, but I'm not leaving until this is over."
-    c "Si je pars maintenant, la seule chose avec laquelle je rentrerais à la maison est ma vie. J'aurais perdu tout le reste. Nous avons besoin de ces générateurs, Bryce. Je n'ai aucune idée si vous autorités décideront de maintenir leur part du marché, ou ce qu'ils feraient à Reza, mais je ne partirai pas avant que tout cela soit fini."
+    c "Si je pars maintenant, la seule chose avec laquelle je rentrerais à la maison sera ma vie. J'aurais perdu tout le reste. Nous avons besoin de ces générateurs, Bryce. Je n'ai aucune idée si vos autorités décideront de maintenir leur part du marché, ou ce qu'ils feront à Reza, mais je ne partirai pas avant que tout cela soit fini."
 
 # game/chapter3.rpy:892
 translate french c3contx_5af18c6b:
@@ -492,7 +492,7 @@ translate french c3contx_5af18c6b_2:
 translate french _call_skiptut_4_7c2b96fe:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?"
-    s "﻿Mes données indiquent que vous avez déjà vécu cette section d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
+    s "Mes données indiquent que vous avez déjà vécu cette section d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
 
 # game/chapter3.rpy:938
 translate french _call_skiptut_4_84d46f4f:
@@ -528,7 +528,7 @@ translate french _call_skipcheck_4_0054b77b:
 translate french _call_skipcheck_4_593aff2a:
 
     # Br "Anyway, let's get back on track. I called you here for a reason, [player_name]. In addition to the murder, several things were stolen, among them your PDAs, batteries, and some components used to build generators."
-    Br "Bref, revenons à nos moutons. Je t'ai appelé ici pour une raison, [player_name]. En plus du meurtre, plusieurs objets ont été volés, entre autres vos PDA, des batteries et quelques composants utilisés pour fabriquer des générateurs."
+    Br "Bref, revenons à nos moufflons. Je t'ai appelé ici pour une raison, [player_name]. En plus du meurtre, plusieurs objets ont été volés, entre autres vos PDAs, des batteries et quelques composants utilisés pour fabriquer des générateurs."
 
 # game/chapter3.rpy:990
 translate french _call_skipcheck_4_21bd9d09:
@@ -666,13 +666,13 @@ translate french c3conty_b1e13d6a:
 translate french c3conty_04e3ec11:
 
     # Em "That was quicker than I expected. I wouldn't have minded waiting out here a little longer."
-    Em "Cela a été plus rapide que ce à quoi je m'attendais. Ça ne m'aurait pas gêné d'attendre ici dehors un peu plus longtemps."
+    Em "Cela a été plus rapide que ce à quoi je m'attendais. Ça ne m'aurait pas gêné d'attendre dehors un peu plus longtemps."
 
 # game/chapter3.rpy:1101
 translate french c3conty_b257cff5:
 
     # Br "Greetings, Minister."
-    Br "Salutations, ministre."
+    Br "Salutations, madame la ministre."
 
 # game/chapter3.rpy:1103
 translate french c3conty_e85c1b7d:
@@ -690,7 +690,7 @@ translate french c3conty_5fdc5c6c:
 translate french c3conty_a7ee13db:
 
     # Em mean "No, I've got everything I need right here. It gets so stuffy inside on hot days. My assistant doesn't seem to mind, but I prefer the fresh air. I'd rather just stay right here, unless you have any objections."
-    Em mean "Non, j'ai tout ce qu'il faut sur moi ici même. L'air devient étouffant à l'intérieur lors des jours chauds. Cela semble ne pas déranger mon assistant, mais je préfère l'air frais. Je préférerais donc rester ici, si vous n'y voyez aucun inconvénient. "
+    Em mean "Non, j'ai tout ce qu'il faut ici même. L'air devient étouffant à l'intérieur lors des jours chauds. Cela semble ne pas déranger mon assistant, mais je préfère l'air frais. Je aimerais donc rester ici, si vous n'y voyez aucun inconvénient. "
 
 # game/chapter3.rpy:1109
 translate french c3conty_11942d8f:
@@ -852,7 +852,7 @@ translate french c3conty_06d54871:
 translate french c3conty_41e1b5e1:
 
     # Em frown "Please, [player_name], enlighten me. You and Reza came here on the same mission and the situation has escalated beyond our expectations. What you tell me now will determine the actions I'll take on this matter."
-    Em frown "S'il vous plait, [player_name], éclairez-moi. Vous et Reza êtes venu ici avec la même mission et la situation a escaladé au-delà de tout ce que l'on aurait pu imaginer. Ce que vous allez dire maintenant déterminera les actions que prendrai à ce sujet."
+    Em frown "S'il vous plait, [player_name], éclairez-moi. Vous et Reza êtes venu ici avec la même mission et la situation a dégénéré au-delà de tout ce que l'on aurait pu imaginer. Ce que vous allez dire maintenant déterminera les mesures que je prendrai à ce sujet."
 
 # game/chapter3.rpy:1170
 translate french c3conty_367ec07e:
@@ -930,7 +930,7 @@ translate french c3conty_a380502c:
 translate french c3conty_1d484af8:
 
     # Br brow b flip "I have no way of knowing that, Minister."
-    Br brow b flip "Je n'ai aucun moyen de savoir cela, ministre."
+    Br brow b flip "Je n'ai aucun moyen de savoir cela, madame la ministre."
 
 # game/chapter3.rpy:1195
 translate french c3conty_f06bbeac:
@@ -990,7 +990,7 @@ translate french c3conty_d8d4bfc8:
 translate french c3conty_6afb505c:
 
     # Br "Yes, Minister."
-    Br "Oui, ministre."
+    Br "Oui, madame la ministre."
 
 # game/chapter3.rpy:1215
 translate french c3conty_1cef3a5a:
