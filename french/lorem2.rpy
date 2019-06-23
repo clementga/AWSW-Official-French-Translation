@@ -1339,7 +1339,7 @@ translate french _call_skipcheck_33_89aefe22:
 translate french _call_skipcheck_33_2853740d:
 
     # c "Lorem, you asked me about breath weapons last time, but I don't think you ever told me if you had one."
-    c "Lorem, tu m'as posé des questions sur les souffles offensifs la dernière fois, mais je ne me rappelle pas t'avoir entendu mentionner si tu avais un."
+    c "Lorem, tu m'as posé des questions sur les souffles draconique la dernière fois, mais je ne me rappelle pas t'avoir entendu mentionner si tu avais un."
 
 # game/lorem2.rpy:857
 translate french _call_skipcheck_33_57dd4cce:
@@ -1369,7 +1369,7 @@ translate french _call_skipcheck_33_32644172:
 translate french _call_skipcheck_33_cddda306:
 
     # Ip happy "My breath weapon is elocution, since words are more powerful than anything else."
-    Ip happy "Mon souffle offensif est mon éloquence, puisque que les mots sont plus puissants que n'importe quoi d'autre."
+    Ip happy "Mon souffle est mon éloquence, puisque que les mots sont plus puissants que n'importe quoi d'autre."
 
 # game/lorem2.rpy:888
 translate french _call_skipcheck_33_c994291f:
