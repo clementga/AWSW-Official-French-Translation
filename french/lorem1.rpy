@@ -516,7 +516,7 @@ translate french _call_skipcheck_16_12a75e24:
 translate french _call_skipcheck_16_c28061a0:
 
     # Lo think "I can see you don't have wings, but most of us are able to create fire in some way, or at least have a breath weapon. How about you?"
-    Lo think "Je peux voir que tu n'as pas d'ailes, mais la plupart d'entre nous sont capables de créer du feu d'une manière ou d'une autre, ou au moins possèdent la capacité d'attaquer avec leur souffle. Qu'en est-t'il de toi ?"
+    Lo think "Je peux voir que tu n'as pas d'ailes, mais la plupart d'entre nous sont capables de créer du feu d'une manière ou d'une autre, ou au moins possèdent la capacité d'attaquer avec leurs souffles draconique. Qu'en est-t'il de toi ?"
 
 # game/lorem1.rpy:459
 translate french _call_skipcheck_16_d275ced1:
