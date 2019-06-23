@@ -1384,511 +1384,512 @@ translate frenchtl remystuff_86148265:
 translate frenchtl remystuff_1da51af8:
 
     # c "(So, this is your office, Remy.)"
-    c ""
+    c "(Donc, voici ton bureau, Rémi.)"
 
 # game/remy1.rpy:1298
 translate frenchtl remyoffmenu_d356bb2f:
 
     # c "(Let's wait for a bit.)"
-    c ""
+    c "(Patientons un moment.)"
 
 # game/remy1.rpy:1300
 translate frenchtl remyoffmenu_31b1650c:
 
     # c "(Nothing happened.)"
-    c ""
+    c "(Il ne s'est rien passé.)"
 
 # game/remy1.rpy:1305
 translate frenchtl remyoffmenu_ace21fc4:
 
     # c "(Let's wait some more.)"
-    c ""
+    c "(Patientons encore un peu)"
 
 # game/remy1.rpy:1307
 translate frenchtl remyoffmenu_31b1650c_1:
 
     # c "(Nothing happened.)"
-    c ""
+    c "(Il ne s'est rien passé.)"
 
 # game/remy1.rpy:1312
 translate frenchtl remyoffmenu_c93ecb8d:
 
     # c "(Let's wait even longer.)"
-    c ""
+    c "(Attendons plus longtemps.)"
 
 # game/remy1.rpy:1314
 translate frenchtl remyoffmenu_585fc3c8:
 
     # c "(Alright, this was long enough.)"
-    c ""
+    c "(Ok, ça a assez duré.)"
 
 # game/remy1.rpy:1332
 translate frenchtl _call_syscheck_86_5bd2e003:
 
     # s "Your boredom has increased by 3 points!"
-    s ""
+    s "Votre ennui a augmenté de 3 points!"
 
 # game/remy1.rpy:1336
 translate frenchtl _call_syscheck_86_1d4ac426:
 
     # s "Your boredom has increased by 3 points. That'll come in handy."
-    s ""
+    s "Votre ennui a augmenté de 3 points. Ca peut servir."
 
 # game/remy1.rpy:1340
 translate frenchtl _call_syscheck_86_2bbc9f66:
 
     # s "Your boredom has increased by 3 points. Obviously, this is the most important stat of all."
-    s ""
+    s "Votre ennui a augmenté de 3 points. Evidemment, c'est la stat la plus importante de toutes."
 
 # game/remy1.rpy:1345
 translate frenchtl _call_syscheck_86_f3225154:
 
     # c "(Let's see, what do we have here...)"
-    c ""
+    c "(Voyons ce que nous avons là...)"
 
 # game/remy1.rpy:1350
 translate frenchtl _call_syscheck_86_ff32e578:
 
     # c "(What's this? Something's wrapped in paper.)"
-    c ""
+    c "(Qu'est-ce que c'est que ça? Quelque chose est enveloppé dans du papier.)"
 
 # game/remy1.rpy:1353
 translate frenchtl _call_syscheck_86_22f84719:
 
     # c "(It's a partially eaten sandwich, covered in mold.)"
-    c ""
+    c "(C'est un sandwich à moitié mangé, couvert de moisisure.)"
 
 # game/remy1.rpy:1354
 translate frenchtl _call_syscheck_86_1df05425:
 
     # c "(I'm not going to eat that.)"
-    c ""
+    c "(Je ne vais pas manger un truc pareil.)"
 
 # game/remy1.rpy:1359
 translate frenchtl _call_syscheck_86_3760748d:
 
     # c "(There are a lot of used tissues. Maybe he had the flu, but dutiful as he is, he still went to work sick. Poor Remy.)"
-    c ""
+    c "(Il y a beaucoup de mouchoir. Il a peut être eu la grippe, mais fidèle au poste, il est venu au travail malgré la maladie. Pauvre Rémi.)"
 
 # game/remy1.rpy:1364
 translate frenchtl _call_syscheck_86_9bdb9a21:
 
     # c "(Heavy paper, perfect binding. I can tell by the cover alone that this is not the cheap stuff, but the result of quality bookmaking.)"
-    c ""
+    c "(Papier lourd, reliure impecable. Je peux dire à la couverture que ce n'est pas du matériel bon marché, mais le résultat d'un vrai travail d'artisan.)"
 
 # game/remy1.rpy:1365
 translate frenchtl _call_syscheck_86_584687dc:
 
     # c "(Alright, let's take a peek inside...)"
-    c ""
+    c "(Ok, jetons y un œil...)"
 
 # game/remy1.rpy:1368
 translate frenchtl _call_syscheck_86_7989a59a:
 
     # c "(Looks like unsorted notes. His handwriting is terrible.)"
-    c ""
+    c "(On dirait des notes en vrac. Son écriture est atroce.)"
 
 # game/remy1.rpy:1369
 translate frenchtl _call_syscheck_86_04c51eb7:
 
     # c "(A... m... e... nope, can't make it out.)"
-    c ""
+    c "(A... m... e... nan, J'arrive pas à le déchiffrer.)"
 
 # game/remy1.rpy:1374
 translate frenchtl _call_syscheck_86_5f2d417f:
 
     # c "(There's still a little bit left in the cup.)"
-    c ""
+    c "(Il en reste un fond dans la tasse.)"
 
 # game/remy1.rpy:1377
 translate frenchtl _call_syscheck_86_a2e5e53e:
 
     # c "(Ugh... so stale.)"
-    c ""
+    c "(Ugh... c'est périmé.)"
 
 # game/remy1.rpy:1383
 translate frenchtl _call_syscheck_86_fc7fd592:
 
     # m "Furrowing my brows, I took a moment to consider the events that took place ever since I arrived in the dragon's world while I looked myself over in the mirror. I was aware of that, regardless of the outcome, humanity would never be the same again after my return."
-    m ""
+    m "Fronçant les sourcils, Je pris un moment pour repenser aux évènements qui se déroulèrent depuis mon arrivée dans le monde des dragons pendant que je me regardais dans le miroir. J'étais conscient du fait que, peu importe l'issue, l'humanité ne serait plus jamais la même après mon retour."
 
 # game/remy1.rpy:1384
 translate frenchtl _call_syscheck_86_6d148a1d:
 
     # m "I considered these implications and also thought about what wisdom and insight could be gained from this and how it would help me on my mission, when it suddenly hit me:"
-    m ""
+    m "Je considérai ces enjeux et me demandai aussi quels enseignements et connaissances pourraient être acquises de cela et la manière dont ça m'aiderais pour ma mission, quand je réalisai soudain:"
 
 # game/remy1.rpy:1385
 translate frenchtl _call_syscheck_86_ca671b88:
 
-    # c "How can mirrors be real if dragons aren't real?" reference to how can mirrors be real if eyes aren't real meme
-    c ""
+    # c "How can mirrors be real if dragons aren't real?" #reference to how can mirrors be real if eyes aren't real meme
+    c "Comment les miroirs peuvent être réels si les dragons ne le sont pas?"
 
 # game/remy1.rpy:1386
 translate frenchtl _call_syscheck_86_623b7689:
 
     # m "Indeed, truer words had never been spoken."
-    m ""
+    m "En effet, on a jamais prononcé de paroles plus vraies.."
 
 # game/remy1.rpy:1390
 translate frenchtl _call_syscheck_86_23a61578:
 
     # m "Furrowing my brows, I took a moment to consider the events that took place ever since I arrived in the dragon's world while I looked myself over in the mirror. I was aware of that, regardless of the outcome, humanity would never be the same again after my return. I considered these implications and also thought about what wisdom and insight could be gained from this and how it would help me on my mission, when it suddenly hit me:"
-    m ""
+    m "Fronçant les sourcils, Je pris un moment pour repenser aux évènements qui se déroulèrent depuis mon arrivée dans le monde des dragons pendant que je me regardais dans le miroir. J'étais conscient du fait que, peu importe l'issue, l'humanité ne serait plus jamais la même après mon retour."
+    c "Je considérai ces enjeux et me demandai aussi quels enseignements et connaissances pourraient être acquises de cela et la manière dont ça m'aiderais pour ma mission, quand je réalisai soudain:"
 
 # game/remy1.rpy:1391
 translate frenchtl _call_syscheck_86_ca671b88_1:
 
     # c "How can mirrors be real if dragons aren't real?"
-    c ""
+    c "Comment les miroirs peuvent être réels si les dragons ne le sont pas?"
 
 # game/remy1.rpy:1392
 translate frenchtl _call_syscheck_86_623b7689_1:
 
     # m "Indeed, truer words had never been spoken."
-    m ""
+    m "En effet, on a jamais prononcé de paroles plus vraies."
 
 # game/remy1.rpy:1396
 translate frenchtl _call_syscheck_86_3647b0f6:
 
     # c "It's just a mirror, nothing special about it."
-    c ""
+    c "C'est juste un miroir, rien de spécial."
 
 # game/remy1.rpy:1400
 translate frenchtl _call_syscheck_86_56a2b386:
 
     # c "(I wonder if their computers are similar to ours. Let's see...)"
-    c ""
+    c "(Je me demande si leur ordinateurs sont similaires aux notres. Voyons voir...)"
 
 # game/remy1.rpy:1401
 translate frenchtl _call_syscheck_86_fcadba3a:
 
     # m "At the press of a button, the screen came to life, accompanied by the whir of the machine. After a few seconds, colorful images appeared on the screen."
-    m ""
+    m "A la pression d'un bouton, l'écran s'alluma, accompagné par le bourdonnement de la machine. Après quelques secondes, des images colorées apparurent à l'écran."
 
 # game/remy1.rpy:1416
 translate frenchtl _call_syscheck_86_00414de3:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Aaliyah: Have you come here to beg for mercy?{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Aaliyah: Etes vous venus pour me supplier de vous épargner?{/font}{/color}"
 
 # game/remy1.rpy:1425
 translate frenchtl _call_syscheck_86_32cedaa1:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Ryszard: No, Aaliyah, we've come to stop you. Your reign of terror over the land of Marmoa is over. You're outnumbered. Just give up and we can end this without bloodshed.{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Ryszard: Non, Aaliyah, nous sommes venus pour t'arrêter. Ton règne de terreur sur les terres de Marmoa touche à sa fin. Tu es cernée. Abandonnes et nous pourrons mettre un terme à tous ça sans effusions de sang.{/font}{/color}"
 
 # game/remy1.rpy:1433
 translate frenchtl _call_syscheck_86_3ad6c483:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Aaliyah: The area is teeming with my soldiers, outnumbering you thousands to one. But I don't even need them. Who knows, if you survive long enough, you might just see why I'm called Aaliyah the Ascended.{/font}{/color}"
-    Al ""
+    Al ""{color=#FFFFF0}{font=Munro.ttf}Aaliyah: La zone grouille de soldats à mes ordres, vous dépassant en nombre. Mais je n'ai même pas besoin d'eux. Qui sait, si vous survivez jusque là, vous pourrez peut être contempler la raison pour laquelle on m'appelle Aaliyah l'Ascensionnée.{/font}{/color}"
 
 # game/remy1.rpy:1440
 translate frenchtl _call_syscheck_86_1d5aad63:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Aidith: Oh, you pompous &%%*#+@.{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Aidith: Espèce de #@*&%%@ prétentieuse.{/font}{/color}"
 
 # game/remy1.rpy:1447
 translate frenchtl _call_syscheck_86_afd189af:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar: Calm down, Aidith. Focus.{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar: Calme toi, Aidith. Restes concentrée.{/font}{/color}"
 
 # game/remy1.rpy:1454
 translate frenchtl _call_syscheck_86_4d78f3e8:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Ryszard: I'm sorry it has to come to this, Aaliyah. But this ends now.{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Ryszard: Je regrette d'en arriver là, Aaliyah. Mais c'est terminé.{/font}{/color}"
 
 # game/remy1.rpy:1461
 translate frenchtl _call_syscheck_86_44c6d074:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Alliyah: Ronan, get them!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Alliyah: Ronan, tue les!{/font}{/color}"
 
 # game/remy1.rpy:1468
 translate frenchtl _call_syscheck_86_e8d9f31b:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Ronan: Grrr!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Ronan: Grrr!{/font}{/color}"
 
 # game/remy1.rpy:1477
 translate frenchtl _call_syscheck_86_7e78b681:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Battle start!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Combat engagé!{/font}{/color}"
 
 # game/remy1.rpy:1481
 translate frenchtl _call_syscheck_86_da19a840:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Aidith uses Whirlwind!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Aidith utilise Tornade!{/font}{/color}"
 
 # game/remy1.rpy:1488
 translate frenchtl _call_syscheck_86_bb1a6d52:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Ronan takes 326 damage!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Ronan subit 326 de dégats!{/font}{/color}"
 
 # game/remy1.rpy:1496
 translate frenchtl _call_syscheck_86_9306ec0c:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar uses Earthquake!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar utilise Séisme!{/font}{/color}"
 
 # game/remy1.rpy:1502
 translate frenchtl _call_syscheck_86_2f011c56:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Ronan takes 465 damage!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Ronan subit 465 de dégats!{/font}{/color}"
 
 # game/remy1.rpy:1509
 translate frenchtl _call_syscheck_86_e388688d:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Ronan: Grrrrrrrr!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Ronan: Grrrrrrrr!{/font}{/color}"
 
 # game/remy1.rpy:1510
 translate frenchtl _call_syscheck_86_bcd72112:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Ronan invokes Cosmic Horror! {/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Ronan invoques Horreur Cosmique! {/font}{/color}"
 
 # game/remy1.rpy:1536
 translate frenchtl _call_syscheck_86_4047db66:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar takes 1089 damage!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar subit 1089 de dégats!{/font}{/color}"
 
 # game/remy1.rpy:1541
 translate frenchtl _call_syscheck_86_ccd98e1b:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Ryszard takes 1205 damage!{/font}{/color}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Ryszard subit 1205 de dégats!{/font}{/color}"
 
 # game/remy1.rpy:1546
 translate frenchtl _call_syscheck_86_c61ec55b:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Aidith takes 1373 damage!{/font}{/color}{nw}"
-    Al ""
+    Al "{color=#FFFFF0}{font=Munro.ttf}Aidith subit 1373 de dégats!{/font}{/color}{nw}"
 
 # game/remy1.rpy:1555
 translate frenchtl _call_syscheck_86_01caaa4a:
 
     # c "What the...?"
-    c ""
+    c "Qu'est-ce que...?"
 
 # game/remy1.rpy:1561
 translate frenchtl _call_syscheck_86_74d07f0c:
 
     # Ry "Hey, what are you doing?"
-    Ry ""
+    Ry "Hey, Qu'est-ce que tu fait?"
 
 # game/remy1.rpy:1571
 translate frenchtl _call_syscheck_86_a47f6ec7:
 
     # Ry "Oh no, let me take a look. Why did you even touch the computer?"
-    Ry ""
+    Ry "Oh non, laisses moi y jeter un œil. Qu'est-ce qui t'as pris de toucher à l'ordinateur?"
 
 # game/remy1.rpy:1585
 translate frenchtl _call_syscheck_86_c3492174:
 
     # Ry "Well, whatever you did... At least it seems to be okay."
-    Ry ""
+    Ry "Bon, peut importe ce que tu as fait... Au moins il a l'air de fonctionner."
 
 # game/remy1.rpy:1588
 translate frenchtl _call_syscheck_86_da6c66ce:
 
     # Ry "Oh no, my game!"
-    Ry ""
+    Ry "Oh non, mon jeu!"
 
 # game/remy1.rpy:1589
 translate frenchtl _call_syscheck_86_bf4820cf:
 
     # c "What's wrong?"
-    c ""
+    c "Il y a un problème?"
 
 # game/remy1.rpy:1590
 translate frenchtl _call_syscheck_86_d59ae43c:
 
     # Ry "When you touched the computer, you saw a game running, right?"
-    Ry ""
+    Ry "Quand tu as touché à l'ordinateur, tu as vu un jeu tourner, c'est ça?"
 
 # game/remy1.rpy:1591
 translate frenchtl _call_syscheck_86_c0c33572:
 
     # c "Yeah, I played a little."
-    c ""
+    c "Ouais, j'y ai joué un peu."
 
 # game/remy1.rpy:1594
 translate frenchtl _call_syscheck_86_7729e86f:
 
     # Ry "I had it saved specifically at that moment to play it later... and now it's all gone."
-    Ry ""
+    Ry "Je l'avais sauvegardé à ce moment précis pour y jouer plus tard... Et maintenant il n'y a plus rien."
 
 # game/remy1.rpy:1595
 translate frenchtl _call_syscheck_86_00b08768:
 
     # c "What do you mean, it's all gone?"
-    c ""
+    c "Qu'est-ce que tu veux dire par plus rien?"
 
 # game/remy1.rpy:1596
 translate frenchtl _call_syscheck_86_0a7f8364:
 
     # Ry "So much preparation, so many hours spent grinding, just to get there. I can't do all of that again. You wouldn't understand."
-    Ry ""
+    Ry "Tant de préparation, tant d'heures passées à farmer, juste pour en arriver là. Je ne pourrai pas refaire tout ça. tu ne comprendrais pas."
 
 # game/remy1.rpy:1603
 translate frenchtl _call_syscheck_86_41130ae3:
 
     # Ry "You do?"
-    Ry ""
+    Ry "Ah oui?"
 
 # game/remy1.rpy:1604
 translate frenchtl _call_syscheck_86_2d6b2332:
 
     # c "Yeah, we used to have similar games where I come from."
-    c ""
+    c "Oui, on avait des jeux similaires de là d'où je viens."
 
 # game/remy1.rpy:1605
 translate frenchtl _call_syscheck_86_07d1113d:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois"
 
 # game/remy1.rpy:1609
 translate frenchtl _call_syscheck_86_1829250c:
 
     # Ry "Now I'll never find out how the story ends."
-    Ry ""
+    Ry "Maintenant je ne découvrirai jamais la fin de l'histoire."
 
 # game/remy1.rpy:1610
 translate frenchtl _call_syscheck_86_897d19f8:
 
     # c "I imagine the good guys will beat the bad guys. That's how it usually goes."
-    c ""
+    c "J'imagine que les gentils battront les méchants. C'est ce qui arrive généralement."
 
 # game/remy1.rpy:1612
 translate frenchtl _call_syscheck_86_02249771:
 
     # Ry "Maybe, but the journey is its own reward."
-    Ry ""
+    Ry "Peut être, mais l'important c'est le voyage pas la destination."
 
 # game/remy1.rpy:1617
 translate frenchtl _call_syscheck_86_2a6c1eb6:
 
     # Ry "To be fair, the computer is old, so it might not have been your fault."
-    Ry ""
+    Ry "Pour être honnête, l'ordinateur est vieux, donc ça pourrait bien ne pas être ta faute."
 
 # game/remy1.rpy:1619
 translate frenchtl _call_syscheck_86_c329466f:
 
     # Ry "Well, at least my office is still standing."
-    Ry ""
+    Ry "Bon, au moins le bureau n'a pas l'air d'avoir planté."
 
 # game/remy1.rpy:1620
 translate frenchtl _call_syscheck_86_ecfe1d62:
 
     # c "Speaking of which, what's with the bed? It looks like you live here."
-    c ""
+    c "En parlant de ça, pourquoi il y a un lit? On dirait que tu vis ici."
 
 # game/remy1.rpy:1621
 translate frenchtl _call_syscheck_86_054dcd7f:
 
     # Ry "When I have to work late, it's just easier to stay here."
-    Ry ""
+    Ry "Quand je dois travailler jusqu'à tard, c'est juste plus facile de rester ici."
 
 # game/remy1.rpy:1625
 translate frenchtl _call_syscheck_86_6cb067a5:
 
     # Ry "Besides, I have the knowledge of the whole library at my fingertips and can use the resources and equipment as I please, like this computer."
-    Ry ""
+    Ry "De plus, j'ai le savoir de toute la bibliothèque à portée de main et je peux utiliser les resources et l'équipement comme il me plaît, comme cet ordinateur."
 
 # game/remy1.rpy:1626
 translate frenchtl _call_syscheck_86_e57a8d23:
 
     # c "Don't you have one at home?"
-    c ""
+    c "Tu n'en as pas un à la maison?"
 
 # game/remy1.rpy:1630
 translate frenchtl _call_syscheck_86_c1ad4691:
 
     # Ry "No, we generally don't have this kind of technology in every household, though it's not exactly rare either. We just use it where we need it."
-    Ry ""
+    Ry "Non, en général nous n'avons pas ce genre de technologie à domicile, Bien que ce ne soit pas non plus rare. On l'utilise juste là où on en a besoin."
 
 # game/remy1.rpy:1631
 translate frenchtl _call_syscheck_86_a9e06be0:
 
     # c "Back home, we used to have computers everywhere. Most of us even carried one on our wrist wherever we went."
-    c ""
+    c "Dans mon monde, Nous avions des ordinateurs partout. La plupart d'entre nous en portait un sur leur poignet partout où ils allaient."
 
 # game/remy1.rpy:1632
 translate frenchtl _call_syscheck_86_5cdba81c:
 
     # Ry "Is that so?"
-    Ry ""
+    Ry "Vraiment?"
 
 # game/remy1.rpy:1638
 translate frenchtl _call_syscheck_86_9cfe5f5f:
 
     # Ry "Oh, that means the library will be closing pretty soon. If you want to do or ask anything in particular, now is the time."
-    Ry ""
+    Ry "Oh, ça veut dire que la bibliothèque va bientôt fermer. Si tu veux faire ou me demander quelque chose en particulier, c'est maintenant ou jamais."
 
 # game/remy1.rpy:1643
 translate frenchtl _call_syscheck_86_41a3bce8:
 
     # Ry "There's a lot we could get into, but I'm afraid we won't have enough time now. Maybe another day."
-    Ry ""
+    Ry "Il y a beaucoup de choses que nous pourrions faire, mais je crains que nous n'ayons pas assez de temps maintenant. Un autre jour peut être."
 
 # game/remy1.rpy:1647
 translate frenchtl _call_syscheck_86_fdd8b5c2:
 
     # Ry "What do you mean by that?"
-    Ry ""
+    Ry "Qu'est-ce que tu entends par ça?"
 
 # game/remy1.rpy:1648
 translate frenchtl _call_syscheck_86_fd77ed04:
 
     # c "You know, for a relationship."
-    c ""
+    c "Tu sais, pour une relation."
 
 # game/remy1.rpy:1650
 translate frenchtl _call_syscheck_86_d916458e:
 
     # Ry "That is... If you are going to ask me like that, my answer is going to be no."
-    Ry ""
+    Ry "C'est que... Si tu me le demandes de cette manière, ma réponse va être non."
 
 # game/remy1.rpy:1653
 translate frenchtl _call_syscheck_86_bc0348b2:
 
     # Ry "I guess it's time to go, then. I'd rather not annoy the other employees by staying longer than we should."
-    Ry ""
+    Ry "Je crois qu'il est temps d'y aller. Je ne voudrais pas embêter les autres employés en restant ici plus de temps que nous le devrions."
 
 # game/remy1.rpy:1657
 translate frenchtl _call_syscheck_86_d1c0ea4d:
 
     # Ry "Anyways, thank you for your help. This certainly was an... informative... meeting."
-    Ry ""
+    Ry "Dans tous les cas, Merci pour ton aide. Ce fut une rencontre des plus... enrichissantes."
 
 # game/remy1.rpy:1663
 translate frenchtl _call_syscheck_86_2f82f37c:
 
     # Ry "Absolutely not! What is wrong with you? Besides, I'll have you know that I am not, in fact, an albino."
-    Ry ""
+    Ry "Absolument pas! Qu'est-ce qui ne va pas chez toi? De plus, je te ferais savoir que je ne suis pas un albinos."
 
 # game/remy1.rpy:1668
 translate frenchtl _call_syscheck_86_9de33c8f:
 
     # Ry "See you, then, and have a nice evening."
-    Ry ""
+    Ry "Au revoir, et bonne soirée."
 
 # game/remy1.rpy:1669
 translate frenchtl _call_syscheck_86_b092993f:
 
     # c "You too."
-    c ""
+    c "A toi aussi."
 
 # game/remy1.rpy:1674
 translate frenchtl _call_syscheck_86_76b2fe88:
@@ -1900,79 +1901,79 @@ translate frenchtl _call_syscheck_86_76b2fe88:
 translate frenchtl _call_syscheck_86_827862ea:
 
     # n "And he was gone. I wasn't sure what I did wrong, but I got the impression he would not want to meet with me again, despite the time I had sacrificed to help him out."
-    n ""
-
+    n "Et il était parti. Je ne pouvais dire ce que j'avais mal fait, mais j'avais l'impression qu'il ne voudrait plus jamais me revoir, malgré le temps que j'avais sacrifié pour lui donner un coup de main."
+    
 # game/remy1.rpy:1678
 translate frenchtl _call_syscheck_86_6a2784a4:
 
     # n "At least there were always other dragons to meet."
-    n ""
+    n "Au moins il y a toujours d'autres dragons à rencontrer."
 
 # game/remy1.rpy:1704
 translate frenchtl remy1skip_75983823:
 
     # Ry "Anyways, thank you for your help. If there is any way I can repay you, just let me know."
-    Ry ""
+    Ry "Dans tous les cas, Merci pour ton aide. S'il y a moyen de te rendre la pareil, fais moi savoir."
 
 # game/remy1.rpy:1709
 translate frenchtl remy1skip_eca2e775:
 
     # Ry "That's fine with me. You've got my number, so call me about it when you have the time."
-    Ry ""
+    Ry "Ca marche pour moi. Tu as mon numéro, donc appelles moi quand tu auras du temps."
 
 # game/remy1.rpy:1710
 translate frenchtl remy1skip_0f600afb:
 
     # c "I will. Have a nice evening."
-    c ""
+    c "Ca marche. Passes une bonne soirée."
 
 # game/remy1.rpy:1712
 translate frenchtl remy1skip_ffef4bfc:
 
     # Ry "You too."
-    Ry ""
+    Ry "Toi aussi."
 
 # game/remy1.rpy:1720
 translate frenchtl remy1skip_cfe2aa3c:
 
     # Ry "That's... not very appropriate. Have a nice evening."
-    Ry ""
+    Ry "Ce n'est... pas très approprié. Passes une bonne soirée."
 
 # game/remy1.rpy:1728
 translate frenchtl remy1skip_e06d45c0:
 
     # Ry "Well, what do humans typically do in such a situation?"
-    Ry ""
+    Ry "Je vois, que fons les humains dans ce genre de situation?"
 
 # game/remy1.rpy:1729
 translate frenchtl remy1skip_2496f7b1:
 
     # c "Invite them for a meal, probably."
-    c ""
+    c "Ils les invitent pour manger, probablement."
 
 # game/remy1.rpy:1731
 translate frenchtl remy1skip_186aaa80:
 
     # Ry "Then that's what I'll do."
-    Ry ""
+    Ry "Alors c'est ce que je vais faire."
 
 # game/remy1.rpy:1732
 translate frenchtl remy1skip_c533646a:
 
     # c "Sounds good to me."
-    c ""
+    c "J'aime bien l'idée."
 
 # game/remy1.rpy:1734
 translate frenchtl remy1skip_a6d12f01:
 
     # Ry "Alright then, have a nice evening!"
-    Ry ""
+    Ry "Ca marche alors, passes une bonne soirée!"
 
 # game/remy1.rpy:1735
 translate frenchtl remy1skip_b092993f:
 
     # c "You too."
-    c ""
+    c "Toi aussi"
 
 # game/remy1.rpy:1740
 translate frenchtl remy1skip_76b2fe88:
@@ -1984,67 +1985,67 @@ translate frenchtl remy1skip_76b2fe88:
 translate frenchtl remy1skip_1099214e:
 
     # n "We parted amicably, or so I thought."
-    n ""
+    n "Nous nous séparâmes de façon amicale, du moins c'est ce que je pensais."
 
 # game/remy1.rpy:1744
 translate frenchtl remy1skip_5e8c188c:
 
     # n "Would I see him again?"
-    n ""
+    n "Le reverrai-je?"
 
 # game/remy1.rpy:1745
 translate frenchtl remy1skip_33dbf605:
 
     # n "I wasn't sure, but I kept his number, just in case."
-    n ""
+    n "Je n'en savais rien, mais j'avais gardé son numéro, juste au cas où."
 
 # game/remy1.rpy:1771
 translate frenchtl remy1skip_3bdc849d:
 
     # Ry "Anyways, thank you for your help. How about I invite you to my place for dinner some time to repay you?"
-    Ry ""
+    Ry "Dans tous les cas, Merci pour ton aide. Ca te dirait que je t'invite à dîner chez moi pour te remercier?"
 
 # game/remy1.rpy:1772
 translate frenchtl remy1skip_14790ef7:
 
     # c "Oh, that's not necessary. I enjoyed my time here."
-    c ""
+    c "Oh, ce n'est pas nécessaire. J'ai apprécié le temps que j'ai passé ici."
 
 # game/remy1.rpy:1774
 translate frenchtl remy1skip_cf796018:
 
     # Ry "I insist."
-    Ry ""
+    Ry "J'insiste."
 
 # game/remy1.rpy:1775
 translate frenchtl remy1skip_f296d9ae:
 
     # c "Alright, then. I already have your number, and you probably have mine as well?"
-    c ""
+    c "D'accord, alors. J'ai déjà ton numéro, et tu as très probablement le mien aussi, non?"
 
 # game/remy1.rpy:1776
 translate frenchtl remy1skip_4b056a70:
 
     # Ry "I do."
-    Ry ""
+    Ry "Je l'ai"
 
 # game/remy1.rpy:1777
 translate frenchtl remy1skip_90cbe440:
 
     # c "Great. Call me when it's convenient for you."
-    c ""
+    c "Super. Appelles moi quand ça t'arranges."
 
 # game/remy1.rpy:1778
 translate frenchtl remy1skip_22900b08:
 
     # Ry "I will. Good night, [player_name]."
-    Ry ""
+    Ry "Je le ferai. Bonne nuit, [player_name]."
 
 # game/remy1.rpy:1779
 translate frenchtl remy1skip_fb1755bb:
 
     # c "Good night."
-    c ""
+    c "Bonne nuit."
 
 # game/remy1.rpy:1783
 translate frenchtl remy1skip_76b2fe88_1:
@@ -2056,25 +2057,25 @@ translate frenchtl remy1skip_76b2fe88_1:
 translate frenchtl remy1skip_6903fb85:
 
     # n "I wondered whether the dragon was being nice or just didn't want to feel indebted to me after I helped him."
-    n ""
+    n "Je me demandais si le dragon était vraiment sympathique ou s'il ne voulait juste pas se sentir redevable envers moi après l'avoir aidé."
 
 # game/remy1.rpy:1787
 translate frenchtl remy1skip_4ceaa2e6:
 
     # n "In any case, the time I spent in the library had been enjoyable, and I was looking forward to seeing him again."
-    n ""
+    n "Dans tout les cas, le temps que j'ai passé à la bibliothèque fut apréciable, et j'avais hâte de le revoir."
 
 # game/remy1.rpy:1788
 translate frenchtl remy1skip_209102c8:
 
     # n "Though, I wondered about his insistence on inviting me into his home. Had I just been asked out by a dragon?"
-    n ""
+    n "Quoique, je me posais des question quant à son insistance pour ce qui est de m'inviter chez lui. M'étais je fait inviter par un dragon?"
 
 # game/remy1.rpy:1789
 translate frenchtl remy1skip_30afe82a:
 
     # n "I was going to find out soon enough..."
-    n ""
+    n "J'allais le découvrir bien assez tôt..."
 
 translate frenchtl strings:
 
@@ -2336,76 +2337,76 @@ translate frenchtl strings:
 
     # remy1.rpy:1294
     old "Rummage through his trash."
-    new ""
+    new "Fouiller dans sa poubelle."
 
     # remy1.rpy:1294
     old "Look at his notebook."
-    new ""
+    new "Examiner son carnet."
 
     # remy1.rpy:1294
     old "Drink his coffee."
-    new ""
+    new "Boire son café"
 
     # remy1.rpy:1294
     old "Look in the mirror."
-    new ""
+    new "Examiner le miroir"
 
     # remy1.rpy:1294
     old "Look at his computer."
-    new ""
+    new "Examiner son ordinateur."
 
     # remy1.rpy:1563
     old "I think I broke it."
-    new ""
+    new "Je crois que je l'ai cassé."
 
     # remy1.rpy:1563
     old "..."
-    new ""
+    new "..."
 
     # remy1.rpy:1573
     old "I got bored."
-    new ""
+    new "Je m'ennuyais."
 
     # remy1.rpy:1573
     old "It's fine, it's just a computer."
-    new ""
+    new "Ca va, c'est juste un ordinateur."
 
     # remy1.rpy:1573
     old "I just wanted to see what was on it."
-    new ""
+    new "Je voulais juste voir ce qu'il y avait dessus."
 
     # remy1.rpy:1598
     old "Calm down, it's just a game."
-    new ""
+    new "Calme toi, c'est juste un jeu."
 
     # remy1.rpy:1598
     old "Sorry."
-    new ""
+    new "Désolé"
 
     # remy1.rpy:1640
     old "I'd like to know more about your human myths."
-    new ""
+    new "J'aimerais en savoir plus à propos de vos mythes sur les humains."
 
     # remy1.rpy:1640
     old "Are you \"available\"?"
-    new ""
+    new "Est tu \"disponible\"?"
 
     # remy1.rpy:1640
     old "I can't really think of anything."
-    new ""
+    new "Je n'ai pas d'idée."
 
     # remy1.rpy:1658
     old "Yeah, whatever."
-    new ""
+    new "Ouais, ouais."
 
     # remy1.rpy:1658
     old "Now kiss me already, you handsome albino."
-    new ""
+    new "Maintenant embrasse moi, espèce d'albinos bien gaulé."
 
     # remy1.rpy:1705
     old "How about you invite me to dinner some time?"
-    new ""
+    new " Et pourquoi tu ne m'inviterais pas à dinner pour la prochaine fois?"
 
     # remy1.rpy:1705
     old "How about a kiss?"
-    new ""
+    new "Que penses tu d'un baiser?"
