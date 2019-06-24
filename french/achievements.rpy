@@ -4,7 +4,7 @@ translate french strings:
 
     # achievements.rpy:10
     old "Achievement progress: [persistent.achievements]+1/63"
-    new ""
+    new "prout"
 
     # achievements.rpy:12
     old "Achievement progress: [persistent.achievements]/63"
