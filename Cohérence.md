@@ -15,4 +15,4 @@ s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 *Pour les scènes avec les personnages
  #s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
- s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez vous passer cette scène?"
+ s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
