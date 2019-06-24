@@ -113,7 +113,7 @@ translate french _call_skipcheck_22_b1af94d4:
 translate french _call_skipcheck_22_5e2d76e5:
 
     # m "I couldn't see who the voice belonged to, but it came from the more private area in the back. It was followed by footsteps that approached it."
-    m "Je ne pus voir à qui la voix appartenait, mais elle semblait provenir d'une zone plus privée à l'arrière. Elle fut suivie par des bruits de pas se rapprochant d'elle."
+    m "Je ne pus voir à qui la voix appartenait, mais elle semblait provenir d'une zone à accès restreint à l'arrière. Elle fut suivie par des bruits de pas se rapprochant d'elle."
 
 # game/remy1.rpy:132
 translate french _call_skipcheck_22_6d9aa4da:
@@ -155,7 +155,7 @@ translate french _call_skipcheck_22_17c1de41:
 translate french _call_skipcheck_22_088c5d29:
 
     # m "I heard more movement, though I still could not see either of the two who spoke behind all the bookcases. I assumed the area was off-limits to a visitor like myself and decided to wait."
-    m "J'entendis du mouvement, bien que ne pusse toujours pas apercevoir ni l'un ni l'autre derrière toutes ces étagères. Je supposai que la section était sans doute hors limites pour un visiteur comme moi. Je décidai donc d'attendre."
+    m "J'entendis du mouvement, bien que je ne pusse toujours pas apercevoir ni l'un ni l'autre derrière toutes ces étagères. Je supposai que la section était sans doute hors limites pour un visiteur comme moi. Je décidai donc d'attendre."
 
 # game/remy1.rpy:146
 translate french _call_skipcheck_22_74d7fe9d:
@@ -341,7 +341,7 @@ translate french _call_skipcheck_22_76b2fe88:
 translate french _call_skipcheck_22_e1e8e35b:
 
     # n "I waited outside for the dragon to finish his work and passed the time by reading a book I had brought from my apartment."
-    n "J'attendis dehors que le dragon finît son travail et passai le temps en lisant un livre que j'avais ramené de mon appartement."
+    n "J'attendis dehors que le dragon finisse son travail et passai le temps en lisant un livre que j'avais ramené de mon appartement."
 
 # game/remy1.rpy:257
 translate french _call_skipcheck_22_19c7ea57:
@@ -545,7 +545,7 @@ translate french _call_syscheck_85_b548434c:
 translate french _call_syscheck_85_de4d9064:
 
     # Ry "Alright, let me fix that up for you."
-    Ry "Bien, laisse-moi arranger ça pour toi."
+    Ry "D'accord, laisse-moi arranger ça pour toi."
 
 # game/remy1.rpy:791
 translate french _call_syscheck_85_d703d4e0:
@@ -575,7 +575,7 @@ translate french _call_syscheck_85_76b2fe88:
 translate french _call_syscheck_85_cb3d9530:
 
     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer son esclave."
+    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -641,7 +641,7 @@ translate french _call_syscheck_85_76b2fe88_2:
 translate french _call_syscheck_85_cb3d9530_1:
 
    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer son esclave."
+    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -707,7 +707,7 @@ translate french _call_syscheck_85_76b2fe88_4:
 translate french _call_syscheck_85_cb3d9530_2:
 
       # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer son esclave."
+    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -773,7 +773,7 @@ translate french _call_syscheck_85_76b2fe88_6:
 translate french _call_syscheck_85_cb3d9530_3:
 
      # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer son esclave."
+    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -1373,7 +1373,7 @@ translate french remystuff_a1dc5ba8:
 translate french remystuff_1c08a712:
 
     # Ry "Maybe it would be better if you didn't stay out in the open. At the end of the hallway, you can find my office towards the right. Wait for me there."
-    Ry "Peut-être serait-il mieux que tu ne restes pas dans le hall. Au fond du couloir, tu trouveras mon bureau sur ta droite. Attends-y moi."
+    Ry "Peut-être serait-il mieux que tu ne restes pas dans le hall. Au fond du couloir, tu trouveras mon bureau sur ta droite. Attends moi là bas."
 
 # game/remy1.rpy:1271
 translate french remystuff_86148265:
@@ -1880,7 +1880,7 @@ translate french _call_syscheck_86_d1c0ea4d:
 translate french _call_syscheck_86_2f82f37c:
 
     # Ry "Absolutely not! What is wrong with you? Besides, I'll have you know that I am not, in fact, an albino."
-    Ry "Absolument pas ! Qu'est-ce qui ne va pas chez toi ? En plus, je te ferais savoir que je ne suis pas albino."
+    Ry "Absolument pas ! Qu'est-ce qui ne va pas chez toi ? En plus, je te ferais savoir que je ne suis pas albinos."
 
 # game/remy1.rpy:1668
 translate french _call_syscheck_86_9de33c8f:
@@ -1964,7 +1964,7 @@ translate french remy1skip_186aaa80:
 translate french remy1skip_c533646a:
 
     # c "Sounds good to me."
-    c "Ça sonne bien pour moi."
+    c "Ça me va."
 
 # game/remy1.rpy:1734
 translate french remy1skip_a6d12f01:
@@ -2404,7 +2404,7 @@ translate french strings:
 
     # remy1.rpy:1658
     old "Now kiss me already, you handsome albino."
-    new "Maintenant embrasse-moi, mon bel albino."
+    new "Maintenant embrasse-moi, mon bel albinos."
 
     # remy1.rpy:1705
     old "How about you invite me to dinner some time?"
