@@ -1,4 +1,6 @@
 ﻿# TODO: Translation updated at 2017-05-02 20:02
+# Original translator : gone461
+# Reviews : 1 (BananaSplit)
 
 # game/remy1.rpy:4
 translate french remyhints_76b2fe88:

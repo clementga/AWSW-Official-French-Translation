@@ -24,18 +24,18 @@ adine1 ✔<br/>
 anna1 ✔<br/>
 bryce1 ✘<br/>
 lorem1 ✔✔<br/>
-remy1 ✘ En cours (gone461)<br/>
+remy1 ✔✔<br/>
 xsebastian ✔<br/>
 <i>endings (était utilisé dans la demo de AWSW, et peut donc être ignoré)<i/><br/>
 chapter2 ✔✔<br/>
 adine2 ✔<br/>
 anna2 ✔<br/>
 bryce2 ✘<br/>
-lorem2 ✔<br/>
+lorem2 ✔✔<br/>
 remy2 ✘<br/>
 xemera ✔<br/>
 xzhong ✔ (à reprendre)<br/>
-chapter3 ✘<br/>
+chapter3 ✘ (en cours BananaSplit2)<br/>
 adine3 En cours (alpha the dragon)<br/>
 anna3 En cours (Obscurity Dragon)<br/>
 bryce3 ✘<br/>
