@@ -44,7 +44,7 @@ translate french strings:
 
     # achievements.rpy:131
     old "{b}Investigator 1{/b}\nDo well on the first investigation."
-    new "{b}Investigateur 1{/b}\nSoyez performant dans la première investigation."
+    new "{b}Investigateur 1{/b}\nSoyez performant au cours de la première investigation."
 
     # achievements.rpy:142
     old "{b}Librarian{/b}\nBring Remy's books into the correct order."
@@ -96,7 +96,7 @@ translate french strings:
 
     # achievements.rpy:296
     old "{b}Investigator 2{/b}\nDo well on the second investigation."
-    new "{b}Investigateur 2{/b}\nSoyez performant à la seconde investigation."
+    new "{b}Investigateur 2{/b}\nSoyez performant au cours de la seconde investigation."
 
     # achievements.rpy:307
     old "{b}Memories{/b}\nLook at Remy's pictures."
@@ -124,7 +124,7 @@ translate french strings:
 
     # achievements.rpy:377
     old "{b}The Politician{/b}\nMeet with Emera."
-    new "{b}Le Politicien{/b}\nRencontrez Emera."
+    new "{b}La Politicienne{/b}\nRencontrez Emera."
 
     # achievements.rpy:388
     old "{b}Cartographer{/b}\nAcquire a map."
@@ -156,11 +156,11 @@ translate french strings:
 
     # achievements.rpy:483
     old "{b}Investigator 3{/b}\nDo well on the third investigation."
-    new "{b}Investigateur 3{/b}\nSoyez performant à la troisième investigation."
+    new "{b}Investigateur 3{/b}\nSoyez performant au cours de la troisième investigation."
 
     # achievements.rpy:494
     old "{b}Flawless Run{/b}\nDo well in all investigations in a single playthrough."
-    new "{b}Perfection{/b}\nSoyez performant à toutes les investigations au cours d'une partie."
+    new "{b}Perfection{/b}\nSoyez performant au cours de toutes les investigations en une seule partie."
 
     # achievements.rpy:505
     old "{b}Souvenir{/b}\nKeep the seashells."
@@ -216,7 +216,7 @@ translate french strings:
 
     # achievements.rpy:657
     old "{b}Alone{/b}\nSee Remy's bad ending."
-    new "{b}Seul{/b}\Assistez à la mauvaise fin de Rémi."
+    new "{b}Seul{/b}\nAssistez à la mauvaise fin de Rémi."
 
     # achievements.rpy:669
     old "{b}Casualties of War{/b}\nSee Remy's good ending."
