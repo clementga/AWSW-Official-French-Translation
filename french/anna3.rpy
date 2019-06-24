@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2019-06-07 17:56
 
 # game/anna3.rpy:32
 translate french anna3_ec3d8050:

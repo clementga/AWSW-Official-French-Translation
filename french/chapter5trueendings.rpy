@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2019-06-07 17:56
 
 # game/chapter5trueendings.rpy:5
 translate french trueendings_5780b4f3:

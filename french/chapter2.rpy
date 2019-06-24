@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2019-06-07 17:56
 # Original translator : BananaSplit2
 # Reviews : 1 (AraMacaw)
 
@@ -4393,10 +4393,6 @@ translate french strings:
     # chapter2.rpy:1032
     old "You do understand why he ran away in the first place, right?"
     new "Tu comprends pourquoi il s'est initialement enfui, non ?"
-
-    # chapter2.rpy:1084
-    old "Sure thing."
-    new "Bien sûr."
 
     # chapter2.rpy:1084
     old "You must be really understaffed if you need to rely on me."

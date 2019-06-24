@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 # Original translator : gone461
 # Reviews : 1 (BananaSplit)
 

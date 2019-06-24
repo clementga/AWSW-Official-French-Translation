@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2019-06-07 17:56
 
 # game/bryce2.rpy:34
 translate french bryce2_007efe2c:

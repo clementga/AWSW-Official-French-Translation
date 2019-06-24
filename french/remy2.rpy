@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 
 # game/remy2.rpy:50
 translate frenchtl _call_skiptut_34_0ff5f677:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2019-06-07 17:56
 
 # game/chapter5evilending.rpy:5
 translate french evilending_c48dc32f:

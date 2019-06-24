@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 # Initial translation by : BananaSplit2
 
 # J'ai choisi de na pas traduire les messages techniques (mode développeur, codes d'erreur, etc.). Ils ne sont pas vu en conditions normales, sont difficile à traduire et ne causeraient que de la confusion je pense

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 # Initial translation by : BananaSplit2
 
 translate french strings:

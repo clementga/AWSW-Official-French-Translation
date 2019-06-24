@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 
 # game/sec.rpy:11
 translate frenchtl sec_45a1f6f7:

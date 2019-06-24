@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 
 # game/remy4.rpy:31
 translate frenchtl remy4_42bcad01:

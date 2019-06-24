@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 
 # game/xkatsu.rpy:31
 translate frenchtl katsu_84a9f97b:

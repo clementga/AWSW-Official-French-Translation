@@ -1,4 +1,4 @@
-﻿﻿# TODO: Translation updated at 2019-06-07 17:56
+﻿# TODO: Translation updated at 2019-06-07 17:56
 # Original translator : alpha the dragon
 # Reviews : 0
 

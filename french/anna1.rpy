@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2019-06-07 17:56
 # Initial translation : Obscurity Dragon
 
 # game/anna1.rpy:29
