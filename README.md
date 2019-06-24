@@ -35,7 +35,7 @@ lorem2 ✔✔<br/>
 remy2 ✘<br/>
 xemera ✔<br/>
 xzhong ✔ (à reprendre)<br/>
-chapter3 ✘ (en cours BananaSplit2)<br/>
+chapter3 En cours (BananaSplit2)<br/>
 adine3 En cours (alpha the dragon)<br/>
 anna3 En cours (Obscurity Dragon)<br/>
 bryce3 ✘<br/>
@@ -57,5 +57,5 @@ bryce5 ✘<br/>
 lorem5 ✔<br/>
 remy5 ✘<br/>
 chapter5trueending ✘<br/>
-achievements ✘<br/>
+achievements ✔✔<br/>
 sec ✘<br/>
