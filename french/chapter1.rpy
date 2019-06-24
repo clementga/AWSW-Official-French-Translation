@@ -2957,7 +2957,7 @@ translate french _call_syscheck_11_a1bbec6a:
 translate french _call_syscheck_11_8edd6174:
 
     # m "\"Meet me at the portal, tonight, 10pm\" was all the message said. I wasted a good amount of time, but I still had some left before I'd have to go out to meet Reza, so I decided to make some lunch."
-    m "\"Viens me voir au portail, ce soir, 20 heures\" était tout ce qui était écrit. J'avais perdu beaucoup de temps, mais il m'en restait un peu avant que j'eusse besoin d'aller voir Reza, je décidai alors de me faire à manger."
+    m "\"Viens me voir au portail, ce soir, 20 heures\" était tout ce qui était écrit. J'avais perdu beaucoup de temps, mais il m'en restait un peu avant de devoir aller voir Reza, je décidai alors de me faire à manger."
 
 # game/chapter1.rpy:2769
 translate french _call_syscheck_11_627767c7:
