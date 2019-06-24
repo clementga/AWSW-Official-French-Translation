@@ -1,4 +1,6 @@
 #63 total achievements
+# Original translator : alpha the dragon
+# Reviews : 1 (BananaSplit)
 
 screen achievements:
     tag smallscreen
