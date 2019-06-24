@@ -4186,25 +4186,25 @@ translate french quest6_09b5f048:
 translate french _call_syscheck_13_0ee48772:
 
     # s "You did well on the first investigation!"
-    s "Vous vous êtes bien débrouillé à la première investigation !"
+    s "Vous avez été performants à la première investigation !"
 
 # game/chapter1.rpy:3605
 translate french _call_syscheck_13_19e2bb77:
 
     # s "You did well on the first investigation. Well done."
-    s "Vous vous êtes bien débrouillé à la première investigation. Bien joué."
+    s "Vous avez été performants à la première investigation. Bien joué."
 
 # game/chapter1.rpy:3609
 translate french _call_syscheck_13_593bcccd:
 
     # s "You did well on the first investigation. Achoo- I mean, achievement unlocked."
-    s "Vous vous êtes bien débrouillé à la première investigation. Succ- atchoum. Je veux dire, succès débloqué."
+    s "Vous avez été performants à la première investigation. Succ- atchoum. Je veux dire, succès débloqué."
 
 # game/chapter1.rpy:3613
 translate french _call_syscheck_13_9cf7f4d5:
 
     # Br "For someone who says they haven't done this kind of thing before, that wasn't actually too bad. I know some recruits who did a lot worse during their first time, for sure."
-    Br "Pour quelqu'un qui n'a soit-disant jamais fait ce genre de chose auparavant, c'était plutôt pas mal. Je connais certaines recrues qui auraient étaient bien plus mauvaises sur leur première fois, pour sûr."
+    Br "Pour quelqu'un qui n'a soi-disant jamais fait ce genre de chose auparavant, c'était plutôt pas mal. Je connais certaines recrues qui auraient étaient bien moins performantes pour leur première fois, pour sûr."
 
 # game/chapter1.rpy:3618
 translate french _call_syscheck_13_47b8d288:
