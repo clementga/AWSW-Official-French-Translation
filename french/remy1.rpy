@@ -113,7 +113,7 @@ translate french _call_skipcheck_22_b1af94d4:
 translate french _call_skipcheck_22_5e2d76e5:
 
     # m "I couldn't see who the voice belonged to, but it came from the more private area in the back. It was followed by footsteps that approached it."
-    m "Je ne pus voir à qui la voix appartenait, mais elle semblait provenir d'une zone à accès restreint à l'arrière. Elle fut suivie par des bruits de pas se rapprochant d'elle."
+    m "Je ne pus voir à qui la voix appartenait, mais elle semblait provenir d'une zone à l'accès plus restreint à l'arrière. Elle fut suivie par des bruits de pas se rapprochant d'elle."
 
 # game/remy1.rpy:132
 translate french _call_skipcheck_22_6d9aa4da:
@@ -341,7 +341,7 @@ translate french _call_skipcheck_22_76b2fe88:
 translate french _call_skipcheck_22_e1e8e35b:
 
     # n "I waited outside for the dragon to finish his work and passed the time by reading a book I had brought from my apartment."
-    n "J'attendis dehors que le dragon finisse son travail et passai le temps en lisant un livre que j'avais ramené de mon appartement."
+    n "J'attendis dehors que le dragon finît son travail et passai le temps en lisant un livre que j'avais ramené de mon appartement."
 
 # game/remy1.rpy:257
 translate french _call_skipcheck_22_19c7ea57:
