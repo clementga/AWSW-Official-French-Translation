@@ -300,7 +300,7 @@ translate french chapter3_9eacaf37:
 translate french chapter3_fd737524:
 
     # Br stern b "No one else has a greater motive to steal the PDAs than Reza, especially after what happened between him and Maverick."
-    Br stern b "Personne à part Reza n'a de meilleur motif pour voler les PDA, en particulier après ce qu'il s'est passé entre lui et Maverick."
+    Br stern b "Personne d'autre que Reza n'a de meilleur motif pour voler les PDA, en particulier après ce qu'il s'est passé entre lui et Maverick."
 
 # game/chapter3.rpy:827
 translate french chapter3_6c747af0:
@@ -528,7 +528,7 @@ translate french _call_skipcheck_4_0054b77b:
 translate french _call_skipcheck_4_593aff2a:
 
     # Br "Anyway, let's get back on track. I called you here for a reason, [player_name]. In addition to the murder, several things were stolen, among them your PDAs, batteries, and some components used to build generators."
-    Br "Bref, revenons à nos moufflons. Je t'ai appelé ici pour une raison, [player_name]. En plus du meurtre, plusieurs objets ont été volés, entre autres vos PDAs, des batteries et quelques composants utilisés pour fabriquer des générateurs."
+    Br "Bref, revenons à nos mouflons. Je t'ai appelé ici pour une raison, [player_name]. En plus du meurtre, plusieurs objets ont été volés, entre autres vos PDAs, des batteries et quelques composants utilisés pour fabriquer des générateurs."
 
 # game/chapter3.rpy:990
 translate french _call_skipcheck_4_21bd9d09:
@@ -690,7 +690,7 @@ translate french c3conty_5fdc5c6c:
 translate french c3conty_a7ee13db:
 
     # Em mean "No, I've got everything I need right here. It gets so stuffy inside on hot days. My assistant doesn't seem to mind, but I prefer the fresh air. I'd rather just stay right here, unless you have any objections."
-    Em mean "Non, j'ai tout ce qu'il faut ici même. L'air devient étouffant à l'intérieur lors des jours chauds. Cela semble ne pas déranger mon assistant, mais je préfère l'air frais. Je aimerais donc rester ici, si vous n'y voyez aucun inconvénient. "
+    Em mean "Non, j'ai tout ce qu'il faut ici même. L'air devient étouffant à l'intérieur lors des jours chauds. Cela semble ne pas déranger mon assistant, mais je préfère l'air frais. J'aimerais donc rester ici, si vous n'y voyez aucun inconvénient. "
 
 # game/chapter3.rpy:1109
 translate french c3conty_11942d8f:
@@ -1008,7 +1008,7 @@ translate french c3conty_e0261103:
 translate french c3conty_20b27c04:
 
     # Em frown "Reza was your partner in humanity's mission to come to this world. His list of criminal activities not only includes murder, but also theft of generators, electronic components and the PDAs your people gave to us."
-    Em frown "Reza était votre partenaire dans la mission humaine de venir dans ce monde. Sa liste d'activités criminelles ne comporte pas seulement ces meurtres, mais également le vol de générateurs, des composants électroniques et des PDA qui ont été fournis par votre peuple."
+    Em frown "Reza était votre partenaire dans la mission humaine de venir dans ce monde. Sa liste d'activités criminelles ne comporte pas seulement ces meurtres, mais également le vol de générateurs, des composants électroniques et des PDAs qui ont été fournis par votre peuple."
 
 # game/chapter3.rpy:1221
 translate french c3conty_c4c0d4a6:
