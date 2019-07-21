@@ -48,13 +48,13 @@ translate french remyhints_be908dd2:
 translate french remyhints_64fc1750:
 
     # n "{i}The Enlightenment{/i} comes at some point after {i}The Third War{/i}."
-    n "{i}L'Illumination{/i} se déroule quelque temps après {i}La Troisième Guerre{/i}."
+    n "{i}L'Illumination{/i} se déroule quelques temps après {i}La Troisième Guerre{/i}."
 
 # game/remy1.rpy:44
 translate french remy1_5a48632f:
 
     # c "(He told me to meet him in the lobby, but nobody's here. Maybe I should look for him. He can't be too far, after all.)"
-    c "(Il m'a dit de le retrouver à la réception, mais il n'y a personne. Peut-être devrais-je aller le chercher. Il ne peut pas être loin après tout.)"
+    c "(Il m'a dit de le retrouver à la réception, mais il n'y a personne. Peut-être devrais-je aller le chercher. Il ne doit pas être très loin après tout.)"
 
 # game/remy1.rpy:63
 translate french _call_skiptut_22_0ff5f677:
@@ -97,7 +97,7 @@ translate french _call_skipcheck_22_6788763a:
 translate french _call_skipcheck_22_97628180:
 
     # m "I was looking around in wonder, when suddenly, a voice penetrated the silence."
-    m "J'étais en train de flâner, perdu dans mes pensées, quand soudain, une voix pénétra le silence."
+    m "J'étais en train de flâner, perdu dans mes pensées, quand soudain, une voix brisait le silence."
 
 # game/remy1.rpy:125
 translate french _call_skipcheck_22_67f8c7af:
@@ -157,7 +157,7 @@ translate french _call_skipcheck_22_17c1de41:
 translate french _call_skipcheck_22_088c5d29:
 
     # m "I heard more movement, though I still could not see either of the two who spoke behind all the bookcases. I assumed the area was off-limits to a visitor like myself and decided to wait."
-    m "J'entendis du mouvement, bien que je ne pusse toujours pas apercevoir ni l'un ni l'autre derrière toutes ces étagères. Je supposai que la section était sans doute hors limites pour un visiteur comme moi. Je décidai donc d'attendre."
+    m "J'entendis du mouvement, bien que je ne puisse toujours pas apercevoir ni l'un ni l'autre derrière toutes ces étagères. Je supposai que la section était sans doute hors limites pour un visiteur comme moi. Je décidai donc d'attendre."
 
 # game/remy1.rpy:146
 translate french _call_skipcheck_22_74d7fe9d:
@@ -235,7 +235,7 @@ translate french _call_skipcheck_22_d65000d9:
 translate french _call_skipcheck_22_50e9faed:
 
     # c "So this is where you work, huh?"
-    c "C'est donc ici que tu travailles, hein ?"
+    c "C'est donc ici que tu travailles ?"
 
 # game/remy1.rpy:195
 translate french _call_skipcheck_22_61ac3c30:
@@ -343,7 +343,7 @@ translate french _call_skipcheck_22_76b2fe88:
 translate french _call_skipcheck_22_e1e8e35b:
 
     # n "I waited outside for the dragon to finish his work and passed the time by reading a book I had brought from my apartment."
-    n "J'attendis dehors que le dragon finît son travail et passai le temps en lisant un livre que j'avais ramené de mon appartement."
+    n "J'attendis dehors que le dragon finisse son travail et passai le temps en lisant un livre que j'avais ramené de mon appartement."
 
 # game/remy1.rpy:257
 translate french _call_skipcheck_22_19c7ea57:
@@ -367,7 +367,7 @@ translate french _call_skipcheck_22_4ceeca04:
 translate french _call_skipcheck_22_96716c1e:
 
     # n "Either way, it seemed like a sign that we wouldn't meet again."
-    n "Quoi qu'il en soit, cela m'avait l'air d'un signe que nous ne nous recroiserions plus à l'avenir."
+    n "Quoi qu'il en soit, cela m'avait l'air de signifier que nous ne nous recroiserions plus à l'avenir."
 
 # game/remy1.rpy:262
 translate french _call_skipcheck_22_76b2fe88_1:
@@ -385,7 +385,7 @@ translate french _call_skipcheck_22_6fbeaa53:
 translate french _call_skipcheck_22_717e9b8a:
 
     # Ry "As you can probably tell, we have a lot of specimens, so just sorting them by alphabet would be far from suf- and ef-ficient."
-    Ry "Comme tu peux probablement le voir, nous disposons d'un grand nombre de specimens, donc les classer simplement par ordre alphabétique serait de loin insuffisant et inefficace."
+    Ry "Comme tu peux probablement le voir, nous disposons d'un grand nombre de spécimens, donc les classer simplement par ordre alphabétique serait de loin insuffisant et inefficace."
 
 # game/remy1.rpy:297
 translate french _call_skipcheck_22_6702a2ec:
@@ -577,7 +577,7 @@ translate french _call_syscheck_85_76b2fe88:
 translate french _call_syscheck_85_cb3d9530:
 
     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer les esclaves."
+    n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -631,7 +631,7 @@ translate french _call_syscheck_85_be4a8d64_1:
 translate french _call_syscheck_85_135c3fa5_1:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu peux toujours retrouver la sortie."
+    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu peux néanmoins retrouver la sortie."
 
 # game/remy1.rpy:863
 translate french _call_syscheck_85_76b2fe88_2:
@@ -643,7 +643,7 @@ translate french _call_syscheck_85_76b2fe88_2:
 translate french _call_syscheck_85_cb3d9530_1:
 
    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer les esclaves."
+    n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -667,7 +667,7 @@ translate french _call_syscheck_85_76b2fe88_3:
 translate french _call_syscheck_85_b2060474:
 
     # Ry "Sorry to disappoint you, but it seems not a single book is in the right place."
-    Ry "Je ne voudrais pas te vexer, mais il semblerai qu'aucun des livres ne soit rangé correctement."
+    Ry "Je ne voudrais pas te vexer, mais il semblerait qu'aucun des livres ne soit rangé correctement."
 
 # game/remy1.rpy:903
 translate french _call_syscheck_85_b548434c_2:
@@ -697,7 +697,7 @@ translate french _call_syscheck_85_be4a8d64_2:
 translate french _call_syscheck_85_135c3fa5_2:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu peux toujours retrouver la sortie."
+    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu peux néanmoins retrouver la sortie."
 
 # game/remy1.rpy:925
 translate french _call_syscheck_85_76b2fe88_4:
@@ -709,7 +709,7 @@ translate french _call_syscheck_85_76b2fe88_4:
 translate french _call_syscheck_85_cb3d9530_2:
 
       # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer les esclaves."
+    n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -745,7 +745,7 @@ translate french _call_syscheck_85_b548434c_3:
 translate french _call_syscheck_85_1b7297b4:
 
     # Ry "I see. Let me fix that up for you, then."
-    Ry "Je vois. Laisses moi arranger ça pour toi, alors."
+    Ry "Je vois. Laisse-moi arranger ça pour toi, alors."
 
 # game/remy1.rpy:854
 translate french _call_syscheck_85_d703d4e0_1:
@@ -763,7 +763,7 @@ translate french _call_syscheck_85_be4a8d64_3:
 translate french _call_syscheck_85_135c3fa5_3:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu peux toujours retrouver la sortie."
+    Ry "Eh bien, ce n'est pas comme si je te forçais à rester ici. Tu peux toujours t'en aller, si tu peux néanmoins retrouver la sortie."
 
 # game/remy1.rpy:987
 translate french _call_syscheck_85_76b2fe88_6:
@@ -775,7 +775,7 @@ translate french _call_syscheck_85_76b2fe88_6:
 translate french _call_syscheck_85_cb3d9530_3:
 
      # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé de ma réticence à jouer les esclaves."
+    n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -805,7 +805,7 @@ translate french remycont_952d0424:
 translate french remycont_4faa4cf5:
 
     # Ry "No, you don't have to, but it would be a lot easier for you than it would be for me - considering that you, by nature, are gifted with proper and more dexterous hands than mine."
-    Ry "Non, tu n'y es pas obligé, mais ça serait plus facile pour toi que pour moi - considérant le fait que la nature t'a fait don de mains plus habiles et adéquate que les miennes."
+    Ry "Non, tu n'y es pas obligé, mais ça serait plus facile pour toi que pour moi - considérant le fait que la nature t'a fait don de mains plus habiles et adéquates que les miennes."
 
 # game/remy1.rpy:1029
 translate french remycont_cd84b377:
@@ -853,7 +853,7 @@ translate french remycont_83b5ca96:
 translate french remycont_273998e3:
 
     # m "Before I could answer, Remy came around the corner, his face bearing a look of disapproval. He stooped over and helped me pick up the spilled objects."
-    m "Avant que je ne pusse répondre, Rémi surgit de derrière une étagère, un regard désaprobateur sur son visage. Il se pencha et m'aida à ramasser les objets éparpillés."
+    m "Avant que je ne puisse répondre, Rémi surgit de derrière une étagère, un regard désapprobateur sur son visage. Il se pencha et m'aida à ramasser les objets éparpillés."
 
 # game/remy1.rpy:1054
 translate french remycont_dfdabe9a:
@@ -949,7 +949,7 @@ translate french remycont_9e6560a1:
 translate french remycont_dc421cc1:
 
     # Ry "We don't approve of such an obvious disregard for public property. Don't you realize such behavior does not only reflect poorly on yourself, but also on the whole of mankind? You're an ambassador! How could you be so irresponsible?"
-    Ry "Nous n'approuvons pas un tel manque de considération à l'égard des biens publiques. Ne réalises-tu pas qu'un tel comportement ne reflète pas seulement une image déplorable de toi, mais également de l'humanité tout entière ? Tu es un ambassadeur ! Comment peux-tu être aussi irresponsable ?"
+    Ry "Nous n'approuvons pas un tel manque de considération à l'égard des biens publics. Ne réalises-tu pas qu'un tel comportement ne reflète pas seulement une image déplorable de toi, mais également de l'humanité tout entière ? Tu es un ambassadeur ! Comment peux-tu être aussi irresponsable ?"
 
 # game/remy1.rpy:1092
 translate french remycont_f6e14a6d:
@@ -967,7 +967,7 @@ translate french remycont_71219a2d:
 translate french remycont_c0e298c0:
 
     # c "Sorry. I mean, sorry for not being sorry earlier."
-    c "Désolé. Je veux dire, désolé pour ne pas avoir dit \"Désolé\" tantôt."
+    c "Désolé. Je veux dire, désolé pour ne pas avoir dit \"Désolé\" plus tôt."
 
 # game/remy1.rpy:1095
 translate french remycont_68e7f5a9:
@@ -1003,7 +1003,7 @@ translate french remycont_0837e098:
 translate french remycont_084626ba:
 
     # Ry "Now."
-    Ry "Maintenant."
+    Ry "Tout de suite."
 
 # game/remy1.rpy:1125
 translate french remycont_02ab816f:
@@ -1045,7 +1045,7 @@ translate french remystuff_9538df89:
 translate french remystuff_9ffee246:
 
     # Ry "One day, however, a human arrived who performed many miracles and gave us the gifts of electricity and reason. We refer to this event as our {i}awakening{/i}."
-    Ry "Un jour, cependant, un humain ayant surgit de nul part accomplit des miracles et nous fit don de l'électricité et de la raison. Nous nous référons à cet évènement comme étant notre {i}éveil{/i}"
+    Ry "Un jour, cependant, un humain ayant surgit de nulle part accomplit des miracles et nous fit don de l'électricité et de la raison. Nous nous référons à cet évènement comme étant notre {i}éveil{/i}"
 
 # game/remy1.rpy:1136
 translate french remystuff_03b21ea8:
@@ -1063,7 +1063,7 @@ translate french remystuff_9f517d47:
 translate french remystuff_899d71e0:
 
     # Ry "And when the deed was done, they ascended to the heavens from where they came - or turned into a dragon and lived among us, ruling with kindness and wisdom until their eventual passing, depending on who you ask."
-    Ry "Et quand la chose fut faite, il retourna aux cieux d'où il était arrivé - où se changea en dragon et vécut parmi nous, dirigeant avec bienveillance et sagesse jusqu'à son éventuel trépas, tout dépend de à qui tu poses la question."
+    Ry "Et quand la chose fut faite, il retourna aux cieux d'où il était arrivé - ou se changea en dragon et vécut parmi nous, dirigeant avec bienveillance et sagesse jusqu'à son éventuel trépas, tout dépend de à qui tu poses la question."
 
 # game/remy1.rpy:1139
 translate french remystuff_27ef0f56:
@@ -1135,7 +1135,7 @@ translate french remystuff_d7a2a949:
 translate french remystuff_97afbb15:
 
     # Ry "We found it a while ago, so we've had time to study it. Not me personally, mind you, but I followed its developments with great interest."
-    Ry "On l'a découvert il y a un moment, nous avons donc eu du temps pour l'étudier. Pas moi personnellement, tu l'entendras, mais j'ai suivi les dévelopements de ces recherches avec grand intérêt."
+    Ry "On l'a découvert il y a un moment, nous avons donc eu du temps pour l'étudier. Pas moi personnellement, tu l'entendras, mais j'ai suivi les développements de ces recherches avec grand intérêt."
 
 # game/remy1.rpy:1173
 translate french remystuff_956d61cb:
@@ -1147,13 +1147,13 @@ translate french remystuff_956d61cb:
 translate french remystuff_359dd383:
 
     # Ry "Not much, I'm afraid. We didn't want to take the risk of permanent damage, so we won't do anything rash until we completely understand the technology and can replicate it for ourselves."
-    Ry "Pas grand chose, j'en ai peur. Nous ne voulions pas prendre le risque de l'endommager définitivement, nous ne réaliserons donc aucun test de façon imprudente tant que nous comprendrons pas cette technologie et que nous ne pourrons pas la répliquer."
+    Ry "Pas grand chose, j'en ai peur. Nous ne voulions pas prendre le risque de l'endommager définitivement, nous ne réaliserons donc aucun test de façon imprudente tant que nous ne comprendrons pas cette technologie et que nous ne pourrons pas la répliquer."
 
 # game/remy1.rpy:1175
 translate french remystuff_a703a8da:
 
     # Ry "So far, the only thing it has done for us was locating your portal and connecting us to it. From the interface, it appears to have more functions, but we haven't been able to get any of them to work."
-    Ry "Jusqu'à présent, la seule chose que le portail ait réussi à faire, fut de localiser le vôtre et de nous y connecter. D'après l'interface, il s'avère qu'il y a plus de fonctionnalités, mais nous n'avons pas été capables de les faire fonctionner."
+    Ry "Jusqu'à présent, la seule chose que le portail ait réussi à faire, fut de localiser le vôtre et de nous y connecter. D'après l'interface, il s'avère qu'il y a plus de fonctionnalités, mais nous n'avons pas réussi à les faire fonctionner."
 
 # game/remy1.rpy:1176
 translate french remystuff_769a6324:
@@ -1538,7 +1538,7 @@ translate french _call_syscheck_86_23a61578:
 
     # m "Furrowing my brows, I took a moment to consider the events that took place ever since I arrived in the dragon's world while I looked myself over in the mirror. I was aware of that, regardless of the outcome, humanity would never be the same again after my return. I considered these implications and also thought about what wisdom and insight could be gained from this and how it would help me on my mission, when it suddenly hit me:"
     m "Fronçant les sourcils, je pris un moment pour repenser aux évènements qui s'étaient déroulés depuis mon arrivée dans le monde des dragons alors que je me regardais dans le miroir. J'étais conscient du fait que, peu importe l'issue, l'humanité ne serait plus jamais la même après mon retour."
-    c "Je considérai ces enjeux et me demandai aussi quels enseignements et connaissances pourraient en être tirées et la manière dont cela m'aiderait pour ma mission, quand je réalisai soudain :"
+    m "Je considérai ces enjeux et me demandai aussi quels enseignements et connaissances pourraient en être tirées et la manière dont cela m'aiderait pour ma mission, quand je réalisai soudain :"
 
 # game/remy1.rpy:1391
 translate french _call_syscheck_86_ca671b88_1:
@@ -1570,7 +1570,7 @@ translate french _call_syscheck_86_fcadba3a:
     # m "At the press of a button, the screen came to life, accompanied by the whir of the machine. After a few seconds, colorful images appeared on the screen."
     m "A la pression d'un bouton, l'écran s'alluma, accompagné par le vrombissement de la machine. Au bout de quelques secondes, des images colorées apparurent à l'écran."
     
-# La police du jeu ne Remy ne supporte pas les accents, ne pas en mettre !
+# La police du jeu de Remy ne supporte pas les accents, ne pas en mettre !
 
 # game/remy1.rpy:1416
 translate french _call_syscheck_86_00414de3:
@@ -1792,7 +1792,7 @@ translate french _call_syscheck_86_2a6c1eb6:
 translate french _call_syscheck_86_c329466f:
 
     # Ry "Well, at least my office is still standing."
-    Ry "Bon, au moins mon bureau est toujours en une pièce."
+    Ry "Bon, au moins mon bureau est toujours en une seule pièce."
 
 # game/remy1.rpy:1620
 translate french _call_syscheck_86_ecfe1d62:
@@ -1846,7 +1846,7 @@ translate french _call_syscheck_86_9cfe5f5f:
 translate french _call_syscheck_86_41a3bce8:
 
     # Ry "There's a lot we could get into, but I'm afraid we won't have enough time now. Maybe another day."
-    Ry "Il y a beaucoup de choses dont pourrions discuter, mais je crains que nous n'ayons plus assez de temps maintenant. Un autre jour peut-être."
+    Ry "Il y a beaucoup de choses dont nous pourrions discuter, mais je crains que nous n'ayons plus assez de temps maintenant. Un autre jour peut-être."
 
 # game/remy1.rpy:1647
 translate french _call_syscheck_86_fdd8b5c2:
@@ -1924,7 +1924,7 @@ translate french remy1skip_75983823:
 translate french remy1skip_eca2e775:
 
     # Ry "That's fine with me. You've got my number, so call me about it when you have the time."
-    Ry "Ça me vas. Tu as mon numéro, alors appelle-moi quand tu auras du temps."
+    Ry "Ça me va. Tu as mon numéro, alors appelle-moi quand tu auras du temps."
 
 # game/remy1.rpy:1710
 translate french remy1skip_0f600afb:
@@ -2150,7 +2150,7 @@ translate french strings:
 
     # remy1.rpy:243
     old "I have reconsidered my stance on this matter and have decided to help you."
-    new "J'ai reconsidéré ma position et ai décidé de t'aider."
+    new "J'ai reconsidéré ma position et j'ai décidé de t'aider."
 
     # remy1.rpy:243
     old "I'm sure."
@@ -2338,7 +2338,7 @@ translate french strings:
 
     # remy1.rpy:1242
     old "I think you were pretty foolish."
-    new "Je pense que tu as assez stupide."
+    new "Je pense que tu as été assez stupide."
 
     # remy1.rpy:1294
     old "Rummage through his trash."
