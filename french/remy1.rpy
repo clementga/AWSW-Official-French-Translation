@@ -97,7 +97,7 @@ translate french _call_skipcheck_22_6788763a:
 translate french _call_skipcheck_22_97628180:
 
     # m "I was looking around in wonder, when suddenly, a voice penetrated the silence."
-    m "J'étais en train de flâner, perdu dans mes pensées, quand soudain, une voix brisait le silence."
+    m "J'étais en train de flâner, perdu dans mes pensées, quand soudain, une voix brisa le silence."
 
 # game/remy1.rpy:125
 translate french _call_skipcheck_22_67f8c7af:
