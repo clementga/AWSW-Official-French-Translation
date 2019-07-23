@@ -22,7 +22,7 @@ script ✔<br/>
 chapter1 ✔<br/>
 adine1 ✔<br/>
 anna1 ✔<br/>
-bryce1 ✘<br/>
+bryce1 En cours (Ceanoth)<br/>
 lorem1 ✔✔<br/>
 remy1 ✔✔<br/>
 xsebastian ✔<br/>
