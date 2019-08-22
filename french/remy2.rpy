@@ -4,31 +4,31 @@
 translate frenchtl _call_skiptut_34_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
 
 # game/remy2.rpy:58
 translate frenchtl _call_skiptut_34_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène?"
 
 # game/remy2.rpy:66
 translate frenchtl _call_skiptut_34_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène."
 
 # game/remy2.rpy:81
 translate frenchtl _call_skiptut_34_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy2.rpy:102
 translate frenchtl _call_skipcheck_34_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy2.rpy:118
 translate frenchtl _call_skipcheck_34_f21aba3f:
