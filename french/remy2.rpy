@@ -34,49 +34,49 @@ translate frenchtl _call_skipcheck_34_0054b77b:
 translate frenchtl _call_skipcheck_34_f21aba3f:
 
     # Ry "Thank you again for helping me the other day. Without you, I would have been trapped sorting books for a few more hours. Inviting you over for dinner is the least I can do."
-    Ry ""
+    Ry "Encore merci de m'avoir aidé l'autre jour. Sans toi, J'aurais été contraint de classer des livres pour quelques heures de plus. T'inviter pour dinner était le moins que je puisse faire."
 
 # game/remy2.rpy:124
 translate frenchtl _call_skipcheck_34_1dee48fd:
 
     # c "It's no problem, really. Besides, I'm also here to learn more about your kind. Spending some time in the library is only appropriate."
-    c ""
+    c "Ce n'est pas grand chose, je t'assure. De plus, je suis également ici pour en apprendre plus sur votre espèce. Passer du temps à la bibliothèque était on ne peut plus approprié."
 
 # game/remy2.rpy:126
 translate frenchtl _call_skipcheck_34_2d45f5fb:
 
     # Ry smile "Well, my gratitude is yours regardless."
-    Ry smile ""
+    Ry smile "Peut importe, tu as toute ma grattitude."
 
 # game/remy2.rpy:135
 translate frenchtl _call_skipcheck_34_f07a64eb:
 
     # c "It really is. Sorting that stuff wasn't easy. I definitely deserve something for all my hard work."
-    c ""
+    c "Ca l'était. Classer ce bazar n'était pas chose aisé. Je mérite définitivement un petit quelque chose pour tout ce travail."
 
 # game/remy2.rpy:137
 translate frenchtl _call_skipcheck_34_8e1990e5:
 
     # Ry "Well, hopefully you'll find that your dinner more than makes up for it."
-    Ry ""
+    Ry "Eh bien, Tu auras le plaisir d'apprendre que ton dinner rattrape bien le coup."
 
 # game/remy2.rpy:142
 translate frenchtl _call_skipcheck_34_76e08172:
 
     # c "You know, there's something else in particular you could do for me..."
-    c ""
+    c "Tu sais, il y a quelque chose d'autre en particulier que tu pourrais faire pour moi..."
 
 # game/remy2.rpy:144
 translate frenchtl _call_skipcheck_34_a53f88a4:
 
     # Ry shy "Wh- What are you talking about?"
-    Ry shy ""
+    Ry shy "D- De quoi parles tu?"
 
 # game/remy2.rpy:153
 translate frenchtl _call_skipcheck_34_1458dfa1:
 
     # Ry "I think I have a few potatoes, but potatoes alone don't make for a particularly good dinner. Maybe we can find something else to go with them."
-    Ry ""
+    Ry "Je dois avoir quelques patates, mais des pommes de terre à elles seules ne font pas vraiment un bon dinner. On peut peut être trouver autre chose pour les accompagner."
 
 # game/remy2.rpy:157
 translate frenchtl _call_skipcheck_34_93a93dd6:
