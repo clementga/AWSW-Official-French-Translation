@@ -82,67 +82,67 @@ translate frenchtl _call_skipcheck_34_1458dfa1:
 translate frenchtl _call_skipcheck_34_93a93dd6:
 
     # c "Thanks for having me."
-    c ""
+    c "Merci pour l'invitation."
 
 # game/remy2.rpy:159
 translate frenchtl _call_skipcheck_34_e91c393a:
 
     # Ry "I'm sure you are very busy as ambassador, so thank you for taking the time. I say we let bygones be bygones and hope that today will be different."
-    Ry ""
+    Ry "Je suis sûr qu'en tant qu'ambassadeur, tu dois être très occupé, donc merci à toi d'avoir pris le temps. je suggère que nous passions l'éponge en espérant qu'aujourd'hui sera différent."
 
 # game/remy2.rpy:161
 translate frenchtl _call_skipcheck_34_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Ca marche."
 
 # game/remy2.rpy:163
 translate frenchtl _call_skipcheck_34_55f689e1:
 
     # Ry "Anyways, is there anything in particular you would like to eat?"
-    Ry ""
+    Ry "Bref, y a-t-il quelque chose de spécial que tu voudrais manger?"
 
 # game/remy2.rpy:171
 translate frenchtl _call_skipcheck_34_98839ce7:
 
     # Ry smile "I happen to have some nice steaks left. How does that sound?"
-    Ry smile ""
+    Ry smile "Il s'avère que j'ai quelques bons steaks en stock. Qu'est-ce que tu en dis?"
 
 # game/remy2.rpy:181
 translate frenchtl _call_skipcheck_34_17add4b3:
 
     # Ry "Oh, you're in luck. I do have a few steaks we could dine upon."
-    Ry ""
+    Ry "Oh, tu es en veine. J'ai effectivement quelques steaks qui pourraient nous faire le dinner."
 
 # game/remy2.rpy:189
 translate frenchtl _call_skipcheck_34_9ff9bc10:
 
     # c "I could go for some \"meat\" right now... if you know what I mean."
-    c ""
+    c "Je serais partant pour un peu de \"viande\" là maintenant... si tu vois ce que je veux dire."
 
 # game/remy2.rpy:191
 translate frenchtl _call_skipcheck_34_f76c869e:
 
     # Ry smile "Of course! I have a few steaks left."
-    Ry smile ""
+    Ry smile "Bien sûr. Il dois me rester quelques steaks."
 
 # game/remy2.rpy:203
 translate frenchtl _call_skipcheck_34_ca069220:
 
     # Ry "Interesting you say that. Are all humans vegetarians, or is that just you?"
-    Ry ""
+    Ry "Intéressant que tu dises ça. Est-ce que tout les humains sont végétariens, ou c'est juste toi?"
 
 # game/remy2.rpy:205
 translate frenchtl _call_skipcheck_34_35f5dba9:
 
     # c "Only some humans are vegetarian."
-    c ""
+    c "Seulement une partie sont végétariens."
 
 # game/remy2.rpy:207
 translate frenchtl _call_skipcheck_34_4b4b4bc1:
 
     # Ry "I see. Luckily for you, I didn't want to assume anything, so I got us some meat-free steaks for the occasion."
-    Ry ""
+    Ry "Je vois. Heureusement pour toi, je ne voulais rien présumer, donc je nous ai acheté quelques steaks sans viande pour l'occasion. "
 
 # game/remy2.rpy:212
 translate frenchtl _call_skipcheck_34_d866693f:
