@@ -148,85 +148,85 @@ translate frenchtl _call_skipcheck_34_4b4b4bc1:
 translate frenchtl _call_skipcheck_34_d866693f:
 
     # Ry "This might take a while, so make yourself at home."
-    Ry ""
+    Ry "Ca pourrait prendre un peu de temps, Mets toi à ton aise."
 
 # game/remy2.rpy:216
 translate frenchtl _call_skipcheck_34_39122503:
 
     # m "With those words, Remy walked into the partially walled-off kitchen. There was no door, so I saw him open the fridge and take out two steaks before he set them on the counter."
-    m ""
+    m "Sur ces mots, Rémi alla dans la cuisine ouverte. Il n'y avait pas de porte, Donc je le vis ouvrir le frigo et en sortir deux steaks avant des poser sur le comptoir."
 
 # game/remy2.rpy:218
 translate frenchtl _call_skipcheck_34_8968ee6f:
 
     # m "Soon after, he was already preparing the various ingredients with his somewhat clumsy paws."
-    m ""
+    m "Tout de suite après, il était en train de préparer les divers ingrédients avec ses pattes quelques peu maladroites."
 
 # game/remy2.rpy:222
 translate frenchtl _call_skipcheck_34_bfb2dd83:
 
     # m "He was silent for a moment, then lifted his snout and looked at me from over the partition."
-    m ""
+    m "Il demeura silencieux pendant un moment, puis leva son museau et me regarda à travers la cloison."
 
 # game/remy2.rpy:224
 translate frenchtl _call_skipcheck_34_0f173ebb:
 
     # c "What is it?"
-    c ""
+    c "Qu'y a-t-il?"
 
 # game/remy2.rpy:226
 translate frenchtl _call_skipcheck_34_dc5396c2:
 
     # Ry "Ah, I was just thinking about something..."
-    Ry ""
+    Ry "Oh, J'étais juste en train de penser à quelque chose..."
 
 # game/remy2.rpy:228
 translate frenchtl _call_skipcheck_34_7882114a:
 
     # c "I could help cook, if you like."
-    c ""
+    c "Je pourrais t'aider à cuisiner, si tu veux."
 
 # game/remy2.rpy:230
 translate frenchtl _call_skipcheck_34_c65f97b5:
 
     # Ry "Don't worry about it."
-    Ry ""
+    Ry "Ne t'en fais pas pour ça."
 
 # game/remy2.rpy:232
 translate frenchtl _call_skipcheck_34_86148265:
 
     # c "Alright."
-    c ""
+    c "D'accord."
 
 # game/remy2.rpy:234
 translate frenchtl _call_skipcheck_34_8ffd1b92:
 
     # m "I looked around the apartment as Remy cooked and couldn't help but notice the almost mesmerizing tidiness that permeated the place. Shelves were filled with books, scrolls, magazines and other various trinkets."
-    m ""
+    m "Je jetai un coup d'œil à l'appartement pendant que Rémi cuisinait et ne pus m'empêcher de remarquer la fascinante organisation qui imprégnait l'endroit. Les étagères étaient remplies de livres, de parchemins, magazines et divers bibelots."
 
 # game/remy2.rpy:238
 translate frenchtl _call_skipcheck_34_c8f99ce9:
 
     # m "Suddenly, the repetitious noise of vegetables being cut ceased as Remy returned from the adjoining room."
-    m ""
+    m "D'un coup, le bruit répétitif des légumes se faisant découper cessa alors que Rémi revenait de la pièce adjacente."
 
 # game/remy2.rpy:242
 translate frenchtl _call_skipcheck_34_1e5e65c5:
 
     # Ry "I'll be back in just a minute."
-    Ry ""
+    Ry "Je reviens dans une minute."
 
 # game/remy2.rpy:249
 translate frenchtl _call_skipcheck_34_f1cbead3:
 
     # m "He went down the hall and vanished through the bathroom door."
-    m ""
+    m "Il partit dans le couloir et disparut par la porte de la salle de bain."
 
 # game/remy2.rpy:251
 translate frenchtl _call_skipcheck_34_19ce5166:
 
     # c "(What should I do?)"
-    c ""
+    c "(Qu'est-ce que je vais bien pouvoir faire?)"
 
 # game/remy2.rpy:275
 translate frenchtl remy2menu_2710a92f:
