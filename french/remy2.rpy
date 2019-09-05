@@ -334,55 +334,55 @@ translate frenchtl _call_syscheck_114_15a8f30b:
 translate frenchtl remy2cont_f3bc5b96:
 
     # m "The bathroom door opened and revealed the white dragon. As he approached, I felt my stomach grumble quietly."
-    m ""
+    m "La porte de la salle de bain s'ouvrit révellant le dragon blanc. Alors qu'il approchais, je sentis mon estomac gargouiller silentieusement."
 
 # game/remy2.rpy:444
 translate frenchtl remy2cont_97ce035f:
 
     # m "I barely heard the muffled sound, but when I saw Remy's ears perk, I realized he had more sensitive ears than I expected."
-    m ""
+    m "J'avais à peine entendu le son étouffé, mais quand je vis les oreilles de Rémi se dresser, je réalisai qu'il avait une ouïe plus sensible que ce que à quoi je m'attendais."
 
 # game/remy2.rpy:446
 translate frenchtl remy2cont_05d1a2fa:
 
     # Ry smile "Hungry already, I take it?"
-    Ry smile ""
+    Ry smile "Déjà faim, je présume ?"
 
 # game/remy2.rpy:452
 translate frenchtl remy2cont_c474848c:
 
     # Ry "Although, your stomach already answered that question for you."
-    Ry ""
+    Ry "Quoique, ton estomac a déjà répondu à la question pour toi."
 
 # game/remy2.rpy:461
 translate frenchtl remy2cont_d9bcc87b:
 
     # Ry look "Sorry, I'll get back to cooking."
-    Ry look ""
+    Ry look "Désolé, je retourne préparer le repas."
 
 # game/remy2.rpy:470
 translate frenchtl remy2cont_db9eae47:
 
     # Ry shy "Well, I'll give you something to fill your belly with soon."
-    Ry shy ""
+    Ry shy "Je vais te donner quelque chose pour te remplir l'estomac, bientôt."
 
 # game/remy2.rpy:475
 translate frenchtl remy2cont_c04a4c03:
 
     # m "I pulled up my shirt and exposed my belly to the dragon's gaze. My hands stroked it in a circular motion, caressing the skin, hair and body fat beneath."
-    m ""
+    m "Je relevai ma chemise et exposai mon ventre à la vue du dragon. Mes mains le frottaient avec un mouvement circulaire, caressant la peau, les poils et la graisse en dessous."
 
 # game/remy2.rpy:479
 translate frenchtl remy2cont_d0fd436a:
 
     # c "Do you think that's a lot of hair? Or just a little peach fuzz?"
-    c ""
+    c "Penses tu que ça fait beaucoup de poils ? Ou est-ce juste un duvet de pêche ?"
 
 # game/remy2.rpy:480
 translate frenchtl remy2cont_0edb3f5d:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy2.rpy:481
 translate frenchtl remy2cont_49444037:
@@ -394,109 +394,109 @@ translate frenchtl remy2cont_49444037:
 translate frenchtl remy2cont_0edb3f5d_1:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy2.rpy:483
 translate frenchtl remy2cont_5a9aeb3a:
 
     # c "Some of the hair is actually blond, so you might not be able to tell from a distance..."
-    c ""
+    c "Certains poils sont blond en fait, Donc ce serait difficile pour toi de les discerner à cette distance..."
 
 # game/remy2.rpy:484
 translate frenchtl remy2cont_0edb3f5d_2:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy2.rpy:485
 translate frenchtl remy2cont_0c4ee973:
 
     # c "Which means you have to touch my belly to feel them."
-    c ""
+    c "Ce qui signifie que tu dois toucher mon ventre pour les sentir."
 
 # game/remy2.rpy:486
 translate frenchtl remy2cont_0edb3f5d_3:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy2.rpy:487
 translate frenchtl remy2cont_f8f1daae:
 
     # c "It's very soft."
-    c ""
+    c "C'est très doux."
 
 # game/remy2.rpy:488
 translate frenchtl remy2cont_0edb3f5d_4:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy2.rpy:489
 translate frenchtl remy2cont_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/remy2.rpy:490
 translate frenchtl remy2cont_0edb3f5d_5:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy2.rpy:491
 translate frenchtl remy2cont_baf0be68:
 
     # Ry "I'm afraid you need to leave."
-    Ry ""
+    Ry "Je crains que tu doives partir."
 
 # game/remy2.rpy:492
 translate frenchtl remy2cont_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/remy2.rpy:493
 translate frenchtl remy2cont_0edb3f5d_6:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy2.rpy:494
 translate frenchtl remy2cont_084626ba:
 
     # Ry "Now."
-    Ry ""
+    Ry "Maintenant."
 
 # game/remy2.rpy:502
 translate frenchtl remy2cont_5d0f6108:
 
     # m "He shooed me out of his apartment after that, and not wanting to make a scene, I left. I'm still not sure what exactly went wrong that evening, but somehow I didn't think he would want to meet with me again."
-    m ""
+    m "Il me jeta hors de l'appartement après ça, et ne voulant pas faire une scène, je partis. Jusqu'à présent, je ne pouvais dire ce que j'avais fais de mal cette soirée là, mais d'une façon ou d'une autre, je me doutais qu'il n'aurait pas voulu qu'on se revoit."
 
 # game/remy2.rpy:529
 translate frenchtl remy2cont_03219642:
 
     # m "After entering the kitchen once more, I saw the dragon looked over the kitchen partition again. His mouth opened a little, as though he were going to speak, but his brow scrunched with hesitation."
-    m ""
+    m "Entrant dans la cuisine une fois de plus, je vis le dragon regarder à nouveau à travers la cloison. Sa bouche s'ouvrit un peu, comme s'il allait parler, mais ses sourcils se froncèrent dans l'hésitation."
 
 # game/remy2.rpy:531
 translate frenchtl remy2cont_142828fd:
 
     # m "Before I could say anything, he shook his head and continued to cook."
-    m ""
+    m "Avant que je ne pusse dire quoi que ce soit, il se secoua la tête et continua de cuisiner."
 
 # game/remy2.rpy:537
 translate frenchtl remy2cont_505cc211:
 
     # m "Soon, I heard the sizzling of frying meat as the delicious smell of steak wafted into the room."
-    m ""
+    m "Bientôt, j'entendis le grésillement de la viande grillé alors que la délicieuse odeur des steaks flottait dans la pièce."
 
 # game/remy2.rpy:541
 translate frenchtl remy2cont_c8da8664:
 
     # m "Soon, I heard the sizzling of the frying steaks as their delicious smell wafted into the room."
-    m ""
+    m "Bientôt, j'entendis le grésillement des steaks grillés alors que leur délicieuse odeur flottait dans la pièce."
 
 # game/remy2.rpy:543
 translate frenchtl remy2cont_ac54623b:
