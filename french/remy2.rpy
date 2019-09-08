@@ -502,121 +502,121 @@ translate frenchtl remy2cont_c8da8664:
 translate frenchtl remy2cont_ac54623b:
 
     # m "Fueled by its fragrant odor, I slowly lost myself to daydreams as I closed my eyes."
-    m ""
+    m "Mon nez empli de cette senteur, je me perdis peu à peu à révasser alors que je fermai les yeux."
 
 # game/remy2.rpy:553
 translate frenchtl remy2cont_72fb7158:
 
     # Ry "Is something wrong? You are salivating."
-    Ry ""
+    Ry "Quelque chose ne vas pas ? Tu es en train de saliver."
 
 # game/remy2.rpy:555
 translate frenchtl remy2cont_e86abad5:
 
     # c "I-It's nothing. I was just thinking about something."
-    c ""
+    c "C-Ce n'est rien. J'étais juste en train de penser à quelque chose."
 
 # game/remy2.rpy:557
 translate frenchtl remy2cont_453c3f35:
 
     # Ry smile "Well, the food is ready. Enjoy."
-    Ry smile ""
+    Ry smile "Bref, le repas est prêt. Régale toi."
 
 # game/remy2.rpy:561
 translate frenchtl remy2cont_d6d4994f:
 
     # m "I looked down and saw that a plate was already in front of me, piled with steak and vegetables. Remy was already eating, so I took the knife he had provided and cut off a small corner of my steak."
-    m ""
+    m "Je baissai les yeux et vis qu'une assiette était déjà posé devant moi, avec dessus un steak et des légumes. Rémi était déjà en train de manger, donc je pris le couteau qu'il m'avait fourni et coupa un boût de mon steak."
 
 # game/remy2.rpy:563
 translate frenchtl remy2cont_e78d707f:
 
     # m "Then, I pierced it with the fork, its three prongs penetrating the flesh unrelentingly. Slowly, I raised it to my mouth, and my tongue glided over the bare substance briefly as it entered my lips."
-    m ""
+    m "Je perçai alors avec la fourchette, ses trois dents pénétrant la chair sans résistance aucune. Lentement, je l'amenai à ma bouche, et ma langue carressa brièvement la substance alors qu'elle passait mes lèvres."
 
 # game/remy2.rpy:565
 translate frenchtl remy2cont_39716cc4:
 
     # m "I took the first bite. A delicately crisp exterior, with a much softer and juicy inside. It melted on my tongue like butter as the taste spread to even the remotest corner of my mouth."
-    m ""
+    m "Je pris une première bouchée. Un extérieur délicatement craquant, avec un intérieur moelleux et jûteux. Ca fondait sur ma langue comme du beure tandis que le goût se diffusait dans les coins les plus reculés de ma bouche."
 
 # game/remy2.rpy:567
 translate frenchtl remy2cont_c6d9561a:
 
     # m "It was almost perfect."
-    m ""
+    m "C'était proche de la perfection."
 
 # game/remy2.rpy:569
 translate frenchtl remy2cont_bd4b2464:
 
     # Ry "So, what were you thinking about?"
-    Ry ""
+    Ry "Donc, à quoi étais tu en train de penser ?"
 
 # game/remy2.rpy:571
 translate frenchtl remy2cont_7543ea61:
 
     # c "Huh?"
-    c ""
+    c "Hein ?"
 
 # game/remy2.rpy:573
 translate frenchtl remy2cont_18b631e1:
 
     # m "Remy's words snapped me back to reality."
-    m ""
+    m "Les mots de Rémi me ramenèrent à la réalité."
 
 # game/remy2.rpy:575
 translate frenchtl remy2cont_dab4e608:
 
     # Ry "You said you were thinking about something."
-    Ry ""
+    Ry "Tu étais en train de penser à quelque chose."
 
 # game/remy2.rpy:588
 translate frenchtl remy2menu2_0c623584:
 
     # Ry "Which ones?"
-    Ry ""
+    Ry "Quoi donc ?"
 
 # game/remy2.rpy:590
 translate frenchtl remy2menu2_8f8bf171:
 
     # c "The ones on anatomy."
-    c ""
+    c "C'est au sujet de l'anatomie."
 
 # game/remy2.rpy:592
 translate frenchtl remy2menu2_1223f003:
 
     # Ry shy "W-Well, I do have a variety of books and scrolls covering all kinds of different subjects."
-    Ry shy ""
+    Ry shy "Eh bien, J'ai en effet une grande variété de livres et de parcheemins couvrant un large panel de thématiques."
 
 # game/remy2.rpy:594
 translate frenchtl remy2menu2_8d7d4662:
 
     # c "I saw as much. You may have heard that I have a degree in biology, which is one of the reasons I was given the honor of coming here in the first place. As such, your anatomy is of high interest to me and one of the things I'm supposed to study."
-    c ""
+    c "Je l'ai vu moi aussi. Tu as dû entendre que j'avais un diplôme en biologie, ce qui constitue une des raisons pour lesquelles j'ai eu l'honneur de venir ici en premier lieu. Ce faisant, ton anatomie est d'un grand intérêt pour moi et également une des choses que je suis supposé étudier."
 
 # game/remy2.rpy:596
 translate frenchtl remy2menu2_ca8681b9:
 
     # Ry "M-My anatomy?"
-    Ry ""
+    Ry "M-Mon anatomie ?"
 
 # game/remy2.rpy:598
 translate frenchtl remy2menu2_9b1c14dc:
 
     # c "I was talking about your kind in general, not you in particular..."
-    c ""
+    c "Je parlais plus de ton espèce en général, pas toi en particulier..."
 
 # game/remy2.rpy:600
 translate frenchtl remy2menu2_54faf911:
 
     # Ry "Oh? In that case, I might be able to find you something more comprehensive than a handful of scrolls."
-    Ry ""
+    Ry "Oh ? Dans ce cas, je devrais être capable de trouver quelque chose de plus compréhensible qu'une poignée de parchemins."
 
 # game/remy2.rpy:602
 translate frenchtl remy2menu2_267e69fa:
 
     # c "I would greatly appreciate that. Thank you!"
-    c ""
+    c "Ce serait fort apréciable. Merci à toi."
 
 # game/remy2.rpy:615
 translate frenchtl remy2menu2_aea5dc24:
