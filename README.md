@@ -32,7 +32,7 @@ adine2 ✔<br/>
 anna2 ✔<br/>
 bryce2 ✘<br/>
 lorem2 ✔✔<br/>
-remy2 ✘<br/>
+remy2 En cours (gone)<br/>
 xemera ✔<br/>
 xzhong ✔ (à reprendre)<br/>
 chapter3 En cours (BananaSplit2)<br/>
