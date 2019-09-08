@@ -3401,7 +3401,7 @@ translate french _call_syscheck_15_38fffc85:
 translate french _call_syscheck_15_93d5c982:
 
     # s "You did a thing. Achievement unlocked. Don't look at me, I'm just the messenger."
-    s "Vous avez fait quelque chose. Succès débloqué. Ne me regardez pas comme ça, je suis simplement le messager."
+    s "Vous avez fait quelque chose. Succès débloqué. Ne me regardez pas comme ça, je suis juste le messager, moi."
 
 # game/chapter3.rpy:2383
 translate french c3sections_64789417:
@@ -3413,1441 +3413,1441 @@ translate french c3sections_64789417:
 translate french c3sections_a7cf3ec1:
 
     # m "Before deciding my next move, I returned to my apartment for a moment of rest. A small piece of paper had been slipped under my door while I was gone."
-    m ""
+    m "Avant de me décider sur la marche à suivre, je revins à mon appartement pour un moment de répit. Un petit bout de papier avait été glissé sous ma porte alors que j'étais parti."
 
 # game/chapter3.rpy:2425
 translate french c3sections_99980877:
 
     # m "\"Don't go to the portal.\" was all it said. I considered the possibility of a hidden message, but that was unlikely; the statement was blunt and quickly scrawled."
-    m ""
+    m "\"Ne va pas au portail.\" est tout ce qui était écrit. Je considérai la possibilité d'un message caché, mais c'était peu probable ; le message était très direct et avait été gribouillé à la hâte."
 
 # game/chapter3.rpy:2427
 translate french c3sections_f6745d81:
 
     # m "Someone clearly didn't want me to go to the portal, but why would I go there in the first place? As it was out of order right now, such an action would serve no purpose."
-    m ""
+    m "Clairement quelqu'un ne voulait pas que je me rende au portail, mais pourquoi serais-je allé là-bas dans un premier temps ? Puisqu'il était hors d'usage en ce moment même, une telle action n'aurait aucun sens."
 
 # game/chapter3.rpy:2431
 translate french c3sections_fe0ccee8:
 
     # m "I looked outside the window, at the portal's faint silhouette in the distance. The paper rustled between my fingers as I fidgeted with it, wondering about the message's sender and significance."
-    m ""
+    m "Je regardai par la fenêtre la silhouette floue du portail au loin. Le papier bruissait entre mes doigts alors que je jouais avec, me posant des questions sur l'expéditeur du message et sur sa signification."
 
 # game/chapter3.rpy:2435
 translate french c3sections_4bad9402:
 
     # m "My train of thought was violently interrupted by a sharp burst of gunfire, echoing from the portal."
-    m ""
+    m "Mon train de pensée fut violemment interrompu par le fracas d'une rafale de coups de feu, semblant provenir du portail."
 
 # game/chapter3.rpy:2439
 translate french c3sections_bea823bf:
 
     # m "I had to think fast. The gunshots ensured Reza's involvement. He was at the portal. The question was: Why?"
-    m ""
+    m "Je devais prendre une décision rapidement. Les coups de feu garantissaient l'implication de Reza. Il était au portail. La question était : pour quelle raison ?"
 
 # game/chapter3.rpy:2441
 translate french c3sections_dc1c5ba7:
 
     # m "If this was his attempt to flee back to the human world, he would receive a rather unpleasant surprise the moment he would try to use the portal."
-    m ""
+    m "Si cela était sa tentative de fuite vers le monde humain, il aurait une plutôt mauvaise surprise au moment où il essaierait d'utiliser le portail."
 
 # game/chapter3.rpy:2443
 translate french c3sections_762bd5a3:
 
     # m "Or maybe Sebastian's theory was correct, and Reza held the part needed to repair the portal, in which case his escape could be imminent."
-    m ""
+    m "Ou alors peut-être que la théorie de Sébastien était correcte, et que Reza possédait les pièces nécessaires à la réparation du portail, auquel cas son évasion pourrait être imminente."
 
 # game/chapter3.rpy:2445
 translate french c3sections_79c15948:
 
     # m "The gunshots themselves were another question. Was someone trying to stop him? The police patrol may have seen him, and he may have been taken by surprise. This could be another murder in progress."
-    m ""
+    m "Les coups de feu amenaient en eux-mêmes une autre question. Quelqu'un essayait-il de l'arrêter ? La patrouille de police aurait pu l'apercevoir, et il aurait pu être pris par surprise. Peut-être était-ce un nouveau meurtre qui était en train de se produire."
 
 # game/chapter3.rpy:2447
 translate french c3sections_36d9d204:
 
     # m "But all of his murders were committed with a sharp weapon before now, not a gun. He didn't want to be heard."
-    m ""
+    m "Mais tous ses meurtres avaient été commis avec une arme tranchante jusqu'à maintenant, pas un revolver. Il ne voulais pas être entendu."
 
 # game/chapter3.rpy:2449
 translate french c3sections_67aea3b1:
 
     # m "Besides, it was only early evening, and the town was still bustling. If Reza wanted to stay hidden, he was doing a rather poor job at it."
-    m ""
+    m "De plus, nous n'étions qu'en début de soirée, et la ville était encore remplie d'activité. Si Reza voulait rester caché, il se débrouillait bien mal."
 
 # game/chapter3.rpy:2451
 translate french c3sections_870e278b:
 
     # m "Of course, there was also the possibility that he wanted to be heard, but who would he want to attract?"
-    m ""
+    m "Bien sûr, il y avait aussi la possibilité qu'il voulait être entendu, mais qui voudrait-il attirer ?"
 
 # game/chapter3.rpy:2453
 translate french c3sections_4405cae7:
 
     # m "The police? Maverick? It could easily be a trap for those hunting him, and that technically included me, though I wasn't sure if he knew of my involvement in the investigation."
-    m ""
+    m "La police ? Maverick ? Cela pourrait aisément être un piège pour ceux qui le chassaient, et cela incluait techniquement ma propre personne, bien que j'étais pas sûr s'il était au courant de mon rôle dans l'enquête."
 
 # game/chapter3.rpy:2455
 translate french c3sections_ff99562e:
 
     # m "It was also a very real possibility that he knew my apartment was close enough to the portal to hear a gunshot. Could it be a signal for me?"
-    m ""
+    m "Et il restait également la possibilité bien réelle qu'il susse que mon appartement était suffisamment près du portail pour y entendre un coup de feu. Cela pouvait-il être un signal pour moi ?"
 
 # game/chapter3.rpy:2457
 translate french c3sections_82efe758:
 
     # m "Regardless, the words I held in my hands were unmistakable: {i}Don't go to the portal.{/i}"
-    m ""
+    m "Dans tous les cas, les mots que je tenais dans mes mains étaient on ne peut plus clairs : {i}Ne va pas au portail.{/i}"
 
 # game/chapter3.rpy:2459
 translate french c3sections_19ce5166:
 
     # c "(What should I do?)"
-    c ""
+    c "(Que devrais-je faire ?)"
 
 # game/chapter3.rpy:2467
 translate french c3sections_b39f8015:
 
     # m "Ultimately, I trusted the mysterious message. Remy's list of phone numbers, given to me when he brought me to this apartment in the first place, proved to be a valuable tool. I dialed the emergency line and was greeted by a calm voice asking me about my emergency."
-    m ""
+    m "Finalement, je décidai de faire confiance au message mystérieux. La liste des numéros de téléphone laissée par Rémi lorsqu'il m'avait amené à cet appartement à l'origine fut d'une aide précieuse. Je composai le numéro d'urgence et fus accueilli par une voix calme me demandant quelle était l'urgence."
 
 # game/chapter3.rpy:2469
 translate french c3sections_73e9833f:
 
     # m "The gravity of the situation was understood, and I was advised to stay inside until further notice. A team was dispatched to deal with the situation while I waited. From my window, I tried to catch a glimpse of what was going on at the portal, but I couldn't see much. The dark of night was fast approaching."
-    m ""
+    m "La gravité de la situation fut comprise, et il me fut conseillé de rester confiné jusqu'à nouvel ordre. Une équipe fut envoyée pour s'occuper de la situation pendant que j'attendais. Depuis ma fenêtre, j'essayai d'entrevoir ce qu'il se passait au portail, mais je ne pus pas voir grand chose. L'obscurité de la nuit recouvrait rapidement le paysage."
 
 # game/chapter3.rpy:2471
 translate french c3sections_c1a0a1fb:
 
     # m "About an hour later, I was informed the team had searched the perimeter, though no trace of Reza was found."
-    m ""
+    m "Environ une heure plus tard, je fus informé que l'équipe avait fait le tour du périmètre mais qu'aucune trace de Reza n'évait été retrouvée."
 
 # game/chapter3.rpy:2475
 translate french c3sections_0e86631b:
 
     # m "I was given the go-ahead to continue with my investigation, but I was free to stay where I was if I felt unsafe."
-    m ""
+    m "On me donna le feu vert pour continuer mon invetigation, mais j'étais libre de rester où j'étais si je me sentais en danger."
 
 # game/chapter3.rpy:2479
 translate french c3sections_7fc7a351:
 
     # c "(I've got some more time left. What should I do?)" nointeract
-    c "" nointeract
+    c "(Il me reste encore un peu de temps. Que devrais-je faire ?)" nointeract
 
 # game/chapter3.rpy:2515
 translate french c3sections_2095df67:
 
     # m "In the end, I decided to wait. Investigating was difficult work, yes, but I decided it would be safer to lay low and stay inside for now. I'd gathered enough information for today."
-    m ""
+    m "Finalement, je me décidai à attendre. Enquêter était un travail difficile, certes, mais je décidai qu'il était plus sûr pour moi de faire profil bas et rester à l'intérieur pour l'instant."
 
 # game/chapter3.rpy:2517
 translate french c3sections_003d8d2c:
 
     # m "Afterwards, it was time to confront Sebastian with my findings."
-    m ""
+    m "Ce après quoi, il fut temps d'aller voir Sébastien avec mes trouvailles."
 
 # game/chapter3.rpy:2537
 translate french _call_lazycheck_1_1f4af686:
 
     # m "The path I took was a familiar one by now. Even with night falling, it was easy for me to find my way around."
-    m ""
+    m "La route que j'empruntai m'était familière à ce point. Même avec la nuit tombante, il me fut aisé de trouver mon chemin."
 
 # game/chapter3.rpy:2539
 translate french _call_lazycheck_1_81e8eafa:
 
     # m "Long, grotesque shadows stretched before me, and the atmosphere was eerie and dangerous. I couldn't tell if it was because of the evening's shroud of darkness, or if the urgent situation tugging at my mind had twisted my perception."
-    m ""
+    m "De longues et grotesques ombres s'étendaient devant moi, et l’atmosphère semblait sinistre et dangereuse. Je ne pouvais dire si cela était à cause du voile d'ombre du soir, ou si la situation urgente qui me trottait dans la tête avait modifié ma perception des choses."
 
 # game/chapter3.rpy:2543
 translate french _call_lazycheck_1_49727304:
 
     # m "I made it past the village border and pressed on. There was still a fair distance to go."
-    m ""
+    m "Je passai les bords du village et continuai mon chemin. Il y avait encore une bonne distance à parcourir."
 
 # game/chapter3.rpy:2545
 translate french _call_lazycheck_1_d00f8a52:
 
     # m "Suddenly—"
-    m ""
+    m "Soudainement—"
 
 # game/chapter3.rpy:2547
 translate french _call_lazycheck_1_0484a9d0:
 
     # m "Gloved hands grabbed me from behind, clamping over my mouth. I couldn't make a sound."
-    m ""
+    m "Des mains gantées m'attrapèrent par derrière, recouvrant ma bouche. Je ne pouvais faire un son."
 
 # game/chapter3.rpy:2551
 translate french _call_lazycheck_1_4d52ec80:
 
     # m "From what I could see, it was the same hooded figure I had met in the maintenance room after the second murder."
-    m ""
+    m "De ce que je pus voir, il s'agissait de la même figure encagoulée que j'avais rencontrée dans la salle de maintenance après le second meurtre."
 
 # game/chapter3.rpy:2553
 translate french _call_lazycheck_1_a9d09c8c:
 
     # "???" "It's too late. Maverick arrived before you did and he'll make sure that no one uses the portal today. Don't follow me."
-    "???" ""
+    "???" "Il est trop tard. Maverick est arrivé avant toi, et il s'assurera que personne n'utilise ce portail aujourd'hui. Ne me suis pas."
 
 # game/chapter3.rpy:2567
 translate french _call_lazycheck_1_5d175cfe:
 
     # m "I was shoved to the ground, and before I could regain my composure, the figure vanished into the darkness."
-    m ""
+    m "Je fus projeté vers le sol, et avant même que je pusse m'en remettre, la silhouette avait disparu dans l'obscurité."
 
 # game/chapter3.rpy:2569
 translate french _call_lazycheck_1_2c78df96:
 
     # m "If Maverick was still in the area, it was not a good idea to stay here. I wouldn't want to fuel his suspicions, or worse."
-    m ""
+    m "Si Maverick était encore dans les parages, cela n'était pas une bonne idée de rester ici. Je n'aurais pas voulu alimenter ses soupçons, ou pire."
 
 # game/chapter3.rpy:2571
 translate french _call_lazycheck_1_6cacb27a:
 
     # m "I figured it was time to go back to the police department anyway."
-    m ""
+    m "Je me dis qu'il était temps de retourner au commissariat de toute façon."
 
 # game/chapter3.rpy:2589
 translate french _call_syscheck_16_44abe157:
 
     # s "You tried to go to the portal!"
-    s ""
+    s "Vous avez tenté d'aller au portail !"
 
 # game/chapter3.rpy:2593
 translate french _call_syscheck_16_fb173d52:
 
     # s "You tried to go to the portal. Unsuccessfully, I might add."
-    s ""
+    s "Vous avez tenté d'aller au portail. De manière infructueuse si je puis ajouter."
 
 # game/chapter3.rpy:2597
 translate french _call_syscheck_16_9361e101:
 
     # s "You tried to go to the portal. And that despite the letter explicitly telling you not to. You rebel."
-    s ""
+    s "Vous avez tenté d'aller au portail. Et ceci malgré la lettre qui vous disait explicitement de ne pas y aller. Un vrai rebelle."
 
 # game/chapter3.rpy:2603
 translate french _call_syscheck_16_4e3515c9:
 
     # c "(Phew, it's getting late. I better head to the police station now.)"
-    c ""
+    c "(Ouf, il se fait tard. Je devrais sans doute aller au commissariat maintenant.)"
 
 # game/chapter3.rpy:2605
 translate french _call_syscheck_16_f69a4023:
 
     # c "(Do I have everything?)"
-    c ""
+    c "(Est-ce que j'ai tout ?)"
 
 # game/chapter3.rpy:2607
 translate french _call_syscheck_16_7b5babd8:
 
     # c "(Alright, let's see what Sebastian will say to this.)"
-    c ""
+    c "(Bien, allons voir ce que Sébastien a à dire sur tout ça.)"
 
 # game/chapter3.rpy:2625
 translate french c3fac_0b226d75:
 
     # Lo happy "Hey, [player_name]!"
-    Lo happy ""
+    Lo happy "Salut, [player_name] !"
 
 # game/chapter3.rpy:2627
 translate french c3fac_418328d3:
 
     # c "Lorem, what are you doing here?"
-    c ""
+    c "Lorem, que fais-tu ici ?"
 
 # game/chapter3.rpy:2629
 translate french c3fac_811641e2:
 
     # Lo normal "I'm just fetching some equipment for my roommate. He's in the middle of an experiment and really needs this stuff."
-    Lo normal ""
+    Lo normal "Je viens juste chercher du matériel pour mon colocataire. Il est au beau milieu d'une expérience et il en a vraiment besoin."
 
 # game/chapter3.rpy:2631
 translate french c3fac_507a8424:
 
     # Lo think "He sounded very emotional, which is very unusual for him."
-    Lo think ""
+    Lo think "Il semblait très émotif, ce qui très inhabituel pour lui."
 
 # game/chapter3.rpy:2633
 translate french c3fac_fc1684d0:
 
     # c "Sounds like it's serious."
-    c ""
+    c "Cela semble sérieux."
 
 # game/chapter3.rpy:2635
 translate french c3fac_8d3704cb:
 
     # Lo happy "And you're here for important human business, I bet."
-    Lo happy ""
+    Lo happy "Et tu es ici pour des affaires humaines sérieuses, je parie."
 
 # game/chapter3.rpy:2637
 translate french c3fac_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Bien sûr."
 
 # game/chapter3.rpy:2639
 translate french c3fac_d2f94974:
 
     # Lo shy "By the way, are you still up to have those pictures made of you? I left you a message a while ago and haven't heard from you since."
-    Lo shy ""
+    Lo shy "Au fait, tu es toujours d'accord pour que je fasse ces dessins de toi ? Je t'ai laissé un message il y a quelques temps et depuis je n'ai pas eu de nouvelles de toi."
 
 # game/chapter3.rpy:2647
 translate french c3fac_32c701f6:
 
     # Lo think "Oh, I can imagine."
-    Lo think ""
+    Lo think "Oh, je me doute."
 
 # game/chapter3.rpy:2649
 translate french c3fac_62b3f588:
 
     # Lo normal "If you can find the time, I’d certainly appreciate it if we could still make this happen."
-    Lo normal ""
+    Lo normal "Si tu trouves du temps libre, j'apprécierais certainement que nous puissions faire ça."
 
 # game/chapter3.rpy:2651
 translate french c3fac_8e19e9e6:
 
     # c "I'll try."
-    c ""
+    c "J'essaierai."
 
 # game/chapter3.rpy:2653
 translate french c3fac_2c057580:
 
     # Lo happy "Thanks!"
-    Lo happy ""
+    Lo happy "Merci !"
 
 # game/chapter3.rpy:2655
 translate french c3fac_2f8d49ac:
 
     # Lo think "I should really get going before my roommate blows up the apartment."
-    Lo think ""
+    Lo think "Je devrais vraiment y aller avant que mon colocataire ne fasse exploser l'appartement."
 
 # game/chapter3.rpy:2657
 translate french c3fac_da705393:
 
     # c "Sure. Take care."
-    c ""
+    c "Ok. Prends soin de toi."
 
 # game/chapter3.rpy:2659
 translate french c3fac_36f71b22:
 
     # Lo happy "You too!"
-    Lo happy ""
+    Lo happy "Toi aussi !"
 
 # game/chapter3.rpy:2670
 translate french c3fac_8ad6ccea:
 
     # Lo sad "Really? What a shame."
-    Lo sad ""
+    Lo sad "Vraiment ? Quel dommage."
 
 # game/chapter3.rpy:2672
 translate french c3fac_1ccc5ec4:
 
     # Lo normal "The stuff you told me last time should come in handy, at least."
-    Lo normal ""
+    Lo normal "Au moins, ce que tu m'as dit la dernière fois devrait m'être utile."
 
 # game/chapter3.rpy:2674
 translate french c3fac_9f85b645:
 
     # c "Yeah."
-    c ""
+    c "Ouais."
 
 # game/chapter3.rpy:2676
 translate french c3fac_c74cd445:
 
     # Lo "If anything changes, just let me know and I'll do what I can to accommodate you."
-    Lo ""
+    Lo "Si quoi que ce soit change, fais-le moi savoir et je ferai ce que je peux pour t'accomoder."
 
 # game/chapter3.rpy:2678
 translate french c3fac_2f8d49ac_1:
 
     # Lo think "I should really get going before my roommate blows up the apartment."
-    Lo think ""
+    Lo think "Je devrais vraiment y aller avant que mon colocataire ne fasse exploser l'appartement."
 
 # game/chapter3.rpy:2680
 translate french c3fac_da705393_1:
 
     # c "Sure. Take care."
-    c ""
+    c "Ok. Prends soin de toi."
 
 # game/chapter3.rpy:2682
 translate french c3fac_9a4a39ed:
 
     # Lo normal "You too!"
-    Lo normal ""
+    Lo normal "Toi aussi !"
 
 # game/chapter3.rpy:2691
 translate french c3fac_803f3f6a:
 
     # m "When Lorem spotted me, he opened his muzzle as if he was going to say something."
-    m ""
+    m "Quand Lorem m'aperçut, il ouvrit sou museau comme s'il allait dire quelque chose."
 
 # game/chapter3.rpy:2695
 translate french c3fac_8d2fb33f:
 
     # m "After a moment of hesitation, he walked past me in silence."
-    m ""
+    m "Après un moment d'hésitation, il passa son chemin en silence."
 
 # game/chapter3.rpy:2703
 translate french c3fac_a0f71523:
 
     # Lo "Hey, [player_name]!"
-    Lo ""
+    Lo "Salut, [player_name] !"
 
 # game/chapter3.rpy:2705
 translate french c3fac_10522ec7:
 
     # c "Lorem, right?"
-    c ""
+    c "Lorem, c'est ça ?"
 
 # game/chapter3.rpy:2707
 translate french c3fac_fc683cd8:
 
     # Lo happy "Yep!"
-    Lo happy ""
+    Lo happy "Yep !"
 
 # game/chapter3.rpy:2709
 translate french c3fac_bc094a37:
 
     # Lo think "Did you get a chance to think about what I told you last time?"
-    Lo think ""
+    Lo think "As-tu eu l'occasion de penser à ce que je t'ai dit la dernière fois ?"
 
 # game/chapter3.rpy:2711
 translate french c3fac_a131fdf2:
 
     # c "Don't worry, I didn't lose your number. They keep me pretty busy, so I don't really have much free time."
-    c ""
+    c "Ne t'inquiète pas, je n'ai pas perdu ton numéro. Ils me tiennent assez occupé, et donc je n'ai pas beaucoup de temps libre."
 
 # game/chapter3.rpy:2713
 translate french c3fac_d3f4c47a:
 
     # Lo happy "Well, if anything changes, give me a call!"
-    Lo happy ""
+    Lo happy "Eh bien, si quoi que ce soit change, donne-moi un coup de téléphone !"
 
 # game/chapter3.rpy:2715
 translate french c3fac_255ecca1:
 
     # c "I will."
-    c ""
+    c "Promis."
 
 # game/chapter3.rpy:2717
 translate french c3fac_e5b2a49d:
 
     # Lo normal "I gotta go now, so take care!"
-    Lo normal ""
+    Lo normal "Je dois y aller maintenant, alors prends soin de toi !"
 
 # game/chapter3.rpy:2719
 translate french c3fac_b092993f:
 
     # c "You too."
-    c ""
+    c "Toi aussi."
 
 # game/chapter3.rpy:2725
 translate french c3fac_0b226d75_1:
 
     # Lo happy "Hey, [player_name]!"
-    Lo happy ""
+    Lo happy "Salut, [player_name] !"
 
 # game/chapter3.rpy:2727
 translate french c3fac_418328d3_1:
 
     # c "Lorem, what are you doing here?"
-    c ""
+    c "Lorem, que fais-tu ici ?"
 
 # game/chapter3.rpy:2729
 translate french c3fac_811641e2_1:
 
     # Lo normal "I'm just fetching some equipment for my roommate. He's in the middle of an experiment and really needs this stuff."
-    Lo normal ""
+    Lo normal "Je viens juste chercher du matériel pour mon colocataire. Il est au beau milieu d'une expérience et il en a vraiment besoin."
 
 # game/chapter3.rpy:2731
 translate french c3fac_507a8424_1:
 
     # Lo think "He sounded very emotional, which is very unusual for him."
-    Lo think ""
+    Lo think "Il semblait très émotif, ce qui très inhabituel pour lui."
 
 # game/chapter3.rpy:2733
 translate french c3fac_fc1684d0_1:
 
     # c "Sounds like it's serious."
-    c ""
+    c "Cela semble sérieux."
 
 # game/chapter3.rpy:2735
 translate french c3fac_8d3704cb_1:
 
     # Lo happy "And you're here for important human business, I bet."
-    Lo happy ""
+    Lo happy "Et tu es ici pour des affaires humaines sérieuses, je parie."
 
 # game/chapter3.rpy:2737
 translate french c3fac_c48dc32f_1:
 
     # c "Sure."
-    c ""
+    c "Bien sûr."
 
 # game/chapter3.rpy:2739
 translate french c3fac_edda43e2:
 
     # Lo think "By the way, how about I invite you to our place sometime? There’s another thing you could help me with."
-    Lo think ""
+    Lo think "Au fait, et si je t'invitais chez moi un jour ? Il y a autre chose avec laquelle tu pourrais m'aider."
 
 # game/chapter3.rpy:2741
 translate french c3fac_0f173ebb:
 
     # c "What is it?"
-    c ""
+    c "De quoi s'agit-il ?"
 
 # game/chapter3.rpy:2743
 translate french c3fac_b50b6d53:
 
     # Lo happy "I'd like to make some pictures of you."
-    Lo happy ""
+    Lo happy "J'aimerais faire quelques dessins de toi."
 
 # game/chapter3.rpy:2745
 translate french c3fac_4b489c83:
 
     # c "Okay..."
-    c ""
+    c "Okay..."
 
 # game/chapter3.rpy:2747
 translate french c3fac_e594bfe9:
 
     # Lo normal "I want to use them as references for the humans in my game."
-    Lo normal ""
+    Lo normal "Je veux les utiliser comme références pour les humains dans mon jeu."
 
 # game/chapter3.rpy:2749
 translate french c3fac_8e1bc377:
 
     # c "I see. Well, I can't promise anything right now, but I'll keep it in mind."
-    c ""
+    c "Je vois. Eh bien, je ne peux rien te promettre maintenant, mais je garderai ça en tête."
 
 # game/chapter3.rpy:2751
 translate french c3fac_de96437c:
 
     # Lo happy "Great, thanks!"
-    Lo happy ""
+    Lo happy "Super, merci !"
 
 # game/chapter3.rpy:2753
 translate french c3fac_2f8d49ac_2:
 
     # Lo think "I should really get going before my roommate blows up the apartment."
-    Lo think ""
+    Lo think "Je devrais vraiment y aller avant que mon colocataire ne fasse exploser l'appartement."
 
 # game/chapter3.rpy:2755
 translate french c3fac_da705393_2:
 
     # c "Sure. Take care."
-    c ""
+    c "Ok. Prends soin de toi."
 
 # game/chapter3.rpy:2757
 translate french c3fac_9a4a39ed_1:
 
     # Lo normal "You too!"
-    Lo normal ""
+    Lo normal "Toi aussi !"
 
 # game/chapter3.rpy:2763
 translate french c3fac_0b226d75_2:
 
     # Lo happy "Hey, [player_name]!"
-    Lo happy ""
+    Lo happy "Salut, [player_name] !""
 
 # game/chapter3.rpy:2765
 translate french c3fac_418328d3_2:
 
     # c "Lorem, what are you doing here?"
-    c ""
+    c "Lorem, que fais-tu ici ?"
 
 # game/chapter3.rpy:2767
 translate french c3fac_f5027e57:
 
     # Lo normal "I'm just fetching some equipment for Ipsum. He's in the middle of an experiment and really needs this stuff."
-    Lo normal ""
+    Lo normal "Je viens juste chercher du matériel pour Ipsum. Il est au beau milieu d'une expérience et il en a vraiment besoin."
 
 # game/chapter3.rpy:2769
 translate french c3fac_507a8424_2:
 
     # Lo think "He sounded very emotional, which is very unusual for him."
-    Lo think ""
+    Lo think "Il semblait très émotif, ce qui très inhabituel pour lui."
 
 # game/chapter3.rpy:2771
 translate french c3fac_fc1684d0_2:
 
     # c "Sounds like it's serious."
-    c ""
+    c "Cela semble sérieux."
 
 # game/chapter3.rpy:2773
 translate french c3fac_070d6998:
 
     # Lo normal "And you're here for important human business, I bet."
-    Lo normal ""
+    Lo normal "Et tu es ici pour des affaires humaines sérieuses, je parie."
 
 # game/chapter3.rpy:2775
 translate french c3fac_c48dc32f_2:
 
     # c "Sure."
-    c ""
+    c "Bien sûr."
 
 # game/chapter3.rpy:2777
 translate french c3fac_76da7c59:
 
     # Lo happy "By the way, do you still accept my invitation? I have something really neat planned!"
-    Lo happy ""
+    Lo happy "Au fait, acceptes-tu toujours mon invitation ? J'ai quelque chose de super sympa de prévu !"
 
 # game/chapter3.rpy:2779
 translate french c3fac_b00d059d:
 
     # c "Sounds great, but I'm pretty busy right now."
-    c ""
+    c "Ça semble super, mais je suis assez occupé en ce moment."
 
 # game/chapter3.rpy:2781
 translate french c3fac_9bc73867:
 
     # Lo normal "It's no problem, really. Just let me know when you have the time and I'll make it happen."
-    Lo normal ""
+    Lo normal "Pas de problème, vraiment. Fais-moi juste savoir quand tu as du temps libre on sera parti."
 
 # game/chapter3.rpy:2783
 translate french c3fac_57cfd7b3:
 
     # Lo think "I should really get going before Ipsum blows up the apartment."
-    Lo think ""
+    Lo think "Je devrais vraiment y aller avant que Ipsum ne fasse exploser l'appartement."
 
 # game/chapter3.rpy:2785
 translate french c3fac_da705393_3:
 
     # c "Sure. Take care."
-    c ""
+    c "Ok. Prends soin de toi."
 
 # game/chapter3.rpy:2787
 translate french c3fac_9a4a39ed_2:
 
     # Lo normal "You too!"
-    Lo normal ""
+    Lo normal "Toi aussi !"
 
 # game/chapter3.rpy:2795
 translate french c3fac_e8b28693:
 
     # c "(This should be the right place.)"
-    c ""
+    c "(Ça devrait être le bon endroit.)"
 
 # game/chapter3.rpy:2815
 translate french c3fac_d014df32:
 
     # Dm "Oh, it's you again. What do you want?"
-    Dm ""
+    Dm "Oh, c'est encore vous. Que voulez-vous ?"
 
 # game/chapter3.rpy:2835
 translate french c3fac_9d308e3d:
 
     # "???" "Can I help you?"
-    "???" ""
+    "???" "Je peux vous aider ?"
 
 # game/chapter3.rpy:2837
 translate french c3fac_a06c010a:
 
     # c "Hello. You are Anna's assistant, right?"
-    c ""
+    c "Bonjour. Vous devez être l'assistant d'Anna, n'est-ce pas ?"
 
 # game/chapter3.rpy:2839
 translate french c3fac_afbe82d8:
 
     # "???" "Assistant? You must be joking. First off, I was never anyone's assistant. Secondly, the witch is dead, so even if I was, I would've moved up the corporate ladder by now."
-    "???" ""
+    "???" "Assistant ? Vous devez plaisanter. Tout d'abord, je n'ai jamais été l'assistant de qui que ce soit. Ensuite, la sorcière est morte, alors même si je l'avait été, j'aurais déjà monté d'un échelon."
 
 # game/chapter3.rpy:2841
 translate french c3fac_47de3b7f:
 
     # c "But you are Damion, aren't you?"
-    c ""
+    c "Mais vous êtes Damion, n'est-ce pas ?"
 
 # game/chapter3.rpy:2843
 translate french c3fac_0689c98b:
 
     # Dm face "Yes. Where I come from, people usually introduce themselves before they start asking questions, though."
-    Dm face ""
+    Dm face "Oui. D'où je viens cependant, les gens se présentent avant de commencer à poser des questions."
 
 # game/chapter3.rpy:2845
 translate french c3fac_2c897276:
 
     # c "You don't know who I am?"
-    c ""
+    c "Vous ne savez pas qui je suis ?"
 
 # game/chapter3.rpy:2847
 translate french c3fac_3c9b552d:
 
     # Dm arrogant "Tchk, of course I know who you are, but that doesn't mean you don't need to learn some manners."
-    Dm arrogant ""
+    Dm arrogant "Tss, bien sûr que je sais qui vous êtes, mais cela ne veut pas dire que vous ne devriez pas apprendre les bonnes manières."
 
 # game/chapter3.rpy:2849
 translate french c3fac_18af2a31:
 
     # Dm "Anyway, what do you want?"
-    Dm ""
+    Dm "Bref, que voulez-vous ?"
 
 # game/chapter3.rpy:2854
 translate french c3fac_624c27e0:
 
     # c "Can I ask you a few questions?"
-    c ""
+    c "Puis-je vous poser quelques questions ?"
 
 # game/chapter3.rpy:2856
 translate french c3fac_a142ef32:
 
     # Dm "What about?"
-    Dm ""
+    Dm "À propos de quoi ?"
 
 # game/chapter3.rpy:2858
 translate french c3fac_7c7c5134:
 
     # c "Anna's murder."
-    c ""
+    c "Du meurtre d'Anna."
 
 # game/chapter3.rpy:2860
 translate french c3fac_30b3db04:
 
     # Dm face "..."
-    Dm face ""
+    Dm face "..."
 
 # game/chapter3.rpy:2862
 translate french c3fac_de6b4811:
 
     # Dm "And who are you to go around asking questions like that?"
-    Dm ""
+    Dm "Et qui êtes vous pour aller poser ce genre de questions ?"
 
 # game/chapter3.rpy:2864
 translate french c3fac_2837cec7:
 
     # c "I'm working with the police on this matter."
-    c ""
+    c "Je travaille avec la police sur cette affaire."
 
 # game/chapter3.rpy:2866
 translate french c3fac_6696b4fb:
 
     # Dm arrogant "And I'm supposed to believe that? For all I know, you could be with the murderer and are just here to find out if I know something that could implicate you."
-    Dm arrogant ""
+    Dm arrogant "Et je suis censé croire ça ? Pour tout ce que j'en sais, vous pourriez être de mèche avec le tueur et être là simplement pour savoir si je sais quelque choise qui pourrait vous impliquer."
 
 # game/chapter3.rpy:2868
 translate french c3fac_932495f5:
 
     # c "Well, according to my information, you didn't particularly like the victim. Not only were you the last person to see her alive, but you were also the one who found her. As you may imagine, this warrants some questions."
-    c ""
+    c "Eh bien, selon mes informations, vous n'aimiez pas particulièrement la victime. Non seulement vous êtes la dernière personne à l'avoir vue vivante, mais c'est également vous qui avez découvert son cadavre. Comme vous pouvez l'imaginer, cela justifie quelques questions ?"
 
 # game/chapter3.rpy:2870
 translate french c3fac_e8ad2f88:
 
     # Dm "You know what? I don't have to listen to this."
-    Dm ""
+    Dm "Vous savez quoi ? Je n'ai pas à écouter tout ça."
 
 # game/chapter3.rpy:2872
 translate french c3fac_0d643da0:
 
     # Dm "I don't know who you think you are, barging into my workplace and barking questions, but if you really are with the police, let them know that I won't say one more word on the matter without a lawyer."
-    Dm ""
+    Dm "Je ne sais pas qui vous pensez être, à débarquer sur mon lieu de travail et à aboyer des questions comme ça, mais si vous êtes vraiment de la police, faites-leur savoir que je ne dirai pas un seul mot de plus sur cette affaire sans un avocat."
 
 # game/chapter3.rpy:2880
 translate french c3fac_a2693ffe:
 
     # m "I wondered if Damion was a suspicious person in general, or if the rumors surrounding Reza were affecting his perception of me. Before this, everyone I had talked to during my investigations had been rather cooperative."
-    m ""
+    m "Je me demandais si Damion était une personne suspicieuse en général, ou si les rumeurs autour de Reza affectaient sa perception de moi. Avant cela, tous ceux à qui j'avais parlé durant mes investigations avaient été assez coopératifs."
 
 # game/chapter3.rpy:2905
 translate french c3fac_06016cb2:
 
     # An "Hey, [player_name]. I didn't even call you about the tests yet. To what do I owe the honor?"
-    An ""
+    An "Salut, [player_name]. Je ne t'ai même pas appelé à propos des tests encore. Que me vaut l'honneur ?"
 
 # game/chapter3.rpy:2907
 translate french c3fac_1bbcca06:
 
     # c "I have a few questions about the murder of your colleague."
-    c ""
+    c "J'ai quelques questions sur le meurtre de ton collègue."
 
 # game/chapter3.rpy:2909
 translate french c3fac_b8b1dbad:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b ""
+    An sad b "Vraiment ? Pourquoi viens-tu poser des questions comme ça ? Est-ce une affaire d'intérêt humain ?"
 
 # game/chapter3.rpy:2911
 translate french c3fac_f3b5df06:
 
     # c "Actually, yes. You could say so."
-    c ""
+    c "Au fait, oui, tu pourrais dire ça comme ça."
 
 # game/chapter3.rpy:2913
 translate french c3fac_e702a767:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b ""
+    An normal b "Intéressant. Qu’est-ce que j’y gagne ?"
 
 # game/chapter3.rpy:2915
 translate french c3fac_5b71bf41:
 
     # c "Hey, I already agreed to your tests. I'm not sure what else I could offer you. Besides, I'm working with the police, so your cooperation would be greatly appreciated."
-    c ""
+    c "Hé, j'ai déjà donné mon accord pour tes tests. Je ne suis pas sûr de ce que je pourrais t'offrir de plus. En plus, je travaille avec la police, alors ta coopération serait grandement appréciée."
 
 # game/chapter3.rpy:2917
 translate french c3fac_33a706b6:
 
     # An smirk b "Oh, you're working for our police? Now you really have my attention. I want to see where you're going with this, so by all means, go ahead."
-    An smirk b ""
+    An smirk b "Oh, tu travailles pour notre police ? Tu as toute mon attention maintenant. Je veux voir où tu veux en venir avec ça, alors vas-y."
 
 # game/chapter3.rpy:2926
 translate french c3fac_9d16df43:
 
     # An "Oh, it's you. I'm a little busy, so I'm not sure if I should take any visitors at the moment."
-    An ""
+    An "Oh, c'est toi. Je suis un peu occupée, alors je ne suis pas sûre si je devrais accepter des visiteurs pour le moment."
 
 # game/chapter3.rpy:2928
 translate french c3fac_1bbcca06_1:
 
     # c "I have a few questions about the murder of your colleague."
-    c ""
+    c "J'ai quelques questions sur le meurtre de ton collègue."
 
 # game/chapter3.rpy:2930
 translate french c3fac_b8b1dbad_1:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b ""
+    An sad b "Vraiment ? Pourquoi viens-tu poser des questions comme ça ? Est-ce une affaire d'intérêt humain ?"
 
 # game/chapter3.rpy:2932
 translate french c3fac_f3b5df06_1:
 
     # c "Actually, yes. You could say so."
-    c ""
+    c "Au fait, oui, tu pourrais dire ça comme ça."
 
 # game/chapter3.rpy:2934
 translate french c3fac_e702a767_1:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b ""
+    An normal b "Intéressant. Qu’est-ce que j’y gagne ?"
 
 # game/chapter3.rpy:2936
 translate french c3fac_5b71bf41_1:
 
     # c "Hey, I already agreed to your tests. I'm not sure what else I could offer you. Besides, I'm working with the police, so your cooperation would be greatly appreciated."
-    c ""
+    c "Hé, j'ai déjà donné mon accord pour tes tests. Je ne suis pas sûr de ce que je pourrais t'offrir de plus. En plus, je travaille avec la police, alors ta coopération serait grandement appréciée."
 
 # game/chapter3.rpy:2938
 translate french c3fac_33a706b6_1:
 
     # An smirk b "Oh, you're working for our police? Now you really have my attention. I want to see where you're going with this, so by all means, go ahead."
-    An smirk b ""
+    An smirk b "Oh, tu travailles pour notre police ? Tu as toute mon attention maintenant. Je veux voir où tu veux en venir avec ça, alors vas-y."
 
 # game/chapter3.rpy:2947
 translate french c3fac_dad3999c:
 
     # An "Oh, it's you. I'm not sure if I can take any visitors at the moment."
-    An ""
+    An "Oh, c'est toi. Je suis un peu occupée, alors je ne suis pas sûre si je devrais accepter des visiteurs pour le moment."
 
 # game/chapter3.rpy:2949
 translate french c3fac_1bbcca06_2:
 
     # c "I have a few questions about the murder of your colleague."
-    c ""
+    c "J'ai quelques questions sur le meurtre de ton collègue."
 
 # game/chapter3.rpy:2951
 translate french c3fac_99ccd528:
 
     # An face b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An face b ""
+    An face b "Vraiment ? Pourquoi viens-tu poser des questions comme ça ? Est-ce une affaire d'intérêt humain ?"
 
 # game/chapter3.rpy:2953
 translate french c3fac_f3b5df06_2:
 
     # c "Actually, yes. You could say so."
-    c ""
+    c "Au fait, oui, tu pourrais dire ça comme ça."
 
 # game/chapter3.rpy:2955
 translate french c3fac_e702a767_2:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b ""
+    An normal b "Intéressant. Qu’est-ce que j’y gagne ?"
 
 # game/chapter3.rpy:2957
 translate french c3fac_5b71bf41_2:
 
     # c "Hey, I already agreed to your tests. I'm not sure what else I could offer you. Besides, I'm working with the police, so your cooperation would be greatly appreciated."
-    c ""
+    c "Hé, j'ai déjà donné mon accord pour tes tests. Je ne suis pas sûr de ce que je pourrais t'offrir de plus. En plus, je travaille avec la police, alors ta coopération serait grandement appréciée."
 
 # game/chapter3.rpy:2959
 translate french c3fac_6c76df1a:
 
     # An "That all sounds very exciting, but as you know, I'm an extremely busy person. I don't have time for this. Excuse me."
-    An ""
+    An "Tout ceci m'a l'air très excitant, mais comme tu dois le savoir, je suis une personne extremement occupée. Je n'ai pas le temps pour ça. Excuse moi."
 
 # game/chapter3.rpy:2967
 translate french c3fac_571ba8de:
 
     # c "(Well, that didn't go as planned. Guess I won't have any luck here.)"
-    c ""
+    c "(Eh bien, ça ne s'est pas passé comme prévu. Je suppose que je ne trouverai rien ici.)"
 
 # game/chapter3.rpy:2984
 translate french c3fac_84152cd6:
 
     # An "Oh, the human has finally decided to grace me with its presence. I'm a little busy, so I'm not sure if I should take any visitors at the moment."
-    An ""
+    An "Oh, l'humain a enfin décidé de me faire grâce de sa présence. Je suis un peu occupée, alors je ne suis pas sûre si je devrais accepter des visiteurs pour le moment."
 
 # game/chapter3.rpy:2986
 translate french c3fac_9b75e60c:
 
     # c "Hello. I have a few questions about the murder of your colleague."
-    c ""
+    c "Bonjour. J'ai quelques questions sur le meurtre de ton collègue."
 
 # game/chapter3.rpy:2988
 translate french c3fac_b8b1dbad_2:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b ""
+    An sad b "Vraiment ? Pourquoi viens-tu poser des questions comme ça ? Est-ce une affaire d'intérêt humain ?"
 
 # game/chapter3.rpy:2990
 translate french c3fac_f3b5df06_3:
 
     # c "Actually, yes. You could say so."
-    c ""
+    c "Au fait, oui, tu pourrais dire ça comme ça."
 
 # game/chapter3.rpy:2992
 translate french c3fac_e702a767_3:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b ""
+    An normal b "Intéressant. Qu’est-ce que j’y gagne ?"
 
 # game/chapter3.rpy:2994
 translate french c3fac_ce11ee18:
 
     # c "I'm not sure I have anything to offer."
-    c ""
+    c "Je ne suis pas certain d'avoir quoi que ce soit à offrir."
 
 # game/chapter3.rpy:2996
 translate french c3fac_95383295:
 
     # An "Don't undersell yourself. How about you visit me some time? I have a genuine scientific interest in you."
-    An ""
+    An "Ne te dévalorise pas. Et si tu me rendais visite un jour ? J'ai un véritable intérêt scientifique en toi."
 
 # game/chapter3.rpy:3004
 translate french c3fac_ebbc42ad:
 
     # An face b "That's a shame."
-    An face b ""
+    An face b "Quel dommage."
 
 # game/chapter3.rpy:3006
 translate french c3fac_ea4fe7aa:
 
     # An normal b "You know, I should get back to work. I really am busy. Excuse me."
-    An normal b ""
+    An normal b "Tu sais, je devrais vraiment retourner au travail. Je suis très occupée. Excuse-moi."
 
 # game/chapter3.rpy:3014
 translate french c3fac_571ba8de_1:
 
     # c "(Well, that didn't go as planned. Guess I won't have any luck here.)"
-    c ""
+    c "(Eh bien, ça ne s'est pas passé comme prévu. Je suppose que je ne trouverai rien ici.)"
 
 # game/chapter3.rpy:3031
 translate french c3fac_60c31fae:
 
     # An "Oh, great. In that case, I could make time for a few of your questions."
-    An ""
+    An "Oh, super. Dans ce cas, je peux prendre un peu de mon temps pour quelques de tes questions."
 
 # game/chapter3.rpy:3038
 translate french c3fac_bf2993b6:
 
     # An "Oh, it's you. I can't take any visitors at the moment."
-    An ""
+    An "Oh, c'est toi. Je ne peux pas accepter de visiteurs pour le moment."
 
 # game/chapter3.rpy:3040
 translate french c3fac_1bbcca06_3:
 
     # c "I have a few questions about the murder of your colleague."
-    c ""
+    c "J'ai quelques questions sur le meurtre de ton collègue."
 
 # game/chapter3.rpy:3042
 translate french c3fac_b8b1dbad_3:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b ""
+    An sad b "Vraiment ? Pourquoi viens-tu poser des questions comme ça ? Est-ce une affaire d'intérêt humain ?"
 
 # game/chapter3.rpy:3044
 translate french c3fac_f3b5df06_4:
 
     # c "Actually, yes. You could say so."
-    c ""
+    c "Au fait, oui, tu pourrais dire ça comme ça."
 
 # game/chapter3.rpy:3046
 translate french c3fac_e702a767_4:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b ""
+    An normal b "Intéressant. Qu’est-ce que j’y gagne ?"
 
 # game/chapter3.rpy:3048
 translate french c3fac_5b71bf41_3:
 
     # c "Hey, I already agreed to your tests. I'm not sure what else I could offer you. Besides, I'm working with the police, so your cooperation would be greatly appreciated."
-    c ""
+    c "Hé, j'ai déjà donné mon accord pour tes tests. Je ne suis pas sûr de ce que je pourrais t'offrir de plus. En plus, je travaille avec la police, alors ta coopération serait grandement appréciée."
 
 # game/chapter3.rpy:3050
 translate french c3fac_3f746473:
 
     # An "Cooperation? What a peculiar word. Do you know what it means? It refers to people working together, and everyone making an effort."
-    An ""
+    An "Coopération ? Quel mot particulier. Tu sais ce qu'il veut dire ? Il fait référence à des personnes travaillant ensemble, tout le monde fournissant un effort."
 
 # game/chapter3.rpy:3052
 translate french c3fac_cf90c207:
 
     # An "Cooperation isn't associated with ignoring the person you owe something to, or neglecting to return her phone calls."
-    An ""
+    An "La coopération n'est pas ignorer une personne à laquelle tu dois quelque chose, ou oublier de retourner ses appels."
 
 # game/chapter3.rpy:3054
 translate french c3fac_17401384:
 
     # c "What? No, that has nothing to do with..."
-    c ""
+    c "Quoi ! Non, ça n'a rien à avoir avec..."
 
 # game/chapter3.rpy:3056
 translate french c3fac_aa32c4f9:
 
     # An "You know, I'd love to help you, but I'm a very busy person, so I don't really have time for this. Excuse me."
-    An ""
+    An "Tu sais, j'adorerais t'aider, mais je suis une personne très occupée, alors je n'ai pas vraiment le temps pour tout ça. Excuse-moi."
 
 # game/chapter3.rpy:3064
 translate french c3fac_571ba8de_2:
 
     # c "(Well, that didn't go as planned. Guess I won't have any luck here.)"
-    c ""
+    c "(Eh bien, ça ne s'est pas passé comme prévu. Je suppose que je ne trouverai rien ici.)"
 
 # game/chapter3.rpy:3086
 translate french c3facques_ac60fa94:
 
     # An "I saw him yesterday evening. There were some tests I needed to run overnight, so instead of staying late to set them up, I had Damion do it. That's what colleagues are for, right?"
-    An ""
+    An "Je l'ai vu hier soir. Il y avait quelques tests que je devais faire tourner pendant la nuit, alors au lieu de rester tard pour les lancer, j'ai demandé à Damion de le faire. C'est ce pour quoi les collègues existent, non ?"
 
 # game/chapter3.rpy:3098
 translate french c3facques_e49b4d93:
 
     # An sad b "I might've left early yesterday, but I made up for it by coming in early today, before anyone else. That's why I was the one to find him. I was on my way to my office when I saw him lying in the middle of the hallway, in a puddle of his own blood."
-    An sad b ""
+    An sad b "Je suis peut-être partie tôt hier, mais j'ai compensé au venant tôt aujourd'hui, avant qui que ce soit d'autre. C'est pourquoi c'est moi qui l'ai trouvé. J'étais en chemin vers mon bureau quand je l'ai vu allongé au milieu du couloir, dans une flaque de son propre sang."
 
 # game/chapter3.rpy:3112
 translate french c3facques_8912af36:
 
     # An sad b "We were colleagues, nothing more."
-    An sad b ""
+    An sad b "Nous étions collègues, rien de plus."
 
 # game/chapter3.rpy:3114
 translate french c3facques_7fe96996:
 
     # c "I heard that you didn't particularly like him."
-    c ""
+    c "J'ai entendu dire que tu ne l'aimais pas particulièrement."
 
 # game/chapter3.rpy:3116
 translate french c3facques_0f45b97e:
 
     # An normal b "Yeah, but that's not unusual. I don't like most people."
-    An normal b ""
+    An normal b "Oui, mais ce n'est pas inhabituel. Je n'aime pas la plupart des gens."
 
 # game/chapter3.rpy:3118
 translate french c3facques_3775328b:
 
     # An face b "He really didn't like me, though."
-    An face b ""
+    An face b "Il ne m'aimait vraiment pas, cependant."
 
 # game/chapter3.rpy:3120
 translate french c3facques_309e5307:
 
     # c "Why's that?"
-    c ""
+    c "Pourquoi ça ?"
 
 # game/chapter3.rpy:3122
 translate french c3facques_56fa061d:
 
     # An normal b "He was jealous of my success, and it showed."
-    An normal b ""
+    An normal b "Il était jaloux de mon succès, et cela se voyait."
 
 # game/chapter3.rpy:3134
 translate french c3facques_f4f91070:
 
     # An face b "People die every day. It's a simple fact of life. Besides, I don't see you crying about him, either."
-    An face b ""
+    An face b "Des gens meurent tous les jours. C'est un simple fait de la vie. De plus, je ne te vois pas pleurer sur son sort non plus."
 
 # game/chapter3.rpy:3136
 translate french c3facques_3172fbf9:
 
     # An normal b "I didn't know him that well, so it's not like someone I actually cared about died."
-    An normal b ""
+    An normal b "Je le connaissais pas tant que ça, ce n'est pas comme si quelqu'un a qui je tenais vraiment était mort."
 
 # game/chapter3.rpy:3138
 translate french c3facques_05946cc4:
 
     # An sad b "The world stops spinning for no one. Life goes on. And for me, that means being without an assistant for a while."
-    An sad b ""
+    An sad b "Le monde ne s'arrête pas de tourner pour qui que ce soit. La vie continue. Et pour moi, cela veut dire rester sans assistant pendant quelques temps."
 
 # game/chapter3.rpy:3152
 translate french c3facques_6892154e:
 
     # c "That will be all. Thank you, Anna."
-    c ""
+    c "Ça sera tout. Merci Anna."
 
 # game/chapter3.rpy:3154
 translate french c3facques_652b677c:
 
     # An "My pleasure."
-    An ""
+    An "Tout le plaisir est pour moi."
 
 # game/chapter3.rpy:3162
 translate french c3facques_8acf735a:
 
     # c "(Time to head back.)"
-    c ""
+    c "(Il est temps de rentrer.)"
 
 # game/chapter3.rpy:3184
 translate french _call_syscheck_17_766d2716:
 
     # s "You interrogated Anna!"
-    s ""
+    s "Vous avez interrogé Anna !"
 
 # game/chapter3.rpy:3188
 translate french _call_syscheck_17_3970eab7:
 
     # s "You interrogated Anna. Well done, [player_name]!"
-    s ""
+    s "Vous avez interrogé Anna. Bien joué, [player_name] !"
 
 # game/chapter3.rpy:3192
 translate french _call_syscheck_17_ba6016ea:
 
     # s "You interrogated Anna. Anna-lytical!"
-    s ""
+    s "Vous avez interrogé Anna. Anna-lytique !"
 
 # game/chapter3.rpy:3215
 translate french _call_syscheck_17_0928455e:
 
     # An face b "What? You didn't even ask me a single question."
-    An face b ""
+    An face b "Quoi ? Tu ne m'as même pas posé une seule question."
 
 # game/chapter3.rpy:3217
 translate french _call_syscheck_17_8f1e6efd:
 
     # An normal b "You know what, I don't have time for your games."
-    An normal b ""
+    An normal b "Tu sais quoi, je n'ai pas le temps pour tes petits jeux."
 
 # game/chapter3.rpy:3225
 translate french _call_syscheck_17_8acf735a:
 
     # c "(Time to head back.)"
-    c ""
+    c "(Il est temps de rentrer.)"
 
 # game/chapter3.rpy:3252
 translate french c3arc_422f5855:
 
     # m "I was on my way to the police station when a voice called out to me."
-    m ""
+    m "J'étais sur le chemin du commissariat quand une voix m'appela."
 
 # game/chapter3.rpy:3254
 translate french c3arc_ca96f7d9:
 
     # "???" "Hey, you!"
-    "???" ""
+    "???" "Hé, vous !"
 
 # game/chapter3.rpy:3256
 translate french c3arc_d0ee5fc9:
 
     # "???" "I'm talking to you, human."
-    "???" ""
+    "???" "Je parle à vous, humain."
 
 # game/chapter3.rpy:3268
 translate french c3arc_aa581abf:
 
     # c "Can I help you?"
-    c ""
+    c "Puis-je vous aider ?"
 
 # game/chapter3.rpy:3270
 translate french c3arc_91fa16a3:
 
     # "???" "I certainly hope so. I'm in a little conundrum here. My cart seems to be stuck."
-    "???" ""
+    "???" "Je l'espère certainement. J'ai un petit problème. Mon chariot semble être coincé."
 
 # game/chapter3.rpy:3272
 translate french c3arc_a6b27b25:
 
     # c "I can see that."
-    c ""
+    c "Je vois ça."
 
 # game/chapter3.rpy:3274
 translate french c3arc_408fc55a:
 
     # "???" "I'm Katsuharu, by the way. Local ice cream vendor."
-    "???" ""
+    "???" "Je m'appelle Katsuharu au fait. Vendeur de glaces local."
 
 # game/chapter3.rpy:3276
 translate french c3arc_f7f6269f:
 
     # c "[player_name]. You've probably heard of me by now."
-    c ""
+    c "[player_name]. Vous avez probablement déjà entendu parler de moi."
 
 # game/chapter3.rpy:3278
 translate french c3arc_0935c8d4:
 
     # Ka "Of course, of course."
-    Ka ""
+    Ka "Bien sûr, bien sûr."
 
 # game/chapter3.rpy:3280
 translate french c3arc_2e7539ab:
 
     # Ka exhausted dk "In any case, do you think you can spare some time to help me out? It might take a while, though, so I hope you're not in a rush."
-    Ka exhausted dk ""
+    Ka exhausted dk "Enfin bref, auriez-vous un peu de temps pour m'aider ? Ça pourrait prendre un certain temps par contre, j'espère que vous n'êtes pas pressé."
 
 # game/chapter3.rpy:3290
 translate french c3arc_05fbb388:
 
     # Ka smile dk "Thank you."
-    Ka smile dk ""
+    Ka smile dk "Merci."
 
 # game/chapter3.rpy:3292
 translate french c3arc_a18ff829:
 
     # Ka normal dk "Now, I already tried just pulling it out, but I think the axle is going to break if I try to do that again. It wasn't really in the best condition to begin with, honestly, and I heard a crack when I tried to pull it out earlier."
-    Ka normal dk ""
+    Ka normal dk "Alors, j'ai déjà essayé de simplement le tirer de là, mais je pense que l'essieu va casser si j'essaye encore. Il n'était déjà pas vraiment dans le meilleur des états pour commencer, honnêtement, et j'ai entendu un craquement quand j'ai essayé de le tirer tout à l'heure."
 
 # game/chapter3.rpy:3294
 translate french c3arc_7860fa8b:
 
     # c "So, what do you want me to do?"
-    c ""
+    c "Bien, que voulez-vous que je fasse alors ?"
 
 # game/chapter3.rpy:3296
 translate french c3arc_417b34b4:
 
     # Ka "The cart is pretty heavy, so I'll be the one lifting it and holding the wheel steady so the axle doesn't break. Once I give you the sign, you start pulling, and hopefully that'll do the trick."
-    Ka ""
+    Ka "Le chariot est assez lourd, alors c'est moi qui vais le soulever et maintenir les roues en place afin que l'essieu ne casse pas. Quand je vous donnerai le signal, vous commencez à tirer, et j'espère que ça suffira."
 
 # game/chapter3.rpy:3298
 translate french c3arc_86148265:
 
     # c "Alright."
-    c ""
+    c "Très bien."
 
 # game/chapter3.rpy:3300
 translate french c3arc_79e14f5e:
 
     # Ka "Here, grab the handles and wait for my signal."
-    Ka ""
+    Ka "Tenez, prenez les poignées et attendez mon signal."
 
 # game/chapter3.rpy:3304
 translate french c3arc_4cc8d78d:
 
     # m "By the time I had gotten into position, Katsuharu was already on the other side of the cart, getting dirty as he slowly lifted the affected corner of the cart out of the muddy hole."
-    m ""
+    m "Le temps de me mettre en position, Katsuharu était déjà de l'autre côté du chariot, mettant la pain à la pâte, alors qu'il soulevait lentement le coin du chariot concerné hors du trou rempli de boue."
 
 # game/chapter3.rpy:3308
 translate french c3arc_3ff15a35:
 
     # Ka "Hng!"
-    Ka ""
+    Ka "Gnnn..."
 
 # game/chapter3.rpy:3310
 translate french c3arc_f010a140:
 
     # c "Is that your sign? Should I start pulling now?"
-    c ""
+    c "Est-ce votre signal ? Devrais-je commencer à tirer ?"
 
 # game/chapter3.rpy:3312
 translate french c3arc_f09d6257:
 
     # Ka "Do it! Do it now!"
-    Ka ""
+    Ka "Allez-y ! Maintenant !"
 
 # game/chapter3.rpy:3314
 translate french c3arc_108d1fe9:
 
     # m "I started pulling, but the cart turned out to be much heavier than I expected and didn't move."
-    m ""
+    m "Quand je commençai à tirer, je me rendis compte que le chariot était bien plus lourd que ce à quoi je m'attendais, et celui-ci ne bougea pas d'un poil."
 
 # game/chapter3.rpy:3316
 translate french c3arc_eaa23d82:
 
     # Ka "What are you waiting for? Do it already!"
-    Ka ""
+    Ka "Qu'attendez-vous ? Tirez bon sang !"
 
 # game/chapter3.rpy:3318
 translate french c3arc_8b27a8fc:
 
     # m "I pulled harder, but the cart still refused to budge. I mustered all my strength before I pulled as hard as I possibly could."
-    m ""
+    m "Je tirai avec plus de force, mais le chariot refusait toujours de bouger. Je rassemblai toutes mes forces avant de tirer aussi fort que possible."
 
 # game/chapter3.rpy:3320
 translate french c3arc_50100913:
 
     # Ka "Yes! Do it!"
-    Ka ""
+    Ka "Oui ! Comme ça !"
 
 # game/chapter3.rpy:3324
 translate french c3arc_bf52e605:
 
     # m "Slowly, the cart started moving, and after a few seconds, it was freed from the perilous clutches of the muddy puddle."
-    m ""
+    m "Lentement, le chariot se mit à bouger, et quelques secondes plus tard, il fut libéré de la périeuse étreinte de la flaque de boue."
 
 # game/chapter3.rpy:3328
 translate french c3arc_b94979dc:
 
     # m "With a dull thud, the dragon set the cart down again before he flopped on the ground, exhausted."
-    m ""
+    m "Avec un bruit sourd, le dragon repose la chariot sur le sol avant de s'effondrer sur le sol, épuisé."
 
 # game/chapter3.rpy:3334
 translate french c3arc_83b7a7eb:
 
     # Ka "..."
-    Ka ""
+    Ka "..."
 
 # game/chapter3.rpy:3336
 translate french c3arc_f131d548:
 
     # c "Hey, we did it."
-    c ""
+    c "Hé, on a réussi."
 
 # game/chapter3.rpy:3338
 translate french c3arc_eb1989be:
 
     # Ka "Yeah, good job."
-    Ka ""
+    Ka "Oui, bon travail."
 
 # game/chapter3.rpy:3340
 translate french c3arc_d5b6ee96:
 
     # c "Do you want me to call you some help?"
-    c ""
+    c "Voulez-vous que je vous appelle de l'aide ?"
 
 # game/chapter3.rpy:3342
 translate french c3arc_34c05724:
 
     # Ka "No, just need some rest.{p=1.0}{nw}"
-    Ka ""
+    Ka "Non, j'ai juste besoin d'un peu de repos.{p=1.0}{nw}"
 
 # game/chapter3.rpy:3344
 translate french c3arc_bdae4a02:
 
     # Ka "No, just need some rest.{fast}.. and maybe some ice cream."
-    Ka ""
+    Ka "Non, j'ai juste besoin d'un peu de repos.{fast}.. et peut-être d'un peu de glace."
 
 # game/chapter3.rpy:3346
 translate french c3arc_fa709f30:
 
     # Ka "Yes, I'll have some ice cream, and I'll be better in no time."
-    Ka ""
+    Ka "Oui, je vais prendre un peu de glace, et j'irai mieux en un rien de temps."
 
 # game/chapter3.rpy:3348
 translate french c3arc_a051752a:
 
     # c "That must be some pretty good ice cream."
-    c ""
+    c "Vous devez avoir de très bonnes glaces."
 
 # game/chapter3.rpy:3350
 translate french c3arc_316de3e6:
 
     # Ka smile dk "Oh, you have no idea. You must have already heard people talking about my wonderful, unique ice cream experience."
-    Ka smile dk ""
+    Ka smile dk "Oh, vous n'avez pas idée. Vous devez déjà avoir entendu des gens parler des merveilleuses et uniques expériences en terme de glace que j'offre."
 
 # game/chapter3.rpy:3352
 translate french c3arc_e333c489:
 
     # c "Actually, not really."
-    c ""
+    c "En fait, pas vraiment."
 
 # game/chapter3.rpy:3354
 translate french c3arc_3cbd56aa:
 
     # Ka normal dk "Ah, where are my manners! I haven't even properly thanked you yet."
-    Ka normal dk ""
+    Ka normal dk "Ah, mais où sont mes bonnes manières ! Je ne vous ai même pas correctement remercié."
 
 # game/chapter3.rpy:3356
 translate french c3arc_5158491a:
 
     # c "It's no problem."
-    c ""
+    c "Ne vous en faites pas."
 
 # game/chapter3.rpy:3358
 translate french c3arc_fc2bce76:
 
     # Ka "No, I insist. I won't be indebted to you for helping me."
-    Ka ""
+    Ka "Non, j'insiste. Je ne veux pas avoir une dette envers vous pour m'avoir aider."
 
 # game/chapter3.rpy:3360
 translate french c3arc_718e644c:
 
     # c "...What are you planning?"
-    c ""
+    c "...Qu'avez-vous en tête ?"
 
 # game/chapter3.rpy:3362
 translate french c3arc_195c0004:
 
     # Ka smile dk "You are hereby invited to join me for ice cream. As an ambassador, you owe it yourself and humanity to try it."
-    Ka smile dk ""
+    Ka smile dk "Vous êtes officiellement invité à me rejoindre pour une glace. En tant qu'ambassadeur, vous vous devez à vous-même et à l'humanité d'en essayer une."
 
 # game/chapter3.rpy:3364
 translate french c3arc_06597fde:
 
     # c "Maybe I do."
-    c ""
+    c "Peut-être que oui."
 
 # game/chapter3.rpy:3366
 translate french c3arc_6999f3b6:
 
     # Ka normal dk "Well, I must get going for now. Here is my number - I'll get you that ice cream some other time."
-    Ka normal dk ""
+    Ka normal dk "Eh bien, je dois y aller pour l'instant. Voici mon numéro - Je vous aurai cette glace un autre jour."
 
 # game/chapter3.rpy:3368
 translate french c3arc_dd20ffbf:
 
     # c "Thanks."
-    c ""
+    c "Merci."
 
 # game/chapter3.rpy:3384
 translate french _call_syscheck_18_9a9b7e1b:
 
     # s "You helped Katsuharu!"
-    s ""
+    s "Vous avez aidé Katsuharu !"
 
 # game/chapter3.rpy:3388
 translate french _call_syscheck_18_239552f5:
 
     # s "You helped Katsuharu. How nice of you."
-    s ""
+    s "Vous avez aidé Katsuharu. C'est gentil de votre part."
 
 # game/chapter3.rpy:3392
 translate french _call_syscheck_18_801fb00a:
 
     # s "You helped Katsuharu. Don't forget about the police station, though."
-    s ""
+    s "Vous avez aidé Katsuharu. N'oubliez pas le commissariat cependant."
 
 # game/chapter3.rpy:3416
 translate french _call_syscheck_18_8b444df8:
 
     # Ka exhausted dk "Ah, that can't be helped, then."
-    Ka exhausted dk ""
+    Ka exhausted dk "Ah, on ne peut rien y faire."
 
 # game/chapter3.rpy:3418
 translate french _call_syscheck_18_bc30dece:
 
     # c "Sorry."
-    c ""
+    c "Désolé."
 
 # game/chapter3.rpy:3420
 translate french _call_syscheck_18_9f418b86:
 
     # Ka normal dk "Don't worry about it. There'll be someone else along soon, I'm sure."
-    Ka normal dk ""
+    Ka normal dk "Ne vous en faites pas. Il y aura bien quelqu'un d'autre bientôt, j'en suis sûr."
 
 # game/chapter3.rpy:3437
 translate french nohelp_13bc3018:
 
     # m "When I arrived at the station, I was met by the police archivist, a dragoness who introduced herself as Kalinth."
-    m ""
+    m "Quand j'arrivai au commissariat, je fus accueilli par l'archiviste de la police, une dragonne qui se présenta comme s'appelant Kalinth."
 
 # game/chapter3.rpy:3443
 translate french nohelp_fac7ad07:
 
     # Kl "You're in luck, [player_name]! Bryce compiled all the case files a while ago. Ever since you came to our world, he seems to be a lot more interested in these human mysteries. I wonder if it has something to do with you?"
-    Kl ""
+    Kl "Tu as en de la veine, [player_name] ! Bryce a compilé tous les fichiers de l'affaire il y a quelques temps. Depuis que tu es arrivé dans notre monde, il semble bien plus intéressé par ces mystères humains. Je me demande si cela a quelque chose à voir avec toi ?"
 
 # game/chapter3.rpy:3445
 translate french nohelp_39bb285d:
 
     # Kl "Anyway, you can find all the files here. I'll leave the rest to you."
-    Kl ""
+    Kl "Enfin bref, tu pourras trouver tous les fichiers ici. Je te laisse t'occuper du reste."
 
 # game/chapter3.rpy:3471
 translate french c3arcques_76b2fe88:
@@ -4859,25 +4859,25 @@ translate french c3arcques_76b2fe88:
 translate french c3arcques_6ae758d4:
 
     # n "The blueprint of the building caught my attention. Apparently, it had been found during their cursory investigation within the building itself."
-    n ""
+    n "Les plans du bâtiment attirèrent mon attention. Apparamment, ils avaient été découvert lors de leur rapide investigation initiale du batîment lui-même."
 
 # game/chapter3.rpy:3488
 translate french c3arcques_d5095d43:
 
     # n "At first glance, nothing about it stood out to me, but the more I studied it, the more the facts revealed themselves."
-    n ""
+    n "Au premier regard, rien de particulier ne me sauta aux yeux, mais plus je l’étudiais, plus les faits intéressants se révélaient d'eux-mêmes."
 
 # game/chapter3.rpy:3490
 translate french c3arcques_1a72e446:
 
     # n "Both of its entrances were freed and accessible by the people in charge. One was through a tunnel in the vicinity of the portal, and the other through a dig that cut through the town's sewer system."
-    n ""
+    n "Ses deux entrées ont été dégagées et rendues rendues accessibles aux personnes en charge. L'une par un tunnel a proximité du portail, et l'autre à travers une excavation coupant à travers les égoûts de la ville."
 
 # game/chapter3.rpy:3492
 translate french c3arcques_d8330db9:
 
     # n "Bryce had scrawled a note near the second entry. It simply said:\nAccess v. hatch\nbutton, button, counter-clockwise"
-    n ""
+    n "Bryce avait gribouillé une note sur la deuxième feuille. Elle disait simplement : \nTrappe d'accès\nbouton, bouton, sens inverse des aiguilles d'une montre"
 
 # game/chapter3.rpy:3494
 translate french c3arcques_0a55d19e:
@@ -4885,31 +4885,31 @@ translate french c3arcques_0a55d19e:
     # nvl clear
     # n "Furthermore, the data in the corner of the blueprint listed the structure as an \"independent living and research unit\" dated to the year 2047."
     nvl clear
-    n ""
+    n "De plus, les données dans le coin du plan qualifiaient la structure d'\"unité indépendante de vie et de recherche\" datée de l'an 2047."
 
 # game/chapter3.rpy:3498
 translate french c3arcques_1eb9ad24:
 
     # n "Most interestingly, I recognized the name of the company that was listed."
-    n ""
+    n "Le plus intéressant, et que j'avais reconnu le nom de la compagnie qui était citée."
 
 # game/chapter3.rpy:3500
 translate french c3arcques_29ccc6cf:
 
     # n "They were a well-established supercompany before our world's collapse, known for their advances in scientific fields and otherwise through the use of legal loopholes and grey markets."
-    n ""
+    n "Il s'agissait d'une supercompagnie bien connue avant l'effondrement de notre monde, connue pour leurs avancées dans divers domaines scientifiques, et à côté de ça, par leurs utilisations des lacunes juridiques et des marchés gris."
 
 # game/chapter3.rpy:3502
 translate french c3arcques_da2e32b7:
 
     # n "They were very successful at what they did. Their facilities subverted laws and ethical issues by being in areas where such concerns were non-existent, or could be made non-existent by paying off the right individuals."
-    n ""
+    n "Ils étaient très bons à ce qu'ils faisaient. Leurs complexes subvertissaient les lois et les problèmes d'éthique en s'installant dans des endroits où de tels considérations étaient inexistantes, ou pouvaient le devenir, en donnant des pots-de-vin aux bonnes personnes."
 
 # game/chapter3.rpy:3504
 translate french c3arcques_847598b9:
 
     # n "Naturally, the products and applications of their research was usually fair game to be used and sold worldwide."
-    n ""
+    n "Naturellement, les produits et applications de leurs recherches étaient en général bons à être utilisés et vendus dans le monde entier."
 
 # game/chapter3.rpy:3506
 translate french c3arcques_7c9f9a1e:
@@ -4917,25 +4917,25 @@ translate french c3arcques_7c9f9a1e:
     # nvl clear
     # n "They were only one of the companies involved in championing the teleportation technology that was about to take off on a grand scale before the solar flare changed everything."
     nvl clear
-    n ""
+    n "Ils n'étaient que l'une de nombreuses compagnies impliquées dans la mise au point de la technologie de téléportation qui s'apprêtait à révolutionner le monde avant que la tempête solaire ne change tout."
 
 # game/chapter3.rpy:3510
 translate french c3arcques_ae4bc12d:
 
     # n "Of course, there were public worries regarding the untested, long-term consequences of utilizing black holes in such technology. It was outlawed in certain countries due to these concerns, but lobbies and the private sector drove many of them to accept the tech, in light of the boundless advantages offered."
-    n ""
+    n "Bien sûr, il y avait des inquiètudes du public en regard des conséquences à long terme non testées de l'utilisation de trous noirs par une telle technologie. Elle fut rendue illégale dans certains pays en raison de ces inquiétudes, mais les lobbies et le secteur privé en conduisèrent plus d'un à accepter la technologie, à la lumière des avantages infinis qu'elle offrait."
 
 # game/chapter3.rpy:3512
 translate french c3arcques_984e1be8:
 
     # n "They were also big in medical, security, and weaponry fields. Their vast knowledge and close cooperation of their individual departments enabled them to make many breakthroughs."
-    n ""
+    n "Ils étaient également importants dans les domaine médical, de la sécurité et des armements. Leur vaste connaissance et la coopération étroite entre leurs différents départements leur permirent de faire de nombreuses percées."
 
 # game/chapter3.rpy:3514
 translate french c3arcques_e9153ccb:
 
     # n "It seemed like they could do anything they set out to do."
-    n ""
+    n "Ils semblaient pouvoir réussir tout ce dans quoi ils se lançaient."
 
 # game/chapter3.rpy:3516
 translate french c3arcques_e4c09984:
@@ -4943,25 +4943,25 @@ translate french c3arcques_e4c09984:
     # nvl clear
     # n "The nanomachines that became commonplace before the fall were, of course, also their product."
     nvl clear
-    n ""
+    n "Les nanomachines qui étaient devenues marché courant avant la chute étaient, bien sûr, également leurs produits."
 
 # game/chapter3.rpy:3520
 translate french c3arcques_87bfce99:
 
     # n "No one was surprised that the tech failed under the radiation of the ion storm. Had the company behind it been more concerned about safety rather than profits, perhaps fewer lives would have been lost."
-    n ""
+    n "Personne ne fut surpris que leurs technologies défaillèrent sous les radiations du l'orage ionique. Si la compagnie derrière celles-ci s'étaient préoccupées plus de la sécurité que des profits, peut-être que moins de vies auraient été perdues."
 
 # game/chapter3.rpy:3522
 translate french c3arcques_9147cfd5:
 
     # n "Even though they weren't perfect, nanomachines had still increased the quality of life for many people."
-    n ""
+    n "Même si elles n'étaient pas parfaites, les nanomachines avaient tout de même augmenté la qualité de vie de nombreuses personnes."
 
 # game/chapter3.rpy:3524
 translate french c3arcques_4f27a80f:
 
     # n "It was a new way of treating medical conditions, some of which had been previously untreatable. They were also widely used for their performance-enhancing properties, for both day-to-day activities and to assist with dangerous jobs."
-    n ""
+    n "Elles étaient de nouveaux moyens de traiter les maladies, certaines qui étaient intraitables par le passé. Elles étaient également largement utilisées pour leurs propriétés d'amélioration des performances, à la fois pour les activités du quotidien, et pour aider dans les travaux dangereux."
 
 # game/chapter3.rpy:3526
 translate french c3arcques_cfff9d72:
@@ -4969,37 +4969,37 @@ translate french c3arcques_cfff9d72:
     # nvl clear
     # n "Beyond that, the company had even branched into genetic engineering."
     nvl clear
-    n ""
+    n "Au delà de tout ça, la compagnie s'était même lancée dans le génie génétique."
 
 # game/chapter3.rpy:3530
 translate french c3arcques_fd582abe:
 
     # n "Human hereditary diseases were becoming a thing of the past, as they developed techniques to alter human life to its core."
-    n ""
+    n "Les maladies héréditaires humaines étaient en train de devenir une chose du passé, alors qu'ils développaient des techniques pour altérer la vie humaine en son coeur même."
 
 # game/chapter3.rpy:3532
 translate french c3arcques_3623e085:
 
     # n "Ultimately, they had a hand in influencing every area of life on a global scale. It was unknown who was truly calling the shots, as their network of companies and names was vast."
-    n ""
+    n "En définitive, ils influençaient tous les domaines de la vie, à une échelle mondiale. On ne savait pas qui était réellement en charge, puisque leur réseau de compagnies et de noms était vaste."
 
 # game/chapter3.rpy:3534
 translate french c3arcques_c4ee8218:
 
     # n "It was only one of their many ways to ensure their continued existence and avoid liability."
-    n ""
+    n "C'était l'une de leurs nombreuses combines pour assurer la continuité de leur existence et éviter toute responsabilité."
 
 # game/chapter3.rpy:3536
 translate french c3arcques_b9e83a90:
 
     # n "Where they had been outlawed or their operations shut down, new companies with suspiciously similar products appeared practically overnight."
-    n ""
+    n "Aux endroits où leurs activités avaient été rendues illégales ou leurs opérations stoppées, de nouvelles compagnies proposant des produits suspicieusement similaires apparaissaient presque du jour au lendemain."
 
 # game/chapter3.rpy:3542
 translate french c3arcques_cef0f969:
 
     # n "However, no matter how big their empire was and how well they skirted the lines, they ultimately collapsed just like the rest of the world."
-    n ""
+    n "Mais au final, la taille de leur empire et leurs capacités à esquiver la loi ne les sauvèrent pas, et ils s'effondrèrent comme le reste du monde."
 
 # game/chapter3.rpy:3544
 translate french c3arcques_fbc34957:
@@ -5007,7 +5007,7 @@ translate french c3arcques_fbc34957:
     # nvl clear
     # n "That being said, how did this building make its way into the dragons' world?"
     nvl clear
-    n ""
+    n "Ceci dit, comment ce bâtiment avait-il fini dans le monde des dragons ?"
 
 # game/chapter3.rpy:3558
 translate french _call_syscheck_19_76b2fe88:
@@ -5019,31 +5019,31 @@ translate french _call_syscheck_19_76b2fe88:
 translate french c3arcques_c9172a02:
 
     # m "As I pondered this, Adine's request came to mind. I used Bryce's machine to make a copy of the map for her. Bryce probably wouldn't approve of me giving evidence to civilians, but I was sure he would never even realize it."
-    m ""
+    m "Alors que je me posais cette question, la requête d'Adine me vint à l'esprit. J'utilisai la photocopieuse de Bryce pour faire une copie de la carte pour elle. Bryce n'approuverait sans doute pas que je donne des éléments de l'enquête à des civils, mais j'étais certain qu'il ne s'en rendrait jamais compte."
 
 # game/chapter3.rpy:3600
 translate french _call_syscheck_19_8e7d13e4:
 
     # s "You acquired a map! {image=image/ui/status/havemap.png}"
-    s ""
+    s "Vous avez acquis une carte ! {image=image/ui/status/havemap.png}"
 
 # game/chapter3.rpy:3604
 translate french _call_syscheck_19_a5b9db2d:
 
     # s "You acquired a map. For now. {image=image/ui/status/havemap.png}"
-    s ""
+    s "Vous avez acquis une carte. Pour l'instant. {image=image/ui/status/havemap.png}"
 
 # game/chapter3.rpy:3608
 translate french _call_syscheck_19_6a9e6526:
 
     # s "You acquired a map. Actually, it's a blueprint. {image=image/ui/status/havemap.png}"
-    s ""
+    s "Vous avez acquis une carte ! En fait, c'est un plan. {image=image/ui/status/havemap.png}"
 
 # game/chapter3.rpy:3614
 translate french _call_syscheck_19_08afdaf7:
 
     # m "As I pondered this, Adine's request came to mind. I reached into my pocket and realized I still had a copy of the map that I had made some time ago. I would have to remember to give her it next time."
-    m ""
+    m "Alors que je me posais cette question, la requête d'Adine me vint à l'esprit. Je fouillai dans mes poches et réalisai que j'avais toujours une copie de la carte que j'avais faite il y a quelque temps. Il faudrait me souvenir de la lui donner la prochaine fois."
 
 # game/chapter3.rpy:3633
 translate french _call_syscheck_19_76b2fe88_1:
@@ -6371,63 +6371,63 @@ translate french strings:
 
     # chapter3.rpy:2461
     old "Stay inside and call the police."
-    new ""
+    new "Rester à l'intérieur et appeler la police."
 
     # chapter3.rpy:2461
     old "Go to the portal."
-    new ""
+    new "Aller au portail."
 
     # chapter3.rpy:2479
     old "Wait it out."
-    new ""
+    new "Attendre que les choses passent."
 
     # chapter3.rpy:2641
     old "I've just been busy lately."
-    new ""
+    new "J'ai simplement était occupé ces derniers temps."
 
     # chapter3.rpy:2641
     old "Actually, I'm not sure if I can do that anymore."
-    new ""
+    new "Au fait, je ne suis plus si sûr de pouvoir faire ça."
 
     # chapter3.rpy:3082
     old "What happened the last time you saw him alive?"
-    new ""
+    new "Que s'est-il passé la dernière fois que tu l'as vu vivant ?"
 
     # chapter3.rpy:3082
     old "Can you tell me what happened when you found him?"
-    new ""
+    new "Peux-tu me dire ce qu'il s'est passé quand tu l'as trouvé ?"
 
     # chapter3.rpy:3082
     old "What was your relationship to him?"
-    new ""
+    new "Comment était ta relation avec lui ?"
 
     # chapter3.rpy:3082
     old "You seem very calm for someone whose colleague was just murdered."
-    new ""
+    new "Tu sembles très calme pour une personne dont le collègue vient juste d'être tué."
 
     # chapter3.rpy:3282
     old "Sure, I'll help you."
-    new ""
+    new "Bien sûr, je vais vous aider."
 
     # chapter3.rpy:3282
     old "Actually, I'm kinda busy right now."
-    new ""
+    new "Au fait, je suis plutôt occupé en ce moment."
 
     # chapter3.rpy:3465
     old "Study the blueprint of the underground building near the portal."
-    new ""
+    new "Étudier les plans du bâtiment souterrain près du portail."
 
     # chapter3.rpy:3465
     old "Read the structural damage report of the underground building near the portal."
-    new ""
+    new "Lire le rapport sur les dommages structurels du bâtiment souterrain près du portail."
 
     # chapter3.rpy:3465
     old "Play a prank."
-    new ""
+    new "Faire une blague."
 
     # chapter3.rpy:3465
     old "Rummage through the trash."
-    new ""
+    new "Fouiller dans la poubelle."
 
     # chapter3.rpy:3932
     old "Follow Vara."
