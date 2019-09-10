@@ -622,145 +622,145 @@ translate frenchtl remy2menu2_267e69fa:
 translate frenchtl remy2menu2_aea5dc24:
 
     # Ry "I do. Honestly, you are the first person to visit in a while."
-    Ry ""
+    Ry "En effet. Pour être honnête, tu es la première personne à me rendre visite depuis un moment."
 
 # game/remy2.rpy:617
 translate frenchtl remy2menu2_7d06a148:
 
     # m "He spoke softly, and his gaze wandered."
-    m ""
+    m "Il parlait doucement, et son regard se perdait dans le vague."
 
 # game/remy2.rpy:630
 translate frenchtl remy2picturesmenu_3f5cbf77:
 
     # c "Really? I saw those pictures on the coffee table. I thought you might have a family."
-    c ""
+    c "Vraiment ? J'ai vu les photos sur la table basse. Je pensais que tu avais une famille."
 
 # game/remy2.rpy:632
 translate frenchtl remy2picturesmenu_acf86f87:
 
     # Ry "Oh, no. That's in the past. I'm not even sure why those photos are still there."
-    Ry ""
+    Ry "Oh, non. C'est du passé. Je ne sais même pas pourquoi ces photos sont encore là."
 
 # game/remy2.rpy:634
 translate frenchtl remy2picturesmenu_91af8be1:
 
     # Ry "And I don't actually have children. The picture of the young dragon was the product of a silly little program that combined photos. They'd take images of two people and create what the pair's offspring would supposedly look like."
-    Ry ""
+    Ry "Et je n'ai pas vraiment d'enfants. La photo du jeune dragon n'était que le produit d'un petit programme qui combinait les photos. Ils prennent les images de deux personnes et génère ce à quoi l'enfant du couple devrait ressembler."
 
 # game/remy2.rpy:636
 translate frenchtl remy2picturesmenu_2c62843a:
 
     # Ry "I've always wanted some children of my own, though."
-    Ry ""
+    Ry "J'ai toujours voulu avoir des enfants à moi, en fait."
 
 # game/remy2.rpy:638
 translate frenchtl remy2picturesmenu_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/remy2.rpy:640
 translate frenchtl remy2picturesmenu_ba7a12bb:
 
     # Ry "How about you, [player_name]? Would you like to have children one day?"
-    Ry ""
+    Ry "Et toi, [player_name] ? Aimerais tu avoir des enfants un jour ?"
 
 # game/remy2.rpy:648
 translate frenchtl remy2picturesmenu_f8e1a321:
 
     # c "I think I would."
-    c ""
+    c "Je pense que j'aimerais, oui."
 
 # game/remy2.rpy:650
 translate frenchtl remy2picturesmenu_76d73ff0:
 
     # Ry "Just being able to teach them about the world and watch them grow up... Having a little family would be nice. I'd like that a lot."
-    Ry ""
+    Ry "Juste pour avoir la possibilité de leur apprendre des choses sur le monde et les regarder grandir... Avoir une petite famille serait sympa. J'aimerais beaucoup ça."
 
 # game/remy2.rpy:658
 translate frenchtl remy2picturesmenu_caf7f73a:
 
     # c "I don't think that's something for me."
-    c ""
+    c "Je ne pense pas que ce soit quelque chose pour moi."
 
 # game/remy2.rpy:660
 translate frenchtl remy2picturesmenu_3f652a6a:
 
     # Ry "There's nothing wrong with that. It's not for everyone. It must require a lot of hard work."
-    Ry ""
+    Ry "Il n'y a rien de mal à cela. Ce n'est pas pour tout le monde. Cela requiert beaucoup d'investissement."
 
 # game/remy2.rpy:668
 translate frenchtl remy2picturesmenu_91749aca:
 
     # c "I'm not sure."
-    c ""
+    c "Je n'en sais rien."
 
 # game/remy2.rpy:670
 translate frenchtl remy2picturesmenu_f619ee3e:
 
     # Ry "Why is that?"
-    Ry ""
+    Ry "Pourquoi donc ?"
 
 # game/remy2.rpy:672
 translate frenchtl remy2picturesmenu_4d969e64:
 
     # c "I just don't know if it's good time to bring a child into the world. I guess I'm not sure if I could be a good parent."
-    c ""
+    c "Je ne sais juste pas si c'est le bon moment pour mettre un enfant au monde. Je ne sais pas si je ferais un bon parent."
 
 # game/remy2.rpy:674
 translate frenchtl remy2picturesmenu_0970ecb3:
 
     # Ry "You should give yourself some credit. I often see parents that don't seem to be as aware about the whole situation as you are and as a result have children they don't properly care for. Being conscious about it already makes you a better parent than them."
-    Ry ""
+    Ry "Tu devrais t'accorder un peu de crédit. Je vois souvent des parents qui n'ont pas l'air aussi conscient de la situation que tu ne l'es et en conséquence ont des enfants dont ils ne s'occupent pas correctement. Etre conscient de ça fait déjà de toi un meilleur parent qu'eux."
 
 # game/remy2.rpy:686
 translate frenchtl remy2picturesmenu_0075c504:
 
     # c "Oh, I see. Thank you again for inviting me."
-    c ""
+    c "Oh je vois. Encore merci pour l'invitation."
 
 # game/remy2.rpy:698
 translate frenchtl remy2picturesmenu_d1669bb2:
 
     # Ry "Oh, what a terrible thing. People can be so cruel sometimes."
-    Ry ""
+    Ry "Oh, quelle horreur. Les gens peuvent être cruels parfois."
 
 # game/remy2.rpy:700
 translate frenchtl remy2picturesmenu_9a6d275a:
 
     # c "They can be. Where I come from, incidences like this are unfortunately fairly common."
-    c ""
+    c "En effet. De là où je viens, des incidents comme ceux là sont assez communs."
 
 # game/remy2.rpy:702
 translate frenchtl remy2picturesmenu_5b23810d:
 
     # Ry "Truly? Here, it is almost unnheard of. One just needs to take a look at the statistics to realize that this is very unusual. Or just an exceptionally bad week.."
-    Ry ""
+    Ry "Vraiment ? Ici, on en entend très peu parler. On a juste besoin de jeter un œil aux statistiques pour réaliser que c'est assez inhabituel. Ou juste une mauvaise semaine, aussi exceptionnelle soit elle..."
 
 # game/remy2.rpy:711
 translate frenchtl remy2picturesmenu_f7ac673c:
 
     # Ry "You met my boss?"
-    Ry ""
+    Ry "Tu as rencontré ma patronne"
 
 # game/remy2.rpy:713
 translate frenchtl remy2picturesmenu_ba6fa663:
 
     # c "She was hanging around Tatsu Park."
-    c ""
+    c "Elle se reposait aux alentours de Tatsu Park."
 
 # game/remy2.rpy:715
 translate frenchtl remy2picturesmenu_41b1776b:
 
     # Ry "She certainly does that a lot."
-    Ry ""
+    Ry "Elle fait beaucoup ça."
 
 # game/remy2.rpy:717
 translate frenchtl remy2picturesmenu_2ddd56b8:
 
     # Ry "Let me give you one piece of advice: Don't ever work for a politician."
-    Ry ""
+    Ry "Laisse moi te donner un conseil : Ne travaille jamais pour un politicien."
 
 # game/remy2.rpy:726
 translate frenchtl remy2picturesmenu_521a4ad1:
