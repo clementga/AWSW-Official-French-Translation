@@ -766,127 +766,127 @@ translate frenchtl remy2picturesmenu_2ddd56b8:
 translate frenchtl remy2picturesmenu_521a4ad1:
 
     # c "Why did you use a stove to cook? I mean, can't you just use your fire?"
-    c ""
+    c "Pourquoi as tu utilisé la plaque de cuisson pour cuisiner ? Je veux dire, tu ne pouvais pas juste utiliser tes flammes."
 
 # game/remy2.rpy:728
 translate frenchtl remy2picturesmenu_ebeb16d8:
 
     # Ry "Well, for one, not all of us have that ability. Besides, we still appreciate the convenience that comes with appliances like this one, and not everyone wants to eat food cooked with someone else's breath."
-    Ry ""
+    Ry "Eh bien, d'une, nous n'avons pas tous cette capacité. De plus, nous apprécions le confort d'utilisation qui vient avec des appareils comme celui ci, et tout le monde n'a pas envie de manger de la nourriture préparée avec le souffle d'un autre."
 
 # game/remy2.rpy:730
 translate frenchtl remy2picturesmenu_729ab183:
 
     # Ry "Breathing fire indoors is also a little unsafe."
-    Ry ""
+    Ry "Cracher du feu en interieur n'est également pas très "
 
 # game/remy2.rpy:732
 translate frenchtl remy2picturesmenu_63b77305:
 
     # c "I see. That makes a lot of sense."
-    c ""
+    c "Je vois. C'est tout à fait logique."
 
 # game/remy2.rpy:759
 translate frenchtl _call_skiptut_35_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/remy2.rpy:767
 translate frenchtl _call_skiptut_35_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/remy2.rpy:775
 translate frenchtl _call_skiptut_35_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène."
 
 # game/remy2.rpy:790
 translate frenchtl _call_skiptut_35_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy2.rpy:811
 translate frenchtl _call_skipcheck_35_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy2.rpy:816
 translate frenchtl _call_skipcheck_35_460234fb:
 
     # Ry "Anyways, how do you like the food?"
-    Ry ""
+    Ry "Enfin bref, Comment est ton repas ?"
 
 # game/remy2.rpy:822
 translate frenchtl _call_skipcheck_35_a466ba32:
 
     # c "It is adequately providing sustenance for my body. My hunger is lessening."
-    c ""
+    c "Ca me rassasie bien. Ma faim diminue."
 
 # game/remy2.rpy:824
 translate frenchtl _call_skipcheck_35_3562e2a8:
 
     # Ry "I suppose that is a compliment. After all, that is what dinner is for."
-    Ry ""
+    Ry "Je vais prendre ça comme un compliment. Après tout, c'est à ça que sert un dinner."
 
 # game/remy2.rpy:831
 translate frenchtl _call_skipcheck_35_e3fd2895:
 
     # Ry smile "Thank you. I suppose you learn to cook well when you live on your own long enough."
-    Ry smile ""
+    Ry smile "Merci. Je suppose que tu apprends à cuisiner quand tu vis tout seul assez longtemps."
 
 # game/remy2.rpy:840
 translate frenchtl _call_skipcheck_35_2d95a250:
 
     # Ry "Seeing how it is already half gone, I don't think this marriage would last particularly long."
-    Ry ""
+    Ry "Vu comment la moitié s'en est allé, je ne pense pas que ce marriage aurait duré très longtemps."
 
 # game/remy2.rpy:849
 translate frenchtl _call_skipcheck_35_12774df9:
 
     # c "By the way, I noticed you went to see Anna the other day. What was that all about?"
-    c ""
+    c "Au passage, j'ai remarqué que tu avais rendu visite à Anna l'autre jour. De quoi parliez vous ?"
 
 # game/remy2.rpy:851
 translate frenchtl _call_skipcheck_35_7a957299:
 
     # Ry look "How do you know about that?"
-    Ry look ""
+    Ry look "Comment es tu au courant de ça ?"
 
 # game/remy2.rpy:853
 translate frenchtl _call_skipcheck_35_63c8b6b5:
 
     # c "I saw you two together a little before you left the building."
-    c ""
+    c "Je vous ai vu tout les deux peu de temps avant que tu ne quittes l'immeuble."
 
 # game/remy2.rpy:855
 translate frenchtl _call_skipcheck_35_602bd3b3:
 
     # Ry normal "That's kind of a long story. Why were you at the facility in the first place?"
-    Ry normal ""
+    Ry normal "C'est une longue histoire. Pourquoi étais tu au pôle recherche dans un premier temps ?"
 
 # game/remy2.rpy:857
 translate frenchtl _call_skipcheck_35_1415258e:
 
     # c "She said I could come by. Apparently, she wants to run some tests on me."
-    c ""
+    c "Elle m'a dit que je pouvais repasser. Apparement, elle a l'intention d'effectuer des tests sur moi."
 
 # game/remy2.rpy:859
 translate frenchtl _call_skipcheck_35_59ec6eec:
 
     # Ry look "Oh, that is so typical of her."
-    Ry look ""
+    Ry look "Oh, ça lui ressemble tellement."
 
 # game/remy2.rpy:861
 translate frenchtl _call_skipcheck_35_29174a7d:
 
     # Ry "Let me tell you something: That woman is trouble. Big trouble."
-    Ry ""
+    Ry "Que je te dise un truc : Cette femme n'attire que les problèmes. Des gros problèmes."
 
 # game/remy2.rpy:863
 translate frenchtl _call_skipcheck_35_48460487:
