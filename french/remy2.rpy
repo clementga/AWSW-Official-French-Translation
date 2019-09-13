@@ -892,109 +892,109 @@ translate frenchtl _call_skipcheck_35_29174a7d:
 translate frenchtl _call_skipcheck_35_48460487:
 
     # Ry "A few years ago, she was discovered performing unapproved - and therefore illegal - experiments."
-    Ry ""
+    Ry "Il y a quelques années, on l'a découvert en train de réaliser des expériences non-approuvées - et donc illégales."
 
 # game/remy2.rpy:865
 translate frenchtl _call_skipcheck_35_f07ef459:
 
     # Ry "She had been running them for a while under the assumption that she would be allowed to, but in the end, our council's ethics committee made the decision against her."
-    Ry ""
+    Ry "Elle les a réalisées pendant un moment en supposant qu'elle en obtiendrait l'autorisation, mais au final, le comité d'éthique de notre conseil a pris une décision allant à son encontre."
 
 # game/remy2.rpy:867
 translate frenchtl _call_skipcheck_35_134ad774:
 
     # Ry "Anna's defense was that she did it for the \"greater good\" and that she was confident that her experiments would be approved eventually."
-    Ry ""
+    Ry "la défense d'Anna était qu'elle faisait ça pour le \"bien commun\" et qu'elle avait confiance que ses expériences seraient éventuellement approuvées."
 
 # game/remy2.rpy:869
 translate frenchtl _call_skipcheck_35_9547853c:
 
     # Ry "She lambasted us for not allowing her research and said our decision was short-sighted and stifling innovation."
-    Ry ""
+    Ry "Elle nous a fustigé de ne pas avoir autorisé ses recherches et nous a dit que notre décision reflétait notre vision à court terme et était un frein à l'innovation."
 
 # game/remy2.rpy:871
 translate frenchtl _call_skipcheck_35_d7291213:
 
     # Ry "In the end, no proof of any actual wrongdoing could be found, so she basically got off scot-free."
-    Ry ""
+    Ry "Au final, aucune preuve pouvant l'incriminer n'a été découverte, donc elle s'en est tirée à bon compte."
 
 # game/remy2.rpy:873
 translate frenchtl _call_skipcheck_35_48fb7180:
 
     # Ry normal "Since then, she's remained under the radar. Until now. There are rumors going around about Anna."
-    Ry normal ""
+    Ry normal "Depuis lors, elle est restée sous suveillance. jusqu'à maintenant. Il y a des rumeurs qui circulent à propos d'Anna."
 
 # game/remy2.rpy:875
 translate frenchtl _call_skipcheck_35_4985f15b:
 
     # Ry look "Surprise, surprise. Her latest application involves human DNA."
-    Ry look ""
+    Ry look "Surprise, surprise. Son dernier projet de recherche impliquait de l'ADN humain."
 
 # game/remy2.rpy:877
 translate frenchtl _call_skipcheck_35_362fa370:
 
     # Ry "Her casual disregard for rules of any kind should tell you what kind of person she is."
-    Ry ""
+    Ry "Mon manque de considération pour le règlement quel qu'il soit devrait te dire quel genre de personne elle est."
 
 # game/remy2.rpy:879
 translate frenchtl _call_skipcheck_35_7d549f75:
 
     # Ry "She does have a brilliant mind, you know, but the way she uses it..."
-    Ry ""
+    Ry "Tu sais, elle a un esprit brillant, mais la manière dont elle l'utilise..."
 
 # game/remy2.rpy:881
 translate frenchtl _call_skipcheck_35_01b3bd97:
 
     # Ry sad "She's... manipulative, arrogant, abusive."
-    Ry sad ""
+    Ry sad "Elle est... manipulatrice, arrogante, abusive."
 
 # game/remy2.rpy:883
 translate frenchtl _call_skipcheck_35_40f6a51d:
 
     # Ry look "I don't think you should trust her."
-    Ry look ""
+    Ry look "Je crois que tu ne devrais pas lui faire confiance."
 
 # game/remy2.rpy:889
 translate frenchtl _call_skipcheck_35_3290ee16:
 
     # Ry "You don't know her. Nor should you bother getting to know her."
-    Ry ""
+    Ry "Tu ne la connais pas. Ou du moins tu ne devraiss pas chercher à la connaître."
 
 # game/remy2.rpy:891
 translate frenchtl _call_skipcheck_35_5119362e:
 
     # c "How much do you really know about Anna? Is it your job to go knocking on people's doors, just because you heard some rumors?"
-    c ""
+    c "Qu'est-ce que tu connais vraiment d'Anna ? Est-ce ton boulot d'aller frapper à la porte des gens, juste parce que tu as entendu des rumeurs ?"
 
 # game/remy2.rpy:893
 translate frenchtl _call_skipcheck_35_34d58a86:
 
     # Ry shy "I was just trying to help."
-    Ry shy ""
+    Ry shy "Je voulais juste aider."
 
 # game/remy2.rpy:895
 translate frenchtl _call_skipcheck_35_cdd10a76:
 
     # c "Really? It sounds like all you did was harass her. Without proof of any actual wrongdoing, that's not a particularly good idea."
-    c ""
+    c "Vraiment ? Tout ça m'avait plutôt l'air de toi qui la harcelais. Sans la preuve concrète d'une bavure, ce qui n'est pas vraiment une bonne idée."
 
 # game/remy2.rpy:897
 translate frenchtl _call_skipcheck_35_f22c8b94:
 
     # Ry "Well, I..."
-    Ry ""
+    Ry "Eh bien je..."
 
 # game/remy2.rpy:899
 translate frenchtl _call_skipcheck_35_19f992d0:
 
     # Ry "Well, if that's what you think, then I just hope you'll at least be careful around her."
-    Ry ""
+    Ry "Eh bien si c'est ce que tu penses, alors j'espère au moins que tu feras attention avec elle."
 
 # game/remy2.rpy:907
 translate frenchtl _call_skipcheck_35_d13b4295:
 
     # c "I agree. Something seems off about her."
-    c ""
+    c "Je suis d'accord. Il y a un truc de pas net avec elle."
 
 # game/remy2.rpy:924
 translate frenchtl _call_skipcheck_35_b5f06d6d:
