@@ -1000,91 +1000,91 @@ translate frenchtl _call_skipcheck_35_d13b4295:
 translate frenchtl _call_skipcheck_35_b5f06d6d:
 
     # m "Soon, both of our plates were picked clean."
-    m ""
+    m "Très vite, il ne resta plus rien dans nos assiettes."
 
 # game/remy2.rpy:926
 translate frenchtl _call_skipcheck_35_a778648e:
 
     # Ry smile "I guess I judged your portion correctly. Unless you want more?"
-    Ry smile ""
+    Ry smile "Il semblerait que j'ai correctement estimé ta portion. A moins que tu n'en veuilles plus."
 
 # game/remy2.rpy:928
 translate frenchtl _call_skipcheck_35_90b287ad:
 
     # c "I'm good, thanks."
-    c ""
+    c "C'est bon pour moi, merci."
 
 # game/remy2.rpy:932
 translate frenchtl _call_skipcheck_35_dcd14519:
 
     # c "That was an interesting steak. What kind of meat was that?"
-    c ""
+    c "C'était un steak plutôt intéressant. Quel type de viande était-ce ?"
 
 # game/remy2.rpy:934
 translate frenchtl _call_skipcheck_35_35cb6279:
 
     # Ry normal "Those were aurochs steaks. Are you familiar with that animal?"
-    Ry normal ""
+    Ry normal "C'était des steaks d'auroch. Cet animal te parle-t-il ?"
 
 # game/remy2.rpy:938
 translate frenchtl _call_skipcheck_35_fe61940d:
 
     # c "That was interesting. What was that steak made of, anyway?"
-    c ""
+    c "C'était interessant. Avec quoi a été fait ce steak ?"
 
 # game/remy2.rpy:940
 translate frenchtl _call_skipcheck_35_d83b7da3:
 
     # Ry normal "I'm not sure, exactly. It's probably some kind of vegetable blend."
-    Ry normal ""
+    Ry normal "Je ne suis pas trop sûr. C'est probablement un mélange de légumes."
 
 # game/remy2.rpy:942
 translate frenchtl _call_skipcheck_35_e41b3fa9:
 
     # c "I see. What kind of meat is commonly eaten around here, anyway?"
-    c ""
+    c "Je vois. Quel genre de viande est habituellement mangé par ici ?"
 
 # game/remy2.rpy:944
 translate frenchtl _call_skipcheck_35_05e6b94f:
 
     # Ry "Aurochs meat. Are you familiar with that animal?"
-    Ry ""
+    Ry "De la viande d'auroch. Cet animal te parle-t-il ?"
 
 # game/remy2.rpy:947
 translate frenchtl _call_skipcheck_35_c8fc91e4:
 
     # c "I may have heard of aurochsen before."
-    c ""
+    c "Je crois avoir entendu parler des aurochs auparavant."
 
 # game/remy2.rpy:949
 translate frenchtl _call_skipcheck_35_a2d171f9:
 
     # Ry "They are rather large, bovine mammals characterized by their horns and body shape."
-    Ry ""
+    Ry "Ce sont des mammifères bovins caractérisés par la forme de leurs cornes et de leur corps."
 
 # game/remy2.rpy:951
 translate frenchtl _call_skipcheck_35_9ed732a5:
 
     # Ry "We get a range of products from them - from meat and milk, to sub-products like butter and cheese, in addition to leather, felt, oils and creams. We even use their horns and bones for a variety of things."
-    Ry ""
+    Ry "On obtient une large gamme de produits à partir d'eux - de la viande et du lait, aux sous-produits comme le beurre et le fromage, en plus du cuir, du feutre, huiles et crèmes. On utilise même leurs cornes et leurs os pour tout un tas de choses."
 
 # game/remy2.rpy:953
 translate frenchtl _call_skipcheck_35_371779db:
 
     # c "That sounds similar to an animal we have back at home. Speaking of unfamiliar creatures, why don't you tell me more about your species?"
-    c ""
+    c "Ca ressemble à un animal que l'on a chez nous. En parlant de créatures inhabituelles, pourquoi ne m'en dis tu pas plus au sujet de vos espèces ?"
 
 # game/remy2.rpy:956
 translate frenchtl _call_skipcheck_35_b03c4714:
 
     # Ry "Are you refering to me, or all of us? Our society is comprised of a number of different species, which you have probably noticed by now."
-    Ry ""
+    Ry "Fais tu référence à moi, ou à nous tous ? Notre société comprend différentes espèces, ce que tu as probablement remarqué depuis."
 
 # game/remy2.rpy:958
 translate frenchtl _call_skipcheck_35_cad33b5b:
 
     # c "I guess all of you. Let's start with the basics."
-    c ""
+    c "Je suppose vous tous. Commençons par les bases."
 
 # game/remy2.rpy:960
 translate frenchtl _call_skipcheck_35_90ad7a67:
