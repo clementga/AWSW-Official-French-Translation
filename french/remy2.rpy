@@ -1024,7 +1024,7 @@ translate frenchtl _call_skipcheck_35_dcd14519:
 translate frenchtl _call_skipcheck_35_35cb6279:
 
     # Ry normal "Those were aurochs steaks. Are you familiar with that animal?"
-    Ry normal "C'était des steaks d'auroch. Cet animal te parle-t-il ?"
+    Ry normal "C'était des steaks d'aurochs. Cet animal te parle-t-il ?"
 
 # game/remy2.rpy:938
 translate frenchtl _call_skipcheck_35_fe61940d:
@@ -1048,13 +1048,13 @@ translate frenchtl _call_skipcheck_35_e41b3fa9:
 translate frenchtl _call_skipcheck_35_05e6b94f:
 
     # Ry "Aurochs meat. Are you familiar with that animal?"
-    Ry "De la viande d'auroch. Cet animal te parle-t-il ?"
+    Ry "De la viande d'aurochs. Cet animal te parle-t-il ?"
 
 # game/remy2.rpy:947
 translate frenchtl _call_skipcheck_35_c8fc91e4:
 
     # c "I may have heard of aurochsen before."
-    c "Je crois avoir entendu parler des aurochs auparavant."
+    c "Je crois avoir entendu parler des aurochsen auparavant."
 
 # game/remy2.rpy:949
 translate frenchtl _call_skipcheck_35_a2d171f9:
@@ -1090,187 +1090,187 @@ translate frenchtl _call_skipcheck_35_cad33b5b:
 translate frenchtl _call_skipcheck_35_90ad7a67:
 
     # Ry "I'm sure you're aware, but unlike the mammalian aurochs, we are reptiles."
-    Ry ""
+    Ry "Je pense que tu le sais déjà, mais contrairement aux aurochs qui sont des mammifères, nous sommes des reptiles."
 
 # game/remy2.rpy:962
 translate frenchtl _call_skipcheck_35_f71986c8:
 
     # Ry "Though this makes me wonder about you. Based on your fur, I'd guess that you are a mammal, but you're very different from other mammals we know."
-    Ry ""
+    Ry "Du coup je me posais une question à ton sujet. En me basant sur ta fourrure, j'aurais suggéré que tu étais un mammifère, mais tu es très différent des autres mammifères que l'on connais."
 
 # game/remy2.rpy:964
 translate frenchtl _call_skipcheck_35_8c2ca9c7:
 
     # c "In the same vein, you don't share many characteristics with our reptiles back home. And by the way, we don't have \"fur\", but \"hair\"."
-    c ""
+    c "De la même manière, vous ne partagez pas beaucoup de traits commun avec les reptiles de chez moi. Et au passage, nous n'avons pas de la \"fourrure\", mais des \"cheveux\"."
 
 # game/remy2.rpy:966
 translate frenchtl _call_skipcheck_35_708544c2:
 
     # Ry "What's the difference?"
-    Ry ""
+    Ry "Quelle est la différence ?"
 
 # game/remy2.rpy:972
 translate frenchtl _call_skipcheck_35_93b100ee:
 
     # c "Actually, I don't know. Usually, we refer to animals as having fur, whereas humans have hair."
-    c ""
+    c "Je n'en sais rien en fait. Habituellement, nous désignons les animaux comme ayant de la fourrure, là où les humains ont des cheveux."
 
 # game/remy2.rpy:974
 translate frenchtl _call_skipcheck_35_94526859:
 
     # Ry "Interesting."
-    Ry ""
+    Ry "Intéressant."
 
 # game/remy2.rpy:979
 translate frenchtl _call_skipcheck_35_1ac3f4a6:
 
     # c "Fur has a set length it will grow, whereas hair will keep growing, so we regularly cut it."
-    c ""
+    c "La fourrure a une longueur limite jusqu'à laquelle pousser, alors que les cheveux continuerons de croître, donc on doit les couper régulièrement."
 
 # game/remy2.rpy:981
 translate frenchtl _call_skipcheck_35_3dfb0edd:
 
     # Ry "Is that so? Interesting."
-    Ry ""
+    Ry "C'est vrai ? Intéressant."
 
 # game/remy2.rpy:988
 translate frenchtl _call_skipcheck_35_3dfb0edd_1:
 
     # Ry "Is that so? Interesting."
-    Ry ""
+    Ry "C'est vrai ? Intéressant."
 
 # game/remy2.rpy:995
 translate frenchtl _call_skipcheck_35_b5be9f78:
 
     # c "There actually isn't one. They share the same chemical structure, so the distinction is pretty much arbitrary. I suppose it is just a way to distinguish the same structure in humans from that in non-human animals."
-    c ""
+    c "Il n'y en a pas vraiment. Ils partagent la même structure chimique, donc la distinction est assez arbitraire. Je suppose que c'est juste un moyen de distinguer la même structure chez les humains de celle chez les animaux non humains."
 
 # game/remy2.rpy:997
 translate frenchtl _call_skipcheck_35_3dfb0edd_2:
 
     # Ry "Is that so? Interesting."
-    Ry ""
+    Ry "C'est vrai ? Intéressant."
 
 # game/remy2.rpy:1002
 translate frenchtl _call_skipcheck_35_a04e07fd:
 
     # Ry "I was wondering something. Are you wearing all those coverings to make up for a lack of hair?"
-    Ry ""
+    Ry "Je me posait la question. Portes tu tout cet habillage pour compenser un manque de cheveux ?"
 
 # game/remy2.rpy:1004
 translate frenchtl _call_skipcheck_35_54057ca1:
 
     # c "I suppose that's one reason why humans wear clothes."
-    c ""
+    c "Je suppose que c'est une raison pour laquelle les humains portent des vêtements."
 
 # game/remy2.rpy:1006
 translate frenchtl _call_skipcheck_35_128e18d8:
 
     # c "They also provide warmth and protection, and are used to differentiate us from one another. Sometimes, uniforms are used as identification. Other times, clothes are just ornamental. What a person wears can tell us something about the person itself."
-    c ""
+    c "Ils prodiguent aussi chaleur et prtection, et sont utilisés pour nous différentier les uns des autres. Parfois, des uniformes sont utilisés en tant qu'identifiant. D'autre fois, les vêtements sont juste décoratifs. Ce que porte une personne peut nous dire quelue chose au sujet de la personne elle même."
 
 # game/remy2.rpy:1008
 translate frenchtl _call_skipcheck_35_19abd388:
 
     # Ry "That sounds complicated. We also have uniforms and wear some things for ornamental reasons, though our uses aren't quite as extensive."
-    Ry ""
+    Ry "Ca a l'air compliqué. Nous avons aussi des uniformes et portons certaines choses pour des motifs décoratifs, bien que nous n'en fassions pas autant usage."
 
 # game/remy2.rpy:1010
 translate frenchtl _call_skipcheck_35_617f494b:
 
     # c "That brings up an interesting question: Are you endo- or exothermic?"
-    c ""
+    c "Cela amène une question intéressante : Etes vous endo- ou exothermiques ?"
 
 # game/remy2.rpy:1012
 translate frenchtl _call_skipcheck_35_656c86bc:
 
     # Ry smile "We produce our own body heat."
-    Ry smile ""
+    Ry smile "nous produisons notre propre chaleur corporelle."
 
 # game/remy2.rpy:1014
 translate frenchtl _call_skipcheck_35_07751ccd:
 
     # c "That is unusual. Where I come from, all reptiles are endothermic. Unless you count birds as reptiles, I guess."
-    c ""
+    c "C'est assez inhabituel. De là où je viens, tous les reptiles sont endothermiques. A moins que tu ne considères les oiseaux comme des reptiles, je suppose."
 
 # game/remy2.rpy:1016
 translate frenchtl _call_skipcheck_35_c0fd2269:
 
     # Ry normal "But none of your reptiles are sentient, correct? Maybe it has something to do with our different brain structures."
-    Ry normal ""
+    Ry normal "Mais aucun de vos reptiles ne sont doués de raison, je me trompe ? Peux être cela a-t-il avoir avec notre structure cérébrale qui est différente."
 
 # game/remy2.rpy:1018
 translate frenchtl _call_skipcheck_35_13251290:
 
     # c "Maybe."
-    c ""
+    c "Peut être."
 
 # game/remy2.rpy:1020
 translate frenchtl _call_skipcheck_35_99c4fd1f:
 
     # Ry "Now that you've been in our world for a while, how do you like it here?"
-    Ry ""
+    Ry "Maintenant que tu as été dans notre monde depuis un moment, Comment aimes tu la vie ici ?"
 
 # game/remy2.rpy:1028
 translate frenchtl _call_skipcheck_35_8a50e9bd:
 
     # Ry smile "That is good to hear! Cultural differences can make things very difficult sometimes, even within the same species. I'm glad things are working out for you so far."
-    Ry smile ""
+    Ry smile "C'est bon à entendre! Les différences culturelles peuvent rendre les choses assez difficiles parfois, même au sein de la même espèce. Je suis content que ça marche pour toi jusque là."
 
 # game/remy2.rpy:1035
 translate frenchtl _call_skipcheck_35_33d2b075:
 
     # Ry "It is pretty, isn't it?"
-    Ry ""
+    Ry "C'est joli, n'est-ce pas ?"
 
 # game/remy2.rpy:1040
 translate frenchtl _call_skipcheck_35_8a4d91e0:
 
     # Ry "Oh, I just remembered: I was able to save my game after all. Your interference was only a minor setback."
-    Ry ""
+    Ry "Oh, Je viens de me souvenir : J'ai réussi à sauver ma partie. Ton interférence n'était qu'un obstacle mineur."
 
 # game/remy2.rpy:1053
 translate frenchtl _call_skipcheck_35_ca9e1996:
 
     # Ry "I was quite relieved when I found out."
-    Ry ""
+    Ry "J'étais assez soulagé quand j'ai trouvé la solution."
 
 # game/remy2.rpy:1060
 translate frenchtl _call_skipcheck_35_db4a38b9:
 
     # Ry "It turned out it wasn't a big deal after all."
-    Ry ""
+    Ry "Il s'est avéré que ce n'était pas un gros problème au final."
 
 # game/remy2.rpy:1063
 translate frenchtl _call_skipcheck_35_c718534f:
 
     # Ry shy "You know, if that hadn't worked out so well, I would have had to consider making you play up to that point again for me."
-    Ry shy ""
+    Ry shy "Tu sais, si ca n'avait pas marché aussi bien, J'aurais considéré à te forcer à jouer pour moi jusqu'à atteindre ce point du jeu."
 
 # game/remy2.rpy:1069
 translate frenchtl _call_skipcheck_35_a28681c5:
 
     # Ry "Haha, yeah. It was just a joke."
-    Ry ""
+    Ry "Haha, ouais. C'étais juste une blague."
 
 # game/remy2.rpy:1085
 translate frenchtl _call_skipcheck_35_d41264ca:
 
     # Ry normal "Is that so?"
-    Ry normal ""
+    Ry normal "Vraiment ?"
 
 # game/remy2.rpy:1087
 translate frenchtl _call_skipcheck_35_02d72b30:
 
     # c "Yeah, they're fun. I'd like to see what kinds of games you have here."
-    c ""
+    c "Ouais, ils sont fun. J'aimerais bien voir quels types de jeux vous avez ici."
 
 # game/remy2.rpy:1089
 translate frenchtl _call_skipcheck_35_8866ea5c:
 
     # Ry smile "I'll keep that in mind. Perhaps I can show you sometime."
-    Ry smile ""
+    Ry smile "Je garderais ça à l'esprit. Peut être que je pourrais t'en montrer un de ces quatre."
 
 # game/remy2.rpy:1096
 translate frenchtl _call_skipcheck_35_9a8cb4ed:
