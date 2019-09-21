@@ -1276,43 +1276,43 @@ translate frenchtl _call_skipcheck_35_8866ea5c:
 translate frenchtl _call_skipcheck_35_9a8cb4ed:
 
     # Ry "You know, I'm glad you're here. Since you arrived in our world, we haven't really had the chance to just sit down and talk."
-    Ry ""
+    Ry "Tu sais, je suis content que tu sois là. Depuis ton arrivée dans notre monde, nous n'avons pas eu l'occasion de juste s'asseoir et discuter."
 
 # game/remy2.rpy:1102
 translate frenchtl _call_skipcheck_35_7559d264:
 
     # c "I agree. It's been a busy time for me, as you can imagine."
-    c ""
+    c "Je suis d'accord. J'ai été assez pris, comme tu peux l'imaginer."
 
 # game/remy2.rpy:1104
 translate frenchtl _call_skipcheck_35_c7fc395f:
 
     # Ry smile "Oh, of course. Thanks for taking the time to pay me a visit!"
-    Ry smile ""
+    Ry smile "Oh, bien sûr. Merci d'avoir pris le temps de me rendre visite !"
 
 # game/remy2.rpy:1106
 translate frenchtl _call_skipcheck_35_a9ea7268:
 
     # Ry normal "I always have so many things to take care of that it's hard for me to find time to do something simple like this."
-    Ry normal ""
+    Ry normal "J'ai toujours plein de choses à gérer, au point qu'il devient difficile pour moi de trouver le temps de faire quelque chose de simple comme cela."
 
 # game/remy2.rpy:1108
 translate frenchtl _call_skipcheck_35_13af01af:
 
     # c "At least it worked out this time."
-    c ""
+    c "Au moins, ça a pu se faire cette fois."
 
 # game/remy2.rpy:1117
 translate frenchtl _call_skipcheck_35_76ef7b1b:
 
     # Ry shy "It's not as if I was desperate or anything. I just think it's nice."
-    Ry shy ""
+    Ry shy "Ce n'est pas comme si j'étais désespéré ou quoi. Je pense juste que c'est sympa."
 
 # game/remy2.rpy:1124
 translate frenchtl _call_skipcheck_35_0cf6a252:
 
     # Ry "Oh. Good to know."
-    Ry ""
+    Ry "Oh. C'est bon à savoir."
 
 # game/remy2.rpy:1129
 translate frenchtl _call_skipcheck_35_1371a323:
