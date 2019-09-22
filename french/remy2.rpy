@@ -1318,97 +1318,97 @@ translate frenchtl _call_skipcheck_35_0cf6a252:
 translate frenchtl _call_skipcheck_35_1371a323:
 
     # c "You do have a point, though. I don't really know that much about you."
-    c ""
+    c "Tu marques un point, cependant. Je ne sais pas grand chose à ton sujet."
 
 # game/remy2.rpy:1131
 translate frenchtl _call_skipcheck_35_e28af233:
 
     # c "I know where you work, but most of our conversations so far have revolved around things other than you and me."
-    c ""
+    c "Je sais où tu travailles, mais la plupart de nos conversations jusque là n'ont tourné qu'autour de sujets autres que toi et moi."
 
 # game/remy2.rpy:1133
 translate frenchtl _call_skipcheck_35_76764f67:
 
     # c "Why don't you tell me more about yourself?"
-    c ""
+    c "Pourquoi ne m'en dis-tu pas plus à ton sujet ?"
 
 # game/remy2.rpy:1135
 translate frenchtl _call_skipcheck_35_9375441f:
 
     # Ry shy "I-I don't really like talking about myself."
-    Ry shy ""
+    Ry shy "Je-Je n'aime pas beaucoup parler de moi."
 
 # game/remy2.rpy:1137
 translate frenchtl _call_skipcheck_35_73c2fcc2:
 
     # c "Why not?"
-    c ""
+    c "Pourquoi donc ?"
 
 # game/remy2.rpy:1139
 translate frenchtl _call_skipcheck_35_4f49a3e0:
 
     # Ry normal "I guess I wouldn't know what to say. I'm not really that interesting."
-    Ry normal ""
+    Ry normal "Je crois que je ne saurais pas quoi dire. Je ne suis pas vraiment intéressant."
 
 # game/remy2.rpy:1141
 translate frenchtl _call_skipcheck_35_0eaabbc8:
 
     # c "I don't believe you."
-    c ""
+    c "Je ne te crois pas."
 
 # game/remy2.rpy:1143
 translate frenchtl _call_skipcheck_35_798a0225:
 
     # Ry "There's also the uncertainty of not knowing how another person will react to something I say. I don't want to embarrass myself."
-    Ry ""
+    Ry "Il y a aussi l'incertitude de ne pas savoir comment une autre personne réagira à quelque chose que je dis. Je ne veux pas me mettre mal à l'aise."
 
 # game/remy2.rpy:1145
 translate frenchtl _call_skipcheck_35_540c9997:
 
     # c "Hey, at least you told me that. That's something."
-    c ""
+    c "Hey, au moins tu m'as raconté ça. C'est un début."
 
 # game/remy2.rpy:1147
 translate frenchtl _call_skipcheck_35_ab79f5ed:
 
     # Ry "I suppose."
-    Ry ""
+    Ry "Je suppose."
 
 # game/remy2.rpy:1149
 translate frenchtl _call_skipcheck_35_801d63da:
 
     # Ry smile "Anyway, now that you've seen my apartment, I'm wondering what your home on the other side of the portal looks like."
-    Ry smile ""
+    Ry smile "A part ça, maintenant que tu as vu mon appartement, Je me demande à quoi ressemble ton foyer de l'autre côté du portail."
 
 # game/remy2.rpy:1151
 translate frenchtl _call_skipcheck_35_650e4943:
 
     # c "It's nothing special. Yours is prettier. Actually, everything here looks nice in comparison to back home."
-    c ""
+    c "C'est rien de spécial. Le tien est plus joli. En fait, tout ici a l'air plus beau comparé à chez moi."
 
 # game/remy2.rpy:1153
 translate frenchtl _call_skipcheck_35_d41264ca_1:
 
     # Ry normal "Is that so?"
-    Ry normal ""
+    Ry normal "Vraiment ?"
 
 # game/remy2.rpy:1155
 translate frenchtl _call_skipcheck_35_519df390:
 
     # c "In some ways, I'm not really looking forward to returning, but it's not like I have a choice in the matter."
-    c ""
+    c "D'une certaine façon, Je n'ai pas vraiment hâte de rentrer, mais ce n'est pas comme si je pouvais avoir un avis sur la question."
 
 # game/remy2.rpy:1157
 translate frenchtl _call_skipcheck_35_2575e4d1:
 
     # Ry smile "I suppose you could always visit if you wanted to."
-    Ry smile ""
+    Ry smile "Je suppose que tu pourrais toujours nous rendre visite si tu le souhaites."
 
 # game/remy2.rpy:1159
 translate frenchtl _call_skipcheck_35_a53f329f:
 
     # c "It wouldn't be that easy, I'm afraid. There was an extensive process involved for selecting who would go through the portal, and I was only one of many applicants. I'm still surprised that I ended up being chosen."
-    c ""
+    c "Ca ne serait pas si facile, j'en ai peur. Il y avait un vaste processus impliqué pour sélectionner qui irait à travers le portail, et j'étais seulement une personne parmi beaucoups de volontaires. Je suis toujours surpris d'avoir été retenu."
 
 # game/remy2.rpy:1161
 translate frenchtl _call_skipcheck_35_15c71ee8:
