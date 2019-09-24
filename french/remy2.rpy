@@ -1600,13 +1600,13 @@ translate frenchtl _call_skipcheck_35_7591b58b:
 translate frenchtl _call_skipcheck_35_27d0e429:
 
     # Ry "But the customers don't care, or pity me too much to say anything. It's a common sight for them, after all."
-    Ry ""
+    Ry "Mais les clients ne s'en soucient ou ne s'en apitoient pas assez pour s'en plaindre. C'est quelque chose de commun pour eux après tout."
 
 # game/remy2.rpy:1327
 translate frenchtl _call_skipcheck_35_905fd80f:
 
     # c "This is about Emera, isn't it?"
-    c ""
+    c "C'est à propos d'Emera, n'est-ce pas ?"
 
 # game/remy2.rpy:1329
 translate frenchtl _call_skipcheck_35_19056ba7:
