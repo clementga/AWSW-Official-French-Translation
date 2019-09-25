@@ -1318,295 +1318,295 @@ translate frenchtl _call_skipcheck_35_0cf6a252:
 translate frenchtl _call_skipcheck_35_1371a323:
 
     # c "You do have a point, though. I don't really know that much about you."
-    c ""
+    c "Tu marques un point, cependant. Je ne sais pas grand chose à ton sujet."
 
 # game/remy2.rpy:1131
 translate frenchtl _call_skipcheck_35_e28af233:
 
     # c "I know where you work, but most of our conversations so far have revolved around things other than you and me."
-    c ""
+    c "Je sais où tu travailles, mais la plupart de nos conversations jusque là n'ont tourné qu'autour de sujets autres que toi et moi."
 
 # game/remy2.rpy:1133
 translate frenchtl _call_skipcheck_35_76764f67:
 
     # c "Why don't you tell me more about yourself?"
-    c ""
+    c "Pourquoi ne m'en dis-tu pas plus à ton sujet ?"
 
 # game/remy2.rpy:1135
 translate frenchtl _call_skipcheck_35_9375441f:
 
     # Ry shy "I-I don't really like talking about myself."
-    Ry shy ""
+    Ry shy "Je-Je n'aime pas beaucoup parler de moi."
 
 # game/remy2.rpy:1137
 translate frenchtl _call_skipcheck_35_73c2fcc2:
 
     # c "Why not?"
-    c ""
+    c "Pourquoi donc ?"
 
 # game/remy2.rpy:1139
 translate frenchtl _call_skipcheck_35_4f49a3e0:
 
     # Ry normal "I guess I wouldn't know what to say. I'm not really that interesting."
-    Ry normal ""
+    Ry normal "Je crois que je ne saurais pas quoi dire. Je ne suis pas vraiment intéressant."
 
 # game/remy2.rpy:1141
 translate frenchtl _call_skipcheck_35_0eaabbc8:
 
     # c "I don't believe you."
-    c ""
+    c "Je ne te crois pas."
 
 # game/remy2.rpy:1143
 translate frenchtl _call_skipcheck_35_798a0225:
 
     # Ry "There's also the uncertainty of not knowing how another person will react to something I say. I don't want to embarrass myself."
-    Ry ""
+    Ry "Il y a aussi l'incertitude de ne pas savoir comment une autre personne réagira à quelque chose que je dis. Je ne veux pas me mettre mal à l'aise."
 
 # game/remy2.rpy:1145
 translate frenchtl _call_skipcheck_35_540c9997:
 
     # c "Hey, at least you told me that. That's something."
-    c ""
+    c "Hey, au moins tu m'as raconté ça. C'est un début."
 
 # game/remy2.rpy:1147
 translate frenchtl _call_skipcheck_35_ab79f5ed:
 
     # Ry "I suppose."
-    Ry ""
+    Ry "Je suppose."
 
 # game/remy2.rpy:1149
 translate frenchtl _call_skipcheck_35_801d63da:
 
     # Ry smile "Anyway, now that you've seen my apartment, I'm wondering what your home on the other side of the portal looks like."
-    Ry smile ""
+    Ry smile "A part ça, maintenant que tu as vu mon appartement, Je me demande à quoi ressemble ton foyer de l'autre côté du portail."
 
 # game/remy2.rpy:1151
 translate frenchtl _call_skipcheck_35_650e4943:
 
     # c "It's nothing special. Yours is prettier. Actually, everything here looks nice in comparison to back home."
-    c ""
+    c "C'est rien de spécial. Le tien est plus joli. En fait, tout ici a l'air plus beau comparé à chez moi."
 
 # game/remy2.rpy:1153
 translate frenchtl _call_skipcheck_35_d41264ca_1:
 
     # Ry normal "Is that so?"
-    Ry normal ""
+    Ry normal "Vraiment ?"
 
 # game/remy2.rpy:1155
 translate frenchtl _call_skipcheck_35_519df390:
 
     # c "In some ways, I'm not really looking forward to returning, but it's not like I have a choice in the matter."
-    c ""
+    c "D'une certaine façon, Je n'ai pas vraiment hâte de rentrer, mais ce n'est pas comme si je pouvais avoir un avis sur la question."
 
 # game/remy2.rpy:1157
 translate frenchtl _call_skipcheck_35_2575e4d1:
 
     # Ry smile "I suppose you could always visit if you wanted to."
-    Ry smile ""
+    Ry smile "Je suppose que tu pourrais toujours nous rendre visite si tu le souhaites."
 
 # game/remy2.rpy:1159
 translate frenchtl _call_skipcheck_35_a53f329f:
 
     # c "It wouldn't be that easy, I'm afraid. There was an extensive process involved for selecting who would go through the portal, and I was only one of many applicants. I'm still surprised that I ended up being chosen."
-    c ""
+    c "Ca ne serait pas si facile, j'en ai peur. Il y avait un vaste processus impliqué pour sélectionner qui irait à travers le portail, et j'étais seulement une personne parmi beaucoups de volontaires. Je suis toujours surpris d'avoir été retenu."
 
 # game/remy2.rpy:1161
 translate frenchtl _call_skipcheck_35_15c71ee8:
 
     # Ry normal "At least you're here now."
-    Ry normal ""
+    Ry normal "Au moins tu es là maintenant."
 
 # game/remy2.rpy:1163
 translate frenchtl _call_skipcheck_35_cfc438cf:
 
     # c "Indeed."
-    c ""
+    c "En effet."
 
 # game/remy2.rpy:1165
 translate frenchtl _call_skipcheck_35_8aca8237:
 
     # c "So, what have you been up to since the last time I saw you?"
-    c ""
+    c "Alors, qu'as tu fait de beau depuis la dernière fois où je t'ai vu ?"
 
 # game/remy2.rpy:1167
 translate frenchtl _call_skipcheck_35_4dbb7326:
 
     # Ry smile "You mean since I went into the kitchen to cook the steaks?"
-    Ry smile ""
+    Ry smile "Tu veux dire, depuis que je suis parti dans la cuisine pour préparer les steaks ?"
 
 # game/remy2.rpy:1175
 translate frenchtl _call_skipcheck_35_30762ba0:
 
     # Ry shy "It was, but I guess my attempt at humor was ill-advised."
-    Ry shy ""
+    Ry shy "En effet, mais je pense que mon essai en matière d'humour était malavisée."
 
 # game/remy2.rpy:1184
 translate frenchtl _call_skipcheck_35_53bfe1ad:
 
     # Ry "I'm just messing with you, [player_name]."
-    Ry ""
+    Ry "Je te taquine juste, [player_name]."
 
 # game/remy2.rpy:1193
 translate frenchtl _call_skipcheck_35_c435ab1f:
 
     # Ry normal "Really?"
-    Ry normal ""
+    Ry normal "Vraiment ?"
 
 # game/remy2.rpy:1195
 translate frenchtl _call_skipcheck_35_e69e42b8:
 
     # c "No."
-    c ""
+    c "Non."
 
 # game/remy2.rpy:1197
 translate frenchtl _call_skipcheck_35_a36bd07f:
 
     # Ry smile "Oh, I believed you for a moment. Guess you got me there, [player_name]."
-    Ry smile ""
+    Ry smile "Oh, je t'ai cru pendant un moment. Il faut croire que tu m'as eu, [player_name]."
 
 # game/remy2.rpy:1204
 translate frenchtl _call_skipcheck_35_53ce849b:
 
     # Ry "Ah, with all the talking, I totally forgot about dessert."
-    Ry ""
+    Ry "Ah, avec toute cette discussion, j'ai complètement oublié le dessert."
 
 # game/remy2.rpy:1210
 translate frenchtl _call_skipcheck_35_524c8ca5:
 
     # Ry "This won't have an impact on your weight, I can assure you of that."
-    Ry ""
+    Ry "Cela n'aura aucun effet sur ton tour de taille, je peux te l'assurer."
 
 # game/remy2.rpy:1217
 translate frenchtl _call_skipcheck_35_17f7ac95:
 
     # Ry shy "N-No, why do you ask?"
-    Ry shy ""
+    Ry shy "N-Non, pourquoi tu me demandes ça ?"
 
 # game/remy2.rpy:1219
 translate frenchtl _call_skipcheck_35_9fe96850:
 
     # c "No reason."
-    c ""
+    c "Pour rien."
 
 # game/remy2.rpy:1230
 translate frenchtl _call_skipcheck_35_d146989b:
 
     # Ry smile "Then I have just the right thing for you."
-    Ry smile ""
+    Ry smile "Alors j'ai ce qu'il te faut."
 
 # game/remy2.rpy:1237
 translate frenchtl _call_skipcheck_35_7e79dc35:
 
     # Ry "I'll be just a minute."
-    Ry ""
+    Ry "Je reviens dans une minute."
 
 # game/remy2.rpy:1245
 translate frenchtl _call_skipcheck_35_cef20a6e:
 
     # m "He neatly stacked our dishes before he took them into one of his forepaws and went back into the kitchen using his other three limbs. I couldn't help but think that it looked pretty awkward."
-    m ""
+    m "Il empila proprement la vaisselle avant de les prendre dans une de ses pattes avant et de repartir dans la cuisine en se servant de ses autres pattes. Je ne pouvais m'empêcher de penser que ça avait l'air assez malaisant."
 
 # game/remy2.rpy:1249
 translate frenchtl _call_skipcheck_35_e46d7027:
 
     # m "When he returned balancing a plate with a rather attractive cake slice in a similar manner, I realized he would have to make multiple trips to carry everything to the table."
-    m ""
+    m "Quand il revint avec une assiette contenant une part d'un gâteau appétissant le tout se balançant de concert, Je réalisai qu'il aurait à faire plusieurs voyages pour tout porter à table."
 
 # game/remy2.rpy:1260
 translate frenchtl _call_skipcheck_35_2ebe70c5:
 
     # c "Do you need any help with that?"
-    c ""
+    c "As tu besoin d'aide pour ça ?"
 
 # game/remy2.rpy:1262
 translate frenchtl _call_skipcheck_35_68b8d2d3:
 
     # Ry smile "Don't worry about it, I can handle it. You're my guest, after all."
-    Ry smile ""
+    Ry smile "Ne t'inquiète donc pas, je peux gérer ça. Tu es mon invité, après tout."
 
 # game/remy2.rpy:1267
 translate frenchtl _call_skipcheck_35_7ce97fc2:
 
     # c "As soon as I stood up and moved towards him, he made a strange face and spoke up."
-    c ""
+    c "Aussitôt que je me levai pour avancer vers lui, il fit une drôle de tête et répondit."
 
 # game/remy2.rpy:1269
 translate frenchtl _call_skipcheck_35_82aef714:
 
     # Ry shy "No, no, no, no, no. Sit down, please. I can handle it. You're my guest after all."
-    Ry shy ""
+    Ry shy "Non, non, non, non, non. Assied toi s'il te plaît. Je peux m'en occuper. Tu es mon invité après tout."
 
 # game/remy2.rpy:1271
 translate frenchtl _call_skipcheck_35_b6cd2d3d:
 
     # m "Not wanting to upset him, I sat down again and waited."
-    m ""
+    m "Nous voulant pas le contrarier, je m'assis et attendis."
 
 # game/remy2.rpy:1276
 translate frenchtl _call_skipcheck_35_59bc1ef6:
 
     # m "Once he placed the first cake slice on the table, he went back to fetch the other. When he approached the table a second time, though, one of the tiny dessert forks started to slip off of the plate."
-    m ""
+    m "Une fois qu'il plaça la première part de gâteau sur la table, il repartit pour servir l'autre. Quand il approcha cependant la seconde fois, l'une des petites fourchettes à dessert commenca à glisser de l'assiette."
 
 # game/remy2.rpy:1278
 translate frenchtl _call_skipcheck_35_2fbca092:
 
     # m "Remy reached with his free forepaw in his attempt to save it, but lost balance without its support and fell over."
-    m ""
+    m "Rémi tenta de l'atteindre avec sa patte libre, tentant de la sauver, mais perdit l'équilibre sans son support et tomba en avant."
 
 # game/remy2.rpy:1282
 translate frenchtl _call_skipcheck_35_e2efb8b7:
 
     # m "In an instant, the plate, fork and cake slice flew through the air. The dish and silverware clattered as the pristine cake crumbled into a sad heap on the floor."
-    m ""
+    m "En un instant, l'assiète, la fourchette et le gâteau volèrent dans les airs. L'assiette et le couvert claquèrent là où le gâteau s'effondra sur le sol en un triste tas."
 
 # game/remy2.rpy:1296
 translate frenchtl _call_skipcheck_35_273ec8d2:
 
     # m "For a few moments, there was silence as Remy and I looked at the result of his blunder."
-    m ""
+    m "Pendant un moment, il y avait un silence tandis que Rémi et moi regardions le résultat des sa gaffe."
 
 # game/remy2.rpy:1298
 translate frenchtl _call_skipcheck_35_0cdc1fe2:
 
     # Ry "I'm sorry, [player_name]."
-    Ry ""
+    Ry "Je suis désolé, [player_name].
 
 # game/remy2.rpy:1317
 translate frenchtl _call_skipcheck_35_f1478745:
 
     # Ry sad "This isn't just about you and your cake. This always happens to me, no matter how hard I try."
-    Ry sad ""
+    Ry sad "Ca ne concerne pas que toi et ton gâteau. Ca m'arrive tout le temps, peu importe à quel point j'essaye."
 
 # game/remy2.rpy:1319
 translate frenchtl _call_skipcheck_35_6da6d0a5:
 
     # Ry "You have proper hands. So do some of the other species."
-    Ry ""
+    Ry "Tu as des vrais mains. Comme certaines des autres espèces."
 
 # game/remy2.rpy:1321
 translate frenchtl _call_skipcheck_35_771eb2ae:
 
     # Ry "How can someone like me even be a librarian?"
-    Ry ""
+    Ry "Comment quelqu'un comme moi peut-il être bibliothécaire ?"
 
 # game/remy2.rpy:1323
 translate frenchtl _call_skipcheck_35_7591b58b:
 
     # Ry "Not a day goes by without me dropping a scroll and unfurling it across the room."
-    Ry ""
+    Ry "Il ne se passe pas un jour sans que je ne fasse tomber un parchemin en le déroulant dans toute la salle."
 
 # game/remy2.rpy:1325
 translate frenchtl _call_skipcheck_35_27d0e429:
 
     # Ry "But the customers don't care, or pity me too much to say anything. It's a common sight for them, after all."
-    Ry ""
+    Ry "Mais les clients ne s'en soucient ou ne s'en apitoient pas assez pour s'en plaindre. C'est quelque chose de commun pour eux après tout."
 
 # game/remy2.rpy:1327
 translate frenchtl _call_skipcheck_35_905fd80f:
 
     # c "This is about Emera, isn't it?"
-    c ""
+    c "C'est à propos d'Emera, n'est-ce pas ?"
 
 # game/remy2.rpy:1329
 translate frenchtl _call_skipcheck_35_19056ba7:
