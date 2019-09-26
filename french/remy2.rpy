@@ -1612,85 +1612,85 @@ translate frenchtl _call_skipcheck_35_905fd80f:
 translate frenchtl _call_skipcheck_35_19056ba7:
 
     # Ry "I guess it is. I just don't see why someone like me got to be librarian when there were others more qualified for the position, or who were at least capable of not dropping the inventory on a daily basis."
-    Ry ""
+    Ry "Il faut croire que oui. Je ne vois pourquoi quelqu'un comme moi en est arrivé à être bibliothécaire quand il y en avait d'autres plus qualifiés pour le poste, ou qui étaient au moins capable de ne pas faire tomber l'inventaire au moins une fois par jour."
 
 # game/remy2.rpy:1331
 translate frenchtl _call_skipcheck_35_05794cc7:
 
     # c "She makes fun of you for it."
-    c ""
+    c "Elle se paie ta têre pour ça."
 
 # game/remy2.rpy:1333
 translate frenchtl _call_skipcheck_35_37423398:
 
     # Ry shy "I knew it. I mean, why else would she have me do these tasks all the time. Sorting books, carrying things from one place to another."
-    Ry shy ""
+    Ry shy "Je le savais. Je veux dire, sinon pourquoi m'aurait-elle demandé de faire ces corvées à longueur de temps. Classer des livres, porter des choses d'un endroit à un autre."
 
 # game/remy2.rpy:1335
 translate frenchtl _call_skipcheck_35_9a84bdd3:
 
     # Ry "I shouldn't be doing that. I shouldn't work somewhere where my worth is only in the entertainment I provide."
-    Ry ""
+    Ry "Je ne devrais pas faire ça. Je ne devrais pas travailler là où ma valeur se trouve seulement dans la distraction que je procure."
 
 # game/remy2.rpy:1337
 translate frenchtl _call_skipcheck_35_63a7c31d:
 
     # c "Why don't you look for a new job?"
-    c ""
+    c "Pourquoi ne cherches tu pas un nouveau travail ?"
 
 # game/remy2.rpy:1339
 translate frenchtl _call_skipcheck_35_60c4d28c:
 
     # Ry sad "These positions have terms, similar to those of ministers. If I ended my employment prematurely, it wouldn't look great."
-    Ry sad ""
+    Ry sad "Ces positions ont des clauses, similaires à celles des ministres. Si je démissione prématurément, cela ferait mauvaise impression."
 
 # game/remy2.rpy:1341
 translate frenchtl _call_skipcheck_35_c3fb6e0f:
 
     # c "How long do you have left?"
-    c ""
+    c "Combien de temps te reste-t-il ?"
 
 # game/remy2.rpy:1343
 translate frenchtl _call_skipcheck_35_631e72a8:
 
     # Ry "A while."
-    Ry ""
+    Ry "un moment."
 
 # game/remy2.rpy:1351
 translate frenchtl _call_skipcheck_35_d8b972c1:
 
     # Ry look "That's easier said than done, but maybe I should consider it."
-    Ry look ""
+    Ry look "C'est plus facile à dire qu'à faire, mais peut être que je devrais le considérer."
 
 # game/remy2.rpy:1356
 translate frenchtl _call_skipcheck_35_4d96cd23:
 
     # Ry "Not really. It's not like I could prove anything. Her public and her private demeanor are two very different things, and it would be my word against hers."
-    Ry ""
+    Ry "Pas vraiment. Ce n'est pas comme si je pouvais prouver quelque chose. Sa conduite en public et en privé sont deux choses différentes, et ce serait ma parole contre la sienne."
 
 # game/remy2.rpy:1361
 translate frenchtl _call_skipcheck_35_27a9194f:
 
     # Ry "Maybe I do."
-    Ry ""
+    Ry "Peut être"
 
 # game/remy2.rpy:1364
 translate frenchtl _call_skipcheck_35_a99b5624:
 
     # Ry shy "I just wanted to have a nice evening with you, and now it ended up like this. I shouldn't have brought that up."
-    Ry shy ""
+    Ry shy "Je voulais juste passer une bonne soirée avec toi, et ça se finit là dessus. Je n'aurais pas dû parler de ça."
 
 # game/remy2.rpy:1369
 translate frenchtl _call_skipcheck_35_a9c2d90e:
 
     # c "Then let's not talk about it further. We can still share the other slice, if you like."
-    c ""
+    c "N'en parlons pas plus alors. On peut toujours partager l'autre part, si tu veux."
 
 # game/remy2.rpy:1371
 translate frenchtl _call_skipcheck_35_20072f52:
 
     # Ry "Alright."
-    Ry ""
+    Ry "D'accord."
 
 # game/remy2.rpy:1375
 translate frenchtl _call_skipcheck_35_76b2fe88:
@@ -1702,25 +1702,25 @@ translate frenchtl _call_skipcheck_35_76b2fe88:
 translate frenchtl _call_skipcheck_35_059865fe:
 
     # n "I helped him clean up, and after we were done, we shared the remaining slice of cake."
-    n ""
+    n "Je l'aidai à nettoyer, et après que nous eûmes terminé, Nous partageâmes la part de gâteau restante."
 
 # game/remy2.rpy:1383
 translate frenchtl _call_skipcheck_35_191efd00:
 
     # n "It seemed unreal that someone with his personality could still eat his half with a single bite when I took much longer with my tiny fork."
-    n ""
+    n "Cela semblait suréaliste que quelqu'un de son caractère pusse encore manger sa part en une bouchée quand moi je mis plus longtemps avec ma petite fourchette."
 
 # game/remy2.rpy:1385
 translate frenchtl _call_skipcheck_35_0b0ff756:
 
     # n "By the end of dessert, he seemed a little different, though I couldn't pinpoint how."
-    n ""
+    n "Après avoir manger le dessert, il semblait un peu différent, cependant je ne pouvais dire en quoi."
 
 # game/remy2.rpy:1387
 translate frenchtl _call_skipcheck_35_a8c78e19:
 
     # n "Eventually, we said our good byes and I left."
-    n ""
+    n "Finalement, nous fîmes nos adieux et je partis."
 
 # game/remy2.rpy:1397
 translate frenchtl _call_skipcheck_35_76b2fe88_1:
@@ -1732,25 +1732,25 @@ translate frenchtl _call_skipcheck_35_76b2fe88_1:
 translate frenchtl remy2skip_813746d2:
 
     # c "Don't worry about it. I still think it was a nice evening."
-    c ""
+    c "Ne t'inquiètes pas pour ça. Je trouve que c'était une bonne soirée."
 
 # game/remy2.rpy:1421
 translate frenchtl remy2skip_41b1ba3b:
 
     # Ry look "Maybe I should stop being such a sourpuss then."
-    Ry look ""
+    Ry look "Peut être que je devrais arrêter d'être si rabat joie."
 
 # game/remy2.rpy:1423
 translate frenchtl remy2skip_8fcce29c:
 
     # c "I can help you clean up."
-    c ""
+    c "Je peux t'aider à nettoyer."
 
 # game/remy2.rpy:1425
 translate frenchtl remy2skip_06b9b1b0:
 
     # Ry normal "Thank you, [player_name]."
-    Ry normal ""
+    Ry normal "Merci, [player_name]."
 
 # game/remy2.rpy:1431
 translate frenchtl remy2skip_76b2fe88:
@@ -1762,13 +1762,13 @@ translate frenchtl remy2skip_76b2fe88:
 translate frenchtl remy2skip_176ee5b0:
 
     # n "We cleaned up together and by the end, he seemed to be in higher spirits."
-    n ""
+    n "Nous nettoyâmes ensemble et vers la fin, il semblait être de meilleure humeur."
 
 # game/remy2.rpy:1437
 translate frenchtl remy2skip_6ddb1e39:
 
     # n "Afterwards, we said our goodbyes and I left, not sure what to think."
-    n ""
+    n "Après cela, nous fîmes nos adieux et je partis, incertain de quoi en penser."
 
 # game/remy2.rpy:1449
 translate frenchtl remy2skip_76b2fe88_1:
@@ -1780,91 +1780,91 @@ translate frenchtl remy2skip_76b2fe88_1:
 translate frenchtl remy2skip_e2725291:
 
     # c "But you did."
-    c ""
+    c "Mais tu l'as été."
 
 # game/remy2.rpy:1471
 translate frenchtl remy2skip_2993ede0:
 
     # Ry sad "I know. I'm sorry, [player_name]."
-    Ry sad ""
+    Ry sad "Je sais. Je suis désolé, [player_name]."
 
 # game/remy2.rpy:1473
 translate frenchtl remy2skip_5b233c64:
 
     # c "Maybe that's your problem."
-    c ""
+    c "Peut être que c'est ça ton problème."
 
 # game/remy2.rpy:1475
 translate frenchtl remy2skip_9a7b6845:
 
     # Ry "What?"
-    Ry ""
+    Ry "De quoi ?"
 
 # game/remy2.rpy:1477
 translate frenchtl remy2skip_68cc3745:
 
     # c "You apologize all the time."
-    c ""
+    c "Tu t'excuses tout le temps."
 
 # game/remy2.rpy:1479
 translate frenchtl remy2skip_a639327e:
 
     # c "Just look at yourself, lying on the floor with bits of cake everywhere. It's pathetic."
-    c ""
+    c "Regarde toi, étalé sur le sol avec des morceaux de gâteaux partout. C'en est pathétique."
 
 # game/remy2.rpy:1481
 translate frenchtl remy2skip_0edb3f5d:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy2.rpy:1483
 translate frenchtl remy2skip_5d0ad21f:
 
     # c "You can't even respond to that? Maybe that's why Emera keeps making fun of you. You can't stand up for yourself."
-    c ""
+    c "Tu ne peux même pas répondre à ça ? Voilà peut être pourquoi Emera continue de se moquer de toi. tu n'es pas capable de te défendre."
 
 # game/remy2.rpy:1485
 translate frenchtl remy2skip_c451845a:
 
     # Ry shy "..."
-    Ry shy ""
+    Ry shy "..."
 
 # game/remy2.rpy:1487
 translate frenchtl remy2skip_47ec5523:
 
     # c "Maybe you should stop apologizing and start doing something about your problems. Otherwise, how do you expect things to change?"
-    c ""
+    c "Peut être que tu devrais arrêter de t'excuser pour tout et faire quelque chose à propos de tes problèmes. Autrement, comment espères tu que les choses changent ?"
 
 # game/remy2.rpy:1489
 translate frenchtl remy2skip_16449e6d:
 
     # Ry "I don't know. I suppose you have a point."
-    Ry ""
+    Ry "Je ne sais pas. Je suppose qu tu marques un point."
 
 # game/remy2.rpy:1491
 translate frenchtl remy2skip_5af11dac:
 
     # Ry "Well, I guess this evening's over, at any rate."
-    Ry ""
+    Ry "Eh bien, je crois que la soirée est finie de toute façon."
 
 # game/remy2.rpy:1493
 translate frenchtl remy2skip_d4baad00:
 
     # c "I'll see myself out."
-    c ""
+    c "Je vais trouver la sortie."
 
 # game/remy2.rpy:1495
 translate frenchtl remy2skip_23de5913:
 
     # Ry "Goodbye, [player_name]."
-    Ry ""
+    Ry "Au revoir, [player_name]."
 
 # game/remy2.rpy:1499
 translate frenchtl remy2skip_a7b65946:
 
     # m "As I left the apartment, Remy got to his feet and started to clean up the mess."
-    m ""
+    m "Alors que je quittais l'appartement, Rémi se leva et commença à nettoyer le bazzare."
 
 # game/remy2.rpy:1507
 translate frenchtl remy2skip_76b2fe88_2:
@@ -1876,237 +1876,249 @@ translate frenchtl strings:
 
     # remy2.rpy:10
     old "Chapter 4 - Remy 2"
-    new ""
+    new "Chapitre 4 - Rémi 2"
 
     # remy2.rpy:14
     old "Chapter 3 - Remy 2"
-    new ""
+    new "Chapitre 3 - Rémi 2"
 
     # remy2.rpy:18
     old "Chapter 2 - Remy 2"
-    new ""
+    new "Chapitre 2 - Rémi 2"
 
     # remy2.rpy:22
     old "Chapter 1 - Remy 2"
-    new ""
+    new "Chapitre 1 - Rémi 2"
 
     # remy2.rpy:120
     old "It's no problem, really."
-    new ""
+    new "Ce n'était rien, je t'assure."
 
     # remy2.rpy:120
     old "It really is."
-    new ""
+    new "En effet"
 
     # remy2.rpy:120
     old "There's something else you could do for me..."
-    new ""
+    new "Il y a quelque chose d'autre que tu pourrais faire pour moi..."
 
     # remy2.rpy:120
     old "Potato."
-    new ""
+    new "Patate"
 
     # remy2.rpy:165
     old "How about steak?"
-    new ""
+    new "Que penses tu d'un steak"
 
     # remy2.rpy:165
     old "I could go for some \"meat\" right now..."
-    new ""
+    new "Je serais partant pour un peu de \"viande\" là maintenant..."
 
     # remy2.rpy:165
     old "Do you have something vegetarian?"
-    new ""
+    new "Est-ce que tu as quelque chose de végétarien ?"
 
     # remy2.rpy:271
     old "Examine the shelves."
-    new ""
+    new "Examiner les étagères."
 
     # remy2.rpy:271
     old "Go into the bathroom."
-    new ""
+    new "Aller dans la salle de bain."
 
     # remy2.rpy:271
     old "Look at the pictures."
-    new ""
+    new "Regarder les photos."
 
     # remy2.rpy:271
     old "Search his bedroom."
-    new ""
+    new "Chercher sa chambre."
 
     # remy2.rpy:271
     old "Escape while I still can."
-    new ""
+    new "S'échapper tant qu'on le peux encore."
 
     # remy2.rpy:448
     old "I suppose so..."
-    new ""
+    new "Il faut croire..."
 
     # remy2.rpy:448
     old "I'll starve if you keep standing around."
-    new ""
+    new "Je vais mourir de faim si tu restes là à rien faire."
 
     # remy2.rpy:448
     old "I'm so empty."
-    new ""
+    new "J'ai trop faim."
 
     # remy2.rpy:448
     old "[[Lift your shirt]"
-    new ""
+    new "[[Soulever ta chemise]"
 
     # remy2.rpy:584
     old "I looked at some of your scrolls."
-    new ""
+    new "J'ai jeté un œil à certains de tes parchemins."
 
     # remy2.rpy:584
     old "Do you live here by yourself?"
-    new ""
+    new "Tu vis tout seul ici ?"
 
     # remy2.rpy:584
     old "I was thinking about those recent murders."
-    new ""
+    new "Je repensais aux récents meurtres."
 
     # remy2.rpy:584
     old "I met Emera recently."
-    new ""
+    new "J'ai rencontré Emera il n'y a pas longtemps."
 
     # remy2.rpy:584
     old "Why did you use a stove to cook?"
-    new ""
+    new "Pourquoi tu as utilisé une cuisinière ?"
 
     # remy2.rpy:584
     old "Nothing in particular."
-    new ""
+    new "Rien de précis."
 
     # remy2.rpy:626
     old "Mention the pictures. {image=image/ui/status/c2pictures.png}"
-    new ""
+    new "Parler des photos."
 
     # remy2.rpy:818
     old "It is adequate."
-    new ""
+    new "Ca fait l'affaire."
 
     # remy2.rpy:818
     old "It is delicious."
-    new ""
+    new "C'est délicieux."
 
     # remy2.rpy:818
     old "I would marry this steak if I could."
-    new ""
+    new "J'épouserais ce steak si je le pouvais"
 
     # remy2.rpy:845
     old "Mention that you saw him with Anna."
-    new ""
+    new "Lui dire que tu l'as vu avec Anna."
 
     # remy2.rpy:845
     old "Say nothing."
-    new ""
+    new "Ne rien dire."
 
     # remy2.rpy:885
     old "Maybe she isn't as bad as you say."
-    new ""
+    new "Peut être qu'elle n'est pas si méchante que ça."
+    
+    # remy2.rpy:885
+    old "I agree."
+    nes "Je suis d'accord."
 
     # remy2.rpy:968
-    old "Fur has a set length, wheras hair will keep growing."
-    new ""
+    old "I don't know."
+    new "Je ne sais pas."
+
+    # remy2.rpy:968
+    old "Fur has a set length, whereas hair will keep growing."
+    new "La fourrure a une longueur prédéfinie, là où les cheveux continuent de grandir."
 
     # remy2.rpy:968
     old "Fur is more dense than hair."
-    new ""
+    new "La fourrure est plus dense que les cheveux."
 
     # remy2.rpy:968
     old "There is none."
-    new ""
+    new "Il n'y en a pas."
 
     # remy2.rpy:1022
     old "I like the people."
-    new ""
+    new "J'aime bien les gens."
 
     # remy2.rpy:1022
     old "I like the landscape."
-    new ""
+    new "J'aime bien le paysage."
 
     # remy2.rpy:1042
     old "Glad to hear it."
-    new ""
+    new "Content de l'entendre."
 
     # remy2.rpy:1042
     old "Good job, Remy. You're AWESOME."
-    new ""
+    new "Beau boulot Rémi. Tu es GENIAL."
 
     # remy2.rpy:1065
     old "Ain't nobody got time for that." #meme reference
-    new ""
+    new "Personne n'a le temps pour ça."
 
     # remy2.rpy:1065
     old "Yeah, sure."
-    new ""
+    new "Ouais, bien sûr."
 
     # remy2.rpy:1065
     old "I wouldn't mind playing some of your video games."
-    new ""
+    new "Ca ne me dérangerais pas de jouer à certains de tes jeux vidéos."
+    
+    # remy2.rpy:1098
+    old "I agree."
+    nes "Je suis d'accord."
 
     # remy2.rpy:1098
     old "I didn't know you wanted to chat."
-    new ""
+    new "Je ne savais pas que tu voulais discuter."
 
     # remy2.rpy:1098
     old "I'm usually not a sit down and talk kinda person."
-    new ""
+    new "Habituellement, je ne suis pas du genre à m'asseoir et parler."
 
     # remy2.rpy:1169
     old "Is that supposed to be a joke?"
-    new ""
+    new "C'est supposé être une blague ?"
 
     # remy2.rpy:1169
     old "Very funny."
-    new ""
+    new "Très drôle."
 
     # remy2.rpy:1169
     old "Yes, that's what I meant."
-    new ""
+    new "Oui, c'est ce que je voulais dire."
 
     # remy2.rpy:1206
     old "You don't have to bother. I'm on a diet."
-    new ""
+    new "Ne te dérange pas. Je suis au régime."
 
     # remy2.rpy:1206
     old "Would it happen to be a cream pie with a cherry on top?"
-    new ""
+    new "Est-ce que ça ne serait pas une tarte à la crème avec une cerise sur le dessus ?"
 
     # remy2.rpy:1206
     old "I'm up for some dessert."
-    new ""
+    new "Je suis partant pour du dessert."
 
     # remy2.rpy:1251
     old "Ask him if he needs help."
-    new ""
+    new "Lui demander s'il a besoin d'aide."
 
     # remy2.rpy:1251
     old "Help him."
-    new ""
+    new "L'aider."
 
     # remy2.rpy:1300
     old "You don't need to apologize."
-    new ""
+    new "Tu n'as pas besoin de t'excuser."
 
     # remy2.rpy:1300
     old "That's fine, I'll just eat your slice instead."
-    new ""
+    new "C'est pas grave, je vais juste manger ta part."
 
     # remy2.rpy:1300
     old "I didn't really want dessert anyway."
-    new ""
+    new "Je n'avais pas vraiment envie de dessert de toute façon."
 
     # remy2.rpy:1345
     old "You should resign, consequences be damned."
-    new ""
+    new "Tu devrais démissionner, au diable les conséquences."
 
     # remy2.rpy:1345
     old "Can't you report her to a superior or something?"
-    new ""
+    new "Tu ne peux pas la signaler à tes supérieurs ou quelque chose comme ça ?"
 
     # remy2.rpy:1345
     old "You'll just have to endure it."
-    new ""
+    new "Tu vas être obligé de le supporter."
 
