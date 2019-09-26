@@ -34,7 +34,7 @@ translate frenchtl _call_skipcheck_34_0054b77b:
 translate frenchtl _call_skipcheck_34_f21aba3f:
 
     # Ry "Thank you again for helping me the other day. Without you, I would have been trapped sorting books for a few more hours. Inviting you over for dinner is the least I can do."
-    Ry "Encore merci de m'avoir aidé l'autre jour. Sans toi, J'aurais été contraint de classer des livres pour quelques heures de plus. T'inviter pour dinner était le moins que je puisse faire."
+    Ry "Encore merci de m'avoir aidé l'autre jour. Sans toi, J'aurais été contraint de classer des livres pour quelques heures de plus. T'inviter à dinner était le moins que je puisse faire."
 
 # game/remy2.rpy:124
 translate frenchtl _call_skipcheck_34_1dee48fd:
@@ -94,7 +94,7 @@ translate frenchtl _call_skipcheck_34_e91c393a:
 translate frenchtl _call_skipcheck_34_c48dc32f:
 
     # c "Sure."
-    c "Ca marche."
+    c "D'accord."
 
 # game/remy2.rpy:163
 translate frenchtl _call_skipcheck_34_55f689e1:
@@ -154,7 +154,7 @@ translate frenchtl _call_skipcheck_34_d866693f:
 translate frenchtl _call_skipcheck_34_39122503:
 
     # m "With those words, Remy walked into the partially walled-off kitchen. There was no door, so I saw him open the fridge and take out two steaks before he set them on the counter."
-    m "Sur ces mots, Rémi alla dans la cuisine, partiellement ouverte sur le salon. Il n'y avait pas de porte, donc je le vis ouvrir le frigo et en sortir deux steaks avant des poser sur le comptoir."
+    m "Sur ces mots, Rémi alla dans la cuisine, partiellement ouverte sur le salon. Il n'y avait pas de porte, donc je le vis ouvrir le frigo et en sortir deux steaks avant de les poser sur le comptoir."
 
 # game/remy2.rpy:218
 translate frenchtl _call_skipcheck_34_8968ee6f:
@@ -208,7 +208,7 @@ translate frenchtl _call_skipcheck_34_8ffd1b92:
 translate frenchtl _call_skipcheck_34_c8f99ce9:
 
     # m "Suddenly, the repetitious noise of vegetables being cut ceased as Remy returned from the adjoining room."
-    m "D'un coup, le bruit répétitif des légumes se faisant découper cessa alors que Rémi revenait de la pièce adjacente."
+    m "Soudain, le bruit répétitif des légumes se faisant découper cessa alors que Rémi revenait de la pièce adjacente."
 
 # game/remy2.rpy:242
 translate frenchtl _call_skipcheck_34_1e5e65c5:
@@ -238,7 +238,7 @@ translate frenchtl remy2menu_2710a92f:
 translate frenchtl remy2menu_b7e5f5f2:
 
     # m "From the titles alone, it seemed all genres were more or less represented - fiction and non-fiction alike. the scrolls were neatly sorted in holders, though I couldn't make out the logical consistency behind their arrangement."
-    m "Rien qu'à partir des titres, il semblait que tout les genres étaient plus ou moins représentés - fiction ou non. Les parchemins étaient soigneusement classés sur des supports, bien que je ne pusse saisir la consistence logique derrière leur arrangement."
+    m "Rien qu'à partir des titres, il semblait que tout les genres étaient plus ou moins représentés - fiction ou autre. Les parchemins étaient soigneusement classés sur des supports, bien que je ne pusse saisir la cohérence logique derrière leur arrangement."
 
 # game/remy2.rpy:279
 translate frenchtl remy2menu_0dbebcf8:
@@ -268,13 +268,13 @@ translate frenchtl remy2menu_548d592b:
 translate frenchtl remy2menu_6a8904bf:
 
     # m "Her crimson scaled head was adorned with frills that ran down the back of her neck. She wasn't familiar to me."
-    m "Sa tête aux écails couleurs écarlates était orné de membranes qui lui descendaient le long du coup. Elle ne m'était pas familière."
+    m "Sa tête aux écails couleurs écarlates était orné d'aigrettes qui lui descendaient le long du coup. Elle ne m'était pas familière."
 
 # game/remy2.rpy:328
 translate frenchtl remy2menu_68a85906:
 
     # m "The second picture showed Remy in his typical attire - tie, glasses and all."
-    m "La seconde photo montrait Rémi dans son attirail typique - Cravatte, lunettes et autre."
+    m "La seconde photo montrait Rémi dans son attirail typique - Cravatte, lunettes, la totale."
 
 # game/remy2.rpy:338
 translate frenchtl remy2menu_6496ac67:
@@ -334,7 +334,7 @@ translate frenchtl _call_syscheck_114_15a8f30b:
 translate frenchtl remy2cont_f3bc5b96:
 
     # m "The bathroom door opened and revealed the white dragon. As he approached, I felt my stomach grumble quietly."
-    m "La porte de la salle de bain s'ouvrit révellant le dragon blanc. Alors qu'il approchais, je sentis mon estomac gargouiller silentieusement."
+    m "La porte de la salle de bain s'ouvrit révélant le dragon blanc. Alors qu'il approchait, je sentis mon estomac gargouiller silencieusement."
 
 # game/remy2.rpy:444
 translate frenchtl remy2cont_97ce035f:
@@ -388,7 +388,7 @@ translate frenchtl remy2cont_0edb3f5d:
 translate frenchtl remy2cont_49444037:
 
     # c "Because I think it is pretty hairy."
-    c ""
+    c "Parce que je trouve que c'est assez touffu."
 
 # game/remy2.rpy:482
 translate frenchtl remy2cont_0edb3f5d_1:
@@ -472,7 +472,7 @@ translate frenchtl remy2cont_084626ba:
 translate frenchtl remy2cont_5d0f6108:
 
     # m "He shooed me out of his apartment after that, and not wanting to make a scene, I left. I'm still not sure what exactly went wrong that evening, but somehow I didn't think he would want to meet with me again."
-    m "Il me jeta hors de l'appartement après ça, et ne voulant pas faire une scène, je partis. Jusqu'à présent, je ne pouvais dire ce que j'avais fais de mal cette soirée là, mais d'une façon ou d'une autre, je me doutais qu'il n'aurait pas voulu qu'on se revoit."
+    m "Il me jeta hors de l'appartement après ça, et ne voulant pas faire une scène, je partis. Jusqu'à présent, je ne pouvais dire ce que j'avais fais de mal cette soirée là, mais d'une façon ou d'une autre, je me doutais qu'il n'aurait pas voulu me revoir."
 
 # game/remy2.rpy:529
 translate frenchtl remy2cont_03219642:
@@ -526,7 +526,7 @@ translate frenchtl remy2cont_453c3f35:
 translate frenchtl remy2cont_d6d4994f:
 
     # m "I looked down and saw that a plate was already in front of me, piled with steak and vegetables. Remy was already eating, so I took the knife he had provided and cut off a small corner of my steak."
-    m "Je baissai les yeux et vis qu'une assiette était déjà posé devant moi, avec dessus un steak et des légumes. Rémi était déjà en train de manger, donc je pris le couteau qu'il m'avait fourni et coupa un boût de mon steak."
+    m "Je baissai les yeux et vis qu'une assiette était déjà posé devant moi, avec dessus un steak et des légumes. Rémi était déjà en train de manger, donc je pris le couteau qu'il m'avait fourni et me coupa un boût de mon steak."
 
 # game/remy2.rpy:563
 translate frenchtl remy2cont_e78d707f:
@@ -748,7 +748,7 @@ translate frenchtl remy2picturesmenu_f7ac673c:
 translate frenchtl remy2picturesmenu_ba6fa663:
 
     # c "She was hanging around Tatsu Park."
-    c "Elle se reposait aux alentours de Tatsu Park."
+    c "Elle se baladait aux alentours de Tatsu Park."
 
 # game/remy2.rpy:715
 translate frenchtl remy2picturesmenu_41b1776b:
@@ -778,7 +778,7 @@ translate frenchtl remy2picturesmenu_ebeb16d8:
 translate frenchtl remy2picturesmenu_729ab183:
 
     # Ry "Breathing fire indoors is also a little unsafe."
-    Ry "Cracher du feu en interieur n'est également pas très "
+    Ry "Cracher du feu en interieur n'est également pas très sécuritaire."
 
 # game/remy2.rpy:732
 translate frenchtl remy2picturesmenu_63b77305:
@@ -838,7 +838,7 @@ translate frenchtl _call_skipcheck_35_3562e2a8:
 translate frenchtl _call_skipcheck_35_e3fd2895:
 
     # Ry smile "Thank you. I suppose you learn to cook well when you live on your own long enough."
-    Ry smile "Merci. Je suppose que tu apprends à cuisiner quand tu vis tout seul assez longtemps."
+    Ry smile "Merci. Je suppose que tu finis par apprendre à cuisiner quand tu vis tout seul assez longtemps."
 
 # game/remy2.rpy:840
 translate frenchtl _call_skipcheck_35_2d95a250:
@@ -934,7 +934,7 @@ translate frenchtl _call_skipcheck_35_4985f15b:
 translate frenchtl _call_skipcheck_35_362fa370:
 
     # Ry "Her casual disregard for rules of any kind should tell you what kind of person she is."
-    Ry "Mon manque de considération pour le règlement quel qu'il soit devrait te dire quel genre de personne elle est."
+    Ry "Son manque de considération pour le règlement quel qu'il soit devrait te dire quel genre de personne elle est."
 
 # game/remy2.rpy:879
 translate frenchtl _call_skipcheck_35_7d549f75:
@@ -1066,7 +1066,7 @@ translate frenchtl _call_skipcheck_35_a2d171f9:
 translate frenchtl _call_skipcheck_35_9ed732a5:
 
     # Ry "We get a range of products from them - from meat and milk, to sub-products like butter and cheese, in addition to leather, felt, oils and creams. We even use their horns and bones for a variety of things."
-    Ry "On obtient une large gamme de produits à partir d'eux - de la viande et du lait, aux sous-produits comme le beurre et le fromage, en plus du cuir, du feutre, huiles et crèmes. On utilise même leurs cornes et leurs os pour tout un tas de choses."
+    Ry "On obtient une large gamme de produits à partir d'eux - de la viande et du lait, aux sous-produits comme le beurre et le fromage, en plus du cuir, du feutre, des huiles et des crèmes. On utilise même leurs cornes et leurs os pour tout un tas de choses."
 
 # game/remy2.rpy:953
 translate frenchtl _call_skipcheck_35_371779db:
@@ -1168,7 +1168,7 @@ translate frenchtl _call_skipcheck_35_54057ca1:
 translate frenchtl _call_skipcheck_35_128e18d8:
 
     # c "They also provide warmth and protection, and are used to differentiate us from one another. Sometimes, uniforms are used as identification. Other times, clothes are just ornamental. What a person wears can tell us something about the person itself."
-    c "Ils prodiguent aussi chaleur et prtection, et sont utilisés pour nous différentier les uns des autres. Parfois, des uniformes sont utilisés en tant qu'identifiant. D'autre fois, les vêtements sont juste décoratifs. Ce que porte une personne peut nous dire quelue chose au sujet de la personne elle même."
+    c "Ils prodiguent aussi chaleur et prtection, et sont utilisés pour nous différentier les uns des autres. Parfois, des uniformes sont utilisés en tant qu'identifiant. D'autre fois, les vêtements sont juste décoratifs. Ce que porte une personne peut nous dire quelque chose au sujet de la personne elle même."
 
 # game/remy2.rpy:1008
 translate frenchtl _call_skipcheck_35_19abd388:
@@ -1210,7 +1210,7 @@ translate frenchtl _call_skipcheck_35_13251290:
 translate frenchtl _call_skipcheck_35_99c4fd1f:
 
     # Ry "Now that you've been in our world for a while, how do you like it here?"
-    Ry "Maintenant que tu as été dans notre monde depuis un moment, Comment aimes tu la vie ici ?"
+    Ry "Maintenant que tu as été dans notre monde depuis un moment, Comment aimes-tu la vie ici ?"
 
 # game/remy2.rpy:1028
 translate frenchtl _call_skipcheck_35_8a50e9bd:
@@ -1234,7 +1234,7 @@ translate frenchtl _call_skipcheck_35_8a4d91e0:
 translate frenchtl _call_skipcheck_35_ca9e1996:
 
     # Ry "I was quite relieved when I found out."
-    Ry "J'étais assez soulagé quand j'ai trouvé la solution."
+    Ry "J'ai été assez soulagé quand j'ai trouvé la solution."
 
 # game/remy2.rpy:1060
 translate frenchtl _call_skipcheck_35_db4a38b9:
@@ -1444,7 +1444,7 @@ translate frenchtl _call_skipcheck_35_30762ba0:
 translate frenchtl _call_skipcheck_35_53bfe1ad:
 
     # Ry "I'm just messing with you, [player_name]."
-    Ry "Je te taquine juste, [player_name]."
+    Ry "Je te taquine juste un peu, [player_name]."
 
 # game/remy2.rpy:1193
 translate frenchtl _call_skipcheck_35_c435ab1f:
@@ -1504,7 +1504,7 @@ translate frenchtl _call_skipcheck_35_7e79dc35:
 translate frenchtl _call_skipcheck_35_cef20a6e:
 
     # m "He neatly stacked our dishes before he took them into one of his forepaws and went back into the kitchen using his other three limbs. I couldn't help but think that it looked pretty awkward."
-    m "Il empila proprement la vaisselle avant de les prendre dans une de ses pattes avant et de repartir dans la cuisine en se servant de ses autres pattes. Je ne pouvais m'empêcher de penser que ça avait l'air assez malaisant."
+    m "Il empila proprement la vaisselle avant de la prendre dans une de ses pattes avant et de repartir dans la cuisine en se servant de ses autres membres. Je ne pouvais m'empêcher de penser que ça avait l'air assez malaisant."
 
 # game/remy2.rpy:1249
 translate frenchtl _call_skipcheck_35_e46d7027:
@@ -1546,19 +1546,19 @@ translate frenchtl _call_skipcheck_35_b6cd2d3d:
 translate frenchtl _call_skipcheck_35_59bc1ef6:
 
     # m "Once he placed the first cake slice on the table, he went back to fetch the other. When he approached the table a second time, though, one of the tiny dessert forks started to slip off of the plate."
-    m "Une fois qu'il plaça la première part de gâteau sur la table, il repartit pour servir l'autre. Quand il approcha cependant la seconde fois, l'une des petites fourchettes à dessert commenca à glisser de l'assiette."
+    m "Une fois qu'il plaça la première part de gâteau sur la table, il repartit pour servir l'autre. Cependant, quand il approcha la seconde fois, l'une des petites fourchettes à dessert commenca à glisser de l'assiette."
 
 # game/remy2.rpy:1278
 translate frenchtl _call_skipcheck_35_2fbca092:
 
     # m "Remy reached with his free forepaw in his attempt to save it, but lost balance without its support and fell over."
-    m "Rémi tenta de l'atteindre avec sa patte libre, tentant de la sauver, mais perdit l'équilibre sans son support et tomba en avant."
+    m "Rémi tenta de l'atteindre avec sa patte libre, dans sa tentative de la sauver, mais perdit l'équilibre sans son support et tomba en avant."
 
 # game/remy2.rpy:1282
 translate frenchtl _call_skipcheck_35_e2efb8b7:
 
     # m "In an instant, the plate, fork and cake slice flew through the air. The dish and silverware clattered as the pristine cake crumbled into a sad heap on the floor."
-    m "En un instant, l'assiète, la fourchette et le gâteau volèrent dans les airs. L'assiette et le couvert claquèrent là où le gâteau s'effondra sur le sol en un triste tas."
+    m "En un instant, l'assiette, la fourchette et le gâteau volèrent dans les airs. L'assiette et le couvert claquèrent là où le gâteau s'effondra sur le sol en un triste tas."
 
 # game/remy2.rpy:1296
 translate frenchtl _call_skipcheck_35_273ec8d2:
@@ -1576,7 +1576,7 @@ translate frenchtl _call_skipcheck_35_0cdc1fe2:
 translate frenchtl _call_skipcheck_35_f1478745:
 
     # Ry sad "This isn't just about you and your cake. This always happens to me, no matter how hard I try."
-    Ry sad "Ca ne concerne pas que toi et ton gâteau. Ca m'arrive tout le temps, peu importe à quel point j'essaye."
+    Ry sad "Ca ne concerne pas que toi et ton gâteau. Ca m'arrive tout le temps, peu importe combien j'essaye."
 
 # game/remy2.rpy:1319
 translate frenchtl _call_skipcheck_35_6da6d0a5:
@@ -1618,7 +1618,7 @@ translate frenchtl _call_skipcheck_35_19056ba7:
 translate frenchtl _call_skipcheck_35_05794cc7:
 
     # c "She makes fun of you for it."
-    c "Elle se paie ta têre pour ça."
+    c "Elle se paie ta tête pour ça."
 
 # game/remy2.rpy:1333
 translate frenchtl _call_skipcheck_35_37423398:
@@ -1672,7 +1672,7 @@ translate frenchtl _call_skipcheck_35_4d96cd23:
 translate frenchtl _call_skipcheck_35_27a9194f:
 
     # Ry "Maybe I do."
-    Ry "Peut être"
+    Ry "Peut être."
 
 # game/remy2.rpy:1364
 translate frenchtl _call_skipcheck_35_a99b5624:
@@ -1892,7 +1892,7 @@ translate frenchtl strings:
 
     # remy2.rpy:120
     old "It's no problem, really."
-    new "Ce n'était rien, je t'assure."
+    new "C'était trois fois rien, je t'assure."
 
     # remy2.rpy:120
     old "It really is."
@@ -1908,7 +1908,7 @@ translate frenchtl strings:
 
     # remy2.rpy:165
     old "How about steak?"
-    new "Que penses tu d'un steak"
+    new "Que penses-tu d'un steak"
 
     # remy2.rpy:165
     old "I could go for some \"meat\" right now..."
@@ -1972,7 +1972,7 @@ translate frenchtl strings:
 
     # remy2.rpy:584
     old "Why did you use a stove to cook?"
-    new "Pourquoi tu as utilisé une cuisinière ?"
+    new "Pourquoi as-tu utilisé une cuisinière ?"
 
     # remy2.rpy:584
     old "Nothing in particular."
@@ -2008,7 +2008,11 @@ translate frenchtl strings:
     
     # remy2.rpy:885
     old "I agree."
-    nes "Je suis d'accord."
+    new "Je suis d'accord."
+
+    # remy2.rpy:885
+    old "Say nothing."
+    new "Ne rien dire."
 
     # remy2.rpy:968
     old "I don't know."
@@ -2120,5 +2124,5 @@ translate frenchtl strings:
 
     # remy2.rpy:1345
     old "You'll just have to endure it."
-    new "Tu vas être obligé de le supporter."
+    new "Tu vas être obligé de prendre sur toi."
 
