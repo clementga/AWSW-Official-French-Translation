@@ -4,199 +4,199 @@
 translate frenchtl _call_skiptut_24_44e0ddc6:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip ahead a bit?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/remy3.rpy:54
 translate frenchtl _call_skiptut_24_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/remy3.rpy:62
 translate frenchtl _call_skiptut_24_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène."
 
 # game/remy3.rpy:76
 translate frenchtl _call_skiptut_24_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy3.rpy:97
 translate frenchtl _call_skipcheck_24_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy3.rpy:105
 translate frenchtl _call_skipcheck_24_42ba5ff5:
 
     # c "Hey, Remy!"
-    c ""
+    c "Salut, Rémi !"
 
 # game/remy3.rpy:107
 translate frenchtl _call_skipcheck_24_b78d98e9:
 
     # Ry "Hello, [player_name]."
-    Ry ""
+    Ry "Bonjour, [player_name]."
 
 # game/remy3.rpy:109
 translate frenchtl _call_skipcheck_24_79362d3c:
 
     # c "Is there any particular reason why you wanted to meet here?"
-    c ""
+    c "Y a-t-il une raison particulière pour laquelle tu voulais qu'on se retrouve ici ?"
 
 # game/remy3.rpy:111
 translate frenchtl _call_skipcheck_24_8f7dccd7:
 
     # Ry "I enjoy Tatsu Park is all. Have you been here before?"
-    Ry ""
+    Ry "J'apprécie le parc Tatsu, c'est tout. Es tu déjà allé ici auparavant ?"
 
 # game/remy3.rpy:128
 translate frenchtl _call_skipcheck_24_07d1113d:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/remy3.rpy:130
 translate frenchtl _call_skipcheck_24_ac05d355:
 
     # Ry "Well, what do you think of it?"
-    Ry ""
+    Ry "Eh bien, Qu'est-ce que tu en penses ?"
 
 # game/remy3.rpy:139
 translate frenchtl _call_skipcheck_24_3724466d:
 
     # Ry smile "It is. I like it a lot here."
-    Ry smile ""
+    Ry smile "N'est-ce pas ? J'aime beaucoup cet endroit."
 
 # game/remy3.rpy:148
 translate frenchtl _call_skipcheck_24_4bb2668b:
 
     # Ry shy "You think so?"
-    Ry shy ""
+    Ry shy "Vraiment ?"
 
 # game/remy3.rpy:150
 translate frenchtl _call_skipcheck_24_fe28c79c:
 
     # c "Yeah, just look at those trees. Would make a nice spot for a date, really."
-    c ""
+    c "Oauis, Regardes les arbres. Ca ferait un super endroit pour un rencard, je t'assure."
 
 # game/remy3.rpy:152
 translate frenchtl _call_skipcheck_24_57f025fb:
 
     # Ry normal "I agree with that."
-    Ry normal ""
+    Ry normal "Je suis d'accord là dessus."
 
 # game/remy3.rpy:159
 translate frenchtl _call_skipcheck_24_43e84bfa:
 
     # Ry "I suppose you don't appreciate the simple things, then. I like it here."
-    Ry ""
+    Ry "Il faut croire que tu n'apprécies pas les choses simples. J'aime bien cet endroit."
 
 # game/remy3.rpy:164
 translate frenchtl _call_skipcheck_24_f2b0a502:
 
     # c "You mentioned you wanted to talk to me about something."
-    c ""
+    c "Tu m'as dit que tu voulais me parler de quelque chose."
 
 # game/remy3.rpy:166
 translate frenchtl _call_skipcheck_24_1075c3f6:
 
     # Ry shy "Yes, well... about that..."
-    Ry shy ""
+    Ry shy "Oui, eh bien... à propos de ça..."
 
 # game/remy3.rpy:168
 translate frenchtl _call_skipcheck_24_b04cd875:
 
     # Ry "I just have a lot on my mind and I felt like I needed to tell someone."
-    Ry ""
+    Ry "J'ai juste beaucoup de chose à l'esprit et j'ai ressenti le besoin d'en parler à quelqu'un."
 
 # game/remy3.rpy:170
 translate frenchtl _call_skipcheck_24_b3d7f3aa:
 
     # Ry "I wouldn't burden you if I had anyone else to talk to, but the simple fact is that I don't."
-    Ry ""
+    Ry "Je ne t'embêterais pas avec ça si j'avais quelqu'un d'autre à qui en parler, mais le fait est que je n'ai personne."
 
 # game/remy3.rpy:172
 translate frenchtl _call_skipcheck_24_a6c1b3cb:
 
     # c "Hey, you can talk to me, Remy."
-    c ""
+    c "Hey, Tu peux m'en parler, Rémi."
 
 # game/remy3.rpy:174
 translate frenchtl _call_skipcheck_24_056888f8:
 
     # Ry "Thank you. I appreciate that."
-    Ry ""
+    Ry "Merci. J'apprécie."
 
 # game/remy3.rpy:177
 translate frenchtl _call_skipcheck_24_d55c4719:
 
     # c "It's not a problem. What's on your mind?"
-    c ""
+    c "Ce n'est pas un problème. Qu'est-ce qui te tracasse ?"
 
 # game/remy3.rpy:179
 translate frenchtl _call_skipcheck_24_3eb4c49e:
 
     # Ry sad "I don't even know where to begin."
-    Ry sad ""
+    Ry sad "Je ne sais même pas par quoi commencer."
 
 # game/remy3.rpy:181
 translate frenchtl _call_skipcheck_24_c2b8d8a8:
 
     # Ry "Do you ever feel like there is an emptiness inside you? That every day is the same, joyless routine that you wish you could escape - but you can't?"
-    Ry ""
+    Ry "As tu déjà senti un vide au fond de toi ? Que chaque jour était la même routine triste dont tu rêverais d'échapper - sans le puvoir ?"
 
 # game/remy3.rpy:206
 translate frenchtl _call_skipcheck_24_07d1113d_1:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/remy3.rpy:208
 translate frenchtl _call_skipcheck_24_95179a95:
 
     # c "Is this about Emera again?"
-    c ""
+    c "Est-ce que c'est encore à propos d'Emera ?"
 
 # game/remy3.rpy:210
 translate frenchtl _call_skipcheck_24_54970630:
 
     # Ry "Well, it's not just about her, but working with her doesn't make things any easier."
-    Ry ""
+    Ry "Eh bien, il n'y a pas qu'elle, mais travailler à ces côtés n'a pas rendu les choses faciles."
 
 # game/remy3.rpy:212
 translate frenchtl _call_skipcheck_24_935288d8:
 
     # Ry "To think that just a few years ago I was the happiest I could've been. And now, I have nothing but my miserable life."
-    Ry ""
+    Ry "Quand je pense qu'il y a quelques années, j'étais le plus heureux que je n'aurais jamais pu être. Et maintenant, je n'ai rien d'autre que ma misérable vie."
 
 # game/remy3.rpy:214
 translate frenchtl _call_skipcheck_24_499819e9:
 
     # c "What happened?"
-    c ""
+    c "Que s'est-il passé ?"
 
 # game/remy3.rpy:216
 translate frenchtl _call_skipcheck_24_a8eaa93f:
 
     # Ry "It's a long story."
-    Ry ""
+    Ry "C'est une longue histoire."
 
 # game/remy3.rpy:226
 translate frenchtl _call_skipcheck_24_314cabfb:
 
     # Ry "I'll try."
-    Ry ""
+    Ry "Je vais essayer."
 
 # game/remy3.rpy:235
 translate frenchtl _call_skipcheck_24_d2d6c360:
 
     # Ry "Okay, well..."
-    Ry ""
+    Ry "D'accord, eh bien..."
 
 # game/remy3.rpy:241
 translate frenchtl _call_skipcheck_24_76b2fe88:
