@@ -226,7 +226,7 @@ translate frenchtl _call_skipcheck_24_a55f68f8:
 translate frenchtl _call_skipcheck_24_d5604b17:
 
     # n "In this way, we offered a variety of comprehensive opinions on difficult topics. We found the truth, and allowed people and politicians to make up their minds from there. Our work was a key influence in the community, and because the conclusions of each individual member were often very different, it could never be said that we were biased."
-    n ""
+    n "De cette façon, nous offriions un panel d'opinions compréhensibles sur des sujets difficiles. On trouvait la réponse, et permettions aux gens et aux politiciens de se faire leur idée. Notre travail avait une influence majeure au sein de la communauté, et parce que les conclusions de chaque membres étaient souvent différentes, on ne pouvait dire que nous étions biaisés."
 
 # game/remy3.rpy:255
 translate frenchtl _call_skipcheck_24_76b2fe88_1:
@@ -238,37 +238,37 @@ translate frenchtl _call_skipcheck_24_76b2fe88_1:
 translate frenchtl _call_skipcheck_24_eb0d91a4:
 
     # n "It was during one such assignment that I met a certain person named Amelia."
-    n ""
+    n "Ce fut durant une de ces missions que je rencontrai une certaine personne nommée Amelia."
 
 # game/remy3.rpy:260
 translate frenchtl _call_skipcheck_24_b0d13b90:
 
     # n "My task was to determine the viability of several projects, each competing for a research grant from our council."
-    n ""
+    n "Ma tâche consistait à déterminer la viabilité de plusieurs projets, tous en compétition pour une bourse de recherche attribuée par notre conseil."
 
 # game/remy3.rpy:262
 translate frenchtl _call_skipcheck_24_eafbf705:
 
     # n "Amelia was a member of one of the scientific teams vying for a grant. She was an inventor, and her group was looking for ways to streamline hospital processes and tests by utilizing new technology."
-    n ""
+    n "Amelia était membre d'une des équipes scientifiques appliquant pour une bourse. Elle était inventrice, et son groupe cherchait un moyen de traiter les tests et processus hospitaliers à la chaîne en utilisant les nouvelles technologies."
 
 # game/remy3.rpy:264
 translate frenchtl _call_skipcheck_24_409e56dd:
 
     # n "The first time I saw her was when our committee watched her group's pitch. One of the things we had to do was determine whether their claims and goals were realistic."
-    n ""
+    n "La première fois que je l'ai vue, c'était quand notre comité assistait à la présentation de son groupe. Une des choses que nous avions à faire était de déterminer si leurs objectifs étaient réalistes."
 
 # game/remy3.rpy:266
 translate frenchtl _call_skipcheck_24_ff01ba80:
 
     # n "In her case, they were."
-    n ""
+    n "Et c'était le cas pour eux."
 
 # game/remy3.rpy:268
 translate frenchtl _call_skipcheck_24_3d6fa463:
 
     # n "Ultimately, they didn't get the grant, but when she recognized me in a restaurant a while later, we started talking."
-    n ""
+    n "En définitive, ils n'ont pas obtenu la bourse, mais quand elle m'a reconnu dans un restaurant quelques temps après, on se mit à discuter."
 
 # game/remy3.rpy:271
 translate frenchtl _call_skipcheck_24_76b2fe88_2:
@@ -280,31 +280,31 @@ translate frenchtl _call_skipcheck_24_76b2fe88_2:
 translate frenchtl _call_skipcheck_24_c970170f:
 
     # n "She was very smart, and I admired her spirit. She just wanted to help people with her talents - and in this way, she reminded me a lot of myself."
-    n ""
+    n "Elle était très intelligente, et j'admirais son état d'esprit. Elle voulais juste aider la population avec ses talents - et de cette façon, elle me renvoyait une image de moi même."
 
 # game/remy3.rpy:276
 translate frenchtl _call_skipcheck_24_03882695:
 
     # n "We kept seeing one another, and we grew close. Before long, we were dating. It felt so right..."
-    n ""
+    n "On continuait à se voir, et nous nous raprochâmes. Peu de temps après, nous sortions ensemble. Je me sentais si bien..."
 
 # game/remy3.rpy:278
 translate frenchtl _call_skipcheck_24_6a306c8d:
 
     # n "I thought our relationship was about to become very serious, but then she informed me that her research group had applied for another grant."
-    n ""
+    n "Je pensais que notre relation allait devenir très sérieuse, et puis elle m'informa que son groupe de recherche avait de nouveau appliqué pour une bourse."
 
 # game/remy3.rpy:280
 translate frenchtl _call_skipcheck_24_249e0608:
 
     # n "Of course, that complicated things. My committee was once again tasked with judging the viability of the different projects, and while I intended to stay impartial on the matter, she would probably be seen as an influence due to our relationship."
-    n ""
+    n "Bien sûr, ça compliquait les choses. Mon comité était de nouveau chargé de juger la viabilité des différents projets, et comme j'entendais rester impartial sur le sujet, elle aurait été probablement vu comme une influence due à notre relation."
 
 # game/remy3.rpy:282
 translate frenchtl _call_skipcheck_24_70e3631a:
 
     # n "With these concerns in mind, we decided to not meet again until the grant winner was determined. We hadn't expected her group to get it, but in the end, they did."
-    n ""
+    n "Avec ces inquiétudes à l'esprit, nous décidâmes de ne plus nous revoir jusqu'à ce que le gagnant de la bourse fut déterminé. Nous ne nous attendions pas à ce que son groupe l'obtînt, mais au final ce fut le cas."
 
 # game/remy3.rpy:285
 translate frenchtl _call_skipcheck_24_76b2fe88_3:
