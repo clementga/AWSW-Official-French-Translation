@@ -208,19 +208,19 @@ translate frenchtl _call_skipcheck_24_76b2fe88:
 translate frenchtl _call_skipcheck_24_59e46184:
 
     # n "A few years ago, I worked in the public sector. I mean, I still do, but my position was a different one. I didn't work under a minister back then."
-    n ""
+    n "Il y a quelques années de cela, Je travaillais dans le secteur public. Je veux dire, c'est toujours le cas, mais mon poste était différent. Je ne travaillais pas pour un ministère à l'époque."
 
 # game/remy3.rpy:247
 translate frenchtl _call_skipcheck_24_f17e700e:
 
     # n "I was part of a committee tasked with providing independent and factually backed opinions on community topics. It was supposed to help not only politicians, but also the general populace."
-    n ""
+    n "Je faisais partie d'un commité chargé d'apporter des opinions indépendantes et sourcées sur des thématiques d'ordre publique. Ce n'était pas supposé aider seulement les politiciens, mais également la population en général."
 
 # game/remy3.rpy:249
 translate frenchtl _call_skipcheck_24_a55f68f8:
 
     # n "Free from outside interference, we did our own fact-checking based on research and publicly reported our findings. Our individual members didn't always agree, but we made sure the end results were based on verifiable facts."
-    n ""
+    n "Libres de toute interférence extérieure, Nous vérifiions nous même nos sources en nous basant sur les travaux des chercheurs et raportions publiquement nos découvertes. Nos membres n'étaient pas toujours d'accord entre eux, mais on s'assurait que les résultats finaux étaient basés sur des faits vérifiables."
 
 # game/remy3.rpy:251
 translate frenchtl _call_skipcheck_24_d5604b17:
