@@ -316,19 +316,19 @@ translate frenchtl _call_skipcheck_24_76b2fe88_3:
 translate frenchtl _call_skipcheck_24_d47bfbfb:
 
     # n "We didn't want to end our relationship over something like that, but if word got out that we were together during the decision-making period, it would've put both our jobs in jeopardy."
-    n ""
+    n "Nous ne voulions pas mettre un terme à notre relation pour quelque chose comme ça, mais s'il s'était appris que nous étions ensemble durant le période de décision, cela nous aurait coûté notre travail à tout les deux."
 
 # game/remy3.rpy:290
 translate frenchtl _call_skipcheck_24_0313b796:
 
     # n "In the end, we decided to wait and made a commitment. Six months after the grant was given to her team, we would return to one another and make our relationship public. That much time would have ensured that it wouldn't be an issue. We even made plans to move in together when that time came."
-    n ""
+    n "Au final, nous décidâmes d'attendre et nous fîmes une promesse. Six mois après que la bourse fût donnée à son équipe, nous avions prévu de nous remettre ensemble et de rendre notre relation public. Ce laps de temps nous aurait assuré que ça ne présentait aucun problème. Nous avions même prévu d'emménager ensemble le moment venu."
 
 # game/remy3.rpy:292
 translate frenchtl _call_skipcheck_24_ffc4c27f:
 
     # n "But we never got that far. I only know the rest of what happened from various reports, but apparently, Amelia got sick. Nothing serious, mind you. She continued working from home as best as she could. The project was already behind schedule, and she didn't want to endanger it."
-    n ""
+    n "Mais nous ne fûmes pas jusque là. Je n'ai connaissance du reste que par divers rapports, mais apparement, Amelia est tombée malade. Rien de grave, bien sûr. Elle continuait à travailler de chez elle du mieux qu'elle pouvait. Le projet avait déjà du retard, et elle ne voulais pas risquer de le faire capoter."
 
 # game/remy3.rpy:295
 translate frenchtl _call_skipcheck_24_76b2fe88_4:
@@ -340,37 +340,37 @@ translate frenchtl _call_skipcheck_24_76b2fe88_4:
 translate frenchtl _call_skipcheck_24_87e8f10e:
 
     # n "People were critical and very curious about what the project would amount to, and she didn't want to be responsible for its failure if she took some days off to recuperate."
-    n ""
+    n "Les gens étaient critiques et très curieux à propos de ce qu'allait promettre ce projet, et elle ne voulais pas être responsable de son échec en prenant quelques jours de repos pour récupérer."
 
 # game/remy3.rpy:300
 translate frenchtl _call_skipcheck_24_6ace5aff:
 
     # n "So, every day, she continued working on the project until the dead of night."
-    n ""
+    n "Donc, chaque jours, elle continuait de travailler dessus jusqu'au milieu de la nuit."
 
 # game/remy3.rpy:302
 translate frenchtl _call_skipcheck_24_12960b72:
 
     # n "One late evening, she went out to pick up her medication - in addition to something to help her stay awake. But she was sick and overworked. The combination of the prescription's side effects and the supplements caused her to collapse. No one was around to see her fall."
-    n ""
+    n "Un soir tard, elle sortit pour aller chercher ses médicaments - en plus de quelque chose pour la maintenir éveillée. Mais elle était malade et surmenée. La combinaison des effets secondaires du traitement et les suppléments causèrent sont évanouissement. Personne n'était présent quand c'est arrivé."
 
 # game/remy3.rpy:304
 translate frenchtl _call_skipcheck_24_daa29987:
 
     # n "When she was found the next day, she was covered by a blanket of fresh snow."
-    n ""
+    n "Quand elle a été trouvée le jour suivant, elle était recouverte d'une fraîche couche de neige."
 
 # game/remy3.rpy:306
 translate frenchtl _call_skipcheck_24_0ede14a9:
 
     # n "It was too late."
-    n ""
+    n "Il était trop tard."
 
 # game/remy3.rpy:308
 translate frenchtl _call_skipcheck_24_b356bd40:
 
     # n "She froze to death during the cold winter night."
-    n ""
+    n "Elle était morte de froid durant cette nuit hivernale."
 
 # game/remy3.rpy:311
 translate frenchtl _call_skipcheck_24_76b2fe88_5:
@@ -382,19 +382,19 @@ translate frenchtl _call_skipcheck_24_76b2fe88_5:
 translate frenchtl _call_skipcheck_24_2ad5d6ac:
 
     # n "If someone was with her, this would not have happened."
-    n ""
+    n "Si quelqu'un avait été avec elle, ça ne serait pas arrivé."
 
 # game/remy3.rpy:316
 translate frenchtl _call_skipcheck_24_1deb998b:
 
     # n "But she died out there, all alone."
-    n ""
+    n "Mais elle est morte dehors, toute seule."
 
 # game/remy3.rpy:318
 translate frenchtl _call_skipcheck_24_0f35610d:
 
     # n "All because we kept our relationship a secret."
-    n ""
+    n "Tout ça parce que nous avions gardé notre relation secrète."
 
 # game/remy3.rpy:328
 translate frenchtl _call_skipcheck_24_3cef5db4:
