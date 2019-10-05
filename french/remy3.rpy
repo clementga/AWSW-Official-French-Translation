@@ -400,55 +400,55 @@ translate frenchtl _call_skipcheck_24_0f35610d:
 translate frenchtl _call_skipcheck_24_3cef5db4:
 
     # Ry "We had plans to move in together. We even talked about having our own, small family."
-    Ry ""
+    Ry "On avait prévu d'emménager ensemble. On avait même parler de fonder notre propre famille."
 
 # game/remy3.rpy:330
 translate frenchtl _call_skipcheck_24_c3527876:
 
     # Ry "Some things are just not meant to be, it seems."
-    Ry ""
+    Ry "Il semblerait que certaines choses ne soient pas faites pour durer."
 
 # game/remy3.rpy:332
 translate frenchtl _call_skipcheck_24_ee34f5da:
 
     # Ry sad "If I had to identify the moment life started going downhill, losing Amelia would be it."
-    Ry sad ""
+    Ry sad "Si j'avais dû identifier le moment où ma vie a commencé à partir en vrille, ça serait quand j'ai perdu Amelia."
 
 # game/remy3.rpy:334
 translate frenchtl _call_skipcheck_24_bdc479fd:
 
     # Ry "My heart was ripped out in that moment, and now only emptiness remains. It's like a wound that never closes."
-    Ry ""
+    Ry "Mon cœur était déchiré à ce moment là, et maintenant il ne reste qu'un vide. C'est comme une blessure qui ne se referme jamais."
 
 # game/remy3.rpy:336
 translate frenchtl _call_skipcheck_24_ee27ef00:
 
     # Ry shy "Maybe you saw those pictures in my apartment."
-    Ry shy ""
+    Ry shy "Tu as éventuellement vu les photos dans mon appartement."
 
 # game/remy3.rpy:338
 translate frenchtl _call_skipcheck_24_cf9bdce1:
 
     # Ry "Even my home is a reminder of her. We were going to move in to that apartment together."
-    Ry ""
+    Ry "Même chez moi me fait penser à elle. Nous allions emménager dans cet appartement ensemble."
 
 # game/remy3.rpy:340
 translate frenchtl _call_skipcheck_24_e2debe6f:
 
     # Ry "And this tie I'm wearing? I got it from her as well."
-    Ry ""
+    Ry "Et cette cravate que je porte ? C'est elle qui me l'a offerte."
 
 # game/remy3.rpy:342
 translate frenchtl _call_skipcheck_24_c4704748:
 
     # Ry "When she gave it to me, she said that it was red like her scales. As long as I wore it, she would be with me, in a way."
-    Ry ""
+    Ry "Quand elle me l'a donnée, elle m'a dit que c'était rouge comme ses écailles. Qu'aussi longtemps que je la portait, elle serait à mes côtés, d'une certaine façon."
 
 # game/remy3.rpy:344
 translate frenchtl _call_skipcheck_24_66fdf28d:
 
     # Ry sad "For so long, I've been holding on to her with all my might. I wish I could stop, because I know it's killing me, but I've been doing it for so long that I don't think I can."
-    Ry sad ""
+    Ry sad "Pendant si longtemps, je me suis raccroché à elle de toutes mes forces. J'aimerais arrêter, parce que je sais que c'est en train de me tuer, mais je fais ça depuis si longtemps que je ne pense pas en être capable."
 
 # game/remy3.rpy:346
 translate frenchtl _call_skipcheck_24_725d4fb3:
