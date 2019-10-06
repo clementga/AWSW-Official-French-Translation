@@ -454,193 +454,193 @@ translate frenchtl _call_skipcheck_24_66fdf28d:
 translate frenchtl _call_skipcheck_24_725d4fb3:
 
     # Ry shy "Yet in some way, holding on to Amelia has helped me. When I look back on all the happy memories we made, Emera's bullying hurts a little less, if only because those memories hurt so much more."
-    Ry shy ""
+    Ry shy "Mais d'une certaine façon, me raccrocher à Amelia m'a aidé. Quand je regarde tous les bons moments qu'on a vécu, Le harcellement d'Emera fait un peu moins mal, parce que ces souvenirs sont encore plus douloureux."
 
 # game/remy3.rpy:348
 translate frenchtl _call_skipcheck_24_97966788:
 
     # Ry sad "And I would love my job if it wasn't for Emera."
-    Ry sad ""
+    Ry sad "Et j'adorerais mon travail s'il n'y avait pas Emera."
 
 # game/remy3.rpy:350
 translate frenchtl _call_skipcheck_24_1d07de92:
 
     # Ry "It's a constant struggle - a battle I have to fight every day. Each of her words slices through me, creating new wounds on top of others that never closed."
-    Ry ""
+    Ry "C'est une lutte constante - une bataille que je dois mener au quotidien. Chacun de ses mots est comme un coup de couteau, créant de nouvelles blessures par dessus d'autres qui ne se referment pas."
 
 # game/remy3.rpy:352
 translate frenchtl _call_skipcheck_24_9a64222c:
 
     # Ry shy "Some days, I just don't want to do it anymore. I don't know how much longer I can."
-    Ry shy ""
+    Ry shy "Certains jours, Je n'ai plus envie de lutter. Je ne sais pas encore combien de temps je vais le pouvoir."
 
 # game/remy3.rpy:362
 translate frenchtl remy3skip1_ea0c63fd:
 
     # Ry "I'm not sure if there is anything that can fill the void."
-    Ry ""
+    Ry "Je ne sais pas s'il y a quelque chose qui peut remplir ce vide."
 
 # game/remy3.rpy:399
 translate frenchtl remy2goodendingmenu_5617cd32:
 
     # Ry look "Yes."
-    Ry look ""
+    Ry look "Oui."
 
 # game/remy3.rpy:401
 translate frenchtl remy2goodendingmenu_d1838618:
 
     # c "It's not exactly the same thing, but I heard that the orphanage is always looking for more volunteers."
-    c ""
+    c "Ce n'est pas exactement la même chose, mais j'ai entendu que l'orphelinat est toujours à la recherche de bénévoles."
 
 # game/remy3.rpy:403
 translate frenchtl remy2goodendingmenu_c9427543:
 
     # c "You could help take care of those children."
-    c ""
+    c "Tu pourrais aider à t'occuper de ces enfants."
 
 # game/remy3.rpy:405
 translate frenchtl remy2goodendingmenu_c6821729:
 
     # Ry shy "Is that so?"
-    Ry shy ""
+    Ry shy "Vraiment ?"
 
 # game/remy3.rpy:407
 translate frenchtl remy2goodendingmenu_a55627cc:
 
     # c "Yeah. The orphanage is notoriously understaffed. The children don't really have anyone else, so each volunteer is a godsend."
-    c ""
+    c "Ouais. L'orphelinat est clairement en sous effectif. Les enfants n'ont personne d'autre, Donc chaque bénévole est un cadeau du ciel."
 
 # game/remy3.rpy:409
 translate frenchtl remy2goodendingmenu_622bea1d:
 
     # Ry "Losing both parents at such a young age must be horrible. I can't even imagine what that must be like."
-    Ry ""
+    Ry "Perdre ses deux parents à un si jeune âge doit être horrible. Je ne peux imaginer ce que ça doit être."
 
 # game/remy3.rpy:411
 translate frenchtl remy2goodendingmenu_ccf62e3d:
 
     # c "You should talk to Adine about volunteering. She knows a lot more about it than I do."
-    c ""
+    c "Tu devrais demander à Adine pour le bénévolat. Elle en sait bien plus que moi sur le sujet."
 
 # game/remy3.rpy:413
 translate frenchtl remy2goodendingmenu_611ada40:
 
     # Ry look "Adine?"
-    Ry look ""
+    Ry look "Adine ?"
 
 # game/remy3.rpy:415
 translate frenchtl remy2goodendingmenu_ddd0c00c:
 
     # Ry sad "I don't want to talk to her."
-    Ry sad ""
+    Ry sad "Je ne veux pas lui parler."
 
 # game/remy3.rpy:417
 translate frenchtl remy2goodendingmenu_73c2fcc2:
 
     # c "Why not?"
-    c ""
+    c "Pourquoi donc ?"
 
 # game/remy3.rpy:419
 translate frenchtl remy2goodendingmenu_e9f36413:
 
     # Ry "She used to be my friend. Well, she was more Amelia's friend than mine."
-    Ry ""
+    Ry "C'était mon amie. Enfin, c'était plus l'amie d'Amelia que la mienne."
 
 # game/remy3.rpy:421
 translate frenchtl remy2goodendingmenu_7db96020:
 
     # c "Why can't you talk to her?"
-    c ""
+    c "Pourquoi ne peux tu pas lui parler ?"
 
 # game/remy3.rpy:423
 translate frenchtl remy2goodendingmenu_405cdad5:
 
     # Ry shy "I don't know. I don't want to face her. Whenever I see her, it's another reminder of what I lost. Besides, I don't think she wants to talk to me, either."
-    Ry shy ""
+    Ry shy "Je ne sais pas. Je ne veux pas lui faire face. A chaque fois que je la vois, ça me rappelle ce que j'ai perdu. De plus, je ne pense pas qu'elle veuille me parler non plus."
 
 # game/remy3.rpy:425
 translate frenchtl remy2goodendingmenu_8d58f762:
 
     # c "I think if you wanted to volunteer, she'd gladly accept the help."
-    c ""
+    c "Je pense que si tu voulais devenir bénévole, Elle accepterait l'aide volontière."
 
 # game/remy3.rpy:427
 translate frenchtl remy2goodendingmenu_84f0b1ee:
 
     # c "Besides, I saw that she tried to talk to you the other day."
-    c ""
+    c "En plus, J'ai vu qu'elle avait essayé de te parler l'autre jour."
 
 # game/remy3.rpy:429
 translate frenchtl remy2goodendingmenu_42f2fa39:
 
     # Ry "You saw that?"
-    Ry ""
+    Ry "Tu as vu ça ?"
 
 # game/remy3.rpy:431
 translate frenchtl remy2goodendingmenu_9af94ed3:
 
     # Ry sad "I guess she did try to talk to me, but it was only because she wanted something."
-    Ry sad ""
+    Ry sad "Il faut croire qu'elle a essayé de me parler, mais c'était seulement parce que elle voulait quelque chose."
 
 # game/remy3.rpy:433
 translate frenchtl remy2goodendingmenu_568dc99e:
 
     # c "I don't think that was the only reason. Maybe she wanted to reconnect with you."
-    c ""
+    c "JE ne pense pas que ce soit la seule raison. Peut être qu'elle voulait reprendre contact avec toi."
 
 # game/remy3.rpy:435
 translate frenchtl remy2goodendingmenu_7b1ded36:
 
     # c "If she wanted to avoid you, she could have asked someone else at the library for help, but she chose you."
-    c ""
+    c "Si elle avait voulu t'éviter, elle aurait demandé de l'aide à quelqu'un d'autre à la bibliothèque, mais c'est toi qu'elle a choisi."
 
 # game/remy3.rpy:437
 translate frenchtl remy2goodendingmenu_6f5c69df:
 
     # Ry "I'm not sure about that."
-    Ry ""
+    Ry "Je n'en suis pas si sûre."
 
 # game/remy3.rpy:439
 translate frenchtl remy2goodendingmenu_12281d58:
 
     # c "Maybe she actually feels the same way you do, and the map helped her muster up the courage to face you again."
-    c ""
+    c "Peut être qu'elle ressent la même chose que toi, et que la carte l'a aidé à rassembler assez de courage pour te voir."
 
 # game/remy3.rpy:441
 translate frenchtl remy2goodendingmenu_e137ef85:
 
     # c "If you want to change something, Remy, you have to take action. What's the worst that could happen if you talk to her?"
-    c ""
+    c "Si tu veux changer quelque chose, Rémi, tu dois prendre des initiatives. Que pourrait-il arriver de pire si tu lui parles ?"
 
 # game/remy3.rpy:443
 translate frenchtl remy2goodendingmenu_1a234d6d:
 
     # Ry shy "I suppose you have a point. I'll... I'll think about it."
-    Ry shy ""
+    Ry shy "Je suppose que tu marques un point. Je vais... Je vais y réfléchir."
 
 # game/remy3.rpy:453
 translate frenchtl remy3ow_e4a06711:
 
     # c "Have you ever spoken to a professional about this?"
-    c ""
+    c "En as tu déjà parler avec un professionel ?"
 
 # game/remy3.rpy:457
 translate frenchtl c3remotherwise_f4b6677f:
 
     # Ry "No, I don't think I could. Not with a stranger."
-    Ry ""
+    Ry "Non, je ne pense pas que j'en serais capable. Pas avec un étranger."
 
 # game/remy3.rpy:460
 translate frenchtl c3remotherwise_209ec189:
 
     # Ry "Thank you, [player_name]. Getting all that off my chest already helped a lot."
-    Ry ""
+    Ry "Merci, [player_name]. Vider mon sac comme ça m'a beaucoup aidé."
 
 # game/remy3.rpy:462
 translate frenchtl c3remotherwise_06f8b421:
 
     # c "No problem, Remy."
-    c ""
+    c "Pas de problème, Rémi."
 
 # game/remy3.rpy:468
 translate frenchtl c3remotherwise_dccb233b:
