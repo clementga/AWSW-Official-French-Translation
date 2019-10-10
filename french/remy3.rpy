@@ -844,121 +844,121 @@ translate frenchtl _call_skipcheck_25_0054b77b:
 translate frenchtl _call_skipcheck_25_f6ab1f35:
 
     # c "I don't mind."
-    c ""
+    c "Ca ne me dérange pas."
 
 # game/remy3.rpy:639
 translate frenchtl _call_skipcheck_25_1cfff36b:
 
     # Ry "There must be a lot on your mind too."
-    Ry ""
+    Ry "Il doit y avoir des choses qui te tracasse également."
 
 # game/remy3.rpy:652
 translate frenchtl _call_skipcheck_25_b71a313d:
 
     # Ry "Since I work with Emera, I know all the details surrounding you and Reza. Not many do."
-    Ry ""
+    Ry "Comme je travaille avec Emera, je connais tous les détails vous concernant Reza et toi. Peu d'entre nous savent."
 
 # game/remy3.rpy:654
 translate frenchtl _call_skipcheck_25_3c870712:
 
     # Ry look "Many rumors are going around town."
-    Ry look ""
+    Ry look "Beaucoup de rumeurs circulent en ville."
 
 # game/remy3.rpy:656
 translate frenchtl _call_skipcheck_25_55873375:
 
     # Ry shy "All this time, you've been working with our police?"
-    Ry shy ""
+    Ry shy "Durant tout ce temps, tu as coopéré avec notre police ?"
 
 # game/remy3.rpy:658
 translate frenchtl _call_skipcheck_25_9f85b645:
 
     # c "Yeah."
-    c ""
+    c "Ouais."
 
 # game/remy3.rpy:660
 translate frenchtl _call_skipcheck_25_06edefa0:
 
     # Ry "And now you're hunting the person who was supposed to be your partner. That must be really hard for you."
-    Ry ""
+    Ry "Et maintenant tu traques la personne qui était supposé être ton partenaire. Ca doit être vraiment difficile pour toi."
 
 # game/remy3.rpy:662
 translate frenchtl _call_skipcheck_25_10c0af7d:
 
     # c "I came here because I wanted to do the right thing. Nothing about that has changed."
-    c ""
+    c "Je suis venu ici car je voulais faire ce qui me semblait juste. Rien de cela n'a changé."
 
 # game/remy3.rpy:664
 translate frenchtl _call_skipcheck_25_5ce092c6:
 
     # Ry look "What kind of person is Reza, anyway?"
-    Ry look ""
+    Ry look "Au passage, quel genre de personne est Reza ?"
 
 # game/remy3.rpy:666
 translate frenchtl _call_skipcheck_25_71390169:
 
     # c "The kind that stops at nothing to achieve what he believes in."
-    c ""
+    c "Le genre qui ne s'arrêtera pas avant d'avoir accompli ce en quoi il croit."
 
 # game/remy3.rpy:668
 translate frenchtl _call_skipcheck_25_8379afd8:
 
     # Ry "I can see that. We've already witnessed just how far he will go."
-    Ry ""
+    Ry "Je peux voir ça. Nous avons déjà été témoins de jusqu'où il est prêt à aller."
 
 # game/remy3.rpy:670
 translate frenchtl _call_skipcheck_25_7944d851:
 
     # Ry "What do you think about him?"
-    Ry ""
+    Ry "Qu'est-ce que tu penses de lui ?"
 
 # game/remy3.rpy:672
 translate frenchtl _call_skipcheck_25_5baebf80:
 
     # c "Honestly, I'm not sure. Back home, this relentless quality of his was admired, but I certainly don't condone his actions. Given what I know about him, I think he must have a reason, as weird and twisted as it may be."
-    c ""
+    c "Honnêtement, je n'en sais rien. Dans mon monde, Son acharnement était admiré, mais je ne cautionne pas ce qu'il a fait. Compte tenu de ce que je sais de lui, je pense qu'il doit avoir une raison, aussi bizzare et tordue soit elle."
 
 # game/remy3.rpy:674
 translate frenchtl _call_skipcheck_25_b61f825f:
 
     # Ry shy "And what about you?"
-    Ry shy ""
+    Ry shy "Et qu'en est-il de toi ?"
 
 # game/remy3.rpy:676
 translate frenchtl _call_skipcheck_25_eb905f86:
 
     # c "I have my own principles."
-    c ""
+    c "J'ai mes propres principes."
 
 # game/remy3.rpy:678
 translate frenchtl _call_skipcheck_25_07d1113d:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/remy3.rpy:680
 translate frenchtl _call_skipcheck_25_542d3abb:
 
     # Ry "How is your hunt for Reza going, anyway?"
-    Ry ""
+    Ry "Quoi qu'il en soit, comment se passe la traque de Reza ?"
 
 # game/remy3.rpy:682
 translate frenchtl _call_skipcheck_25_4a970e1d:
 
     # c "Not too great. We don't have any strong leads or any idea of his whereabouts. In the end, we're just following his trail of murder and destruction."
-    c ""
+    c "Pas si bien que ça. On n'a pas de piste solide ni aucune idée de où il se trouve. Au final, nous ne faisons que suivre les meutres et la destruction qu'il laisse derrière lui."
 
 # game/remy3.rpy:684
 translate frenchtl _call_skipcheck_25_83995c02:
 
     # Ry "People are getting afraid. The rumors are starting to take effect."
-    Ry ""
+    Ry "Les gens ont peur. Les rumeurs commencent à faire effet."
 
 # game/remy3.rpy:686
 translate frenchtl _call_skipcheck_25_857eadc7:
 
     # c "I thought Emera was going to give a press conference to warn the public."
-    c ""
+    c "Je pensais qu'Emera allait donner une conférence de presse pour avertir le public."
 
 # game/remy3.rpy:688
 translate frenchtl _call_skipcheck_25_bbd18413:
