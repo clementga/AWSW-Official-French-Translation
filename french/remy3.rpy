@@ -964,13 +964,13 @@ translate frenchtl _call_skipcheck_25_857eadc7:
 translate frenchtl _call_skipcheck_25_bbd18413:
 
     # Ry "That didn't happen. She feared the potential backlash if people knew about Reza while you were still here, so - for the time being - he has been declared as a missing person."
-    Ry ""
+    Ry "Ca ne s'est pas passé. Elle craignait le contrecoup potentiel si les gens apprenaient pour Reza alors que tu es toujours ici, donc - pour le moment - il a été déclaré porté disparu."
 
 # game/remy3.rpy:690
 translate frenchtl _call_skipcheck_25_12899eda:
 
     # Ry "The public has been informed that if someone sees him, they are to call the police immediately. They were told he may be suffering from an affliction that makes him behave erratically."
-    Ry ""
+    Ry "La population a été informée que dans la mesure où quelqu'un l'appercevait, ils devaient contacter la police immédiatement. Ils ont été avertis qu'il pourrait souffrir d'une affliction le faisant se comporter de façon erratique."
 
 # game/remy3.rpy:692
 translate frenchtl _call_skipcheck_25_999ba59d:
