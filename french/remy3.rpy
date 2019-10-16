@@ -976,31 +976,31 @@ translate frenchtl _call_skipcheck_25_12899eda:
 translate frenchtl _call_skipcheck_25_999ba59d:
 
     # Ry "But some people are putting two and two together. No one has seen Reza for a while, even before he was officially declared missing."
-    Ry ""
+    Ry "Mais les gens font le rapprochement. Personne n'a vu Reza depuis un moment, même avant qu'il ait été déclaré porté disparu."
 
 # game/remy3.rpy:694
 translate frenchtl _call_skipcheck_25_fb304084:
 
     # Ry "It's easy to line up the timelines and see that the murders started happening shortly after he vanished."
-    Ry ""
+    Ry "C'est facile d'aligner les évènements et de voir que les meurtres ont commencé peu de temps après sa disparition."
 
 # game/remy3.rpy:696
 translate frenchtl _call_skipcheck_25_748968e5:
 
     # Ry "What we know about the break-ins and thefts is also damning. The objects stolen all point toward Reza. I'm not sure how much longer they can keep this a secret."
-    Ry ""
+    Ry "Ce que l'on sait au sujet des effaction et des vols aggravent également son cas. Les objets volés pointent tous vers Reza. Je ne sais pas pendant combien de temps il pourront garder ça secret."
 
 # game/remy3.rpy:698
 translate frenchtl _call_skipcheck_25_d15a5506:
 
     # c "How do you think the public will react, considering that I am still staying here?"
-    c ""
+    c "Comment penses tu que le public va réagir, en considérant que je suis toujours là ?"
 
 # game/remy3.rpy:700
 translate frenchtl _call_skipcheck_25_0c8b7ac0:
 
     # Ry "I don't know. We can't really predict the public opinion, but you can bet there will be critical voices."
-    Ry ""
+    Ry "Je ne sais pas. On ne peut pas vraiment prédire l'opinion du public, mais tu peux être sûre qu'il y aura des avis critiques."
 
 # game/remy3.rpy:702
 translate frenchtl _call_skipcheck_25_9a385c93:
