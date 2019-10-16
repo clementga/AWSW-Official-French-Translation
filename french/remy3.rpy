@@ -1006,109 +1006,109 @@ translate frenchtl _call_skipcheck_25_0c8b7ac0:
 translate frenchtl _call_skipcheck_25_9a385c93:
 
     # c "I'm not sure how I could convince everyone that I'm not involved with Reza's plans."
-    c ""
+    c "Je ne sais pas comment je pourrais convaincre tout le monde que je ne suis pas impliqué dans les plans de Reza."
 
 # game/remy3.rpy:704
 translate frenchtl _call_skipcheck_25_7c854124:
 
     # Ry normal "Well, you do have the council's support. If Emera voiced that you were on our side, it wouldn't be so bad if the public found out."
-    Ry normal ""
+    Ry normal "Eh bien, tu as le soutient du conseil. Si Emera a déclaré que tu étais de notre côté, ça ne serait pas si terrible si la population l'apprenait."
 
 # game/remy3.rpy:706
 translate frenchtl _call_skipcheck_25_9d1c2077:
 
     # c "Yeah, but she also made it clear that she believes most people won't have the same opinion. She won't support me publically if their vote is against me."
-    c ""
+    c "Ouais, mais elle a aussi assuré qu'elle pensait que la plupart des gens n'auront pas la même opinion. Elle ne me soutiendra pas publiquement si leur vote est contre moi."
 
 # game/remy3.rpy:708
 translate frenchtl _call_skipcheck_25_47537ee7:
 
     # Ry look "That is true. Emera plays the political game a lot. She aligns with the popular opinion so people will like her."
-    Ry look ""
+    Ry look "C'est vrai. Emera joue beaucoup le jeu de la politique. Elle s'aligne sur l'avis de la population afin que cette dernière l'apprécie."
 
 # game/remy3.rpy:714
 translate frenchtl _call_skipcheck_25_67d6f85c:
 
     # Ry "If you're playing that game, I guess so."
-    Ry ""
+    Ry "Si tu joues le jeu, je suppose."
 
 # game/remy3.rpy:726
 translate frenchtl _call_skipcheck_25_798a1d0a:
 
     # Ry "It is, but that's who she is."
-    Ry ""
+    Ry "En effet, mais elle est comme ça."
 
 # game/remy3.rpy:735
 translate frenchtl _call_skipcheck_25_6b6a1636:
 
     # c "I can't really blame her for that. After all, she's supposed to be a representative of the people, right?"
-    c ""
+    c "Je ne peux pas vraiment la blâmer pour ça. Après tout, elle est supposée être une représentante du peuple, n'est-ce pas?"
 
 # game/remy3.rpy:737
 translate frenchtl _call_skipcheck_25_8ae75e26:
 
     # Ry "I suppose so."
-    Ry ""
+    Ry "Il faut croire"
 
 # game/remy3.rpy:740
 translate frenchtl _call_skipcheck_25_35b8ef6a:
 
     # c "Does the public know about the portal's current state?"
-    c ""
+    c "Est-ce que la population sait au sujet de l'état actuel du portail ?"
 
 # game/remy3.rpy:742
 translate frenchtl _call_skipcheck_25_113a0287:
 
     # Ry normal "No. If it can be fixed, it wouldn't be worth mentioning - and if they can't fix it, they aren't going to announce it before they know how to deal with the current situation."
-    Ry normal ""
+    Ry normal "Non. Si ça peut être réparé, ça ne servirait à rien d'en parler - et s'ils ne peuvent pas le réparer, ils ne vont pas l'annoncer avant de savoir comment s'occuper de la situation actuelle."
 
 # game/remy3.rpy:744
 translate frenchtl _call_skipcheck_25_45d2fb7a:
 
     # Ry look "Compared to Reza, it's not really a problem."
-    Ry look ""
+    Ry look "Comparé à Reza, ce n'est pas vraiment un problème."
 
 # game/remy3.rpy:746
 translate frenchtl _call_skipcheck_25_ee070bdc:
 
     # c "It might become one pretty soon. If word gets out and I'm suddenly his accomplice, what would happen to me?"
-    c ""
+    c "Ca pourrait le devenir très bientôt. Si le mot circule que d'un coup je suis son complice, que va-t-il m'arriver ?"
 
 # game/remy3.rpy:748
 translate frenchtl _call_skipcheck_25_f0a58102:
 
     # c "How would you even deal with Reza if you caught him?"
-    c ""
+    c "Comment allez vous gérer le cas de Reza si vous l'attrapez ?"
 
 # game/remy3.rpy:750
 translate frenchtl _call_skipcheck_25_2f887311:
 
     # Ry normal "I'm not sure. I suppose we would have to work something out between our legal system and whatever humanity has to say on the matter."
-    Ry normal ""
+    Ry normal "Je n'en suis pas sûr. Je suppose que nous aurions à trouver une solution entre notre système de loi et peu importe ce que l'humanité a à dire sur la question."
 
 # game/remy3.rpy:752
 translate frenchtl _call_skipcheck_25_6eb3f6c0:
 
     # c "And if the portal is done for? What then?"
-    c ""
+    c "Et si le portail est fichu ? Comment fait-on ?"
 
 # game/remy3.rpy:754
 translate frenchtl _call_skipcheck_25_1710a204:
 
     # Ry "Then humanity would be out of the picture for any legal proceedings."
-    Ry ""
+    Ry "Eh bien l'humanité serait à l'écart pour toute procédure judiciaire."
 
 # game/remy3.rpy:756
 translate frenchtl _call_skipcheck_25_2682bb73:
 
     # Ry "Reza would likely be held until contact has been re-established or just serve his sentence here."
-    Ry ""
+    Ry "Reza serait probablement détenu jusqu'à ce que le contact soit ré-établi ou jusqu'à ce qu'il purge sa peine ici."
 
 # game/remy3.rpy:758
 translate frenchtl _call_skipcheck_25_45713213:
 
     # c "I see. How do your jails work, anyway?"
-    c ""
+    c "Je vois. Au passage, comment vos prisons fonctionnent ?"
 
 # game/remy3.rpy:760
 translate frenchtl _call_skipcheck_25_02ad0c6e:
