@@ -1108,73 +1108,73 @@ translate frenchtl _call_skipcheck_25_2682bb73:
 translate frenchtl _call_skipcheck_25_45713213:
 
     # c "I see. How do your jails work, anyway?"
-    c "Je vois. Au passage, comment vos prisons fonctionnent ?"
+    c "Je vois. Au passage, comment vos prisons fonctionnent-elle ?"
 
 # game/remy3.rpy:760
 translate frenchtl _call_skipcheck_25_02ad0c6e:
 
     # Ry "Well, if a crime has been committed and proven without a doubt, a jail sentence can be the consequence."
-    Ry ""
+    Ry "Eh bien, si un crime a été commis et prouvé sans l'ombre d'un doute, une peine de prison peut être appliquée en conséquence."
 
 # game/remy3.rpy:762
 translate frenchtl _call_skipcheck_25_1952102b:
 
     # Ry "Our delinquents live in an area separate from the rest of society, monitored at all hours of the day."
-    Ry ""
+    Ry "Nos délinquants vivent dans une zone séparée du reste de la société, contrôlés à chaque heure de la journée."
 
 # game/remy3.rpy:764
 translate frenchtl _call_skipcheck_25_c877e3f7:
 
     # Ry "They receive the help they need, and efforts are taken to make them realize their wrongdoings and integrate them back into our community."
-    Ry ""
+    Ry "Ils recoivent l'aide dont ils ont besoin, et on prend le temps de leur faire réalisé le mal qu'ils ont fait et de les réintégrer dans notre communauté."
 
 # game/remy3.rpy:766
 translate frenchtl _call_skipcheck_25_523f5848:
 
     # Ry "Life isn't that much different there than it is here. The spaces are more cramped, for sure, but mostly it is just a very controlled environment."
-    Ry ""
+    Ry "La vie là bas n'est pas si différente d'ici. Les espaces sont plus réduits, pour sûr, mais il s'agit essentiellement d'un environement contrôlé."
 
 # game/remy3.rpy:768
 translate frenchtl _call_skipcheck_25_6c97725b:
 
     # c "That's not much of a punishment."
-    c ""
+    c "Ca ne ressemble pas à une punition."
 
 # game/remy3.rpy:770
 translate frenchtl _call_skipcheck_25_ae852ba3:
 
     # Ry "It is a consequence, not necessarily a punishment. Our society at large benefits more from people who are rehabilitated, and if mental issues are the cause, those can at least be found and addressed."
-    Ry ""
+    Ry "C'est une conséquence, pas nécessairement une punition. Notre société dans son ensemble tire plus de d'avantages des personnes réhabilitées, et si des troubles mentaux en sont la cause, ceux là peuvent aux moins être trouvés et adressés."
 
 # game/remy3.rpy:772
 translate frenchtl _call_skipcheck_25_7de3b069:
 
     # c "That sounds like how it used to be back home. These days, in our city, you get three strikes."
-    c ""
+    c "Ca ressemble à comment c'était avant dans mon monde. Ces temps ci, dans notre ville, tu as trois avertissements."
 
 # game/remy3.rpy:774
 translate frenchtl _call_skipcheck_25_f959f65b:
 
     # Ry "What does that mean?"
-    Ry ""
+    Ry "Comment ça ?"
 
 # game/remy3.rpy:776
 translate frenchtl _call_skipcheck_25_a3b2eb8b:
 
     # c "Three infractions of our rules and you get thrown out of the city. If someone is a drain on our limited resources, we won't support them."
-    c ""
+    c "Trois infractions de nos règles et tu est banni de la ville. Si quelqu'un tire trop sur nos ressources, qui sont déjà limitées, On ne le soutiendra pas"
 
 # game/remy3.rpy:778
 translate frenchtl _call_skipcheck_25_420d1f0a:
 
     # Ry "While I can understand why you needed to incorporate such a policy, the finality of it makes me a bit uneasy."
-    Ry ""
+    Ry "Bien que je comprenne pourquoi vous devez prendre de telles mesures, la finalité de tout ça me met un peu mal à l'aide."
 
 # game/remy3.rpy:780
 translate frenchtl _call_skipcheck_25_e25ea962:
 
     # c "It has worked so far. And it's not as if the outside is completely unkind."
-    c ""
+    c "Ca a bien marché jusque là. Et ce n'est pas comme si l'extérieur était totalement cruel."
 
 # game/remy3.rpy:782
 translate frenchtl _call_skipcheck_25_a9e762ed:
