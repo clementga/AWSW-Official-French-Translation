@@ -1180,109 +1180,109 @@ translate frenchtl _call_skipcheck_25_e25ea962:
 translate frenchtl _call_skipcheck_25_a9e762ed:
 
     # c "Someone expelled from the city might find a different community, or join one of the mobile groups. The situation inside our city-state is still much better than the outside, though. They're very strict with those allowed to live there."
-    c ""
+    c "Quelqu'un expulsé de la ville peut éventuellement trouver une autr communauté, ou rejoindre les groupes nomades. La situation dans notre cité-état demeure en revanche bien meilleure qu'à l'extérieur. Ils sont très stricts avec ceux autorisés à vivre là bas."
 
 # game/remy3.rpy:784
 translate frenchtl _call_skipcheck_25_46192a75:
 
     # c "It is a privilege. Anyone or anything that threatens the inside society or the lives of its people is removed very quickly."
-    c ""
+    c "C'est un privilège. Quiconque or quoi que ce soit menacant notre micro société ou la vie de ses habitants est très vite dégagé."
 
 # game/remy3.rpy:786
 translate frenchtl _call_skipcheck_25_c665a09c:
 
     # Ry "How would a murderer like Reza be dealt with? An eye for an eye?"
-    Ry ""
+    Ry "Comment un meurtrier comme Reza serait géré ? Œil pour œil ?"
 
 # game/remy3.rpy:788
 translate frenchtl _call_skipcheck_25_ee51ebb9:
 
     # c "No, we don't do that, but murder is a crime so heinous that immediate expellation is the consequence - regardless of prior infractions."
-    c ""
+    c "Non, on ne fait pas ça, mais le meurtre est un crime si abominable que la conséquence est l'expulsion immédiate - peu importe les infractions passées."
 
 # game/remy3.rpy:790
 translate frenchtl _call_skipcheck_25_b477a6cb:
 
     # Ry "I see. What do the citizens think about this system?"
-    Ry ""
+    Ry "Je vois. Que pensent les citoyens de ce système ?"
 
 # game/remy3.rpy:792
 translate frenchtl _call_skipcheck_25_44ecf370:
 
     # c "Some agree with the methods, some don't - but as long as it works, people won't complain. Weeding out undesirable elements is what keeps their standard of living intact."
-    c ""
+    c "Certains sont d'accord avec la méthode, certains non - mais tant que ça marche, les gens ne vont pas se plaindre. Se débarasser des éléments indésirables est ce qui garde leur niveau de vie intact."
 
 # game/remy3.rpy:794
 translate frenchtl _call_skipcheck_25_324fae2a:
 
     # Ry "I guess that means politics don't play a big role where you come from."
-    Ry ""
+    Ry "Je suppose que ça signifie que les politiciens ne jouent pas un grand rôle là d'où vous venez."
 
 # game/remy3.rpy:796
 translate frenchtl _call_skipcheck_25_e804a739:
 
     # c "No. They won't change a working system."
-    c ""
+    c "Non. Ils ne changeront pas un système qui marche."
 
 # game/remy3.rpy:798
 translate frenchtl _call_skipcheck_25_3b391f83:
 
     # Ry look "It varies here, but I'm so tired of Emera and her games. As I work with her, I can see exactly how she plays the public."
-    Ry look ""
+    Ry look "Ca dépend ici, mais je suis fatigué d'Emera et de ses jeux. Comme je travaille avec elle, je peux voir exactement comment elle joue avec l'opinion publique."
 
 # game/remy3.rpy:800
 translate frenchtl _call_skipcheck_25_ac354dbf:
 
     # Ry "I know every council member has their own approach, but everything she does is so... tailored towards the public's expectations. For her it's just a popularity contest."
-    Ry ""
+    Ry "Je sais que chaque membre du conseil a sa propre approche, mais tout ce qu'elle fait est tellement... façonné en fonction des attentes de la population. Pour elle, c'est juste un concours de popularité."
 
 # game/remy3.rpy:802
 translate frenchtl _call_skipcheck_25_bcee4986:
 
     # c "You know what? That gives me an idea."
-    c ""
+    c "Tu sais quoi ? Ca me donne une idée."
 
 # game/remy3.rpy:804
 translate frenchtl _call_skipcheck_25_885c4b42:
 
     # Ry normal "Really? What is it?"
-    Ry normal ""
+    Ry normal "Vraiment ? Laquelle ?"
 
 # game/remy3.rpy:806
 translate frenchtl _call_skipcheck_25_5a085190:
 
     # c "The human visit and all of the associated consequences are her responsibility, right?"
-    c ""
+    c "La visite des humains et toutes les conséquences associées sont sous sa responsabilité, n'est-ce pas ?"
 
 # game/remy3.rpy:808
 translate frenchtl _call_skipcheck_25_03dd95a4:
 
     # Ry "Yes."
-    Ry ""
+    Ry "Oui."
 
 # game/remy3.rpy:810
 translate frenchtl _call_skipcheck_25_9c3d3365:
 
     # c "For her, this situation with Reza must be utterly horrifying. She keeps talking about preventing public backlash, but she's really just trying to protect herself."
-    c ""
+    c "Pour elle, la situation avec Reza doit être absolument terrifiante. Elle ne fait que parler de prévenir le contrecoup de l'opinion publique, mais elle est juste en train d'essayer de se protéger."
 
 # game/remy3.rpy:812
 translate frenchtl _call_skipcheck_25_846778c9:
 
     # Ry "That sounds accurate."
-    Ry ""
+    Ry "Ca a lui ressemble bien."
 
 # game/remy3.rpy:814
 translate frenchtl _call_skipcheck_25_b0bbb188:
 
     # c "Maybe we can use that to our advantage."
-    c ""
+    c "Peut être qu'on peut utiliser ça à notre avantage."
 
 # game/remy3.rpy:816
 translate frenchtl _call_skipcheck_25_ff76be0e:
 
     # Ry "How?"
-    Ry ""
+    Ry "Comment ?"
 
 # game/remy3.rpy:818
 translate frenchtl _call_skipcheck_25_90973587:
