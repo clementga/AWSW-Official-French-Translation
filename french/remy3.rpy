@@ -1288,91 +1288,91 @@ translate frenchtl _call_skipcheck_25_ff76be0e:
 translate frenchtl _call_skipcheck_25_90973587:
 
     # c "She can't send me back to my world right now. That makes me the only one here with knowledge of Reza, and humans in general."
-    c ""
+    c "Elle ne peut pas me renvoyer dans mon monde tout de suite. Ca fait de moi la seule personne connaissant Reza, et le genre humain en général."
 
 # game/remy3.rpy:820
 translate frenchtl _call_skipcheck_25_925658b4:
 
     # Ry "That's true."
-    Ry ""
+    Ry "C'est vrai."
 
 # game/remy3.rpy:822
 translate frenchtl _call_skipcheck_25_52c5f4f7:
 
     # c "If I speak from this point of authority, we should have a much easier time convincing her of anything we want."
-    c ""
+    c "Si Je m'exprime en considérant cette position d'autorité, ça devrait être plus facile pour nous pour la convaincre d'aller dans notre sens."
 
 # game/remy3.rpy:824
 translate frenchtl _call_skipcheck_25_e3bc8545:
 
     # Ry "You couldn't convince her to let you stay in our world, though."
-    Ry ""
+    Ry "Mais tu ne pourrais pas la convaincre de te laisser rester dans notre monde."
 
 # game/remy3.rpy:826
 translate frenchtl _call_skipcheck_25_fac45050:
 
     # c "Yes, but I was trying to use reason and plead with her. I didn't take into account her fear of public backlash."
-    c ""
+    c "Oui, mais J'essayais d'user de raison et de la supplier. Je n'avais pas pris en compte sa crainte d'un retour de flamme de l'opinion publique."
 
 # game/remy3.rpy:828
 translate frenchtl _call_skipcheck_25_d275bad4:
 
     # c "I think we can manipulate this fear of hers and use it to our advantage. If there were consequences to fear from Reza, me, or the rest of humanity - and those consequences would make her look bad to the public - that would be reason for her to reconsider any action, right?"
-    c ""
+    c "Je pense que nous pourrions manipuler cette peur et l'utiliser à notre avantage. S'il y avait des répercussions à craindre de Reza, moi or du reste de l'humanité - et ces répercussions lui fileraient une mauvaise réputation auprès de la population - ça serait une raison pour elle de reconsidérer chacune de ses actions, n'est-ce pas ?"
 
 # game/remy3.rpy:830
 translate frenchtl _call_skipcheck_25_51b60f1a:
 
     # Ry "I suppose so, but what situation could this apply to?"
-    Ry ""
+    Ry "Il faut croire, mais dans quelles situations ça pourrait s'appliquer ?"
 
 # game/remy3.rpy:832
 translate frenchtl _call_skipcheck_25_52799619:
 
     # c "She nearly sent me back through the portal. If she tries anything again, at least we have something we can use against her."
-    c ""
+    c "Elle a failli me renvoyer de l'autre côté du portail. Si elle retente quoi que ce soit, au moins on a quelque chose qu'on peut utiliser contre elle."
 
 # game/remy3.rpy:834
 translate frenchtl _call_skipcheck_25_e185ee2d:
 
     # Ry "I think I see where you're coming from."
-    Ry ""
+    Ry "Je pense que je vois où tu veux en venir."
 
 # game/remy3.rpy:836
 translate frenchtl _call_skipcheck_25_abc9a87a:
 
     # Ry "Reza is still a mystery to me, though. All things considered, wouldn't it be beneficial for him to just stay here? No offense, but even our prisons offer a better standard of living than your city."
-    Ry ""
+    Ry "Reza demeure un mystère pour moi, cependant. En y réfléchissant, ne serait-il pas bénéfique pour lui de juste rester ici ? Ne le prend pas mal, mais même nos prisons offrent un meilleur niveau de vie que votre ville."
 
 # game/remy3.rpy:838
 translate frenchtl _call_skipcheck_25_a0804f06:
 
     # Ry "As such, couldn't that be a reason for him to have vandalized the portal?"
-    Ry ""
+    Ry "Ce faisant, ne serait-ce pas une raison pour lui d'avoir vandalisé le portail ?"
 
 # game/remy3.rpy:840
 translate frenchtl _call_skipcheck_25_b2e4a61b:
 
     # c "I don't think so. You're right, your world is in much better shape than ours, but even if Reza could stay here, he wouldn't. He came here for the same reason I did - to help our people."
-    c ""
+    c "Je ne pense pas. Tu as raison, votre monde est en bien meilleure forme que le notre, mais même si Reza pouvait rester ici, il ne le fairait pas. Il est venu ici pour la même raison que moi - pour aider la population."
 
 # game/remy3.rpy:842
 translate frenchtl _call_skipcheck_25_45c859af:
 
     # c "He has a very pronounced sense of duty to humanity, and I believed in him when he stepped through the portal. He proclaimed that he would do everything he could."
-    c ""
+    c "Il a un sens du devoir très prononcé envers l'humanité, et j'ai cru en lui quand il a traversé le portail. Il a proclamé qu'il ferait tout ce qui est en son pouvoir."
 
 # game/remy3.rpy:844
 translate frenchtl _call_skipcheck_25_b33f9c5c:
 
     # c "When I met him again in this world, I had the impression that he wanted to get our mission over with as soon as possible so he could return to our world with aid."
-    c ""
+    c "Quand je l'ai retrouvé dans ce monde, J'ai eu l'impression qu'il voulait en finir au plus vite avec notre mission afin de retourner dans notre monde avec de l'aide."
 
 # game/remy3.rpy:846
 translate frenchtl _call_skipcheck_25_0940dd49:
 
     # Ry "That's going to be difficult with the portal out of order."
-    Ry ""
+    Ry "Ca va être difficile avec le portail hors service."
 
 # game/remy3.rpy:848
 translate frenchtl _call_skipcheck_25_1996c80d:
