@@ -1378,555 +1378,559 @@ translate frenchtl _call_skipcheck_25_0940dd49:
 translate frenchtl _call_skipcheck_25_1996c80d:
 
     # c "The person who did it probably didn't realize it wasn't a very good idea. This might make Reza even more desperate. Who knows what he will do next?"
-    c ""
+    c "La personne qui a fait ça n'a probablement pas réalisé que ce n'était pas une très bonne idée. Ca pourrait rendre Reza encore plus désespéré. Qui sait ce qu'il fera ensuite ?"
 
 # game/remy3.rpy:850
 translate frenchtl _call_skipcheck_25_43b19ad3:
 
     # c "And if anything happens, I can't leave either."
-    c ""
+    c "Et si quelque chose arrive, je ne peux pas partir non plus."
 
 # game/remy3.rpy:852
 translate frenchtl _call_skipcheck_25_e55dfc24:
 
     # Ry "If the portal is gone for good, I suppose you'd have to stay here. What do you think about that?"
-    Ry ""
+    Ry "Si le portail est fichu pour de bon, je suppose que tu seras obligé de rester ici. Qu'est ce que ça te fait ?"
 
 # game/remy3.rpy:858
 translate frenchtl _call_skipcheck_25_c1df668f:
 
     # c "That wouldn't be so bad. Of course I still want to help our city, but if there was no way to return, I wouldn't mind living here."
-    c ""
+    c "Ca ne serait pas si mal. Bien sûr, je veux toujours aider notre ville, mais s'il n'y avait aucun moyen de rentrer, ça ne me dérangerai pas de vivre ici."
 
 # game/remy3.rpy:860
 translate frenchtl _call_skipcheck_25_07d1113d_1:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/remy3.rpy:869
 translate frenchtl _call_skipcheck_25_c19dccef:
 
     # c "I'd love living here. Everything I've heard about this place is so wonderful compared to back home."
-    c ""
+    c "J'adorerais vivre ici. Tout ce dont j'ai entendu sur cet endroit est si formidable comparé à chez moi."
 
 # game/remy3.rpy:871
 translate frenchtl _call_skipcheck_25_3171a443:
 
     # Ry smile "That's good to hear. I certainly wouldn't mind if you stuck around."
-    Ry smile ""
+    Ry smile "C'est bon à entendre. Ca ne me dérangerais absolument pas si tu restais ici."
 
 # game/remy3.rpy:885
 translate frenchtl _call_skipcheck_25_26bde24d:
 
     # Ry "Why's that?"
-    Ry ""
+    Ry "Pourquoi donc ?"
 
 # game/remy3.rpy:887
 translate frenchtl _call_skipcheck_25_4872de58:
 
     # c "I came here to help our city-state. My mission would obviously be a failure, and the people back home would never even know what happened to me."
-    c ""
+    c "Je suis venu ici pour aider notre cité-état. Ma mission serait un échec pour sûre, et la population de chez moi ne saurait même pas ce qui m'est arrivé."
 
 # game/remy3.rpy:889
 translate frenchtl _call_skipcheck_25_b2ee3af7:
 
     # Ry shy "I suppose I understand."
-    Ry shy ""
+    Ry shy "Je crois que je comprends."
 
 # game/remy3.rpy:893
 translate frenchtl _call_skipcheck_25_0edb3f5d:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy3.rpy:895
 translate frenchtl _call_skipcheck_25_14809802:
 
     # Ry "Only now do I realize that everything I told you earlier must seem so petty compared to the struggles you face."
-    Ry ""
+    Ry "C'est seulement maintenant que je réalise que tout ce que je t'ai dit tout à l'heure doit sembler insignifiant comparé à tout les problèmes auquels tu as dû faire face."
 
 # game/remy3.rpy:902
 translate frenchtl _call_skipcheck_25_0cdc1fe2:
 
     # Ry "I'm sorry, [player_name]."
-    Ry ""
+    Ry "Je suis désolé, [player_name]."
 
 # game/remy3.rpy:904
 translate frenchtl _call_skipcheck_25_c30de6ba:
 
     # c "Don't be. Maybe once you realize how privileged you are to live here, you'll start to appreciate the small things again."
-    c ""
+    c "Ne le sois pas. Peut être qu'une fois que tu auras réalisé à quel point tu es privilégié de vivre ici, tu recommenceras à apprécier les petites choses de la vie."
 
 # game/remy3.rpy:914
 translate frenchtl _call_skipcheck_25_abed64d8:
 
     # Ry normal "Why not?"
-    Ry normal ""
+    Ry normal "Pourquoi ?"
 
 # game/remy3.rpy:916
 translate frenchtl _call_skipcheck_25_97e8847f:
 
     # c "That's not how it works. That's like saying a person can't be happy, because someone else might be happier than them. Don't downplay your own suffering like that. That kind of thinking only makes it worse."
-    c ""
+    c "Ce n'est pas comme ça que ça marche. C'est comme dire qu'une personne ne peut être heureuse, parce que quelqu'un d'autre est plus heureux qu'elle. Ne minimise pas ta propre souffrance comme ça. Cette façon de penser ne fait que l'empirer."
 
 # game/remy3.rpy:918
 translate frenchtl _call_skipcheck_25_9122abeb:
 
     # Ry "Thanks, [player_name]."
-    Ry ""
+    Ry "Merci, [player_name]."
 
 # game/remy3.rpy:926
 translate frenchtl _call_skipcheck_25_99a561b3:
 
     # Ry normal "I suppose that's true."
-    Ry normal ""
+    Ry normal "Il faut croire que c'est vrai."
 
 # game/remy3.rpy:929
 translate frenchtl _call_skipcheck_25_eadae91a:
 
     # Ry "I can't even imagine what life must be like where you are from."
-    Ry ""
+    Ry "Je ne peux même pas imaginer à quoi doit ressembler la vie là d'où tu viens."
 
 # game/remy3.rpy:931
 translate frenchtl _call_skipcheck_25_e862099e:
 
     # c "Back home, I was just trying to survive and help others do the same. That hasn't changed. I'm almost afraid of going back to the city, though. Times are so rough."
-    c ""
+    c "Chez moi, J'essayais juste de survivre et d'aider les autres à faire de même. Ca n'a pas changé. En revanche, je suis effrayé à l'idée de rentrer chez moi. Les temps sont dures."
 
 # game/remy3.rpy:933
 translate frenchtl _call_skipcheck_25_c7ad976e:
 
     # c "Yet even if I didn't have to go back, I would. I can't just let them down like that, you know? I have to try and do what I can. That's why I came here."
-    c ""
+    c "Mais même si je n'étais pas obligé de rentrer, je le ferais quand même. Tu sais, je ne peux juste pas les laisser tomber comme ça. Je dois essayer et faire ce que je peux. C'est ce pourquoi je suis venu ici."
 
 # game/remy3.rpy:935
 translate frenchtl _call_skipcheck_25_81b085c1:
 
     # Ry "I wish I could be that strong."
-    Ry ""
+    Ry "J'aurais aimé être aussi fort."
 
 # game/remy3.rpy:943
 translate frenchtl _call_skipcheck_25_9b09559a:
 
     # Ry shy "I don't know... I just..."
-    Ry shy ""
+    Ry shy "Je ne sais pas... je suis juste..."
 
 # game/remy3.rpy:949
 translate frenchtl _call_skipcheck_25_c451845a:
 
     # Ry shy "..."
-    Ry shy ""
+    Ry shy "..."
 
 # game/remy3.rpy:955
 translate frenchtl _call_skipcheck_25_546b0c03:
 
     # c "What does it matter if you aren't as strong? If people only did what they were the absolute best at, they wouldn't be doing much at all."
-    c ""
+    c "En quoi c'est important si tu n'es pas fort ? Si les gens faisaient seulement ce dans quoi ils excellaient, Ils ne feraient pas beaucoup de choses."
 
 # game/remy3.rpy:957
 translate frenchtl _call_skipcheck_25_18afacc7:
 
     # Ry shy "That's a good point."
-    Ry shy ""
+    Ry shy "Tu marques un point."
 
 # game/remy3.rpy:960
 translate frenchtl _call_skipcheck_25_55d49291:
 
     # c "You told me about your old job."
-    c ""
+    c "Tu m'as parlé de ton ancien travail."
 
 # game/remy3.rpy:962
 translate frenchtl _call_skipcheck_25_07b50d2c:
 
     # Ry "Yeah. I miss those days. What about it?"
-    Ry ""
+    Ry "Ouais, ces jours là me manquent. où veux tu en venir ?"
 
 # game/remy3.rpy:964
 translate frenchtl _call_skipcheck_25_2eee8689:
 
     # c "It's not exactly the same as saving a city, but you were helping people, right?"
-    c ""
+    c "Ce n'est pas exactement la même chose que sauver une ville, mais tu aidais les gens, n'est-ce pas ?"
 
 # game/remy3.rpy:966
 translate frenchtl _call_skipcheck_25_cedd5527:
 
     # Ry normal "That's true."
-    Ry normal ""
+    Ry normal "C'est vrai."
 
 # game/remy3.rpy:968
 translate frenchtl _call_skipcheck_25_b9cfff80:
 
     # c "Maybe, once your term with Emera is over, you could do something like that again."
-    c ""
+    c "Peut être qu'une fois ton contrat avec Emera terminé, tu pourrais de nouveau faire quelque chose comme ça."
 
 # game/remy3.rpy:970
 translate frenchtl _call_skipcheck_25_e730f137:
 
     # Ry "I really wish I could."
-    Ry ""
+    Ry "C'est ce que je souhaite le plus."
 
 # game/remy3.rpy:972
 translate frenchtl _call_skipcheck_25_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/remy3.rpy:974
 translate frenchtl _call_skipcheck_25_0edb3f5d_1:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy3.rpy:978
 translate frenchtl _call_skipcheck_25_2ede17d5:
 
     # Ry shy "I just realized something."
-    Ry shy ""
+    Ry shy "Je viens de réaliser quelque chose."
 
 # game/remy3.rpy:980
 translate frenchtl _call_skipcheck_25_0f173ebb:
 
     # c "What is it?"
-    c ""
+    c "Quoi donc ?"
 
 # game/remy3.rpy:982
 translate frenchtl _call_skipcheck_25_8ef31f97:
 
     # Ry "I was trying to figure out why you wanted to hang out with me so often."
-    Ry ""
+    Ry "J'essayais de comprendre pourquoi tu voulais trainer avec moi si souvent."
 
 # game/remy3.rpy:984
 translate frenchtl _call_skipcheck_25_3070bc42:
 
     # c "What are you talking about?"
-    c ""
+    c "De quoi tu parles ?"
 
 # game/remy3.rpy:986
 translate frenchtl _call_skipcheck_25_adb6d117:
 
     # Ry "Since Amelia died, I've been alone. It's been years. I don't even have anyone I could consider a friend."
-    Ry ""
+    Ry "Depuis qu'Amelia est morte, J'ai été seul. Ca fait des années. Je n'ai même pas quelqu'un que je pourrais considérer comme un ami."
 
 # game/remy3.rpy:988
 translate frenchtl _call_skipcheck_25_4c9444cf:
 
     # Ry "When you came to our world and started to spend time with me, I thought maybe things were about to change. That, maybe, I'd found a friend."
-    Ry ""
+    Ry "Quand tu es arrivé dans notre monde et commencé à passer du temps avec moi, je pensais que les choses allaient changer. Que, peut être, je trouverais un ami."
 
 # game/remy3.rpy:990
 translate frenchtl _call_skipcheck_25_af6e8494:
 
     # Ry sad "But you're not that different. You make fun of me and belittle me just like everyone else. Even after everything I told you about myself. You don't care about me, do you?"
-    Ry sad ""
+    Ry sad "Mais tu n'est pas si différent. Tu te moques de moi et me rabaisses comme tout les autres. Même après tout ce que je t'ai racconté à mon sujet. Tu n'en as rien à faire de moi, n'est-ce pas ?"
 
 # game/remy3.rpy:992
 translate frenchtl _call_skipcheck_25_79b7f4a7:
 
     # Ry "If I was just your entertainment, that's alright. That's what people do to me. They watch and laugh, in secret or otherwise."
-    Ry ""
+    Ry "Si j'étais juste là pour t'amuser, c'est correct. C'est ce que les gens font avec moi. Il me regarde et rient, en secret ou non."
 
 # game/remy3.rpy:994
 translate frenchtl _call_skipcheck_25_66b6925f:
 
     # Ry "I'm beginning to realize that maybe it's not their fault. Maybe it's me."
-    Ry ""
+    Ry "Je commence à réaliser que ça n'est peut être pas de leur faute. Peut être c'est de la mienne."
 
 # game/remy3.rpy:996
 translate frenchtl _call_skipcheck_25_23de5913:
 
     # Ry "Goodbye, [player_name]."
-    Ry ""
+    Ry "Au revoir, [player_name]."
 
 # game/remy3.rpy:1031
 translate frenchtl remy3skip2_4e426876:
 
     # Ry shy "Can I ask you a question?"
-    Ry shy ""
+    Ry shy "Puis-je te poser une question ?"
 
 # game/remy3.rpy:1033
 translate frenchtl remy3skip2_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Bien sûr."
 
 # game/remy3.rpy:1035
 translate frenchtl remy3skip2_83a2f807:
 
     # Ry "Do you even like me? There must be a reason why you've put up with me for this long."
-    Ry ""
+    Ry "Est-ce que tu m'apprécie ? Il doit bien y avoir une raison pour laquelle tu es resté avec moi aussi longtemps."
 
 # game/remy3.rpy:1037
 translate frenchtl remy3skip2_3070bc42:
 
     # c "What are you talking about?"
-    c ""
+    c "De quoi tu parles ?"
 
 # game/remy3.rpy:1039
 translate frenchtl remy3skip2_5563536d:
 
     # Ry "Do you consider me a friend, or maybe more?"
-    Ry ""
+    Ry "Me considères tu comme un ami, ou bien plus ?"
 
 # game/remy3.rpy:1047
 translate frenchtl remy3skip2_c03b09de:
 
     # Ry smile "That makes me really happy to hear. I haven't had a friend in a very long time."
-    Ry smile ""
+    Ry smile "Ca me rend vraiment heureux de l'entendre. Je n'ai pas eu d'ami depuis très longtemps."
 
 # game/remy3.rpy:1049
 translate frenchtl remy3skip2_858cc231:
 
     # Ry normal "I think I should get going now. Thanks for hearing me out, [player_name]."
-    Ry normal ""
+    Ry normal "Je pense que je devrais y aller. Merci de m'avoir écouté, [player_name]."
 
 # game/remy3.rpy:1051
 translate frenchtl remy3skip2_e085fae4:
 
     # c "Likewise."
-    c ""
+    c "Pareillement."
 
 # game/remy3.rpy:1084
 translate frenchtl remy3skip2_5cdba81c:
 
     # Ry "Is that so?"
-    Ry ""
+    Ry "Vraiment ?"
 
 # game/remy3.rpy:1086
 translate frenchtl remy3skip2_3a095576:
 
     # Ry "In that case... Well..."
-    Ry ""
+    Ry "Dans ce cas... Eh bien..."
 
 # game/remy3.rpy:1088
 translate frenchtl remy3skip2_edc24fe3:
 
     # Ry "Th-the summer festival is coming soon. It's an event we hold in town every year."
-    Ry ""
+    Ry "L-le festival d'été arrive bientôt. C'est un évènement qu'on organise en ville tout les ans."
 
 # game/remy3.rpy:1090
 translate frenchtl remy3skip2_68d24e8a:
 
     # Ry normal "They've got fireworks and all kinds of shows."
-    Ry normal ""
+    Ry normal "Ils ons des feu d'artifices et tout plein de spectacles."
 
 # game/remy3.rpy:1092
 translate frenchtl remy3skip2_b36378c5:
 
     # Ry smile "It might be fun for you to experience a different part of our culture."
-    Ry smile ""
+    Ry smile "Ca serait fun pour toi d'expérimenter une part différente de notre culture."
 
 # game/remy3.rpy:1094
 translate frenchtl remy3skip2_2fee0841:
 
     # Ry normal "What do you say? Would you like to accompany me?"
-    Ry normal ""
+    Ry normal "Qu'en dis-tu ? Aimerais tu m'accompagner ?"
 
 # game/remy3.rpy:1096
 translate frenchtl remy3skip2_cfbad862:
 
     # c "I'd love to, but I can't promise I won't have other obligations at the time."
-    c ""
+    c "J'adorerais, mais je ne peux pas te promettre que je n'aurais pas d'obligation sur le moment."
 
 # game/remy3.rpy:1098
 translate frenchtl remy3skip2_07d1113d:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois"
 
 # game/remy3.rpy:1100
 translate frenchtl remy3skip2_6237c784:
 
     # Ry "Well, I'll call you and we'll see if we can work it out around our schedules."
-    Ry ""
+    Ry "Eh bien, je t'appellerai et on verra si on peut s'arranger sur nos horaires."
 
 # game/remy3.rpy:1102
 translate frenchtl remy3skip2_e631bc97:
 
     # c "Sure thing."
-    c ""
+    c "Bien sûr."
 
 # game/remy3.rpy:1104
 translate frenchtl remy3skip2_303497e7:
 
     # Ry "Then it's settled."
-    Ry ""
+    Ry "Eh bien c'est réglé."
 
 # game/remy3.rpy:1106
 translate frenchtl remy3skip2_f6c413bd:
 
     # Ry smile "I probably should get going now, though. Thanks for hearing me out, [player_name]."
-    Ry smile ""
+    Ry smile "Je devrais probablement y aller là. Merci de m'avoir écouté [player_name]."
 
 # game/remy3.rpy:1108
 translate frenchtl remy3skip2_e085fae4_1:
 
     # c "Likewise."
-    c ""
+    c "Pareillement."
 
 # game/remy3.rpy:1143
 translate frenchtl remy3skip2_37af5a74:
 
     # Ry sad "Oh, I see. Just forget I said anything. And by that, I mean everything I've ever said to you."
-    Ry sad ""
+    Ry sad "Oh je vois. Oublies ce que j'ai dit alors. Et par là, je veux dire tout ce que je t’ai dit."
 
 # game/remy3.rpy:1145
 translate frenchtl remy3skip2_312f5907:
 
     # Ry "I'm sorry I didn't realize it sooner."
-    Ry ""
+    Ry "Je suis désolé de ne pas l'avoir réalisé plus tôt."
 
 # game/remy3.rpy:1147
 translate frenchtl remy3skip2_24f0365a:
 
     # Ry "What am I to you, then? Just a specimen to study? Just someone who provides you with entertainment?"
-    Ry ""
+    Ry "Que suis-je pour toi alors ? Juste un specimen à étudier ? Juste quelqu'un pour te servir de distraction ?"
 
 # game/remy3.rpy:1149
 translate frenchtl remy3skip2_593874c3:
 
     # Ry "You know what? It doesn't matter."
-    Ry ""
+    Ry "Tu sais quoi ? Ca ne fait rien."
 
 # game/remy3.rpy:1151
 translate frenchtl remy3skip2_7054bdb7:
 
     # Ry "Thanks for being honest, at least."
-    Ry ""
+    Ry "Merci d'avoir été honnête, au moins."
 
 # game/remy3.rpy:1153
 translate frenchtl remy3skip2_23de5913:
 
     # Ry "Goodbye, [player_name]."
-    Ry ""
+    Ry "Au revoir, [player_name]."
 
 translate frenchtl strings:
 
     # remy3.rpy:10
     old "Chapter 4 - Remy 3"
-    new ""
+    new "Chapitre 4 - Rémi 3"
 
     # remy3.rpy:14
     old "Chapter 3 - Remy 3"
-    new ""
+    new "Chapitre 3 - Rémi 3"
 
     # remy3.rpy:18
     old "Chapter 2 - Remy 3"
-    new ""
+    new "Chapitre 2 - Rémi 3"
 
     # remy3.rpy:22
     old "Chapter 1 - Remy 3"
-    new ""
+    new "Chapitre 1 - Rémi 3"
 
     # remy3.rpy:113
     old "Can't say I have."
-    new ""
+    new "On ne peut pas dire que j'y ai été."
 
     # remy3.rpy:113
     old "A few times."
-    new ""
+    new "Quelques fois."
 
     # remy3.rpy:113
     old "Once or twice."
-    new ""
+    new "Une ou deux fois."
 
     # remy3.rpy:133
     old "It's pretty idyllic."
-    new ""
+    new "C'est plutôt idyllique."
 
     # remy3.rpy:133
     old "It's pretty romantic."
-    new ""
+    new "C'est plutôt romantique."
 
     # remy3.rpy:133
     old "It's nothing special."
-    new ""
+    new "Ca n'a rien de spécial."
 
     # remy3.rpy:183
     old "I used to."
-    new ""
+    new "Ce fut le cas."
 
     # remy3.rpy:183
     old "Can't say I do."
-    new ""
+    new "Pas vraiment."
 
     # remy3.rpy:218
     old "We have a lot of time."
-    new ""
+    new "On a tout notre temps."
 
     # remy3.rpy:218
     old "Make it a quick one."
-    new ""
+    new "Fais ça vite."
 
     # remy3.rpy:388
     old "Have you ever talked to a professional about this?"
-    new ""
+    new "As-tu déjà parlé de ça à un spécialiste ?"
 
     # remy3.rpy:388
     old "I remember you said that you always wanted children. {image=image/ui/status/c2pictures.png}{image=image/ui/status/varasaved3.png}"
-    new ""
+    new "Je me souviens que tu as dit que tu as toujours voulu avoir des enfants. {image=image/ui/status/c2pictures.png}{image=image/ui/status/varasaved3.png}"
+
+    # remy3.rpy:641
+    old "Not really."
+    new "Pas vraiment."
 
     # remy3.rpy:641
     old "There is."
-    new ""
+    new "En effet."
 
     # remy3.rpy:710
     old "That's a good tactic."
-    new ""
+    new "C'est une bonne tactique."
 
     # remy3.rpy:710
     old "That's very dishonest."
-    new ""
+    new "C'est très malhonnête."
 
     # remy3.rpy:710
     old "I can't blame her for that."
-    new ""
+    new "Je ne peux pas la blâmer pour ça."
 
     # remy3.rpy:854
     old "That wouldn't be so bad."
-    new ""
+    new "Ca ne serait pas si mal."
 
     # remy3.rpy:854
     old "I'd love living here."
-    new ""
+    new "J'adorerais vivre ici."
 
     # remy3.rpy:854
     old "That'd be a shame."
-    new ""
+    new "Ca serait dommage"
 
     # remy3.rpy:898
     old "You're right."
-    new ""
+    new "Tu as raison."
 
     # remy3.rpy:898
     old "Don't say that."
-    new ""
+    new "Ne dis pas ça?"
 
     # remy3.rpy:898
     old "We all have our own struggles."
-    new ""
+    new "On a tous nos propre combats."
 
     # remy3.rpy:937
     old "Who says you can't?"
-    new ""
+    new "Qui dit que tu ne peux pas ?"
 
     # remy3.rpy:937
     old "You aren't. Deal with it."
-    new ""
+    new "Tu ne l'es pas. Fais avec."
 
     # remy3.rpy:937
     old "What does it matter?"
-    new ""
+    new "En quoi c'est important ?"
 
     # remy3.rpy:1041
     old "I like you as a friend."
-    new ""
+    new "Je te considère comme un ami"
 
     # remy3.rpy:1041
     old "I like you as more than just a friend."
-    new ""
+    new "Je t'aime plus que comme un ami."
 
     # remy3.rpy:1041
     old "Don't read too much into our meetings."
-    new ""
+    new "Ne te fais pas de films sur nos rencontres."
 
