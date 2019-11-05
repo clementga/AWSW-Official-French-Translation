@@ -4,139 +4,139 @@
 translate frenchtl remy4_42bcad01:
 
     # c "(Oh, that must be him.)"
-    c ""
+    c "(Oh, ça doit être lui.)"
 
 # game/remy4.rpy:57
 translate frenchtl _call_skiptut_28_44e0ddc6:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip ahead a bit?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/remy4.rpy:65
 translate frenchtl _call_skiptut_28_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/remy4.rpy:73
 translate frenchtl _call_skiptut_28_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène."
 
 # game/remy4.rpy:87
 translate frenchtl _call_skiptut_28_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy4.rpy:107
 translate frenchtl _call_skipcheck_28_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/remy4.rpy:113
 translate frenchtl _call_skipcheck_28_241427e0:
 
     # c "Remy, what's that on your face?"
-    c ""
+    c "Rémi, qu'est-ce que c'est que ce truc sur ton visage ?"
 
 # game/remy4.rpy:115
 translate frenchtl _call_skipcheck_28_314084ce:
 
     # Ry smile c "Don't you know what it is?"
-    Ry smile c ""
+    Ry smile c "Tu ne sais pas ce que c'est ?"
 
 # game/remy4.rpy:117
 translate frenchtl _call_skipcheck_28_d293e1c0:
 
     # c "Well, it looks like lipstick, but I didn't know that was a thing here."
-    c ""
+    c "Eh bien, ça ressemble à du rouge à lèvre, mais je ne savais pas que ça pouvait se faire ici."
 
 # game/remy4.rpy:119
 translate frenchtl _call_skipcheck_28_a574db8c:
 
     # Ry normal c "You're right, it is lipstick. It's not something that existed in this world before, though."
-    Ry normal c ""
+    Ry normal c "Tu as raison, c'est du rouge à lèvre. En revanche, ce n'est pas quelque chose qui existait dans ce monde auparavant."
 
 # game/remy4.rpy:121
 translate frenchtl _call_skipcheck_28_65bedffc:
 
     # c "How did you get some, then?"
-    c ""
+    c "Comment t'en es-tu procuré, alors ?"
 
 # game/remy4.rpy:123
 translate frenchtl _call_skipcheck_28_43dc67d1:
 
     # Ry smile c "I have one of your PDAs, remember? I studied it a bit and came across the entry on lipstick. Based on the necessary ingredients, I realized I could make some myself, and so I did."
-    Ry smile c ""
+    Ry smile c "J'ai un de vos PDAs, tu te souviens ? Je l'ai étudié un peu et suis tombé sur la rubrique du rouge à lèvre. En me basant sur les ingrédients nécessaires, j'ai réalisé qu je pouvais en fabriquer moi même, et c'est ce que j'ai fait."
 
 # game/remy4.rpy:125
 translate frenchtl _call_skipcheck_28_8c486a3c:
 
     # c "Did you do this to look pretty for me?"
-    c ""
+    c "As-tu fait ça pour te faire beau pour moi ?"
 
 # game/remy4.rpy:127
 translate frenchtl _call_skipcheck_28_16c204b2:
 
     # Ry normal c "I just figured you’d miss these kinds of things – things that are normal for you."
-    Ry normal c ""
+    Ry normal c "Je me suis juste dis que des choses comme ça te manquerait - des choses qui sont normales pour toi."
 
 # game/remy4.rpy:129
 translate frenchtl _call_skipcheck_28_e40f5465:
 
     # c "It hasn't really been normal back home in quite a while. Lipstick isn't common these days."
-    c ""
+    c "Les choses n'ont pas été normales depuis un moment chez moi. Le rouge à lèvres n'est pas commun ces temps ci."
 
 # game/remy4.rpy:131
 translate frenchtl _call_skipcheck_28_9a58be3d:
 
     # c "Didn't the entry specify that it's typically used by females?"
-    c ""
+    c "La rubrique n'a-t-elle pas spécifié que c'est généralement utilisé par le personnes de sexe féminin ?"
 
 # game/remy4.rpy:133
 translate frenchtl _call_skipcheck_28_10ca1927:
 
     # Ry "Now that you mention it, I did get that impression, but I found the sentiment a bit puzzling. Why would a product like this only be used by one gender?"
-    Ry ""
+    Ry "Maintenant que tu le mentionnes, j'ai eu cette impression, mais j'ai trouvé cet état d'esprit un peu déroutant. Pourquoi un produit comme celui ci ne serait utilisé que par seulement un sexe ?"
 
 # game/remy4.rpy:135
 translate frenchtl _call_skipcheck_28_8ef1e24d:
 
     # c "Well, I guess social norms dictated that certain traits are only desirable in one gender, thus highlighting them like this would increase the attractiveness."
-    c ""
+    c "Eh bien, je crois que les normes sociales nous ont dictées que certains traits ne sont désirable que sur un sexe, les mettant ainsi en valeur comme pour augmenter leur attractivité."
 
 # game/remy4.rpy:137
 translate frenchtl _call_skipcheck_28_0f897892:
 
     # Ry "Oh, I think I get it now. It's all based on sexual dimorphism. The biological differences between the sexes are much greater in your species than it is in ours, so I suppose the traits you are looking for can be different, too."
-    Ry ""
+    Ry "Oh, Je crois comprendre. Le tout est basé sur le dimorphisme sexuel. Les différences biologiques entre les sexes sont plus importantes chez votre espèce que chez la notre, donc je suppose que les caractéristiques que vous recherchez peuvent être aussi différents."
 
 # game/remy4.rpy:139
 translate frenchtl _call_skipcheck_28_19132fb9:
 
     # Ry "Generally speaking, sexual dimorphism is much greater in mammals than it is in reptiles."
-    Ry ""
+    Ry "De manière générale, le dimorphisme sexuel est bien plus grand chez les mammifères que chez les reptiles."
 
 # game/remy4.rpy:141
 translate frenchtl _call_skipcheck_28_0d6c8006:
 
     # Ry "While it can vary wildly by species, external indicators are pretty much always present. Like mammaries, for example - an always-present and often obvious reminder."
-    Ry ""
+    Ry "Alors que ça peut varier grandement en fonction des espèces, les indicateurs externes sont presques généralement toujours présents. Comme les glandes mammaires par exemple - un rappel toujours présent et souvent évident."
 
 # game/remy4.rpy:143
 translate frenchtl _call_skipcheck_28_d0432053:
 
     # Ry shy c "This makes so much more sense now. It's kind of embarrassing."
-    Ry shy c ""
+    Ry shy c "Ca fait beaucoup plus de sens maintenant. C'est assez embarassant."
 
 # game/remy4.rpy:145
 translate frenchtl _call_skipcheck_28_60d3b085:
 
     # Ry "Should I... get rid of it?"
-    Ry ""
+    Ry "Devrais-je... m'en débarasser ?"
 
 # game/remy4.rpy:151
 translate frenchtl _call_skipcheck_28_7c354517:
