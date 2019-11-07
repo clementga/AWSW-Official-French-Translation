@@ -292,73 +292,73 @@ translate frenchtl _call_skipcheck_28_ba351dfe:
 translate frenchtl _call_skipcheck_28_9292a995:
 
     # c "Can I offer you some food or drink? I've barely used any of the stuff in the kitchen."
-    c ""
+    c "Puis-je t'offrir quelque chose à manger ou à boire ? J'ai à peine touché à la nourriture dans la cuisine."
 
 # game/remy4.rpy:247
 translate frenchtl _call_skipcheck_28_abed64d8:
 
     # Ry normal "Why not?"
-    Ry normal ""
+    Ry normal "Pourquoi pas ?"
 
 # game/remy4.rpy:249
 translate frenchtl _call_skipcheck_28_39036c48:
 
     # c "I didn't want to touch anything that didn't at least resemble something I know. After all, I have no idea how to prepare them right or even know if they are safe for me to eat."
-    c ""
+    c "Je ne voulais toucher à rien qui ne ressemble à quelque chose que je connaisse. Après tout, je n'ai aucune idée de comment les préparer correctement ou même si je peux les manger."
 
 # game/remy4.rpy:251
 translate frenchtl _call_skipcheck_28_e3950e4a:
 
     # Ry "Maybe it wasn't such a good idea to get you all those perishables then. I wanted to provide you with a bit of everything, considering I had to prepare the apartment for someone I didn't really know much about."
-    Ry ""
+    Ry "Peut être que ce n'était pas une si bonne idée de te donner toutes ces denrées périssables. Je voulais te fournir un peu de tout, tout en sachant que je devais préparer l'appartement pour quelqu'un dont je ne savais pas grand chose."
 
 # game/remy4.rpy:253
 translate frenchtl _call_skipcheck_28_f41caa06:
 
     # c "Oh, some of them were good. It's interesting to taste the subtle and sometimes not-so-subtle differences in the similar fruits we have back home."
-    c ""
+    c "Oh, certains aliments étaient bons. C'était intéressant de voir les différences subtils, parfois beaucoup moins, avec les fruits similaires que nous avons chez moi."
 
 # game/remy4.rpy:255
 translate frenchtl _call_skipcheck_28_2ba07424:
 
     # Ry "Did you throw anything out?"
-    Ry ""
+    Ry "En as-tu jeté?"
 
 # game/remy4.rpy:257
 translate frenchtl _call_skipcheck_28_b967ca81:
 
     # c "Not really. Why do you ask?"
-    c ""
+    c "Pas vraiment. Pourquoi me demandes-tu ?"
 
 # game/remy4.rpy:259
 translate frenchtl _call_skipcheck_28_3ef81fa4:
 
     # Ry "You've been here for nearly two weeks now, so even if some of them were safe for you to eat, they probably aren't anymore."
-    Ry ""
+    Ry "Tu as passé presque deux semaines ici, donc même si tu pouvais les manger sans risques, ça ne doit probablement plus être le cas."
 
 # game/remy4.rpy:261
 translate frenchtl _call_skipcheck_28_4e8c221f:
 
     # Ry "Let me clean out your closet. We don't want to have any health hazards for you here, after all."
-    Ry ""
+    Ry "Laisse moi faire le ménage dans ton placard. On ne veut rien qui représente un danger pour ta santé, après tout."
 
 # game/remy4.rpy:263
 translate frenchtl _call_skipcheck_28_17a1e7a8:
 
     # c "Well, feel free."
-    c ""
+    c "Eh bien, n'hésite pas."
 
 # game/remy4.rpy:273
 translate frenchtl _call_skipcheck_28_2b8bd8af:
 
     # Ry "Just look at this!"
-    Ry ""
+    Ry "Regarde moi ça !"
 
 # game/remy4.rpy:277
 translate frenchtl _call_skipcheck_28_d4bc49fc:
 
     # m "He showed me a juicy-looking, vaguely spherical fruit whose bright red color was unlike any other fruit I had ever seen."
-    m ""
+    m "Il me montra fruit d'apparence juteuse, vaguement sphérique et dont la couleur rouge pétante ne ressemblait à celle d'aucun autre fruit que j'eusse pu voir."
 
 # game/remy4.rpy:279
 translate frenchtl _call_skipcheck_28_c194efe0:
