@@ -364,157 +364,157 @@ translate frenchtl _call_skipcheck_28_d4bc49fc:
 translate frenchtl _call_skipcheck_28_c194efe0:
 
     # c "That's a very bright red. I don't think even our best apples could compare."
-    c ""
+    c "C'est un rouge très brillant. Je ne pense pas que nos meilleures pommes puissent rivaliser."
 
 # game/remy4.rpy:281
 translate frenchtl _call_skipcheck_28_ad116aa1:
 
     # Ry "Well, they're usually blue. Red means you're supposed to throw them away, as they have expired by then and toxins might have already set in."
-    Ry ""
+    Ry "Eh bien, ils sont bleus normalement. La couleur rouge signifie que tu es supposé les jeter, car ils sont périmés depuis le temps et ça doit être bourré de toxines."
 
 # game/remy4.rpy:283
 translate frenchtl _call_skipcheck_28_dd6a4d1f:
 
     # c "Oh. Well, I wasn't planning on eating it anyway."
-    c ""
+    c "Oh. Eh bien, je n'avais pas prévu de les manger de toute façon."
 
 # game/remy4.rpy:285
 translate frenchtl _call_skipcheck_28_e6083d51:
 
     # Ry "Or this one, it's all moldy!"
-    Ry ""
+    Ry "Ou celle là, il y a de la moisissure partout."
 
 # game/remy4.rpy:287
 translate frenchtl _call_skipcheck_28_1416267a:
 
     # c "I don't see any mold."
-    c ""
+    c "Je ne vois pas de moisissure."
 
 # game/remy4.rpy:289
 translate frenchtl _call_skipcheck_28_b51801e0:
 
     # Ry "Don't you see these spots?"
-    Ry ""
+    Ry "Tu ne vois pas ces tâches ?"
 
 # game/remy4.rpy:291
 translate frenchtl _call_skipcheck_28_bc7573b6:
 
     # c "Sure, but if that's supposed to be mold, it looks very different from the mold we have back home."
-    c ""
+    c "Si, mais si c'est supposé être de la moisissure, elle est très différente de celle qu'on a chez nous."
 
 # game/remy4.rpy:293
 translate frenchtl _call_skipcheck_28_07d1113d:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois"
 
 # game/remy4.rpy:295
 translate frenchtl _call_skipcheck_28_db232029:
 
     # Ry shy "Maybe it wasn't such a good idea to stock up on perishables. I didn't consider all the implications of doing something like this. Had you eaten the wrong thing, you could be in a hospital right now."
-    Ry shy ""
+    Ry shy "Peut être que ce n'était pas une bonne idée de faire le plein de denrées périssables. Je n'ai pas pris en compte tout ce que pouvais impliquer de une telle chose. Si tu avais mangé le mauvais aliment, tu airais pu finir à l'hôpital."
 
 # game/remy4.rpy:297
 translate frenchtl _call_skipcheck_28_8032ab4e:
 
     # c "Don't stress yourself out about it. Honestly, someone would have to be pretty reckless to just go ahead and start munching on things they don't know about."
-    c ""
+    c "Ne te met pas la pression pour ça. Honnêtement, il aurait fallu être assez téméraire pour juste foncer et commencer à mâcher quelque chose dont on ignore tout."
 
 # game/remy4.rpy:299
 translate frenchtl _call_skipcheck_28_980f08aa:
 
     # c "If anyone was smart enough to be sent here, they probably wouldn't take a risk like that."
-    c ""
+    c "N'importe qui d'assez intelligent pour être envoyer ici ne prendrait probablement pas un tel risque."
 
 # game/remy4.rpy:301
 translate frenchtl _call_skipcheck_28_71fb267a:
 
     # Ry smile "Well, I'm glad to hear it."
-    Ry smile ""
+    Ry smile "Eh bien, je suis heureux de l'entendre."
 
 # game/remy4.rpy:303
 translate frenchtl _call_skipcheck_28_ada2cc13:
 
     # Ry normal "Nevertheless, I better get rid of everything that's past its date. We don't really want the mold in the air, either."
-    Ry normal ""
+    Ry normal "Néanmoins, je ferais mieux de me débarasser de tout ce qui a dépasser la date limite. On veut pas vraiment de moisissure dans l'air, non plus."
 
 # game/remy4.rpy:305
 translate frenchtl _call_skipcheck_28_8fc66374:
 
     # c "If you say so."
-    c ""
+    c "C'est toi le patron."
 
 # game/remy4.rpy:309
 translate frenchtl _call_skipcheck_28_ad95221e:
 
     # m "Once more, he dove into the closet. I heard him rummaging around as he checked the fruits and vegetables thoroughly."
-    m ""
+    m "Une fois de plus, il s'enfonça dans le placard. Je l'entendais farfouiller tandis qu'il vérifiait soigneusement les fruits et les légumes."
 
 # game/remy4.rpy:317
 translate frenchtl _call_skipcheck_28_02991e21:
 
     # Ry "That should be everything."
-    Ry ""
+    Ry "Ca devrait être tout."
 
 # game/remy4.rpy:319
 translate frenchtl _call_skipcheck_28_dd20ffbf:
 
     # c "Thanks."
-    c ""
+    c "Merci."
 
 # game/remy4.rpy:321
 translate frenchtl _call_skipcheck_28_e51965d9:
 
     # c "I bet the wine didn't go bad, though. Do you want some?"
-    c ""
+    c "Je parie que la bouteille de vin n'a pas tournée, elle. Tu en veux un peu ?"
 
 # game/remy4.rpy:323
 translate frenchtl _call_skipcheck_28_e1b54634:
 
     # Ry normal "I'm not really a big fan of wine."
-    Ry normal ""
+    Ry normal "Je ne suis pas vraiment un grand fan de vin."
 
 # game/remy4.rpy:325
 translate frenchtl _call_skipcheck_28_dab698e2:
 
     # c "How come?"
-    c ""
+    c "Comment se fait-ce ?"
 
 # game/remy4.rpy:327
 translate frenchtl _call_skipcheck_28_d13d39f4:
 
     # Ry "I just can't enjoy it as some others do, I suppose. I'm willing to try anything at least once, though."
-    Ry ""
+    Ry "Je n'arrive juste pas à l'apprécier autant que d'autres, je suppose. Par contre, je viens essayer de tout au moins une fois."
 
 # game/remy4.rpy:329
 translate frenchtl _call_skipcheck_28_402de06e:
 
     # c "Anything?"
-    c ""
+    c "De tout ?"
 
 # game/remy4.rpy:331
 translate frenchtl _call_skipcheck_28_dc2b5efc:
 
     # Ry "Well, at least as far as food and drinks are concerned."
-    Ry ""
+    Ry "Eh bien, au moins tout ce qui implique nourriture et boissons."
 
 # game/remy4.rpy:342
 translate frenchtl _call_skipcheck_28_3ae0a6cf:
 
     # Ry smile "Well, if you want to."
-    Ry smile ""
+    Ry smile "Eh bien, si tu veux."
 
 # game/remy4.rpy:344
 translate frenchtl _call_skipcheck_28_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Bien sûre."
 
 # game/remy4.rpy:346
 translate frenchtl _call_skipcheck_28_3454dcb3:
 
     # c "What kind of wine is this, anyway?"
-    c ""
+    c "Quel type de vin est-ce, au passage ?"
 
 # game/remy4.rpy:348
 translate frenchtl _call_skipcheck_28_a6bc6de7:
