@@ -520,73 +520,73 @@ translate frenchtl _call_skipcheck_28_3454dcb3:
 translate frenchtl _call_skipcheck_28_a6bc6de7:
 
     # Ry normal "I'm not sure, I just grabbed it when I got all the other stuff."
-    Ry normal ""
+    Ry normal "je n'en sais rien, j'ai juste pris celle là quand je faisais les courses."
 
 # game/remy4.rpy:350
 translate frenchtl _call_skipcheck_28_cad3244a:
 
     # c "Don't tell me you just went for the cheapest one."
-    c ""
+    c "Ne me dis pas que tu t'es rabattu sur la bouteille la moins chère."
 
 # game/remy4.rpy:352
 translate frenchtl _call_skipcheck_28_99b4bbb5:
 
     # Ry smile "Of course not. Everyone knows that you don't just buy the cheapest stuff. You go for the second cheapest."
-    Ry smile ""
+    Ry smile "Bien sûr que non. Tout le monde sait qu'il ne faut pas acheter la moins chère. Il faut prendre la seconde moins chère."
 
 # game/remy4.rpy:354
 translate frenchtl _call_skipcheck_28_f047fad9:
 
     # c "Oh, well."
-    c ""
+    c "Bon bah."
 
 # game/remy4.rpy:356
 translate frenchtl _call_skipcheck_28_7f5b0a66:
 
     # c "What kind of... container should I get for you, anyway?"
-    c ""
+    c "Quel type de... conteneur devrai-je aller te chercher ?"
 
 # game/remy4.rpy:358
 translate frenchtl _call_skipcheck_28_3e70cc7d:
 
     # Ry normal "We're having wine, so let's go for wine glasses. The stem actually makes it possible for me to grip it with my vestigial thumb, so there shouldn't be any problems."
-    Ry normal ""
+    Ry normal "On va boire du vin, donc partons sur des verres à vin. Le pied me permet de le tenir avec les vestiges de mon pouce, donc il ne devrait y avoir aucun problème."
 
 # game/remy4.rpy:360
 translate frenchtl _call_skipcheck_28_86148265:
 
     # c "Alright."
-    c ""
+    c "Ca roule."
 
 # game/remy4.rpy:366
 translate frenchtl _call_skipcheck_28_7cdc3eb6:
 
     # c "Here you go."
-    c ""
+    c "Voilà pour toi."
 
 # game/remy4.rpy:368
 translate frenchtl _call_skipcheck_28_5bfcfb4d:
 
     # Ry "What shall we drink to?"
-    Ry ""
+    Ry "A quoi devrions nous trinquer ?"
 
 # game/remy4.rpy:376
 translate frenchtl _call_skipcheck_28_1ffd676a:
 
     # Ry smile "Alright. To an interesting afternoon and whatever it may bring."
-    Ry smile ""
+    Ry smile "D'accord. A un après midi bien rempli et quoi que ce soit que ça puisse amener."
 
 # game/remy4.rpy:382
 translate frenchtl _call_skipcheck_28_ed05a844:
 
     # Ry smile "Alright. To a wonderful friendship."
-    Ry smile ""
+    Ry smile "D'accord. A une formidable amitié."
 
 # game/remy4.rpy:389
 translate frenchtl _call_skipcheck_28_00974107:
 
     # Ry smile "Alright. To whatever, then."
-    Ry smile ""
+    Ry smile "D'accord. Advienne que pourra, alors."
 
 # game/remy4.rpy:399
 translate frenchtl _call_skipcheck_28_2b440c0e:
