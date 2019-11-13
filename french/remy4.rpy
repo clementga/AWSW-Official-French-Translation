@@ -538,7 +538,7 @@ translate frenchtl _call_skipcheck_28_99b4bbb5:
 translate frenchtl _call_skipcheck_28_f047fad9:
 
     # c "Oh, well."
-    c "Bon bah."
+    c "Ben voyons."
 
 # game/remy4.rpy:356
 translate frenchtl _call_skipcheck_28_7f5b0a66:
@@ -592,133 +592,133 @@ translate frenchtl _call_skipcheck_28_00974107:
 translate frenchtl _call_skipcheck_28_2b440c0e:
 
     # m "I took a sip from my wine glass. Remy really hadn't been kidding about getting the second cheapest bottle, because that was exactly what it tasted like."
-    m ""
+    m "Je pris une gorgée de mon verre à vin. Rémi ne plaisantait pas quand au sujet de prendre la seconde boutielle la moins chère, parce que ça en avait exactement le goût."
 
 # game/remy4.rpy:401
 translate frenchtl _call_skipcheck_28_85881e65:
 
     # c "How do you like it?"
-    c ""
+    c "Qu'est-ce que tu en penses ?"
 
 # game/remy4.rpy:403
 translate frenchtl _call_skipcheck_28_d5c6589c:
 
     # Ry "Must be an acquired taste, I think."
-    Ry ""
+    Ry "Ca doit être pour les palais raffinés, je pense."
 
 # game/remy4.rpy:405
 translate frenchtl _call_skipcheck_28_a3d65aa3:
 
     # Ry "How about you?"
-    Ry ""
+    Ry "Et toi ?"
 
 # game/remy4.rpy:411
 translate frenchtl _call_skipcheck_28_8505c624:
 
     # c "It's okay. I mean, you can't really expect much from a cheap bottle of wine."
-    c ""
+    c "C'est correct. Je veux dire, tu ne peux pas vraiment attendre grand chose d'une bouteille de vin bon marché."
 
 # game/remy4.rpy:413
 translate frenchtl _call_skipcheck_28_07d1113d_1:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/remy4.rpy:417
 translate frenchtl _call_skipcheck_28_a6fd0a7f:
 
     # c "It's bad. I'm not surprised that you don't like it either."
-    c ""
+    c "C'est mauvais. Je ne suis pas surpris que tu n'aimes pas non plus."
 
 # game/remy4.rpy:419
 translate frenchtl _call_skipcheck_28_ce740940:
 
     # Ry smile "Maybe I should buy the third cheapest next time."
-    Ry smile ""
+    Ry smile "Peut être que je devrais acheter la troisième moins chère la prochaine fois."
 
 # game/remy4.rpy:421
 translate frenchtl _call_skipcheck_28_13251290:
 
     # c "Maybe."
-    c ""
+    c "peut être."
 
 # game/remy4.rpy:429
 translate frenchtl _call_skipcheck_28_770cab01:
 
     # c "I'm not a fan either, so I guess we don't need to waste a good bottle of wine by opening it."
-    c ""
+    c "Je ne suis pas fan non plus, donc je crois qu'on a pas besoin de gâcher une bonne bouteille de vin en l'ouvrant."
 
 # game/remy4.rpy:431
 translate frenchtl _call_skipcheck_28_6c582c4a:
 
     # Ry "I'm not sure if this one would qualify as a \"good bottle\"."
-    Ry ""
+    Ry "Je ne sais pas si celle là pourrait être qualifiée de \"bonne bouteille\"."
 
 # game/remy4.rpy:433
 translate frenchtl _call_skipcheck_28_cad3244a_1:
 
     # c "Don't tell me you just went for the cheapest one."
-    c ""
+    c "Ne me dis pas que tu t'es rabattu sur la bouteille la moins chère."
 
 # game/remy4.rpy:435
 translate frenchtl _call_skipcheck_28_7b26bb2e:
 
     # Ry smile "Of course not. Everyone knows that you don't buy the cheapest stuff. You go for the second cheapest."
-    Ry smile ""
+    Ry smile "Bien sûr que non. Tout le monde sait qu'il ne faut pas acheter la moins chère. Il faut prendre la seconde moins chère."
 
 # game/remy4.rpy:437
 translate frenchtl _call_skipcheck_28_f047fad9_1:
 
     # c "Oh, well."
-    c ""
+    c "ben voyons."
 
 # game/remy4.rpy:442
 translate frenchtl _call_skipcheck_28_86b88713:
 
     # Ry "Just look at the time. I think we could start heading to the festival now."
-    Ry ""
+    Ry "Regarde l'heure. Je pense qu'on devrait commencer à se diriger vers le festival."
 
 # game/remy4.rpy:444
 translate frenchtl _call_skipcheck_28_4f7f32d4:
 
     # c "Sure, let's go."
-    c ""
+    c "Bien sûr, on y va."
 
 # game/remy4.rpy:456
 translate frenchtl _call_skipcheck_28_cd7294e4:
 
     # Ry "This is strange. Usually there'd be a crowd by now."
-    Ry ""
+    Ry "C'est étrange. Normalement c'est bondé à cette heure-ci."
 
 # game/remy4.rpy:458
 translate frenchtl _call_skipcheck_28_c11a081c:
 
     # c "Do you think they canceled it? With Reza still being out there, maybe they thought it wasn't a good idea to have a public spectacle like this."
-    c ""
+    c "Tu penses qu'ils l'ont annulé ? Avec Reza toujours en liberté, peut être qu'ils ont pensé que ce n'était pas une bonne idée d'avoir un évènement public comme celui-ci."
 
 # game/remy4.rpy:460
 translate frenchtl _call_skipcheck_28_035ae435:
 
     # Ry "Cancel the summer festival? Inconceivable!"
-    Ry ""
+    Ry "Annuler le festival d'été ? Inconcevable !"
 
 # game/remy4.rpy:462
 translate frenchtl _call_skipcheck_28_51bec4ab:
 
     # c "It doesn't really look like a festival is going on right now, though."
-    c ""
+    c "En attendant, on ne dirait pas qu'un festival est en train de se dérouler là."
 
 # game/remy4.rpy:464
 translate frenchtl _call_skipcheck_28_a6f3bbb5:
 
     # Ry "I don't know what's going on."
-    Ry ""
+    Ry "Je ne sais pas ce qui se trame."
 
 # game/remy4.rpy:466
 translate frenchtl _call_skipcheck_28_14f640c0:
 
     # c "Hey, I think I know this guy. Let's go and ask him."
-    c ""
+    c "Hey, Je crois que je connais cette personne. Allons lui demander."
 
 # game/remy4.rpy:472
 translate frenchtl _call_skipcheck_28_08ae875a:
