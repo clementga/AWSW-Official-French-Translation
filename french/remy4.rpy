@@ -724,115 +724,115 @@ translate frenchtl _call_skipcheck_28_14f640c0:
 translate frenchtl _call_skipcheck_28_08ae875a:
 
     # Fv "Hey, [player_name]. How can I help you?"
-    Fv ""
+    Fv "Hey, [player_name]. Comment puis-je t'aider ?"
 
 # game/remy4.rpy:474
 translate frenchtl _call_skipcheck_28_5574c33b:
 
     # c "We were just planning to go to the festival, but it doesn't seem like there's much going on here yet."
-    c ""
+    c "On avait prévu d'aller au festival, mais il semblerait qu'il ne se passe pas grand chose là tout de suite."
 
 # game/remy4.rpy:476
 translate frenchtl _call_skipcheck_28_be6f6863:
 
     # Fv "You came to the right place, but the festival is not starting for another hour, at least."
-    Fv ""
+    Fv "Vous êtes au bon endroit, mais le festival ne commence pas avant une heure, au moins."
 
 # game/remy4.rpy:478
 translate frenchtl _call_skipcheck_28_a91e7ba9:
 
     # Ry "What? But the festival has always started at this time."
-    Ry ""
+    Ry "Pardon ? Mais le festival a toujours commencé à cette heure-ci."
 
 # game/remy4.rpy:480
 translate frenchtl _call_skipcheck_28_ff11f82d:
 
     # Fv "You must have missed the memo, then. They moved it by an hour. Something about the daylight and making the fireworks more visible as a result."
-    Fv ""
+    Fv "Dans ce cas, vous avez dû rater le mémo. ils l'ont décalé d'une heure. Quelque chose à propos de la lumière du jour et de rendre les feux d'artifices plus visibles en conséquence."
 
 # game/remy4.rpy:482
 translate frenchtl _call_skipcheck_28_61255d84:
 
     # Ry "Well, that's a shame."
-    Ry ""
+    Ry "Oh, c'est dommage."
 
 # game/remy4.rpy:484
 translate frenchtl _call_skipcheck_28_0d67c413:
 
     # c "And I'm kinda getting hungry, too."
-    c ""
+    c "Et je commence à avoir faim, aussi."
 
 # game/remy4.rpy:486
 translate frenchtl _call_skipcheck_28_787dbf46:
 
     # Fv "I can help you with that."
-    Fv ""
+    Fv "Pour ça je peux vous aider."
 
 # game/remy4.rpy:488
 translate frenchtl _call_skipcheck_28_0e8990e1:
 
     # c "What are you selling?"
-    c ""
+    c "Qu'est-ce que vous vendez ?"
 
 # game/remy4.rpy:490
 translate frenchtl _call_skipcheck_28_4991f593:
 
     # Fv "Skewers, meat balls. All kinds of grilled things, really."
-    Fv ""
+    Fv "Des brochettes, des boulettes de viande. Des grillades en tout genre."
 
 # game/remy4.rpy:492
 translate frenchtl _call_skipcheck_28_a5dec48f:
 
     # Ry smile "Well, I could go for some meat balls. How about you?"
-    Ry smile ""
+    Ry smile "Eh bien, je serais partant pour des boulettes. Et toi ?"
 
 # game/remy4.rpy:514
 translate frenchtl _call_skipcheck_28_833eb8a5:
 
     # Fv "No problem, just let me pack this up for you."
-    Fv ""
+    Fv "Pas de problème, laissez moi juste emballer ça pour vous."
 
 # game/remy4.rpy:520
 translate frenchtl _call_skipcheck_28_acad0f7e:
 
     # Ry "I guess this makes us your first customers of the day. What do I owe you?"
-    Ry ""
+    Ry "Il faut croire que ça fait de nous vos premiers clients de la journée. Combien je vous dois ?"
 
 # game/remy4.rpy:522
 translate frenchtl _call_skipcheck_28_b47d1661:
 
     # Fv "For you two, it's free."
-    Fv ""
+    Fv "Pour vous deux, c'est gratuit."
 
 # game/remy4.rpy:524
 translate frenchtl _call_skipcheck_28_5943f041:
 
     # Ry "That's very kind of you. Thank you."
-    Ry ""
+    Ry "C'est très gentil à vous. Merci."
 
 # game/remy4.rpy:526
 translate frenchtl _call_skipcheck_28_b9b107ba:
 
     # Fv "Have fun at the festival."
-    Fv ""
+    Fv "Amusez vous bien au festival."
 
 # game/remy4.rpy:528
 translate frenchtl _call_skipcheck_28_5b6f67fd:
 
     # c "Thanks!"
-    c ""
+    c "Merci !"
 
 # game/remy4.rpy:536
 translate frenchtl _call_skipcheck_28_252423fc:
 
     # c "So, what do we do now? Should we go back?"
-    c ""
+    c "Bon, qu'est-ce qu'on fait maintenant ? Devrait-on rentrer ?"
 
 # game/remy4.rpy:538
 translate frenchtl _call_skipcheck_28_17352176:
 
     # Ry "Well, we're already here and got all this stuff. Let's just sit down somewhere."
-    Ry ""
+    Ry "Eh bien, on est déjà là avec de la nourriture. Allons nous asseoir quelque part."
 
 # game/remy4.rpy:540
 translate frenchtl _call_skipcheck_28_c48dc32f_1:
