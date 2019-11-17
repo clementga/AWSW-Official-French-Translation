@@ -748,7 +748,7 @@ translate frenchtl _call_skipcheck_28_a91e7ba9:
 translate frenchtl _call_skipcheck_28_ff11f82d:
 
     # Fv "You must have missed the memo, then. They moved it by an hour. Something about the daylight and making the fireworks more visible as a result."
-    Fv "Dans ce cas, vous avez dû rater le mémo. ils l'ont décalé d'une heure. Quelque chose à propos de la lumière du jour et de rendre les feux d'artifices plus visibles en conséquence."
+    Fv "Dans ce cas, vous avez dû rater le mémo. ils l'ont décalé d'une heure. Quelque chose à propos de la lumière du jour et de rendre les feux d'artifice plus visibles en conséquence."
 
 # game/remy4.rpy:482
 translate frenchtl _call_skipcheck_28_61255d84:
@@ -838,91 +838,91 @@ translate frenchtl _call_skipcheck_28_17352176:
 translate frenchtl _call_skipcheck_28_c48dc32f_1:
 
     # c "Sure."
-    c ""
+    c "Ca marche."
 
 # game/remy4.rpy:544
 translate frenchtl _call_skipcheck_28_bfc9e371:
 
     # m "We went off to the side as more dragons arrived and started setting up their various booths."
-    m ""
+    m "Nous nous décalâmes sur le côté tandis que plus de dragons arrivaient et commencaient à monter leurs divers stands."
 
 # game/remy4.rpy:546
 translate frenchtl _call_skipcheck_28_1e7e3bb6:
 
     # c "How are the meat balls?"
-    c ""
+    c "Comment sont les boulettes ?"
 
 # game/remy4.rpy:550
 translate frenchtl _call_skipcheck_28_7e2939f1:
 
     # Ry "They're actually pretty good. How about your stuff?"
-    Ry ""
+    Ry "Elle sont plutôt bonnes en fait. Et toi, ce que tu as pris ?"
 
 # game/remy4.rpy:552
 translate frenchtl _call_skipcheck_28_71d2a125:
 
     # c "It's great. I'm surprised, honestly. You never know with stuff that comes out of food carts."
-    c ""
+    c "C'est super bon. Je suis surpris pour être honnête. On ne sait jamais avec de la nourriture provenant de chariots."
 
 # game/remy4.rpy:554
 translate frenchtl _call_skipcheck_28_35448188:
 
     # Ry "You're right. Maybe we got lucky."
-    Ry ""
+    Ry "Tu as raison. Peut être qu'on as été chanceux."
 
 # game/remy4.rpy:556
 translate frenchtl _call_skipcheck_28_4204bf66:
 
     # c "Or maybe it's because it's still fresh."
-    c ""
+    c "Ou peut être parce que c'est encore frais. "
 
 # game/remy4.rpy:558
 translate frenchtl _call_skipcheck_28_1a2058d7:
 
     # Ry smile "Who knows."
-    Ry smile ""
+    Ry smile "Qui sait."
 
 # game/remy4.rpy:560
 translate frenchtl _call_skipcheck_28_7adb5ad2:
 
     # c "What was that about fireworks, though? Is the big show coming up later?"
-    c ""
+    c "C'était quoi cette histoire à propos des feux d'artifice ? Le bouquet final va se dérouler plus tard ?"
 
 # game/remy4.rpy:562
 translate frenchtl _call_skipcheck_28_ac5ed8f7:
 
     # Ry normal "Oh, no. The festival is just getting started, and there are fireworks every day. But the big show is what everyone wants to see. That one is happening in a few days. It officially concludes the festivities."
-    Ry normal ""
+    Ry normal "Oh non. le festival ne fait que commencer, et il y a des feux d'artifice tout les jours. Mais le bouquet final est celui que tout le monde veut voir. Celui-ci se déroule dans quelques jours. Il conclue officiellement les festivités."
 
 # game/remy4.rpy:564
 translate frenchtl _call_skipcheck_28_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/remy4.rpy:566
 translate frenchtl _call_skipcheck_28_6f342349:
 
     # m "A while later, the festival had kicked off and the crowds were already coming in. Dragons of all shapes and colors filled the paths, ready to see the sights the festival had to offer."
-    m ""
+    m "Un peu plus tard, le festival fut ouvert et la foule pénétrait sur les lieux. Des dragons de toutes les formes et les couleurs remplissaient les rues, prêts à voir les curiosités que le festival avaient à leur offrir."
 
 # game/remy4.rpy:568
 translate frenchtl _call_skipcheck_28_9d5e9a20:
 
     # m "Booths lined both sides of the way. It reminded me a lot of a typical carnival setup, with the booths being filled with shops, food stands, games and much more."
-    m ""
+    m "Les stands étaient alignés des deux côtés de la rue. Cela me rappelait beaucoup l'organisation typique d'une fête foraine, avec les stands remplis de boutiques, de stands de restauration, de jeux et plus encore."
 
 # game/remy4.rpy:570
 translate frenchtl _call_skipcheck_28_ddfec17d:
 
     # c "Seems the festival has already started. Let's go."
-    c ""
+    c "Il semblerait que le festival a déjà démarré. Allons y."
 
 # game/remy4.rpy:572
 translate frenchtl _call_skipcheck_28_ab3388b6:
 
     # Ry "You know what, how about we just stay here? I really don't like crowds."
-    Ry ""
+    Ry "Tu sais quoi, pourquoi ne resterions nous pas ici ? Je n'aime pas vraiment la foule."
 
 # game/remy4.rpy:574
 translate frenchtl _call_skipcheck_28_7f5fd2f5:
