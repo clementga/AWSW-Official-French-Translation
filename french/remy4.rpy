@@ -928,37 +928,37 @@ translate frenchtl _call_skipcheck_28_ab3388b6:
 translate frenchtl _call_skipcheck_28_7f5fd2f5:
 
     # Ry "I've seen the festival so many times already, I'd rather just stay here with you."
-    Ry ""
+    Ry "J'ai vu le festival un paquet de fois, Je préfèrerais juste rester ici avec toi."
 
 # game/remy4.rpy:576
 translate frenchtl _call_skipcheck_28_744dc376:
 
     # c "I thought you wanted to show me around, but I suppose we can just stay here if you'd prefer that."
-    c ""
+    c "Je pensais que tu voulais me faire faire le tour, mais je suppose qu'on peut just rester ici si tu préfère ça."
 
 # game/remy4.rpy:578
 translate frenchtl _call_skipcheck_28_5b797ec5:
 
     # Ry "The main attraction is always the big fireworks show at the end of the festival, and that one is not going to happen today, anyway."
-    Ry ""
+    Ry "L'attraction principale demeure le grand feu d'artifice à la fin du festival, et celui-ci n'est pas pour aujourd'hui, de toute façon."
 
 # game/remy4.rpy:580
 translate frenchtl _call_skipcheck_28_1ebb3b2c:
 
     # c "So, why'd we need to come here in the first place, then? Is something wrong?"
-    c ""
+    c "Donc, pourquoi on aurait eu besoin venir ici, du coup ? Quelque chose ne va pas ?"
 
 # game/remy4.rpy:582
 translate frenchtl _call_skipcheck_28_30318f06:
 
     # Ry "I just had to realize that as nice as it is right now, you'll have to leave this world again eventually."
-    Ry ""
+    Ry "J'ai juste été obligé de réaliser que aussi agréable qu'est l'instant présent, tu devras repartir chez toi finalement."
 
 # game/remy4.rpy:584
 translate frenchtl _call_skipcheck_28_471cb936:
 
     # Ry shy "I've been alone for such a long time now. I didn't even have a single friend."
-    Ry shy ""
+    Ry shy "J'ai été seul depuis si longtemps. Je n'avais même pas un seul ami."
 
 # game/remy4.rpy:586
 translate frenchtl _call_skipcheck_28_027b6343:
