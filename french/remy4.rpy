@@ -508,7 +508,7 @@ translate frenchtl _call_skipcheck_28_3ae0a6cf:
 translate frenchtl _call_skipcheck_28_c48dc32f:
 
     # c "Sure."
-    c "Bien sûre."
+    c "Bien sûr."
 
 # game/remy4.rpy:346
 translate frenchtl _call_skipcheck_28_3454dcb3:
@@ -964,43 +964,43 @@ translate frenchtl _call_skipcheck_28_471cb936:
 translate frenchtl _call_skipcheck_28_027b6343:
 
     # Ry "In my job, I always have to smile when serving the customers. How could I be surrounded by people all the time, yet feel so alone?"
-    Ry ""
+    Ry "A mon boulot, je dois toujours sourire quand je sers les clients. Comment pouvais-je être entouré de tant de personnes tout ce temps, et pourtant me sentir si seul ?"
 
 # game/remy4.rpy:588
 translate frenchtl _call_skipcheck_28_62e74721:
 
     # Ry normal "All those people have their own lives, families, friends and relationships. Yet I had none of that. In a world where everyone else seemed to be happy, I was the odd one out who had to pretend in order to belong."
-    Ry normal ""
+    Ry normal "Toutes ces personnes ont leurs propres vies, familles, amis et relations. Et moi je n'ai rien de tout ça. Dans un monde où tout le monde semblait être heureux, j'étais un cas particulier qui devait faire semblant pour me fondre dans la masse."
 
 # game/remy4.rpy:590
 translate frenchtl _call_skipcheck_28_a3bc31e4:
 
     # Ry shy "How could that not have eaten away at me, day after day?"
-    Ry shy ""
+    Ry shy "Comment ça a pu ne pas me bouffer, jours après jours ?"
 
 # game/remy4.rpy:592
 translate frenchtl _call_skipcheck_28_f01fee62:
 
     # Ry normal "Yet, one day, I heard about the plans of the humans coming here."
-    Ry normal ""
+    Ry normal "Et puis, un jour, j'ai entendu parler des plans des humains pour venir ici."
 
 # game/remy4.rpy:594
 translate frenchtl _call_skipcheck_28_897f35dd:
 
     # Ry "Like many others, I was very excited at the prospect of our myths coming true."
-    Ry ""
+    Ry "Comme beaucoup d'autre, j'étais très excité par la perspective que nos mythes deviennent réalité."
 
 # game/remy4.rpy:596
 translate frenchtl _call_skipcheck_28_2f856f93:
 
     # Ry "And then, the day came when Reza stepped through the portal - amidst all the pomp and fanfare you could imagine. It was quite a sight to behold, really."
-    Ry ""
+    Ry "Et puis, le jour où Reza traversa le portail- au milieu de toute les fastes et fanfares que tu puisses imaginer. C'était une sacrée vue à contempler, vraiment."
 
 # game/remy4.rpy:598
 translate frenchtl _call_skipcheck_28_9a0f8f61:
 
     # Ry "You wouldn't believe how much joy I felt during that moment. Emera, of course, took all the limelight she could. First there was a big speech in front of a huge crowd, then a procession after she had officially welcomed Reza."
-    Ry ""
+    Ry "Tu n'imagines pas la joie que j'ai ressenti durant ce moment. Emera bien sûr, attira les projecteurs autant qu'elle le pouvait. D'abord, il y a eu un grand discours devant une grande foule, puis un défilé après qu'elle ait officiellement acceuili Reza."
 
 # game/remy4.rpy:600
 translate frenchtl _call_skipcheck_28_2beeb5d5:
