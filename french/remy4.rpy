@@ -1006,97 +1006,97 @@ translate frenchtl _call_skipcheck_28_9a0f8f61:
 translate frenchtl _call_skipcheck_28_2beeb5d5:
 
     # Ry "When it was time for you to arrive and it was decided that it wouldn't be a public event this time due to security concerns, I knew that Emera wasn't going to be there if she wasn't able to make it all about herself."
-    Ry ""
+    Ry "Quand ce fut ton tour d'arriver et qu'il fut décidé que ça ne serait pas un évènement public cette fois à cause d'inquiétudes en matière de sécurité, je savais qu'Emera n'allait pas être là si elle ne pouvait pas être au centre de l'attention."
 
 # game/remy4.rpy:602
 translate frenchtl _call_skipcheck_28_b43eb1ee:
 
     # Ry shy "I begged her to let me do it, just to be able to get this close to a human at least once. To talk with them and see what they were like - to experience them."
-    Ry shy ""
+    Ry shy "Je l'ai supplié de me laisser m'en charger, juste pour pouvoir approcher un humain au moins une fois. Pour parler avec lui et voir ce à quoi ils ressemblaient - pour les découvrir."
 
 # game/remy4.rpy:604
 translate frenchtl _call_skipcheck_28_b24f4e0f:
 
     # Ry "She told me that if I did a few favors for her, I could be the one to greet you."
-    Ry ""
+    Ry "Elle m'a dit que si je lui rendais quelques services, je pouvais être celui qui allait t'acceuillir."
 
 # game/remy4.rpy:606
 translate frenchtl _call_skipcheck_28_58369a01:
 
     # Ry sad "I knew that she wasn't going to be there anyway, but if I didn't do what she wanted, she would just send some other lackey instead."
-    Ry sad ""
+    Ry sad "Je savais qu'elle n'allait pas être là de toute façon, mais si je ne faisais pas ce qu'elle disait, elle enverrait juste un autre larbin à la place."
 
 # game/remy4.rpy:608
 translate frenchtl _call_skipcheck_28_8b9ae242:
 
     # Ry "So I did everything she asked for."
-    Ry ""
+    Ry "Donc j'ai fait tout ce qu'elle m'a demandé."
 
 # game/remy4.rpy:610
 translate frenchtl _call_skipcheck_28_ff716e0f:
 
     # Ry normal "She did keep her word, though - and in the end, I was the one who would introduce you to this little world of ours."
-    Ry normal ""
+    Ry normal "En fin de compte, elle a tenu parole - et au final, je fus celui qui allait t'introduire à ce petit monde qu'est le notre."
 
 # game/remy4.rpy:612
 translate frenchtl _call_skipcheck_28_a0a9844a:
 
     # Ry "It might not have seemed like much to you, but with just us two and no one else being there, it was something very special for me."
-    Ry ""
+    Ry "Ca n'a pas dû te sembler être quelque chose de gros, mais avec seulement nous deux et personne d'autre, c'était quelque chose de très spécial pour moi."
 
 # game/remy4.rpy:614
 translate frenchtl _call_skipcheck_28_cc369ecb:
 
     # Ry "It was not just some public spectacle like the summer festival or Reza's arrival, but for the first time in so long, I felt like that moment was about you and me - and no one else."
-    Ry ""
+    Ry "Ce n'était pas juste un quelconque spectacle public comme le festival d'été ou l'arrivée de Reza, mais pour la première fois depuis si longtemps, je me sentais comme si ce moment était juste entre toi et moi - et personne d'autre."
 
 # game/remy4.rpy:616
 translate frenchtl _call_skipcheck_28_27dc9ac9:
 
     # Ry "For someone in my position, it just made me very happy to have such an extraordinary thing happen to me."
-    Ry ""
+    Ry "Pour quelqu'un dans ma situation, ça m'a juste rendu très heureux qu'une chose aussi extraordinaire m'arrive à moi."
 
 # game/remy4.rpy:618
 translate frenchtl _call_skipcheck_28_16ac0834:
 
     # Ry "Of course I was very curious to see how much our myths would line up with reality, and I was even more overjoyed when you visited me in the library."
-    Ry ""
+    Ry "Bien sûr j'étais vraiment curieux de voir à quel point nos mythes colleraient avec la réalité, et j'étais plus que content quand tu m'as rendu visite à la librairie."
 
 # game/remy4.rpy:620
 translate frenchtl _call_skipcheck_28_5c9f8e07:
 
     # Ry "When you accepted my invitation and came into my home, I was just glad to have you there."
-    Ry ""
+    Ry "Quand tu as accepté mon invitation et est venu chez moi, j'étais si content de t'avoir à la maison."
 
 # game/remy4.rpy:622
 translate frenchtl _call_skipcheck_28_bec38e42:
 
     # Ry "It seemed like you wanted to be there and weren't just someone out to use me in some way. I began to feel hope."
-    Ry ""
+    Ry "C'est comme si tu voulais vraiment être là et que tu n'étais pas juste là pour m'utiliser d'une quelconque manière. J'ai commencé à ressentir de l'espoir."
 
 # game/remy4.rpy:624
 translate frenchtl _call_skipcheck_28_0596f680:
 
     # Ry "When I met you in the park, I think the only reason I could tell you everything about myself was because I knew you were going to leave again eventually."
-    Ry ""
+    Ry "Quand je t'ai retrouvé dans le parc, Je pense que la seule raison pour laquelle j'ai été capable de tout te dire à mon sujet c'est parce que je savais que tu allais repartir éventuellement."
 
 # game/remy4.rpy:626
 translate frenchtl _call_skipcheck_28_bf19654f:
 
     # Ry "And now, after all of this, I can hardly believe you're still here with me."
-    Ry ""
+    Ry "Et maintenant, après tout ça, je peux à peine croire que tu es toujours là avec moi."
 
 # game/remy4.rpy:628
 translate frenchtl _call_skipcheck_28_e77c5ee5:
 
     # c "Why wouldn't I be?"
-    c ""
+    c "Pourquoi ne le serai-je pas ?"
 
 # game/remy4.rpy:630
 translate frenchtl _call_skipcheck_28_1534bc2b:
 
     # Ry shy "You're just so nice to me."
-    Ry shy ""
+    Ry shy "Tu es juste si gentil avec moi."
 
 # game/remy4.rpy:632
 translate frenchtl _call_skipcheck_28_4f312056:
