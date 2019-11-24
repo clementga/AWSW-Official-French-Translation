@@ -1246,73 +1246,73 @@ translate frenchtl _call_skipcheck_29_0054b77b:
 translate frenchtl _call_skipcheck_29_efc6b8c8:
 
     # Ry "What will you do once you get back to your own world again?"
-    Ry ""
+    Ry "Que vas-tu faire une fois rentré dans ton monde ?"
 
 # game/remy4.rpy:752
 translate frenchtl _call_skipcheck_29_defef769:
 
     # c "I'm not sure. I don't even know what will happen to me when I return."
-    c ""
+    c "Je ne sais pas. Je ne sais même pas ce qui m'arrivera quand je rentrerai."
 
 # game/remy4.rpy:754
 translate frenchtl _call_skipcheck_29_941e8df6:
 
     # c "These last few days, a lot of things have happened that have changed my perspective on what I'm doing here, Reza and those who sent me."
-    c ""
+    c "Ces derniers jours, beaucoup de choses sont arrivées, ce qui a changé ma vision des choses sur ma mission ici, Reza et ceux qui m'ont envoyé."
 
 # game/remy4.rpy:756
 translate frenchtl _call_skipcheck_29_43488afa:
 
     # Ry "Is that a bad thing?"
-    Ry ""
+    Ry "Est-ce une mauvaise chose ?"
 
 # game/remy4.rpy:758
 translate frenchtl _call_skipcheck_29_1cb1d0f8:
 
     # c "I don't know yet. At the very least, though, I can say that I've done what I believed was right."
-    c ""
+    c "Je ne sais pas encore. Au moins, je peux dire que j'ai fait ce que je pensais être juste."
 
 # game/remy4.rpy:760
 translate frenchtl _call_skipcheck_29_5a9a0466:
 
     # Ry "You should be careful with rhetoric like that."
-    Ry ""
+    Ry "Tu devrais faire attention avec une rhétorique comme celle là."
 
 # game/remy4.rpy:762
 translate frenchtl _call_skipcheck_29_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Que veux-tu dire ?"
 
 # game/remy4.rpy:764
 translate frenchtl _call_skipcheck_29_70eca3a9:
 
     # Ry "That kind of talk makes it very easy to justify any means when it serves the right cause, whatever that may be. The more important thing is: Have you done anything that you might regret?"
-    Ry ""
+    Ry "Avec ce genre de discours, on peut légitimer n'importe quelle méthode quand elle sert la bonne cause, peu importe ce que c'est. Le plus important est de te demander : As-tu fait quoi que ce soit que tu puisses regretter ?"
 
 # game/remy4.rpy:766
 translate frenchtl _call_skipcheck_29_1a23d3a2:
 
     # Ry "No matter what you think, keep in mind that you may be held accountable for your actions by others or even yourself."
-    Ry ""
+    Ry "Ce que tu penses importe peu, garde à l'esprit que tu peux être tenu responsable par les autres ou par toi même pour tes actes."
 
 # game/remy4.rpy:768
 translate frenchtl _call_skipcheck_29_3f85e2cb:
 
     # Ry "Don't just do something because you think it's for the right reasons. Do it when you are aware of the possible consequences as well."
-    Ry ""
+    Ry "N'agis pas juste parce que tu penses que c'est pour les bonnes raisons. Agis quand tu es également conscient des conséquence éventuelles."
 
 # game/remy4.rpy:770
 translate frenchtl _call_skipcheck_29_0068ec51:
 
     # c "You're right. I have no way of knowing what my actions here will amount to once I return."
-    c ""
+    c "Tu as raison. Je n'ai pas moyen de savoir combien je serai tenu pour responsable de mes actes une fois rentré."
 
 # game/remy4.rpy:772
 translate frenchtl _call_skipcheck_29_3894d46b:
 
     # Ry "Do you really wish to go back to your own world?"
-    Ry ""
+    Ry "Souhaites-tu réellement rentrer chez toi ?"
 
 # game/remy4.rpy:776
 translate frenchtl _call_skipcheck_29_5bdfb2aa:
