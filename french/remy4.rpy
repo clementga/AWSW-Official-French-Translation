@@ -1318,55 +1318,55 @@ translate frenchtl _call_skipcheck_29_3894d46b:
 translate frenchtl _call_skipcheck_29_5bdfb2aa:
 
     # c "If I didn't, it would only serve to strain the relationship we've been trying to build with your people here, which is something that could be elementary for our survival."
-    c ""
+    c "Si je ne le faisais pas, cela ne ferait que détériorer la relation que nous avons essayé de construire avec votre peuple, ce qui est quelque chose qui pourrait être élémentaire pour notre survie."
 
 # game/remy4.rpy:778
 translate frenchtl _call_skipcheck_29_059cb0e7:
 
     # c "Besides, I didn't do it for those who reign over the city back home, or those who might've wanted to betray me."
-    c ""
+    c "De plus, Je n'ai pas fait ça pour ceux qui dirigent notre cité, ou pour ceux qui aurait voulu me trahir."
 
 # game/remy4.rpy:780
 translate frenchtl _call_skipcheck_29_89f5f2c3:
 
     # c "Let's not forget that even under the worst regimes there are just normal people trying to survive, too."
-    c ""
+    c "N'oublions pas que même sous les pires régimes, il y a également des personnes normales qui essayent de survivre."
 
 # game/remy4.rpy:782
 translate frenchtl _call_skipcheck_29_88df99b8:
 
     # c "If I have the power to make a difference for them, would it be right for me to just leave them be in order to seek my own happiness? That's exactly the kind of thing you were talking about, right?"
-    c ""
+    c "Si j'ai les moyens de faire une différence pour eux, serait-il juste de ma part de les laisser tomber dans le but de rechercher mon propre bonheur ? C'est précisément le genre de chose dont tu parlais, n'est-ce pas ?"
 
 # game/remy4.rpy:784
 translate frenchtl _call_skipcheck_29_a6e08e44:
 
     # Ry "In the end, we all have to make our own decisions."
-    Ry ""
+    Ry "Au final, on doit tous prendre nos propres décisions."
 
 # game/remy4.rpy:786
 translate frenchtl _call_skipcheck_29_9e9f292e:
 
     # c "If I leave them behind, then I leave them to people like Reza and those who sent me here."
-    c ""
+    c "Si je les abandonne, alors je les laisse entre les mains de personnes comme Reza et ceux qui m'ont envoyé ici."
 
 # game/remy4.rpy:788
 translate frenchtl _call_skipcheck_29_fccaee53:
 
     # Ry "What would you want to do? Overthrow them?"
-    Ry ""
+    Ry "Qu'est-ce que tu voudrais faire ? Les destituer ?"
 
 # game/remy4.rpy:790
 translate frenchtl _call_skipcheck_29_85983446:
 
     # c "I don't even have the complete picture myself right now. How could I even consider what to do, given what I know?"
-    c ""
+    c "Je n'ai même pas une vue d'ensemble. Comment pourrais-je ne serais-ce que réfléchir à quoi faire, étant donné ce que je sais ?"
 
 # game/remy4.rpy:792
 translate frenchtl _call_skipcheck_29_028c20fb:
 
     # c "What I do know, though, is that if I don't do what they expect of me, there will be consequences."
-    c ""
+    c "Ce que je sais, en revanche, c'est que si je ne fais pas ce qu'ils attendent de moi, il y aura des conséquences."
 
 # game/remy4.rpy:794
 translate frenchtl _call_skipcheck_29_a6e40c46:
