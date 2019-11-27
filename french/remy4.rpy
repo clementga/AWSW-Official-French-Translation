@@ -1372,235 +1372,235 @@ translate frenchtl _call_skipcheck_29_028c20fb:
 translate frenchtl _call_skipcheck_29_a6e40c46:
 
     # Ry "Maybe you'll just have to wait and see."
-    Ry ""
+    Ry "Il te faudra peut être attendre de voir."
 
 # game/remy4.rpy:796
 translate frenchtl _call_skipcheck_29_c732224d:
 
     # c "That's not an option right now. Reza is still out there, armed and dangerous."
-    c ""
+    c "Là tout de suite, ce n'est pas une option. Reza est toujours en liberté, armé et dangereux."
 
 # game/remy4.rpy:798
 translate frenchtl _call_skipcheck_29_7935ef31:
 
     # Ry shy "Don't you think that's a matter better left to our police force? It could be very dangerous for you to interfere."
-    Ry shy ""
+    Ry shy "Ne penses-tu pas que c'est un problème qu'on ferait mieux de laisser à la police ? Ca pourrait être dangereux d'interférer."
 
 # game/remy4.rpy:800
 translate frenchtl _call_skipcheck_29_76b58d40:
 
     # c "It's far too late to reconsider. I've already been tangled up in this too much. Besides, I can't stop now."
-    c ""
+    c "C'est trop tard pour renoncer. Je suis déjà beaucoup trop mêlé à tout ça. En plus, je ne peux pas m'arrêter maintenant."
 
 # game/remy4.rpy:802
 translate frenchtl _call_skipcheck_29_98081ebf:
 
     # c "Don't forget how many he has killed already. He won't hesitate to do so again in order to reach his goal."
-    c ""
+    c "N'oublie pas combien de dragons il a déjà tué. Il n'hésitera pas à recommencer pour atteindre son but."
 
 # game/remy4.rpy:804
 translate frenchtl _call_skipcheck_29_0c3095cb:
 
     # c "In the end, it’s my duty to stop him. If I don’t, how would your people look at humanity?"
-    c ""
+    c "Au final, il est de mon devoir de l'arrêter. Si je ne le fais pas, quel regard aura votre peuple sur l'humanité ?"
 
 # game/remy4.rpy:806
 translate frenchtl _call_skipcheck_29_cdb198cc:
 
     # c "How could I face you again, knowing that my negligence could cause suffering and loss for others here if I just stopped now?"
-    c ""
+    c "Comment pourrais-je te regarder en face, en sachant que ma négligence causerait souffrances et pertes pour les gens d'ici si je m'arrêtais maintenant ?"
 
 # game/remy4.rpy:808
 translate frenchtl _call_skipcheck_29_191ba2d2:
 
     # Ry normal "I wish I could be as brave as you."
-    Ry normal ""
+    Ry normal "J'aurais aimé être aussi courageux que toi."
 
 # game/remy4.rpy:810
 translate frenchtl _call_skipcheck_29_e1571e2d:
 
     # c "Don't think bravery has anything to do with it. He must be stopped, one way or another."
-    c ""
+    c "Ne t'imagine pas que le courage a quelque chose à voir avec ça. Il doit être arrêté, d'une manière ou d'une autre."
 
 # game/remy4.rpy:812
 translate frenchtl _call_skipcheck_29_7746eb29:
 
     # Ry "I know. Just be careful, alright?"
-    Ry ""
+    Ry "Je sais. Fais juste attention, d'accord ?"
 
 # game/remy4.rpy:814
 translate frenchtl _call_skipcheck_29_8e19e9e6:
 
     # c "I'll try."
-    c ""
+    c "Je vais essayer."
 
 # game/remy4.rpy:816
 translate frenchtl _call_skipcheck_29_7f7ffe4b:
 
     # Ry "We've been here for a while now. How about I walk you back to your apartment?"
-    Ry ""
+    Ry "Ca fait un moment que nous sommes là. Et si on retournait à ton appartement ?"
 
 # game/remy4.rpy:818
 translate frenchtl _call_skipcheck_29_f408cad6:
 
     # c "What about the festival?"
-    c ""
+    c "Et pour le festival ?"
 
 # game/remy4.rpy:820
 translate frenchtl _call_skipcheck_29_3183c817:
 
     # Ry "Well, if you still want to go, we could watch the big fireworks show together in a few days."
-    Ry ""
+    Ry "Eh bien, si tu veux toujours y aller, on pourrait aller voir le grand feu d'artifice ensemble dans quelques jours."
 
 # game/remy4.rpy:822
 translate frenchtl _call_skipcheck_29_e94b288a:
 
     # c "That's an idea."
-    c ""
+    c "C'est une idée."
 
 # game/remy4.rpy:824
 translate frenchtl _call_skipcheck_29_608ebe1f:
 
     # Ry smile "Alright, let's do that."
-    Ry smile ""
+    Ry smile "D'accord on fait ça."
 
 # game/remy4.rpy:828
 translate frenchtl _call_skipcheck_29_48b3174b:
 
     # m "I watched Remy as he got up again, stretching himself in a way that reminded me of a cat before we prepared to leave again."
-    m ""
+    m "Je regardait Rémi tandis qu'il se relevait, s'étirant d'une façon qui me rappelait celle d'un chat avant qu'on ne se prépare à repartir."
 
 # game/remy4.rpy:838
 translate frenchtl _call_skipcheck_29_093348e2:
 
     # c "Oh, you're still here. How's business?"
-    c ""
+    c "Oh, vous êtes toujours là. Comment vont les affaires ?"
 
 # game/remy4.rpy:840
 translate frenchtl _call_skipcheck_29_f25d8745:
 
     # Fv "As expected. People always get hungry at these events eventually."
-    Fv ""
+    Fv "Comme prévu. Les gens ont toujours un creux lors de ces évènements."
 
 # game/remy4.rpy:842
 translate frenchtl _call_skipcheck_29_0f28374a:
 
     # Fv "Can I offer you some more meat balls?"
-    Fv ""
+    Fv "Est-ce que je peux vous offrir plus de boulettes de viandes ?"
 
 # game/remy4.rpy:844
 translate frenchtl _call_skipcheck_29_a267b58a:
 
     # Ry "No, thanks. I'm quite full from my earlier helping."
-    Ry ""
+    Ry "Non merci. J'ai été bien rassasié avec ma part de tout-à-l'heure"
 
 # game/remy4.rpy:846
 translate frenchtl _call_skipcheck_29_39892884:
 
     # Fv "How about you, [player_name]?"
-    Fv ""
+    Fv "Et pour toi, [player_name] ?"
 
 # game/remy4.rpy:848
 translate frenchtl _call_skipcheck_29_a7a8c23f:
 
     # c "A tempting offer, but we're just about to call it a day."
-    c ""
+    c "Une offre tentante, mais ça ira pour aujourd'hui."
 
 # game/remy4.rpy:850
 translate frenchtl _call_skipcheck_29_652adda2:
 
     # Fv "I see. Are you going to watch the big fireworks at the end of the festival?"
-    Fv ""
+    Fv "Je vois? Allez vous assister au grand feu d'artifice à la fin du festival ?"
 
 # game/remy4.rpy:852
 translate frenchtl _call_skipcheck_29_ed13463b:
 
     # c "That's the plan."
-    c ""
+    c "C'est le plan."
 
 # game/remy4.rpy:854
 translate frenchtl _call_skipcheck_29_19ee7d6c:
 
     # Fv "Be sure not to miss it. You haven’t seen anything until you see the fireworks!"
-    Fv ""
+    Fv "Soyez sûr de ne pas le rater. Vous n'avez rien vu jusqu'à ce que vous ayez vu le feu d'artifice !"
 
 # game/remy4.rpy:856
 translate frenchtl _call_skipcheck_29_2ac35e6e:
 
     # c "That's what everyone keeps telling me."
-    c ""
+    c "C'est ce que tout le monde n'arrête pas de me dire."
 
 # game/remy4.rpy:858
 translate frenchtl _call_skipcheck_29_147ada33:
 
     # Ry smile "Because it's true."
-    Ry smile ""
+    Ry smile "Parce que c'est le cas."
 
 # game/remy4.rpy:862
 translate frenchtl _call_skipcheck_29_b3ef135b:
 
     # c "Anyway, we should probably get going."
-    c ""
+    c "Enfin bref, on devrait peut être y aller."
 
 # game/remy4.rpy:864
 translate frenchtl _call_skipcheck_29_00d1f219:
 
     # Fv "Have a good day, then."
-    Fv ""
+    Fv "Passez une bonne journée, alors."
 
 # game/remy4.rpy:866
 translate frenchtl _call_skipcheck_29_b092993f:
 
     # c "You too."
-    c ""
+    c "vous aussi."
 
 # game/remy4.rpy:874
 translate frenchtl _call_skipcheck_29_cc3f9358:
 
     # c "And here we are again."
-    c ""
+    c "Et nous revoilà."
 
 # game/remy4.rpy:876
 translate frenchtl _call_skipcheck_29_45035126:
 
     # Ry "Indeed."
-    Ry ""
+    Ry "En effet."
 
 # game/remy4.rpy:878
 translate frenchtl _call_skipcheck_29_51ecee9d:
 
     # c "Did you want to clean out my bathroom cabinet as well or something?"
-    c ""
+    c "Voulais-tu aussi nettoyer mes toilettes ou quoi ?"
 
 # game/remy4.rpy:880
 translate frenchtl _call_skipcheck_29_64cde2e2:
 
     # Ry smile "That's a good one."
-    Ry smile ""
+    Ry smile "Bonne blague."
 
 # game/remy4.rpy:884
 translate frenchtl _call_skipcheck_29_d5a4c550:
 
     # m "He gave a big sigh."
-    m ""
+    m "Il lâcha un grand soupir."
 
 # game/remy4.rpy:890
 translate frenchtl remy4skip2_6acc0c28:
 
     # Ry "You know how I feel. I guess I just wanted to make the most of this day."
-    Ry ""
+    Ry "Tu sais comment je me sens. Je suppose que je voulais profiter à fond de cette journée."
 
 # game/remy4.rpy:894
 translate frenchtl remy4skip2_d210f8ca:
 
     # c "We're still going to see the fireworks together."
-    c ""
+    c "On va toujours voir les feux d'artifices ensemble."
 
 # game/remy4.rpy:896
 translate frenchtl remy4skip2_f123bb35:
 
     # Ry smile "That's true."
-    Ry smile ""
+    Ry smile "C'est vrai."
 
 # game/remy4.rpy:898
 translate frenchtl remy4skip2_371a4c0a:
