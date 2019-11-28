@@ -1606,303 +1606,303 @@ translate frenchtl remy4skip2_f123bb35:
 translate frenchtl remy4skip2_371a4c0a:
 
     # Ry normal "You know, I'm very curious to see what your reaction to that will be. It's quite a sight to behold."
-    Ry normal ""
+    Ry normal "Tu sais, je suis très curieux de voir quel sera ta réaction à ça. C'est un sacré spectacle à contempler."
 
 # game/remy4.rpy:900
 translate frenchtl remy4skip2_0969ec1b:
 
     # c "People just keep saying that."
-    c ""
+    c "Tout le monde n'arrête pas de dire ça."
 
 # game/remy4.rpy:902
 translate frenchtl remy4skip2_d79351d2:
 
     # Ry "Maybe you will, too."
-    Ry ""
+    Ry "Peut être que tu finiras par le dire aussi."
 
 # game/remy4.rpy:904
 translate frenchtl remy4skip2_7bf19640:
 
     # c "We'll see."
-    c ""
+    c "nous verrons."
 
 # game/remy4.rpy:906
 translate frenchtl remy4skip2_8fb23e33:
 
     # Ry smile "Thanks for the wonderful day, though."
-    Ry smile ""
+    Ry smile "Merci pour cette journée, c'était génial."
 
 # game/remy4.rpy:908
 translate frenchtl remy4skip2_e085fae4:
 
     # c "Likewise."
-    c ""
+    c "Pareillement."
 
 # game/remy4.rpy:910
 translate frenchtl remy4skip2_6ec78670:
 
     # Ry normal "Until we meet again."
-    Ry normal ""
+    Ry normal "A notre prochaine rencontre."
 
 # game/remy4.rpy:912
 translate frenchtl remy4skip2_a4c90328:
 
     # c "See you."
-    c ""
+    c "A plus."
 
 # game/remy4.rpy:942
 translate frenchtl remy4skip2_e7d82850:
 
     # c "Speaking of which, I've never actually seen you without your tie."
-    c ""
+    c "Au passage, je ne t'ai jamais vu sans ta cravate."
 
 # game/remy4.rpy:944
 translate frenchtl remy4skip2_aae91d30:
 
     # Ry "Well, actually..."
-    Ry ""
+    Ry "eh bien, en fait..."
 
 # game/remy4.rpy:954
 translate frenchtl remy4skip2_363a934a:
 
     # Ry "How about now?"
-    Ry ""
+    Ry "Et là ?"
 
 # game/remy4.rpy:956
 translate frenchtl remy4skip2_ffc48ec9:
 
     # c "You are pretty cute, you know that?"
-    c ""
+    c "Tu es plutôt mignon, tu le sais ça ?"
 
 # game/remy4.rpy:958
 translate frenchtl remy4skip2_2ef9b681:
 
     # Ry normal b "Is that just a term of endearment, or are you actually serious?"
-    Ry normal b ""
+    Ry normal b "Est-ce juste un terme affecteux, ou tu es vraiment sérieux ?"
 
 # game/remy4.rpy:960
 translate frenchtl remy4skip2_3c71a7be:
 
     # c "I am serious."
-    c ""
+    c "Je suis sérieux."
 
 # game/remy4.rpy:962
 translate frenchtl remy4skip2_5cca760f:
 
     # m "He looked at me, hesitating. Then, he took a step forward, his head slowly moving closer to my own."
-    m ""
+    m "Il me regarda, hésitant. Puis, il avança d'un pas, sa tête se rapprochant lentement de la mienne."
 
 # game/remy4.rpy:982
 translate frenchtl remy4skip2_a681ed09:
 
     # m "When I made the motion to dodge his advance, he stopped in his tracks immediately."
-    m ""
+    m "Quand j'eus bougé pour esquiver son avance, il s'arrêta dans son mouvement imédiatement."
 
 # game/remy4.rpy:986
 translate frenchtl remy4skip2_0ed2e312:
 
     # Ry "I'm sorry, I just thought..."
-    Ry ""
+    Ry "Je suis désolé, Je pensais juste que..."
 
 # game/remy4.rpy:988
 translate frenchtl remy4skip2_0746f984:
 
     # c "Don't worry about it. I'm just not sure if I can do this."
-    c ""
+    c "Ne t'en fais pas. Je ne sais juste pas si je suis capable de faire ça."
 
 # game/remy4.rpy:990
 translate frenchtl remy4skip2_8305e336:
 
     # Ry normal b "Well, it's getting late, so I should probably go now."
-    Ry normal b ""
+    Ry normal b "Bon, il se fait tard, donc je devrais peut être y aller."
 
 # game/remy4.rpy:992
 translate frenchtl remy4skip2_d42de145:
 
     # Ry "Do you still want to see the fireworks?"
-    Ry ""
+    Ry "Tu veux toujours aller voir le feu d'artifice ?"
 
 # game/remy4.rpy:994
 translate frenchtl remy4skip2_7f0f33d6:
 
     # c "Oh, for sure."
-    c ""
+    c "Oh, bien sûr."
 
 # game/remy4.rpy:996
 translate frenchtl remy4skip2_a5e30217:
 
     # Ry "I'll see you, then."
-    Ry ""
+    Ry "A la revoyure, alors"
 
 # game/remy4.rpy:998
 translate frenchtl remy4skip2_ca40710d:
 
     # c "Until we meet again."
-    c ""
+    c "A notre prochaine rencontre."
 
 # game/remy4.rpy:1000
 translate frenchtl remy4skip2_f210ba5f:
 
     # Ry "Thank you for everything."
-    Ry ""
+    Ry "Merci pour tout."
 
 # game/remy4.rpy:1039
 translate frenchtl remy4skip2_cfd4b66e:
 
     # m "We met, and my arms enveloped his neck as our lips touched. For a few seconds, we were closer than ever before. During the kiss, he used a lot more tongue than I expected."
-    m ""
+    m "Nous nous sommes embrassés, et mes bras enveloppèrent son coup tandis que nos lèvres se touchaient. Pendant quelques secondes nous étions plus proches que jamais. Durant le baiser, il y mit plus de langue que ce à quoi je m"attendais."
 
 # game/remy4.rpy:1043
 translate frenchtl remy4skip2_bea08d55:
 
     # m "Just after we parted, he finished by giving me a small lick on the cheek."
-    m ""
+    m "Quand nous terminèrent, il finît en me donnant une léchouille sur la joue."
 
 # game/remy4.rpy:1047
 translate frenchtl remy4skip2_c08eaffd:
 
     # Ry "How was that?"
-    Ry ""
+    Ry "Comment c'était ?"
 
 # game/remy4.rpy:1049
 translate frenchtl remy4skip2_f2ac2720:
 
     # c "Unique, that's for sure."
-    c ""
+    c "Unique, ça c'est sûre."
 
 # game/remy4.rpy:1051
 translate frenchtl remy4skip2_dd944d3a:
 
     # Ry normal b "Maybe I shouldn't wear the tie anymore if this is what happens when I take it off."
-    Ry normal b ""
+    Ry normal b "Peut être que je ne devrais plus porter la cravatte si c'est ce qui se passe quand je l'enlève."
 
 # game/remy4.rpy:1053
 translate frenchtl remy4skip2_abf2a97a:
 
     # c "Actually, I think you should keep it."
-    c ""
+    c "En fait, je pense que tu devrais la garder."
 
 # game/remy4.rpy:1055
 translate frenchtl remy4skip2_a0284234:
 
     # Ry "Really?"
-    Ry ""
+    Ry "Vraiment ?"
 
 # game/remy4.rpy:1057
 translate frenchtl remy4skip2_107876f3:
 
     # c "Yeah. It looks good on you."
-    c ""
+    c "Ouais. elle te va bien."
 
 # game/remy4.rpy:1059
 translate frenchtl remy4skip2_c47053e6:
 
     # Ry smile b "Well, if you say so."
-    Ry smile b ""
+    Ry smile b "Bon, si tu le dis."
 
 # game/remy4.rpy:1061
 translate frenchtl remy4skip2_592f9944:
 
     # Ry normal b "Anyway, it's getting really late, so I should probably get going now."
-    Ry normal b ""
+    Ry normal b "Enfin bref, il se fait tard, donc je ferais mieux d'y aller."
 
 # game/remy4.rpy:1063
 translate frenchtl remy4skip2_7b3e164d:
 
     # Ry "Don't forget about the fireworks."
-    Ry ""
+    Ry "N'oublie pas pour le feu d'artifice."
 
 # game/remy4.rpy:1065
 translate frenchtl remy4skip2_7f0f33d6_1:
 
     # c "Oh, for sure."
-    c ""
+    c "Oh, bien sûr."
 
 # game/remy4.rpy:1067
 translate frenchtl remy4skip2_a5e30217_1:
 
     # Ry "I'll see you, then."
-    Ry ""
+    Ry "A la revoyure, alors."
 
 # game/remy4.rpy:1069
 translate frenchtl remy4skip2_ca40710d_1:
 
     # c "Until we meet again."
-    c ""
+    c "A notre prochaine rencontre."
 
 # game/remy4.rpy:1071
 translate frenchtl remy4skip2_f210ba5f_1:
 
     # Ry "Thank you for everything."
-    Ry ""
+    Ry "Merci pour tout."
 
 translate frenchtl strings:
 
     # remy4.rpy:7
     old "Chapter 4 - Remy 4"
-    new ""
+    new "Chapitre 4 - Rémi 4"
 
     # remy4.rpy:11
     old "Chapter 3 - Remy 4"
-    new ""
+    new "Chapitre 3 - Rémi 4"
 
     # remy4.rpy:15
     old "Chapter 2 - Remy 4"
-    new ""
+    new "Chapitre 2 - Rémi 4"
 
     # remy4.rpy:19
     old "Chapter 1 - Remy 4"
-    new ""
+    new "Chapitre 1 - Rémi 4"
 
     # remy4.rpy:227
     old "They're pretty interesting."
-    new ""
+    new "Ils sont plutôt intéressant."
 
     # remy4.rpy:227
     old "I just wasn't in the mood for anything more complex."
-    new ""
+    new "Je n'étais pas d'humeur pour quelque chose de plus complexe."
 
     # remy4.rpy:333
     old "Let's try some together, then."
-    new ""
+    new "Essayons-le ensemble, alors."
 
     # remy4.rpy:333
     old "I'm not a fan either."
-    new ""
+    new "Je ne suis pas fan non plus."
 
     # remy4.rpy:370
     old "An interesting afternoon."
-    new ""
+    new "Une intéressante après midi."
 
     # remy4.rpy:370
     old "A wonderful friendship."
-    new ""
+    new "Une formidable amitié."
 
     # remy4.rpy:407
     old "It's alright."
-    new ""
+    new "Il est correct."
 
     # remy4.rpy:407
     old "It's bad."
-    new ""
+    new "Il est mauvais."
 
     # remy4.rpy:496
     old "I'll also take the meat balls."
-    new ""
+    new "Je prendrais aussi les boulettes de viandes."
 
     # remy4.rpy:496
     old "How about some veggie skewers?"
-    new ""
+    new "Pourquoi pas quelques brochettes végétariennes ?"
 
     # remy4.rpy:496
     old "Just some grilled cheese for me."
-    new ""
+    new "Juste du fromage grillé pour moi."
 
     # remy4.rpy:972
     old "Look away."
-    new ""
+    new "Détourner le regard."
 
     # remy4.rpy:972
     old "Kiss him."
-    new ""
+    new "L'embrasser."
 
