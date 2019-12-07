@@ -4,49 +4,49 @@
 translate frenchtl remy5_cb2b8cb1:
 
     # c "(That must be him.)"
-    c ""
+    c "(Ca doit être lui.)"
 
 # game/remy5.rpy:20
 translate frenchtl remy5_743a614e:
 
     # Ry "Are you ready to see the fireworks?"
-    Ry ""
+    Ry "Es-tu prêt pour aller voir le feu d'artifice ?"
 
 # game/remy5.rpy:22
 translate frenchtl remy5_356e6ea0:
 
     # c "My body is ready."
-    c ""
+    c "Je suis fin prêt."
 
 # game/remy5.rpy:24
 translate frenchtl remy5_c23926a8:
 
     # Ry smile "Alright, let's go."
-    Ry smile ""
+    Ry smile "Ok, allons-y."
 
 # game/remy5.rpy:32
 translate frenchtl remy5_8aa8fa3e:
 
     # m "After a few minutes of walking, we arrived at a rather empty looking area near the edge of town."
-    m ""
+    m "Après quelques minutes de marche, nous arrivâmes dans un endroit assez désert en bordure de la ville."
 
 # game/remy5.rpy:34
 translate frenchtl remy5_88f8a48d:
 
     # c "Looks deserted to me. I thought everyone was watching the fireworks."
-    c ""
+    c "Ca m'a l'air désert. Je pensais que tout le monde était en train de regarder le feu d'artifice."
 
 # game/remy5.rpy:38
 translate frenchtl remy5_444d83a8:
 
     # Ry "They are, but they're doing it somewhere else. I don't really like the crowds, and I think you would appreciate me leading you here if you knew what they were like."
-    Ry ""
+    Ry "C'est le cas, mais ils l'observent d'ailleurs. Je n'aime pas vraiment la foule, et je pense que tu serais content que je t'amènes ici si tu savais comment ils sont."
 
 # game/remy5.rpy:40
 translate frenchtl remy5_15ab53eb:
 
     # c "Better be safe than sorry, at any rate."
-    c ""
+    c "Mieux vaut prévenir que guérir, à n'importe quel prix."
 
 # game/remy5.rpy:42
 translate frenchtl remy5_bd15ba18:
