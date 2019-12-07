@@ -52,133 +52,133 @@ translate frenchtl remy5_15ab53eb:
 translate frenchtl remy5_bd15ba18:
 
     # Ry smile "That's what I'm thinking."
-    Ry smile ""
+    Ry smile "C'est ce à quoi je pensais."
 
 # game/remy5.rpy:44
 translate frenchtl remy5_5ecef224:
 
     # c "This reminds me a bit of the night I arrived here. Everything was dark and empty, and it was just us walking through the landscape."
-    c ""
+    c "Ca me rappelle un peu la nuit où je suis arrivé ici. Tout était sombre et vide, et il y avait juste nous marchant à travers le paysage."
 
 # game/remy5.rpy:46
 translate frenchtl remy5_f09c15d0:
 
     # Ry normal "Yeah, you're right."
-    Ry normal ""
+    Ry normal "Ouais, tu as raison."
 
 # game/remy5.rpy:48
 translate frenchtl remy5_6a31016d:
 
     # Ry "Oh, I think it's starting. Now, watch!"
-    Ry ""
+    Ry "Oh, Je crois que ça commence. Regarde !"
 
 # game/remy5.rpy:52
 translate frenchtl remy5_f705c1cd:
 
     # m "We were quiet as we waited and the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m ""
+    m "Nous étions silencieux tandis que nous attendions et que l'éternité de la nuit nous enveloppait. J'entendis bientôt la première fusée traçant sa route dans la nuit après quoi elle explosa dans un motif de couleurs."
 
 # game/remy5.rpy:54
 translate frenchtl remy5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m ""
+    m "D'autres fusées suivirent, leurs explosions résonnant à travers les plaines."
 
 # game/remy5.rpy:69
 translate frenchtl remy5_3de6ab5e:
 
     # m "Suddenly, a terrible realization hit me."
-    m ""
+    m "Soudain, je réalisai quelque chose de terrible."
 
 # game/remy5.rpy:73
 translate frenchtl remy5_8a6266e6:
 
     # m "Considering how public of an event this was and how I was told multiple times that everyone would be watching the fireworks, now would be the best time for Reza to do anything he planned to do."
-    m ""
+    m "En considérant que cet évènement était public et le nombre de fois où on m'a dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il a planifié."
 
 # game/remy5.rpy:75
 translate frenchtl remy5_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m ""
+    m "Non seulement le village était basiquement désert, mais le bruit des feux d'artifices couvrait également les tirs d'armes à feu, lui donnant plus de tranquillité que jamais."
 
 # game/remy5.rpy:77
 translate frenchtl remy5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m ""
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'ai rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 # game/remy5.rpy:79
 translate frenchtl remy5_ed67b9fa:
 
     # c "Remy, I think we need to go. Now."
-    c ""
+    c "Rémi, je crois qu'on dois y aller. Maintenant."
 
 # game/remy5.rpy:81
 translate frenchtl remy5_462b44ad:
 
     # Ry "What is wrong, [player_name]?"
-    Ry ""
+    Ry "Qu'est-ce qui ne va pas, [player_name] ?"
 
 # game/remy5.rpy:83
 translate frenchtl remy5_78b2c8cd:
 
     # c "I know where Reza is. We need to stop him."
-    c ""
+    c "Je sais où ce trouve Reza. On doit l'arrêter."
 
 # game/remy5.rpy:85
 translate frenchtl remy5_327fe706:
 
     # Ry sad "Shouldn't we call the police or something?"
-    Ry sad ""
+    Ry sad "Ne devrions-nous pas appeler la police ou quelque chose comme ça ?"
 
 # game/remy5.rpy:87
 translate frenchtl remy5_7770ac53:
 
     # c "We don't have the time!"
-    c ""
+    c "On n'a pas le temps !"
 
 # game/remy5.rpy:89
 translate frenchtl remy5_fb7d3080:
 
     # Ry shy "I'm not sure if I could fight him."
-    Ry shy ""
+    Ry shy "Je ne suis pas sûr de pouvoir le combattre."
 
 # game/remy5.rpy:91
 translate frenchtl remy5_d33580c6:
 
     # c "You're right. If you're there, he probably won't hesitate to shoot."
-    c ""
+    c "Tu as raison. Si tu es là, il n'hésitera pas à tirer."
 
 # game/remy5.rpy:93
 translate frenchtl remy5_eedcf341:
 
     # Ry sad "Maybe you can hold him off, and I'll try to get some help."
-    Ry sad ""
+    Ry sad "Peut être que tu peux le retenir, quant à moi je vais allerchercher de l'aide."
 
 # game/remy5.rpy:95
 translate frenchtl remy5_91cde1b5:
 
     # c "Alright, let's do that. Go!"
-    c ""
+    c "D'accord, faisons ça. Allez !"
 
 # game/remy5.rpy:99
 translate frenchtl remy5_184fb767:
 
     # m "I started running as Remy's voice called out to me."
-    m ""
+    m "Je commençai à courrir quand Rémi m'appella."
 
 # game/remy5.rpy:101
 translate frenchtl remy5_051ed2da:
 
     # Ry "Where is he? Where should I go?"
-    Ry ""
+    Ry "Où est-il ? Où devrais-je aller ?"
 
 # game/remy5.rpy:103
 translate frenchtl remy5_0c5f1631:
 
     # c "The portal! He'll be there."
-    c ""
+    c "Le portail ! Il sera là bas."
 
 # game/remy5.rpy:119
 translate frenchtl _call_endingjustafewminuteslater_2_5233b371:
