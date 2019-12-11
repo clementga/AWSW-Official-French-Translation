@@ -184,67 +184,67 @@ translate frenchtl remy5_0c5f1631:
 translate frenchtl _call_endingjustafewminuteslater_2_5233b371:
 
     # Mv "Maybe I can."
-    Mv ""
+    Mv "Peut être que moi je peux."
 
 # game/remy5.rpy:123
 translate frenchtl _call_endingjustafewminuteslater_2_07e6a997:
 
     # m "Suddenly, Maverick and Remy appeared next to me."
-    m ""
+    m "Soudain, Maverick et Rémi apparurent à côté de moi."
 
 # game/remy5.rpy:131
 translate frenchtl _call_endingjustafewminuteslater_2_40a50c3c:
 
     # Rz angry "You planned this, didn't you, [player_name]?"
-    Rz angry ""
+    Rz angry "C'est toi qui a prévu ça, n'est-ce pas, [player_name] ?"
 
 # game/remy5.rpy:135
 translate frenchtl _call_endingjustafewminuteslater_2_0599b8cd:
 
     # Rz "Traitor!" with hpunch
-    Rz "" with hpunch
+    Rz "Sale traître !" with hpunch
 
 # game/remy5.rpy:137
 translate frenchtl _call_endingjustafewminuteslater_2_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz ""
+    Rz "Et de penser que je me laisserai distraire par un tour aussi minable ! Juste parce que je pensais qu'il restait une once d'humanité en toi..."
 
 # game/remy5.rpy:145
 translate frenchtl _call_endingjustafewminuteslater_2_bdbf243c:
 
     # m "He pulled out his gun, not sure which one of us he should be aiming at."
-    m ""
+    m "Il dégaina son pistolet, incertain sur lequel d'entre nous il devrait viser."
 
 # game/remy5.rpy:147
 translate frenchtl _call_endingjustafewminuteslater_2_561cf27e:
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz ""
+    Rz "Laissez moi juste partir, et j'oublierai tout ce qui vient de se passer."
 
 # game/remy5.rpy:149
 translate frenchtl _call_endingjustafewminuteslater_2_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c ""
+    c "Tu as six balles pour trois personnes. Penses-tu vraiment que tu vas y arriver, Reza ? Penses-tu que ça vaut le coup de risquer ta vie pour ça ?"
 
 # game/remy5.rpy:151
 translate frenchtl _call_endingjustafewminuteslater_2_6281e04a:
 
     # Rz angry "I've been risking my life for this every day for the last two weeks. What did you do during that time? Sip champagne in your nice apartment?"
-    Rz angry ""
+    Rz angry "J'ai risqué ma vie chaque jour durant les deux dernières semaines pour ça. Qu'est-ce que tu as fait pendant ce temps ? Siroter du champagne dans ton superbe appartement ?"
 
 # game/remy5.rpy:153
 translate frenchtl _call_endingjustafewminuteslater_2_892229f8:
 
     # Rz "Besides, this generator and the whole building came from our time."
-    Rz ""
+    Rz "De plus, ce générateur et tout le bâtiment viennent de notre époque."
 
 # game/remy5.rpy:156
 translate frenchtl _call_endingjustafewminuteslater_2_40d6a19a:
 
     # Rz "They belong to humanity!" with Shake((0, 0, 0, 0), 2, dist=10)
-    Rz "" with Shake((0, 0, 0, 0), 2, dist=10)
+    Rz "Ils appartiennent à l'humanité" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/remy5.rpy:165
 translate frenchtl _call_endingjustafewminuteslater_2_d0af508a:
