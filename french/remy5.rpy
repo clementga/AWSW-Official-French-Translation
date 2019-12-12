@@ -250,91 +250,91 @@ translate frenchtl _call_endingjustafewminuteslater_2_40d6a19a:
 translate frenchtl _call_endingjustafewminuteslater_2_d0af508a:
 
     # m "Suddenly, the Administrator came out of the shadows in the hallway behind Reza."
-    m ""
+    m "Soudain, l'administrateur sortit de l'ombre dans le couloir derrière Reza."
 
 # game/remy5.rpy:170
 translate frenchtl _call_endingjustafewminuteslater_2_0f4307a5:
 
     # As "No, they belong to me."
-    As ""
+    As "Non, C'est à moi qu'ils m'appartiennent."
 
 # game/remy5.rpy:178
 translate frenchtl _call_endingjustafewminuteslater_2_5de0f92a:
 
     # m "Confused, Reza spun around, aiming his gun at the newcomer who was slowly walking towards him."
-    m ""
+    m "Confus, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
 
 # game/remy5.rpy:180
 translate frenchtl _call_endingjustafewminuteslater_2_6380d90f:
 
     # Rz "Who the fuck are you? Freeze! I said freeze!"
-    Rz ""
+    Rz "Bordel t'es qui ? Bouge pas ! J'ai dit bouge pas !"
 
 # game/remy5.rpy:184
 translate frenchtl _call_endingjustafewminuteslater_2_c13acdb0:
 
     # As "Want to waste your bullets on me? Feel free. You can't stop all of us."
-    As ""
+    As "Envie de gâcher tes balles sur moi ? Fais toi plaisir. Tu ne peux pas tous nous arrêter."
 
 # game/remy5.rpy:188
 translate frenchtl _call_endingjustafewminuteslater_2_45e01706:
 
     # Rz gunpoint flip "If you say so."
-    Rz gunpoint flip ""
+    Rz gunpoint flip "Si tu insistes."
 
 # game/remy5.rpy:202
 translate frenchtl _call_endingjustafewminuteslater_2_48e40cdb:
 
     # m "He pulled the trigger, and the Administrator fell to the ground with a dull thud that knocked her mask off."
-    m ""
+    m "Il appuya sur la détente, et l'administrateur s'effondra au sol dans un choc sourd qui éjecta son masque."
 
 # game/remy5.rpy:216
 translate frenchtl _call_endingjustafewminuteslater_2_540abdc9:
 
     # m "Mortified by the display before me, I found myself unable to move as the events of the following seconds unfolded before my eyes."
-    m ""
+    m "Mortifié par la scène devant moi, je me suis retrouvé incapable de bouger tandis que les évènements des secondes qui suivirent défilèrent devant mes yeux."
 
 # game/remy5.rpy:226
 translate frenchtl _call_endingjustafewminuteslater_2_ebe742c3:
 
     # m "Reza was quick with his gun and shot Remy once before Maverick could charge him."
-    m ""
+    m "Reza fut rapide avec son arme et tira une fois sur Rémi avant que Maverick ne puisse foncer sur lui."
 
 # game/remy5.rpy:253
 translate frenchtl _call_endingjustafewminuteslater_2_5599f9c1:
 
     # m "Maverick pounced, snarling, and knocked Reza to the ground before embedding his teeth into the body before him."
-    m ""
+    m "Maverick bondit, grognant, et plaqua Reza au sol avant d'enfoncer ses crocs dans le corps de ce dernier."
 
 # game/remy5.rpy:259
 translate frenchtl _call_endingjustafewminuteslater_2_3e5ddf66:
 
     # m "Despite his thrashing and screaming, Reza managed to find his target and pulled the trigger twice."
-    m ""
+    m "Malgré sa dérouillée et ses cris, Reza parvint à trouver sa cible et appuya deux fois sur la détente."
 
 # game/remy5.rpy:261
 translate frenchtl _call_endingjustafewminuteslater_2_57715509:
 
     # m "Immediately, the jaws dislodged. Reza pulled himself a few feet away while Maverick's body convulsed uncontrollably."
-    m ""
+    m "D'un coup, ses machoirs se délogèrent. Reza se dégagea et recula de quelques pas tandis que le corps de Maverick convulsait de façon incontrollée."
 
 # game/remy5.rpy:265
 translate frenchtl _call_endingjustafewminuteslater_2_4ad2d72c:
 
     # m "Holding his bleeding wound and breathing heavily, Reza looked at me."
-    m ""
+    m "Tenant ses blessures en sang, et respirant difficilement, Reza me regarda."
 
 # game/remy5.rpy:267
 translate frenchtl _call_endingjustafewminuteslater_2_a77485bf:
 
     # Rz "You're not going to help me, are you? Then it is futile."
-    Rz ""
+    Rz "Tu te vas pas m'aider, n'est-ce pas ? Alors, ça ne sert à rien."
 
 # game/remy5.rpy:272
 translate frenchtl _call_endingjustafewminuteslater_2_79e038f4:
 
     # m "He raised his gun, aiming at me while I regained my composure and tried to run."
-    m ""
+    m "Il leva son pistolet, me braquant alors que je regagnai mon sang-froid et tentai de fuir."
 
 # game/remy5.rpy:296
 translate frenchtl _call_endingjustafewminuteslater_2_04cea20f:
