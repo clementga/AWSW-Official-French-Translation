@@ -340,85 +340,85 @@ translate frenchtl _call_endingjustafewminuteslater_2_79e038f4:
 translate frenchtl _call_endingjustafewminuteslater_2_04cea20f:
 
     # m "A single gunshot resounded through the hallway, and as soon as I heard it, a sharp pain shot through my back. I fell to the ground immediately." with hpunch
-    m "" with hpunch
+    m "Un seul coup de feu résonna dans le couloir, et aussitôt que je l'entendis, une douleur intense me lança dans le dos. Je tombai au sol immédiatement." with hpunch
 
 # game/remy5.rpy:298
 translate frenchtl _call_endingjustafewminuteslater_2_c41fa8e2:
 
     # m "He continued pulling the trigger, but no more bullets came."
-    m ""
+    m "Il continua d'appuyer sur la détente, mais aucune balle ne fut tirée."
 
 # game/remy5.rpy:302
 translate frenchtl _call_endingjustafewminuteslater_2_61918c17:
 
     # m "After a few seconds of silence, I slowly turned around."
-    m ""
+    m "Après quelques secondes de silence, je me retournai lentement."
 
 # game/remy5.rpy:311
 translate frenchtl _call_endingjustafewminuteslater_2_1f200234:
 
     # m "Reza was leaning against the wall, his head slumped forward lifelessly."
-    m ""
+    m "Reza était affalé contre le mur, sa tête en avant, sans vie."
 
 # game/remy5.rpy:322
 translate frenchtl _call_endingjustafewminuteslater_2_bd6f8931:
 
     # m "Maverick and the Administrator - both lying in a pool of their own blood - were not moving."
-    m ""
+    m "Maverick et l'Administreur - tout les deux gisant dans une mare de ler=ur propre sang - ne bougeait plus."
 
 # game/remy5.rpy:333
 translate frenchtl _call_endingjustafewminuteslater_2_08c15b2e:
 
     # m "I crawled over to Remy and was glad to hear him breathing."
-    m ""
+    m "Je rampai vers Rémi et fut content de l'entendre respirer."
 
 # game/remy5.rpy:335
 translate frenchtl _call_endingjustafewminuteslater_2_4ee7c247:
 
     # m "He had been hit in the side, and I saw blood trickling from the wound onto the ground below him."
-    m ""
+    m "Il était touché dans le flanc, et je voyais du sang couler de la blessure sur le sol."
 
 # game/remy5.rpy:339
 translate frenchtl _call_endingjustafewminuteslater_2_d03824a3:
 
     # m "He raised his head, looking at me with an expression of pain."
-    m ""
+    m "Il leva sa tête, me regardant avec un expression emplie de douleur."
 
 # game/remy5.rpy:341
 translate frenchtl _call_endingjustafewminuteslater_2_e266d3ea:
 
     # c "You're wounded."
-    c ""
+    c "Tu es blessé."
 
 # game/remy5.rpy:343
 translate frenchtl _call_endingjustafewminuteslater_2_b969522f:
 
     # Ry "So are you."
-    Ry ""
+    Ry "Toi aussi"
 
 # game/remy5.rpy:345
 translate frenchtl _call_endingjustafewminuteslater_2_c1e88029:
 
     # c "We need to stop the bleeding."
-    c ""
+    c "On doit arrêter l'hémoragie."
 
 # game/remy5.rpy:347
 translate frenchtl _call_endingjustafewminuteslater_2_0536cfc8:
 
     # m "I put some pressure on his wound, momentarily halting the blood that was trickling down his body."
-    m ""
+    m "J'appliquai une pression sur sa blessure, colmatant momentanément le sang qui lui coulait dessus. "
 
 # game/remy5.rpy:349
 translate frenchtl _call_endingjustafewminuteslater_2_f81adf84:
 
     # c "Can you do this?"
-    c ""
+    c "Tu peux t'en charger ?"
 
 # game/remy5.rpy:351
 translate frenchtl _call_endingjustafewminuteslater_2_684bbb9e:
 
     # Ry "Let me try."
-    Ry ""
+    Ry "Laisse-moi essayer."
 
 # game/remy5.rpy:353
 translate frenchtl _call_endingjustafewminuteslater_2_606d77a7:
