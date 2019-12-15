@@ -424,109 +424,109 @@ translate frenchtl _call_endingjustafewminuteslater_2_684bbb9e:
 translate frenchtl _call_endingjustafewminuteslater_2_606d77a7:
 
     # m "He felt around his side, trying to get the right grip before he applied pressure on his own. I let go, and after a bit of adjustment, Remy could stop the bleeding on his own for now."
-    m "Il se laissa tomber sur le côté, essayant de ne pas glisser avant d'appliquer un"
+    m "Il se laissa tomber sur le côté, essayant de ne pas glisser avant d'appliquer une pression de lui même. Je relâchai, et après quelque ajustements, Rémi put arrêter le saignement de lui même pour le moment."
 
 # game/remy5.rpy:355
 translate frenchtl _call_endingjustafewminuteslater_2_847c0930:
 
     # m "I took off my shirt and briefly considered whether I would be able to use it to dress Remy's wound, but I soon realized it was not long enough to wrap around him properly."
-    m ""
+    m "J'enlevai ma chemise et considéra brièvement à l'utiliser pour appliquer un bandage sur la blessure de Rémi, mais je réalisai très vite que ce n'était pas assez long pour bien faire le tour de son corps."
 
 # game/remy5.rpy:357
 translate frenchtl _call_endingjustafewminuteslater_2_4c48abc5:
 
     # m "Besides, if he couldn't walk for now, it would not make a difference anyway, and he would have to stay here while he held his wound shut."
-    m ""
+    m "De toute façon, s'il n'était pas capable de marcher, ça ne ferait aucune différence, et il serait obligé de rester ici à maintenir sa blessure fermée."
 
 # game/remy5.rpy:359
 translate frenchtl _call_endingjustafewminuteslater_2_645f26dd:
 
     # m "Instead, I used the shirt to curb my own bleeding, folding it and wrapping it around my abdomen tightly."
-    m ""
+    m "Au lieu de ça, j'utilisai ma chemise pour réduire ma propre hémoragie, l'enroulant fermement autour de mon abdomen."
 
 # game/remy5.rpy:361
 translate frenchtl _call_endingjustafewminuteslater_2_e53174bf:
 
     # Ry "Look, Reza is gone... and that other person."
-    Ry ""
+    Ry "Regaarde, Reza a disparu... lui et cette autre personne."
 
 # game/remy5.rpy:363
 translate frenchtl _call_endingjustafewminuteslater_2_a56d7ef0:
 
     # m "Remy was right. Both Reza and the Administrator were gone."
-    m ""
+    m "Rémi avait raison. Reza et l'Administrateur avaient tout les deux disparu."
 
 # game/remy5.rpy:365
 translate frenchtl _call_endingjustafewminuteslater_2_c290c862:
 
     # Ry "You have to go. Go and stop Reza."
-    Ry ""
+    Ry "Tu dois y aller. Va et arrête Reza."
 
 # game/remy5.rpy:367
 translate frenchtl _call_endingjustafewminuteslater_2_2b35f31d:
 
     # c "I need to find you some help first. I can't just leave you like this."
-    c ""
+    c "Je dois d'abord trouver de l'aide. Je ne peux pas juste te laisser comme ça."
 
 # game/remy5.rpy:369
 translate frenchtl _call_endingjustafewminuteslater_2_0edb3f5d:
 
     # Ry "..."
-    Ry ""
+    Ry "..."
 
 # game/remy5.rpy:373
 translate frenchtl _call_endingjustafewminuteslater_2_e1fe309d:
 
     # Ry "Don't you dare tell me you would be doing me any favors by saving me. If it's just going to be one of us, I don't want it to be me." with Shake((0, 0, 0, 0), 3, dist=10)
-    Ry "" with Shake((0, 0, 0, 0), 3, dist=10)
+    Ry "N'essaye pas de me dire que tu me ferais une faveur enn me sauvant. Si on doit choisir l'un d'entre nous, je ne veux pas que ce soit moi." with Shake((0, 0, 0, 0), 3, dist=10)
 
 # game/remy5.rpy:375
 translate frenchtl _call_endingjustafewminuteslater_2_0349788f:
 
     # Ry shy "You don't know how it is to live every day as I have, always wondering if the pain will ever stop or if things will ever change again."
-    Ry shy ""
+    Ry shy "Tu ne sais pas ce que ça fait de vivre chaque jour comme je l'ai vécu, à toujours me demander si la douleur s'arrêtera un jour ou si les choses ne changeront jamais."
 
 # game/remy5.rpy:377
 translate frenchtl _call_endingjustafewminuteslater_2_37baa483:
 
     # Ry "And when they finally do, you come along and tell me this? Don't do that to me."
-    Ry ""
+    Ry "Et quand elles viennent à changer, tu te ramène et me dis ça ? Ne me fais pas ce coup là."
 
 # game/remy5.rpy:379
 translate frenchtl _call_endingjustafewminuteslater_2_cd516472:
 
     # Ry "I'm not going through this again."
-    Ry ""
+    Ry "Hors de question que je retraverse ça."
 
 # game/remy5.rpy:381
 translate frenchtl _call_endingjustafewminuteslater_2_fffdfd47:
 
     # c "What do you want me to do?"
-    c ""
+    c "Qu'est-ce que tu attends de moi ?"
 
 # game/remy5.rpy:383
 translate frenchtl _call_endingjustafewminuteslater_2_7bb40d24:
 
     # Ry "This is bigger than us... bigger than me."
-    Ry ""
+    Ry "C'est plus important que nous... plus important que moi."
 
 # game/remy5.rpy:385
 translate frenchtl _call_endingjustafewminuteslater_2_6a45eda4:
 
     # Ry "Just... go."
-    Ry ""
+    Ry "Juste... fonce."
 
 # game/remy5.rpy:387
 translate frenchtl _call_endingjustafewminuteslater_2_897d19e0:
 
     # Ry "Go and stop Reza."
-    Ry ""
+    Ry "Fonce et arrête Reza."
 
 # game/remy5.rpy:389
 translate frenchtl _call_endingjustafewminuteslater_2_86148265:
 
     # c "Alright."
-    c ""
+    c "D'accord."
 
 # game/remy5.rpy:409
 translate frenchtl _call_endingjustafewminuteslater_2_542cfdde:
