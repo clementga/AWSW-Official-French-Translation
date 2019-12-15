@@ -424,7 +424,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_684bbb9e:
 translate frenchtl _call_endingjustafewminuteslater_2_606d77a7:
 
     # m "He felt around his side, trying to get the right grip before he applied pressure on his own. I let go, and after a bit of adjustment, Remy could stop the bleeding on his own for now."
-    m ""
+    m "Il se laissa tomber sur le côté, essayant de ne pas glisser avant d'appliquer un"
 
 # game/remy5.rpy:355
 translate frenchtl _call_endingjustafewminuteslater_2_847c0930:
