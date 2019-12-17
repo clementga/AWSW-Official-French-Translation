@@ -532,7 +532,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_86148265:
 translate frenchtl _call_endingjustafewminuteslater_2_542cfdde:
 
     # m "I hobbled to my feet and made my way back outside, just in time to see Reza vanishing through the portal."
-    m ""
+    m "Je me remis difficilement debout et fonça jusqu'à la sortie, juste à temps pour voir Reza se volatiliser à travers le portail."
 
 # game/remy5.rpy:415
 translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88:
@@ -544,43 +544,43 @@ translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88:
 translate frenchtl _call_endingjustafewminuteslater_2_fba8d596:
 
     # n "I made my way back to Remy to look for something to treat his wound. Given everything that had just transpired, I had no idea what was going to happen."
-    n ""
+    n "Je revins vers Rémi pour chercher quelque chose qui pusse traiter nos blessures. Compte tenu de tout ce qui s'était passé, Je n'avais aucune idée de ce qui allait arriver."
 
 # game/remy5.rpy:421
 translate frenchtl _call_endingjustafewminuteslater_2_c7a74a32:
 
     # n "I also wondered where the Administrator had gone."
-    n ""
+    n "Je me demandais également où l'Administrateur était passé."
 
 # game/remy5.rpy:423
 translate frenchtl _call_endingjustafewminuteslater_2_a5cec8b2:
 
     # n "I checked a few of the rooms and even found a first aid kit that I used to treat both of us."
-    n ""
+    n "J'ai fouillé quelques unes des salles et trouvai même un kit de premier secours que j'utilisai pour nous soigner tout les deux."
 
 # game/remy5.rpy:425
 translate frenchtl _call_endingjustafewminuteslater_2_5a3fd7c9:
 
     # n "Soon, however, I heard steps behind me. As I turned around, I was surprised to see another human face."
-    n ""
+    n "Très vite, cependant, j'entendis des pas derrière moi. Alors que je me retournais, je fus surpris de voir un autre visage humain."
 
 # game/remy5.rpy:427
 translate frenchtl _call_endingjustafewminuteslater_2_22389dd7:
 
     # n "It was a soldier."
-    n ""
+    n "C'était un soldat"
 
 # game/remy5.rpy:429
 translate frenchtl _call_endingjustafewminuteslater_2_32aeba25:
 
     # n "\"Who are you? What are you doing here?\", I asked him."
-    n ""
+    n "\"Qui êtes-vous ? Qu'est-ce que vous faites ici ?\", lui demandai-je."
 
 # game/remy5.rpy:431
 translate frenchtl _call_endingjustafewminuteslater_2_97d0488b:
 
     # n "\"We're here to save you. Reza told us about everything.\", he replied."
-    n ""
+    n "\"On est là pour vous sauver. Reza nous a tout raconté.\", répondit-il."
 
 # game/remy5.rpy:434
 translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_1:
@@ -592,31 +592,31 @@ translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_1:
 translate frenchtl _call_endingjustafewminuteslater_2_12ccb622:
 
     # n "I didn't know what Reza had told them, but I certainly didn't want to leave just yet. I tried to protest and told them about Remy, and the soldier let me know that they would take care of it. For now, however, their orders were clear and I was to come with them immediately."
-    n ""
+    n "Je ne savais pas ce que Reza leur avait dit, mais je ne voulais certainement pas partie maintenant. J'essayai de m'opposer et leur ai parlé de Rémi, et le soldat me fit savoir qu'ils se chargeraient de ça. Pour l'instant, leurs ordres étaient clair et je devais venir avec eux immédiatement."
 
 # game/remy5.rpy:439
 translate frenchtl _call_endingjustafewminuteslater_2_71db95d0:
 
     # n "Another soldier arrived and took the generator with him. Then, they escorted me back through the portal."
-    n ""
+    n "Un autre soldat arriva et pris le générateur avec lui. Puis, ils m'escortèrent à travers le portail."
 
 # game/remy5.rpy:441
 translate frenchtl _call_endingjustafewminuteslater_2_66b35bfa:
 
     # n "After all this time, I wondered what would happen now - to our world and the dragons'."
-    n ""
+    n "Après tout ce temps, je me demandais ce qui arriverait maintenant - à notre monde et celui des dragons."
 
 # game/remy5.rpy:443
 translate frenchtl _call_endingjustafewminuteslater_2_8d55e061:
 
     # n "I arrived on the other side, only to be met by a team of EMTs who were already expecting me."
-    n ""
+    n "J'arrivai de l'autre côté, seulement pour tomber sur une équipe d'urgentistes qui m'attendait déjà."
 
 # game/remy5.rpy:445
 translate frenchtl _call_endingjustafewminuteslater_2_d1f4d311:
 
     # n "I was urged to lay down in a cot, which was quickly transported into the back of an ambulance."
-    n ""
+    n "On me pressa de m'allonger dans une ambulance, qui fut rapidement transporté à l'arrière d'une ambulance."
 
 # game/remy5.rpy:448
 translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_2:
