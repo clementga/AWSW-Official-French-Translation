@@ -628,25 +628,25 @@ translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_2:
 translate frenchtl _call_endingjustafewminuteslater_2_b0659dba:
 
     # n "They took off my bandages and examined my wounds as I heard them calling out medical terms I didn't understand."
-    n ""
+    n "Ils enlevèrent mes bandages et examinèrent mes blessures alors que je les entendaient crier des termes médicaux que je ne comprenais pas."
 
 # game/remy5.rpy:453
 translate frenchtl _call_endingjustafewminuteslater_2_6b30e185:
 
     # n "A breathing mask was put on me, and soon, I lost consciousness."
-    n ""
+    n "On me mis un masque respiratoire, et très vite, je perdis connaissance."
 
 # game/remy5.rpy:455
 translate frenchtl _call_endingjustafewminuteslater_2_9acb3c92:
 
     # n "I wasn't sure what exactly Reza had told them, but with him dead and me wounded, humanity decided to take what they thought was theirs by force - which included the underground building itself."
-    n ""
+    n "Je ne savais pas ce Reza leur avait dit exactement, mais avec lui mort et moi blessé, l'humanité décida de s'emparer de ce q'uils pensaient être à eux par la force - ce qui incluait la base souterraine elle même."
 
 # game/remy5.rpy:457
 translate frenchtl _call_endingjustafewminuteslater_2_777af674:
 
     # n "Hoping for a diplomatic solution, the dragons retreated and borders were established, all within a manner of days."
-    n ""
+    n "Espérant une solution diplomatique, les dragons battirent en retraire et des frontières furent établies, le tout en quelques jours."
 
 # game/remy5.rpy:460
 translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_3:
@@ -658,19 +658,19 @@ translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_3:
 translate frenchtl _call_endingjustafewminuteslater_2_ae961ca6:
 
     # n "The thousands of people living in our city were quickly relocated. For them, it was a better solution than any other. Here, they had an already working infrastructure, buildings, and things looked just like they used to."
-    n ""
+    n "Les milliers de personnes qui vivaient dans notre ville furent rapidement relocalisés. Pour eux, c'était une meilleure solution que m'importe quelle autre. Ici, ils avaient une infrastructure fonctionnelle, des bâtiments, et les choses ressemblaient à ce qu'elles étaient auparavant."
 
 # game/remy5.rpy:465
 translate frenchtl _call_endingjustafewminuteslater_2_0843a8c3:
 
     # n "When I awoke from my induced coma, it was with the expected dose of confusion as I had to realize the place was deserted, and it hadn't been just the building - it was the entire city. Everyone was gone."
-    n ""
+    n "Quand je me réveillai de mon coma artificiel, c'était avec une dose de confusion prévisible que je dûs réaliser que le lieu était désert, et pas seulement le bâtiment - mais la ville entière. Tous le monde était parti."
 
 # game/remy5.rpy:467
 translate frenchtl _call_endingjustafewminuteslater_2_8a4cff7c:
 
     # n "Whatever Reza had told humanity had been enough for them to ultimately decide to leave me behind as a traitor while they sought out their promised land."
-    n ""
+    n "Quelque soit ce qu'a dit Reza à l'humanité, c'était assez pour qu'ils décident de m'abandonner derrière comme un traitre tandis qu'ils partirent à la recherche de leur terre promise."
 
 # game/remy5.rpy:470
 translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_4:
@@ -682,13 +682,13 @@ translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_4:
 translate frenchtl _call_endingjustafewminuteslater_2_642269e2:
 
     # n "To their credit, they could have killed me, but just leaving me behind and to my own devices was exactly the kind of punishment I would expect from them."
-    n ""
+    n "Il ne m'ont pas tué et c'est tout à leur honneur, mais de m'abandonner derrière à mon propre sort était exactement le genre de punission à laquelle je me serais attendu venant d'eux."
 
 # game/remy5.rpy:475
 translate frenchtl _call_endingjustafewminuteslater_2_c7a50765:
 
     # n "I wasn't even sure how much time had passed since I returned."
-    n ""
+    n "Je n'étais même pas certain de combien de temps s'était écoulé depuis que j'étais revenu."
 
 # game/remy5.rpy:477
 translate frenchtl _call_endingjustafewminuteslater_2_48575716:
