@@ -916,7 +916,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_86807aa6:
 translate frenchtl _call_endingjustafewminuteslater_2_3d67c9dc:
 
     # c "Back? They're all gone."
-    c "Revenir ? Ils sont tous morts"
+    c "Revenir ? Ils sont tous morts."
 
 # game/remy5.rpy:583
 translate frenchtl _call_endingjustafewminuteslater_2_a7c0eab4:
@@ -928,151 +928,151 @@ translate frenchtl _call_endingjustafewminuteslater_2_a7c0eab4:
 translate frenchtl _call_endingjustafewminuteslater_2_0fba5a7d:
 
     # As "In the time you were here, the meteorite you knew about collided with Earth. The civilization you knew, and the human settlement are no more."
-    As ""
+    As "Durant le temps que tu étais ici, la météorite est entrée en collision avec la Terre. La civilisation que tu connaissais, et la base humaine ne sont plus."
 
 # game/remy5.rpy:587
 translate frenchtl _call_endingjustafewminuteslater_2_1de5c6e3:
 
     # Ry shy flip "What? How?"
-    Ry shy flip ""
+    Ry shy flip "Quoi ? Comment ?"
 
 # game/remy5.rpy:589
 translate frenchtl _call_endingjustafewminuteslater_2_d8dcb3c4:
 
     # c "Reza knew this was going to happen."
-    c ""
+    c "Reza savait que ça allait arriver."
 
 # game/remy5.rpy:591
 translate frenchtl _call_endingjustafewminuteslater_2_e1c42157:
 
     # As "How ironic that Reza would drag himself through the portal in his gravely injured state to try and save humanity by telling them about the generator, you and the meteorite, only to fall on deaf ears about that last, crucial part."
-    As ""
+    As "C'est ironique que Reza aille se tirer à travers le portail dans un état grave pour essayer de sauver l'humanité en leur disant à propos des générateurs, de toi et de la météorite, pour que la dernière partie, crutial, tombe simplement dans l'oreille d'un sourd."
 
 # game/remy5.rpy:593
 translate frenchtl _call_endingjustafewminuteslater_2_ef12735f:
 
     # As "Now, they are all gone."
-    As ""
+    As "Maintenant, Ils sont tous morts."
 
 # game/remy5.rpy:595
 translate frenchtl _call_endingjustafewminuteslater_2_63caf5e4:
 
     # As "I wasn't talking about returning to them, however, but going back to a time even before that - the day of your arrival."
-    As ""
+    As "Je ne parlais pas d'aller les retrouver, cependant, mais de revenir à un moment antérieur - le jour de ton arrivée."
 
 # game/remy5.rpy:597
 translate frenchtl _call_endingjustafewminuteslater_2_be26647f:
 
     # Ry normal flip "You want to use the portal for time travel? I knew about the possibilities, but doing it for real... fascinating."
-    Ry normal flip ""
+    Ry normal flip "Vous voulez utiliser le portail pour voyager dans le temps ? Je connaissais l'éventualité, mais faire ça pour de vrai... fascinant."
 
 # game/remy5.rpy:599
 translate frenchtl _call_endingjustafewminuteslater_2_f2c585f0:
 
     # c "Can Remy come with us?"
-    c ""
+    c "Est-ce que Rémi peut venir avec nous ?"
 
 # game/remy5.rpy:601
 translate frenchtl _call_endingjustafewminuteslater_2_e85f99cb:
 
     # As "No. It is complicated enough as it is."
-    As ""
+    As "Non. C'est déjà assez compliqué comme ça."
 
 # game/remy5.rpy:603
 translate frenchtl _call_endingjustafewminuteslater_2_025f0c6c:
 
     # c "Then I don't want to go."
-    c ""
+    c "Alors je n'irai pas."
 
 # game/remy5.rpy:605
 translate frenchtl _call_endingjustafewminuteslater_2_b002277d:
 
     # As "I don't think you realize what is at stake here. All the others you have met are dead. Their whole civilization was wiped out in one fell swoop, and their world lies in ashes. Only we can go back and try to prevent this from ever happening."
-    As ""
+    As "Je ne pense pas que tu réalises ce qui est en jeu ici. Tout ceux que tu as rencontré sont mort. Leur civilisation entière a été décimée d'une traite, et et leur monde n'est plus qu'un tas de cendres. Il n'y a que nous qui puissions empêcher ça d'arriver à nouveau."
 
 # game/remy5.rpy:607
 translate frenchtl _call_endingjustafewminuteslater_2_933c72df:
 
     # c "But..."
-    c ""
+    c "Mais..."
 
 # game/remy5.rpy:609
 translate frenchtl _call_endingjustafewminuteslater_2_46006188:
 
     # Ry shy flip "It's alright, [player_name]. Just go. You have to save them."
-    Ry shy flip ""
+    Ry shy flip "Ca ira, [player_name]. Vas-y. Tu dois les sauver."
 
 # game/remy5.rpy:611
 translate frenchtl _call_endingjustafewminuteslater_2_fb1fc4b2:
 
     # As "That is my utmost goal."
-    As ""
+    As "C'est mon objectif à terme."
 
 # game/remy5.rpy:613
 translate frenchtl _call_endingjustafewminuteslater_2_64d1573e:
 
     # c "Alright, I'll do it."
-    c ""
+    c "D'accord, je vais le faire."
 
 # game/remy5.rpy:615
 translate frenchtl _call_endingjustafewminuteslater_2_137e8169:
 
     # As "Very well. Take your position, please."
-    As ""
+    As "Très bien. Met-toi en place, je te prie."
 
 # game/remy5.rpy:621
 translate frenchtl _call_endingjustafewminuteslater_2_82944e6e:
 
     # m "I stood in the middle of the portal, and after pressing a few buttons, the Administrator joined me."
-    m ""
+    m "Je me plaçai au centre du portail, et après avoir apputé sur quelques touches, L'administrateur me rejoignit."
 
 # game/remy5.rpy:631
 translate frenchtl _call_endingjustafewminuteslater_2_e8c23392:
 
     # c "What should I call you?"
-    c ""
+    c "Comment devrai-je vous appeler ?"
 
 # game/remy5.rpy:633
 translate frenchtl _call_endingjustafewminuteslater_2_4997a4ae:
 
     # m "She looked at me with a mild expression of bewilderment."
-    m ""
+    m "Elle me regarda avec une expression douce et perplexe à la fois."
 
 # game/remy5.rpy:635
 translate frenchtl _call_endingjustafewminuteslater_2_a58ac869:
 
     # c "Now that you don't wear the mask anymore, we can do without the code name."
-    c ""
+    c "Maintenant que tu ne portes plus le masque, on peut faire sans nom de code."
 
 # game/remy5.rpy:637
 translate frenchtl _call_endingjustafewminuteslater_2_308e01b7:
 
     # As "You can call me Izumi."
-    As ""
+    As "Tu peux m'appeler Izumi."
 
 # game/remy5.rpy:639
 translate frenchtl _call_endingjustafewminuteslater_2_a5e8870e:
 
     # m "I could see the faintest hint of a smirk."
-    m ""
+    m "Je pouvais voir un léger sourire."
 
 # game/remy5.rpy:641
 translate frenchtl _call_endingjustafewminuteslater_2_998fd1c1:
 
     # Iz "Not that it matters much. Once we arrive on the other side, you probably won't remember a thing."
-    Iz ""
+    Iz "Bien que ce ne soit pas important. Une fois qu'on arrivera de l'autre côté, tu ne souviendras probablement de rien."
 
 # game/remy5.rpy:651
 translate frenchtl _call_endingjustafewminuteslater_2_0d874340:
 
     # m "As I heard the familiar sound of the portal starting up, the last thing I saw was Remy watching us as he slowly undid his tie and slipped it off his neck."
-    m ""
+    m "Tandis que j'entendais le bruit familier du portail démarrer, la dernière chose que je visse fut Rémi nous regardant alors qu'il défaisait sa cravate et l'enlevait de son coup."
 
 # game/remy5.rpy:807
 translate frenchtl _call_syscheck_71_b73da2a0:
 
     # s "You have seen Remy's bad ending!"
-    s ""
+    s "Vous avez vu la mauvaise fin de Rémi !"
 
 # game/remy5.rpy:831
 translate frenchtl remygoodending_14f8db56:
@@ -1372,11 +1372,11 @@ translate frenchtl remygoodending_44b1ec79:
 translate frenchtl _call_syscheck_72_cc23d045:
 
     # s "You have seen Remy's good ending!"
-    s ""
+    s "Vous avez vu la bonne fin de Rémi !"
 
 translate frenchtl strings:
 
     # remy5.rpy:7
     old "Chapter 5 - Remy"
-    new ""
+    new "Chapitre 5 - Rémi"
 
