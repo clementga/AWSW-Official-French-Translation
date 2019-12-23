@@ -1078,127 +1078,127 @@ translate frenchtl _call_syscheck_71_b73da2a0:
 translate frenchtl remygoodending_14f8db56:
 
     # m "I hobbled to my feet and made my way back outside. In the distance, near the portal, I saw Reza and something that was standing between them."
-    m ""
+    m "Je me remis difficilement sur pieds et fonça vers la sortie. Au loin, proche du portail, Je vis Reza et quelque chose qui lui barrait la route."
 
 # game/remy5.rpy:835
 translate frenchtl remygoodending_3bdde3df:
 
     # m "As I drew nearer, I recognized it as Vara who was growling at him."
-    m ""
+    m "Alors que je me rapprochais, je reconnus Vara qui lui grognait dessus."
 
 # game/remy5.rpy:841
 translate frenchtl remygoodending_4ce516bc:
 
     # m "Reza aimed a kick at her, only to lose his balance and fall when she bit and held onto his shin."
-    m ""
+    m "Reza lui décocha un coup de pied, pour simplement perdre l'équilibre et tomber quand elle le mordit fermement au tibia."
 
 # game/remy5.rpy:856
 translate frenchtl remygoodending_fe3eabbd:
 
     # m "After he fought her off with a few kicks, his hand dove into his pocket to grab a few bullets, which he proceeded to load into his revolver."
-    m ""
+    m "Après l'avoir dégagé avec quelques coups de pied, sa main plongea dan sa poche pour attraper quelques balles, qu'ils chargea dans son revolver."
 
 # game/remy5.rpy:874
 translate frenchtl remygoodending_184af11a:
 
     # m "I went as fast as I could, but with my injuries I had no chance to stop him as he aimed at Vara."
-    m ""
+    m "Je fis aussi vite que je pus, mais avec mes blessures je n'avais aucune chance de l'arrêter alors qu'il visait Vara."
 
 # game/remy5.rpy:951
 translate frenchtl remygoodending_d4d75cb5:
 
     # m "Slowly, he got up again and walked over to the portal's controls when the Administrator suddenly appeared behind him."
-    m ""
+    m "Lentement, il se releva et marcha vers le terminal du portail quand l'Administrateur apparu soudainement derrière lui."
 
 # game/remy5.rpy:998
 translate frenchtl remygoodending_b2385318:
 
     # m "Immediately, she was on him, throwing him to the ground before starting to pound his head with her fists. Together, they rolled down the slope of the small hill on which the portal stood."
-    m ""
+    m "Immédiatement, Elle fondit sur lui, le jetant au sol avant de commencer à lui matraquer la tête avec ses poings. Ensemble, ils roulèrent dans la pente de la petite colline sur laquelle le portail se tenait."
 
 # game/remy5.rpy:1012
 translate frenchtl remygoodending_332d900f:
 
     # m "When they came to a halt, the fight resumed. There was a flurry of fists, and suddenly, I heard the distinct sound of a gunshot, after which the Administrator slumped and fell."
-    m ""
+    m "Quand il firent une pause, le combat reprit de plus belle. C'était une pluie de coups de poings, et soudainement, j'entendis le son caractéristique d'un coup de feu, après quoi l'Administrateur s'éffondra au sol."
 
 # game/remy5.rpy:1014
 translate frenchtl remygoodending_d0d4a5fb:
 
     # m "Eventually, I arrived, only to be able to confirm that both of them were dead."
-    m ""
+    m "Je finis par arriver, seulement pour pouvoir constater qu'ils étaient tous les deux morts."
 
 # game/remy5.rpy:1016
 translate frenchtl remygoodending_039c8651:
 
     # m "I went up to the portal and examined Vara for any signs of life. I found none."
-    m ""
+    m "Je me dirigeai vers le portail et examinai Vara pour trouver un signe de vie. Rien."
 
 # game/remy5.rpy:1020
 translate frenchtl remygoodending_b05e5f4b:
 
     # m "When I looked up again, I saw Remy looking at me with a pained expression."
-    m ""
+    m "En relevant la tête, je vis Rémi me regarder avec une expression empli de douleur."
 
 # game/remy5.rpy:1022
 translate frenchtl remygoodending_1b3f7f53:
 
     # m "I stepped away, giving him some space as he stepped up to the small corpse."
-    m ""
+    m "Je m'écartai, pour lui donner de l'espace alors qu'il avançait vers le petit cadavre."
 
 # game/remy5.rpy:1028
 translate frenchtl remygoodending_e9d0ca20:
 
     # Ry "Were you looking for me? Did you sneak out again? Poor girl."
-    Ry ""
+    Ry "Etais-tu en train de me chercher ? Tu t'es encore enfuie ? Pauvre enfant."
 
 # game/remy5.rpy:1030
 translate frenchtl remygoodending_38c3881e:
 
     # m "He enveloped her as his tears started raining down on the small body."
-    m ""
+    m "Il l'enlaça alors que ces larmes commencaient à couler sur le corps de l'enfant."
 
 # game/remy5.rpy:1042
 translate frenchtl remygoodending_0d259e8b:
 
     # n "Soon, more help arrived. Remy and I got all the medical attention we needed."
-    n ""
+    n "Très vite, des renforts arrivèrent. Rémi et moi reçûmes toute l'attention médicale dont nous avions besoins."
 
 # game/remy5.rpy:1044
 translate frenchtl remygoodending_e6933e74:
 
     # n "Besides those we already knew to be dead, it was also too late for Maverick."
-    n ""
+    n "En plus de tous ceux qui étaient morts pour sûr, il était également trop tard pour Maverick."
 
 # game/remy5.rpy:1046
 translate frenchtl remygoodending_a2efe0ef:
 
     # n "I warned them about the comet, telling them to check the PDAs I had given them for verification of my claims."
-    n ""
+    n "Je les avais prévenu pour la comète, leur disant de regarder les PDAs que je leur avais donné pour vérifier mes dire."
 
 # game/remy5.rpy:1048
 translate frenchtl remygoodending_fbf00c38:
 
     # n "A few minutes later, EMTs arrived and I was put into an artificial coma due to my injuries."
-    n ""
+    n "Quelques minutes plus tard, l'équipe médicale d'urgence arriva et je fus placé dans un coma artificiel à cause de mes blessures."
 
 # game/remy5.rpy:1050
 translate frenchtl remygoodending_299d93c6:
 
     # n "In the weeks I was out, a variety of things happened."
-    n ""
+    n "Durant les semaines où j'étais inconscient, beaucoup de choses s'étaient passées."
 
 # game/remy5.rpy:1052
 translate frenchtl remygoodending_9578c082:
 
     # n "After everything that had taken place, negotiations were fierce between humanity and the dragons."
-    n ""
+    n "Après tout ce qui s'était passé, les négociations étaient féroces entre l'humanité et les dragons."
 
 # game/remy5.rpy:1054
 translate frenchtl remygoodending_31cfb1c1:
 
     # n "Out of respect, Reza's body was returned to humanity through the portal. While his actions had shattered all goodwill on the dragon's side, Reza's wounds did their job to do the same for humanity."
-    n ""
+    n "Par respect, la dépouille de Reza fut restituée à l'humanité via le portail. Tandis que ses actions avaient fait voler en éclat toute bonne volonté du côté des dragons, les blessures de Reza en firent de même pour l'humanité."
 
 # game/remy5.rpy:1057
 translate frenchtl remygoodending_76b2fe88:
@@ -1210,25 +1210,25 @@ translate frenchtl remygoodending_76b2fe88:
 translate frenchtl remygoodending_aa0e87a2:
 
     # n "I, too, was to be returned to humanity, but as my condition didn't allow it, humanity took the dragons' refusal to transfer me as a sign they were keeping me as a hostage."
-    n ""
+    n "Je devais également être rappatrié chez les humains, mais comme mon état ne me le permettais pas, l'humanité prit le refus de mon transfert par les dragons comme un signe qu'ils m'avaient pris en otage."
 
 # game/remy5.rpy:1062
 translate frenchtl remygoodending_d9c8a2ac:
 
     # n "I wasn't a priority for humanity, though - a fact I was aware of well before I ever arrived in this world. As far as they were concerned, Reza and I had our chance, and the results weren't pretty."
-    n ""
+    n "Je n'étais pas une priorité pour l'humanité - un fait dont j'étais conscient bien avant d'arriver dans ce monde. D'aussi loin que nous étions concernés, Reza et moi avions eu notre chance, et les résultats n'étaient pas beau à voir."
 
 # game/remy5.rpy:1064
 translate frenchtl remygoodending_49ff8b8a:
 
     # n "Ultimately, the dragons decided to return the PDAs before all contact was cut."
-    n ""
+    n "Ultimement, les dragons décidèrent de renvoyer les PDAs avant que tout contact soit coupé."
 
 # game/remy5.rpy:1066
 translate frenchtl remygoodending_daf282ba:
 
     # n "Luckily, my claims were taken seriously, and there was already a plan in place to divert the comet."
-    n ""
+    n "Fort heureusement, mes dires furent pris au sérieux, et il y avait un plan en place pour dévier la comète."
 
 # game/remy5.rpy:1068
 translate frenchtl remygoodending_90b94fdc:
