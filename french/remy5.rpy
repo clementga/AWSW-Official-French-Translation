@@ -1234,7 +1234,7 @@ translate frenchtl remygoodending_daf282ba:
 translate frenchtl remygoodending_90b94fdc:
 
     # n "While they would have to use the lab's generators to do it, humanity decided to use their portal's power source to support their slowly failing city for a while longer as they looked for other, more long-term solutions."
-    n ""
+    n "Alors qu'ils auraient eu à utiliser le générateur du labo pour le faire, l'humanité décida d'utiliser celui du portail pour alimenter leur cité en déperdition un peu plus longtemps tandis qu'ils cherchaient d'autres solutions à plus long terme."
 
 # game/remy5.rpy:1071
 translate frenchtl remygoodending_76b2fe88_1:
@@ -1246,25 +1246,25 @@ translate frenchtl remygoodending_76b2fe88_1:
 translate frenchtl remygoodending_e57d4525:
 
     # n "After I awoke from my coma, I had to consider my options."
-    n ""
+    n "Après m'être réveillé de mon coma, je devais aviser."
 
 # game/remy5.rpy:1076
 translate frenchtl remygoodending_986e0b1c:
 
     # n "While the dragons were able to create a new power source for the portal, I wouldn't have known how to send myself back to humanity, as their portal was already deactivated - at least not without the expertise of the dead Administrator."
-    n ""
+    n "Alors que les dragons étaient capable de créer une nouvelle source d'énergie pour le portail, Je n'aurais jamais su comment me renvoyer à l'époque des humains alors que le portail était déjà désactivé - du moins pas sans l'expertise de l'Administrateur décédée."
 
 # game/remy5.rpy:1078
 translate frenchtl remygoodending_af3ad756:
 
     # n "The only coordinates remaining in the portal were those she left as a last resort. It turned out they were to send someone back in time to the day I arrived here."
-    n ""
+    n "Les seules coordonnées restantes dans le portail étaient celles qu'elle avait laissé en dernier recours. Il s'avérait qu'elles renvoyaient quiconque les utilise dans le passé, le jour de mon arrivée."
 
 # game/remy5.rpy:1080
 translate frenchtl remygoodending_bb30bf9e:
 
     # n "As soon as I could, I met with Remy, who told me about everything I had missed."
-    n ""
+    n "Dès que je le pus, j'allai retrouver Rémi, qui me raconta tout ce que j'avais manqué."
 
 # game/remy5.rpy:1083
 translate frenchtl remygoodending_76b2fe88_2:
@@ -1276,97 +1276,97 @@ translate frenchtl remygoodending_76b2fe88_2:
 translate frenchtl remygoodending_9328b1cc:
 
     # c "So, the comet has been diverted, and you've replaced the power source for the portal. I guess I must've been gone for a long time."
-    c ""
+    c "Donc, la comète a été déviée, et vous avez remplacer le générateur du portail. Il faut croire que j'ai été endormi pour un moment."
 
 # game/remy5.rpy:1095
 translate frenchtl remygoodending_f2f43cc5:
 
     # Ry "A few weeks, yes."
-    Ry ""
+    Ry "Quelques semaines, oui."
 
 # game/remy5.rpy:1097
 translate frenchtl remygoodending_64db0ab9:
 
     # Ry "What will you do now?"
-    Ry ""
+    Ry "Qu'est-ce que tu va faire maintenant ?"
 
 # game/remy5.rpy:1099
 translate frenchtl remygoodending_1b9150d6:
 
     # c "I could use the portal to return to the day of my arrival. After all, I came here to save our dying city, which is something I failed to do."
-    c ""
+    c "Je pourrais utiliser le portail pour revenir au jour de mon arrivée. Après tout, je suis venu ici pour sauver notre cité mourrante, ce que j'ai échoué à accomplir."
 
 # game/remy5.rpy:1101
 translate frenchtl remygoodending_3f2355b2:
 
     # Ry "But you saved us."
-    Ry ""
+    Ry "Mais tu nous as sauvé."
 
 # game/remy5.rpy:1103
 translate frenchtl remygoodending_cdc3dc84:
 
     # c "That is true, but I can't help thinking that there could have been a diplomatic solution. If I just hadn't been in a coma during the negogiations..."
-    c ""
+    c "C'est vrai, Mais je ne peux m'empêcher de penser qu'il y aurait pu avoir une solution diplomatique. Si je n'avais pas été dans le coma durant les négociations..."
 
 # game/remy5.rpy:1105
 translate frenchtl remygoodending_c5299012:
 
     # Ry "Whatever you want to do now, you can be sure that you'll have the council's support."
-    Ry ""
+    Ry "Peut importe ce que tu veux faire maintenant, tu peux être sûr que tu as le soutien du conseil."
 
 # game/remy5.rpy:1107
 translate frenchtl remygoodending_11669ff2:
 
     # Ry "You could just stay here if you wanted to."
-    Ry ""
+    Ry "Tu pourrais juste rester ici si tu le désirais."
 
 # game/remy5.rpy:1109
 translate frenchtl remygoodending_88c01e6e:
 
     # c "I bet you wouldn't mind that, would you?"
-    c ""
+    c "Je parie que ça ne t'aurais pas déranger, n'est-ce pas ?"
 
 # game/remy5.rpy:1111
 translate frenchtl remygoodending_66965c6e:
 
     # Ry smile "You know how I am. Humans just fascinate me."
-    Ry smile ""
+    Ry smile "Tu sais comment je suis. Les humains me fascinent."
 
 # game/remy5.rpy:1113
 translate frenchtl remygoodending_3265bdbd:
 
     # Ry normal "This isn't just about me, though. Of course I would love it if you stayed with us, but I know there are many other factors at play here, and that it won't be an easy decision for you to make."
-    Ry normal ""
+    Ry normal "Ce n'est pas seulement à propos de moi, cependant. Bien sûr, j'aurais beaucoup aimé que tu restes avec nous, mais je sais qu'il y a bien d'autres facteurs en jeu, et pour toi ça ne sera pas une décision facile à prendre."
 
 # game/remy5.rpy:1115
 translate frenchtl remygoodending_7695138b:
 
     # Ry "Don't let me stop you from going back if that's what you want to do, though. I'll be fine."
-    Ry ""
+    Ry "Ne me laisse pas t'empêcher dee repartir si c'est ce que tu veux faire. Ca ira pour moi."
 
 # game/remy5.rpy:1117
 translate frenchtl remygoodending_af548332:
 
     # c "Are you sure about that?"
-    c ""
+    c "Tu en es sûr ?"
 
 # game/remy5.rpy:1119
 translate frenchtl remygoodending_805241d0:
 
     # Ry "Yes. After all, I'm not alone anymore. In the last few weeks, I spent a lot of time with Adine, and I'd say we're pretty good friends now. As sad as it is what happened with Vara, there is another girl at the orphanage we've been taking care of pretty often."
-    Ry ""
+    Ry "Oui. Après tout, je ne suis plus seul désormais. Durant les dernières semaines, j'ai passé beaucoup de temps avec Adine, et je dirais que nous sommes de bons amis maintenant. Bien que ce qui soit arrivé à Vara est triste, il y a une autre fille à l'orphelinat dont on prend soin assez souvent."
 
 # game/remy5.rpy:1121
 translate frenchtl remygoodending_6fcf44c5:
 
     # Ry "Maybe you've seen her. Her name is Amely, and she's just the sweetest little girl."
-    Ry ""
+    Ry "Peut être que tu l'as déjà vu. Elle s'appelle Amélie, et c'est juste la petite fille la plus adorable du monde."
 
 # game/remy5.rpy:1123
 translate frenchtl remygoodending_44b1ec79:
 
     # Ry smile "Besides, if you really end up going back in time, I'll see you again."
-    Ry smile ""
+    Ry smile "De plus, Si tu t'en vas vraiment remonter dans le temps, je te reverrai."
 
 # game/remy5.rpy:1256
 translate frenchtl _call_syscheck_72_cc23d045:
