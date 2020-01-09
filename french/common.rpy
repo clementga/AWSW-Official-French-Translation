@@ -248,7 +248,7 @@ translate french strings:
 
     # 00preferences.rpy:424
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Le self-voicing dirait \"[renpy.display.tts.last]\". Appuyez sur 'alt+shift+V' to le désactiver."
+    new "Le self-voicing dirait \"[renpy.display.tts.last]\". Appuyez sur 'alt+shift+V' pour le désactiver."
 
     # 00preferences.rpy:426
     old "Self-voicing enabled. Press 'v' to disable."
@@ -268,79 +268,79 @@ translate french strings:
 
     # _developer\developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "Menu Développeur"
 
     # _developer\developer.rpym:43
     old "Reload Game (Shift+R)"
-    new ""
+    new "Recharger Jeu (Maj+R)"
 
     # _developer\developer.rpym:45
     old "Console (Shift+O)"
-    new ""
+    new "Console (Shift+O)"
 
     # _developer\developer.rpym:47
     old "Variable Viewer"
-    new ""
+    new "Lecteur de Variables"
 
     # _developer\developer.rpym:49
     old "Theme Test"
-    new ""
+    new "Thème test"
 
     # _developer\developer.rpym:51
     old "Image Location Picker"
-    new ""
+    new "Sélecteur de l'Emplacement des Images"
 
     # _developer\developer.rpym:53
     old "Filename List"
-    new ""
+    new "Liste des Fichiers"
 
     # _developer\developer.rpym:57
     old "Show Image Load Log"
-    new ""
+    new "Afficher l'Historique des Images Chargées"
 
     # _developer\developer.rpym:60
     old "Hide Image Load Log"
-    new ""
+    new "Cacher l'Historique des Images Chargées"
 
     # _developer\developer.rpym:66
     old "Return"
-    new ""
+    new "Retour"
 
     # _developer\developer.rpym:95
     old "Nothing to inspect."
-    new ""
+    new "Rien à signaler."
 
     # _developer\developer.rpym:217
     old "Return to the developer menu"
-    new ""
+    new "Revenir au menu développeur"
 
     # _developer\developer.rpym:373
     old "Rectangle: %r"
-    new ""
+    new "Rectangle: %r"
 
     # _developer\developer.rpym:378
     old "Mouse position: %r"
-    new ""
+    new "Position de la souris: %r"
 
     # _developer\developer.rpym:383
     old "Right-click or escape to quit."
-    new ""
+    new "Clic-droit ou échap."
 
     # _developer\developer.rpym:412
     old "Rectangle copied to clipboard."
-    new ""
+    new "Rectangle copié dans le presse-papier."
 
     # _developer\developer.rpym:415
     old "Position copied to clipboard."
-    new ""
+    new "Position copiée dans le presse-papier."
 
     # _developer\developer.rpym:524
     old "✔ "
-    new ""
+    new "✔ "
 
     # _developer\developer.rpym:527
     old "✘ "
-    new ""
+    new "✘ "
 
     # _developer\developer.rpym:532
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
