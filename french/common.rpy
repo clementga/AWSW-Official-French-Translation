@@ -344,63 +344,63 @@ translate french strings:
 
     # _developer\developer.rpym:532
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new ""
+    new "\n{color=#cfc}✔ image prédite (good){/color}\n{color=#fcc}✘ image non anticipée (bad){/color}\n{color=#fff}Faites glisser pour déplacer.{/color}"
 
     # _developer\inspector.rpym:38
     old "Displayable Inspector"
-    new ""
+    new "Inspecteur Affichable"
 
     # _developer\inspector.rpym:61
     old "Size"
-    new ""
+    new "Taille"
 
     # _developer\inspector.rpym:65
     old "Style"
-    new ""
+    new "Style"
 
     # _developer\inspector.rpym:71
     old "Location"
-    new ""
+    new "Position"
 
     # _developer\inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new ""
+    new "Inspection des Styles de [displayable_name!q]"
 
     # _developer\inspector.rpym:139
     old "displayable:"
-    new ""
+    new "affichable"
 
     # _developer\inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new ""
+    new "        (aucune propriété n'affecte l'affichable)"
 
     # _developer\inspector.rpym:147
     old "        (default properties omitted)"
-    new ""
+    new "        (propriétés par défault ommises)"
 
     # _developer\inspector.rpym:185
     old "<repr() failed>"
-    new ""
+    new "<repr() failed>"
 
     # _layout\classic_load_save.rpym:170
     old "a"
-    new ""
+    new "a"
 
     # _layout\classic_load_save.rpym:179
     old "q"
-    new ""
+    new "q"
 
     # 00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Contacting App Store\nPlease Wait..."
 
     # 00updater.rpy:373
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "La mise à jour Ren'Py n'est pas supportée sur les appareils mobiles."
 
     # 00updater.rpy:492
     old "An error is being simulated."
-    new ""
+    new "Une erreur est en train d'être simulée."
 
     # 00updater.rpy:668
     old "Either this project does not support updating, or the update status file was deleted."
