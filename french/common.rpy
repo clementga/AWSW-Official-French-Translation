@@ -404,297 +404,297 @@ translate french strings:
 
     # 00updater.rpy:668
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Soit ce projet ne supporte pas les mises à jours, ou que les fichiers statut ont été supprimés."
 
     # 00updater.rpy:682
     old "This account does not have permission to perform an update."
-    new ""
+    new "Ce compte n'a pas l'autorisation de faire une mise à jour."
 
     # 00updater.rpy:685
     old "This account does not have permission to write the update log."
-    new ""
+    new "Ce compte n'a pas l'autorisation de modifier l'historique des mises à jour."
 
     # 00updater.rpy:710
     old "Could not verify update signature."
-    new ""
+    new "Impossible de vérifier la trace des mises à jour"
 
     # 00updater.rpy:981
     old "The update file was not downloaded."
-    new ""
+    new "Le fichier de mise à jour n'a pas été téléchargé."
 
     # 00updater.rpy:999
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "Le fichier de mise à jour n'a pas le bon répertoir - il a peut être été corrompu."
 
     # 00updater.rpy:1055
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Lors de la décompression de {}, type inconnu {}."
 
     # 00updater.rpy:1399
     old "Updater"
-    new ""
+    new "Actualiseur"
 
     # 00updater.rpy:1406
     old "An error has occured:"
-    new ""
+    new "Une erreur est survenue:"
 
     # 00updater.rpy:1408
     old "Checking for updates."
-    new ""
+    new "vérification des mises à jours."
 
     # 00updater.rpy:1410
     old "This program is up to date."
-    new ""
+    new "Ce programme est à jours."
 
     # 00updater.rpy:1412
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] est disponible. Souhaitez-vous l'installer ?"
 
     # 00updater.rpy:1414
     old "Preparing to download the updates."
-    new ""
+    new "Préparation du téléchargement des mises à jour."
 
     # 00updater.rpy:1416
     old "Downloading the updates."
-    new ""
+    new "Téléchargement des mises à jour."
 
     # 00updater.rpy:1418
     old "Unpacking the updates."
-    new ""
+    new "Décompressiion des mises à jour."
 
     # 00updater.rpy:1420
     old "Finishing up."
-    new ""
+    new "Finalisation."
 
     # 00updater.rpy:1422
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Les mises à jours ont été installées. Le programme va redémarrer."
 
     # 00updater.rpy:1424
     old "The updates have been installed."
-    new ""
+    new "Les mises à jour ont été installées."
 
     # 00updater.rpy:1426
     old "The updates were cancelled."
-    new ""
+    new "Les mises à jour ont été annulées."
 
     # 00updater.rpy:1441
     old "Proceed"
-    new ""
+    new "Poursuivre"
 
     # 00updater.rpy:1444
     old "Cancel"
-    new ""
+    new "Annuler"
 
     # 00gallery.rpy:563
     old "Image [index] of [count] locked."
-    new ""
+    new "Image [index] de [count] bloqué."
 
     # 00gallery.rpy:583
     old "prev"
-    new ""
+    new "préc"
 
     # 00gallery.rpy:584
     old "next"
-    new ""
+    new "suiv"
 
     # 00gallery.rpy:585
     old "slideshow"
-    new ""
+    new "diaporama"
 
     # 00gallery.rpy:586
     old "return"
-    new ""
+    new "retour"
 
     # 00gltest.rpy:64
     old "Graphics Acceleration"
-    new ""
+    new "Accélération Graphique"
 
     # 00gltest.rpy:70
     old "Automatically Choose"
-    new ""
+    new "Choisir Automatiquement"
 
     # 00gltest.rpy:75
     old "Force Angle/DirectX Renderer"
-    new ""
+    new "Force Angle/DirectX Renderer"
 
     # 00gltest.rpy:79
     old "Force OpenGL Renderer"
-    new ""
+    new "Force OpenGL Renderer"
 
     # 00gltest.rpy:83
     old "Force Software Renderer"
-    new ""
+    new "Force Software Renderer"
 
     # 00gltest.rpy:89
     old "Gamepad"
-    new ""
+    new "Gamepad"
 
     # 00gltest.rpy:93
     old "Enable"
-    new ""
+    new "Activer"
 
     # 00gltest.rpy:97
     old "Disable"
-    new ""
+    new "Désactiver"
 
     # 00gltest.rpy:103
     old "Calibrate"
-    new ""
+    new "Calibrer"
 
     # 00gltest.rpy:109
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Les changements prendrons effet la prochaine fois que le programme est lancé."
 
     # 00gltest.rpy:114
     old "Quit"
-    new ""
+    new "Quitter"
 
     # 00gltest.rpy:141
     old "Performance Warning"
-    new ""
+    new "Avertissement des performances"
 
     # 00gltest.rpy:146
     old "This computer is using software rendering."
-    new ""
+    new "Cette ordinateur est en train d'utiliser un rendu de logiciel."
 
     # 00gltest.rpy:148
     old "This computer is not using shaders."
-    new ""
+    new "Cet ordinateur n'utilise pas de shaders."
 
     # 00gltest.rpy:150
     old "This computer is displaying graphics slowly."
-    new ""
+    new "L'affichage des graphiques sur cet ordinateur présente des ralentissement."
 
     # 00gltest.rpy:152
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Cet ordinateur a des difficultés à afficher les graphiques: [problem]."
 
     # 00gltest.rpy:157
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new ""
+    new "Ses pilotes graphiques pourraient être obsolètes ou ne pas fonctionner correctement. Cela peut mener à des ralentissements ou un mauvais affichage des graphiques. Mettre à jour DirectX pourrait réparer le problème."
 
     # 00gltest.rpy:159
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Ses pilotes graphiques pourraient être obsolètes ou ne pas fonctionner correctement.Cela peut mener à des ralentissements ou un mauvais affichage des graphiques."
 
     # 00gltest.rpy:164
     old "Update DirectX"
-    new ""
+    new "Mettre à jour DirectX"
 
     # 00gltest.rpy:170
     old "Continue, Show this warning again"
-    new ""
+    new "Continuer, Montrer à nouveau ce message"
 
     # 00gltest.rpy:174
     old "Continue, Don't show warning again"
-    new ""
+    new "Continuer, Ne plus montrer ce message"
 
     # 00gltest.rpy:192
     old "Updating DirectX."
-    new ""
+    new "Mise à jour de DirectX."
 
     # 00gltest.rpy:196
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new ""
+    new "L'installateur web de DirectX a été démarré. Il pourrait démarré réduit dans la barre des tâches. Suivez les instructions pour installer DirectX."
 
     # 00gltest.rpy:200
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new ""
+    new "{b}Note:{/b} L'installateur web de DirectX installera par défault la barre d'outils Bing. Si vous ne voulez pas de cette barre d'outils, décochez la case concernée."
 
     # 00gltest.rpy:204
     old "When setup finishes, please click below to restart this program."
-    new ""
+    new "Quand l'installation est finie, veuillez cliquer ci-dessous pour redémarrer ce programme."
 
     # 00gltest.rpy:206
     old "Restart"
-    new ""
+    new "Redémarrer"
 
     # 00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Sélectionner le Gamepad pour effectuer la calibration "
 
     # 00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Pas de Gamepads Disponible"
 
     # 00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Calibration de [name] ([i]/[total])"
 
     # 00gamepad.rpy:58
     old "Press or move the [control!r] [kind]."
-    new ""
+    new "Presser ou bouger le [control!r] [kind]"
 
     # 00gamepad.rpy:66
     old "Skip (A)"
-    new ""
+    new "Passer (A)"
 
     # 00gamepad.rpy:69
     old "Back (B)"
-    new ""
+    new "Retour (B)"
 
     # _errorhandling.rpym:503
     old "Open Traceback"
-    new ""
+    new "Ouvrir Traceback"
 
     # _errorhandling.rpym:505
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Ouvrir le fichier traceback.txt in un bloc note."
 
     # _errorhandling.rpym:507
     old "Copy to Clipboard"
-    new ""
+    new "Copier dans le presse papier"
 
     # _errorhandling.rpym:509
     old "Copies the traceback.txt file to the clipboard."
-    new ""
+    new "Copier le fichier traceback.txt dans le presse papier."
 
     # _errorhandling.rpym:527
     old "An exception has occurred."
-    new ""
+    new "Une exception est survenue."
 
     # _errorhandling.rpym:546
     old "Rollback"
-    new ""
+    new "Rembobiner"
 
     # _errorhandling.rpym:548
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Tentative de remboninage à un instant antérieur, vous permettant de sauvegarder ou de choisr une autre option."
 
     # _errorhandling.rpym:551
     old "Ignore"
-    new ""
+    new "Ignorer"
 
     # _errorhandling.rpym:553
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignorer l'exception, vous permettant de continuer. Cela mène souvent à des erreurs supplémentaires."
 
     # _errorhandling.rpym:556
     old "Reload"
-    new ""
+    new "Recharger"
 
     # _errorhandling.rpym:558
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Recharger le jeu à partir du disque, sauvgardant et restaurant l'état du jeu si possible."
 
     # _errorhandling.rpym:568
     old "Quits the game."
-    new ""
+    new "Quitter le jeu."
 
     # _errorhandling.rpym:590
     old "Parsing the script failed."
-    new ""
+    new "Echel de l'analyse du script."
 
     # _errorhandling.rpym:614
     old "Open Parse Errors"
-    new ""
+    new "Ouvrir les erruers d'analyse"
 
     # _errorhandling.rpym:616
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Ouvrir le fichier errors.txt dans un bloc note."
 
     # _errorhandling.rpym:620
     old "Copies the errors.txt file to the clipboard."
-    new ""
+    new "Copier le fichier errors.txt dans le presse papier."
 
