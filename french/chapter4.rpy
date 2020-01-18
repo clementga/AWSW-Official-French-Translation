@@ -16,19 +16,19 @@ translate french chapter4_76b2fe88_1:
 translate french chapter4_15552b2b:
 
     # m "I awoke with my eyes fixed on the ceiling wallpaper. A sense of dread lingered from a nightmare I no longer remembered."
-    m ""
+    m "Je me réveillai les yeux fixés sur le papier peint du plafond. Une sensation de frayeur persistant provenant d'un cauchemard dont je ne me souvenais plus."
 
 # game/chapter4.rpy:547
 translate french chapter4_fbf407eb:
 
     # m "How many more times would I see this apartment before I returned to my own world? Or... before something happened to me?"
-    m ""
+    m "Combien de fois verrai-je cet appartement avant de rentrer dans mon monde ? Ou... avant que quelque chose ne m'arrive ?"
 
 # game/chapter4.rpy:549
 translate french chapter4_d769f1b2:
 
     # m "I got ready for the day, and tried to shake off those thoughts."
-    m ""
+    m "Je me préparai pour la journée, et essayai de sortir ces pensées de ma tête."
 
 # game/chapter4.rpy:563
 translate french chapter4_76b2fe88_2:
@@ -40,85 +40,85 @@ translate french chapter4_76b2fe88_2:
 translate french chapter4_8e64becf:
 
     # Sb "Hey, [player_name]."
-    Sb ""
+    Sb "Hey, [player_name]."
 
 # game/chapter4.rpy:569
 translate french chapter4_9f1d5b3a:
 
     # c "And right on the minute. You show up at this time every day, like clockwork."
-    c ""
+    c "Et pile à l'heure. Tu arrives à cette heure-ci tous les jours, réglé comme une horloge."
 
 # game/chapter4.rpy:571
 translate french chapter4_045b0349:
 
     # Sb smile b "Clocks are reliable, and reliable is good in this line of work."
-    Sb smile b ""
+    Sb smile b "Les horloges sont fiables, et la fiabilité est importante dans ce type de travail."
 
 # game/chapter4.rpy:577
 translate french chapter4_0090b646:
 
     # Sb normal b "I've got something for you."
-    Sb normal b ""
+    Sb normal b "J'ai quelque chose pour toi."
 
 # game/chapter4.rpy:579
 translate french chapter4_f4a3014d:
 
     # c "An envelope from the facility."
-    c ""
+    c "Une enveloppe de la facilité."
 
 # game/chapter4.rpy:585
 translate french chapter4_55e1ec7b:
 
     # c "(Oh, these are the results from the tests Anna ran on my blood.)"
-    c ""
+    c "(Oh, ce sont les résultats des tests qu'Anna a réalisé sur mon sang.)"
 
 # game/chapter4.rpy:589
 translate french chapter4_33d9c948:
 
     # c "(She must have sent this before she was...)"
-    c ""
+    c "(Elle a dû envoyer ça avant de ce faire...)"
 
 # game/chapter4.rpy:591
 translate french chapter4_8578ddea:
 
     # c "(No, it's no use thinking about that now. Maybe the test results will be able to help us.)"
-    c ""
+    c "(Non, ça ne sert à rien de penser à ça maintenant. Peut être que les résultats des examens vont pouvoir nous aider.)"
 
 # game/chapter4.rpy:597
 translate french chapter4_952ae6e0:
 
     # c "(Let's see... remarkable similarities in genetic makeup, particularly the brain structure...)"
-    c ""
+    c "Voyons voir... Des similarités remarquables dans le patrimoine génétique, tout particulièrement pour la structure cérébrale...)"
 
 # game/chapter4.rpy:601
 translate french chapter4_661560f1:
 
     # Sb disapproval b "..."
-    Sb disapproval b ""
+    Sb disapproval b "..."
 
 # game/chapter4.rpy:603
 translate french chapter4_9d2e0e44:
 
     # c "Oh, I suppose this isn't the only reason you're here."
-    c ""
+    c "Oh, je suppose que ce n'est pas la seule raison pour laquelle vous êtes ici."
 
 # game/chapter4.rpy:616
 translate french chapter4_80811ac8:
 
     # Sb normal b "I think you can guess why I'm here."
-    Sb normal b ""
+    Sb normal b "Je suppose que vous savez pourquoi je suis là."
 
 # game/chapter4.rpy:618
 translate french chapter4_9125b7cb:
 
     # c "Is it Reza again? What happened this time?"
-    c ""
+    c "C'est encore Reza ? Qu'est-il arrivé cette fois ?"
 
 # game/chapter4.rpy:622
 translate french c4resultscontinue_99f8a50b:
 
     # Sb "The chief will explain everything once we get there. Let's not keep him waiting, shall we?"
-    Sb ""
+    Sb "Le chef vous expliquera tout une fois là-bas. Ne le faisons pas attendre, d'accord ?"
 
 # game/chapter4.rpy:652
 translate french _call_skiptut_20_44e0ddc6:
