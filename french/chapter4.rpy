@@ -124,25 +124,25 @@ translate french c4resultscontinue_99f8a50b:
 translate french _call_skiptut_20_44e0ddc6:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip ahead a bit?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer à la suite ?"
 
 # game/chapter4.rpy:660
 translate french _call_skiptut_20_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Passer à la suite ?"
 
 # game/chapter4.rpy:668
 translate french _call_skiptut_20_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer à la suite."
 
 # game/chapter4.rpy:683
 translate french _call_skiptut_20_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter4.rpy:704
 translate french _call_skipcheck_20_76b2fe88:
@@ -154,97 +154,97 @@ translate french _call_skipcheck_20_76b2fe88:
 translate french _call_skipcheck_20_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter4.rpy:720
 translate french _call_skipcheck_20_22b7f8ca:
 
     # m "We arrived at a place that would look like an ordinary house, had it not been for its extraordinary size. It reminded me more of a hostel than a family home."
-    m ""
+    m "Nous arrivâmes à un endroit qui semblait être une maison des plus ordinaires, Si ce n'est pour sa taille extraordinaire. Ca me faisait plus penser à un hotel qu'à une résidence familiale."
 
 # game/chapter4.rpy:724
 translate french _call_skipcheck_20_5c1049c0:
 
     # Sb "Chief!"
-    Sb ""
+    Sb "Chef !"
 
 # game/chapter4.rpy:728
 translate french _call_skipcheck_20_a33e0fb6:
 
     # Br "There you are."
-    Br ""
+    Br "Vous voilà."
 
 # game/chapter4.rpy:730
 translate french _call_skipcheck_20_cb29c865:
 
     # c "Wait. Weren't you supposed to be with Emera?"
-    c ""
+    c "Attendez. N'étiez-vous pas supposé être avec Emera ?"
 
 # game/chapter4.rpy:732
 translate french _call_skipcheck_20_7c3915ea:
 
     # Br "Luckily, she doesn't work every day of the week."
-    Br ""
+    Br "Heureusement, elle ne travaille pas tout les jours de la semaine."
 
 # game/chapter4.rpy:734
 translate french _call_skipcheck_20_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/chapter4.rpy:736
 translate french _call_skipcheck_20_3e323fa0:
 
     # Br stern b "Anyway, we're nearly done here, so I'll keep it short: Reza broke into the hatchery."
-    Br stern b ""
+    Br stern b "Enfin bref, On a presque fini ici, donc je vais faire court : Reza s'est infiltré dans le couvoir."
 
 # game/chapter4.rpy:738
 translate french _call_skipcheck_20_17ceaf01:
 
     # Br "There is another murder victim, an employee of the hatchery who was on night duty. Her body was found quite a way from here. There's evidence of a struggle, but she covered a lot of distance before it was ultimately over."
-    Br ""
+    Br "Il y a une victime de meutre, une employée du couvoir qui était de garde la nuit. Son corps a été trouvé assez loin d'ici. Il y a des traces de lutte, mais elle a couvert une assez grandee distance avant que ce ne sois fini pour elle."
 
 # game/chapter4.rpy:740
 translate french _call_skipcheck_20_d013c437:
 
     # Br "Loud bangs were heard from the area her body was found, and she has numerous wounds consistent with both the wounds of the previous victims and that other weapon he has."
-    Br ""
+    Br "De fortes détonations furent entendues dans la zone où le corps a été trouvé, et elle avait de nombreuses blessures correspondant à la fois aux blessures des précédentes victimes et à cette autre arme qu'il détient."
 
 # game/chapter4.rpy:742
 translate french _call_skipcheck_20_e54de5ef:
 
     # m "By this point, news of another corpse didn't have the same impact anymore. She was just another one of Reza's faceless victims."
-    m ""
+    m "A partir de maintenant, les nouvelles d'autres cadavres n'avaient plus le même impact. Elle n'était qu'un cas parmi les victimes anonymes de Reza."
 
 # game/chapter4.rpy:744
 translate french _call_skipcheck_20_9cc34b87:
 
     # c "A hatchery? Is that what this building is?"
-    c ""
+    c "Un couvoir ? C'est ce qu'est ce bâtiment ?"
 
 # game/chapter4.rpy:746
 translate french _call_skipcheck_20_abed7598:
 
     # Sb "Well, not only. It's a council-owned building, and they like keeping everything related to their sector under the same roof."
-    Sb ""
+    Sb "Eh bien, pas seulement. C'est un bâtiment sous la tutelle du conseil, et ils aiment garder tout ce qui est relatif à leur secteur sous un même toit."
 
 # game/chapter4.rpy:748
 translate french _call_skipcheck_20_3725bcf9:
 
     # Sb "So, besides the hatchery, there's also an orphanage and a family clinic inside. There are also offices related to the administration of those services."
-    Sb ""
+    Sb "Donc, en plus du couvoir, il y a aussi un orphelinat et une clinique familiale à l'intérieur. Il y a également des bureaux ratachés à l'admininstration de ces services."
 
 # game/chapter4.rpy:750
 translate french _call_skipcheck_20_43d1646f:
 
     # c "That reminds me of the production facility."
-    c ""
+    c "Ca me rappelle le bâtiment de la manufacture."
 
 # game/chapter4.rpy:752
 translate french _call_skipcheck_20_dc79af62:
 
     # Sb "It should. They have a similar management structure."
-    Sb ""
+    Sb "Ca devrait. Ils ont un système de gestion similaire."
 
 # game/chapter4.rpy:754
 translate french _call_skipcheck_20_d21fb58c:
