@@ -250,91 +250,91 @@ translate french _call_skipcheck_20_dc79af62:
 translate french _call_skipcheck_20_d21fb58c:
 
     # Br brow b "Can we get back to the case?"
-    Br brow b ""
+    Br brow b "Pouvons -nous revenir à l'affaire ?"
 
 # game/chapter4.rpy:756
 translate french _call_skipcheck_20_887d6268:
 
     # Sb shy b flip "Sorry for the interruption, Chief."
-    Sb shy b flip ""
+    Sb shy b flip "Désolé pour la disgression, Chef."
 
 # game/chapter4.rpy:760
 translate french _call_skipcheck_20_d9b087b7:
 
     # c "Wait a minute, if an orphanage is in there, too..."
-    c ""
+    c "Attendez une minute, s'il y a un orphelinat là dedans, est-ce que..."
 
 # game/chapter4.rpy:762
 translate french _call_skipcheck_20_69768876:
 
     # Br stern b "There are no other casualties, but Reza got something else when he broke in: A generator, as well as a few eggs."
-    Br stern b ""
+    Br stern b "Il n'y a pas d'autres victimes, mais Reza a volé autre chose lors de son intrusion: Un générateur, ainsi que quelques œufs."
 
 # game/chapter4.rpy:764
 translate french _call_skipcheck_20_e95b3a3f:
 
     # Br "Luckily, the power was restored before anything happened to all the other eggs left inside, but needless to say, the parents of the stolen eggs are not going to be happy."
-    Br ""
+    Br "Heureusement, le courant fut rétabli avant qu'il n'arrive quoi que ce soit aux œufs restant, mais inutile de le dire, les parents des œufs volés ne vont pas être content."
 
 # game/chapter4.rpy:766
 translate french _call_skipcheck_20_92fd7fa4:
 
     # c "Why would he steal eggs in the first place?"
-    c ""
+    c "Pourquoi volerait-il des œufs de prime abord ?"
 
 # game/chapter4.rpy:768
 translate french _call_skipcheck_20_308b978e:
 
     # Br brow b "Maybe you can tell us. That's why you're here, after all."
-    Br brow b ""
+    Br brow b "Peut être que vous pouvez nous le dire. C'est la raison pour laquelle vous êtes là, après tout."
 
 # game/chapter4.rpy:770
 translate french _call_skipcheck_20_9d30a14b:
 
     # c "I don't know. I have no idea what he would even do with them."
-    c ""
+    c "Je ne sais pas. Je n'ai aucune idée de ce qu'il ferait avec."
 
 # game/chapter4.rpy:772
 translate french _call_skipcheck_20_90e21a6d:
 
     # Sb "Maybe he wants to use them as a bargaining chip. After all, he still has to make his escape, and the portal is still broken."
-    Sb ""
+    Sb "Peut être qu'il veut les utiliser comme une monnaie d'échange. Après tout, il doit toujours s'échapper, et le portail est toujours hors service."
 
 # game/chapter4.rpy:774
 translate french _call_skipcheck_20_fca2d874:
 
     # c "Do you think he wants to exchange them for safe passage through the portal?"
-    c ""
+    c "Tu penses qu'il veut les échanger contre une sortie sans risques à travers le portail ?"
 
 # game/chapter4.rpy:776
 translate french _call_skipcheck_20_b95171df:
 
     # Sb "Maybe."
-    Sb ""
+    Sb "Peut être."
 
 # game/chapter4.rpy:778
 translate french _call_skipcheck_20_f525fc3b:
 
     # c "It's still broken, though, so I'm not sure if that would be much help."
-    c ""
+    c "Il est toujours cassé, cependant, donc je ne suis pas sûre que ça soit d'une grande aide."
 
 # game/chapter4.rpy:780
 translate french _call_skipcheck_20_5567eac6:
 
     # Sb "Maybe he has the part needed to repair it, and now has everything he needs to escape. He could trade the eggs for safe passage, fix the portal and leave."
-    Sb ""
+    Sb "Peut être qu'il a les parties devant être réparées, et que maintenant il a tout ce dont il a besoin pour s'échapper. Il pourrait échanger les œufs pour son exfiltration, réparer le portail et partir."
 
 # game/chapter4.rpy:782
 translate french _call_skipcheck_20_16065d3c:
 
     # c "That's not the only possibility. He may not be the one who broke the portal. Maybe he thinks you've intentionally sabotaged it so he can't leave, and he feels he needs the eggs as bargaining chip to get you to repair it."
-    c ""
+    c "Ca n'est pas la seule possibilité. Il pourrait ne pas être celui qui a cassé le portail. Il pourrait penser que vous l'avez saboté intentionellement pour qu'il ne puisse pas partir, et a senti la nécéssité d'utiliser les œufs comme monnaie d'échange pour vous forcer à le réparer."
 
 # game/chapter4.rpy:784
 translate french _call_skipcheck_20_7481c22d:
 
     # c "If he just wanted to leave, I feel like he could've done that already."
-    c ""
+    c "S'il voulait juste partir, Je pense qu'il l'aurait déjà fait."
 
 # game/chapter4.rpy:786
 translate french _call_skipcheck_20_ac510e22:
