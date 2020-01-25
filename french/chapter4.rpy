@@ -340,289 +340,289 @@ translate french _call_skipcheck_20_7481c22d:
 translate french _call_skipcheck_20_ac510e22:
 
     # Br stern b "It doesn't even matter who sabotaged the portal. We only know that Reza's actions are becoming more and more desperate."
-    Br stern b ""
+    Br stern b "Savoir qui a saboté le portail importe peu. On sait seulement que les initiatives de Reza deviennent de plus en plus désespérées."
 
 # game/chapter4.rpy:788
 translate french _call_skipcheck_20_0d5b5736:
 
     # Br "He kidnapped defenseless eggs and even used the human weapon. Something's clearly going on with him. Maybe it means that he'll slip up soon."
-    Br ""
+    Br "Il a kidnappé des œufs sans défense et a même utilisé l'arme humaine. Il se passe clairement quelque chose avec lui. Peut être que celà veut dire qu'il va bientôt déraper."
 
 # game/chapter4.rpy:790
 translate french _call_skipcheck_20_e738d548:
 
     # Br brow b "Who knows, maybe he already has. In any case, we're done here. Let's head back to the department and decide what to do next. Hopefully, some of the test results will tell us something."
-    Br brow b ""
+    Br brow b "Qui sait, peut être que c'est déjà le cas. Dans tout les cas, on a fini ici. Rentrons au poste et décidons quoi faire pour la suite. Espérons que certains des résultats d'analyse nous dirons quelque chose."
 
 # game/chapter4.rpy:798
 translate french _call_skipcheck_20_ccfd52d0:
 
     # m "After a brief walk, we were in Bryce's office again. Initial test results had already come in, but didn't reveal any insightful or new information."
-    m ""
+    m "Après une brève marche, nous étions à nouveau dans le bureau de Bryce. Les résultats des premiers tests étaient déjà arrivés, mais ne révèlèrent aucun indice ou de nouvelle information."
 
 # game/chapter4.rpy:802
 translate french _call_skipcheck_20_67e809c4:
 
     # Sb "So, what do we do now? Go over the timeline again?"
-    Sb ""
+    Sb "Donc, qu'est-ce qu'on fait maintenant ? On repasse le fil des évènements encore une fois? "
 
 # game/chapter4.rpy:806
 translate french _call_skipcheck_20_dc051f2c:
 
     # Br "Not yet. There are a few things I'd like to take care of first."
-    Br ""
+    Br "Pas encore. Il y a deux trois choses dont j'aimerais m'occuper avent."
 
 # game/chapter4.rpy:808
 translate french _call_skipcheck_20_316840b9:
 
     # c "What do you have in mind?"
-    c ""
+    c "Qu'est-ce que tu as en tête ?"
 
 # game/chapter4.rpy:812
 translate french _call_skipcheck_20_08aadc68:
 
     # m "Suddenly, there was a knock at the door."
-    m ""
+    m "Soudainement, il y eut des toquement à la porte."
 
 # game/chapter4.rpy:818
 translate french _call_skipcheck_20_203cfb48:
 
     # Br "Come in."
-    Br ""
+    Br "Entrez."
 
 # game/chapter4.rpy:832
 translate french _call_skipcheck_20_81f9b7cd:
 
     # Br brow b "Maverick? What are you doing here?"
-    Br brow b ""
+    Br brow b "Maverick ? Qu'est-ce que tu fais là ?"
 
 # game/chapter4.rpy:834
 translate french _call_skipcheck_20_654413aa:
 
     # Mv "Chief, can I talk to you? Alone?"
-    Mv ""
+    Mv "Chef, est-ce que je peux vous parler ? Seuls ?"
 
 # game/chapter4.rpy:836
 translate french _call_skipcheck_20_9ecce85b:
 
     # Br stern b "We're quite busy here, Maverick. What is this about?"
-    Br stern b ""
+    Br stern b "On est assez occupés ici, Maverick. C'est à propos de quoi ?"
 
 # game/chapter4.rpy:838
 translate french _call_skipcheck_20_c479adbe:
 
     # Mv angry flip "Reza."
-    Mv angry flip ""
+    Mv angry flip "Reza."
 
 # game/chapter4.rpy:840
 translate french _call_skipcheck_20_049a33c3:
 
     # Br "Well, you're looking at the Reza task force, so if you have anything to say, you can say it in front of all of us."
-    Br ""
+    Br "Eh bien, tu as devant toi l'équipe d'intervention chargée de l'affaire Reza, donc si tu as quoi que ce soit à dire, tu peut nous le dire à tous."
 
 # game/chapter4.rpy:842
 translate french _call_skipcheck_20_908e3ef4:
 
     # Mv normal flip "I see."
-    Mv normal flip ""
+    Mv normal flip "Je vois."
 
 # game/chapter4.rpy:844
 translate french _call_skipcheck_20_ee09f12e:
 
     # Mv "I think I know where Reza is."
-    Mv ""
+    Mv "Je pense savoir où se trouve Reza."
 
 # game/chapter4.rpy:846
 translate french _call_skipcheck_20_dd57c811:
 
     # Br brow b "You know where Reza is at this very moment?"
-    Br brow b ""
+    Br brow b "Tu sais où se trouve Reza en ce moment même ?"
 
 # game/chapter4.rpy:848
 translate french _call_skipcheck_20_924b7163:
 
     # Mv "I have good reason to believe that I have located his hideout. He could still be there, or he might've already moved on."
-    Mv ""
+    Mv "J'ai de bonnes raisons de croire que j'ai trouvé sa planque. Il pourrait être toujours là bas, ou il pourrait déjà avoir bougé."
 
 # game/chapter4.rpy:850
 translate french _call_skipcheck_20_1455488a:
 
     # Br stern b "Damn, Maverick. Tell me everything."
-    Br stern b ""
+    Br stern b "Bordel, Maverick. Dis moi tous."
 
 # game/chapter4.rpy:852
 translate french _call_skipcheck_20_8a0faf93:
 
     # Mv "I've been tracking him for a while now."
-    Mv ""
+    Mv "Ca fait un moment que je le piste maintenant."
 
 # game/chapter4.rpy:854
 translate french _call_skipcheck_20_72660e75:
 
     # Mv "When he was at the portal a few days ago, I nearly got him and managed to follow him for a while before I lost him. Based on that, where he's been and where his victims have been found, I could triangulate his whereabouts."
-    Mv ""
+    Mv "Quand il était au portail il y a quelques jours, j'ai failli l'avoir et ai réussi à le suivre un moment avant de perdre sa trace. En me basant sur ça, où il a été et où ses victimes ont été trouvées, j'ai pu trianguler ses aller et venues."
 
 # game/chapter4.rpy:856
 translate french _call_skipcheck_20_6a6fb80d:
 
     # Mv "He has to live somewhere, right? He needs a base to hide the generators and everything he has stolen."
-    Mv ""
+    Mv "Il était obligé de vivre quelque part, pas vrai ? Il a besoin d'une base pour cacher les générateurs et tout ce qu'il a volé."
 
 # game/chapter4.rpy:860
 translate french _call_skipcheck_20_f7f83937:
 
     # m "Bryce cleared the clutter on a table and smoothed out a map of the town on its surface. It already had a few locations related to the case marked on it."
-    m ""
+    m "Bryce déblaya le désordre sur la table et déplia une carte de la ville sur sa surface. Il y avait déjà quelques lieux associés à l'affaire marqués dessus."
 
 # game/chapter4.rpy:862
 translate french _call_skipcheck_20_e816897e:
 
     # Br "Show it to me."
-    Br ""
+    Br "Montre moi."
 
 # game/chapter4.rpy:864
 translate french _call_skipcheck_20_1cf4c36e:
 
     # Mv "Prior victims were found here, and here. Today's was here. She was following him, likely because she wanted to save the eggs he stole. This is the path he took from the portal when I followed him a few days ago."
-    Mv ""
+    Mv "Les premières victimes ont été trouvées ici, et ici. Celle d'aujourd'hui était là. Elle le suivait, probablement parce qu'elle voulait sauver les œufs qu'il a volé. Ca, c'est le chemin qu'il a pris en partant du portail quand je l'ai suivi il y a quelque jours."
 
 # game/chapter4.rpy:866
 translate french _call_skipcheck_20_ff76eb13:
 
     # Mv "So we have established this as his area of operation. Extrapolate it and we can narrow it down to this. Now, where could he be hiding in this area?"
-    Mv ""
+    Mv "Donc nous avons établi ça comme étant sa zone d'opération. En extrapolant, on peut la réduire à cette zone. Maintenant, où pourrait-il se cache dans cette zone ?"
 
 # game/chapter4.rpy:868
 translate french _call_skipcheck_20_fe6f349c:
 
     # Mv "He's certainly not within the village borders, so unless he's decided to live in the wilderness or in a hole in the ground, the only option is here."
-    Mv ""
+    Mv "Il n'est certainement pas en bordure du village, donc à moins qu'il ait décidé de vivre dans les bois ou dans un trou à même le sol, la seule option est ici."
 
 # game/chapter4.rpy:870
 translate french _call_skipcheck_20_5007d1fd:
 
     # Br brow b "The abandoned farm."
-    Br brow b ""
+    Br brow b "La ferme abandonnée."
 
 # game/chapter4.rpy:872
 translate french _call_skipcheck_20_579bc805:
 
     # Br "When did you figure all of this out?"
-    Br ""
+    Br "Quand as-tu réalisé tout ça ?"
 
 # game/chapter4.rpy:874
 translate french _call_skipcheck_20_9c98b64d:
 
     # Mv "Just a few minutes ago. When I did, I immediately came here."
-    Mv ""
+    Mv "Il y a quelques minutes. Quand je m'en suis rendu compte, je suis venu immédiatement ici."
 
 # game/chapter4.rpy:876
 translate french _call_skipcheck_20_fd80a0b8:
 
     # Br stern b "Damnit, Maverick. This might be it."
-    Br stern b ""
+    Br stern b "Putain, Maverick. Ca pourrait être ça."
 
 # game/chapter4.rpy:878
 translate french _call_skipcheck_20_be0d0bcc:
 
     # Sb "Should we send an observation team?"
-    Sb ""
+    Sb "Devrions nous envoyer une équipe de reconnaissance ?"
 
 # game/chapter4.rpy:880
 translate french _call_skipcheck_20_0bc1e117:
 
     # Br "As if we had one to spare. Heck, we're going there right now."
-    Br ""
+    Br "Comme si on pouvait en gâcher une. Fait chier, on y va sur le champs."
 
 # game/chapter4.rpy:882
 translate french _call_skipcheck_20_03586b86:
 
     # Br "What about you, Maverick?"
-    Br ""
+    Br "Et toi, Maverick ?"
 
 # game/chapter4.rpy:884
 translate french _call_skipcheck_20_88a8ab82:
 
     # Mv "I'm still on sick leave, remember?"
-    Mv ""
+    Mv "Je suis toujours en arrêt maladie, vous vous souvenez ?"
 
 # game/chapter4.rpy:886
 translate french _call_skipcheck_20_fc856fa4:
 
     # Mv "Besides, if I saw Reza right now, I'd probably do something I shouldn't."
-    Mv ""
+    Mv "De plus, si je vois Reza maintenant, je vais probablement faire quelque chose de déraisonnable."
 
 # game/chapter4.rpy:888
 translate french _call_skipcheck_20_0580c488:
 
     # Br brow b "How about you, [player_name]?"
-    Br brow b ""
+    Br brow b "Et toi, [player_name] ?"
 
 # game/chapter4.rpy:890
 translate french _call_skipcheck_20_4a29cfe6:
 
     # c "Isn't this going to be dangerous?"
-    c ""
+    c "Est-ce que ça va être dangereux ?"
 
 # game/chapter4.rpy:892
 translate french _call_skipcheck_20_92bf8802:
 
     # Br stern b "Reza probably won't harm you, as you're the only one he could possibly consider an ally."
-    Br stern b ""
+    Br stern b "Reza ne te fera probablement pas de mal, comme tu es le seul qu'il pourrait considérer comme un allier."
 
 # game/chapter4.rpy:894
 translate french _call_skipcheck_20_feed6cdd:
 
     # c "Good point."
-    c ""
+    c "Bon point."
 
 # game/chapter4.rpy:898
 translate french c4skip1_5f67361e:
 
     # Sb "If anything - with you there, we might be able to convince him to give up. Or we could act like we intend to trade you for the eggs if he tries to use them as a bargaining chip."
-    Sb ""
+    Sb "S'il se passe quelque chose - avec toi là bas, on pourrait être capable de le convaincre d'abandonner. Ou on pourrait faire comme si on avait l'intention de t'échanger contre les œufs s'il essaye de les utiliser comme monnaie d'échange."
 
 # game/chapter4.rpy:900
 translate french c4skip1_5dd5c767:
 
     # c "You're not really going to use me as ransom, right?"
-    c ""
+    c "Tu ne vas pas vraiment m'utiliser comme rançon, pas vrai ?"
 
 # game/chapter4.rpy:902
 translate french c4skip1_255f1f01:
 
     # Sb "We'll see about that."
-    Sb ""
+    Sb "On verra."
 
 # game/chapter4.rpy:904
 translate french c4skip1_5c9e8fe2:
 
     # c "I suppose if it's necessary, I'll have to play along."
-    c ""
+    c "Je suppose que si c'est nécessaire, je devrais jouer le jeu."
 
 # game/chapter4.rpy:906
 translate french c4skip1_b1e02ef0:
 
     # Br "I've got your back. If there's one thing we could do to make this whole situation even worse, it would be messing up with you."
-    Br ""
+    Br "Je couvre tes arrières. S'il y a ne serait-ce qu'une chose à faire pour empirer la situation, ce serait de te mettre en danger."
 
 # game/chapter4.rpy:908
 translate french c4skip1_7f92e255:
 
     # Sb "We have the element of surprise if we walk into his base right now, but we risk Reza lashing out with his weapon. If we want to resolve this peacefully, observation is probably the way to go."
-    Sb ""
+    Sb "Nous avons l'élément de surprise si nous pénétrons maintenant dans sa base, mais on prend le risque que Reza se déchaîne avec son arme. Si nous voulons résoudre ça de façon pacifique, observer sera probablement la meilleure méthode."
 
 # game/chapter4.rpy:910
 translate french c4skip1_412f364a:
 
     # Br brow b "I guess we won't need [player_name] there for that, though."
-    Br brow b ""
+    Br brow b "Je pense que nous n'aurons pas besoin de [player_name] là bas, cependant."
 
 # game/chapter4.rpy:912
 translate french c4skip1_38fc57d0:
 
     # Sb "True enough."
-    Sb ""
+    Sb "C'est pas faux."
 
 # game/chapter4.rpy:914
 translate french c4skip1_8678b9a0:
