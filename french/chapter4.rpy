@@ -628,265 +628,265 @@ translate french c4skip1_38fc57d0:
 translate french c4skip1_8678b9a0:
 
     # Br stern b "Alright, [player_name], you stay here and wait for further instructions. We may need you at a moment's notice. Don't do anything without us telling you to, understand?"
-    Br stern b ""
+    Br stern b "D'accord, [player_name], tu restes ici et attends les prochaines instructions. On pourrait avoir besoin de toi à un moment donné. Ne fais rien sans que nous t'en ayons donné l'ordre, compris ?"
 
 # game/chapter4.rpy:916
 translate french c4skip1_fe5f3366:
 
     # c "Okay."
-    c ""
+    c "Compris."
 
 # game/chapter4.rpy:918
 translate french c4skip1_23a10af5:
 
     # Br "Alright, then. Let's go, Sebastian."
-    Br ""
+    Br "C'est bon, alors. On y va Sébastien."
 
 # game/chapter4.rpy:920
 translate french c4skip1_12cd39ea:
 
     # Sb "After you, Chief."
-    Sb ""
+    Sb "Je suis derrière vous Chef."
 
 # game/chapter4.rpy:922
 translate french c4skip1_39ab42ae:
 
     # Br "And Maverick: Good job."
-    Br ""
+    Br "Et Maverick: Bon boulot."
 
 # game/chapter4.rpy:924
 translate french c4skip1_ce05f316:
 
     # Mv "Thanks, Chief."
-    Mv ""
+    Mv "Merci Chef."
 
 # game/chapter4.rpy:942
 translate french c4skip1_c3ed151e:
 
     # m "Shortly after they vanished, Maverick also turned to leave."
-    m ""
+    m "Peu après être partis, Maverick s'apprêta à faire de même."
 
 # game/chapter4.rpy:974
 translate french c4skip1_ff1eb4c1:
 
     # c "Wait."
-    c ""
+    c "Attend."
 
 # game/chapter4.rpy:978
 translate french c4skip1_99aaff0c:
 
     # m "He stopped and waited for a few seconds."
-    m ""
+    m "Il s'arrêta et attendit quelques secondes."
 
 # game/chapter4.rpy:980
 translate french c4skip1_ea977812:
 
     # Mv "What do you want from me?"
-    Mv ""
+    Mv "Qu'est-ce que tu me veux ?"
 
 # game/chapter4.rpy:982
 translate french c4skip1_d8194104:
 
     # c "Do you have something against humans in general, or is it just Reza and me? Do you think you are superior to us because of your wings, and teeth, and claws? Your fire?"
-    c ""
+    c "Es-ce que tu as quelque chose contre les humains en général, ou juste contre Reza et moi ? Tu te crois supérieur à nous de par tes ailes, tes dents et tes griffes ? Ou bien ton feu ?"
 
 # game/chapter4.rpy:984
 translate french c4skip1_10e76bf9:
 
     # c "Or is it just jealousy or projected hate?"
-    c ""
+    c "Ou est-ce juste de la jalousie ou une projection de ta haine ?"
 
 # game/chapter4.rpy:986
 translate french c4skip1_14ae27a4:
 
     # c "I know the first day I met you, you were all hung up on people paying attention to us because we're human."
-    c ""
+    c "Je sais que le premier jour quand je t'ai rencontré, tu te plaignais des gens qui nous donnait de l'attention parce que nous étions humain."
 
 # game/chapter4.rpy:988
 translate french c4skip1_8a37c614:
 
     # c "I can assure you, there's nothing about us to be jealous about. Our world is a wasteland."
-    c ""
+    c "Je peux t'assurer qu'il n'y a paas de quoi être jaloux à notre sujet. Notre monde est une terre désolée."
 
 # game/chapter4.rpy:990
 translate french c4skip1_d848bfa0:
 
     # m "He closed the door before he turned back around to face me."
-    m ""
+    m "Il ferma la porte avant de se retourner et de me faire face."
 
 # game/chapter4.rpy:1006
 translate french c4skip1_251d100a:
 
     # Mv "You're really playing that innocent role, aren't you? Now you're offering yourself as a bargaining chip for Reza. At this rate, even I might start to believe you if I didn't have reason not to."
-    Mv ""
+    Mv "Tu es vraiment en train de faire l'innocent, n'est-ce pas ? Et maintenant tu t'offres comme monnaie d'échange pour Reza. A ce rythme, même moi j'aurais pu commencer à te croire si je n'avais pas de raisons de me méfier."
 
 # game/chapter4.rpy:1008
 translate french c4skip1_7631c61d:
 
     # c "If I were with Reza, it would have been much easier for me to pull a gun on you, too, the day you were shot. But I didn't even bring one when I came through the portal."
-    c ""
+    c "Si j'étais avec Reza, ça aurait été beaucoup plus facile pour moi de pointer un flingue sur toi, le jour où tu t'es fais tirer desus. Mais je n'en ai même pas ammené un quand j'ai traversé le portail."
 
 # game/chapter4.rpy:1010
 translate french c4skip1_12c7e112:
 
     # Mv "Plausible deniability. Or, as we like to say, good cop, bad cop."
-    Mv ""
+    Mv "Démenti plausible. Ou, comme on aime bien l'appeler, bon flic, mauvais flic."
 
 # game/chapter4.rpy:1012
 translate french c4skip1_68652ae0:
 
     # Mv "If Reza's plan fails, you and the rest of humanity can disavow Reza's actions as his own and still go through with the trade as agreed, and Reza would be dealt with however."
-    Mv ""
+    Mv "Si les plans de Reza échouent, toi et le reste de l'humanité peuvent désaprouver les actions de Reza, considéré comme agissant de son propre chef, et conclure l'échange malgré tout, et le cas de Reza serait réglé d'une façon ou d'une autre."
 
 # game/chapter4.rpy:1014
 translate french c4skip1_8b3db11a:
 
     # Mv angry flip "Yet if Reza's plan succeeds, you will have given us nothing and still have gained what you wanted."
-    Mv angry flip ""
+    Mv angry flip "Mais si le plan de Reza est un succès, vous nous aurez rien donné et obtenu ce que vous vouliez."
 
 # game/chapter4.rpy:1016
 translate french c4skip1_f21c065f:
 
     # c "If Reza got away, you'd still have me, though."
-    c ""
+    c "Si Reza s'enfuyait, vous m'auriez toujours, cependant."
 
 # game/chapter4.rpy:1018
 translate french c4skip1_df92bd6e:
 
     # Mv normal flip "If your world is a wasteland, don't you think losing you is a price they would gladly pay?"
-    Mv normal flip ""
+    Mv normal flip "Si ton monde est en ruine, ne penses-tu pas que te perdre est un prix qu'ils paieraient volontiers ?"
 
 # game/chapter4.rpy:1020
 translate french c4skip1_0d60eb66:
 
     # m "Maverick's words made me think. Did I really have the complete picture before I stepped through the portal?"
-    m ""
+    m "Les mots de Maverick me firent réfléchir. Est-ce que j'avais le portrait complet de la situation avant de traverser le portail ?"
 
 # game/chapter4.rpy:1022
 translate french c4skip1_27ddb425:
 
     # c "I guess that would explain why I got the job in the first place."
-    c ""
+    c "Ca pourrait expliquer pourquoi j'ai eu le poste en premier lieu."
 
 # game/chapter4.rpy:1024
 translate french c4skip1_2ff9ded2:
 
     # Mv "Besides, Reza only stole the things humanity wants, so he's clearly not just doing this for himself."
-    Mv ""
+    Mv "De plus, Reza n'a volé que les choses que l'humanité voulaient, donc il ne fait pas ça juste pour lui."
 
 # game/chapter4.rpy:1026
 translate french c4skip1_4afb9a8b:
 
     # c "His actions only started after that confrontation with you, though. Maybe none of this was planned."
-    c ""
+    c "Ses actions n'ont débuté qu'après la confrontation qu'il a eu avec toi. Peut être que rien de tout ça n'était plannifié."
 
 # game/chapter4.rpy:1028
 translate french c4skip1_bfdf8715:
 
     # Mv angry flip "Don't be stupid. Do you think I have forgotten about the secret message he sent you?"
-    Mv angry flip ""
+    Mv angry flip "Ne sois pas idiot. Tu crois que j'avais oublié au sujet du message secret qu'il t'a envoyé ?"
 
 # game/chapter4.rpy:1030
 translate french c4skip1_d3c1e030:
 
     # c "I still don't know what he would have told me that day if you hadn't interrupted us."
-    c ""
+    c "Je ne sais toujours pas ce qu'il m'aurait dit ce jour là si tu ne nous avais pas interrompu."
 
 # game/chapter4.rpy:1032
 translate french c4skip1_45c9e557:
 
     # Mv normal flip "He wanted to discuss his plans with you."
-    Mv normal flip ""
+    Mv normal flip "Il voulais discuter de son plan avec toi."
 
 # game/chapter4.rpy:1034
 translate french c4skip1_4dd81fc4:
 
     # Mv "Only after I found out about the secret message he sent to you did I realize that all the messages sent back and forth between the portals could have been similar, even before your arrival."
-    Mv ""
+    Mv "C'est seulement après avoir découvert à propos du message secret qu'il t'a envoyé que j'ai réalisé que tout les messages échangés à travers le portail pouvaient être similaires, même avant ton arrivée."
 
 # game/chapter4.rpy:1036
 translate french c4skip1_84c7daaf:
 
     # Mv "When the police searched Reza's apartment, of course none of these older letters could be found."
-    Mv ""
+    Mv "Quand la police a fouillé l'appartement de Reza, bien sûr aucune de ces lettres n'étaient trouvables."
 
 # game/chapter4.rpy:1038
 translate french c4skip1_a8efa75a:
 
     # c "Those did not have any secret messages."
-    c ""
+    c "Celles là n'avaient pas de messages secrets."
 
 # game/chapter4.rpy:1040
 translate french c4skip1_310dc4f4:
 
     # Mv "Is that so?"
-    Mv ""
+    Mv "Tu en es sûre ?"
 
 # game/chapter4.rpy:1042
 translate french c4skip1_c15fc206:
 
     # c "None that I knew of, at least. When he sent me that secret message, I initially had no idea how to read it."
-    c ""
+    c "Pas que je sache, en tout cas. Quand il m'a envoyé ce message secret, Je n'avais aucune idée de comment le lire à la base."
 
 # game/chapter4.rpy:1044
 translate french c4skip1_d8bc389b:
 
     # Mv "But you knew it was a secret message?"
-    Mv ""
+    Mv "Mais tu savais que c'était un message secret ?"
 
 # game/chapter4.rpy:1046
 translate french c4skip1_26eefe0a:
 
     # c "Yes."
-    c ""
+    c "Oui."
 
 # game/chapter4.rpy:1048
 translate french c4skip1_ed250c01:
 
     # Mv "But that is not true for messages he sent before you came through the portal?"
-    Mv ""
+    Mv "Mais ce n'est pas vrai pour les messages qu'il a envoyé avant que tu ne traverses le portail ?"
 
 # game/chapter4.rpy:1050
 translate french c4skip1_3d1f8279:
 
     # c "I don't think so."
-    c ""
+    c "Je ne crois pas."
 
 # game/chapter4.rpy:1052
 translate french c4skip1_2bbde553:
 
     # Mv "Maybe those messages weren't intended for you, then."
-    Mv ""
+    Mv "Peut être que ces messages ne t'étaient pas destinés, alors."
 
 # game/chapter4.rpy:1054
 translate french c4skip1_2bb448a6:
 
     # c "We're not that different, you know."
-    c ""
+    c "On est pas si différent, tu sais."
 
 # game/chapter4.rpy:1056
 translate french c4skip1_16dff851:
 
     # Mv "What are you talking about?"
-    Mv ""
+    Mv "De quoi parles-tu ?"
 
 # game/chapter4.rpy:1058
 translate french c4skip1_47f78dd4:
 
     # m "I reached into my pocket."
-    m ""
+    m "Je mis la main dzns ma poche."
 
 # game/chapter4.rpy:1060
 translate french c4skip1_9d592bb3:
 
     # c "(I still have that? I don't know how long it's been...)"
-    c ""
+    c "(J'ai toujours ça ? Je ne sais pas depuis combien de temps c'est là...)"
 
 # game/chapter4.rpy:1064
 translate french c4skip1_9a40e229:
 
     # m "I pulled out the wrinkled piece of paper and showed it to him."
-    m ""
+    m "Je sortis la feuille froissée et lui montra."
 
 # game/chapter4.rpy:1066
 translate french c4skip1_866bf063:
