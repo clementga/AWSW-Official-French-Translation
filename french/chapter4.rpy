@@ -892,193 +892,193 @@ translate french c4skip1_9a40e229:
 translate french c4skip1_866bf063:
 
     # c "According to these test results, humans and dragons show remarkable similarities for different species from different evolutionary lines and completely different worlds."
-    c ""
+    c "D'après ces résultats d'analyse, les humains et les dragons montrent des similitudes remarquables pour différentes espèces provenant de différentes branches évolutives et de mondes complètement différents."
 
 # game/chapter4.rpy:1068
 translate french c4skip1_4f0f468a:
 
     # Mv angry flip "Why do you think I care about that? It wouldn't make a damn difference to me if other dragons came through the portal instead of humans."
-    Mv angry flip ""
+    Mv angry flip "Pourquoi tu penses que j'en ai quelque chose à faire ? Ca ne ferait aucune putain de différence pour moi si c'était d'autres dragons qui avaient traversé le portail à la place des humains."
 
 # game/chapter4.rpy:1070
 translate french c4skip1_f28270cc:
 
     # Mv "I was the only one who followed Reza and knew something was off, but all of my concerns were swept away in the wind."
-    Mv ""
+    Mv "J'étais le seul à suivre Reza et je savais que quelque chose ne tournait pas rond, mais toutes mes inquiétudes étaient balalyées d'un revers."
 
 # game/chapter4.rpy:1072
 translate french c4skip1_fc47db34:
 
     # Mv "It was never about you being humans. It's about my people not hearing my pleas, and the leniency they were willing to show you, all in the name of fostering this diplomatic relationship."
-    Mv ""
+    Mv "Il n'a jamais été question du fait que vous soyez humains. C'est à propos de mon peuple qui n'entendait pas mon plaidoyer, et de son laxisme à votre égard, le tout au nom de la promotion de cette relation diplomatique."
 
 # game/chapter4.rpy:1074
 translate french c4skip1_f56b0d9c:
 
     # Mv "But you two came in here and strutted around like you owned the place as you tore my home apart. The blood of those who died is on the hands of everyone who allowed this to happen."
-    Mv ""
+    Mv "Mais tous les deux êtes venus et vous êtes pavanés comme si vous déteniez l'endroit tandis que vous mettiez mon chez moi à sac. Le sang de ceux qui sont mort sont sur les mains de ceux qui on laissé ça arriver."
 
 # game/chapter4.rpy:1076
 translate french c4skip1_794c0e23:
 
     # Mv normal flip "If they had listened to me in the first place, maybe I'd have caught Reza that day I was wounded, and things would look very different right now."
-    Mv normal flip ""
+    Mv normal flip "S'ils m'avaient écouté en premiers lieux, peut être que j'aurais attrapé Reza le jour où j'ai été blessé, et les choses seraient très différentes maintenant."
 
 # game/chapter4.rpy:1078
 translate french c4skip1_d5028011:
 
     # c "I agree."
-    c ""
+    c "Je suis d'accord."
 
 # game/chapter4.rpy:1080
 translate french c4skip1_847fed5d:
 
     # Mv angry flip "Then why do you blame me for suspecting you?"
-    Mv angry flip ""
+    Mv angry flip "Alors, pourquoi tu me reproches de te suspecter ?"
 
 # game/chapter4.rpy:1082
 translate french c4skip1_ed09eaca:
 
     # c "All this time I've just been helping the police."
-    c ""
+    c "Tout ce temps j'ai juste aidé la police."
 
 # game/chapter4.rpy:1084
 translate french c4skip1_1979600c:
 
     # Mv "So have I."
-    Mv ""
+    Mv "Tout comme moi."
 
 # game/chapter4.rpy:1086
 translate french c4skip1_04725516:
 
     # Mv normal flip "Maybe they'll finally catch Reza and we'll see how all of this turns out."
-    Mv normal flip ""
+    Mv normal flip "Peut être qu'ils finiront par l'attrapper et on verra comment tout cela se terminera."
 
 # game/chapter4.rpy:1088
 translate french c4skip1_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/chapter4.rpy:1090
 translate french c4skip1_0ce08272:
 
     # Mv nice flip "Wait a minute, you had Anna perform these tests for you?"
-    Mv nice flip ""
+    Mv nice flip "Attends une minute, Anna a réalisé des tests pour toi ?"
 
 # game/chapter4.rpy:1092
 translate french c4skip1_96466165:
 
     # c "It was more the other way around. She was the one who wanted to study my blood."
-    c ""
+    c "C'était plutôt dans l'autre sens. C'était elle qui coulait étudier mon sang."
 
 # game/chapter4.rpy:1094
 translate french c4skip1_4fd64cfd:
 
     # Mv normal flip "Suddenly, I'm not surprised that you had these tests done. She can be ruthless when she wants something."
-    Mv normal flip ""
+    Mv normal flip "D'un coup, je ne suis plus surpris que tu aies eu ces tests. Elle peut être inplacable quand elle veut quelque chose. "
 
 # game/chapter4.rpy:1096
 translate french c4skip1_6ab9752d:
 
     # Mv "What did she do to get your blood?"
-    Mv ""
+    Mv "Qu'est-ce qu'elle a fait pour obtenir ton sang ?"
 
 # game/chapter4.rpy:1098
 translate french c4skip1_32681fbf:
 
     # c "She asked nicely for it."
-    c ""
+    c "Elle m'a demandé gentiment."
 
 # game/chapter4.rpy:1100
 translate french c4skip1_432b057c:
 
     # Mv "..."
-    Mv ""
+    Mv "..."
 
 # game/chapter4.rpy:1102
 translate french c4skip1_432b057c_1:
 
     # Mv "..."
-    Mv ""
+    Mv "..."
 
 # game/chapter4.rpy:1104
 translate french c4skip1_7767daff:
 
     # Mv nice flip "..."
-    Mv nice flip ""
+    Mv nice flip "..."
 
 # game/chapter4.rpy:1108
 translate french c4skip1_dceaf7a0:
 
     # Mv "HAHAHAHAHAHAHAHA!" with Shake((0, 0, 0, 0), 3, dist=30)
-    Mv "" with Shake((0, 0, 0, 0), 3, dist=30)
+    Mv "HAHAHAHAHAHAHAHA !" with Shake((0, 0, 0, 0), 3, dist=30)
 
 # game/chapter4.rpy:1110
 translate french c4skip1_ea6bab27:
 
     # Mv "She asked nicely?"
-    Mv ""
+    Mv "Elle t'a demandé gentiment ?"
 
 # game/chapter4.rpy:1112
 translate french c4skip1_b1a2fe48:
 
     # Mv "Nothing else in this world right now could be worth more than samples of your blood. And you just gave them to her."
-    Mv ""
+    Mv "Rien au monde n'a plus de valeur que des echantillons de ton sang. Et tu les lui as donné comme ça, sans rien en retour."
 
 # game/chapter4.rpy:1114
 translate french c4skip1_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/chapter4.rpy:1116
 translate french c4skip1_cfe089ff:
 
     # Mv nice flip "You know what? Maybe I was wrong."
-    Mv nice flip ""
+    Mv nice flip "Tu sais quoi ? Peut être que j'avais tord."
 
 # game/chapter4.rpy:1118
 translate french c4skip1_7d428300:
 
     # Mv "Even if humanity and Reza have cooked up a crazy plan, and even if they are willing to sacrifice either of you for their own gain, maybe you really have nothing to do with it."
-    Mv ""
+    Mv "Même si l'humanité et Reza ont préparé un plan dément, et même s'ils te sacrifient volontiers pour leur propre intérêt, peut être que tu n'as rien à voir avec ça."
 
 # game/chapter4.rpy:1120
 translate french c4skip1_419ea041:
 
     # Mv normal flip "Maybe you are just clueless."
-    Mv normal flip ""
+    Mv normal flip "Peut être que tu es juste naïf."
 
 # game/chapter4.rpy:1122
 translate french c4skip1_d7633b91:
 
     # Mv "It doesn't really matter much, though. After all, you have nothing to gain from me if I change my opinion of you."
-    Mv ""
+    Mv "Ca n'a plus vraiment d'importance, cependant. Après tout, tu n'as rien à gagner si je change mon opinion à ton sujet."
 
 # game/chapter4.rpy:1124
 translate french c4skip1_f0d54754:
 
     # Mv "To me, proof is the only thing that really matters, so my feelings on the issue are not important."
-    Mv ""
+    Mv "Pour moi, les preuves sont les seules choses qui importent, donc mes sentiments sur la question ne sont pas importants."
 
 # game/chapter4.rpy:1126
 translate french c4skip1_4eace275:
 
     # Mv "If you work with the police long enough, you just learn to take things as they are."
-    Mv ""
+    Mv "Si tu travailles dans la police assez longtemps, tu apprends à prendre les choses comme elles sont."
 
 # game/chapter4.rpy:1128
 translate french c4skip1_547e090c:
 
     # Mv "Maybe with you, I'll have to admit that I was wrong."
-    Mv ""
+    Mv "Peut être qu'avec toi, je dois admettre que j'avais tord."
 
 # game/chapter4.rpy:1130
 translate french c4skip1_f537bbc1:
 
     # Mv "But I won't ever stop looking for those who are responsible for this, and if I find them, I will show no mercy."
-    Mv ""
+    Mv "Mais je ne m'arrêterais pas de chercher ceux qui sont responsables de ça, et si je les trouve, je serai sans pitié."
 
 # game/chapter4.rpy:1167
 translate french passontestresults_075321ef:
