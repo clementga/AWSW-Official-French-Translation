@@ -1084,397 +1084,397 @@ translate french c4skip1_f537bbc1:
 translate french passontestresults_075321ef:
 
     # m "Then I had to wait. Bryce and Sebastian were observing the farm now, and if anything new happened, I would be the first to know."
-    m ""
+    m "Alors je dus patienter. Bryce et Sébastien étaient en train d'observer la ferme à présent, et si quoi que ce soit de nouveau arrivait, je serais le premier informé."
 
 # game/chapter4.rpy:1169
 translate french passontestresults_c5226063:
 
     # m "I spent some time looking around Bryce's office, studying all the material he had gathered about the case, though there wasn't any information that I didn't already know."
-    m ""
+    m "Je passai le temps à explorer le bureau de Bryce, étudiant tout les éléments que nous avions collectés sur l'affaire, bien qu'il n'y avait aucune information que je ne susse déjà."
 
 # game/chapter4.rpy:1173
 translate french passontestresults_aab97f3a:
 
     # m "After a few hours, the telephone in his office rang, and not sure whether the call was intended for me or Bryce, I picked up."
-    m ""
+    m "Après quelques heures, le téléphone sur son bureau sonna, et incertain de si l'appel était pour moi ou Bryce, je décrochai."
 
 # game/chapter4.rpy:1179
 translate french passontestresults_5f417ce0:
 
     # Br "[player_name]?"
-    Br ""
+    Br "[player_name] ?"
 
 # game/chapter4.rpy:1181
 translate french passontestresults_26eefe0a:
 
     # c "Yes."
-    c ""
+    c "Oui."
 
 # game/chapter4.rpy:1183
 translate french passontestresults_ab4e864a:
 
     # Br "I think you need to come here. I'll give you the directions."
-    Br ""
+    Br "Je crois que tu dois rappliquer. Je vais te donner l'itinéraire."
 
 # game/chapter4.rpy:1185
 translate french passontestresults_bd805a76:
 
     # c "No problem."
-    c ""
+    c "Pas de problème."
 
 # game/chapter4.rpy:1197
 translate french passontestresults_a33e0fb6:
 
     # Br "There you are."
-    Br ""
+    Br "Te voilà"
 
 # game/chapter4.rpy:1199
 translate french passontestresults_96ecbbcb:
 
     # c "So, what happened?"
-    c ""
+    c "Alors, que s'est-il passé ?"
 
 # game/chapter4.rpy:1201
 translate french passontestresults_a7a20cba:
 
     # Br stern b "A whole lot of nothing. There was no movement to or from the building in the time we've been watching."
-    Br stern b ""
+    Br stern b "Un bon paquet de rien. Il n'y avait aucun mouvement à l'intérieur ou à l'extérieur du bâtiment durant tout le temps où l'on a observé."
 
 # game/chapter4.rpy:1207
 translate french passontestresults_4b803f31:
 
     # Sb "He usually operates during the night, so maybe he's just asleep?"
-    Sb ""
+    Sb "Il agit habituellement durant la nuit, donc peut être qu'il est juste endormi ?"
 
 # game/chapter4.rpy:1209
 translate french passontestresults_d0c2cf03:
 
     # Br "In that case, it would be best for us to go in before he has a chance to make his escape."
-    Br ""
+    Br "Dans ce cas, le mieux pour nous serait d'entrer avant qu'il ait une chance de s'échapper."
 
 # game/chapter4.rpy:1211
 translate french passontestresults_ae5f8852:
 
     # Sb "Or maybe he's not even in there anymore. He could've seen us and slipped away unnoticed, with plenty of time to destroy the evidence while we've been waiting here."
-    Sb ""
+    Sb "Ou peut être qu'il n'est même plus là. Il pourrait nous avoir vu et s'eclipser sans être vu, avec tout le temps nécessaire pour détruire les preuves tandis que nous avons attendu ici."
 
 # game/chapter4.rpy:1213
 translate french passontestresults_c006bc6e:
 
     # Br "You're right. Either he's still inside, or he's already gone and not coming back. Let's go in."
-    Br ""
+    Br "Tu as raison. Soit il est toujours à l'intérieur, soit il est déjà parti et ne reviendra pas. Allons à l'intérieur."
 
 # game/chapter4.rpy:1215
 translate french passontestresults_62db154d:
 
     # c "What should I do?"
-    c ""
+    c "qu'est-ce que je devrais faire ?"
 
 # game/chapter4.rpy:1217
 translate french passontestresults_d05fe6d6:
 
     # Br "You're coming with me. Sebastian, you walk around and watch the back of the building, just in case he tries to escape."
-    Br ""
+    Br "Tu viens avec moi. Sébastien, tu fais le tour et observe l'arrière du bâtiment, juste au cas où il essaye de s'échapper."
 
 # game/chapter4.rpy:1219
 translate french passontestresults_06efa856:
 
     # Sb "I'm on it, Chief."
-    Sb ""
+    Sb "Je suis sur le coup, Chef."
 
 # game/chapter4.rpy:1243
 translate french c4brycegood_f356dd4f:
 
     # Br "So, we have two options here. The first is that you stay here and I go inside."
-    Br ""
+    Br "En clair, nous avons deux options ici. La première est que toi tu restes ici et moi je rentre à l'intérieur."
 
 # game/chapter4.rpy:1245
 translate french c4brycegood_205df399:
 
     # Br "This way, if Reza tries to flee and sees you, it might throw him off. You might be able to stop him. Or if we get into a standoff, I can tell him you're here as well."
-    Br ""
+    Br "De cette manière, si Reza essaye de s'enfuir et te vois, ça pourrait le couper dans son élan. Tu pourrais être capable de l'arrêter. Ou si on tombe dans une impasse, je peux lui dire que tu es également ici."
 
 # game/chapter4.rpy:1247
 translate french c4brycegood_734e64be:
 
     # c "And the second?"
-    c ""
+    c "Et la seconde ?"
 
 # game/chapter4.rpy:1249
 translate french c4brycegood_cd4809df:
 
     # Br "You go in first, and I follow you."
-    Br ""
+    Br "Tu rentres en premier et je te suis."
 
 # game/chapter4.rpy:1251
 translate french c4brycegood_1c011b78:
 
     # Br "This way, if we find him, maybe we can resolve things peacefully. You might be able to talk to him, and even if it doesn't work out, you've got me and Sebastian nearby to stop him."
-    Br ""
+    Br "De cette manière, si on le trouve, peut être qu'on peut résoudre ça sans violence. Tu pourrais lui parler, et même si ça ne fonctionne pas, tu nous as moi et Sébastien à proximité pour l'arrêter."
 
 # game/chapter4.rpy:1253
 translate french c4brycegood_bec432f9:
 
     # Br "I don't think he's planning to harm you on sight, and if we can hear things starting to go wrong, we might still be able to surprise him."
-    Br ""
+    Br "Je ne pense pas qu'il ait prévu de t'attaquer à vu, et si on entend que ça tourne mal, on pourrait toujours être capable de le prendre par surprise."
 
 # game/chapter4.rpy:1255
 translate french c4brycegood_c4f7ab31:
 
     # c "So, either way we take him by surprise. I just have the option of talking to him first."
-    c ""
+    c "Donc, d'une manière ou d'une autre, on le prend par surprise. J'ai juste l'option de lui parler avant."
 
 # game/chapter4.rpy:1257
 translate french c4brycegood_d897d4e0:
 
     # Br "I think you could pull it off. Maybe, if you're there, he won't act as irrationally as he would if I was suddenly standing in front of him. I'm not going to force you if you don't want to do it, though."
-    Br ""
+    Br "Je pense que tu pourrais y arriver. Peut être que si tu es là, il n'agira pas de manière aussi irrationnelle que si je me tenais soudainement en face de lui. Je ne vais pas te forcer si tu ne veux pas le faire, cependant."
 
 # game/chapter4.rpy:1263
 translate french c4brycegood_de01d55d:
 
     # Br "Alright, let's go."
-    Br ""
+    Br "D'accord, allons y."
 
 # game/chapter4.rpy:1270
 translate french c4brycegood_467820d0:
 
     # Br "Alright."
-    Br ""
+    Br "D'accord."
 
 # game/chapter4.rpy:1281
 translate french c4brycegood_90777ac2:
 
     # Br "I go in, and you stay here, alright?"
-    Br ""
+    Br "Je rentre , et tu restes ici, compris ?"
 
 # game/chapter4.rpy:1283
 translate french c4brycegood_d5d96268:
 
     # c "What am I even here for, then?"
-    c ""
+    c "Qu'est-ce que je fais ici, alors ?"
 
 # game/chapter4.rpy:1285
 translate french c4brycegood_a1809cef:
 
     # Br "You're our insurance. If Reza tries to flee and sees you, it might throw him off. You might be able to stop him."
-    Br ""
+    Br "Tu es notre assurance. Si Reza essaye de fuir et te voit, ça pourrait le couper dans son élan. Tu pourrais peut être l'arrêter."
 
 # game/chapter4.rpy:1287
 translate french c4brycegood_57eefef0:
 
     # Br "Or if we get into a standoff, I can tell him you're here as well. I just don't want you to come inside when it could become dangerous."
-    Br ""
+    Br "Ou si on tombe dans une impasse, je peux lui dire que tu es ici également. Je ne veux juste pas que tu ailles à l'intérieur quand ça pourrait devenir dangereux."
 
 # game/chapter4.rpy:1295
 translate french c4brycegood_1a07bfbf:
 
     # Br brow b "Why?"
-    Br brow b ""
+    Br brow b "Pourquoi ?"
 
 # game/chapter4.rpy:1297
 translate french c4brycegood_2377b934:
 
     # c "Maybe I can talk to him, and we can figure things out. I don't think he wants to kill me, so even if it doesn't work out, Sebastian and you will still be nearby to catch him."
-    c ""
+    c "Peut être que je peux lui parler, et tirer les choses au clair avec lui. Je ne pense pas qu'il veuille me tuer, donc même si ça ne marche pas, Sébastien et toi serez pas loin pour l'attraper."
 
 # game/chapter4.rpy:1301
 translate french c4brycegood_88594f0c:
 
     # Br stern b "I'll be right behind you, then. But do be careful."
-    Br stern b ""
+    Br stern b "Je serais juste derrière toi, alors. Mais fait attention."
 
 # game/chapter4.rpy:1307
 translate french c4brycegood_88594f0c_1:
 
     # Br stern b "I'll be right behind you, then. But do be careful."
-    Br stern b ""
+    Br stern b "Je serais juste derrière toi, alors. Mais fait attention."
 
 # game/chapter4.rpy:1313
 translate french c4brycegood_55531289:
 
     # Br stern b "That's a very good point and all, but it's just too dangerous for you to go inside. I can't let anything happen to you, so we'll do it as I said."
-    Br stern b ""
+    Br stern b "C'est un bon argument certes, mais c'est trop dangereux pour toi d'aller dedans. Je ne peux pas me permettre qu'il ne t'arrive quelque chose, donc on fera comme j'ai dit."
 
 # game/chapter4.rpy:1315
 translate french c4brycegood_c72770b5:
 
     # Br "Wait here."
-    Br ""
+    Br "Attend ici."
 
 # game/chapter4.rpy:1368
 translate french _call_syscheck_74_eae28cb7:
 
     # s "Analyzing timeline.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Analyse de la timeline.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1372
 translate french _call_syscheck_74_2aaff354:
 
     # s "Creation of new timeline successful. The corruption has been cleared."
-    s ""
+    s "Nouvelle time line crée avec succès. La corruption a été effacée."
 
 # game/chapter4.rpy:1376
 translate french _call_syscheck_74_86cd38c2:
 
     # s "Please exercise caution at all times when attempting to change timelines, or you might face the risk of encountering a similar corruption again."
-    s ""
+    s "S'il vous plaît, faites attention quand vous tentez de changer les évènements, ou vous prendriez le risque de rencontrer à nouveau une corruption similaire."
 
 # game/chapter4.rpy:1380
 translate french _call_syscheck_74_16815d97:
 
     # s "Oh, we're here again?"
-    s ""
+    s "Oh, on est de retour ?"
 
 # game/chapter4.rpy:1384
 translate french _call_syscheck_74_14b85755:
 
     # s "Let me check and see if everything's alright now.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Laissez moi vérifier si tout est en ordre à présent.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1388
 translate french _call_syscheck_74_e25f5d23:
 
     # s "Well, I can confirm the earlier problem is gone. Seems like what you did worked well enough."
-    s ""
+    s "Eh bien, je peux confirmer que le problème survenu plus tôt n'est plus. Il semblerait que ce que vous avez fait a plutôt bien marché."
 
 # game/chapter4.rpy:1392
 translate french _call_syscheck_74_09785573:
 
     # s "Hopefully, this shouldn't be a problem in the future. Just keep in mind not everything can be undone so easily and there shouldn't be another corruption like this."
-    s ""
+    s "Heureusement, ça ne devrait pas être un problème à l'avenir. Gardez juste à l'esprit que tout ne peut pas être défait si facilement et il ne devrait plus y avoir de corruption comme celle si."
 
 # game/chapter4.rpy:1396
 translate french _call_syscheck_74_8734bbf0:
 
     # s "Wait a minute. Did you really do what I told you?"
-    s ""
+    s "Attendez une minute. Est-ce que vous avez vraiment fait ce que je vous ai dit ?"
 
 # game/chapter4.rpy:1400
 translate french _call_syscheck_74_0ff57781:
 
     # s "Don't answer that question. I'll just check."
-    s ""
+    s "Ne répondez pas à cette question. Je vais juste vérifier."
 
 # game/chapter4.rpy:1404
 translate french _call_syscheck_74_dc71aba9:
 
     # s "Detecting user profile.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Détection du profil utilisateur.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1408
 translate french _call_syscheck_74_2383b357:
 
     # s "Well, it looks like you did. Congratulations."
-    s ""
+    s "Eh bien, il semblerait que ce soit le cas. Félicitations."
 
 # game/chapter4.rpy:1412
 translate french _call_syscheck_74_483235ce:
 
     # s "Even if you didn't, it was good enough to bypass my checks."
-    s ""
+    s "Même si ce n'était pas le cas, c'était suffisament bon pour passer sous mes radars."
 
 # game/chapter4.rpy:1416
 translate french _call_syscheck_74_24643395:
 
     # s "I'll just hope this was enough to teach you a lesson and leave it at that."
-    s ""
+    s "Je vais juste espérer que c'était suffisant pour vous apprendre une leçon et en rester là."
 
 # game/chapter4.rpy:1458
 translate french _call_syscheck_75_f9a281a1:
 
     # s "Scanning timeline.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Scan de la timeline.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1462
 translate french _call_syscheck_75_9926d559:
 
     # s "Corruption found."
-    s ""
+    s "Corruption détectée."
 
 # game/chapter4.rpy:1466
 translate french _call_syscheck_75_9eef7341:
 
     # s "Do not attempt to change this outcome by reloading, but move on to its natural conclusion or create a new timeline by returning to Chapter 1."
-    s ""
+    s "Ne tentez pas de changer cette conséquense en rechargant, mais avancez vers sa conclusion naturelle ou créer une nouvelle timeline en retournant au Chapitre 1."
 
 # game/chapter4.rpy:1470
 translate french _call_syscheck_75_bb252af0:
 
     # s "When creating a new timeline, do not interfere with other timelines, but let it reach its natural conclusion until this point has been passed safely."
-    s ""
+    s "Quand vous créerez une nouvelle timeline, n'interférez pas avec les autre timelines, mais laissez la atteindre sa conclusion jusqu'à ce que ce point soit passé sans accroc."
 
 # game/chapter4.rpy:1474
 translate french _call_syscheck_75_75e944da:
 
     # s "Please be advised that reckless handling of timelines could have dire consequences."
-    s ""
+    s "Soyez conscient que une manipulation des timelines sans précaution pourrait avoir de terribles conséquenses."
 
 # game/chapter4.rpy:1478
 translate french _call_syscheck_75_4f5f91c6:
 
     # s "That would be all.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Ca sera tout.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1483
 translate french _call_syscheck_75_82023689:
 
     # s "Apparently, something happened. Let me check.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Apparement, il s'est passé quelque chose. Laissez moi vérifier{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1487
 translate french _call_syscheck_75_9e6d75bb:
 
     # s "It seems this point in time is prone to corruption, and it happened yet again."
-    s ""
+    s "Il semblerait que ce point dans le temps est enclin à de la corruption, et c'est encore arrivé."
 
 # game/chapter4.rpy:1491
 translate french _call_syscheck_75_a70b110c:
 
     # s "But you've done this before, so you already know what to do."
-    s ""
+    s "Mais vous avez déjà fait ça avant, donc vous savez quoi faire."
 
 # game/chapter4.rpy:1495
 translate french _call_syscheck_75_a1ecb90e:
 
     # s "You can either just ignore this and move on, or if this is really important to you, return to Chapter 1 and start a new timeline. If you do this, don't interfere with other timelines until you get here, or else this might happen again."
-    s ""
+    s "Vous pouvez soit l'ignorer simplement et continuer, ou si c'est vraiment important pour vous, retourner au Chapitre 1 et démarrer une nouvelle timeline. Si vous faites ça, n'interférez pas avec d'autre timelines jusqu'à arriver ici, ou sinon ça pourrait arriver à nouveau."
 
 # game/chapter4.rpy:1499
 translate french _call_syscheck_75_4f5f91c6_1:
 
     # s "That would be all.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Ca sera tout.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1503
 translate french _call_syscheck_75_7228dbae:
 
     # s "What are you doing here again?"
-    s ""
+    s "qu'est-ce que vous faites encore ici ?"
 
 # game/chapter4.rpy:1507
 translate french _call_syscheck_75_572daa7a:
 
     # s "Didn't you learn anything from the speech I gave you last time?"
-    s ""
+    s "N'avez vous rien appris du discours que je vous ai fait la dernière fois ?"
 
 # game/chapter4.rpy:1511
 translate french _call_syscheck_75_817a1cd0:
 
     # s "Although, you being here again is sufficient proof that you didn't, so I won't waste more words on you."
-    s ""
+    s "Quoique, vous revoir ici prouve que ce n'est pas le cas, donc je ne gâcherai pas plus de salive avec vous."
 
 # game/chapter4.rpy:1515
 translate french _call_syscheck_75_8ee4ce13:
 
     # s "You know the drill. Go back to Chapter 1 and don't try to be cheeky by loading a save to get you here faster again, and we might both be able to get this behind us."
-    s ""
+    s "Vous connaissez la musique. Revenez au Chapitre 1 et ne soyez pas insolent en chargeant une sauvegarde pour revenir ici plus vite, ainsi on devrait être tous les deux capables de laisser ça derrière nous."
 
 # game/chapter4.rpy:1519
 translate french _call_syscheck_75_424d423e:
 
     # s "That is all."
-    s ""
+    s "C'est tout."
 
 # game/chapter4.rpy:1525
 translate french _call_syscheck_75_3b0611e9:
