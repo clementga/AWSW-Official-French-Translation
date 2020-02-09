@@ -1480,133 +1480,133 @@ translate french _call_syscheck_75_424d423e:
 translate french _call_syscheck_75_3b0611e9:
 
     # s "And don't you dare tell me that you find my beeping annoying. You had all of this coming."
-    s ""
+    s "Et n'osez pas me dire que vous trouvez mon bip agaçant. Vous saviez que ça allait arriver."
 
 # game/chapter4.rpy:1565
 translate french _call_syscheck_76_232b5694:
 
     # s "Error: Corruption found. Changing this timeline not possible after reloading."
-    s ""
+    s "Erreur: Corruption détectée. Changer cette timeline n'est pas possible après le rechargement."
 
 # game/chapter4.rpy:1569
 translate french _call_syscheck_76_7a7812fc:
 
     # s "Please do not alter timelines in rapid succession, as this may cause corruptions to occur."
-    s ""
+    s "Veuillez s'il vous plaît ne pas altérer cette timeline de manière sacadée, car cela peut causer des apparitions de corruption."
 
 # game/chapter4.rpy:1575
 translate french _call_syscheck_76_5b2972d2:
 
     # s "If you were not satisfied with your first outcome, why did you go back and only returned here after you saw the consequence of the other option?"
-    s ""
+    s "Si vous n'étiez pas satisfait avec votre premier résultat, pourquoi êtes vous reparti en arrière et revenu ici après avoir vu la conséquence de l'autre option ?"
 
 # game/chapter4.rpy:1579
 translate french _call_syscheck_76_ae7f3894:
 
     # s "Exercise caution, but also have confidence in the choices you make."
-    s ""
+    s "Faites preuve de vigilance, mais ayez également confiance en les choix que vous faites."
 
 # game/chapter4.rpy:1583
 translate french _call_syscheck_76_420d465b:
 
     # s "Continuing timeline as scheduled.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "maintien de la timeline comme prévu.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1587
 translate french _call_syscheck_76_6992660e:
 
     # s "Unable to modify this timeline."
-    s ""
+    s "Incapacité à modifier cette timeline."
 
 # game/chapter4.rpy:1591
 translate french _call_syscheck_76_db796a4b:
 
     # s "It looks like when you tried to change it, it caused some kind of corruption that now prevents it from being accessed."
-    s ""
+    s "Il semblerait que vous ayez essayé de la changer, ça a causé un genre de corruption qui empêche d'y accéder."
 
 # game/chapter4.rpy:1595
 translate french _call_syscheck_76_460f158e:
 
     # s "Reloading to change an outcome may work in other cases, but it's of no use here, [player_name]."
-    s ""
+    s "Recharger pour changer une issue peut marcher dans d'autres cas, mais ici ça ne sert à rien ici, [player_name]."
 
 # game/chapter4.rpy:1599
 translate french _call_syscheck_76_a847ef91:
 
     # s "You know, this could have been avoided if you just stuck with your original choice. Going back and forth like this isn't really in the spirit of this whole thing, anyway."
-    s ""
+    s "Vous savez, cela aurait pu être évité si vous vous en étiez tenu à votre choix de base. Aller et venir comme ça n'est pas vraiment dans l'esprit de la chose de toute façon."
 
 # game/chapter4.rpy:1605
 translate french _call_syscheck_76_e61dff85:
 
     # s "Even more so if you consider that the first time around, Bryce was actually safe and you went back to see what would happen if you went with the other choice."
-    s ""
+    s "D'autant plus si vous considérer que la première fois, Bryce était sain et sauf et que vous êtes retourné en arrière pour voir ce qui allait ce passer avec l'autre choix."
 
 # game/chapter4.rpy:1609
 translate french _call_syscheck_76_d82dad95:
 
     # s "In any case, there's no use trying to change this now. You'll just have to deal with it."
-    s ""
+    s "Dans tout les cas, il est inutile d'essayer de changer ça maintenant. Vous devrez juste faire avec."
 
 # game/chapter4.rpy:1613
 translate french _call_syscheck_76_f5a08d10:
 
     # s "Returning.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Retour.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1618
 translate french _call_syscheck_76_41e30641:
 
     # s "I'm sorry, [player_name], but I can't let you do that."
-    s ""
+    s "Je suis désolé, [player_name], mais je ne peux pas vous laisser faire ça."
 
 # game/chapter4.rpy:1622
 translate french _call_syscheck_76_0c4a1cda:
 
     # s "You think you can reload and everything will be fine again? A person's death is not so easily undone."
-    s ""
+    s "Vous pensez que vous pouvez recharger et que tout rentrera dans l'ordre ? la mort d'une personne ne se défait pas si facilement."
 
 # game/chapter4.rpy:1628
 translate french _call_syscheck_76_caaf1304:
 
     # s "And what's even worse, you already knew that he'd be safe if you went first, but you decided to go back and change your mind anyway."
-    s ""
+    s "Et le pire dans tout ça, vous saviez déjà qu'il serait en sécurité si vous y alliez d'abord, mais vous avez décidé de revenir en arrière et de changer d'avis."
 
 # game/chapter4.rpy:1632
 translate french _call_syscheck_76_319f17b5:
 
     # s "I guess curiosity killed the cat. Or dragon, in this case."
-    s ""
+    s "Il faut croire que la curiosité est un vilain défaut. Et ici, un dragon en mourra."
 
 # game/chapter4.rpy:1636
 translate french _call_syscheck_76_81fccf0f:
 
     # s "You made your choice. Now bear the consequences."
-    s ""
+    s "Vous avez fait votre choix. Maintenant assumez en les conséquences."
 
 # game/chapter4.rpy:1676
 translate french _call_syscheck_77_fe9ef34d:
 
     # s "Error: Corruption found. Changing this timeline not possible after a reload."
-    s ""
+    s "Erreur: Corruption détectée. Changer cette timeline n'est pas possible après une recharge."
 
 # game/chapter4.rpy:1680
 translate french _call_syscheck_77_1f742d9d:
 
     # s "If the problem persists, please start a new timeline to alter the outcome."
-    s ""
+    s "Si le problème persiste, veuillez démarrer une nouvelle tmeline pour altérer l'issue."
 
 # game/chapter4.rpy:1684
 translate french _call_syscheck_77_d4719c9d:
 
     # s "Be aware that you will have to go back to the beginning and start over from there in order for this change to take effect."
-    s ""
+    s "Soyez conscient que vous aurez à retourner au début et redémarrer d'ici afin que ce changement prenne effet."
 
 # game/chapter4.rpy:1688
 translate french _call_syscheck_77_a1fbc588:
 
     # s "Reloading unrelated save files before you get to this point again may cause your progress in this matter to be erased, which means that you will have to start over again if you wish to change this outcome."
-    s ""
+    s "Recharger des fichiers de sauvegarde indépendant avant de revenir à ce point pourrait causer la perte de vos données sauvegardées, ce qui signifie que vous aurez à tout recommencer si vous souhaitez changer cette issue."
 
 # game/chapter4.rpy:1692
 translate french _call_syscheck_77_6c61da9b:
