@@ -1612,73 +1612,73 @@ translate french _call_syscheck_77_a1fbc588:
 translate french _call_syscheck_77_6c61da9b:
 
     # s "It might be easier to just accept this outcome and move on for now."
-    s ""
+    s "Cela pourrait être plus facile de simplement accepter cette issue et aller de l'avant."
 
 # game/chapter4.rpy:1696
 translate french _call_syscheck_77_ceb95a46:
 
     # s "My apologies if I wasn't clear the first time. I am unable to modify this timeline in this matter."
-    s ""
+    s "Toutes mes excuses si je n'ai pas été clair la première fois. Je suis incapable dans ce cas-ci d'altérer cette timeline."
 
 # game/chapter4.rpy:1700
 translate french _call_syscheck_77_0a979e40:
 
     # s "I am not entirely sure why it is this way, but it looks like if you want to change this outcome, you will have to start a new timeline instead."
-    s ""
+    s "Je ne suis pas tout à fait sûr pourquoi il en est ainsi, mais il semblerait que si vous voulez changer cette issue, vous devrez pour cela commencer une nouvelle timeline."
 
 # game/chapter4.rpy:1704
 translate french _call_syscheck_77_af7be7fa:
 
     # s "This means going back to the beginning of Chapter 1 and starting over from there until you get to this point again."
-    s ""
+    s "Cela signifie revenir au début du Chapitre 1 et recommencer de là jusqu'à atteindre ce point."
 
 # game/chapter4.rpy:1708
 translate french _call_syscheck_77_dd67cfbf:
 
     # s "However, if you go back to the beginning and load an unrelated save file before you get to this point again, it may cause your progress in this matter to be erased, which means that you will have to start over again if you wish to change this outcome."
-    s ""
+    s "Cependant, si tu reviens au début et charge une sauvegarde sans rapport avant de revenir à ce point, cela peut causer que votre progression soit effacée, ce qui signifie que vous aurez à recommencer si vous souhaitez changer cette issue."
 
 # game/chapter4.rpy:1712
 translate french _call_syscheck_77_6c61da9b_1:
 
     # s "It might be easier to just accept this outcome and move on for now."
-    s ""
+    s "Cela pourrait être plus facile de simplement accepter cette issue et aller de l'avant."
 
 # game/chapter4.rpy:1716
 translate french _call_syscheck_77_0a01ae9e:
 
     # s "I already told you, just reloading a different save won't fix this."
-    s ""
+    s "Je vous l'ai déjà dit, simplement recharger une sauvegarde ne réglera pas ça."
 
 # game/chapter4.rpy:1720
 translate french _call_syscheck_77_f97b62db:
 
     # s "If you really want to save Bryce, you'll have to do a bit more than that."
-    s ""
+    s "Si vous voulez vraiment sauver Bryce, vous allez devoir faire un peu plus que ça."
 
 # game/chapter4.rpy:1724
 translate french _call_syscheck_77_84419071:
 
     # s "I'll even be nice enough and tell you how."
-    s ""
+    s "Je vais même être sympa et vous dire comment."
 
 # game/chapter4.rpy:1728
 translate french _call_syscheck_77_a446639a:
 
     # s "You'll just have to go all the way back to the beginning of Chapter 1 and start over from there."
-    s ""
+    s "Vous avez juste à revenir au tout début du Chapitre 1 et tout recommencer de là."
 
 # game/chapter4.rpy:1732
 translate french _call_syscheck_77_76855d50:
 
     # s "And don't even think of just going back to Chapter 1 and reloading a save to get here from there, because I'll know if you do that and then I'll just give you this speech again."
-    s ""
+    s "Et ne pensez même pas à revenir au Chapitre 1 pour recharger une sauvegarde pour revenir ici, Parce que je le saurais si vous faites ça et dans ce cas je vous ressortirai le même discours."
 
 # game/chapter4.rpy:1736
 translate french _call_syscheck_77_7115165d:
 
     # s "But for now, let's return to our scheduled program."
-    s ""
+    s "Mais pour l'instant, revenons à notre programme."
 
 # game/chapter4.rpy:1760
 translate french didit_e511726e:
