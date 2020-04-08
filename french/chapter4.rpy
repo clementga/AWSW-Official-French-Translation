@@ -1684,193 +1684,193 @@ translate french _call_syscheck_77_7115165d:
 translate french didit_e511726e:
 
     # m "We slowly made our way to the front door. I took a deep breath and tried to prepare myself for the possibility of facing Reza. The tense scenarios and things I could say to him rushed through my head as I pressed down on the door handle."
-    m ""
+    m "Nous avançâmes lentement vers la porte d'entrée. Je pris une profonde respiration et essayai de me préparer à l'éventualité de faire face à Reza. Les scénarios tendus et les choses que je pourrais lui dire me traversaient l'esprit alors que j'abaissais la poignée de la porte."
 
 # game/chapter4.rpy:1762
 translate french didit_91828e14:
 
     # m "The door inched open with a creak, but I noticed a slight resistance and a strange sound that suddenly made me hesitate."
-    m ""
+    m "La porte s'entrouvrit en grinçant, mais je remarquai une légère résistance et un son étrange qui me firent hésiter."
 
 # game/chapter4.rpy:1772
 translate french didit_bf9f1e22:
 
     # m "When I looked down to the source of the noise, I saw a taut wire through the gap in the door, hovering over the floor of the entryway."
-    m ""
+    m "Baissant les yeux vers la source du bruit, je vis un fil tendu à travers l'ouverture de la porte, flottant au dessus du sol du hall d'entrée."
 
 # game/chapter4.rpy:1792
 translate french c4intuition_8a5ca110:
 
     # Br "That was a pretty close call, you know. Too bad Reza wasn't here after all."
-    Br ""
+    Br "C'est pas passé loin, tu sais. Dommage que Reza ne soit pas ici au final."
 
 # game/chapter4.rpy:1796
 translate french c4intuition_70b1faa0:
 
     # Sb "Maybe he ran when he saw us approach."
-    Sb ""
+    Sb "Peut être qu'il a fui quand il nous a vu approcher."
 
 # game/chapter4.rpy:1798
 translate french c4intuition_682a674b:
 
     # Br brow b "Strange for him to leave everything behind, though. Everything he's stolen, all the generators are still here."
-    Br brow b ""
+    Br brow b "Etrange qu'il ait cependant tout laissé derrière lui. Tout ce qu'il a volé, tout les générateurs sont encore ici."
 
 # game/chapter4.rpy:1800
 translate french c4intuition_48e7380f:
 
     # Sb "Do you think the trap was for us in particular?"
-    Sb ""
+    Sb "Penses-tu que le piège nous était spécialement destiné ?"
 
 # game/chapter4.rpy:1802
 translate french c4intuition_1dff5c83:
 
     # Br stern b "Probably not. It was likely more of a general safety precaution. If he had any time to prepare for this, he would have taken the stuff with him."
-    Br stern b ""
+    Br stern b "Probablement que non. Ca devait plutôt être une mesure de précaution. S'il avait eu le temps de se préparer pour ça, il aurait tout pris avec lui."
 
 # game/chapter4.rpy:1804
 translate french c4intuition_81e3d0fa:
 
     # Sb "True enough. I had no idea you could make a bomb out of a generator."
-    Sb ""
+    Sb "C'est vrai. Je ne savais pas qu'on pouvait fabriquer une bombe à partir d'un générateur."
 
 # game/chapter4.rpy:1806
 translate french c4intuition_4b4c1a61:
 
     # Br "Then you just haven't been with us long enough. If you know how, it's not even that complicated."
-    Br ""
+    Br "Alors tu n'as pas été parmi nous assez longtemps. Si tu sais comment, ce n'est même pas compliqué."
 
 # game/chapter4.rpy:1808
 translate french c4intuition_53428fe1:
 
     # c "And Reza somehow figured it out?"
-    c ""
+    c "Et Reza l'a compris d'une façon ou d'une autre ?"
 
 # game/chapter4.rpy:1810
 translate french c4intuition_d49ba770:
 
     # Br brow b "Apparently so. Does he have any skills pertaining to engineering or electricity?"
-    Br brow b ""
+    Br brow b "Apparement. A-t-il des compétences touchant à l'ingénérie ou l'électricité ?"
 
 # game/chapter4.rpy:1812
 translate french c4intuition_12813d79:
 
     # c "Well, he's worked on cars before and fixes a lot of things back home. I guess that would qualify?"
-    c ""
+    c "Eh bien, Il a travaillé sur des voitures et réparé un paquet de choses chez nous. Je suppose que ça compte ?"
 
 # game/chapter4.rpy:1814
 translate french c4intuition_2d80da67:
 
     # Sb "He also could have done his own research."
-    Sb ""
+    Sb "Il pourrait avoir fait ses propres recherches."
 
 # game/chapter4.rpy:1816
 translate french c4intuition_aa4656c1:
 
     # Br stern b "Either way, this makes him even more dangerous. At least we now have a whole building's worth of clues."
-    Br stern b ""
+    Br stern b "Que ce soit l'un ou l'autre, ça le rend d'autant plus dangereux. Au moins maintenant, on a un bâtiment rempli d'indices."
 
 # game/chapter4.rpy:1818
 translate french c4intuition_f812dc1f:
 
     # Br brow b "[player_name], can you get to your apartment from here? We'll be busy with this scene for a while."
-    Br brow b ""
+    Br brow b "[player_name], Tu peux rentrer à ton appartement d'ici ? On sera occupé pour un moment avec cette scène."
 
 # game/chapter4.rpy:1820
 translate french c4intuition_c502e6c1:
 
     # c "No problem. I'll leave you to your work, then."
-    c ""
+    c "Pas de problème. Je vous laisse travailler."
 
 # game/chapter4.rpy:1822
 translate french c4intuition_4b0fe591:
 
     # Br stern b "Good job, [player_name]."
-    Br stern b ""
+    Br stern b "Bon boulot, [player-name]."
 
 # game/chapter4.rpy:1824
 translate french c4intuition_dd20ffbf:
 
     # c "Thanks."
-    c ""
+    c "Merci."
 
 # game/chapter4.rpy:1828
 translate french c4intuition_b508253a:
 
     # Br brow b "Guess your intuition was right, Seb."
-    Br brow b ""
+    Br brow b "Il semblerait que ton intuition était correcte, Seb."
 
 # game/chapter4.rpy:1830
 translate french c4intuition_0372d314:
 
     # Sb "Looks like it."
-    Sb ""
+    Sb "Il semblerait."
 
 # game/chapter4.rpy:1832
 translate french c4intuition_6ac0ed9f:
 
     # Br normal b "You know, maybe you should show initiative more often."
-    Br normal b ""
+    Br normal b "Tu sais, tu devrais prendre des initiatives plus souvent."
 
 # game/chapter4.rpy:1834
 translate french c4intuition_a88d6041:
 
     # Sb "Thank you, Chief."
-    Sb ""
+    Sb "Merci, Chef."
 
 # game/chapter4.rpy:1850
 translate french c4intuition_9e8e1589:
 
     # c "I'm surprised you called me back so quickly. How's the investigation going?"
-    c ""
+    c "Je suis supris que tu m'ais rappelé si vite. Comment se passe l'enquête ?"
 
 # game/chapter4.rpy:1852
 translate french c4intuition_fe534285:
 
     # Sb "Oh, the investigation is going swimmingly, but as you can expect, we need all the help we can get."
-    Sb ""
+    Sb "Oh, l'enquête se déroule à merveille, mais comme tu peux t'y attendre, on a besoin de toute l'aide disponible."
 
 # game/chapter4.rpy:1854
 translate french c4intuition_dd9aed82:
 
     # c "As usual."
-    c ""
+    c "Comme d'habitude."
 
 # game/chapter4.rpy:1856
 translate french c4intuition_1f51319f:
 
     # Sb "With how this case has been going we've realized we must employ external help."
-    Sb ""
+    Sb "Vu comment l'enquête se déroule, nous avons réalisé que nous devons employer de l'aide extérieur."
 
 # game/chapter4.rpy:1858
 translate french c4intuition_6e6ce20e:
 
     # c "Oh?"
-    c ""
+    c "Oh ?"
 
 # game/chapter4.rpy:1860
 translate french c4intuition_5da566dc:
 
     # Sb "Yeah, we've requested assistance from one of the cities. We hope they'll send some good investigators our way soon."
-    Sb ""
+    Sb "Ouais, on a demandé l'assistance de l'une des autres cités. Nous espérons qu'ils enverront bientôt quelques bons enquêteurs chez nous."
 
 # game/chapter4.rpy:1862
 translate french c4intuition_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/chapter4.rpy:1864
 translate french c4intuition_f3d188a2:
 
     # Sb "We were so close today. He could've been in there, you know. Maybe we just came a few minutes too late."
-    Sb ""
+    Sb "Nous étions si près aujourd'hui. Il aurait pu être là, tu sais. Peut être que nous sommes arrivés quelques minutes trop tard."
 
 # game/chapter4.rpy:1866
 translate french c4intuition_2345d4bf:
 
     # Sb "And if he knows how to make bombs from generators, who's to say he won't start using them elsewhere?"
-    Sb ""
+    Sb "Et si il sais comment fabriquer des bombes à partir de générateurs, qui nous dit qu'il ne va pas les utiliser ailleurs ?"
 
 # game/chapter4.rpy:1868
 translate french c4intuition_2005b1fe:
