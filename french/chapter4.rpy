@@ -1870,781 +1870,781 @@ translate french c4intuition_f3d188a2:
 translate french c4intuition_2345d4bf:
 
     # Sb "And if he knows how to make bombs from generators, who's to say he won't start using them elsewhere?"
-    Sb "Et si il sais comment fabriquer des bombes à partir de générateurs, qui nous dit qu'il ne va pas les utiliser ailleurs ?"
+    Sb "Et s'il sait comment fabriquer des bombes à partir de générateurs, qui nous dit qu'il ne va pas les utiliser ailleurs ?"
 
 # game/chapter4.rpy:1868
 translate french c4intuition_2005b1fe:
 
     # c "At least he doesn't have any right now, does he? You said all the generators that were stolen are now accounted for."
-    c ""
+    c "Au moins il n'a plus de générateur sous le coude, on est d'accord ? Tu as dit que tous les générateurs volés ont été retrouvés."
 
 # game/chapter4.rpy:1870
 translate french c4intuition_01e42f45:
 
     # Sb "True. Still, this whole case is growing to be too much for a small town police department."
-    Sb ""
+    Sb "C'est vrai. Mais cette affaire prend trop d'ampleur pour un poste de police comme le nôtre."
 
 # game/chapter4.rpy:1872
 translate french c4intuition_b83046c7:
 
     # c "I hope you'll get all the help you'll need."
-    c ""
+    c "J'espère que vous aurez toute l'aide dont vous avez besoin."
 
 # game/chapter4.rpy:1874
 translate french c4intuition_284b5319:
 
     # Sb "Me too."
-    Sb ""
+    Sb "Moi aussi."
 
 # game/chapter4.rpy:1876
 translate french c4intuition_9eaea2ac:
 
     # Sb "But right now, you can help us again."
-    Sb ""
+    Sb "En attendant, tu va pouvoir nous aider une fois de plus."
 
 # game/chapter4.rpy:1878
 translate french c4intuition_90ea8e25:
 
     # c "Well, what do you have for me?"
-    c ""
+    c "Ça me va. Qu'est-ce que je peut faire ?"
 
 # game/chapter4.rpy:1897
 translate french brycefirst_93189ec3:
 
     # Br "Actually, I'm not sure if this is a good idea."
-    Br ""
+    Br "En fait, je ne suis pas certain que ça soit une bonne idée."
 
 # game/chapter4.rpy:1903
 translate french brycefirst_5f1f6096:
 
     # Sb "Chief..."
-    Sb ""
+    Sb "Chef..."
 
 # game/chapter4.rpy:1905
 translate french brycefirst_095e418a:
 
     # Br "Sebastian, what are you doing here? I told you to stay put."
-    Br ""
+    Br "Sebastian ? Qu'est-ce que tu fais là ? Tu es censé l'attendre derrière, non ?"
 
 # game/chapter4.rpy:1907
 translate french brycefirst_6814135d:
 
     # Sb "Don't go inside, Chief."
-    Sb ""
+    Sb "N'allez pas à l'intérieur, Chef."
 
 # game/chapter4.rpy:1909
 translate french brycefirst_e95a344a:
 
     # Br brow b "Why? What's the problem?"
-    Br brow b ""
+    Br brow b "Pourquoi, y a un problème ?"
 
 # game/chapter4.rpy:1911
 translate french brycefirst_241ab511:
 
     # Sb "There is a device on the inside of the front door. I think it might be a trap."
-    Sb ""
+    Sb "Il y a un truc tout proche de la porte d'entrée, je pense que c'est un piège."
 
 # game/chapter4.rpy:1913
 translate french brycefirst_64782236:
 
     # Br "I didn't tell you to look inside."
-    Br ""
+    Br "Je ne t'ai pas demandé de regarder à l'intérieur, Sebastian."
 
 # game/chapter4.rpy:1915
 translate french brycefirst_b2733954:
 
     # Sb drop b flip "I'm sorry, Chief. I just had a feeling that something... terrible would happen if I didn't."
-    Sb drop b flip ""
+    Sb drop b flip "Désolé Chef, mais j'ai eut le pressentiment... que quelque chose de terrible arriverait si je ne le faisais pas."
 
 # game/chapter4.rpy:1917
 translate french brycefirst_037a1131:
 
     # Br "Let's just check it out."
-    Br ""
+    Br "Okay, laisse moi voir ça."
 
 # game/chapter4.rpy:1925
 translate french brycefirst_bfea4026:
 
     # m "I watched as Bryce made his way to the front door. Looking around, I scanned the windows of the building for any sign of movement."
-    m ""
+    m "J'ai regardé Bryce s'approcher de la porte d'entrée. En laissant mon regard fureter tout autour, j'ai jeté un oeil aux fenêtres pour aperçevoir un éventuel mouvement."
 
 # game/chapter4.rpy:1927
 translate french brycefirst_f1285e10:
 
     # m "When Bryce reached the door, I wondered how he would make his entry. Would he try to be quiet and sneak around, hoping to find Reza unprepared, or would he barge in and rely on his strength and speed to apprehend him?"
-    m ""
+    m "Au moment où Bryce a atteint la porte, je me suis demandé comment il allait faire son entrée. Allait-il la jouer discétion en se faufilant pour prendre Reza par surprise, ou allait-il y aller franchement tout en comptant sur sa force pour l'appréhender ?"
 
 # game/chapter4.rpy:1933
 translate french brycefirst_0766eb8d:
 
     # m "Though, shortly after Bryce opened the door, an earth-shattering sound echoed across the sky."
-    m ""
+    m "Mais alors qu'il poussait la porte, un bruit de claquement métalique résonna dans l'air."
 
 # game/chapter4.rpy:1943
 translate french brycefirst_a93c7636:
 
     # c "Bryce!"
-    c ""
+    c "Bryce!"
 
 # game/chapter4.rpy:1968
 translate french brycefirst_a4688393:
 
     # Sb drop b "I can't believe he's really gone."
-    Sb drop b ""
+    Sb drop b "Je n'arrive pas à croire qu'il soit mort."
 
 # game/chapter4.rpy:1970
 translate french brycefirst_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/chapter4.rpy:1972
 translate french brycefirst_ab70d1db:
 
     # Sb "I'm sorry, [player_name]. I just don't know what to say."
-    Sb ""
+    Sb "Je suis désolé, [player_name]. Je... Je ne sais pas quoi dire."
 
 # game/chapter4.rpy:1974
 translate french brycefirst_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/chapter4.rpy:1976
 translate french brycefirst_903f6637:
 
     # Sb "..."
-    Sb ""
+    Sb "..."
 
 # game/chapter4.rpy:1978
 translate french brycefirst_7d98aa6a:
 
     # Sb disapproval b "All the responsibility falls on me now. And Reza is still out there somewhere."
-    Sb disapproval b ""
+    Sb disapproval b "C'est à moi de gérer tout ça maintenant. Et Reza est en liberté, quelque part."
 
 # game/chapter4.rpy:1980
 translate french brycefirst_40d0a46a:
 
     # Sb drop b "This case is just beyond our capabilities. We were already at a bare minimum before this, but with Bryce gone, I just don't know what we should do now."
-    Sb drop b ""
+    Sb drop b "Cette affaire nous dépasse. On n'étais déjà à peine assez nombreux, mais maitenant que Bryce n'est plus là, je ne sais pas ce qu'il faut faire maintenant."
 
 # game/chapter4.rpy:1982
 translate french brycefirst_41ddf17b:
 
     # Sb disapproval b "I've already requested help from one of the cities. I hope they'll send some good investigators our way as soon as possible."
-    Sb disapproval b ""
+    Sb disapproval b "J'ai déjà demandé de l'aide aux villes alentours, j'espère qu'on aura le soutient de quelques bons enquêteurs le plus vite possible."
 
 # game/chapter4.rpy:1984
 translate french brycefirst_43d253e6:
 
     # Sb "At least we reclaimed everything that was stolen."
-    Sb ""
+    Sb "Au moins, on a récupéré tout ce qui a été volé."
 
 # game/chapter4.rpy:1986
 translate french brycefirst_a20a12de:
 
     # Sb drop b "Well, except for the eggs. I don't want to have to explain to the parents how their children were killed in the explosion."
-    Sb drop b ""
+    Sb drop b "À l'exeption des oeufs... Je n'ai pas envie de dire aux parents ce qui est arrivé à leur progéniture... Mais je n'aurais pas le choix."
 
 # game/chapter4.rpy:1988
 translate french brycefirst_6165962f:
 
     # Sb disapproval b "All of the generators were just sitting inside there. It makes me think that Reza must have left in a hurry."
-    Sb disapproval b ""
+    Sb disapproval b "Tout les générateurs se trouvaient dans le bâtiment. Je pense que Reza s'est enfui précipitament."
 
 # game/chapter4.rpy:1990
 translate french brycefirst_a6bce8f5:
 
     # Sb drop b "And we got so close, too. It was his hideout, for crying out loud! He probably just saw us approaching and left before we even had the chance to apprehend him."
-    Sb drop b ""
+    Sb drop b Et on le tenait presque... C'était sa planque ! Il nous a sûrement vu nous approcher, et s'est enfui avant qu'on ai la chance de le coincer !""
 
 # game/chapter4.rpy:1992
 translate french brycefirst_8257f5a5:
 
     # Sb disapproval b "But you know what? We can't stop now. If anything, this has only proven that he's even more dangerous than we thought. If Reza can make bombs out of generators, who's to say where he'll use them next?"
-    Sb disapproval b ""
+    Sb disapproval b "Mais tu sais quoi, on ne va pas s'arrêter maintenant. On a la preuve qu'il est plus dangeureux que ce qu'on pensait. S'il peut fabriquer des bombes avec des générateurs, qui sait ce qui nous attends ?"
 
 # game/chapter4.rpy:1994
 translate french brycefirst_f116eb4c:
 
     # Sb "We have to stop him, [player_name]. Are you with me?"
-    Sb ""
+    Sb "Il faut qu'on l'arrête [player_name]. T'es avec moi ?"
 
 # game/chapter4.rpy:1996
 translate french brycefirst_26eefe0a:
 
     # c "Yes."
-    c ""
+    c "Oui."
 
 # game/chapter4.rpy:1998
 translate french brycefirst_67a75b27:
 
     # Sb "Regardless of Bryce's death, we have try our best to proceed with the investigation. For his memory, and for the sake of the town."
-    Sb ""
+    Sb "Même si le Chef a été tué, on a fait de notre mieux jusqu'à maintenant. On va s'assurer qu'il ne soit pas mort en vain, et on va le faire aussi pour le bien de la ville."
 
 # game/chapter4.rpy:2000
 translate french brycefirst_62399d4f:
 
     # Sb "At least Reza doesn't have any generators, for now. All the stolen ones were accounted for inside the building."
-    Sb ""
+    Sb "Au moins, Reza n'a plus de générateur à portée de main. Tout ceux qu'il avait volé étaient dans la ferme."
 
 # game/chapter4.rpy:2002
 translate french brycefirst_0fb2d9e2:
 
     # Sb "Alright, let me see what else we have..."
-    Sb ""
+    Sb "Bon, voyons ce qu'on a d'autre..."
 
 # game/chapter4.rpy:2013
 translate french c4cont_454e0894:
 
     # Sb "When we searched the building, we found more than the things Reza stole. We also found this bloody bandage."
-    Sb ""
+    Sb "En fouillant, non seulement on a trouvé le butin de Reza, mais il y avait aussi ce bandage ensanglanté."
 
 # game/chapter4.rpy:2015
 translate french c4cont_cf2d6ded:
 
     # c "Do you think that's his?"
-    c ""
+    c "Tu crois que c'est à lui ?"
 
 # game/chapter4.rpy:2017
 translate french c4cont_fcf81e6d:
 
     # Sb "That's what we need to find out. But given all that we know, it probably is."
-    Sb ""
+    Sb "C'est ce qu'on doit découvrir. Mais avec ce qu'on sait, c'est probablement son sang."
 
 # game/chapter4.rpy:2019
 translate french c4cont_d8ae483a:
 
     # c "So he's wounded."
-    c ""
+    c "Donc il est blessé."
 
 # game/chapter4.rpy:2021
 translate french c4cont_53ff3f22:
 
     # Sb "We know he was injured during the fight with his first victim, but whether this is from the same wound, or something else, I'm not sure."
-    Sb ""
+    Sb "On sait qu'il a été blessé durant le combat avec sa première victime, reste à savoir s'il n'a que cette blessure."
 
 # game/chapter4.rpy:2023
 translate french c4cont_b6509a8e:
 
     # Sb "In any case, you could bring it into the lab for us to find out more."
-    Sb ""
+    Sb "En tout cas, tu pourras apporter ça au labo pour qu'ils l'analysent."
 
 # game/chapter4.rpy:2025
 translate french c4cont_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Bien sûre."
 
 # game/chapter4.rpy:2029
 translate french c4cont_55d65168:
 
     # Sb "Next, we have a witness who reported hearing loud bangs during the night."
-    Sb ""
+    Sb "Deuxième chose : on a un témoin qui prétends avoir entendu de fortes détonations durant la nuit."
 
 # game/chapter4.rpy:2031
 translate french c4cont_320a075d:
 
     # Sb "We’d like to send someone to make a follow-up visit. You’ll need to confirm the witness statement, then see if he has anything new to share."
-    Sb ""
+    Sb "Il faut qu'on envoi quelqu'un prendre sa déclaration écrite, et éventuellement tirer quelque chose de son témoignage."
 
 # game/chapter4.rpy:2035
 translate french c4cont_e2d559af:
 
     # Sb "Also, now that we have reclaimed your PDAs, we're going to send one to the archives for analysis. Since they have experience with human artifacts, they're better suited to do it than any of our departments."
-    Sb ""
+    Sb "Il y a aussi les PDAs qu'on a récupéré. On doit en confier un aux archives pour analyses. Puisqu'ils sont habitués à travailler sur du matériel humain, ils s'en sortiront mieux que nous."
 
 # game/chapter4.rpy:2037
 translate french c4cont_bd805a76:
 
     # c "No problem."
-    c ""
+    c "Pas de soucis."
 
 # game/chapter4.rpy:2041
 translate french c4cont_79c69506:
 
     # Sb "And lastly, we have the eggs. It's a relief that we found them unharmed in the building. They're safe and ready to be sent back to the hatchery."
-    Sb ""
+    Sb "Pour finir, on a les oeufs. Ils sont tous sain et saufs heureusement, il n'y a plus qu'à les ramener à la pouponnière."
 
 # game/chapter4.rpy:2043
 translate french c4cont_7d2cd944:
 
     # c "Shouldn't we take care of those, first?"
-    c ""
+    c "On ne devrait pas les gérer en priorité ?"
 
 # game/chapter4.rpy:2045
 translate french c4cont_dad19954:
 
     # Sb "It's not as urgent as you might think. Our eggs are pretty resilient. Being in the care of the hatchery is more an insurance than a requirement."
-    Sb ""
+    Sb "Ce n'est pas aussi urgent qu'il n'y parait. Nos oeufs sont plutôt résistants. Les confier à une écloserie est plus une précaution qu'une exigence."
 
 # game/chapter4.rpy:2047
 translate french c4cont_b8fd21a0:
 
     # Sb "Some people choose to keep them in their own home until they hatch, rather than having the hatchery take care of it."
-    Sb ""
+    Sb "Certains préfèrent même les garder chez eux jusqu'à l'éclosion au lieu de les confier à une pouponnière."
 
 # game/chapter4.rpy:2049
 translate french c4cont_186a1410:
 
     # Sb "The hatchery has been notified, but they won't be able to send someone for a few hours. I've heard that they're really understaffed."
-    Sb ""
+    Sb "On les a prévenu d'ailleurs, mais ils sont en manque de personnel eux aussi, et ne pourront pas venir les chercher avant quelques heures."
 
 # game/chapter4.rpy:2051
 translate french c4cont_f1a002bb:
 
     # Sb "If you bring the eggs and the paperwork to them, you'd speed up the process, but it's not an urgent matter."
-    Sb ""
+    Sb "Si tu pouvais gérer les oeufs et la paperasse, ça arrangerait les choses, mais ce n'est pas une urgence non plus."
 
 # game/chapter4.rpy:2053
 translate french c4cont_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/chapter4.rpy:2061
 translate french c4cont2_4bfa8c52:
 
     # Sb "In any case, I'll just leave everything here until I get to it, so feel free to do these tasks as you wish."
-    Sb ""
+    Sb "En tout cas, rien ici ne bouge sauf si quelqu'un décide de s'en charger. Si c'est encore là, c'est que c'est à classer."
 
 # game/chapter4.rpy:2067
 translate french c4cont2_827351ae:
 
     # Sb "I know it's laughable that we don't even have a free hand for simple errands."
-    Sb ""
+    Sb "Je sais qu'il y a de quoi rire au fait que je te demande de nous dépaner pour de simples courses."
 
 # game/chapter4.rpy:2069
 translate french c4cont2_5101fbef:
 
     # c "Don't worry about it."
-    c ""
+    c "Ne t'en fais pas pour ça."
 
 # game/chapter4.rpy:2073
 translate french c4cont2_aa3c4efc:
 
     # Sb "By the way, are you planning to attend the summer festival?"
-    Sb ""
+    Sb "Au fait, tu vas au festival d'été ?"
 
 # game/chapter4.rpy:2075
 translate french c4cont2_af599221:
 
     # c "Should I? It's hard to think about something fun when I'm wrapped up in this investigation."
-    c ""
+    c "Tu crois que je devrais m'y rendre ? C'est difficile de penser à quelque chose de positif avec cette enquête."
 
 # game/chapter4.rpy:2077
 translate french c4cont2_e23ed98b:
 
     # Sb "For sure. It's important to take a short rest so you don't lose your head. There's so much to see at the festival, particularly the big fireworks."
-    Sb ""
+    Sb "Carrément. Il faut bien s'arrêter pour respirer un peu tu sais. Et puis il y aura plein de trucs à voir à ce festival, les feu d'artifices entre autres."
 
 # game/chapter4.rpy:2079
 translate french c4cont2_12a0faba:
 
     # c "Dragons enjoy fireworks, too? I would think something like that would feel so commonplace, since many of you breathe fire."
-    c ""
+    c "Les dragons aiment les feux d'artifices, hein ? Ça m'étonne quand on sait que beaucoup ici savent cracher la flamme."
 
 # game/chapter4.rpy:2081
 translate french c4cont2_7f0fc3ed:
 
     # Sb "It's not quite the same. We still appreciate the wonder of colorful bursts in the sky. On the last day there's always a big fireworks show. Everyone usually attends it."
-    Sb ""
+    Sb "Ce n'est pas pareil. Il y a une différence entre la flamme de quelqu'un et un feu d'artifice coloré dans un ciel étoilé. Et puis celui du festival est si beau que la plupart des gens d'ici y assistent tout les ans."
 
 # game/chapter4.rpy:2083
 translate french c4cont2_f43be0cf:
 
     # c "Everyone?"
-    c ""
+    c "La plupart des gens ?"
 
 # game/chapter4.rpy:2085
 translate french c4cont2_0130ecf1:
 
     # Sb "Yes, it has a great tradition behind it. What peeves me most is that I'll be on guard duty when it happens this year, so I probably won't be able to see a thing."
-    Sb ""
+    Sb "Oui, ce feu d'artifice a une sacré histoire derrière lui. Mais bon, personellement je ne pourrais pas y assister, je serai de garde au portail le soir du festival, Donc je risque de ne pas voir grand chose."
 
 # game/chapter4.rpy:2089
 translate french c4cont2_4b635033:
 
     # c "If it's that important to you, why don't you just watch it regardless?"
-    c ""
+    c "Si ça compte tant pour toi, pourquoi ne pas le regarder quand même ?"
 
 # game/chapter4.rpy:2107
 translate french sebdone_8a840b10:
 
     # Sb disapproval b "Are you suggesting I abandon my post during the fireworks?"
-    Sb disapproval b ""
+    Sb disapproval b "Tu me suggères d'abandonner mon poste pour regarder le feu d'artifice, c'est ça ?"
 
 # game/chapter4.rpy:2109
 translate french sebdone_29ea912c:
 
     # c "No, you don't have to abandon your post, but if you pick a good spot and watch them for like half an hour or so, no one's going to care."
-    c ""
+    c "Pas vraiment, je me dit que si tu peux trouver un endroit en hauteur qui te permet d'assiter au feu d'artifice tout en pouvant garder un oeil sur ton poste, personne ne verra la différence."
 
 # game/chapter4.rpy:2111
 translate french sebdone_7346d291:
 
     # Sb normal b "I'm not so sure about that. The guard post is pretty important."
-    Sb normal b ""
+    Sb normal b "Je ne sais pas. Le poste de garde est assez important."
 
 # game/chapter4.rpy:2113
 translate french sebdone_13085352:
 
     # c "I know we're talking about the portal, but you don't need to take this so seriously all the time. Just think about it. The portal is broken right now anyway, and everybody will be busy watching the fireworks. Nothing is going to happen."
-    c ""
+    c "Je sais bien que c'est sérieux. Mais tu n'as pas besoin de tout prendre au sérieux tout le temps. Prends le temps d'y penser. Le portail est en panne et tout le monde aura les yeux rivés vers le ciel. Il ne se passera rien, ne t'inquiète pas."
 
 # game/chapter4.rpy:2115
 translate french sebdone_ff0f8867:
 
     # Sb "I suppose you have a point."
-    Sb ""
+    Sb "Je suppose que tu as raison."
 
 # game/chapter4.rpy:2117
 translate french sebdone_18d46eb7:
 
     # c "Just pick a good spot and no one is going to even notice you're gone."
-    c ""
+    c "Trouve juste un bon coin, et personne ne verra la différence, crois moi."
 
 # game/chapter4.rpy:2119
 translate french sebdone_0c85d775:
 
     # Sb smile b "Well, if you say so."
-    Sb smile b ""
+    Sb smile b "Eh bien, si tu le dis."
 
 # game/chapter4.rpy:2132
 translate french sebelse_76b37f1b:
 
     # c "I'll be sure not to miss it then."
-    c ""
+    c "Compte sur moi pour ne pas le manquer"
 
 # game/chapter4.rpy:2134
 translate french sebelse_ec662314:
 
     # Sb "Anyways, I should get back to the investigation now."
-    Sb ""
+    Sb "Bon, je devrais me remettre à travailler sur l'enquête."
 
 # game/chapter4.rpy:2136
 translate french sebelse_3cb2d5d0:
 
     # Sb "I'll leave the stuff for you here, and I'll take care of the rest once I get back, alright?"
-    Sb ""
+    Sb "Je laisse tout ça là, et je m'occuperai du reste une fois de retour, d'accord ?"
 
 # game/chapter4.rpy:2138
 translate french sebelse_e631bc97:
 
     # c "Sure thing."
-    c ""
+    c "Ça me va."
 
 # game/chapter4.rpy:2140
 translate french sebelse_f5004442:
 
     # Sb "Good luck, [player_name]."
-    Sb ""
+    Sb "Bon courage, [player_name]."
 
 # game/chapter4.rpy:2142
 translate french sebelse_b092993f:
 
     # c "You too."
-    c ""
+    c "A toi aussi."
 
 # game/chapter4.rpy:2285
 translate french c4facility_a59e5fa7:
 
     # m "When I approached Anna's lab, I saw her sitting on the hallway floor, the door to her lab wide open."
-    m ""
+    m "En m'approchant du laboratoire, je vis Anna assise à même le sol dans le couloir. La porte de son labo était grande ouverte."
 
 # game/chapter4.rpy:2289
 translate french c4facility_df4c809f:
 
     # c "Hey Anna."
-    c ""
+    c "Salut Anna."
 
 # game/chapter4.rpy:2291
 translate french c4facility_6246c446:
 
     # An sad "Oh, it's you."
-    An sad ""
+    An sad "Oh c'est toi."
 
 # game/chapter4.rpy:2293
 translate french c4facility_4732b4ca:
 
     # c "What's going on here?"
-    c ""
+    c "Qu'est-ce qui se passe ici ?"
 
 # game/chapter4.rpy:2297
 translate french c4facility_2770aa64:
 
     # An disgust "The police came and raided the place."
-    An disgust ""
+    An disgust "La police est venu et a retourné l'endroit."
 
 # game/chapter4.rpy:2299
 translate french c4facility_115c34c4:
 
     # c "What? Why?"
-    c ""
+    c "Quoi? Pourquoi ça ?"
 
 # game/chapter4.rpy:2301
 translate french c4facility_c16f96ee:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face ""
+    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
 
 # game/chapter4.rpy:2303
 translate french c4facility_7f786720:
 
     # c "Is it bad?"
-    c ""
+    c "C'est grave ?"
 
 # game/chapter4.rpy:2305
 translate french c4facility_9eaaf239:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad ""
+    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2307
 translate french c4facility_b08fa813:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face ""
+    An face "Et puis un jour les deux se liguent et voilà que les flics viennent pour retourner mon labo comme si c'était normal. Ça n'a aucun sens !"
 
 # game/chapter4.rpy:2309
 translate french c4facility_0f0596d5:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust ""
+    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
 
 # game/chapter4.rpy:2311
 translate french c4facility_6b14bf02:
 
     # An sad "Anyways, what did you want?"
-    An sad ""
+    An sad "Enfin... Qu'est-ce qu'il te fallait ?"
 
 # game/chapter4.rpy:2313
 translate french c4facility_28c95653:
 
     # c "I'm just here to drop this off for you, courtesy of the police."
-    c ""
+    c "Je suis venu t'apporter ceci, avec les compliments de la police."
 
 # game/chapter4.rpy:2315
 translate french c4facility_036be757:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face ""
+    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
 
 # game/chapter4.rpy:2317
 translate french c4facility_f6dfc989:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust ""
+    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2319
 translate french c4facility_74b9cb3a:
 
     # An sad "What is this, anyway?"
-    An sad ""
+    An sad "Qu'est-ce que tu m'ammènes ?"
 
 # game/chapter4.rpy:2321
 translate french c4facility_a29e5373:
 
     # c "I'm sorry. It's a bloody bandage for analysis. It's related to the Reza investigation."
-    c ""
+    c "Pardonne moi de te déranger avec ça. C'est un bandage ensanglanté. C'est lié à l'enquête sur Reza."
 
 # game/chapter4.rpy:2323
 translate french c4facility_6a6a1f07:
 
     # An "Alright then, I'll take it. Not for the police department's sake, but for yours."
-    An ""
+    An "D'accord. Je vais m'en occuper. Mais je fais ça parce que c'est toi qui me le demande. Pas la police."
 
 # game/chapter4.rpy:2325
 translate french c4facility_8e9a23b0:
 
     # An "Don't let me hold you up. I'm sure you have places to be."
-    An ""
+    An "Allez je ne te retiens pas. Tu dois sûrement être attendu ailleurs."
 
 # game/chapter4.rpy:2327
 translate french c4facility_08fa48a0:
 
     # c "Well, see you, then."
-    c ""
+    c "A plus tard, alors."
 
 # game/chapter4.rpy:2329
 translate french c4facility_a445059e:
 
     # An "Yeah, yeah."
-    An ""
+    An "Ouais."
 
 # game/chapter4.rpy:2345
 translate french c4facility_2770aa64_1:
 
     # An disgust "The police came and raided the place."
-    An disgust ""
+    An disgust "La police est venu et a retourné mon labo."
 
 # game/chapter4.rpy:2347
 translate french c4facility_115c34c4_1:
 
     # c "What? Why?"
-    c ""
+    c "Quoi ? Pourquoi ça ?"
 
 # game/chapter4.rpy:2349
 translate french c4facility_c16f96ee_1:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face ""
+    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
 
 # game/chapter4.rpy:2351
 translate french c4facility_7f786720_1:
 
     # c "Is it bad?"
-    c ""
+    c "C'est grave ?"
 
 # game/chapter4.rpy:2353
 translate french c4facility_9eaaf239_1:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad ""
+    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2355
 translate french c4facility_b08fa813_1:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face ""
+    An face "Et puis un jour les deux se liguent et voilà que les flics viennent pour retourner mon labo comme si c'était normal. Ça n'a aucun sens !"
 
 # game/chapter4.rpy:2357
 translate french c4facility_0f0596d5_1:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust ""
+    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
 
 # game/chapter4.rpy:2359
 translate french c4facility_6b14bf02_1:
 
     # An sad "Anyways, what did you want?"
-    An sad ""
+    An sad "Enfin... Qu'est-ce qu'il te fallait ?"
 
 # game/chapter4.rpy:2361
 translate french c4facility_6e1b6a6a:
 
     # c "I'm here to drop this off for you, courtesy of the police."
-    c ""
+    c "Je suis ici pour t'ammener ceci, avec les compliments de la police."
 
 # game/chapter4.rpy:2363
 translate french c4facility_036be757_1:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face ""
+    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
 
 # game/chapter4.rpy:2365
 translate french c4facility_f6dfc989_1:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust ""
+    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2367
 translate french c4facility_74b9cb3a_1:
 
     # An sad "What is this, anyway?"
-    An sad ""
+    An sad "Enfin bon, de quoi s'agit-il ?"
 
 # game/chapter4.rpy:2369
 translate french c4facility_a29e5373_1:
 
     # c "I'm sorry. It's a bloody bandage for analysis. It's related to the Reza investigation."
-    c ""
+    c "Pardonne moi de te déranger avec ça. C'est un bandage ensanglanté. C'est lié à l'enquête sur Reza."
 
 # game/chapter4.rpy:2371
 translate french c4facility_6a6a1f07_1:
 
     # An "Alright then, I'll take it. Not for the police department's sake, but for yours."
-    An ""
+    An "D'accord. Je vais m'en occuper. Mais je fais ça parce que c'est toi qui me le demande. Pas la police."
 
 # game/chapter4.rpy:2373
 translate french c4facility_8e9a23b0_1:
 
     # An "Don't let me hold you up. I'm sure you have places to be."
-    An ""
+    An "Allez je ne te retiens pas. Tu dois sûrement être attendu ailleurs."
 
 # game/chapter4.rpy:2375
 translate french c4facility_08fa48a0_1:
 
     # c "Well, see you, then."
-    c ""
+    c "Bon, à plus tard alors."
 
 # game/chapter4.rpy:2377
 translate french c4facility_a445059e_1:
 
     # An "Yeah, yeah."
-    An ""
+    An "Ouais."
 
 # game/chapter4.rpy:2393
 translate french c4facility_3067e4d7:
 
     # An disgust "It's none of your business."
-    An disgust ""
+    An disgust "Ca ne te regarde pas."
 
 # game/chapter4.rpy:2395
 translate french c4facility_bf6ef99d:
 
     # c "Okay, then."
-    c ""
+    c "Ok, ok."
 
 # game/chapter4.rpy:2397
 translate french c4facility_cdfca24c:
 
     # An sad "What do you want, anyway?"
-    An sad ""
+    An sad "Qu'est-ce que tu veux d'abord ?"
 
 # game/chapter4.rpy:2399
 translate french c4facility_4ac92f2d:
 
     # c "I was going to drop this evidence off for you, courtesy of the police."
-    c ""
+    c "Je suis ici pour t'ammener ceci, avec les compliments de la police."
 
 # game/chapter4.rpy:2401
 translate french c4facility_c0fffdf7:
 
     # An "The police?"
-    An ""
+    An "La police ?"
 
 # game/chapter4.rpy:2403
 translate french c4facility_e20fb284:
 
     # An disgust "You know what? You can march right back and tell them they can do their tests themselves if they think they can play games with me."
-    An disgust ""
+    An disgust "Tu sais quoi ? Tu peux repartir d'où tu viens et dire qu'ils peuvent faire leurs tests eux mêmes s'ils pensent qu'ils peuvent jouer avec moi."
 
 # game/chapter4.rpy:2405
 translate french c4facility_e2c4b981:
 
     # c "I guess that's a no, then."
-    c ""
+    c "Je vais prendre ça pour un non."
 
 # game/chapter4.rpy:2407
 translate french c4facility_9fca1141:
 
     # An face "Some idiot complains, they mess up my place, and then turn around and ask for my help? Is that a joke?"
-    An face ""
+    An face "Certains idiots se plaignent, ils retournent mon labo, et puis se retournent et demandent mon aide ? C'est une blague ?"
 
 # game/chapter4.rpy:2409
 translate french c4facility_b9836deb:
 
     # An disgust "Bastards, the whole lot of them."
-    An disgust ""
+    An disgust "Des enfoirés, tous sans exception."
 
 # game/chapter4.rpy:2411
 translate french c4facility_8e27deb2:
 
     # An rage "What the heck are you still doing here? Go and tell them, now!" with Shake((0, 0, 0, 0), 2, dist=10)
-    An rage "" with Shake((0, 0, 0, 0), 2, dist=10)
+    An rage "Qu'est-ce que tu fous encore ici ? Va et dit leur, maintenant!" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/chapter4.rpy:2413
 translate french c4facility_63e87d41:
 
     # c "Sheesh, alright. I'm going."
-    c ""
+    c "Ok, c'est bon. Je m'en vais."
 
 # game/chapter4.rpy:2415
 translate french c4facility_3aba8ab5:
 
     # An face "You better."
-    An face ""
+    An face "Tu ferais mieux."
 
 # game/chapter4.rpy:2434
 translate french c4facility_2770aa64_2:
