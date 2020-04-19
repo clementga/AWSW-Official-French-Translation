@@ -2650,673 +2650,673 @@ translate french c4facility_3aba8ab5:
 translate french c4facility_2770aa64_2:
 
     # An disgust "The police came and raided the place."
-    An disgust ""
+    An disgust "La police est venu et a retourné mon labo."
 
 # game/chapter4.rpy:2436
 translate french c4facility_115c34c4_2:
 
     # c "What? Why?"
-    c ""
+    c "Quoi ? Pourquoi ça ?"
 
 # game/chapter4.rpy:2438
 translate french c4facility_c16f96ee_2:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face ""
+    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
 
 # game/chapter4.rpy:2440
 translate french c4facility_7f786720_2:
 
     # c "Is it bad?"
-    c ""
+    c "C'est grave ?"
 
 # game/chapter4.rpy:2442
 translate french c4facility_9eaaf239_2:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad ""
+    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2444
 translate french c4facility_b08fa813_2:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face ""
+    An face "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2446
 translate french c4facility_0f0596d5_2:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust ""
+    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
 
 # game/chapter4.rpy:2448
 translate french c4facility_6b14bf02_2:
 
     # An sad "Anyways, what did you want?"
-    An sad ""
+    An sad "Enfin... Qu'est-ce qu'il te fallait ?"
 
 # game/chapter4.rpy:2450
 translate french c4facility_6e1b6a6a_1:
 
     # c "I'm here to drop this off for you, courtesy of the police."
-    c ""
+    c "Je suis ici pour t'ammener ceci, avec les compliments de la police."
 
 # game/chapter4.rpy:2452
 translate french c4facility_036be757_2:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face ""
+    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
 
 # game/chapter4.rpy:2454
 translate french c4facility_f6dfc989_2:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust ""
+    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2456
 translate french c4facility_74b9cb3a_2:
 
     # An sad "What is this, anyway?"
-    An sad ""
+    An sad "Enfin bon, de quoi s'agit-il ?"
 
 # game/chapter4.rpy:2458
 translate french c4facility_edc76afd:
 
     # c "Just a bloody bandage for analysis."
-    c ""
+    c "C'est juste un bandage ensanglanté à analyser."
 
 # game/chapter4.rpy:2460
 translate french c4facility_e780acf8:
 
     # An face "What a joke. Do they really expect me to help after this stunt?"
-    An face ""
+    An face "La blague. Espèrent-ils vraiment que je les aide après ce tour ?"
 
 # game/chapter4.rpy:2462
 translate french c4facility_46ff6af6:
 
     # An sad "How could I even? My lab is trashed."
-    An sad ""
+    An sad "Comment le pourai-je ? Mon labo est saccagé."
 
 # game/chapter4.rpy:2464
 translate french c4facility_5721e7a1:
 
     # An "I can't accept this until I know what's going on."
-    An ""
+    An "Je ne peux accepter jusqu'à ce que je sache ce qu'il se passe."
 
 # game/chapter4.rpy:2466
 translate french c4facility_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/chapter4.rpy:2468
 translate french c4facility_b65bb602:
 
     # An "Also, it doesn't look like I'll be able to do those tests on you any longer, so don't bother contacting me again."
-    An ""
+    An "Et puis, visiblement je ne pourrais jamais faire ces tests sur toi. Alors c'est pas la peine de me rappeler."
 
 # game/chapter4.rpy:2470
 translate french c4facility_86148265:
 
     # c "Alright."
-    c ""
+    c "D'accord."
 
 # game/chapter4.rpy:2472
 translate french c4facility_e1a16437:
 
     # c "I'll leave you be, then."
-    c ""
+    c "Je te laisse, alors."
 
 # game/chapter4.rpy:2474
 translate french c4facility_846c1a46:
 
     # An "Good luck with the whole ambassador thing."
-    An ""
+    An "Bonne chance avec ton truc d'ambassadeur."
 
 # game/chapter4.rpy:2476
 translate french c4facility_2ae4c97a:
 
     # c "Good luck to you, too."
-    c ""
+    c "Bonne chance à toi."
 
 # game/chapter4.rpy:2494
 translate french c4facility_39defa02:
 
     # c "(I hope this is the right place.)"
-    c ""
+    c "(J'espère que c'est le bon endroit.)"
 
 # game/chapter4.rpy:2525
 translate french c4facility_80d0b150:
 
     # Dm "Can I help you?"
-    Dm ""
+    Dm "Puis-je vous aider ?"
 
 # game/chapter4.rpy:2527
 translate french c4facility_228454e8:
 
     # c "Yeah, I'm just dropping this evidence off on behalf of the police."
-    c ""
+    c "Oui, je viens juste apporter cette preuve à la demande de la police."
 
 # game/chapter4.rpy:2529
 translate french c4facility_f35e1721:
 
     # Dm "From the Reza case, right? I already read the memo."
-    Dm ""
+    Dm "De l'enquête sur Reza, c'est ça ? J'ai déjà lu le mémo."
 
 # game/chapter4.rpy:2531
 translate french c4facility_deb8c449:
 
     # c "Yep. Well, here you go."
-    c ""
+    c "C'est ça. Eh bien, Voilà pour vous."
 
 # game/chapter4.rpy:2533
 translate french c4facility_91eafbdd:
 
     # Dm "Thanks, I'll get right to it."
-    Dm ""
+    Dm "Merci, Je m'en occupe sur le champs."
 
 # game/chapter4.rpy:2574
 translate french loremnotmissing_9d308e3d:
 
     # "???" "Can I help you?"
-    "???" ""
+    "???" "Puis-je vous aider ?"
 
 # game/chapter4.rpy:2576
 translate french loremnotmissing_6cb5fcc8:
 
     # c "You must be Ipsum. Is that right?"
-    c ""
+    c "Vous devez être Ipsum. C'est bien ça ?"
 
 # game/chapter4.rpy:2578
 translate french loremnotmissing_512650c4:
 
     # Ip normal "Sure."
-    Ip normal ""
+    Ip normal "C'est çà."
 
 # game/chapter4.rpy:2580
 translate french loremnotmissing_a15c71e7:
 
     # c "I'm working with the police and hoped you could answer a few questions."
-    c ""
+    c "Je travaille en collaboration avec la police et j'espérais que vous pouriez répondre à quelques questions."
 
 # game/chapter4.rpy:2584
 translate french loremnotmissing_9c960c3e:
 
     # Ip "Oh, it's you."
-    Ip ""
+    Ip "Oh c'est vous."
 
 # game/chapter4.rpy:2586
 translate french loremnotmissing_d6b0f084:
 
     # Ip think "Can I help you?"
-    Ip think ""
+    Ip think "Puis-je vous aider ?"
 
 # game/chapter4.rpy:2588
 translate french loremnotmissing_cef17091:
 
     # c "Yeah. I'm working with the police and hoped you could answer a few questions."
-    c ""
+    c "Oui. Je travaille avec la police et j'espérais que vous pourriez à quelques questions."
 
 # game/chapter4.rpy:2592
 translate french loremnotmissing_68dad7a1:
 
     # Ip "Because I responded to your call for witnesses about last night, right?"
-    Ip ""
+    Ip "Parce que j'ai répondu à votre appel à témoin à propos de la nuit dernière, c'est ça ?"
 
 # game/chapter4.rpy:2594
 translate french loremnotmissing_26eefe0a:
 
     # c "Yes."
-    c ""
+    c "Oui."
 
 # game/chapter4.rpy:2596
 translate french loremnotmissing_64e0b65f:
 
     # Ip think "Alright. What do you want to know?"
-    Ip think ""
+    Ip think "D'accord. Que voulez vous savoir ?"
 
 # game/chapter4.rpy:2598
 translate french loremnotmissing_8e9278fd:
 
     # c "Can you tell me what happened?"
-    c ""
+    c "Pouvez vous me dire ce qui s'est passer ?"
 
 # game/chapter4.rpy:2600
 translate french loremnotmissing_e4572aa4:
 
     # Ip happy "Sure. I was running an experiment in my home laboratory and waiting for it to finish."
-    Ip happy ""
+    Ip happy "Bien sûr. J'étais en train de mener une expérience dans mon labo et attendais qu'elle finisse."
 
 # game/chapter4.rpy:2602
 translate french loremnotmissing_75416a96:
 
     # Ip think "Around 2AM, I suddenly hear a few bangs outside. They reminded me of small explosions."
-    Ip think ""
+    Ip think "Aux alentours de 2 heures du matin, j'entendis soudainement quelques détonations à l'exterieur. Elles me rappellèrent des petites explosions."
 
 # game/chapter4.rpy:2604
 translate french loremnotmissing_c87e8928:
 
     # Ip normal "It sounded like they were coming from just around the corner."
-    Ip normal ""
+    Ip normal "Le bruit donnait l'impression que ça venait d'à côté."
 
 # game/chapter4.rpy:2606
 translate french loremnotmissing_66865b4d:
 
     # c "I see. Did nothing about this seem unusual to you?"
-    c ""
+    c "Je vois. Rien d'autre qui vous a paru inhabituel ?"
 
 # game/chapter4.rpy:2608
 translate french loremnotmissing_371a499b:
 
     # Ip happy "Not really. I know I've caused a few similar disturbances with my experiments before. If someone else decided to take up home experimentation, they certainly have my approval."
-    Ip happy ""
+    Ip happy "Pas vraiment. Je sais que j'ai causé quelques soucis similaires avec mes expériences auparavant. Si quelqu'un d'autre décidait de ramener des expériences chez lui, Ce serait avec ma bénédiction."
 
 # game/chapter4.rpy:2610
 translate french loremnotmissing_5a793c2e:
 
     # Ip think "Besides, I wasn't in any position to abandon the experiment that was running at the time or else it could've had a similar outcome."
-    Ip think ""
+    Ip think "De plus, je n'avais pas les moyens d'abandonner l'expérience qui était en cours ou sinon cela aurait pu avoir des conséquences similaires."
 
 # game/chapter4.rpy:2612
 translate french loremnotmissing_74ebe49c:
 
     # c "Thank you. I think that will be all."
-    c ""
+    c "Merci. Je pense que ça sera tout."
 
 # game/chapter4.rpy:2614
 translate french loremnotmissing_6f3919b9:
 
     # Ip normal "No problem."
-    Ip normal ""
+    Ip normal "Pas de problème."
 
 # game/chapter4.rpy:2618
 translate french loremnotmissing_92287918:
 
     # Ip think "By the way, are you going to meet with Lorem again any time soon?"
-    Ip think ""
+    Ip think "Au passage, Est-ce que vous allez vous revoir avec Lorem un de ces quatre ?"
 
 # game/chapter4.rpy:2620
 translate french loremnotmissing_96280233:
 
     # c "I don't know. Why are you asking?"
-    c ""
+    c "Je ne sais pas. Pourquoi vous demandez ?"
 
 # game/chapter4.rpy:2622
 translate french loremnotmissing_60f37cc4:
 
     # Ip "You’ve hung out with him a few times now. You see, he doesn’t have many friends, and I think he’s starting to like you."
-    Ip ""
+    Ip "Vous avez passé pas mal de temps avec lui. Vous voyez, il n'a pas beaucoup d'amis, et je pense qu'il commence à vous apprécier."
 
 # game/chapter4.rpy:2624
 translate french loremnotmissing_d5faba5e:
 
     # c "That's not really unusual."
-    c ""
+    c "Ca n'est pas inhabituel."
 
 # game/chapter4.rpy:2626
 translate french loremnotmissing_6aa06075:
 
     # Ip "It's just... If something happens the next time you meet, don’t be mad at him, okay?"
-    Ip ""
+    Ip "C'est juste que... Si quelque chose arrive la prochaine fois que vous vous voyez, ne lui en voulez pas, d'accord ?"
 
 # game/chapter4.rpy:2628
 translate french loremnotmissing_fe5f3366:
 
     # c "Okay."
-    c ""
+    c "Ok."
 
 # game/chapter4.rpy:2677
 translate french loremnotmissing_9d308e3d_1:
 
     # "???" "Can I help you?"
-    "???" ""
+    "???" "Puis-je vous aider ?"
 
 # game/chapter4.rpy:2679
 translate french loremnotmissing_6cb5fcc8_1:
 
     # c "You must be Ipsum. Is that right?"
-    c ""
+    c "Vou devez être Ipsum. C'est bien ça ?"
 
 # game/chapter4.rpy:2681
 translate french loremnotmissing_626c30a3:
 
     # Ip "Yes."
-    Ip ""
+    Ip "Oui."
 
 # game/chapter4.rpy:2683
 translate french loremnotmissing_a15c71e7_1:
 
     # c "I'm working with the police and hoped you could answer a few questions."
-    c ""
+    c "Je travaille avec la police et j'espérais que vous pourriez répondre à quelques questions."
 
 # game/chapter4.rpy:2687
 translate french loremnotmissing_dbeaf6c5:
 
     # Ip think "Oh, it's you."
-    Ip think ""
+    Ip think "Oh, c'est vous."
 
 # game/chapter4.rpy:2689
 translate french loremnotmissing_04aa68db:
 
     # Ip "Can I help you?"
-    Ip ""
+    Ip "Puis-je vous aider ?"
 
 # game/chapter4.rpy:2691
 translate french loremnotmissing_cef17091_1:
 
     # c "Yeah. I'm working with the police and hoped you could answer a few questions."
-    c ""
+    c "Oui je travaille avec la police et espérais que vous pourriez répondre à quelques questions."
 
 # game/chapter4.rpy:2696
 translate french loremnotmissing_b516b795:
 
     # Ip "Oh. Do you have any news about my roommate?"
-    Ip ""
+    Ip "Oh. Vous avez des nouvelles de mon colocataire ?"
 
 # game/chapter4.rpy:2700
 translate french loremnotmissing_9cbff9bd:
 
     # Ip "Do you have any news about Lorem?"
-    Ip ""
+    Ip "Vous avez des nouvelles au sujet de Lorem ?"
 
 # game/chapter4.rpy:2702
 translate french loremnotmissing_9e19beb8:
 
     # c "This is about the noises you heard last night."
-    c ""
+    c "Ce sont les bruits que vous avez entendu la nuit dernière."
 
 # game/chapter4.rpy:2706
 translate french loremnotmissing_42258e65:
 
     # c "What is going on with your roommate?"
-    c ""
+    c "Que se passe-t-il avec votre colocataire ?"
 
 # game/chapter4.rpy:2710
 translate french loremnotmissing_3752cdda:
 
     # c "What is going on with Lorem?"
-    c ""
+    c "Qu'est-ce qu'il se passe avec Lorem ?"
 
 # game/chapter4.rpy:2712
 translate french loremnotmissing_21ff236f:
 
     # Ip sad "He went missing a few days ago. I already talked to someone from the police about this, but I haven't heard back from them since."
-    Ip sad ""
+    Ip sad "Il a disparu il y a quelques jours. J'ai déjà parlé à quelqu'un de la police à ce sujet, mais je n'ai pas eu de retour depuis."
 
 # game/chapter4.rpy:2714
 translate french loremnotmissing_c21407a9:
 
     # c "I'm sorry. This is the first I've heard about this."
-    c ""
+    c "Je suis désolé. C'est la première fois que j'en entends parler."
 
 # game/chapter4.rpy:2716
 translate french loremnotmissing_45b5fb0a:
 
     # Ip "I don't know what happened to him. He didn't go on vacation, nor did he suddenly decide to visit the next town. I'd know if he did – he would have told me."
-    Ip ""
+    Ip "Je ne sais pas ce qui lui est arrivé. Il n'est pas parti en vacances, ou de partir soudainement visiter la ville d'à côté. Je le saurais sinon - il m'en aurait parlé."
 
 # game/chapter4.rpy:2718
 translate french loremnotmissing_0e144e97:
 
     # Ip "Honestly, I find it odd that when someone goes missing, I don't hear back for several days. But when I hear loud banging noises during the night, the police sends someone over immediately."
-    Ip ""
+    Ip "En toute honnêteté, je trouve étrange que quand quelqu'un disparaît, je n'ai pas de retour pendant plusieurs jours. Mais quand j'entends des détonations durant la nuit, la police envoie quelqu'un immédiatement."
 
 # game/chapter4.rpy:2720
 translate french loremnotmissing_3907e8c4:
 
     # Ip "I'm sorry, but I don't think I want to talk about this right now."
-    Ip ""
+    Ip "Je suis désolé, mais je n'ai pas vraiment envie d'en parler."
 
 # game/chapter4.rpy:2756
 translate french c4library_a50af3ed:
 
     # c "(Doesn't look like Remy is here.)"
-    c ""
+    c "(On dirait que Remy n'est pas ici.)"
 
 # game/chapter4.rpy:2760
 translate french c4library_364daeed:
 
     # Ei "Excuse me."
-    Ei ""
+    Ei "Excusez moi."
 
 # game/chapter4.rpy:2762
 translate french c4library_aa581abf:
 
     # c "Can I help you?"
-    c ""
+    c "Oh, je peux vous aider ?"
 
 # game/chapter4.rpy:2764
 translate french c4library_3c0fe50c:
 
     # Ei "Do you know where the audio section is? I'm looking for some sheet music."
-    Ei ""
+    Ei "Vous savez ou se trouve la section audio ? Je cherche des partitions..."
 
 # game/chapter4.rpy:2766
 translate french c4library_57a80524:
 
     # c "Sorry, I have no idea. I don't even work here."
-    c ""
+    c "Désolé, mais je ne saurais vous répondre. Je ne travaille pas ici."
 
 # game/chapter4.rpy:2768
 translate french c4library_a0e54fc9:
 
     # Ei "Ah, don't worry about it. The staff all seem to be hiding somewhere."
-    Ei ""
+    Ei "Ah, ne vous en faites pas ! En fait je ne trouve personne qui travaille ici."
 
 # game/chapter4.rpy:2770
 translate french c4library_ebf760d8:
 
     # Ei "Anyway, have a good day."
-    Ei ""
+    Ei "Enfin, passez une bonne journée !"
 
 # game/chapter4.rpy:2772
 translate french c4library_b092993f:
 
     # c "You too."
-    c ""
+    c "Vous aussi."
 
 # game/chapter4.rpy:2784
 translate french c4library_3ec04e11:
 
     # c "(Maybe Remy is somewhere in the back, or in his office.)"
-    c ""
+    c "(Peut-être que Remy est quelque part entre deux étagères, ou dans son bureau.)"
 
 # game/chapter4.rpy:2790
 translate french c4library_98ba7ce2:
 
     # c "Hello?"
-    c ""
+    c "Bonjour ?"
 
 # game/chapter4.rpy:2794
 translate french c4library_64429502:
 
     # Em "You know, this section is usually for staff only."
-    Em ""
+    Em "Vous savez, cette section est réservée au personnel."
 
 # game/chapter4.rpy:2796
 translate french c4library_176a6864:
 
     # c "I'm just looking for Remy. I'm supposed to drop off this PDA."
-    c ""
+    c "Pardon, mais je cherche Remy, je dois lui remettre ce PDA."
 
 # game/chapter4.rpy:2798
 translate french c4library_95c88821:
 
     # Em mean b "Well, he is not working today. Apparently he has other engagements."
-    Em mean b ""
+    Em mean b "Eh bien, il n'est pas au travail aujourd'hui. Apparement il a rendez-vous ailleurs."
 
 # game/chapter4.rpy:2800
 translate french c4library_b1c0823f:
 
     # Em normal b "If you need to find him, you can probably do so at his home."
-    Em normal b ""
+    Em normal b "Si vous tenez vraiment à le voir, il faudra certainement vous rendre chez lui."
 
 # game/chapter4.rpy:2802
 translate french c4library_587ce40e:
 
     # c "Can't I just leave the PDA here?"
-    c ""
+    c "Je ne peux pas laisser le PDA ici ?"
 
 # game/chapter4.rpy:2804
 translate french c4library_a0fe0103:
 
     # Em ques b "Oh, I am not going to take responsibility for this if it gets lost. If you want to drop it off, go find him."
-    Em ques b ""
+    Em ques b "Oh, je ne veux pas être responsable de quoi que ce soit si jamais ce PDA venait à se perdre. Laissez le lui directement."
 
 # game/chapter4.rpy:2806
 translate french c4library_fe5f3366:
 
     # c "Okay."
-    c ""
+    c "Ok."
 
 # game/chapter4.rpy:2808
 translate french c4library_4c6914b8:
 
     # Em normal b "By the way, I hope you do not take it personally that I tried to send you away."
-    Em normal b ""
+    Em normal b "Au fait, j'espère que vous ne prenez pas personnellement le fait que j'ai voulu vous renvoyer."
 
 # game/chapter4.rpy:2810
 translate french c4library_b23f25ee:
 
     # Em "To be honest, I am glad that you are still here. Remember, I said that I believed you when you told me your side of the story."
-    Em ""
+    Em "Sincèrement, je suis ravie que voyez encore là. Souvenez vous, j'ai avoué vous croire après que vous nous ayez tout raconté sur votre monde."
 
 # game/chapter4.rpy:2812
 translate french c4library_833880c4:
 
     # Em ques b "I always have to do what is in the public's best interest, and now they will not blame me if you have any connection with Reza. I hope you can understand that."
-    Em ques b ""
+    Em ques b "Je dois toujours agir dans l'intérêt du public. Maintenant, si vous avez un lien quelconque avec les agissements de Reza, personne ne pourra me repprocher ma décision. J'espère vous êtes conscient de cela."
 
 # game/chapter4.rpy:2814
 translate french c4library_6b596a9e:
 
     # Em normal b "Here is Remy's address, in case you need it."
-    Em normal b ""
+    Em normal b "Enfin, voici l'adresse de Remy, au cas où."
 
 # game/chapter4.rpy:2816
 translate french c4library_e897fbb0:
 
     # c "Thank you."
-    c ""
+    c "Merci."
 
 # game/chapter4.rpy:2830
 translate french c4library_7d6298bc:
 
     # Ry "Oh, hello [player_name]. What are you doing here?"
-    Ry ""
+    Ry "Oh, bonjour [player_name]. Qu'est-ce que tu fais ici ?"
 
 # game/chapter4.rpy:2832
 translate french c4library_f692f8a4:
 
     # c "I came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c ""
+    c "Bonjour Remy, je viens t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2834
 translate french c4library_07d1113d:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/chapter4.rpy:2836
 translate french c4library_55a08bac:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile ""
+    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un d'eux !"
 
 # game/chapter4.rpy:2838
 translate french c4library_e1a48044:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c ""
+    c "Oui, et maintenant tu as toute les connaissances humaines à portée de griffe."
 
 # game/chapter4.rpy:2840
 translate french c4library_3a588917:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal ""
+    Ry normal "Tu n'imagine pas depuis combien de temps j'attends ce moment."
 
 # game/chapter4.rpy:2842
 translate french c4library_91c4e706:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry ""
+    Ry "Je ne travaille pas aujourd'hui, certes. Mais crois bien que je vais jeter un oeil à ce PDA dès que possible."
 
 # game/chapter4.rpy:2844
 translate french c4library_890850e8:
 
     # c "I'm just going to leave you to it, then."
-    c ""
+    c "D'accord. Je vais te laisser, alors."
 
 # game/chapter4.rpy:2846
 translate french c4library_b97e7acd:
 
     # Ry smile "Thanks."
-    Ry smile ""
+    Ry smile "Merci."
 
 # game/chapter4.rpy:2848
 translate french c4library_f76092e2:
 
     # c "Enjoy."
-    c ""
+    c "Profite bien."
 
 # game/chapter4.rpy:2867
 translate french c4library_7d6298bc_1:
 
     # Ry "Oh, hello [player_name]. What are you doing here?"
-    Ry ""
+    Ry "Oh, bonjour [player_name]. Que fais-tu ici ?"
 
 # game/chapter4.rpy:2869
 translate french c4library_460db703:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c ""
+    c "Je suis venu t'apporter ceci. Je suis passé à la bibliothèque mais Emera a refusé que je le laisse à ton bureau."
 
 # game/chapter4.rpy:2871
 translate french c4library_07d1113d_1:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/chapter4.rpy:2873
 translate french c4library_55a08bac_1:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile ""
+    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un deux !"
 
 # game/chapter4.rpy:2875
 translate french c4library_e1a48044_1:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c ""
+    c "Oui, et maintenant tu as toute les connaissances humaines à portée de griffe."
 
 # game/chapter4.rpy:2877
 translate french c4library_3a588917_1:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal ""
+    Ry normal "Tu n'imagines pas depuis combien de temps j'attends ce moment."
 
 # game/chapter4.rpy:2879
 translate french c4library_91c4e706_1:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry ""
+    Ry "Je ne travaille pas aujourd'hui, certes. Mais croiyez bien que je vais jeter un oeil à ce PDA dès que possible."
 
 # game/chapter4.rpy:2881
 translate french c4library_890850e8_1:
 
     # c "I'm just going to leave you to it, then."
-    c ""
+    c "J'imagine. Je te laisse, j'ai encore des choses à faire."
 
 # game/chapter4.rpy:2883
 translate french c4library_b97e7acd_1:
 
     # Ry smile "Thanks."
-    Ry smile ""
+    Ry smile "Merci."
 
 # game/chapter4.rpy:2885
 translate french c4library_f76092e2_1:
 
     # c "Enjoy."
-    c ""
+    c "Profite bien."
 
 # game/chapter4.rpy:2903
 translate french c4library_7d6298bc_2:
