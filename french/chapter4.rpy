@@ -3322,151 +3322,151 @@ translate french c4library_f76092e2_1:
 translate french c4library_7d6298bc_2:
 
     # Ry "Oh, hello [player_name]. What are you doing here?"
-    Ry ""
+    Ry "Oh, bonjour [player_name]. Que fais-tu ici ?"
 
 # game/chapter4.rpy:2905
 translate french c4library_460db703_1:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c ""
+    c "Je suis venu vous apporter ceci. Je suis passé à la bibliothèque mais Emera a refusé que je le laisse à votre bureau."
 
 # game/chapter4.rpy:2907
 translate french c4library_07d1113d_2:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/chapter4.rpy:2909
 translate french c4library_55a08bac_2:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile ""
+    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un deux !"
 
 # game/chapter4.rpy:2911
 translate french c4library_e1a48044_2:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c ""
+    c "Oui, et maintenant tu as toutes les connaissances humaines à portée de griffe."
 
 # game/chapter4.rpy:2913
 translate french c4library_3a588917_2:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal ""
+    Ry normal "Tu n'imagines pas depuis combien de temps j'attends ce moment."
 
 # game/chapter4.rpy:2915
 translate french c4library_91c4e706_2:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry ""
+    Ry "Je ne travaille pas aujourd'hui, certes. Mais croiyez bien que je vais jeter un oeil à ce PDA dès que possible."
 
 # game/chapter4.rpy:2917
 translate french c4library_890850e8_2:
 
     # c "I'm just going to leave you to it, then."
-    c ""
+    c "Je vais te laisser à tes affaires, alors."
 
 # game/chapter4.rpy:2919
 translate french c4library_b97e7acd_2:
 
     # Ry smile "Thanks."
-    Ry smile ""
+    Ry smile "Merci."
 
 # game/chapter4.rpy:2921
 translate french c4library_f76092e2_2:
 
     # c "Enjoy."
-    c ""
+    c "Amuse-toi bien."
 
 # game/chapter4.rpy:2940
 translate french c4library_e63a1f9c:
 
     # Ry "Oh, it's you. I don't think it's a good time for you to visit right now, though."
-    Ry ""
+    Ry "Oh, c'est toi. Je ne crois pass que ce sois le bon moment pour me rendre visite."
 
 # game/chapter4.rpy:2942
 translate french c4library_460db703_2:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c ""
+    c "Je suis juste venu te remettre ceci. Je suis passé à ton bureau, mais Emera a refusé que je le laisse là-bas."
 
 # game/chapter4.rpy:2944
 translate french c4library_07d1113d_3:
 
     # Ry "I see."
-    Ry ""
+    Ry "Je vois."
 
 # game/chapter4.rpy:2946
 translate french c4library_00fbcf15:
 
     # Ry normal "Oh, it's one of your PDAs. I was really looking forward to this."
-    Ry normal ""
+    Ry normal "Oh, mais c'est l'un de vos PDAs, j'avais vraiment hâte d'en avoir un entre les griffes !"
 
 # game/chapter4.rpy:2948
 translate french c4library_c96980f9:
 
     # c "Well, here you go."
-    c ""
+    c "Oh, dans ce cas, voici pour toi."
 
 # game/chapter4.rpy:2950
 translate french c4library_c94450f0:
 
     # Ry "Thanks for coming by."
-    Ry ""
+    Ry "Merci d'être passé."
 
 # game/chapter4.rpy:2952
 translate french c4library_f76092e2_3:
 
     # c "Enjoy."
-    c ""
+    c "Amuse-toi bien."
 
 # game/chapter4.rpy:2971
 translate french c4library_759894d0:
 
     # c "Is anybody home?"
-    c ""
+    c "Il y a quelqu'un ?"
 
 # game/chapter4.rpy:2977
 translate french c4library_aa1ad311:
 
     # c "(What? The door's unlocked.)"
-    c ""
+    c "(Quoi ? La porte est dévérouillée.)"
 
 # game/chapter4.rpy:2979
 translate french c4library_6f34a4d5:
 
     # c "(Well, if he isn't here and left the door open, that's no good.)"
-    c ""
+    c "(S'il n'est pas là et a laissé la porte ouverte, ce n'est pas bon signe.)"
 
 # game/chapter4.rpy:2981
 translate french c4library_03fc7431:
 
     # m "I went inside and closed the door behind me."
-    m ""
+    m "Je pénétrai et fermai la porte derrière moi."
 
 # game/chapter4.rpy:2983
 translate french c4library_d4e77ef8:
 
     # c "Remy? Are you there? Your front door was wide open."
-    c ""
+    c "Rémi ? Tu es là ? La porte d'entrée était grande ouverte."
 
 # game/chapter4.rpy:2985
 translate french c4library_748189bf:
 
     # c "What the..."
-    c ""
+    c "Qu'est-ce que..."
 
 # game/chapter4.rpy:2987
 translate french c4library_3026356f:
 
     # c "Remy!"
-    c ""
+    c "Rémi !"
 
 # game/chapter4.rpy:3007
 translate french c4library_17a7ece9:
 
     # Sb "How well did you know him?"
-    Sb ""
+    Sb "Tu le connaissais ?"
 
 # game/chapter4.rpy:3023
 translate french c4library_f51e808a:
