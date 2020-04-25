@@ -3472,109 +3472,109 @@ translate french c4library_17a7ece9:
 translate french c4library_f51e808a:
 
     # Sb "I see. Well, I know he met you when you initially arrived here, at the very least."
-    Sb ""
+    Sb "Je vois. Je sais que c'est lui qui vous a accueilli après votre arrivée."
 
 # game/chapter4.rpy:3025
 translate french c4library_ff12b77a:
 
     # Sb "It doesn't look like he left a suicide note or anything."
-    Sb ""
+    Sb "On dirait qu'il n'a rien laissé, pas de lettre d'adieux ou quoi."
 
 # game/chapter4.rpy:3027
 translate french c4library_6fdd6ae0:
 
     # Sb "I know he has no family, and I don't think he had many friends, either."
-    Sb ""
+    Sb "Je sais qu'il n'a pas de famille, et je ne pense pas qu'il avait beaucoup d'amis non plus."
 
 # game/chapter4.rpy:3029
 translate french c4library_b268a854:
 
     # Sb "Do you have any idea why he may have done this?"
-    Sb ""
+    Sb "Une idée de ce qui l'aurait poussé à faire ça ?"
 
 # game/chapter4.rpy:3035
 translate french c4library_759b976c:
 
     # Sb "I see."
-    Sb ""
+    Sb "Je vois."
 
 # game/chapter4.rpy:3037
 translate french c4library_82410399:
 
     # Sb "I suppose the reason doesn't really matter at this point. He's already gone."
-    Sb ""
+    Sb "Je suppose que la raison n'a plus vraiment d'importance maintenant. Il n'est déjà plus."
 
 # game/chapter4.rpy:3039
 translate french c4library_32dc6903:
 
     # Sb "It's always a shame when things like this happen, when there are resources to help people who have issues and illnesses."
-    Sb ""
+    Sb "C'est toujours décevant de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
 
 # game/chapter4.rpy:3041
 translate french c4library_b56454d2:
 
     # Sb "It's a mark on our society, a reminder that we let it happen. Someone suffered so much that they took their own life."
-    Sb ""
+    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un a souffert au point de s'ôter la vie."
 
 # game/chapter4.rpy:3043
 translate french c4library_541184d2:
 
     # Sb "But what more can you do?"
-    Sb ""
+    Sb "Mais, que voulez vous qu'on fasse de plus ?"
 
 # game/chapter4.rpy:3047
 translate french c4library_759b976c_1:
 
     # Sb "I see."
-    Sb ""
+    Sb "Je vois."
 
 # game/chapter4.rpy:3049
 translate french c4library_82410399_1:
 
     # Sb "I suppose the reason doesn't really matter at this point. He's already gone."
-    Sb ""
+    Sb "Je suppose que la raison n'a plus vraiment d'importance maintenant. Il n'est déjà plus."
 
 # game/chapter4.rpy:3051
 translate french c4library_32dc6903_1:
 
     # Sb "It's always a shame when things like this happen, when there are resources to help people who have issues and illnesses."
-    Sb ""
+    Sb "C'est toujours décevant de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
 
 # game/chapter4.rpy:3053
 translate french c4library_b56454d2_1:
 
     # Sb "It's a mark on our society, a reminder that we let it happen. Someone suffered so much that they took their own life."
-    Sb ""
+    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un a souffert au point de s'ôter la vie."
 
 # game/chapter4.rpy:3055
 translate french c4library_541184d2_1:
 
     # Sb "But what more can you do?"
-    Sb ""
+    Sb "Mais, que voulez vous qu'on fasse de plus ?"
 
 # game/chapter4.rpy:3059
 translate french c4library_9f36a9ba:
 
     # Sb "Bullied? By whom?"
-    Sb ""
+    Sb "Malmené ? Par qui, tu le sais ?"
 
 # game/chapter4.rpy:3061
 translate french c4library_c44802b0:
 
     # c "Emera. He was constantly mistreated. She was beyond harsh."
-    c ""
+    c "Emera. Elle le maltraitait constament. Elle était plus qu'ignoble."
 
 # game/chapter4.rpy:3063
 translate french c4library_93602a76:
 
     # Sb "You think she was bullying him? That's a big accusation to make. You know who she is, right?"
-    Sb ""
+    Sb "Tu penses qu'elle lui menait la vie dure ? C'est une sacrée accusation, tu sais qui elle est, n'est-ce pas ?"
 
 # game/chapter4.rpy:3065
 translate french c4library_4ccb10f0:
 
     # c "Yes, but I experienced it first-hand."
-    c ""
+    c "Oui, mais j'ai vu faire certaines choses."
 
 # game/chapter4.rpy:3067
 translate french c4library_71044caa:
@@ -3586,199 +3586,199 @@ translate french c4library_71044caa:
 translate french c4library_5eb39e2c:
 
     # c "I'm just saying how it is."
-    c ""
+    c "Si cette histoire est l'une des raisons qui l'a poussé à se suicider, ça serait très grave."
 
 # game/chapter4.rpy:3071
 translate french c4library_de251424:
 
     # Sb "Well, do you have any proof of this bullying you speak of? Do you know how long it was going on or how extensive it was?"
-    Sb ""
+    Sb "Est-ce que tu as des preuves de ce que tu avances là ? Tu as idée de quand ça a commencé, jusqu'où ça a été ?"
 
 # game/chapter4.rpy:3073
 translate french c4library_89c2bed2:
 
     # c "No, not really. I only saw it myself once or twice."
-    c ""
+    c "Non, pas vraiment. J'ai été témoins de ses agissements une ou deux fois au plus."
 
 # game/chapter4.rpy:3075
 translate french c4library_5cdbca69:
 
     # Sb "One or two instances of being scolded hardly constitutes bullying, especially if Emera had good reasons."
-    Sb ""
+    Sb "Une ou deux fois, ça ne peut pas être vraiment considéré comme du harcèlement ou quoi. Si ça se trouve il y avait une bonne raison pour que ces scènes aient lieux."
 
 # game/chapter4.rpy:3077
 translate french c4library_f40bbda7:
 
     # Sb "Without hard proof, you can't make a case or accuse Emera of bullying."
-    Sb ""
+    Sb "Sans preuve tangible, tu ne pourras rien contre Emera."
 
 # game/chapter4.rpy:3079
 translate french c4library_5d6e5ae5:
 
     # c "So, you can't really do anything?"
-    c ""
+    c "Donc, vous ne pouvez rien faire ?"
 
 # game/chapter4.rpy:3081
 translate french c4library_ebf628fb:
 
     # Sb "I can't do anything if there isn't a case."
-    Sb ""
+    Sb "Je ne peux rien faire s'il n'y a pas de procédure de lancée."
 
 # game/chapter4.rpy:3083
 translate french c4library_0914c74d:
 
     # Sb "I'd also recommend that you keep your opinion on this matter to yourself."
-    Sb ""
+    Sb "Aussi, je te conseilles vivement de garder tout ce que tu m'as dit pour toi."
 
 # game/chapter4.rpy:3085
 translate french c4library_4e5a4202:
 
     # c "Why?"
-    c ""
+    c "Pourquoi ?"
 
 # game/chapter4.rpy:3087
 translate french c4library_8a26ee04:
 
     # Sb "Voicing an opinion like that without the evidence to back it up could have consequences. Especially if you're dealing with someone like Emera."
-    Sb ""
+    Sb "Dire de tels choses sans avoir de preuves pourrait avoir de facheuses conséquences, surtout si tu t'en prends à quelqu'un comme Emera."
 
 # game/chapter4.rpy:3089
 translate french c4library_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois"
 
 # game/chapter4.rpy:3091
 translate french c4library_03ab34e1:
 
     # Sb "I'm sorry you had to find Remy like this, though."
-    Sb ""
+    Sb "Je suis désolé que tu ais eu à trouver Rémi comme ça."
 
 # game/chapter4.rpy:3093
 translate french c4library_12593beb:
 
     # Sb "In any case, I'll handle the rest. Feel free to take the day off, if you need to."
-    Sb ""
+    Sb "Je m'occupe du reste va. N'hésite pas à prendre congé si tu veux te changer les idées."
 
 # game/chapter4.rpy:3095
 translate french c4library_86148265:
 
     # c "Alright."
-    c ""
+    c "D'accord."
 
 # game/chapter4.rpy:3117
 translate french c4hatchery_5ef8d581:
 
     # m "I was on my way to the hatchery when I heard a voice call out to me."
-    m ""
+    m "J'étais en route pour le couvoir quand j'ai entendu une voix qui m'appellait."
 
 # game/chapter4.rpy:3119
 translate french c4hatchery_1472f888:
 
     # "???" "Hello there!"
-    "???" ""
+    "???" "Bonjour à vous !"
 
 # game/chapter4.rpy:3121
 translate french c4hatchery_09839951:
 
     # m "I turned around to see an unfamiliar face before me."
-    m ""
+    m "Je me suis retourné et suis tombé sur quelqu'un que je ne connaissais pas."
 
 # game/chapter4.rpy:3133
 translate french c4hatchery_5f20fb4d:
 
     # Kv "Hey. I'm Kevin."
-    Kv ""
+    Kv "Salut. Je m'appelle Kevin."
 
 # game/chapter4.rpy:3135
 translate french c4hatchery_b2f2b22d:
 
     # c "[player_name]. Nice to meet you."
-    c ""
+    c "[player_name]. Content de vous rencontrer."
 
 # game/chapter4.rpy:3137
 translate french c4hatchery_417bf85a:
 
     # Kv ramble "Could I perhaps interest you in our Midwest Institution?"
-    Kv ramble ""
+    Kv ramble "Vous voulez bien que je vous parle de notre Institut de Midwest ?"
 
 # game/chapter4.rpy:3139
 translate french c4hatchery_141a6f86:
 
     # c "Is this some kind of religious thing?"
-    c ""
+    c "Est-ce que c'est une religion ou bien ?"
 
 # game/chapter4.rpy:3141
 translate french c4hatchery_cdecacfa:
 
     # Kv "Not at all! It's a college."
-    Kv ""
+    Kv "Pas du tout! c'est une université."
 
 # game/chapter4.rpy:3143
 translate french c4hatchery_d1b8139c:
 
     # c "Sorry, but I already got my degrees."
-    c ""
+    c "Désolé mais j'ai déjà obtenu mes diplômes."
 
 # game/chapter4.rpy:3145
 translate french c4hatchery_79f45a08:
 
     # Kv face "Yeah, I know. It was just a joke."
-    Kv face ""
+    Kv face "Ouai je sais. C'était juste un blague."
 
 # game/chapter4.rpy:3147
 translate french c4hatchery_ae479467:
 
     # c "Oh, so me going to college is a joke now. I'm not good enough, is that it?"
-    c ""
+    c "Alors comme ça, le fait que j'aille à la fac est une blague maintenant. Je ne suis pas assez bon c'est ça ?"
 
 # game/chapter4.rpy:3149
 translate french c4hatchery_45093a02:
 
     # Kv normal "Not at all! Even if you wanted to study there, I don't think you'll be with us long enough to make use of it."
-    Kv normal ""
+    Kv normal "Pas du tout ! Mais même si tu voulais étudier ici, Je ne pense pas que tu serais assez longtemps parmi nous pour que ça te serve."
 
 # game/chapter4.rpy:3151
 translate french c4hatchery_f4330ccd:
 
     # Kv face "I think that came out wrong."
-    Kv face ""
+    Kv face "Je crois que ça sonnait mieux dans ma tête."
 
 # game/chapter4.rpy:3153
 translate french c4hatchery_828a38b5:
 
     # c "You're lucky I won't take this the wrong way."
-    c ""
+    c "Heureusement que je ne l'ai pas mal pris."
 
 # game/chapter4.rpy:3155
 translate french c4hatchery_924fb051:
 
     # Kv normal "Phew."
-    Kv normal ""
+    Kv normal "Fiou."
 
 # game/chapter4.rpy:3157
 translate french c4hatchery_68670296:
 
     # c "So, you're a recruiter for this college?"
-    c ""
+    c "Alors, tu es chargé de recruter pour cette université ?"
 
 # game/chapter4.rpy:3159
 translate french c4hatchery_6a4c87cd:
 
     # Kv ramble "No, this is just my summer job. Once the semester starts up again, I'll actually be attending to get my degree in psychology."
-    Kv ramble ""
+    Kv ramble "Non, en fait c'est surtout un job d'été. Quand le prochain semestre débutera je retournerai à mes études en psychologie."
 
 # game/chapter4.rpy:3161
 translate french c4hatchery_bf12a3b2:
 
     # c "College. Wonderful times."
-    c ""
+    c "Ah l'université, quelle période merveilleuse."
 
 # game/chapter4.rpy:3163
 translate french c4hatchery_054d94cb:
 
     # Kv brow "Is that sarcasm?"
-    Kv brow ""
+    Kv brow "C'est du sarcasme ?"
 
 # game/chapter4.rpy:3165
 translate french c4hatchery_847da168:
