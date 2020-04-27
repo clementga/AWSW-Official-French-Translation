@@ -3976,13 +3976,13 @@ translate french _call_syscheck_78_62624e2a:
 translate french _call_syscheck_78_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. bl-œuf-ant"
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3289
 translate french _call_syscheck_78_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. bl-œuf-ant."
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3303
 translate french _call_syscheck_78_688e156a:
@@ -4096,421 +4096,421 @@ translate french _call_syscheck_79_62624e2a:
 translate french _call_syscheck_79_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant"
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3383
 translate french _call_syscheck_79_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant"
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3396
 translate french _call_syscheck_79_30958c13:
 
     # c "I'm not sure how to say this, but..."
-    c ""
+    c "Je ne sais pas trop comment te dire ça, mais..."
 
 # game/chapter4.rpy:3398
 translate french _call_syscheck_79_144fdc4c:
 
     # Ad disappoint b "Oh, I see."
-    Ad disappoint b ""
+    Ad disappoint b "Oh, laisse tomber, j'ai compris."
 
 # game/chapter4.rpy:3400
 translate french _call_syscheck_79_4a1dbf32:
 
     # Ad "Well, you could've at least told me instead of ignoring me."
-    Ad ""
+    Ad "J'aurais préféré que tu me le dise au lieu de m'ignorer."
 
 # game/chapter4.rpy:3402
 translate french _call_syscheck_79_527c5b7e:
 
     # c "I told you now, didn't I?"
-    c ""
+    c "Je te le dis maintenant, ça ne compte pas ?"
 
 # game/chapter4.rpy:3404
 translate french _call_syscheck_79_af1ebe74:
 
     # Ad "Oh, well. I won't bother you anymore, then."
-    Ad ""
+    Ad "Ouais, bon. Je ne te dérangerai plus alors."
 
 # game/chapter4.rpy:3406
 translate french _call_syscheck_79_61e85271:
 
     # Ad "Anyway, I was about to go inside, so I'll take those eggs off your hands."
-    Ad ""
+    Ad "De toute façon il faut que je rentre. Je vais prendre ça alors."
 
 # game/chapter4.rpy:3408
 translate french _call_syscheck_79_8fe434b6:
 
     # Ad "Thanks for bringing them here."
-    Ad ""
+    Ad "Merci de les avoir ramené ici."
 
 # game/chapter4.rpy:3410
 translate french _call_syscheck_79_bd805a76:
 
     # c "No problem."
-    c ""
+    c "Pas de soucis."
 
 # game/chapter4.rpy:3434
 translate french _call_syscheck_80_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s ""
+    s "Tu as rapporté les oeufs au couvoir !"
 
 # game/chapter4.rpy:3438
 translate french _call_syscheck_80_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s ""
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3442
 translate french _call_syscheck_80_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s ""
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3456
 translate french _call_syscheck_80_604c7a85:
 
     # Ad "Hey! [player_name], right? What are you doing here?"
-    Ad ""
+    Ad "Hey ! [player_name], c'est ça ? Qu'est-ce que vous faites là ?"
 
 # game/chapter4.rpy:3458
 translate french _call_syscheck_80_7217eb74:
 
     # c "Oh, I just came by to drop these off."
-    c ""
+    c "Oh je suis juste venu rapporter tout ça."
 
 # game/chapter4.rpy:3460
 translate french _call_syscheck_80_31837739:
 
     # Ad think b "Drop what off?"
-    Ad think b ""
+    Ad think b "Rapporter quoi ?"
 
 # game/chapter4.rpy:3462
 translate french _call_syscheck_80_3a4b6fd4:
 
     # c "The stolen eggs. I figured the hatchery would want them back."
-    c ""
+    c "Les oeufs volés. Je me suis dit que le couvoir voudrait les récupérer."
 
 # game/chapter4.rpy:3464
 translate french _call_syscheck_80_444de1e5:
 
     # Ad normal b "Oh, I was actually going to get those from the police department later."
-    Ad normal b ""
+    Ad normal b "Oh, je comptais aller les chercher au poste plus tard."
 
 # game/chapter4.rpy:3466
 translate french _call_syscheck_80_bce6b00d:
 
     # Ad "I'm so glad that they got back safely."
-    Ad ""
+    Ad "Je suis contente qu'ils soient de retour sains et saufs."
 
 # game/chapter4.rpy:3468
 translate french _call_syscheck_80_5a4c1572:
 
     # Ad giggle b "Amely, stop chewing my leg!"
-    Ad giggle b ""
+    Ad giggle b "Amélie, arrête de manger "
 
 # game/chapter4.rpy:3476
 translate french _call_syscheck_80_eef077db:
 
     # Am "It tasty!"
-    Am ""
+    Am "C'est goûtu."
 
 # game/chapter4.rpy:3484
 translate french _call_syscheck_80_f5e779f8:
 
     # Ad "Oh well..."
-    Ad ""
+    Ad "Ah la la..."
 
 # game/chapter4.rpy:3486
 translate french _call_syscheck_80_e2c720d4:
 
     # Ad normal b "Anyway, I was about to go inside, so I'll take those off your hands."
-    Ad normal b ""
+    Ad normal b "De toute façon, j'allais rentrer. Je vais prendre ça alors."
 
 # game/chapter4.rpy:3488
 translate french _call_syscheck_80_8fe434b6:
 
     # Ad "Thanks for bringing them here."
-    Ad ""
+    Ad "Merci de les avoir ramené ici."
 
 # game/chapter4.rpy:3490
 translate french _call_syscheck_80_bd805a76:
 
     # c "No problem."
-    c ""
+    c "Pas de soucis."
 
 # game/chapter4.rpy:3507
 translate french _call_syscheck_81_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s ""
+    s "Tu as rapporté les oeufs au couvoir !"
 
 # game/chapter4.rpy:3511
 translate french _call_syscheck_81_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s ""
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3515
 translate french _call_syscheck_81_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s ""
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3550
 translate french _call_syscheck_81_93cfd23f:
 
     # Ry "Adine! Wait for me."
-    Ry ""
+    Ry "Adine ! Attends moi."
 
 # game/chapter4.rpy:3556
 translate french _call_syscheck_81_9b04341c:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip ""
+    Ry smile flip "Bon travail, [player_name]."
 
 # game/chapter4.rpy:3558
 translate french _call_syscheck_81_e2b6e4af:
 
     # c "Looks like you took my advice."
-    c ""
+    c "On dirait que tu as suivi mon conseil."
 
 # game/chapter4.rpy:3560
 translate french _call_syscheck_81_3e5277ba:
 
     # Ry normal flip "Yeah, Adine and I had a good, long talk - and now here we are."
-    Ry normal flip ""
+    Ry normal flip "Oui, Adine et moi avons eut une longue discussion - maintenant me voilà ici avec elle !"
 
 # game/chapter4.rpy:3562
 translate french _call_syscheck_81_f4e45657:
 
     # Ad "I'm glad we did. It was long overdue."
-    Ad ""
+    Ad "Je suis heureuse qu'on ait discuté. Il en a fallu du temps."
 
 # game/chapter4.rpy:3566
 translate french _call_syscheck_81_14b7f614:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3568
 translate french _call_syscheck_81_b7530666:
 
     # Ry "Vara, do you know who that is? Hmm?"
-    Ry ""
+    Ry "Vara, tu sais qui c'est ? Hmm ?"
 
 # game/chapter4.rpy:3570
 translate french _call_syscheck_81_14b7f614_1:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3572
 translate french _call_syscheck_81_daf2fc69:
 
     # Ry "She doesn't talk much."
-    Ry ""
+    Ry "Elle ne parle pas beaucoup."
 
 # game/chapter4.rpy:3574
 translate french _call_syscheck_81_8750cb21:
 
     # c "Yeah, I noticed."
-    c ""
+    c "Oui, j'ai remarqué."
 
 # game/chapter4.rpy:3576
 translate french _call_syscheck_81_6374c7ce:
 
     # Ry "It's not unusual for someone who's had a rough life like hers."
-    Ry ""
+    Ry "Ça n'est pas inhabituel pour quelqu'un comme elle qui n'a pas eut une vie facile."
 
 # game/chapter4.rpy:3578
 translate french _call_syscheck_81_da7a5c49:
 
     # Ry smile flip "She's definitely listening, though. Isn't that right?"
-    Ry smile flip ""
+    Ry smile flip "Par contre elle a l'oreille attentive. N'est-ce pas ?"
 
 # game/chapter4.rpy:3580
 translate french _call_syscheck_81_14b7f614_2:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3582
 translate french _call_syscheck_81_913a4129:
 
     # Ad "I think we should go inside."
-    Ad ""
+    Ad "Bon, on devrait retourner à l'intérieur."
 
 # game/chapter4.rpy:3584
 translate french _call_syscheck_81_85c543cb:
 
     # Ry normal flip "Yeah, probably."
-    Ry normal flip ""
+    Ry normal flip "Oui, je pense aussi."
 
 # game/chapter4.rpy:3586
 translate french _call_syscheck_81_543b2ee0:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip ""
+    Ry smile flip "Eh bien, à la prochaine, [player_name]."
 
 # game/chapter4.rpy:3588
 translate french _call_syscheck_81_a1ae6a4e:
 
     # Ad "Thanks for coming!"
-    Ad ""
+    Ad "Merci d'être venu !"
 
 # game/chapter4.rpy:3609
 translate french _call_syscheck_81_93cfd23f_1:
 
     # Ry "Adine! Wait for me."
-    Ry ""
+    Ry "Adine ! Attends moi !"
 
 # game/chapter4.rpy:3615
 translate french _call_syscheck_81_9b04341c_1:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip ""
+    Ry smile flip "Bon travail, [player_name]."
 
 # game/chapter4.rpy:3625
 translate french _call_syscheck_81_14b7f614_3:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3627
 translate french _call_syscheck_81_b7530666_1:
 
     # Ry "Vara, do you know who that is? Hmm?"
-    Ry ""
+    Ry "Vara, tu sais qui c'est ? Hmm ?"
 
 # game/chapter4.rpy:3629
 translate french _call_syscheck_81_14b7f614_4:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3631
 translate french _call_syscheck_81_daf2fc69_1:
 
     # Ry "She doesn't talk much."
-    Ry ""
+    Ry "Elle ne parle pas beaucoup."
 
 # game/chapter4.rpy:3641
 translate french _call_syscheck_81_913a4129_1:
 
     # Ad "I think we should go inside."
-    Ad ""
+    Ad "Bon, on devrait retourner à l'intérieur."
 
 # game/chapter4.rpy:3643
 translate french _call_syscheck_81_85c543cb_1:
 
     # Ry normal flip "Yeah, probably."
-    Ry normal flip ""
+    Ry normal flip "Oui, je pense aussi."
 
 # game/chapter4.rpy:3645
 translate french _call_syscheck_81_543b2ee0_1:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip ""
+    Ry smile flip "Eh bien, à la prochaine, [player_name]."
 
 # game/chapter4.rpy:3647
 translate french _call_syscheck_81_a1ae6a4e_1:
 
     # Ad "Thanks for coming!"
-    Ad ""
+    Ad "Merci d'être passé !"
 
 # game/chapter4.rpy:3686
 translate french _call_syscheck_81_688e156a:
 
     # Ad "Hey, [player_name]! What are you doing here?"
-    Ad ""
+    Ad "Salut, [player_name] ! Qu'est-ce que tu fais ici ?"
 
 # game/chapter4.rpy:3688
 translate french _call_syscheck_81_7217eb74:
 
     # c "Oh, I just came by to drop these off."
-    c ""
+    c "Oh je suis juste venu rammener ça."
 
 # game/chapter4.rpy:3690
 translate french _call_syscheck_81_31837739:
 
     # Ad think b "Drop what off?"
-    Ad think b ""
+    Ad think b "Ramener quoi ?"
 
 # game/chapter4.rpy:3692
 translate french _call_syscheck_81_3a4b6fd4:
 
     # c "The stolen eggs. I figured the hatchery would want them back."
-    c ""
+    c "Les oeufs qui ont été volés. Je me suis dit que le couvoir voudrait les récupérer."
 
 # game/chapter4.rpy:3694
 translate french _call_syscheck_81_444de1e5:
 
     # Ad normal b "Oh, I was actually going to get those from the police department later."
-    Ad normal b ""
+    Ad normal b "Oh, je comptais aller les chercher au poste plus tard."
 
 # game/chapter4.rpy:3696
 translate french _call_syscheck_81_bce6b00d:
 
     # Ad "I'm so glad that they got back safely."
-    Ad ""
+    Ad "Je suis vraiment contente qu'ils soient revenu saint et saufs."
 
 # game/chapter4.rpy:3698
 translate french _call_syscheck_81_5a4c1572:
 
     # Ad giggle b "Amely, stop chewing my leg!"
-    Ad giggle b ""
+    Ad giggle b "Amélie, arrête de mâcher ma jambe !"
 
 # game/chapter4.rpy:3706
 translate french _call_syscheck_81_eef077db:
 
     # Am "It tasty!"
-    Am ""
+    Am "C'est goûtu!"
 
 # game/chapter4.rpy:3716
 translate french _call_syscheck_81_f5e779f8:
 
     # Ad "Oh well..."
-    Ad ""
+    Ad "Ah la la..."
 
 # game/chapter4.rpy:3718
 translate french _call_syscheck_81_e2c720d4:
 
     # Ad normal b "Anyway, I was about to go inside, so I'll take those off your hands."
-    Ad normal b ""
+    Ad normal b "De toute façon, je dois retourner à l'intérieur. Je te prends tout ça alors."
 
 # game/chapter4.rpy:3720
 translate french _call_syscheck_81_8fe434b6:
 
     # Ad "Thanks for bringing them here."
-    Ad ""
+    Ad "Merci de les avoir ramenés."
 
 # game/chapter4.rpy:3722
 translate french _call_syscheck_81_bd805a76:
 
     # c "No problem."
-    c ""
+    c "Je t'en prie."
 
 # game/chapter4.rpy:3738
 translate french _call_syscheck_82_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s ""
+    s "Tu as rapporté les oeufs au couvoir !"
 
 # game/chapter4.rpy:3742
 translate french _call_syscheck_82_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s ""
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3746
 translate french _call_syscheck_82_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s ""
+    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3780
 translate french _call_syscheck_82_93cfd23f:
@@ -4522,253 +4522,253 @@ translate french _call_syscheck_82_93cfd23f:
 translate french _call_syscheck_82_9b04341c:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip ""
+    Ry smile flip "Adine ! Attends moi !"
 
 # game/chapter4.rpy:3788
 translate french _call_syscheck_82_e2b6e4af:
 
     # c "Looks like you took my advice."
-    c ""
+    c "On dirait que tu as suivi mon conseil."
 
 # game/chapter4.rpy:3790
 translate french _call_syscheck_82_3e5277ba:
 
     # Ry normal flip "Yeah, Adine and I had a good, long talk - and now here we are."
-    Ry normal flip ""
+    Ry normal flip "Oui, Adine et moi avons eut une longue discussion - maintenant me voilà ici avec elle !"
 
 # game/chapter4.rpy:3792
 translate french _call_syscheck_82_f4e45657:
 
     # Ad "I'm glad we did. It was long overdue."
-    Ad ""
+    Ad "Je suis contente qu'on ait discuté. Il en a fallut du temps."
 
 # game/chapter4.rpy:3796
 translate french _call_syscheck_82_14b7f614:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3798
 translate french _call_syscheck_82_b7530666:
 
     # Ry "Vara, do you know who that is? Hmm?"
-    Ry ""
+    Ry "Vara, tu sais qui c'est ? Hmm ?"
 
 # game/chapter4.rpy:3800
 translate french _call_syscheck_82_14b7f614_1:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3802
 translate french _call_syscheck_82_daf2fc69:
 
     # Ry "She doesn't talk much."
-    Ry ""
+    Ry "Elle ne parle pas beaucoup."
 
 # game/chapter4.rpy:3804
 translate french _call_syscheck_82_8750cb21:
 
     # c "Yeah, I noticed."
-    c ""
+    c "Oui, j'ai remarqué."
 
 # game/chapter4.rpy:3806
 translate french _call_syscheck_82_a8f53fef:
 
     # Ry "It's not unusual for someone who's had a rough life like her."
-    Ry ""
+    Ry "Ça n'est pas inhabituel pour quelqu'un comme elle qui n'a pas eut une vie facile."
 
 # game/chapter4.rpy:3808
 translate french _call_syscheck_82_da7a5c49:
 
     # Ry smile flip "She's definitely listening, though. Isn't that right?"
-    Ry smile flip ""
+    Ry smile flip "Par contre elle a l'oreille attentive. N'est-ce pas ?"
 
 # game/chapter4.rpy:3810
 translate french _call_syscheck_82_14b7f614_2:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3812
 translate french _call_syscheck_82_913a4129:
 
     # Ad "I think we should go inside."
-    Ad ""
+    Ad "Bon, on devrait retourner à l'intérieur."
 
 # game/chapter4.rpy:3814
 translate french _call_syscheck_82_85c543cb:
 
     # Ry normal flip "Yeah, probably."
-    Ry normal flip ""
+    Ry normal flip "Oui, sûrement."
 
 # game/chapter4.rpy:3816
 translate french _call_syscheck_82_543b2ee0:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip ""
+    Ry smile flip "Eh bien, à la prochaine, [player_name]."
 
 # game/chapter4.rpy:3818
 translate french _call_syscheck_82_a1ae6a4e:
 
     # Ad "Thanks for coming!"
-    Ad ""
+    Ad "Merci d'être passé !"
 
 # game/chapter4.rpy:3839
 translate french _call_syscheck_82_93cfd23f_1:
 
     # Ry "Adine! Wait for me."
-    Ry ""
+    Ry "Adine ! Attends moi"
 
 # game/chapter4.rpy:3845
 translate french _call_syscheck_82_9b04341c_1:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip ""
+    Ry smile flip "Bon travail, [player_name]."
 
 # game/chapter4.rpy:3855
 translate french _call_syscheck_82_14b7f614_3:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3857
 translate french _call_syscheck_82_b7530666_1:
 
     # Ry "Vara, do you know who that is? Hmm?"
-    Ry ""
+    Ry "Vara, tu sais qui c'est ? Hmm ?"
 
 # game/chapter4.rpy:3859
 translate french _call_syscheck_82_14b7f614_4:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter4.rpy:3861
 translate french _call_syscheck_82_daf2fc69_1:
 
     # Ry "She doesn't talk much."
-    Ry ""
+    Ry "Elle ne parle pas beaucoup."
 
 # game/chapter4.rpy:3871
 translate french _call_syscheck_82_913a4129_1:
 
     # Ad "I think we should go inside."
-    Ad ""
+    Ad Bon, on devrait retourner à l'intérieur."
 
 # game/chapter4.rpy:3873
 translate french _call_syscheck_82_85c543cb_1:
 
     # Ry normal flip "Yeah, probably."
-    Ry normal flip ""
+    Ry normal flip "Oui, sûrement."
 
 # game/chapter4.rpy:3875
 translate french _call_syscheck_82_543b2ee0_1:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip ""
+    Ry smile flip "Eh bien, à la prochaine, [player_name]."
 
 # game/chapter4.rpy:3877
 translate french _call_syscheck_82_a1ae6a4e_1:
 
     # Ad "Thanks for coming!"
-    Ad ""
+    Ad "Merci d'être passé !"
 
 # game/chapter4.rpy:3922
 translate french c4rest_5097e44f:
 
     # m "I decided to take a long break in my apartment. I had already done enough for the day and figured I should take some time off."
-    m ""
+    m "Je décidai de me poser un moment dans mon appartement. J'en avais assez fait pour la journée et me disais que je devrais prendre une pause."
 
 # game/chapter4.rpy:3924
 translate french c4rest_cb6b7e5f:
 
     # m "I looked at the bookshelf for new reading material, yet found that none of the books I hadn't already read particularly interested me."
-    m ""
+    m "Je cherchais de nouvelles chose à lire sur l'étagère, mais ne trouvai rien d'intéressant aux livres que je n'avais pas encore lu."
 
 # game/chapter4.rpy:4084
 translate french c4postsections_74e02e5b:
 
     # Sb "Thanks for all your help."
-    Sb ""
+    Sb "Merci pour ton aide."
 
 # game/chapter4.rpy:4088
 translate french c4postsections_a3d93c8f:
 
     # Sb "Now that the facility has received the bandage, maybe we'll discover something new."
-    Sb ""
+    Sb "Maintenant que le labo a reçu le bandage, peut être qu'on découvrira quelque chose."
 
 # game/chapter4.rpy:4092
 translate french c4postsections_f4c89891:
 
     # c "I'm afraid that's not the case. I brought the bandage back."
-    c ""
+    c "J'ai peur que ce ne sois pas le cas. J'ai ramené le bandage."
 
 # game/chapter4.rpy:4094
 translate french c4postsections_50dedf19:
 
     # Sb "What? Why?"
-    Sb ""
+    Sb "Quoi ? Pourquoi ça ?"
 
 # game/chapter4.rpy:4096
 translate french c4postsections_823c8b7c:
 
     # c "I'm not sure what's going on, but apparently the police raided Anna's lab, so she wasn't in a condition to accept it."
-    c ""
+    c "Je ne sais pas trop ce qui se passe là-bas, mais apparement la police a mis le labo d'Anna en désordre. Elle ne pouvait pas s'occuper des analyses à cause de ça."
 
 # game/chapter4.rpy:4098
 translate french c4postsections_38490d1f:
 
     # Sb "Is that so? Strange, I hadn't heard about this. I'll have to talk to the others. Actions like that will stall the Reza case, and that's not something we can afford right now."
-    Sb ""
+    Sb "Vraiment ? Bizarre que je n'ai pas entendu parler de ça. Il va falloir que je demande aux autres. Un truc pareil va nous ralentir nos recherches, et c'est pas quelque chose qu'on peut se permettre pour le moment."
 
 # game/chapter4.rpy:4108
 translate french c4postsections_a7a76515:
 
     # Sb "I'll take care of the remaining tasks, so you can take the rest of the day off. I'm sure you have things to do other than helping the police department."
-    Sb ""
+    Sb "Je vais m'occuper du reste, profite du restes de la journée pour te reposer. Je suis sûr que tu as autre chose à faire que d'aider le commissariat."
 
 # game/chapter4.rpy:4110
 translate french c4postsections_dfeb653d:
 
     # c "It's no problem, really. My trip to your world wasn't supposed to be a vacation."
-    c ""
+    c "Ce n'est rien, vraiment. Mon séjour dans votre monde n'était pas censée être une sinécure."
 
 # game/chapter4.rpy:4112
 translate french c4postsections_999306e1:
 
     # Sb "Alright, then. I'll see you next time."
-    Sb ""
+    Sb "Je m'en doute. Bon, on se voit plus tard alors."
 
 # game/chapter4.rpy:4114
 translate french c4postsections_a4c90328:
 
     # c "See you."
-    c ""
+    c "A plus tard."
 
 # game/chapter4.rpy:4128
 translate french c4postsections_2039ec81:
 
     # m "After this fateful day, I was glad to finally have some sort of respite. I wandered into the kitchen as I considered tonight's dinner."
-    m ""
+    m "Après cette sacrée journée, j'étais content de pouvoir profiter un peu d'un moment de calme. Je trainais dans la cuisine en me demandant ce que j'allais manger ce soir."
 
 # game/chapter4.rpy:4130
 translate french c4postsections_ba6c55cf:
 
     # c "(Should I cook something or order out?)"
-    c ""
+    c "(Je cuisine ou je commande ?)"
 
 # game/chapter4.rpy:4132
 translate french c4postsections_8231078b:
 
     # m "When I returned to the living room, I suddenly found my strength leaving me and collapsed to the floor."
-    m ""
+    m "Retournant dans le salon, j'eut subitement une sensation de faiblesse grandissante, et finit par m'effondrer au sol."
 
 # game/chapter4.rpy:4146
 translate french c4postsections_e9d2f438:
 
     # m "The next thing I saw was a blurry stone ceiling."
-    m ""
+    m "La première chose que je vis à mon réveil fut un plafond de pierre."
 
 # game/chapter4.rpy:4148
 translate french c4postsections_f6901c56:
