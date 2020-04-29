@@ -4774,37 +4774,37 @@ translate french c4postsections_e9d2f438:
 translate french c4postsections_f6901c56:
 
     # m "As my eyesight slowly returned, I managed to sit up. I was in a cave, and before me stood a familiar, mysterious face."
-    m ""
+    m "Alors que ma vue revenait doucement, j'ai réussi à me redresser mais suis resté assis. J'étais dans une caverne et devant moi se tenait quelqu'un d'aussi familier que mystérieux."
 
 # game/chapter4.rpy:4154
 translate french c4postsections_36b79c39:
 
     # "???" "I apologize for the violence, but I can assure you it was the easiest way."
-    "???" ""
+    "???" "Je m'excuse pour la brutalité, mais c'était la solution la plus simple."
 
 # game/chapter4.rpy:4172
 translate french _call_skiptut_21_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des personnages ?"
 
 # game/chapter4.rpy:4180
 translate french _call_skiptut_21_11989f6d:
 
     # s "It looks like you've seen this before. Skip to the character selection?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la sélection des personnages ?"
 
 # game/chapter4.rpy:4188
 translate french _call_skiptut_21_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des personnages."
 
 # game/chapter4.rpy:4202
 translate french _call_skiptut_21_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter4.rpy:4211
 translate french _call_skipcheck_21_76b2fe88:
@@ -4816,163 +4816,163 @@ translate french _call_skipcheck_21_76b2fe88:
 translate french _call_skipcheck_21_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter4.rpy:4224
 translate french _call_skipcheck_21_39ec4ac0:
 
     # c "Where am I? Is this your hideout?"
-    c ""
+    c "Où est-ce que je suis ? C'est votre planque ?"
 
 # game/chapter4.rpy:4226
 translate french _call_skipcheck_21_e44935fc:
 
     # "???" "Just a temporary accommodation so we can be undisturbed for this meeting. Someone else used to live here until recently."
-    "???" ""
+    "???" "C'est une cache temporaire que j'utilise juste pour notre petite entrevue. Mais c'était le domicile de quelqu'un encore recemment..."
 
 # game/chapter4.rpy:4228
 translate french _call_skipcheck_21_9b22fb40:
 
     # "???" "Do you know who I am?"
-    "???" ""
+    "???" "Tu sais qui je suis ?"
 
 # game/chapter4.rpy:4230
 translate french _call_skipcheck_21_4fac5fd9:
 
     # c "Well, you're not Reza."
-    c ""
+    c "Vous n'êtes pas Reza."
 
 # game/chapter4.rpy:4232
 translate french _call_skipcheck_21_42f03031:
 
     # "???" "Good. What did it take for you to figure that out?"
-    "???" ""
+    "???" "Exact. Comment as-tu compris cela ?"
 
 # game/chapter4.rpy:4234
 translate french _call_skipcheck_21_4f4cd4b2:
 
     # c "Since you're not whispering anymore, I can hear it clearly in your voice. I had a feeling that you couldn't be him since the first time we met, though."
-    c ""
+    c "Maintenant que vous ne murmurez plus, je l'entends clairement à votre voix. J'avais déjà le sentiment que ça n'était pas lui la première fois que nous nous sommes rencontrés."
 
 # game/chapter4.rpy:4236
 translate french _call_skipcheck_21_fac22ca7:
 
     # "???" "Which first time are you talking about?"
-    "???" ""
+    "???" "De quelle première fois parles-tu ?"
 
 # game/chapter4.rpy:4238
 translate french _call_skipcheck_21_b2935c7b:
 
     # c "The generator in the cellar, when you pushed me."
-    c ""
+    c "Le générateur dans le local, quand vous m'avez poussé."
 
 # game/chapter4.rpy:4242
 translate french _call_skipcheck_21_04ca6e51:
 
     # "???" "I see."
-    "???" ""
+    "???" "Je vois."
 
 # game/chapter4.rpy:4244
 translate french _call_skipcheck_21_6bb3bbaa:
 
     # "???" "You can call me the Administrator."
-    "???" ""
+    "???" "Tu peux m'appeler l'Administrateur."
 
 # game/chapter4.rpy:4246
 translate french _call_skipcheck_21_71d84b1a:
 
     # c "No other humans are supposed to be here, though. I assume that's why you're wearing the mask. You don't want to be recognized."
-    c ""
+    c "Aucun autre humain n'est censé être là. Je suppose que c'est pour ça que vous portez un masque. Pour ne pas être identifié."
 
 # game/chapter4.rpy:4248
 translate french _call_skipcheck_21_3ce40900:
 
     # As "That is correct."
-    As ""
+    As "En effet."
 
 # game/chapter4.rpy:4250
 translate french _call_skipcheck_21_3c196ba0:
 
     # c "Whoever you are, you also saved my life."
-    c ""
+    c "Qui que vous soyez, vous m'avez sauvé la vie."
 
 # game/chapter4.rpy:4252
 translate french _call_skipcheck_21_3665e652:
 
     # As "On more than one occasion."
-    As ""
+    As "À plusieurs reprises, même."
 
 # game/chapter4.rpy:4254
 translate french _call_skipcheck_21_ee609baa:
 
     # c "Your presence here doesn't make any sense. You couldn't have come through the portal. The dragons would have noticed."
-    c ""
+    c "Mais votre présence ici, c'est incensé ! Vous n'auriez jamais pu franchir le portail, les dragons l'auraient remarqué."
 
 # game/chapter4.rpy:4256
 translate french _call_skipcheck_21_b30ababb:
 
     # As "This is where you are wrong. My arrival through the portal is what led the dragons to discover it in the first place."
-    As ""
+    As "C'est là que tu te trompes. C'est justement parce que je suis arrivé par le portail, que les dragon l'ont découvert."
 
 # game/chapter4.rpy:4258
 translate french _call_skipcheck_21_d0ae06d2:
 
     # c "Is that so?"
-    c ""
+    c "Vraiment ?"
 
 # game/chapter4.rpy:4260
 translate french _call_skipcheck_21_fed00e74:
 
     # As "When I crawled out from the hole in the earth that hid the portal, there were no guards to discover me. My appearance exposed the portal, but the dragons didn't know it was there yet."
-    As ""
+    As "Quand j'ai rampé hors du terrier qui qui cachait le portail, il n'y avait aucun garde pour me débusquer. Mon apparition a exposé le portail, mais les dragons n'avaient encore aucune idée de son existence."
 
 # game/chapter4.rpy:4262
 translate french _call_skipcheck_21_a6a5b013:
 
     # c "So you arrived even before Reza. That makes you the actual first human to come to this world."
-    c ""
+    c "Vous êtes donc arrivé bien avant Reza ? Ce qui ferait de vous le premier humain à être arrivé dans ce monde ?"
 
 # game/chapter4.rpy:4264
 translate french _call_skipcheck_21_99d3841a:
 
     # As "That is more true than you might think."
-    As ""
+    As "C'est bien plus vrai que tu ne le penses."
 
 # game/chapter4.rpy:4266
 translate french _call_skipcheck_21_46cf4477:
 
     # c "Just who are you, then?"
-    c ""
+    c "Mais qui êtes-vous alors ?"
 
 # game/chapter4.rpy:4268
 translate french _call_skipcheck_21_dd5cd2b9:
 
     # As "I may have arrived through the portal like you, but my story is very different."
-    As ""
+    As "Je suis certes arrivé par le portail, comme toi. Mais mon histoire est complètement différente."
 
 # game/chapter4.rpy:4280
 translate french _call_skipcheck_21_b4c2e729:
 
     # n "Before the fall of humanity, I was an engineer. I was part of a team that was formed to create bioweapons."
-    n ""
+    n "Avant la chute de l'humanité, je travaillais dans l'ingéniérie. Je faisais partie d'une équipe qui avait été formée en vue de créer des armes biologiques."
 
 # game/chapter4.rpy:4282
 translate french _call_skipcheck_21_17d4583e:
 
     # n "Our task was to create these bioweapons in a country where their development hadn't yet been regulated or outlawed. These weapons were planned to be a low-cost alternative for poor countries to wage war, so they would no longer have to rely on expensive drones and machines for warfare."
-    n ""
+    n "On avait pour mission de créer ces armes dans des pays où elles n'étaient pas encore interdites, ni même soumises à réglementation. Ces armes devaient représenter une alternative peu coûteuse afin que les pays pauvres puissent s'équiper d'autre choses que de drones et autres machines onéreuses."
 
 # game/chapter4.rpy:4284
 translate french _call_skipcheck_21_3ad573c1:
 
     # n "I was to set up the lab where our bioweapon development would take place. It was a clandestine operation, set to be in the middle of the wilderness."
-    n ""
+    n "Je devais trouver un emplacement pour le laboratoire où nous avions prévu de développer nos armes. Toute cette opération était clandestines, il nous fallait un endroit perdu en pleine nature."
 
 # game/chapter4.rpy:4286
 translate french _call_skipcheck_21_7dd1ec21:
 
     # n "The laboratory was an independent research and living unit, and provided everything we needed without having to rely on external resources or even an existing power grid."
-    n ""
+    n "Le laboratoire en question était une Unité Autonome Durable, ou U.A.D, Et nous fournissait tout ce dont nous avions besoin sans ressource extérieure ni d'un réseau électrique existant."
 
 # game/chapter4.rpy:4290
 translate french _call_skipcheck_21_76b2fe88_1:
@@ -4984,31 +4984,31 @@ translate french _call_skipcheck_21_76b2fe88_1:
 translate french _call_skipcheck_21_eb0248f1:
 
     # n "Everything was to be teleported right into the middle of nowhere, with no traces or paper trail to follow, so international communities and law enforcement would have no idea of our operations."
-    n ""
+    n "Le tout devait être téléporté au milieu de nul part, sans aucune traces physiques ou papier à suivre, pour que les communautés internationales et les forces de l'ordre n'ait aucunement connaissance de nos opérations."
 
 # game/chapter4.rpy:4296
 translate french _call_skipcheck_21_eccbaa8e:
 
     # n "Our only connection to the outside world after setup would have been a two-way portal to our headquarters, who would provide everything we needed."
-    n ""
+    n "Notre seule connection avec le monde extérieur devait être un système de portail à double sens entre nos bases respectives, ce qui nous aurait fourni tout ce dont nous aurions."
 
 # game/chapter4.rpy:4298
 translate french _call_skipcheck_21_471d756f:
 
     # n "While we already could teleport individual people, teleporting a whole building was another matter entirely."
-    n ""
+    n "Même si on arrivait déjà à téléporter des gens, ils s'est averé que la téléportation d'un complexe entier allait être une toute autre affaire."
 
 # game/chapter4.rpy:4300
 translate french _call_skipcheck_21_69dbd742:
 
     # n "Our solution was matter compression technology. Incredibly expensive, but operating in the grey market was also very lucrative."
-    n ""
+    n "Notre solution fut la technologie de compression de matière. Incroyablement chère certes, mais le simple fait d'opérer sur le marché noir représentait un investissement particulièrement lucratif."
 
 # game/chapter4.rpy:4302
 translate french _call_skipcheck_21_aa939f13:
 
     # n "The technology behind it was much more complicated than even teleportation, despite being based on it."
-    n ""
+    n "La technique employée était également bien plus compliquée que la téléportation, bien que leurs bases soient les mêmes."
 
 # game/chapter4.rpy:4306
 translate french _call_skipcheck_21_76b2fe88_2:
@@ -5020,31 +5020,31 @@ translate french _call_skipcheck_21_76b2fe88_2:
 translate french _call_skipcheck_21_e5dde6b7:
 
     # n "While teleportation works by utilizing black holes with a beginning and an end, compression technology relies on a loop, keeping matter in a sort of limbo state until the loop is broken."
-    n ""
+    n "Tandis que la téléportation fonctionne via les trous noirs, avec un début de cycle et une fin préétablie, la technologie de compression repose sur un cycle en boucle qui maintient la matière dans une sorte d'état compressé jusqu'à ce que la boucle soit rompue."
 
 # game/chapter4.rpy:4311
 translate french _call_skipcheck_21_60fddfa4:
 
     # n "Working with black holes was very complicated to begin with, but this shape required much more finesse, and thus was much more expensive."
-    n ""
+    n "Le travail sur les trous noirs était déjà très difficile à la base, mais ce nouveau sujet était un sujet exigeait bien plus de finesse et était bien plus coûteux."
 
 # game/chapter4.rpy:4313
 translate french _call_skipcheck_21_71c1914d:
 
     # n "I was to be sent alone to set up the lab and the portal so the rest of the team could arrive safely."
-    n ""
+    n "Je devais être envoyé en solo pour mettre en place l'U.A.D et le portail afin que le reste de l'équipe puisse arriver en toute sécurité."
 
 # game/chapter4.rpy:4315
 translate french _call_skipcheck_21_6e6a43e4:
 
     # n "In case you didn't know, it is possible to use a portal to send someone to a previously defined end point. Therefore, it is not required to have a portal at the destination to be sent there, but as you can imagine, this is also very dangerous."
-    n ""
+    n "Au cas où tu ne le saurais pas, il n'est pas nécessaire d'avoir deux portails pour réussir une téléportation, avec un seul portail, il suffit de diriger le vortex vers un point préalablement défini. Mais comme tu peux t'en douter, c'est aussi très risquée."
 
 # game/chapter4.rpy:4317
 translate french _call_skipcheck_21_a21261f6:
 
     # n "A single variable off by a fraction could mean the difference between landing safely at your destination and smothering in space."
-    n ""
+    n "Une seule variable variant infinitésimalement peut faire la différence entre arriver à bon port et étouffer dans l'espace."
 
 # game/chapter4.rpy:4320
 translate french _call_skipcheck_21_76b2fe88_3:
@@ -5056,31 +5056,31 @@ translate french _call_skipcheck_21_76b2fe88_3:
 translate french _call_skipcheck_21_a34cd47b:
 
     # n "Of course, my employer did not want anything like that to happen. Not necessarily for my own sake, but because of all the unfathomably expensive equipment I had with me."
-    n ""
+    n "Bien évidement, ce n'est pas le genre de mésaventure que mon employeur était prêt à accepter. Pas vraiment pour moi, mais surtout pour tout le matériel coûteux que j'emmenais dans mon voyage."
 
 # game/chapter4.rpy:4325
 translate french _call_skipcheck_21_3b6d0ce7:
 
     # n "Regardless, something went wrong, anyway. Despite all their checks and safeguards, they could only minimize the risk so much. Even if the risk is a fraction of a fraction, sometimes you are just that unlucky."
-    n ""
+    n "Malgré tout, quelque chose a mal tourné. Malgré tout les contrôles, simulations et calculs qui furent effectués, le risque que cela se produise n'a jamais atteint zéro, parfois tu n'as juste pas de chances."
 
 # game/chapter4.rpy:4327
 translate french _call_skipcheck_21_5b5f370c:
 
     # n "And sometimes, it turns out that your bad luck is a blessing in disguise."
-    n ""
+    n "Et parfois, de cette malchance peut naître une véritable bénédiction."
 
 # game/chapter4.rpy:4329
 translate french _call_skipcheck_21_6dbd6a73:
 
     # n "I arrived safely somewhere in the jungles of Earth, yet it was not the destination that had been planned."
-    n ""
+    n "Je arrivai sans mal quelque part dans une jungle de la Terre, mais ce n'était pas la destination qui était prévue."
 
 # game/chapter4.rpy:4331
 translate french _call_skipcheck_21_ac5d3af2:
 
     # n "I knew something was off, but nevertheless, I set to work immediately. At the very least, I could prepare the building. I would have shelter, and then I could begin preparations for our project. Getting the portal into working order would take more time as it was a complicated process that could take several weeks."
-    n ""
+    n "J'avais un mauvais pressentiment, mais me mis néanmoins au travail. J'ai pu préparer l'U.A.D, j'avais alors un abri et de quoi commencer à travailler sur les préparatifs de notre projet. La mise en service du portail, étant un processus plus compliqué, allait me prendre plus de temps, au moins plusieurs semaines."
 
 # game/chapter4.rpy:4334
 translate french _call_skipcheck_21_76b2fe88_4:
@@ -5092,31 +5092,31 @@ translate french _call_skipcheck_21_76b2fe88_4:
 translate french _call_skipcheck_21_221f6ca5:
 
     # n "If things had gone wrong as I suspected, I would at least be able to establish contact with headquarters after the portal had been set up, and I would be able to return."
-    n ""
+    n "Si les choses avaient mal tourné comme je le redoutais, je serais au moins en mesure d'établir un contact avec le siège après la mise en service du portail, voir y retourner."
 
 # game/chapter4.rpy:4339
 translate french _call_skipcheck_21_d015893f:
 
     # n "While teleporting the lab to the wrong location was certainly a costly mistake, I was still lucky to have my life."
-    n ""
+    n "Bien sûr que la téléportation de tout le matériel a été une erreur coûteuse. Mais au moins, j'étais encore en vie."
 
 # game/chapter4.rpy:4341
 translate french _call_skipcheck_21_c9da6764:
 
     # n "Before long, I discovered the truth about the place I had arrived."
-    n ""
+    n "Peu de temps après, je réalisai la vérité sur l'endroit où j'avais atteri."
 
 # game/chapter4.rpy:4343
 translate french _call_skipcheck_21_feba23c4:
 
     # n "While I was still on Earth, it was not the Earth I knew."
-    n ""
+    n "J'étais bien sûr Terre, mais ce n'est pas la Terre telle que je la connaissais."
 
 # game/chapter4.rpy:4345
 translate french _call_skipcheck_21_8690c8fd:
 
     # n "It was the Earth of 65 million years ago."
-    n ""
+    n "C'était la Terre, environ 65 millions d'année avant notre ère."
 
 # game/chapter4.rpy:4348
 translate french _call_skipcheck_21_76b2fe88_5:
@@ -5128,25 +5128,25 @@ translate french _call_skipcheck_21_76b2fe88_5:
 translate french _call_skipcheck_21_c5cf4c44:
 
     # n "We knew that by utilizing black holes for teleportation, time travel was a theoretical possibility. It was something even my company didn't dare to attempt, though, as teleportation in itself was still a very new technology."
-    n ""
+    n "Nous savions qu'en utilisant les trous noirs, il était en théorie possible de faire des voyages temporels. Mais même la société qui m'employait n'avait encore osé aborder le sujet, la téléportation était une technologie bien trop récente."
 
 # game/chapter4.rpy:4353
 translate french _call_skipcheck_21_c0965afc:
 
     # n "Yet here I was, 65 million years in the past, with a research station all to myself. The company would revel in the opportunity to study and profit from all the different lifeforms I could see."
-    n ""
+    n "Et pourtant, j'étais là, 65 millions d'années dans le passé, avec une station de recherche pour moi seul. La société se réjouissait de la possibiltié d'étudier toute les formes de vie que je pouvais voir."
 
 # game/chapter4.rpy:4355
 translate french _call_skipcheck_21_f445b83c:
 
     # n "If only they knew about them."
-    n ""
+    n "Si seulement ils savaient."
 
 # game/chapter4.rpy:4357
 translate french _call_skipcheck_21_623cfe16:
 
     # n "I spent the few weeks setting up the portal as planned, yet when I tried to reestablish contact with my employer, I was met with silence."
-    n ""
+    n "J'ai passé les quelques semaines suivantes à mettre en place le portail comme c'était prévu, mais lorsque j'ai essayé d'établir le contact avec la Terre que je connaissais, j'ai été accueilli par un silence."
 
 # game/chapter4.rpy:4360
 translate french _call_skipcheck_21_76b2fe88_6:
@@ -5158,25 +5158,25 @@ translate french _call_skipcheck_21_76b2fe88_6:
 translate french _call_skipcheck_21_f44007c6:
 
     # n "Despite the time discrepancy, the portal should have been able to find my company's in the present. For a black hole, sending something through time is no different than sending something through space."
-    n ""
+    n "Malgré le décalage horaire, le portail aurait dû trouver celui de mon entreprise dans le présent. Pour un trou noir, faire passer quelque chose d'un endroit à un autre, ou d'un temps à un autre, c'est la même chose."
 
 # game/chapter4.rpy:4365
 translate french _call_skipcheck_21_c36713ce:
 
     # n "However, when we built the portals, we gave them a specialized configuration. It was only possible to travel through space by aligning them across the time axis."
-    n ""
+    n "Cependant, lorsque nous avons construit les portails, nous leur avons donné une configuration particulière. Ils n'était possible de voyager dans l'espace qu'en les alignant sur l'axe du temps."
 
 # game/chapter4.rpy:4367
 translate french _call_skipcheck_21_c44eed8f:
 
     # n "That meant that I, in the past, would still be able to search for portals in the present to connect with. My counterparts in the present, though, would not be able to find me in the past even if they tried."
-    n ""
+    n "Cela signifiait que je pouvais toujours chercher des portails dans une période future à la mienne avec mon équipement, tandis que mes collègues ne pouvaient me trouver dans le passé, même s'ils savaient où chercher."
 
 # game/chapter4.rpy:4369
 translate french _call_skipcheck_21_63d5ab9a:
 
     # n "But I couldn't find them. Not a single one. Even after checking the portal for its function, I determined that - for all intents and purposes - the portals from the company should have been there to connect with."
-    n ""
+    n "Mais je n'ai trouvé aucun portail. Pas un seul. Même après avoir vérifié les paramètres du portail j'étais persuadé que - à toute fins utile - j'aurais dû trouver les portails de la société."
 
 # game/chapter4.rpy:4372
 translate french _call_skipcheck_21_76b2fe88_7:
@@ -5188,25 +5188,25 @@ translate french _call_skipcheck_21_76b2fe88_7:
 translate french _call_skipcheck_21_90482d26:
 
     # n "It was then that I had a terrible realization: The portals in the present didn't exist anymore, or were no longer operational."
-    n ""
+    n "C'est alors que j'ai eut une terrible prise de conscience : Si je ne les trouvais pas, c'est parce que les portails n'existaient plus, ou avaient été désactivés."
 
 # game/chapter4.rpy:4378
 translate french _call_skipcheck_21_1d549a46:
 
     # n "Maybe the blunder of teleporting the lab caused them to reconsider the risks of using this technology. After all, it was already controversial and had been outlawed in several countries."
-    n ""
+    n "Peut-être qu'après avoir constaté l'erreur de la téléportation du labo, ils avaient décidé d'arrêter d'utiliser cette technologie. Après tout, la téléportation était déjà très contreversée, même interdite dans plusieurs pays."
 
 # game/chapter4.rpy:4380
 translate french _call_skipcheck_21_ee95b45c:
 
     # n "I wouldn't have been surprised if they decided to cut their losses, but it was highly unlikely that they would have immediately shut down every single portal and left me stranded without notice. Portal technology was still being relied on in several places in the present."
-    n ""
+    n "Je n'aurais pas été surpris qu'ils décident de réduire leurs pertes, mais il était très peu probable qu'ils aient immédiatement fermé chaque portail et m'aient laissé en plan sans préavis. La technologie des portails était encore utilisée à plusieurs endroits à l'heure actuelle."
 
 # game/chapter4.rpy:4382
 translate french _call_skipcheck_21_ad245946:
 
     # n "In my mind, only one possibility remained: Superweapons. Various nations had been using them as bargaining chips for some time. I didn't think the threats had become that serious, but one of them must have launched their weapon and destroyed the majority of Earth."
-    n ""
+    n "Dans mon esprit, il ne restait qu'une possibilité : Les super-armes. Diverses nations les utilisaient comme monnaie d'échange depuis un certain temps. Je ne pensais pas que les menaces étaient devenues si graves, mais l'une d'entre elles a dû lancer son arme et détruire la majeure partie de la Terre."
 
 # game/chapter4.rpy:4385
 translate french _call_skipcheck_21_76b2fe88_8:
@@ -5218,25 +5218,25 @@ translate french _call_skipcheck_21_76b2fe88_8:
 translate french _call_skipcheck_21_b8e3831d:
 
     # n "It could have been the result of a malfunction, or perhaps the political situation had escalated."
-    n ""
+    n "Cela pouvait être le résultat d'un dysfonctionnement, ou peut-être la situation politique qui s'était dégradée."
 
 # game/chapter4.rpy:4390
 translate french _call_skipcheck_21_0be41dab:
 
     # n "Either way, it was not possible for me to establish any means of communication to find out what had really happened."
-    n ""
+    n "De toute façon, il ne m'a pas été possible d'établir un quelconque moyen de communication pour savoir ce qui s'était réellement passé."
 
 # game/chapter4.rpy:4392
 translate french _call_skipcheck_21_4301388e:
 
     # n "I could have sent myself back into the present with the right coordinates, but this was a risky endeavor, and I also had to ask myself if it was a present I wanted to return to."
-    n ""
+    n J'aurais pu me renvoyer dans le présent avec les bonnes coordonnées, mais c'était une entreprise risquée, et je devais aussi me demander si c'était un présent dans lequel je voulais retourner."
 
 # game/chapter4.rpy:4394
 translate french _call_skipcheck_21_bd76b207:
 
     # n "I was sure that if anything was even left of our world, the aftermath or a possible retaliatory strike would take care of the rest."
-    n ""
+    n "J'étais sûr que s'il restait encore quelque chose de notre monde, les conséquences ou d'éventuelles représailles s'occuperaient du reste."
 
 # game/chapter4.rpy:4397
 translate french _call_skipcheck_21_76b2fe88_9:
@@ -5248,31 +5248,31 @@ translate french _call_skipcheck_21_76b2fe88_9:
 translate french _call_skipcheck_21_373e02d5:
 
     # n "In the end, I had to realize that whichever present did exist was likely not one that was worth returning to. It made my decision all the easier."
-    n ""
+    n "En fin de compte, j'ai dû me rendre compte que quel que soit le cadeau qui existait, il ne valait probablement pas la peine d'y retourner. Cela a rendu ma décision d'autant plus facile."
 
 # game/chapter4.rpy:4402
 translate french _call_skipcheck_21_f3298f9d:
 
     # n "Instead of returning to a destroyed civilization, I saw an opportunity."
-    n ""
+    n "Au lieu de retourner dans une civilisation détruite, j'ai vu une opportunité."
 
 # game/chapter4.rpy:4404
 translate french _call_skipcheck_21_bb844621:
 
     # n "Rather than creating bioweapons, I could use the lab to create a new civilization, shaped by my own ideals."
-    n ""
+    n "Plutôt que de créer des armes biologiques, je pourrais utiliser le laboratoire pour créer une nouvelle civilisation, façonnée par mes propres idéaux."
 
 # game/chapter4.rpy:4406
 translate french _call_skipcheck_21_02f594bf:
 
     # n "I had all the necessary data and the most modern methods and machines at my fingertips."
-    n ""
+    n "J'avais toutes les données nécessaires et les méthodes et machines les plus modernes à portée de main."
 
 # game/chapter4.rpy:4408
 translate french _call_skipcheck_21_9bbee883:
 
     # n "Besides, most of the processes had already been automated."
-    n ""
+    n "de plus, la plupart des processus avaient déjà été automatisés."
 
 # game/chapter4.rpy:4411
 translate french _call_skipcheck_21_76b2fe88_10:
@@ -5284,31 +5284,31 @@ translate french _call_skipcheck_21_76b2fe88_10:
 translate french _call_skipcheck_21_a06d7c03:
 
     # n "In the end, I still used the lab for what it had been created for: Fusing human and animal DNA to create beings that were mostly animal, but possessed a greater intelligence that allowed them to learn whatever we wanted them to."
-    n ""
+    n "En fin de compte, j'ai quand même utilisé le laboratoire pour ce pour quoi il avait été créé : Fusionner l'ADN humain et l'ADN animal pour créer des êtres principalement animaux, mais possédant une plus grande intelligence qui leur permettait d'apprendre tout ce que nous voulions."
 
 # game/chapter4.rpy:4416
 translate french _call_skipcheck_21_3a134373:
 
     # n "As I didn't have any animal samples sent with me when I initially arrived, I collected them from the sources available to me."
-    n ""
+    n "Comme je n'avais pas d'échantillons d'animaux envoyés avec moi à mon arrivée, je les ai collectés auprès des sources dont je disposais."
 
 # game/chapter4.rpy:4418
 translate french _call_skipcheck_21_dbdf94ed:
 
     # n "Automated processes mixed the DNA further across the samples. New abilities were added like enhanced armor, flight, and spit weapons to make the new creatures more effective in combat."
-    n ""
+    n "Des processus automatisés ont permis de mélanger davantage l'ADN entre les échantillons. De nouvelles capacités ont été ajoutées, comme une armure améliorée, voler et des armes de crachat pour rendre les nouvelles créatures plus efficaces au combat."
 
 # game/chapter4.rpy:4420
 translate french _call_skipcheck_21_02f15d54:
 
     # n "The result was a number of different species, each tailored and optimized to fill a specific role in a war situation."
-    n ""
+    n "Il en résulta un certain nombre d'espèces différentes, chacune étant adaptée et optimisée pour remplir un rôle spécifique dans une situation de guerre."
 
 # game/chapter4.rpy:4422
 translate french _call_skipcheck_21_ca4f20c4:
 
     # n "Hormones allowed me to speed up their growth, and with the lab's learning program, they could be educated in whatever manner I saw fit."
-    n ""
+    n "Les hormones me permirent d'accélérer leur croissance, et grâce au programme d'apprentissage du laboratoire, ils purent être éduqués de la manière que je jugeais appropriée."
 
 # game/chapter4.rpy:4425
 translate french _call_skipcheck_21_76b2fe88_11:
@@ -5320,31 +5320,31 @@ translate french _call_skipcheck_21_76b2fe88_11:
 translate french _call_skipcheck_21_2830a667:
 
     # n "My first concern was self-sufficiency."
-    n ""
+    n "Ma première préoccupation était l'autosuffisance."
 
 # game/chapter4.rpy:4430
 translate french _call_skipcheck_21_649fc722:
 
     # n "They needed the kind of knowledge that would enable them to come together as their own, independent society."
-    n ""
+    n "Ils avaient besoin du type de connaissances qui leur permettrait de s'unir pour former leur propre société indépendante."
 
 # game/chapter4.rpy:4432
 translate french _call_skipcheck_21_9d67bbfc:
 
     # n "Luckily, the AI that automated all the processes in the lab was more than helpful."
-    n ""
+    n "Heureusement, l'IA qui a automatisé tous les processus du laboratoire a été plus qu'utile."
 
 # game/chapter4.rpy:4434
 translate french _call_skipcheck_21_f72aecfc:
 
     # n "I unleashed the first generation of my creation, and as their leader, founded our first village."
-    n ""
+    n "J'ai libéré la première génération de ma création, et en tant que leur chef, j'ai fondé notre premier village."
 
 # game/chapter4.rpy:4436
 translate french _call_skipcheck_21_50e37dd2:
 
     # n "I thought we could really pull it off. And once I saw that they could survive without my guidance - and also govern themselves - I knew my plan was a success."
-    n ""
+    n "J'ai pensé qu'on pouvait vraiment y arriver. Et une fois que j'ai vu qu'ils pouvaient survivre sans mes conseils - et aussi se gouverner eux-mêmes - j'ai su que mon plan était un succès."
 
 # game/chapter4.rpy:4442
 translate french _call_skipcheck_21_76b2fe88_12:
