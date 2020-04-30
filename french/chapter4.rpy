@@ -5356,733 +5356,733 @@ translate french _call_skipcheck_21_76b2fe88_12:
 translate french _call_skipcheck_21_69156d1f:
 
     # As "When I realized that this new society would eventually be destroyed, I told myself that I would do anything I could to save it."
-    As ""
+    As "Quand j'ai réalisé que cette nouvelle société serait finalement détruite, je me suis dit que je ferais tout ce qui est en mon pouvoir pour la sauver."
 
 # game/chapter4.rpy:4456
 translate french _call_skipcheck_21_7dbd87da:
 
     # c "Destroyed? What are you talking about?"
-    c ""
+    c "Détruite ? De quoi parlez-vous ?"
 
 # game/chapter4.rpy:4458
 translate french _call_skipcheck_21_2605d4b7:
 
     # As "Haven't you realized where we are?"
-    As ""
+    As "Tu n'as pas compris où nous sommes ?"
 
 # game/chapter4.rpy:4460
 translate french _call_skipcheck_21_9ea53f83:
 
     # As "The Chicxulub asteroid is headed for us."
-    As ""
+    As "L'astéroïde qui a provoqué le cratère de Chicxulub au Mexique, il se dirige vers nous à l'heure actuelle."
 
 # game/chapter4.rpy:4462
 translate french _call_skipcheck_21_af642156:
 
     # As "With a diameter of over 10km, its impact will create humongous clouds of dust, throwing Earth into a literal dark age."
-    As ""
+    As "Avec un diamètre de plus de 10km, son impact créera d'immenses nuages de fumées, condamnant la Terre littéralement à une ère d'obscurité."
 
 # game/chapter4.rpy:4464
 translate french _call_skipcheck_21_871e7b19:
 
     # As "They will block out the sunlight for over a year, killing off many species of plants that rely on photosynthesis to survive."
-    As ""
+    As "Ces nuages de poussière vont bloquer la lumière du soleil pendant plus d'un an, éradiquant plusieurs espèces s'appuyant sur la photosynthèse pour survivre.."
 
 # game/chapter4.rpy:4466
 translate french _call_skipcheck_21_581fb48b:
 
     # As "As a result, animals that eat those plants will also vanish, as will those who sought sustenance from these herbivores."
-    As ""
+    As "En conséquence, les animaux mangeant ces plantes disparaîtront également, ainsi que ceux qui se nourrissent de ces herbivores."
 
 # game/chapter4.rpy:4468
 translate french _call_skipcheck_21_75a0e9a4:
 
     # As "All in all, 75%% of all species will vanish, and in terrestrial ecosystems, all animals heavier than a single kilogram will die."
-    As ""
+    As "En tout, 75% de toutes les espèces va disparaître, et concernant l'écosystème terrestre, tout les animaux de plus d'un kilogramme mourront."
 
 # game/chapter4.rpy:4470
 translate french _call_skipcheck_21_7d517c52:
 
     # As "That would be 2.2 pounds, in case you didn't know."
-    As ""
+    As "Ca fait 2.2 livres, au cas où tu ne le sâches pas."
 
 # game/chapter4.rpy:4472
 translate french _call_skipcheck_21_16f012c9:
 
     # As "It will be the end of everyone who lives here, every single dragon you have seen - unless we do something."
-    As ""
+    As "Ce sera l'extinction de tous ceux qui vivent ici, tout ceux que vous connaissez - à moins qu'on ne fasse quelque chose."
 
 # game/chapter4.rpy:4474
 translate french _call_skipcheck_21_d68ebd0d:
 
     # c "We? What am I supposed to do?"
-    c ""
+    c "Nous ? Qu'est-ce que je suis censé faire ?"
 
 # game/chapter4.rpy:4476
 translate french _call_skipcheck_21_27a4408e:
 
     # As "Do you not wish to save them?"
-    As ""
+    As "Tu ne souhaites pas les sauver ?"
 
 # game/chapter4.rpy:4478
 translate french _call_skipcheck_21_74b9d5b2:
 
     # c "I came here to help humanity. Now you tell me that this society - this whole world - is also on the brink of extinction?"
-    c ""
+    c "Je suis d'abord venu ici pour venir en aide à l'humanité. Et maintenant, vous me dites que cette société - ce monde entier - est également au bord de l'extinction ?"
 
 # game/chapter4.rpy:4480
 translate french _call_skipcheck_21_1c7d26e3:
 
     # As "That is the truth."
-    As ""
+    As "C'est la vérité."
 
 # game/chapter4.rpy:4482
 translate french _call_skipcheck_21_20760341:
 
     # c "What kind of difference could a single person like me even make to save it?"
-    c ""
+    c "Qu'est-ce qu'un seul type comme moi peut faire pour sauver ce monde au juste ?"
 
 # game/chapter4.rpy:4484
 translate french _call_skipcheck_21_1a2f81ea:
 
     # As "Right now, it's also a single person that presents its greatest threat."
-    As ""
+    As "En ce moment, c'est également une seule personne qui représente sa plus grande menace."
 
 # game/chapter4.rpy:4486
 translate french _call_skipcheck_21_d208b0a1:
 
     # c "Reza? How?"
-    c ""
+    c "Reza ? Comment ?"
 
 # game/chapter4.rpy:4488
 translate french _call_skipcheck_21_80dcb028:
 
     # As "In order to stop the comet, we will need as much power as possible."
-    As ""
+    As "Pour arrêter la comette, nous aurons besoin d'autant de puissance que possible."
 
 # game/chapter4.rpy:4490
 translate french _call_skipcheck_21_ed49d602:
 
     # c "We reclaimed all the generators he stole. Besides, how could a few of them be enough to make a difference for something like this?"
-    c ""
+    c "Nous avons récupéré tous les générateurs qu'il a volé. D'ailleurs, comment quelques générateurs peuvent faire la différence face à un truc comme ça ?"
 
 # game/chapter4.rpy:4492
 translate french _call_skipcheck_21_34b96170:
 
     # As "Don't forget that Reza is still out there, looking for more. The truth is: I don't know if all the generators we could gather would ever be enough."
-    As ""
+    As "N'oublie pas que Reza est toujours en liberté, cherchant plus de générateurs. La vérité, c'est que je ne suis pas sûr que la puissance de tous les générateurs disponible soit vraiment suffisante."
 
 # game/chapter4.rpy:4494
 translate french _call_skipcheck_21_d23122c4:
 
     # As "We only require enough power to divert the comet's path during a crucial moment, but even if this plan is possible, we will need every single generator we can get."
-    As ""
+    As "Ce dont on a besoin exactement, c'est d'une source d'énergie suffisament forte pour dévier la trajectoire de la comète avant le point de non retour. Et même si ce plan est possible, il nous faut le maximum de générateurs."
 
 # game/chapter4.rpy:4496
 translate french _call_skipcheck_21_139cf34f:
 
     # c "So my goal hasn't changed. I just need to find Reza."
-    c ""
+    c "Ma mission reste la même alors : trouver Reza."
 
 # game/chapter4.rpy:4498
 translate french _call_skipcheck_21_0c43fc9a:
 
     # As "Yes, but you'll need my help, and maybe the help of others. You know that Reza is dangerous, and with his gun, he has a clear advantage."
-    As ""
+    As "Oui, mais tu vas avoir besoin de mon aide, voire d'une aide extérieure. Tu sais qu'avec son arme à feu, Reza a un réel avantage."
 
 # game/chapter4.rpy:4500
 translate french _call_skipcheck_21_99dcf20d:
 
     # As "Don't think that he wouldn't hesitate to kill you if you were in his way."
-    As ""
+    As "Il n'hésitera pas à te tuer si tu te mets en travers de son chemin."
 
 # game/chapter4.rpy:4502
 translate french _call_skipcheck_21_d0c70f78:
 
     # c "Then what shall we do? Do you know where he is?"
-    c ""
+    c "Alors que devons nous faire ? Est-ce que vous savez où il est ?"
 
 # game/chapter4.rpy:4504
 translate french _call_skipcheck_21_882be72d:
 
     # As "No, but I think you'll find him soon, and you can count on my support when that happens."
-    As ""
+    As "Non, mais je pense que tu le découvriras assez tôt, et tu peux compter sur mon soutien quand ça arrivera."
 
 # game/chapter4.rpy:4506
 translate french _call_skipcheck_21_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/chapter4.rpy:4508
 translate french _call_skipcheck_21_e486c3e2:
 
     # c "There is one thing that still doesn't make sense to me, though."
-    c ""
+    c "Il reste cependant une chose qui n'a pas de sens à mes yeux."
 
 # game/chapter4.rpy:4510
 translate french _call_skipcheck_21_749bf135:
 
     # c "The dragons have myths about you, but they don't know or remember you. They haven't seen any humans for who knows how long. How much time could have passed since you created them and now?"
-    c ""
+    c "Les dragons ont des mythes sur vous, mais personne ne sait qui vous êtes, ni ne se souvient de vous. Ils n'ont pas vu d'humains depuis je ne sais combien de temps. Combien de temps s'est écoulé entre leur création et maintenant ?"
 
 # game/chapter4.rpy:4512
 translate french _call_skipcheck_21_810db1fd:
 
     # c "How many generations could it take to forget? Why isn't there proof of your existence?"
-    c ""
+    c "Combien de génération ça a pris pour vous oublier ? Pourquoi n'y a-t-il pas de preuves de votre existence ?"
 
 # game/chapter4.rpy:4514
 translate french _call_skipcheck_21_23c33e1c:
 
     # As "I don't know exactly how long it's been, myself. When I realized what time period I was in and that my creation was about to be wiped out in the future, I wanted to go to that future and see what they had become."
-    As ""
+    As "Je ne sais pas combien de temps ça a fait non plus. Quand j'ai réalisé à quelle période j'étais et que ma création était sur le point d'être balayée dans le futur, j'ai voulu aller dans le futur pour voir ce qu'il advenait d'eux."
 
 # game/chapter4.rpy:4516
 translate french _call_skipcheck_21_49a27033:
 
     # As "I disabled the portal's time axis safeguards, and thus enabled it to connect with others in different times."
-    As ""
+    As "J'ai désactivé les protection concernant l'axe temporel du portail et lui ai donc permis de se connecter à différentes époques."
 
 # game/chapter4.rpy:4518
 translate french _call_skipcheck_21_18cbf4d3:
 
     # As "This also included that very same portal in the future."
-    As ""
+    As "Ca incluait également ce même portail dans le futur.."
 
 # game/chapter4.rpy:4520
 translate french _call_skipcheck_21_49dafd96:
 
     # As "With the generator of our lab being able to supply the portal with power for an indefinite amount of time, I was able to travel to any point in the future I wanted to."
-    As ""
+    As "Le générateur de notre laboratoire et du portail étant parfaitement autonome en tout point, et sa durée de vie étant illimitée, j'ai pu me rendre à n'importe quel futur."
 
 # game/chapter4.rpy:4522
 translate french _call_skipcheck_21_58a4f49a:
 
     # As "The entry and end point of the black hole would be the same place and the same portal, with the way travelled being just along the time axis."
-    As ""
+    As "Le point d'entrée et de sorti du trou noir serait le même à chaque utilisation, puisque la position dans l'espace ne change pas, seulement la position dans le temps."
 
 # game/chapter4.rpy:4524
 translate french _call_skipcheck_21_93dc963e:
 
     # As "Since I could now search for connection points in any time period, I could look for my own portal in the future and pinpoint the moment its signal stopped."
-    As ""
+    As "Comme il m'a été possible de chercher des points de connection dans n'importe quelle période, j'ai pu grâce à ça trouver un futur dans lequel mon point de connection disparaît."
 
 # game/chapter4.rpy:4526
 translate french _call_skipcheck_21_ea899b43:
 
     # c "The comet."
-    c ""
+    c "La comète."
 
 # game/chapter4.rpy:4528
 translate french _call_skipcheck_21_7bc71553:
 
     # As "Exactly."
-    As ""
+    As "Exactement."
 
 # game/chapter4.rpy:4530
 translate french _call_skipcheck_21_8d7451c7:
 
     # As "I found that specific point in time and traveled to a future that was as close to that event as I could safely manage."
-    As ""
+    As "J'ai trouvé ce moment précis dans le temps, et j'ai voyagé vers un point de contact suffisament proche de cet évènement pour pouvoir le gérer en toute sécurité."
 
 # game/chapter4.rpy:4532
 translate french _call_skipcheck_21_a13616d3:
 
     # As "After I arrived here, my escape from the portal's hiding place led to its discovery by the dragons. It and the laboratory were unearthed."
-    As ""
+    As "Après mon arrivée ici et grâce à l'accès que j'ai creusé pour sortir de sous terre, les dragons ont trouvé le portail ainsi que l'U.A.D dans laquelle se trouve le labo."
 
 # game/chapter4.rpy:4534
 translate french _call_skipcheck_21_e17fce04:
 
     # c "I still don't understand how our portal found yours, or why we ended up arriving at this particular time period."
-    c ""
+    c "Mais je ne comprends toujours pas pourquoi notre portail s'est connecté au vôtre, ni pourquoi nous sommes arrivé à cette époque là et pas à une autre."
 
 # game/chapter4.rpy:4536
 translate french _call_skipcheck_21_ecb962a3:
 
     # As "The portal you found was no doubt one of my company's. They must have been connected before, so the corresponding data for their connection already existed when you found it."
-    As ""
+    As "Le portail que vous avez trouvé était sans doute celui de ma compagnie. Nos deux portails ont déjà dû être connecté auparavant, du coup l'empreinte numérique du mien était enregistré dans le vôtre."
 
 # game/chapter4.rpy:4538
 translate french _call_skipcheck_21_52f635cd:
 
     # As "I'm not sure if that could bypass the anti-time travel safeguards, though."
-    As ""
+    As "Ça n'explique pas comment vous avez passé outre la protection de l'axe temporel, cependant."
 
 # game/chapter4.rpy:4540
 translate french _call_skipcheck_21_a77cddd6:
 
     # As "Was it completely operational when you found it?"
-    As ""
+    As "Il était pleinement opérationnel quand vous l'avez trouvé ?"
 
 # game/chapter4.rpy:4542
 translate french _call_skipcheck_21_601249f6:
 
     # c "No, it took a little bit of tinkering."
-    c ""
+    c "Non, il a fallu mettre les mains dedans pour le faire repartir."
 
 # game/chapter4.rpy:4544
 translate french _call_skipcheck_21_7e38a677:
 
     # As "Probably jumping the hardware safeguard in the process."
-    As ""
+    As "Vous avez probablement contourné les protections logicielles sans le vouloir."
 
 # game/chapter4.rpy:4546
 translate french _call_skipcheck_21_2acdf2d3:
 
     # As "Now, consider that connected portals travel along the time axis together. The data for their beginning and end points are adjusted automatically."
-    As ""
+    As "Considérons maintenant que les deux portails connectés voyagent le long de l'axe du temps. Les données relatives à leurs points de départ et d'arrivée sont automatiquement réajustées."
 
 # game/chapter4.rpy:4548
 translate french _call_skipcheck_21_8f8852d9:
 
     # As "Otherwise, we wouldn't be able to transport anything from one place in the world to another without also sending it through time."
-    As ""
+    As "Sinon il serait impossible de transporter quoi que ce soit d'un portail à l'autre sans l'envoyer à travers le temps."
 
 # game/chapter4.rpy:4550
 translate french _call_skipcheck_21_b4947615:
 
     # As "Since these two portals must have been connected at some point, the corresponding data for the connection between those two portals already existed."
-    As ""
+    As "Comme ces deux portails ont très certainement déjà été connectés l'un à l'autre, pour un test je suppose, les données nécessaires à leur connection étaient déjà en mémoire."
 
 # game/chapter4.rpy:4552
 translate french _call_skipcheck_21_b03ffc7e:
 
     # As "When using the same connection without changing any of the data, this would mean that despite the time discrepancy between those two portals, time still progressed linearly for them."
-    As ""
+    As "En utilisant cette même connection, sans toucher à aucune donnée, ça signifie que malgré le décalage temporel entre les deux portails, le temps a progressé de la même manière, pour l'un comme pour l'autre."
 
 # game/chapter4.rpy:4554
 translate french _call_skipcheck_21_e6072e3b:
 
     # c "I'm not sure I understand."
-    c ""
+    c "Je ne suis pas certain de tout comprendre."
 
 # game/chapter4.rpy:4556
 translate french _call_skipcheck_21_2dc9e104:
 
     # As "Let me try to rephrase that. The portal you found and my own share a connection. However, while the connection is locked to a certain place, which is wherever the portal is at that very moment, it is not connected to a specific point in time."
-    As ""
+    As "Je vais essayer de reformuler cela. Le portail que vous avez trouvé et le mien partagent une connexion. Cependant, si la connexion est verrouillée à un certain endroit, c'est-à-dire à l'endroit où se trouve le portail à ce moment précis, elle n'est pas connectée à un point précis dans le temps."
 
 # game/chapter4.rpy:4558
 translate french _call_skipcheck_21_b5281303:
 
     # As "For us and the physical machines that are the portals, time passes linearly and we can't do anything about that. However, for the black holes this isn't the case."
-    As ""
+    As "Pour nous et les machines physiques que sont les portails, le temps passe de façon linéaire et nous ne pouvons rien y faire. Cependant, pour les trous noirs, ce n'est pas le cas."
 
 # game/chapter4.rpy:4560
 translate french _call_skipcheck_21_98f966e9:
 
     # As "Just as their entry and end points can be in different places, they can also be in different times."
-    As ""
+    As "Tout comme leurs points d'entrée et de sortie peuvent se trouver à des endroits différents, ils peuvent aussi se trouver à des moments différents."
 
 # game/chapter4.rpy:4562
 translate french _call_skipcheck_21_448c5a06:
 
     # As "In order to not send something through time when we just want to transport something from one portal to another, the portals are anchored together in such a way that the time data is automatically synchronized."
-    As ""
+    As "Afin de ne pas envoyer quelque chose à travers le temps alors que nous voulons simplement transporter quelque chose d'un portail à un autre, les portails sont ancrés ensemble de telle sorte que les données temporelles soient automatiquement synchronisées."
 
 # game/chapter4.rpy:4564
 translate french _call_skipcheck_21_bc4dde1f:
 
     # As "Essentially, this means that ever since you arrived in this world, the same amount of time that has passed for you has also passed in the place where you came from."
-    As ""
+    As "Cela signifie essentiellement que depuis votre arrivée dans ce monde, le temps qui s'est écoulé pour vous s'est également écoulé à l'endroit d'où vous venez."
 
 # game/chapter4.rpy:4566
 translate french _call_skipcheck_21_bb1c2520:
 
     # c "I see, so despite being in different time periods, time still passes linearly on both sides of the portals."
-    c ""
+    c "Je vois que, bien que se situant à des époques différentes, le temps passe toujours de façon linéaire de part et d'autre des portails."
 
 # game/chapter4.rpy:4568
 translate french _call_skipcheck_21_17611d67:
 
     # As "Otherwise it would not have been possible for you to send messages back and forth to each other."
-    As ""
+    As "Sinon, il ne vous aurait pas été possible de vous envoyer des messages les uns aux autres."
 
 # game/chapter4.rpy:4570
 translate french _call_skipcheck_21_c025c2be:
 
     # As "If they were not synchronized, the portals on both sides would stay connected not only to a single point in space, but also to a single point in time, thus making proper two-way communication impossible."
-    As ""
+    As "S'ils n'étaient pas synchronisés, les portails des deux côtés resteraient connectés non seulement à un seul point dans l'espace, mais aussi à un seul point dans le temps, rendant ainsi impossible une communication bidirectionnelle correcte."
 
 # game/chapter4.rpy:4572
 translate french _call_skipcheck_21_f2eae827:
 
     # As "However, this is only possible through the connection that has already been forged. If we wanted to, we could also use our portal to send you back to your own time period, but to a moment before Reza even arrived here."
-    As ""
+    As "Toutefois, cela n'est possible que grâce à la connexion qui a déjà été établie. Si nous le voulions, nous pourrions également utiliser notre portail pour vous renvoyer à votre propre époque, mais à un moment avant même l'arrivée de Reza ici."
 
 # game/chapter4.rpy:4574
 translate french _call_skipcheck_21_b6465cfa:
 
     # c "But that would mean there would be two of me, right? Wouldn't that cause a time paradox?"
-    c ""
+    c "Mais cela voudrait dire qu'il y aurait deux moi, n'est-ce pas ? Cela ne provoquerait-il pas un paradoxe temporel ?"
 
 # game/chapter4.rpy:4576
 translate french _call_skipcheck_21_5c879a65:
 
     # As "I can only tell you that it would work. No one has studied time travel before, though, so if there are any consequences, then I am not sure of them. Most likely, an entirely new timeline would be created."
-    As ""
+    As "Je peux seulement vous dire que cela fonctionnerait. Mais personne n'a encore étudié les voyages dans le temps, alors s'il y a des conséquences, je n'en suis pas sûr. Il est fort probable qu'une toute nouvelle ligne du temps serait créée."
 
 # game/chapter4.rpy:4578
 translate french _call_skipcheck_21_880cc0d6:
 
     # As "There would be a timeline without a [player_name] altogether, and in the new one, there would be two of you."
-    As ""
+    As "Il y aurait une ligne de temps sans [player_name] au total, et dans la nouvelle ligne de temps, vous seriez deux."
 
 # game/chapter4.rpy:4580
 translate french _call_skipcheck_21_14179f5d:
 
     # c "This is becoming way too complicated."
-    c ""
+    c "Cela devient beaucoup trop compliqué."
 
 # game/chapter4.rpy:4582
 translate french _call_skipcheck_21_13d761a2:
 
     # As "I apologize. To come back to your original question, I am not sure how much time passed between the time I left my newborn society and now."
-    As ""
+    As "Je te prie de m'excuser. Pour revenir à votre question initiale, je ne sais pas combien de temps s'est écoulé entre le moment où j'ai quitté la société que j'ai connu et celle que tu connais toi."
 
 # game/chapter4.rpy:4584
 translate french _call_skipcheck_21_bbd6297c:
 
     # As "Since the portal was not designed for time travel, I have no way of knowing how the variables translated to our perception of time."
-    As ""
+    As "Comme le portail n'a pas été conçu pour le voyage dans le temps, je n'ai aucun moyen de savoir comment les variables se sont traduites dans notre perception du temps."
 
 # game/chapter4.rpy:4586
 translate french _call_skipcheck_21_2e14b0d4:
 
     # As "It could have been thousands or even millions of years."
-    As ""
+    As "Cela aurait pu être des milliers, voire des millions d'années."
 
 # game/chapter4.rpy:4588
 translate french _call_skipcheck_21_955a59d5:
 
     # c "How could the portal or even its power source still be operational after all this time?"
-    c ""
+    c "Comment le portail ou même sa source d'énergie pourraient-ils encore être opérationnels après tout ce temps ?"
 
 # game/chapter4.rpy:4590
 translate french _call_skipcheck_21_83d06e49:
 
     # As "The portal receives its power from the generator in the lab. These units were fitted with the absolute best technology we had to offer."
-    As ""
+    As "Le portail est alimenté par le générateur du laboratoire. Ces unités étaient équipées de la meilleure technologie que nous pouvions offrir."
 
 # game/chapter4.rpy:4592
 translate french _call_skipcheck_21_1eada674:
 
     # As "It was designed to provide sustainable power completely independently from any already existing network or power lines. It gains energy from many sources - sun rays, earth's heat and movement, just to name a few."
-    As ""
+    As "Il a été conçu pour fournir une énergie durable de manière totalement indépendante de tout réseau ou ligne électrique déjà existant. Elle tire son énergie de nombreuses sources - les rayons du soleil, la chaleur et les mouvements de la terre, pour n'en citer que quelques-unes."
 
 # game/chapter4.rpy:4594
 translate french _call_skipcheck_21_abe0cbc6:
 
     # As "Keep in mind it had to power a whole laboratory and research station, while also providing the energy required for all of its inhabitants and the associated energy expenditures."
-    As ""
+    As "N'oubliez pas qu'elle devait alimenter tout un laboratoire et une station de recherche, tout en fournissant l'énergie nécessaire à tous ses habitants et aux dépenses énergétiques associées."
 
 # game/chapter4.rpy:4596
 translate french _call_skipcheck_21_5a982d08:
 
     # As "Taking its power from Earth itself, a generator like this could continue providing power to the lab indefinitely."
-    As ""
+    As "Prenant son énergie de la Terre elle-même, un générateur comme celui-ci pourrait continuer à fournir de l'énergie au laboratoire indéfiniment."
 
 # game/chapter4.rpy:4598
 translate french _call_skipcheck_21_22ea504f:
 
     # c "Speaking of which, why haven't I seen a single dinosaur since I arrived?"
-    c ""
+    c "À ce propos, pourquoi n'ai-je pas vu un seul dinosaure depuis mon arrivée ?"
 
 # game/chapter4.rpy:4600
 translate french _call_skipcheck_21_39086922:
 
     # As "It seems that the dragons' society expanded over the whole continent."
-    As ""
+    As "Il semble que la société des dragons se soit étendue sur tout le continent"
 
 # game/chapter4.rpy:4602
 translate french _call_skipcheck_21_a9868dd9:
 
     # As "Many still hunt on their own for sustenance, and as such, the original species they were based on have mostly vanished, as in direct competition, ours proved to be far superior."
-    As ""
+    As "Beaucoup chassent encore seuls pour vivre et, de ce fait, les espèces originales sur lesquelles ils étaient basés ont pour la plupart disparu, car en concurrence directe, la mienne s'est avérée bien supérieure."
 
 # game/chapter4.rpy:4604
 translate french _call_skipcheck_21_09805296:
 
     # As "Also, they have probably taken measures against having big predators roam their cities and villages."
-    As ""
+    As "De plus, ils ont probablement pris des mesures contre la présence de grands prédateurs dans leurs villes et villages."
 
 # game/chapter4.rpy:4606
 translate french _call_skipcheck_21_b36e5f58:
 
     # As "Yet while the dragon population has increased tremendously, I have found that by and large, their society as whole has not changed much."
-    As ""
+    As "Pourtant, alors que la population de dragons a énormément augmenté, j'ai constaté que, dans l'ensemble, leur société dans son ensemble n'a pas beaucoup changé."
 
 # game/chapter4.rpy:4608
 translate french _call_skipcheck_21_3fee8a5c:
 
     # c "Is that why everything here looks like it was made for humans?"
-    c ""
+    c "Est-ce pour cela que tout ici semble avoir été fait pour les humains ?"
 
 # game/chapter4.rpy:4610
 translate french _call_skipcheck_21_612913a3:
 
     # As "I suppose so. The learning program I initially used gave them knowledge about things and how to create them, yet of course those were only human inventions and designs."
-    As ""
+    As "Je suppose que oui. Le programme d'apprentissage que j'ai utilisé au départ leur a donné des connaissances sur les choses et la façon de les créer, mais il ne s'agissait bien sûr que d'inventions et de conceptions humaines."
 
 # game/chapter4.rpy:4612
 translate french _call_skipcheck_21_68f2da09:
 
     # c "Did they never once stop to think that they should adjust how certain things look? A lot of the furniture and objects I've seen look very impractical for a dragon."
-    c ""
+    c "N'ont-ils jamais pensé une seule fois qu'ils devaient ajuster l'apparence de certaines choses ? Beaucoup de meubles et d'objets que j'ai vus semblent très peu pratiques pour un dragon."
 
 # game/chapter4.rpy:4614
 translate french _call_skipcheck_21_b8904d07:
 
     # As "I was surprised at that too, but I have an explanation for this phenomenon. Don't forget that their genome was designed by an AI programmed to make them into effective bioweapons."
-    As ""
+    As "Cela m'a surpris aussi, mais j'ai une explication pour ce phénomène. N'oubliez pas que leur génome a été conçu par une IA programmée pour en faire des armes biologiques efficaces."
 
 # game/chapter4.rpy:4616
 translate french _call_skipcheck_21_bfb92135:
 
     # As "The idea was to have them indoctrinated at a young age."
-    As ""
+    As "L'idée était de les endoctriner dès leur plus jeune âge."
 
 # game/chapter4.rpy:4618
 translate french _call_skipcheck_21_ef4d9214:
 
     # As "After reaching adolescence, their learning capacity would be greatly diminished. This resulted in subjects that would stay loyal and be unlikely to change their desired behaviors."
-    As ""
+    As "Après avoir atteint l'adolescence, leur capacité d'apprentissage serait fortement diminuée. Il en résulte des sujets qui restent fidèles et qui ne sont pas susceptibles de changer les comportements souhaités."
 
 # game/chapter4.rpy:4620
 translate french _call_skipcheck_21_9e58dd1c:
 
     # As "Instincts also play a role. I imagine they are very much at odds with their learned behavior. Instincts in animals never change, and instinctual behaviors will always be there."
-    As ""
+    As "L'instinct joue également un rôle. J'imagine qu'ils sont très en désaccord avec leur comportement appris. Chez les animaux, les instincts ne changent jamais, et les comportements instinctifs seront toujours là."
 
 # game/chapter4.rpy:4622
 translate french _call_skipcheck_21_62dfd358:
 
     # As "If a given trait has been programmed into their genome as an instinct, it is not very likely to change, even through numerous generations."
-    As ""
+    As "Si un trait donné a été programmé dans leur génome comme un instinct, il est peu probable qu'il change, même sur plusieurs générations."
 
 # game/chapter4.rpy:4624
 translate french _call_skipcheck_21_a5ec29f4:
 
     # As "We can see the result of this here. While I initially made them learn a certain set of values and knowledge, I have found that the expression of those ideas has hardly changed."
-    As ""
+    As "Nous pouvons en voir le résultat ici. Bien que je leur aie initialement fait apprendre un certain ensemble de valeurs et de connaissances, j'ai constaté que l'expression de ces idées n'a guère changé."
 
 # game/chapter4.rpy:4626
 translate french _call_skipcheck_21_39d5254d:
 
     # As "And after I was gone, each new generation learned from its elders and much of the initial knowledge and information was retained through all this time."
-    As ""
+    As "Et après mon départ, chaque nouvelle génération a appris de ses aînés et une grande partie des connaissances et des informations initiales ont été conservées pendant tout ce temps."
 
 # game/chapter4.rpy:4628
 translate french _call_skipcheck_21_968d3ef8:
 
     # As "Their genome as a whole did change, however - which was unavoidable over time. If they had been used as bioweapons as intended, they would have been nothing more than an army of identical clones."
-    As ""
+    As "Leur génome dans son ensemble a cependant changé, ce qui était inévitable au fil du temps. S'ils avaient été utilisés comme des armes biologiques comme prévu, ils n'auraient été rien d'autre qu'une armée de clones identiques."
 
 # game/chapter4.rpy:4630
 translate french _call_skipcheck_21_f1e332b1:
 
     # As "While I can see subtle changes in behaviors as a result, some traits are still very much present in them. They are content with what they have and don't strive for more."
-    As ""
+    As "Bien que je puisse constater des changements subtils dans les comportements qui en résultent, certains traits sont encore très présents en eux. Ils se contentent de ce qu'ils ont et ne cherchent pas à aller plus loin."
 
 # game/chapter4.rpy:4632
 translate french _call_skipcheck_21_278bf3e2:
 
     # As "They don't innovate or change, so technological breakthroughs or new inventions are a rarity. It's quite the opposite, really. They very much value tradition and their ways which have not changed much in all these years."
-    As ""
+    As "Ils n'innovent pas et ne changent pas, de sorte que les percées technologiques ou les nouvelles inventions sont rares. C'est tout le contraire, en fait. Ils accordent une grande valeur à la tradition et à leurs méthodes qui n'ont pas beaucoup changé depuis toutes ces années."
 
 # game/chapter4.rpy:4635
 translate french _call_skipcheck_21_89aefe22_1:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/chapter4.rpy:4637
 translate french _call_skipcheck_21_ccef34d7:
 
     # c "How much time do we even have left to stop the comet?"
-    c ""
+    c "Combien de temps nous reste-t-il pour arrêter la comète ?"
 
 # game/chapter4.rpy:4639
 translate french _call_skipcheck_21_8ccdcb52:
 
     # As "In a few weeks, the comet will pass the moon, and its gravity field will point the comet's trajectory toward Earth. This is when we will need to be ready."
-    As ""
+    As "Dans quelques semaines, la comète passera devant la lune, et son champ de gravité indiquera sa trajectoire vers la Terre. C'est à ce moment que nous devrons être prêts."
 
 # game/chapter4.rpy:4641
 translate french _call_skipcheck_21_fe580b9b:
 
     # As "If we strike then, we only need to minimally affect its path in order for the comet to pass Earth safely."
-    As ""
+    As "Si nous frappons à ce moment-là, nous n'avons besoin que d'affecter de façon minimale sa trajectoire pour que la comète puisse passer la Terre en toute sécurité."
 
 # game/chapter4.rpy:4643
 translate french _call_skipcheck_21_d6846286:
 
     # As "It won't be enough time for the inhabitants of this world to prepare if Reza steals our greatest assets."
-    As ""
+    As "Les habitants de ce monde n'auront pas assez de temps pour se préparer si Reza nous vole nos plus grands atouts."
 
 # game/chapter4.rpy:4645
 translate french _call_skipcheck_21_7f691111:
 
     # c "So it's all about Reza and the generators, isn't it?"
-    c ""
+    c "Il s'agit donc de Reza et des générateurs, n'est-ce pas ?"
 
 # game/chapter4.rpy:4647
 translate french _call_skipcheck_21_9a98b6f3:
 
     # As "Indeed."
-    As ""
+    As "En effet."
 
 # game/chapter4.rpy:4649
 translate french _call_skipcheck_21_a19b3fec:
 
     # As "By the way, I fixed the portal in case we need to use it."
-    As ""
+    As "Au fait, j'ai réparé le portail au cas où nous aurions besoin de l'utiliser."
 
 # game/chapter4.rpy:4651
 translate french _call_skipcheck_21_bfa1cb9a:
 
     # c "Did you break it to prevent me from being sent away?"
-    c ""
+    c "L'avez-vous brisée pour m'empêcher d'être renvoyé ?"
 
 # game/chapter4.rpy:4653
 translate french _call_skipcheck_21_abb1ff8c:
 
     # As "No, that wasn't me."
-    As ""
+    As "Non, ce n'était pas moi."
 
 # game/chapter4.rpy:4655
 translate french _call_skipcheck_21_6a4bf4c5:
 
     # c "Reza better not use it to escape."
-    c ""
+    c "Reza ferait mieux de ne pas l'utiliser pour s'échapper."
 
 # game/chapter4.rpy:4657
 translate french _call_skipcheck_21_682542b7:
 
     # As "Trust me, the portal is our greatest asset."
-    As ""
+    As "Crois-moi, le portail est notre plus grand atout."
 
 # game/chapter4.rpy:4659
 translate french _call_skipcheck_21_0e21edea:
 
     # As "I have programmed it with emergency coordinates. If you should find yourself in a hopeless situation and feel there is no other way out, go to the portal. I have made sure only you will be able to use them."
-    As ""
+    As "Je l'ai programmé avec des coordonnées d'urgence. Si vous vous trouvez dans une situation désespérée et que vous sentez qu'il n'y a pas d'autre issue, rendez-vous au portail. J'ai fait en sorte que vous soyez le seul à pouvoir les utiliser."
 
 # game/chapter4.rpy:4661
 translate french _call_skipcheck_21_59e810c4:
 
     # c "I'll keep that in mind."
-    c ""
+    c "Je vais garder cela à l'esprit."
 
 # game/chapter4.rpy:4663
 translate french _call_skipcheck_21_8cf7cf1b:
 
     # c "So, what's your plan? What do we do now?"
-    c ""
+    c "Alors, quel est votre plan ? Qu'est-ce qu'on fait maintenant ?"
 
 # game/chapter4.rpy:4665
 translate french _call_skipcheck_21_e3350160:
 
     # As "I will resume my work, and you will continue yours. Find Reza."
-    As ""
+    As "Je vais reprendre mon travail, et toi le tiens. Trouve Reza."
 
 # game/chapter4.rpy:4667
 translate french _call_skipcheck_21_196285bc:
 
     # m "The Administrator turned to leave."
-    m ""
+    m "L'administrateur se diriga vers la sortie."
 
 # game/chapter4.rpy:4675
 translate french _call_skipcheck_21_94be7fc1:
 
     # c "Wait. What's with all the secrecy? Why are you still wearing that mask? Why don't we pool our resources together and you show me your hideout?"
-    c ""
+    c "Attendez ! Pourquoi garder tout ça secret ? Pourquoi ce masque ? On ne ferait pas mieux de nous associer ? Vous ne pourriez pas me montrer votre planque entre autre ?"
 
 # game/chapter4.rpy:4677
 translate french _call_skipcheck_21_cb24ad28:
 
     # c "Don't you think it would be better if you were completely frank with me?"
-    c ""
+    c "Vous ne croyez pas qu'il serait mieux d'être franc avec moi ?"
 
 # game/chapter4.rpy:4679
 translate french _call_skipcheck_21_16ec2642:
 
     # As "No. Not now."
-    As ""
+    As "Nan, pas maintenant."
 
 # game/chapter4.rpy:4685
 translate french _call_skipcheck_21_261b9526:
 
     # m "A second later the figure had already vanished into the darkness outside."
-    m ""
+    m La seconde suivante, l'individu est sorti de la caverne et s'est évanoui dans l'obscurité de la nuit.""
 
 # game/chapter4.rpy:4693
 translate french _call_skipcheck_21_4253bf23:
 
     # m "When I followed, I realized that I wasn't sure how to get back to my apartment."
-    m ""
+    m "Quand je l'ai imité, je me suis rendu compte que je ne savais pas vraiment comment retourner à mon appartement."
 
 # game/chapter4.rpy:4695
 translate french _call_skipcheck_21_708c2291:
 
     # m "Surrounded by trees and the blanket of night, it was hard to make out where I stood."
-    m ""
+    m "Entouré par les arbres et l'obscurité, il m'était difficile de savoir où j'étais."
 
 # game/chapter4.rpy:4699
 translate french _call_skipcheck_21_06fe3b84:
 
     # m "After wandering through the underbrush, I realized that the lights on the horizon had to be coming from the village, and made my way back."
-    m ""
+    m "Après quelques minutes passées à errer dans les sous-bois, j'ai réalisé que ces lumières que je voyais au loin venaient de la ville. Je m'en suis alors servi pour rentrer."
 
 # game/chapter4.rpy:4705
 translate french _call_skipcheck_21_438211f9:
 
     # m "I returned to my apartment without much trouble. When I looked at the clock, I was surprised to see how much time had passed."
-    m ""
+    m "Je suis retourné à mon appartement sans trop de problème. En regardant l'horloge, j'ai été surpris de voir combien de temps s'était écoulé."
 
 # game/chapter4.rpy:4707
 translate french _call_skipcheck_21_284e7709:
 
     # m "Not having anything left to do for the day, I soon fell into a deep slumber."
-    m ""
+    m "N'ayant plus rien à faire pour la journée, je me suis laissé tombé sur le lit et me suis endormi comme une souche."
 
 # game/chapter4.rpy:4727
 translate french c4skip2_92c265e9:
 
     # c "(Seems there's nothing for me to do this morning. I guess they don't need me at the police department. Not that I mind.)"
-    c ""
+    c "(Je n'ai rien à faire ce matin, si ce n'est me changer les idées... Pas de nouvelles de la police, ils n'ont probablement pas besoin de moi, je vais pouvoir respirer.)"
 
 # game/chapter4.rpy:4986
 translate french chapter4chars_ef631ac9:
 
     # c "(Seems I've got some messages. Let's see...)"
-    c ""
+    c "(Il semblerait que j'ai des messages. Voyons voir ça...)"
 
 # game/chapter4.rpy:5013
 translate french chapter4chars_487a131e:
 
     # Ry "Hello, this is Remy. I just wanted to remind you about the summer festival. It will start any day now, so I hope you can make it."
-    Ry ""
+    Ry "Bonjour c'est Rémi ! Je t'appelle juste pour te faire penser au festival d'été, il va bientôt commencer tu sais. J'espère que tu pourras y assister."
 
 # game/chapter4.rpy:5015
 translate french chapter4chars_f6e32749:
 
     # Ry "It would be nice to go there with you. I'm not sure how you feel about this, but I usually try to avoid the crowds."
-    Ry ""
+    Ry "J'adorerai y aller avec toi. Je ne sais pas toi, mais en principe j'essaie d'éviter la foule."
 
 # game/chapter4.rpy:5017
 translate french chapter4chars_7ca3c990:
 
     # Ry "In any case, please let me know if you want to go."
-    Ry ""
+    Ry "Enfin, dit moi si tu y vas, d'accord ?"
 
 # game/chapter4.rpy:5023
 translate french chapter4chars_844b0891:
 
     # c "(The summer festival, huh?)"
-    c ""
+    c "(Le festival d'été...)"
 
 # game/chapter4.rpy:5043
 translate french _call_popularcheck_15_868ed111:
