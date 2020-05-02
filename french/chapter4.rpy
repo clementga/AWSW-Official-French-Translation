@@ -6088,517 +6088,517 @@ translate french chapter4chars_844b0891:
 translate french _call_popularcheck_15_868ed111:
 
     # Ry "Hello, this is Remy. I know you're very busy and probably have more important things to do, but I was wondering if you would like to visit Tatsu Park some time. There is something I would like to talk with you about."
-    Ry ""
+    Ry "Bonjour, c'est Rémi. Je me doute que tu es occupé, et que tu as certainement mieux à faire, mais je me demandais si tu aimerais visiter le Parc Tastu avec moi. J'aimerais te parler de quelque chose."
 
 # game/chapter4.rpy:5045
 translate french _call_popularcheck_15_3a3c35f2:
 
     # Ry "Please, let me know if you can find the time."
-    Ry ""
+    Ry "S'il te plaît, fais moi savoir si tu as le temps."
 
 # game/chapter4.rpy:5047
 translate french _call_popularcheck_15_df853375:
 
     # Ry "Have a good day."
-    Ry ""
+    Ry "Bonne journée à toi."
 
 # game/chapter4.rpy:5053
 translate french _call_popularcheck_15_17dda636:
 
     # c "(He wants to talk to me about something? I wonder what that's about.)"
-    c ""
+    c "(Il veux me parler de quelque chose ? Je me demande de quoi il s'agit.)"
 
 # game/chapter4.rpy:5069
 translate french _call_popularcheck_16_e0eb1d42:
 
     # Ry "Hello, this is Remy speaking. I'm calling in regard to the dinner we talked about. I'll have an opening soon and was wondering if you also had the time."
-    Ry ""
+    Ry "Bonjour, Remy à l'appareil. J'appelle au sujet du dîner dont on a parlé l'autre jour. J'aurai bientôt une soirée de libre et je me demandais si tu aurais le temps."
 
 # game/chapter4.rpy:5071
 translate french _call_popularcheck_16_1335da7e:
 
     # Ry "Let me know if you are interested."
-    Ry ""
+    Ry "Fait-moi savoir si tu es toujours partant."
 
 # game/chapter4.rpy:5073
 translate french _call_popularcheck_16_df853375:
 
     # Ry "Have a good day."
-    Ry ""
+    Ry "Passe une bonne journée."
 
 # game/chapter4.rpy:5079
 translate french _call_popularcheck_16_14f20a32:
 
     # c "(I guess that's my official invitation. Now the question is if I want to go or not.)"
-    c ""
+    c "(Je suppose que c'est une invitation officielle. Reste à savoir si je veux toujours y aller ou non.)"
 
 # game/chapter4.rpy:5117
 translate french _call_popularcheck_17_b4dbb953:
 
     # Br "Hey, [player_name]. Wanna meet up and go somewhere? Just the two of us?"
-    Br ""
+    Br "Salut [player_name]. Ça te dirait qu'on se voit et qu'on traine un peu rien que tout les deux ?"
 
 # game/chapter4.rpy:5119
 translate french _call_popularcheck_17_839d7d38:
 
     # Br "I just want to get out of my crummy temporary apartment."
-    Br ""
+    Br "J'ai besoin de sortir un peu de ma piaule minable."
 
 # game/chapter4.rpy:5121
 translate french _call_popularcheck_17_6c268da3:
 
     # Br "I'm sure we could think of something fun."
-    Br ""
+    Br "Et puis, j'suis certain qu'on peut trouver un truc amusant à faire."
 
 # game/chapter4.rpy:5127
 translate french _call_popularcheck_17_a7add8b1:
 
     # c "(Is he thinking what I'm thinking?)"
-    c ""
+    c "(Est-ce qu'il pense à ce que je pense ?)"
 
 # game/chapter4.rpy:5149
 translate french _call_popularcheck_18_98b9e136:
 
     # Br "Hey, [player_name]. Remember that BBQ I told you about? It's pretty soon, so you better be ready for it."
-    Br ""
+    Br "Salut [player_name]. Tu t'souviens du barbeucue dont je t'ai parlé l'autre jour ? C'est pour bientôt, alors tiens toi prêt."
 
 # game/chapter4.rpy:5151
 translate french _call_popularcheck_18_dec85ff4:
 
     # Br "All of the guys from the department will be there."
-    Br ""
+    Br "Y aura quelques gars du poste qui seront là."
 
 # game/chapter4.rpy:5153
 translate french _call_popularcheck_18_0ca5bf90:
 
     # Br "We always have tons of fun and some of us even stay overnight."
-    Br ""
+    Br "On passe toujours une soirée sympa, y en a même qui restent toute la nuit !"
 
 # game/chapter4.rpy:5155
 translate french _call_popularcheck_18_7ab4692f:
 
     # Br "Would be cool to have you come along."
-    Br ""
+    Br "Ça serait cool si tu pouvais te joindre à nous."
 
 # game/chapter4.rpy:5157
 translate french _call_popularcheck_18_f7c4de1d:
 
     # Br "If you wanna come, let me know so I can hook you up with the details."
-    Br ""
+    Br "Si ça t'intéresse toujours, rappelle moi pour que je te mette au parfum."
 
 # game/chapter4.rpy:5163
 translate french _call_popularcheck_18_3e69d653:
 
     # c "(A dragon BBQ party with a human as the guest of honor. Not suspicious at all, Bryce.)"
-    c ""
+    c "(Un barbecue entre dragon, avec un humain comme invité d'honneur ? Pas du tout bizarre comme plan, Bryce.)"
 
 # game/chapter4.rpy:5180
 translate french _call_popularcheck_19_8bf0501b:
 
     # Br "Hey. I was just thinking about last time. I know we got a little blackout drunk, but I still thought that was kinda fun."
-    Br ""
+    Br "Hey. Je pensais à l'autre soir. Je sais qu'on a fini ivre morts, mais tout de même je trouve que c'était assez amusant."
 
 # game/chapter4.rpy:5182
 translate french _call_popularcheck_19_e0bc6ab0:
 
     # Br "I think you had some fun too, but I also wanted to show you there's more to me than that."
-    Br ""
+    Br "Je sais que tu t'es bien marré toi aussi. Mais je voulais te montrer que je ne suis pas seulement un pro de la bière."
 
 # game/chapter4.rpy:5184
 translate french _call_popularcheck_19_ed3abd0d:
 
     # Br "So, I was just wondering if you wanted to come over just to hang out and relax, you know."
-    Br ""
+    Br "Du coup, je me demandais si tu voulais passer chez moi juste pour traîner, tout ça."
 
 # game/chapter4.rpy:5186
 translate french _call_popularcheck_19_e06dc126:
 
     # Br "We only get to see each other when things are all serious, and I bet it's rough for you with everything that's going on. I figured you might want to get away from that a little."
-    Br ""
+    Br "On se voit presque toujours pour parler boulot et autres trucs sérieux. Je me doute que ce n'est pas facile pour toi, tout ce qui se passe. Je me suis dit que tu voudrais peut-être te vider la tête un peu."
 
 # game/chapter4.rpy:5188
 translate french _call_popularcheck_19_ca9231e1:
 
     # Br "Anyway, if you want to drop by at any time, my door's open, buddy."
-    Br ""
+    Br "Bref. Si ça te tente, t'es le bienvenu quelque soit l'heure, mon pote."
 
 # game/chapter4.rpy:5194
 translate french _call_popularcheck_19_26eaf959:
 
     # c "(Considering what happened last time, entering the literal dragon's den could either turn out really well, or not so much.)"
-    c ""
+    c "(Sachant ce qui s'est passé la dernière fois, entrer littéralement dans la tanière du dragon peut soit être une très bonne idée, soit un mauvais plan.)"
 
 # game/chapter4.rpy:5229
 translate french _call_popularcheck_20_b5186df5:
 
     # Ad "Hey, are you coming to see the show?"
-    Ad ""
+    Ad "Salut, tu viens à la compétition ?"
 
 # game/chapter4.rpy:5231
 translate french _call_popularcheck_20_cab02692:
 
     # Ad "It's going to happen pretty soon, you know. I trained so much for this, you wouldn't believe. Probably harder than I ever trained in my entire life."
-    Ad ""
+    Ad "C'est pour bientôt tu sais. J'me suis entraîné comme une dingue, t'as pas idée. Probablement plus dure que jamais dans toute ma vie."
 
 # game/chapter4.rpy:5233
 translate french _call_popularcheck_20_55e181fa:
 
     # Ad "I really hope you can make it, because I want to show you all I've got."
-    Ad ""
+    Ad "J'espère que tu viendras, Parce que je veux tout donner et je veux que tu vois ça."
 
 # game/chapter4.rpy:5259
 translate french _call_popularcheck_21_f0e796f3:
 
     # Ad "Congratulations!"
-    Ad ""
+    Ad "Mes félicitations !"
 
 # game/chapter4.rpy:5261
 translate french _call_popularcheck_21_3705e9b5:
 
     # Ad "You, [player_name], have been invited to an exclusive event, featuring the world-famous stunt pilot, Adine!"
-    Ad ""
+    Ad "Vous, [player_name], avez été invité à un évènement exclusif, mettant en vedette la cascadeuse de renommée mondiale, Adine !"
 
 # game/chapter4.rpy:5263
 translate french _call_popularcheck_21_4497d7d2:
 
     # Ad "Watch her perform behind closed doors and be one of the first to see her newest routine, sure to win at this year's stunt flying competition!"
-    Ad ""
+    Ad "Profitez de ce spectacle à huit clos et venez assister à sa nouvelle chorégraphie, qui lui garantira certainement le succès lors du concours d'aérobatie de cette année !"
 
 # game/chapter4.rpy:5265
 translate french _call_popularcheck_21_416d2ba3:
 
     # Ad "Afterwards, you will be allowed backstage for a short meet and greet with the talent herself."
-    Ad ""
+    Ad "Ensuite, le staff vous laissera accéder aux coulisses pour rencontrer la vedette en personne."
 
 # game/chapter4.rpy:5267
 translate french _call_popularcheck_21_6c1e9935:
 
     # Ad "Don't expect any autographs, though."
-    Ad ""
+    Ad "N'attendez pas d'autographe cependant."
 
 # game/chapter4.rpy:5273
 translate french _call_popularcheck_21_356bd8ba:
 
     # c "(What an opportunity...)"
-    c ""
+    c "(C'est ce que j'appelle une opportunité...)"
 
 # game/chapter4.rpy:5290
 translate french _call_popularcheck_22_d18e1351:
 
     # Ad "Please leave a message after the beep."
-    Ad ""
+    Ad "Veuillez laisser un message après le bip sonore."
 
 # game/chapter4.rpy:5292
 translate french _call_popularcheck_22_a660fec1:
 
     # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!"
-    Ad ""
+    Ad "Je t'ai eu ! Tu croyais que c'était ton répondeur, mais c'était moi, Adine !"
 
 # game/chapter4.rpy:5294
 translate french _call_popularcheck_22_0a32300e:
 
     # Ad "I know we talked about me coming over again, but I thought, why not mix it up and you come to me instead?"
-    Ad ""
+    Ad "Je sais qu'on s'était dit que je pouvais revenir te voir chez toi, mais je me suis dit, pourquoi ne pas inverser les rôles ?"
 
 # game/chapter4.rpy:5296
 translate french _call_popularcheck_22_72eded98:
 
     # Ad "I mean, it's not like I can use your excuse and pretend to order something from you."
-    Ad ""
+    Ad "Je veux dire, ce n'est pas comme si je pouvais te demander de me livrer quelque chose."
 
 # game/chapter4.rpy:5298
 translate french _call_popularcheck_22_1becd696:
 
     # Ad "After all, you don't even have anything to sell or deliver. Unless..."
-    Ad ""
+    Ad "Après tout, tu n'as rien à livrer, ou à vendre. À moins que..."
 
 # game/chapter4.rpy:5300
 translate french _call_popularcheck_22_315a50c9:
 
     # Ad "Well, I don't think you're that kind of person."
-    Ad ""
+    Ad "Nan ! Je ne crois pas que tu sois ce genre de personne !"
 
 # game/chapter4.rpy:5302
 translate french _call_popularcheck_22_abfdff27:
 
     # Ad "Oh, I do hope this is the right number, or someone is going to be very confused."
-    Ad ""
+    Ad "Oh, j'espère que je suis au bon numéro au moins, sinon je connais quelqu'un qui va être complètement perdu."
 
 # game/chapter4.rpy:5308
 translate french _call_popularcheck_22_c988d1f1:
 
     # c "(Well, she did get the right number and I'm still confused.)"
-    c ""
+    c "(Eh bien, elle a composé le bon numéro, mais quand même je suis complètement perdu.)"
 
 # game/chapter4.rpy:5353
 translate french _call_popularcheck_23_e3672fe4:
 
     # c "(Huh, an empty message?)"
-    c ""
+    c "(Heu, un message vide ?)"
 
 # game/chapter4.rpy:5355
 translate french _call_popularcheck_23_ea58eab1:
 
     # c "(Let's check the next one.)"
-    c ""
+    c "(Ecoutons le suivant.)"
 
 # game/chapter4.rpy:5361
 translate french _call_popularcheck_23_b2b0fd6b:
 
     # m "There was another long pause. I almost thought that something was wrong with the machine, but then I heard Anna's voice."
-    m ""
+    m "Il y eut un long silence. Je pensais que la machine avait un problème, puis j'entendis la voix d'Anna."
 
 # game/chapter4.rpy:5363
 translate french _call_popularcheck_23_b564292d:
 
     # An "Hey, [player_name]. I'm not even sure why I'm calling about this, but it seemed like you wanted to hang out last time, so call me back if you feel like it."
-    An ""
+    An "[player_name]. Je ne sais même pas pourquoi je t'appelle pour ça, Mais tu avais l'air de vouloir qu'on traîne un peu tout les deux l'autre jour, donc rappelle moi si tu veux."
 
 # game/chapter4.rpy:5365
 translate french _call_popularcheck_23_57ae5c94:
 
     # An "If you don't want to, then... Well, whatever."
-    An ""
+    An "Et si tu ne veux pas, eh bien... Laisses tomber."
 
 # game/chapter4.rpy:5371
 translate french _call_popularcheck_23_e393db22:
 
     # c "(What was that all about?)"
-    c ""
+    c "(Qu'est-ce qui lui arrive ?)"
 
 # game/chapter4.rpy:5393
 translate french _call_popularcheck_24_6446f506:
 
     # An "It's pay day, [player_name]."
-    An ""
+    An "C'est le jour de paye, [player_name]."
 
 # game/chapter4.rpy:5395
 translate french _call_popularcheck_24_f5f68291:
 
     # An "The tests are ready, the machines are ready, the lab is free. Only one more thing is needed to get this party started and that would be you."
-    An ""
+    An "Les test sont prêts, les appareils sont prêts, le labo est libre. Il ne reste qu'une chose pour commencer ma petite fête, et c'est toi."
 
 # game/chapter4.rpy:5397
 translate french _call_popularcheck_24_9da34952:
 
     # An "So, you better bring your body to me, or else I'll have to come and get it myself, in which case I won't be able to guarantee your safety."
-    An ""
+    An "Alors tu ferais bien te rammener ton corps, sinon je vais devoir venir le chercher moi même, et dans ce cas je ne peux garantir ta sécurité."
 
 # game/chapter4.rpy:5399
 translate french _call_popularcheck_24_c4212dd0:
 
     # An "I hope you aren't afraid of needles."
-    An ""
+    An "J'espère que les aiguilles ne te font pas peur."
 
 # game/chapter4.rpy:5405
 translate french _call_popularcheck_24_731ee041:
 
     # c "(She's going to go all out, isn't she?)"
-    c ""
+    c "(Elle est sur le point de se lâcher, n'est-ce pas ?)"
 
 # game/chapter4.rpy:5422
 translate french _call_popularcheck_25_b9386ee3:
 
     # An "I just wanted to update you. I still don't have an open spot in the facility for your tests, but I'll be free if you want to cash in your reward."
-    An ""
+    An "Je voulais juste te tenir au courant. Le labo n'est toujours pas disponible pour les tests, mais moi je serai disponible si jamais tu veux encaisser ta récompense."
 
 # game/chapter4.rpy:5424
 translate french _call_popularcheck_25_c3af19bf:
 
     # An "You know I'm busy, so this is your chance for your date if you even still want to go through with it. Take it or leave it. I don't care much either way."
-    An ""
+    An "Tu sais, je n'ai pas beaucoup de temps libre, alors c'est l'occasion pour ton rencard, si jamais tu as le courage d'aller jusqu'au bout. A prendre ou à laisser. De toute façon ça ne m'inquiète pas plus que ça."
 
 # game/chapter4.rpy:5426
 translate french _call_popularcheck_25_a0d06abf:
 
     # An "In any case, you know where to find me."
-    An ""
+    An "En tout cas, tu sais où me trouver."
 
 # game/chapter4.rpy:5432
 translate french _call_popularcheck_25_6c111504:
 
     # c "(I guess the choice is mine.)"
-    c ""
+    c "(On dirait que le choix me revient.)"
 
 # game/chapter4.rpy:5473
 translate french _call_popularcheck_26_e16d8cd1:
 
     # Lo "Hey, it's me. Do you want to meet up again?"
-    Lo ""
+    Lo "Hey, c'est moi. Tu veux qu'on se revoit ?"
 
 # game/chapter4.rpy:5475
 translate french _call_popularcheck_26_ac62822b:
 
     # Lo "I know you're busy, but the summer festival is coming up soon."
-    Lo ""
+    Lo "Je sais que tu es pas mal occupé, mais le festival d'été arrive bientôt."
 
 # game/chapter4.rpy:5477
 translate french _call_popularcheck_26_35d6668f:
 
     # Lo "I'm not saying we should go, but we certainly could if you want to."
-    Lo ""
+    Lo "Je ne t'impose pas d'y aller hein, mais on pourrait si tu es partant."
 
 # game/chapter4.rpy:5479
 translate french _call_popularcheck_26_1cb65445:
 
     # Lo "In any case, call me back when you hear this."
-    Lo ""
+    Lo "Quoi qu'il en soit, rappelle-moi quand tu auras ce message."
 
 # game/chapter4.rpy:5504
 translate french _call_popularcheck_29_efcb2250:
 
     # Lo "Hey, [player_name]! Guess what?"
-    Lo ""
+    Lo "Hé [player_name] ! Devine quoi ?"
 
 # game/chapter4.rpy:5506
 translate french _call_popularcheck_29_49983c63:
 
     # Lo "Right, we're going treasure hunting!"
-    Lo ""
+    Lo "On va à la chasse au trésor !"
 
 # game/chapter4.rpy:5508
 translate french _call_popularcheck_29_e1b1955b:
 
     # Lo "So, put on your robe and your best treasure hunting hat and let's get going."
-    Lo ""
+    Lo "Alors, enfile ta plus belle tenue et ton plus beau chapeau de prospecteur, et allons y."
 
 # game/chapter4.rpy:5510
 translate french _call_popularcheck_29_fea325e3:
 
     # Lo "Seriously, call me back when you hear this."
-    Lo ""
+    Lo "Non, plus sérieusement, rappelle moi quand tu auras ce message."
 
 # game/chapter4.rpy:5530
 translate french _call_popularcheck_27_812b3058:
 
     # Lo "Hello! I had some time to work through the stuff you told me, and now would be the perfect time to get some pictures of you."
-    Lo ""
+    Lo "Bonjour ! J'ai eu le temps de travailler sur les réponses que tu m'as donné, et je pense qu'il est temps de faire quelques croquis de toi."
 
 # game/chapter4.rpy:5532
 translate french _call_popularcheck_27_2c3fc2b1:
 
     # Lo "If you're not busy with anything else, it would be great if you could come over sometime."
-    Lo ""
+    Lo "Si tu n'as rien d'autre à faire, Ce serait génial si tu pouvais venir à un moment ou à un autre."
 
 # game/chapter4.rpy:5534
 translate french _call_popularcheck_27_120b81ba:
 
     # Lo "So, see you soon? Maybe."
-    Lo ""
+    Lo "Alors, à bientôt, peut-être ?"
 
 # game/chapter4.rpy:5828
 translate french _call_popularcheck_28_be5c2928:
 
     # c "(Another free day. Yay me.)"
-    c ""
+    c "(Un autre jour de libre, vive moi !)"
 
 # game/chapter4.rpy:5830
 translate french _call_popularcheck_28_d5d6cf7c:
 
     # m "In the end, I decided to extend invitations to everyone I knew to come by for a visit. I left a lot of messages and waited the whole afternoon, but nobody came."
-    m ""
+    m "Au final, j'ai laissé des messages à tout le monde pour venir me rendre visite. J'ai attendu tout l'après-midi, mais personne n'est venu."
 
 # game/chapter4.rpy:5850
 translate french _call_popularcheck_28_be5c2928_1:
 
     # c "(Another free day. Yay me.)"
-    c ""
+    c "(Un autre jour de libre, vive moi !)"
 
 # game/chapter4.rpy:5852
 translate french _call_popularcheck_28_a98cb5b8:
 
     # m "In the end, I decided to spend the day relaxing in my apartment. I didn't know when things would start to pick up again, so I figured it would be better to get some rest as long as I still could."
-    m ""
+    m "Finalement, j'ai décidé de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me suis dit qu'il valait mieux me reposer tant que je le pouvais encore."
 
 # game/chapter4.rpy:6054
 translate french chapter4chars2_be5c2928:
 
     # c "(Another free day. Yay me.)"
-    c ""
+    c "(Un autre jour de libre, vive moi !)"
 
 # game/chapter4.rpy:6227
 translate french chapter4chars3_a98cb5b8:
 
     # m "In the end, I decided to spend the day relaxing in my apartment. I didn't know when things would start to pick up again, so I figured it would be better to get some rest as long as I still could."
-    m ""
+    m "Finalement, j'ai décidé de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me suis dit qu'il valait mieux me reposer tant que je le pouvais encore."
 
 # game/chapter4.rpy:6524
 translate french chap4altmenub2_a98cb5b8:
 
     # m "In the end, I decided to spend the day relaxing in my apartment. I didn't know when things would start to pick up again, so I figured it would be better to get some rest as long as I still could."
-    m ""
+    m "Finalement, j'ai décidé de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me suis dit qu'il valait mieux me reposer tant que je le pouvais encore."
 
 translate french strings:
 
     # chapter4.rpy:140
     old "Chapter 4"
-    new ""
+    new "Chapitre 4"
 
     # chapter4.rpy:970
     old "Tell Maverick to wait. {image=image/ui/status/havetestresults.png}"
-    new ""
+    new "Dire à Maverick d'attendre."
 
     # chapter4.rpy:1259
     old "You go in. I'll wait here."
-    new ""
+    new "Tu rentres. Je vais rester ici."
 
     # chapter4.rpy:1289
     old "Let me go in first."
-    new ""
+    new "Laisses moi y aller en premier."
 
     # chapter4.rpy:2095
     old "I'll be sure not to miss it then."
-    new ""
+    new "Je ferai en sorte de ne pas le manquer."
 
     # chapter4.rpy:2095
     old "If it's that important to you, why don't you just watch it regardless?"
-    new ""
+    new "Si c'est si important pour toi, Pourquoi ne vas-tu pas le regarder malgré tout ?"
 
     # chapter4.rpy:2176
     old "Take the bandage to the facility."
-    new ""
+    new "Ammener le bandage au laboratoire."
 
     # chapter4.rpy:2176
     old "Visit the witness."
-    new ""
+    new "Aller voir le témoin"
 
     # chapter4.rpy:2176
     old "Take the PDA to the library."
-    new ""
+    new "Ammener le PDA à la bibliothèque."
 
     # chapter4.rpy:2176
     old "Take the eggs to the hatchery."
-    new ""
+    new "Ammener les œufs au couvoir."
 
     # chapter4.rpy:2220
     old "Rest in your apartment."
-    new ""
+    new "Se reposer dans ton appartement."
 
     # chapter4.rpy:3031
     old "I think he was dealing with a lot of things."
-    new ""
+    new "Je pense qu'il avait beaucoup de choses sur le cœur."
 
     # chapter4.rpy:3031
     old "He was bullied."
-    new ""
+    new "Il se faisait harceler."
 
     # chapter4.rpy:3181
     old "Invite him."
-    new ""
+    new "L'inviter."
 
     # chapter4.rpy:3181
     old "Excuse yourself."
-    new ""
+    new "S'excuser."
 
     # chapter4.rpy:3337
     old "Sorry, I was just busy."
-    new ""
+    new "Désolé, j'étais juste occuper."
 
     # chapter4.rpy:3337
     old "I don't want to meet you again."
-    new ""
+    new "Je ne veux plus te revoir."
 
     # chapter4.rpy:5924
     old "Meet with Kevin."
-    new ""
+    new "Retrouver Kevin."
 
