@@ -238,875 +238,874 @@ translate french evilending_e15c9673:
 translate french evilending_a44b467e:
 
     # m "I pulled the trigger, firing the remaining bullets into him until no more were left."
-    m ""
+    m "J'ai appuyé sur la détente à plusieurs reprises jusqu'à ne plus avoir de balle."
 
 # game/chapter5evilending.rpy:123
 translate french evilending_76b81bf0:
 
     # m "His body sunk, like a puppet cut from its strings. He was dead."
-    m ""
+    m "Son corps s'est affaissé, comme une marionnette à laquelle on venait de couper les ficelles. Il était mort."
 
 # game/chapter5evilending.rpy:131
 translate french evilending_d537ba71:
 
     # m "I put away the gun and grabbed the box that contained the generator and a few other things Reza had taken from the lab."
-    m ""
+    m "J'ai rangé l'arme, et me suis emparé de la boite contenant le générateur et tout le butin de Reza."
 
 # game/chapter5evilending.rpy:139
 translate french evilending_58a57c8b:
 
     # m "Soon, I was outside, and after a bit of walking while carrying the heavy box, I arrived at the portal."
-    m ""
+    m "Je me suis très vite retrouvé dehors, et peu de temps après, devant la portail, avec la lourde boite dans les bras."
 
 # game/chapter5evilending.rpy:141
 translate french evilending_d13e9f16:
 
     # m "After activating the controls, I took my place, ready to return to humanity as a hero."
-    m ""
+    m "Après avoir mis le portail en marche, je me suis mis en position, prêt à voir mes semblables m'accueillir en héros."
 
 # game/chapter5evilending.rpy:145
 translate french evilending_3cc2cda2:
 
     # m "Not the time of dragons or man, but the time of [player_name] had come."
-    m ""
+    m "Fini le temps des hommes, fini le temps des dragons. Le temps de [player_name] était sur le point de commencer."
 
 # game/chapter5evilending.rpy:295
 translate french _call_syscheck_96_2a06d2db:
 
     # s "You have seen the evil ending!"
-    s ""
+    s "Vous avez vu la fin du méchant !"
 
 # game/chapter5evilending.rpy:311
 translate french endingjustafewminuteslater_18f7c84a:
 
     # m "I arrived at the portal just a few minutes later. I couldn’t help but be glad that it was still turned off and didn’t appear to have been used recently... But it meant Reza was still here, somewhere."
-    m ""
+    m "Je suis finalement arrivé au portail, soulagé de ne pas le trouver en marche. Mais cela voulait dire que Reza était quelque part dans les parages."
 
 # game/chapter5evilending.rpy:316
 translate french endingjustafewminuteslaterx_e7f27982:
 
     # m "I looked around, thinking about where he could be or if it was worth waiting for him here when I saw something out of the corner of my eye."
-    m ""
+    m "J'ai regardé autour de moi, me demandant par où il pourrait arriver si je décidais de l'attendre ici. C'est alors que j'ai vu quelque chose du coin de l'oeil."
 
 # game/chapter5evilending.rpy:320
 translate french endingjustafewminuteslaterx_a5b4389d:
 
     # m "Hesitating, I drew nearer."
-    m ""
+    m "Je m'en suis rapproché en hésitant."
 
 # game/chapter5evilending.rpy:326
 translate french endingjustafewminuteslaterx_326876be:
 
     # m "I checked Sebastian for any signs of life and found nothing. However, his body was still warm."
-    m ""
+    m "J'ai cherché un quelconque signe de vie, mais Sebastian n'était plus de ce monde. Cependant, son corps était encore chaud."
 
 # game/chapter5evilending.rpy:330
 translate french endingjustafewminuteslaterx_03c1972b:
 
     # m "Reza was here very recently, but he hadn't used the portal just yet. Why?"
-    m ""
+    m "Reza était donc ici depuis très peu de temps, mais il n'avait pas encore utilisé le portail. Pourquoi ?"
 
 # game/chapter5evilending.rpy:332
 translate french endingjustafewminuteslaterx_dc91ba86:
 
     # m "Sebastian's guard post was not just for the portal itself, but also the surrounding area. Since Reza was already here, he probably had some unfinished business very close by."
-    m ""
+    m "Sebastian n'était pas juste censé garder le portail, mais toute la zone autour. Comme Reza était dans le secteur, cela voulait dire qu'il avait encore quelque chose à y faire avant de partir."
 
 # game/chapter5evilending.rpy:336
 translate french endingjustafewminuteslaterx_962f46a5:
 
     # m "There was a suitcase leaning against the portal."
-    m ""
+    m "J'ai trouvé une valise appuyée contre le portail."
 
 # game/chapter5evilending.rpy:340
 translate french endingjustafewminuteslaterx_92c81424:
 
     # m "When I opened it to check on its contents, I was surprised to find a few eggs inside. I had no doubt that this was Reza's doing."
-    m ""
+    m "En l'ouvrant, surpris, je suis tombé sur quelques oeufs de dragonne. Aucun doute que c'était l'oeuvre de Reza."
 
 # game/chapter5evilending.rpy:342
 translate french endingjustafewminuteslaterx_dc3daea9:
 
     # m "Apparently, he had broken into the hatchery again, stashing the eggs here. But he hadn't used the portal just yet. Why?"
-    m ""
+    m "Apparement, il avait encore pillé le couvoir, mais n'avait pas utilisé le portail. Qu'est-ce qu'il pouvait avoir en tête ?"
 
 # game/chapter5evilending.rpy:344
 translate french endingjustafewminuteslaterx_b34b2d28:
 
     # m "Given that he hadn't left yet, he clearly still had unfinished business in the area."
-    m ""
+    m "Puisqu'il n'était pas encore parti, il était clair qu'il lui restait des choses à faire dans les parages."
 
 # game/chapter5evilending.rpy:347
 translate french endingjustafewminuteslaterx_e864a6f7:
 
     # m "The underground building. The Administrator had told me all about the prowess of the generators within. It probably hadn't been hard for Reza to guess the same, or to try stealing them from a place he knew would be even more deserted than the rest of the village was right now."
-    m ""
+    m "Le complexe souterrain. L'Administrateur m'avait bien parlé du précieux générateur qui s'y trouvait. Reza y avait certainement pensé, et s'introduire dans un endroit encore plus désert que la ville à l'heure actuelle était certainement la partie la plus facile."
 
 # game/chapter5evilending.rpy:349
 translate french endingjustafewminuteslaterx_d7d0cce6:
 
     # m "He also didn't have far to go from the portal. All things considered, it was the only option that made sense to me."
-    m ""
+    m "De plus, l'un des accès était tout proche du portail. Aucun doute pour moi qu'il devait encore s'y trouver."
 
 # game/chapter5evilending.rpy:351
 translate french endingjustafewminuteslaterx_fb7b0378:
 
     # m "I could've waited for Reza here, but in the end I decided it would be better to meet him underground. If there was going to be a confrontation, I was sure I would have the advantage in a more crowded space."
-    m ""
+    m "J'aurais pu me contenter de l'attendre à la sortie, mais j'ai jugé bon de le rencontrer sous terre. Si je devais me confronter à lui, je trouvai plus judicieux de le faire dans un espace clos."
 
 # game/chapter5evilending.rpy:357
 translate french endingjustafewminuteslaterx_d51db7e2:
 
     # m "Even in the darkness, it was easy for me to spot the site where they had unearthed the building's entry as it was in a roped off area that I had seen from afar before."
-    m ""
+    m "J'avais déjà repéré l'endroit de loin lors d'une de mes précédentes visites. De ce fait, bien qu'il faisait sombre, je n'ai eut aucun mal à trouver l'accès au laboratoire."
 
 # game/chapter5evilending.rpy:367
 translate french endingjustafewminuteslaterx_c1029fbb:
 
     # m "When I entered the building, I was met by a long, illuminated hallway that was lined with doors on both sides."
-    m ""
+    m "En entrant dans le complexe, je me suis retrouvé dans un long couloir éclairé. De chaque côté, plusieurs portes."
 
 # game/chapter5evilending.rpy:371
 translate french sincethelightswerealreadyon_48903454:
 
     # m "Since the lights were already on, Reza had to be very close. I wasn't surprised at the building still having electricity, since its generators were also powering the portal."
-    m ""
+    m "Comme les lumières étaient allumées, je me suis dit que Reza devait vraiment être tout proche. Je n'ai pas été surpris de trouver de la lumière cependant, les générateurs du portail et du labo étant les mêmes."
 
 # game/chapter5evilending.rpy:375
 translate french sincethelightswerealreadyon_d1e515a6:
 
     # m "Suddenly, one of the doors opened, and out came Reza, carrying a large cardboard box."
-    m ""
+    m "Soudain, l'une des portes s'est ouverte, et Reza en est sortie avec une grosse boite en carton."
 
 # game/chapter5evilending.rpy:377
 translate french sincethelightswerealreadyon_ace552e3:
 
     # m "When he spotted me, he set it on the ground."
-    m ""
+    m "Après qu'il m'ai vu, il a reposé cette dernière au sol."
 
 # game/chapter5evilending.rpy:403
 translate french sincethelightswerealreadyon_fb77eac2:
 
     # Rz "[player_name]! You're here? You don't know how glad I am to see you. I've wanted to talk with you for so long. I even tried to contact you, but I couldn't with someone tailing you the whole time."
-    Rz ""
+    Rz "[player_name] ! Tu es là ! Tu n'imagines pas comme je suis content de te voir. Ça fait depuis un moment que je veux te parler, mais avec tout ce qui s'est passé, plus le fait que tu n'étais jamais vraiment seul, tu te doutes que ça a été compliqué."
 
 # game/chapter5evilending.rpy:405
 translate french sincethelightswerealreadyon_5a72fb9a:
 
     # Rz "But talking can wait. Now that you're here, we've got everything. Come on, help me with this and let's get out of here."
-    Rz ""
+    Rz "Mais ça peut attendre après tout. Maintenant que tu es là, il ne manque plus rien. Tu vas pouvoir m'aider à emmener tout ça et à quitter ce monde."
 
 # game/chapter5evilending.rpy:443
 translate french no_e69e42b8:
 
     # c "No."
-    c ""
+    c "Non."
 
 # game/chapter5evilending.rpy:445
 translate french no_dadd4980:
 
     # Rz annoyed "No? What are you talking about?"
-    Rz annoyed ""
+    Rz annoyed "Non ? De quoi tu parles ?"
 
 # game/chapter5evilending.rpy:447
 translate french no_cbdcea1a:
 
     # c "I'm not doing anything until you answer a few questions."
-    c ""
+    c "Je ne ferais rien tant que tu n'auras pas répondu à quelques questions."
 
 # game/chapter5evilending.rpy:449
 translate french no_687013f9:
 
     # Rz amused "You want to talk now? Sure, why not? We've probably got a few hours if we wanted to. None of them will disturb us here. We could even get the backup generator as well after we send this one over."
-    Rz amused ""
+    Rz amused "Tu veux parler maintenant ? D'accord, très bien. On a probablement quelques heures devant nous, ils sont tous à leur feu d'artifice, personne ne viendra nous déranger. On pourra même prendre le générateur de secours quand on aura envoyé celui-ci."
 
 # game/chapter5evilending.rpy:455
 translate french no_d1ad703c:
 
     # c "When did you realize we were in the past? How did you know about the comet?"
-    c ""
+    c "Depuis quand tu sais qu'on a voyagé dans le temps ? Comment tu as su pour la comète ?"
 
 # game/chapter5evilending.rpy:457
 translate french no_5b2b6059:
 
     # Rz normal "I've known for a while. It's what I wanted to talk with you about when we met at the portal. How about you?"
-    Rz normal ""
+    Rz normal "Je le sais depuis un moment en fait. C'est de ça que je voulais te parler l'autre soir quand je t'ai donné rendez-vous au portail. Et toi ? Depuis quand tu sais tout ça ?"
 
 # game/chapter5evilending.rpy:459
 translate french no_91ed222d:
 
     # c "I only recently found out."
-    c ""
+    c "Depuis très peu de temps en fait."
 
 # game/chapter5evilending.rpy:461
 translate french no_7baa11a8:
 
     # Rz annoyed "Looking back, it just seems so obvious to me now. I'm not sure how exactly you figured it out, but there are so many damn clues when you think about it."
-    Rz annoyed ""
+    Rz annoyed "Avec le recul, tout ça semble pourtant si évident. Je ne sais pas comment tu as compris tout ça, mais il y a tellement de trucs pour nous mettre la puce à l'oreille quand on y pense."
 
 # game/chapter5evilending.rpy:463
 translate french no_f6c1a298:
 
     # Rz normal "I mean, how could a supposedly completely different, independent civilization speak the same language as us? What was this supposed to be? An alternate reality? No, it was just a different time."
-    Rz normal ""
+    Rz normal "Je veux dire, comment une civilisation soi-disant d'un autre monde, complètement différente de nous et complètement autonome pourrait parler les mêmes langues que nous ? Dans quoi on avait atteri ? Une réalité alternative ? Nan, on était juste dans une autre époque."
 
 # game/chapter5evilending.rpy:465
 translate french no_46ca0c65:
 
     # Rz annoyed "When was there ever anything resembling these ... creatures on Earth? It's not hard to make the jump from dragons to dinosaurs when some of them here look pretty damn near identical to dinosaurs we knew about."
-    Rz annoyed ""
+    Rz annoyed "À quelle époque notre Terre a-t-elle vu de telles... bestioles ? C'est pas difficile de faire le rapprochement entre les dragons et les dinosaures. Regarde, certains ressemblent comme deux gouttes d'eau aux vélociraptors !"
 
 # game/chapter5evilending.rpy:467
 translate french no_9ae497ad:
 
     # Rz "And then, there are also the prehistoric fruits, the plants and the fact that their technological level is nearly exactly the same as our own past society."
-    Rz ""
+    Rz "Et il y a cette végétation préhistorique. Plus le fait que leur technologie est très ressemblante à celle qu'on a connu dans le passé..."
 
 # game/chapter5evilending.rpy:469
 translate french no_7b7df0a0:
 
     # Rz normal "But we don't even have to think that abstract. You just needed to look at the sky."
-    Rz normal ""
+    Rz normal "Mais pas besoin de s'attarder sur tout ces détail, il suffit de regarder le ciel."
 
 # game/chapter5evilending.rpy:471
 translate french no_2fa3d196:
 
     # Rz annoyed "The sun, the moon, even the stars are the same. Constellations change over time, of course, but you know we could account for that stuff."
-    Rz annoyed ""
+    Rz annoyed "Le soleil, la lune, même les étoiles sont pareils ! Les constellations changent avec le temps, évidemment. Mais tu sais pourquoi on est capable d'expliquer ça."
 
 # game/chapter5evilending.rpy:473
 translate french no_a0acb6cc:
 
     # Rz "You could've just pointed your PDA at the sky and it would've told you the time period - including the imminent threat of being eradicated."
-    Rz ""
+    Rz "Tu avais juste à pointer ton PDA vers le ciel et il t'aurait indiqué à quelle période la position des étoiles correspond. Il t'aurais également parlé de la comète qui va tout détruire."
 
 # game/chapter5evilending.rpy:475
 translate french no_9effc950:
 
     # Rz "You could even see the meteorite in the sky, and how it would change its position day after day."
-    Rz ""
+    Rz "D'ailleurs on la voit à l'oeil nue ! On la voit changer de position jours après jours !"
 
 # game/chapter5evilending.rpy:477
 translate french no_1c60a47b:
 
     # c "Are you done being condescending?"
-    c ""
+    c "C'est bon ? Tu as fini de me prendre pour un demeuré ?"
 
 # game/chapter5evilending.rpy:479
 translate french no_25e15b6d:
 
     # Rz normal "I guess so."
-    Rz normal ""
+    Rz normal "Je crois oui."
 
 # game/chapter5evilending.rpy:481
 translate french no_377a2427:
 
     # c "You killed those dragons, Reza."
-    c ""
+    c "Tu as tué ces dragons, Reza."
 
 # game/chapter5evilending.rpy:499
 translate french no_07aeb999:
 
     # Rz amused "What a brilliant deduction, Sherlock."
-    Rz amused ""
+    Rz amused "Oh, bien joué Sherlock, brillante déduction."
 
 # game/chapter5evilending.rpy:501
 translate french no_6a44d004:
 
     # c "Why did you do it?"
-    c ""
+    c "Pourquoi tout ça ?"
 
 # game/chapter5evilending.rpy:503
 translate french no_f1d480b3:
 
     # Rz annoyed "Do you really need me to spell it out? I thought better of you."
-    Rz annoyed ""
+    Rz annoyed "Il faut vraiment que je t'explique tout ? Je m'attendais à mieux de ta part."
 
 # game/chapter5evilending.rpy:505
 translate french no_4d398d4f:
 
     # Rz "After I found out the truth about this place, I knew just waiting for the generators we were owed was not an option anymore."
-    Rz ""
+    Rz "Après avoir découvert la vérité sur cet endroit, j'ai compris qu'il était inutile d'attendre les générateurs qu'ils nous avaient promis."
 
 # game/chapter5evilending.rpy:507
 translate french no_653a4234:
 
     # Rz normal "It would have taken who knows how long, but I didn't intend to stay a day longer than necessary."
-    Rz normal ""
+    Rz normal "Ça aurait pris je ne sais combien de temps, mais je n'avais pas l'intention de m'attarder ici vu ce qui est en train d'arriver de là-haut."
 
 # game/chapter5evilending.rpy:509
 translate french no_d33516e0:
 
     # Rz annoyed "You wouldn't believe how hard it was for me to acquire some generators. Some of the dragons didn't go down easily."
-    Rz annoyed ""
+    Rz annoyed "Tu n'imagine pas comme ça a été difficile d'avoir tout ces générateurs. Certains de ces fumiers de sacs à main ont été coriaces."
 
 # game/chapter5evilending.rpy:511
 translate french no_f538170b:
 
     # Rz amused "But who cares that they got back the generators I stole? With just this one, we won't need any of the others."
-    Rz amused ""
+    Rz amused "Mais au final, qu'est-ce que ça change d'avoir ou non tous ces générateurs ? Rien qu'avec celui-là, on est tranquilles pour un moment."
 
 # game/chapter5evilending.rpy:513
 translate french no_bd581962:
 
     # c "How could you do this?"
-    c ""
+    c "Comment tu as pu faire tout ça ?..."
 
 # game/chapter5evilending.rpy:515
 translate french no_ab4b2d83:
 
     # Rz annoyed "{i}How could I do this?{/i}"
-    Rz annoyed ""
+    Rz annoyed "{i}Comment j'ai pu faire tout ça ?{/i}"
 
 # game/chapter5evilending.rpy:517
 translate french no_8d884cfd:
 
     # Rz amused "Let me ask you this: What harm is there really in taking their generators when their whole civilization will be gone in a few weeks, anyway? The ones I killed just died a little earlier than scheduled."
-    Rz amused ""
+    Rz amused "Pose toi la bonne question enfin ! Qu'est-ce que ça change que je prenne leurs générateurs ? Qu'est-ce que ça change que j'en ai tué trois, quatre ou cent ? Ils ont juste eut la chance de mourir avant de comprendre qu'ils étaient condamnés de toute façon !"
 
 # game/chapter5evilending.rpy:519
 translate french no_5f502c59:
 
     # Rz annoyed "Even if that creep hadn't shown up and interrupted our meeting, we wouldn't have had the time for them to make the generators for us."
-    Rz annoyed ""
+    Rz annoyed "Même si cet enfoiré de Maverick ne nous avait pas interrompu l'autre soir, on n'aurait jamais eut le temps d'attendre qu'ils finissent de fabriquer nos générateurs."
 
 # game/chapter5evilending.rpy:521
 translate french no_9a168e38:
 
     # c "How about we don't let them all die?"
-    c ""
+    c "Et si on leur laissait une chance de s'en sortir ?"
 
 # game/chapter5evilending.rpy:523
 translate french no_676e21ed:
 
     # Rz amused "They aren't going to be extinct any time soon, if that's what you're concerned about. I paid the hatchery another visit before I came here."
-    Rz amused ""
+    Rz amused "Ils ne vont pas disparaître complètement si c'est ça qui te fait peur. J'ai été faire un tour au couvoir avant de venir ici."
 
 # game/chapter5evilending.rpy:525
 translate french no_f730d570:
 
     # Rz normal "With the right... persuasion, I think we'll have plenty of reasons to keep at least some of them around. Bodyguards, border patrols, weapons. Even as pets or companions, as long as we make the necessary changes."
-    Rz normal ""
+    Rz normal "En leur donnant la bonne... éducation, on devrait pouvoir faire ce qu'on veut de ces bestioles. Ça nous fait une bonne raison d'en rammener en souvenir, t'imagine un peu, avoir ton dragon garde du corps, avoir des gardes dragons... Même un dragon de comapgnie tiens !"
 
 # game/chapter5evilending.rpy:527
 translate french no_4ca4f52e:
 
     # Rz amused "See, it's not as bad as you might think."
-    Rz amused ""
+    Rz amused "Tu vois, c'est ps si mal pour tes petits protégés au final."
 
 # game/chapter5evilending.rpy:529
 translate french no_539a3b14:
 
     # c "I'm not going to just abandon them like that, only for their whole civilization to be wiped out."
-    c ""
+    c "Je ne vais pas les abandonner comme ça, leur civilisation peut encore être sauvée "
 
 # game/chapter5evilending.rpy:531
 translate french no_50475dcc:
 
     # Rz angry "Get your priorities straight, [player_name]."
-    Rz angry ""
+    Rz angry "Revois tes priorités, [player_name] !"
 
 # game/chapter5evilending.rpy:533
 translate french no_0b3fb89a:
 
     # Rz "Next you'd rather starve, because you suddenly empathize with a steak. And you're not satisfied just starving by yourself. No, you're going to let all of us starve, because you want to impose your morals on everyone."
-    Rz ""
+    Rz "Et après quoi ? Tu nous laissera crever de faim parce que tu voudras protéger les steaks ? Ça ne te plaîra pas de crever tout seul, alors il faudra que tu imposes ton idéologie à tout le monde ?"
 
 # game/chapter5evilending.rpy:535
 translate french no_195e7284:
 
     # Rz annoyed "Since when do you think that you get to have any say in this? You know why you're here. What you're proposing is treason, and you know the consequences."
-    Rz annoyed ""
+    Rz annoyed "Et depuis quand tu penses avoir ton mot à dire dans cet échange, hein ? Tu sais pourquoi on t'a envoyé ici. Ce que tu proposes est une trahison, et tu sais ce que ça signifie chez nous."
 
 # game/chapter5evilending.rpy:537
 translate french no_e5b1e7a9:
 
     # Rz amused "Personally, I don't mind if you want to stay here. You know I don't care about corporal punishment."
-    Rz amused ""
+    Rz amused "Perso, je m'en fous si tu préfère rester là. Ça ne me dérange pas les châtiments corporels, tant que c'est pas moi qui morfle !"
 
 # game/chapter5evilending.rpy:539
 translate french no_f00f491c:
 
     # Rz normal "Just let me through and you can do whatever you wish."
-    Rz normal ""
+    Rz normal "Laisse moi partir, et tu pourras faire ce que tu veux après ça."
 
 # game/chapter5evilending.rpy:541
 translate french no_3136b4bd:
 
     # c "I can't do that, Reza."
-    c ""
+    c "Je ne peux pas te laisser faire, Reza."
 
 # game/chapter5evilending.rpy:543
 translate french no_b1f85f2a:
 
     # Rz annoyed "I see how it is. They've told you they need this generator to stop the comet, huh? And now you've become their lackey."
-    Rz annoyed ""
+    Rz annoyed "Oh, j'ai compris. Ils t'ont dit qu'ils avaient besoin d'un générateur pour détourner la comète, hein ? Et maintenant tu es leur gentil toutou."
 
 # game/chapter5evilending.rpy:545
 translate french no_f109bdfd:
 
     # Rz "Don't tell me you've been drinking up what they've been telling you. You know they have as much of a vested interest in this whole thing as humanity does - that I and you do, or at least used to."
-    Rz ""
+    Rz "Ne me dis pas que tu as cru à leurs conneries. Tu sais qu'ils ont autant à gagner que l'humanité, que toi et moi. Enfin moi et l'humanité, car toi tu es avec eux visiblement, tu te fiches de tes semblables."
 
 # game/chapter5evilending.rpy:547
 translate french no_a39121b7:
 
     # Rz "Do you think they wouldn't do the same thing if it was their families on the line instead of ours?"
-    Rz ""
+    Rz "Tu crois qu'ils ne feraient pas la même chose si l'avenir de leurs familles étaient entre leurs griffes ? Tu crois qu'ils hésiteraient à tuer des humains si ça pouvait sauver leurs monde ?"
 
 # game/chapter5evilending.rpy:549
 translate french no_aa71d2f1:
 
     # c "Their entire world is on the line here."
-    c ""
+    c "C'est pas juste d'une ville dont on parle là, c'est de leurs monde entier !"
 
 # game/chapter5evilending.rpy:551
 translate french no_ed42ee26:
 
     # Rz "They live in perfect harmony, with their perfect green energy source and no reason for wars or conflicts, yadda yadda yadda. We had that too, and you know what happened then? Of course you do."
-    Rz ""
+    Rz "Ils vivent en parfaite harmonie, ils ont leurs sources d'énergie parfaitement propre, ils n'ont aucune raison de se battre, et bla bla bla... On avait tout ça avant, t'as vu comment ça s'est terminé ? Bien sûr que tu l'a vu !"
 
 # game/chapter5evilending.rpy:553
 translate french no_cf0625b1:
 
     # Rz "This is such an idiotic trope, you know. Random person meets weird natives, learns their ways and then ends up saving them."
-    Rz ""
+    Rz "On dirait un vieux navet idéaliste ! Un ambassadeur arrive dans un monde d'aliens bizarres, il apprends leurs coutume et fini par les sauver ! Me dit pas qu'il y a une histoire d'amour en plus sinon c'est la meilleure !"
 
 # game/chapter5evilending.rpy:555
 translate french no_498b9519:
 
     # Rz "What do they need you for, huh? Maybe they're going to be extinct for a reason if they can't even save themselves."
-    Rz ""
+    Rz "Pourquoi est-ce qu'ils auraient besoin de toi, hein ? Il y a peut-être une bonne raison pour qu'ils soient voués à l'extinction, s'ils ne peuvent même pas se sauver !"
 
 # game/chapter5evilending.rpy:557
 translate french no_187b69ca:
 
     # c "You know of our suffering, yet will let them have it?"
-    c ""
+    c "Tu sais très bien ce qu'ils s'apprêtent à vivre, mais tu les laisses dans leur merde ?"
 
 # game/chapter5evilending.rpy:559
 translate french no_2b4c143b:
 
     # Rz angry "I don't care what happens to them, but unlike you, I was at least trying to save humanity."
-    Rz angry ""
+    Rz angry "J'en ai rien à fiche de ce qui va leur arriver. Mais contrairement à toi, moi je vais essayer de sauver mon monde."
 
 # game/chapter5evilending.rpy:561
 translate french no_217f3e9c:
 
     # c "At any cost."
-    c ""
+    c "À tout prix, hein."
 
 # game/chapter5evilending.rpy:563
 translate french no_56d4bb3f:
 
     # Rz "We have the solution right here, and you want to get philosophical now? Don't you think we deserve it?"
-    Rz ""
+    Rz "On a la solution dans cette boite, et tu veux faire dans la philosophie maintenant ? Tu ne t'es pas simplement dit qu'on le méritait ?"
 
 # game/chapter5evilending.rpy:565
 translate french no_f79959bc:
 
     # Rz "They've had it for who knows how long. Now it's time for us."
-    Rz ""
+    Rz "Ils ont ça depuis je ne sais combien de temps. Maintenant c'est à nous d'en profiter."
 
 # game/chapter5evilending.rpy:567
 translate french no_36a74191:
 
     # c "Not like this."
-    c ""
+    c "Pas comme ça, nan."
 
 # game/chapter5evilending.rpy:569
 translate french no_c0dcf3df:
 
     # Rz "Do you think I like it? If there was a different way, I wouldn't have spent the last few weeks doing what you didn't."
-    Rz ""
+    Rz "Tu crois que je n'ai pas réfléchi à une autre solution ? Tu crois que ça m'a plu de faire ce que tu n'as pas été capable de faire ?"
 
 # game/chapter5evilending.rpy:571
 translate french no_9e38606f:
 
     # Rz "We don't live in this fairy tale world of yours where there is a perfect solution to everything. You should know that. Just being here for a few weeks must have messed you up."
-    Rz ""
+    Rz "On n'est pas dans un conte de fée là, et la fin heureuse pour tous n'existe pas. Mais visiblement les quelques jours que t'as passé ici t'ont ramoli le cerveau."
 
 # game/chapter5evilending.rpy:573
 translate french no_843bc858:
 
     # Rz annoyed "I think I know why."
-    Rz annoyed ""
+    Rz annoyed "Et je pense savoir pourquoi."
 
 # game/chapter5evilending.rpy:575
 translate french no_01bee785:
 
     # Rz "You got too used to all the comforts they have here. You actually don't care if they all die back home, do you?"
-    Rz ""
+    Rz "Tu t'es habitué au confort qu'ils t'ont offert ici. Au final, tu t'en fiche de ce qui se passe chez nous, pas vrai ?"
 
 # game/chapter5evilending.rpy:577
 translate french no_8a741f2c:
 
     # Rz "As long as you can stay here, in this perfect little world of yours. You have discarded everything and everyone back home, and replaced it with this."
-    Rz ""
+    Rz "Tout ce qui compte pour toi, c'est de rester dans ce petit monde parfait pour toi. Tu as fait une croix sur ta véritable maison et tu l'as remplacée par ça."
 
 # game/chapter5evilending.rpy:579
 translate french no_3d97530d:
 
     # Rz "Maybe it is because you just don't have a life back home."
-    Rz ""
+    Rz "C'est peut-être parce que tu n'as trouvé aucune raison de vivre dans notre monde."
 
 # game/chapter5evilending.rpy:581
 translate french no_ed68b007:
 
     # Rz normal "I can even understand that a little. Of course it would be nice to just stay here where they have everything that we don't, but being here also reminded me of everything I hated about our world as it used to be."
-    Rz normal ""
+    Rz normal "Je pourrais même te comprendre un peu. Évidement qu'on pourrait rester ici, à profiter de tout ce que notre monde n'a pas. Mais en passant du temps ici, je me suis souvenu de tout ce que je détestais de notre ancien monde."
 
 # game/chapter5evilending.rpy:583
 translate french no_50b2933d:
 
     # Rz angry "The pettiness and the politics. Say about the solar flare what you want, but it leveled the playing field and gave people like us a chance to make a difference."
-    Rz angry ""
+    Rz angry "L'argent et la politique. Tu pourras dire ce que tu veux sur l'éruption solaire qui a mis fin à notre monde d'avant, mais grâce à elle, tout le monde est au même niveau, tout le monde à sa chance. Grâce à elle, nous avons notre chance de changer le monde."
 
 # game/chapter5evilending.rpy:585
 translate french no_057799eb:
 
     # Rz "For all of our efforts, what did we get? A vote that was meaningless in a sea of stupidity and lies. Now everyone has to pull their own weight. We make the rules."
-    Rz ""
+    Rz "Avec tous nous efforts, notre merveilleuse avancée technologique, qu'est-ce qu'on avait hein ? Un pauvre vote qui n'avait aucun pouvoir dans cet océan de connerie et de mensonge ! Maintenant tout le monde a le même pouvoir, c'est nous qui établissons les règles !"
 
 # game/chapter5evilending.rpy:587
 translate french no_5e7282f6:
 
     # Rz "You, of all people, should understand."
-    Rz ""
+    Rz "Toi plus que n'importe qui devrait le comprendre !"
 
 # game/chapter5evilending.rpy:589
 translate french no_43e1409a:
 
     # Rz "Of course they wouldn't. They haven't experienced how it is, to live like we do now. To see the world burn and everyone you know die around you."
-    Rz ""
+    Rz "Bien sûr qu'ils ne le feraient pas ce que je fais. Ils n'ont pas vécu ce que c'est, de vivre comme nous le faisons maintenant. Voir le monde brûler et tous ceux que tu connais mourir autour de toi."
 
 # game/chapter5evilending.rpy:591
 translate french no_44206026:
 
     # c "And because I have, I won't let the same thing happen to them."
-    c ""
+    c "Et parce que je l'ai vécu, je ne laisserai pas la même chose leur arriver !"
 
 # game/chapter5evilending.rpy:593
 translate french no_11bb049e:
 
     # Rz "How many do you think died back home just in the two weeks you've been here because we don't have power for the hospital, huh? Do you think those victims aren't worth mentioning, or do you just care about the few dragons I killed?"
-    Rz ""
+    Rz "À ton avis, combien de gens sont morts pendant que tu t'amusais ici, simplement parce que ces gens attendent le retour de l'électricité à l'hôpital ? Tu les oublies eux ? Il n'y a que tes petits dragons chéris qui comptent à tes yeux ?"
 
 # game/chapter5evilending.rpy:595
 translate french no_c901c5b9:
 
     # Rz "Our city is the last bastion of a civilized society in a world where nothing else is left."
-    Rz ""
+    Rz "Notre ville est le dernier refuge d'une humanité civilisée perdu au milieu d'un monde qui a sombré dans le chaos !"
 
 # game/chapter5evilending.rpy:597
 translate french no_2873155b:
 
     # Rz annoyed "Maybe you have forgotten about them, but I haven't."
-    Rz annoyed ""
+    Rz annoyed "Tu as peut-être oublié les tiens, mais pas moi."
 
 # game/chapter5evilending.rpy:599
 translate french no_29901592:
 
     # Rz "How many of us do you think will still be there in a month? A year? Or are they just a statistic to you?"
-    Rz ""
+    Rz "Combien restera-t-il d'humain dans un mois selon toi ? Et dans un an ? C'est peut-être juste une statistique pour toi après tout."
 
 # game/chapter5evilending.rpy:601
 translate french no_1844cca7:
 
     # c "The same could be said for the dragons."
-    c ""
+    c "On pourrait te faire le même repproche, vu l'aide que tu es prête à donner aux dragons."
 
 # game/chapter5evilending.rpy:603
 translate french no_a65330f3:
 
     # Rz "What do you want to do? Talk me down from doing this? And then what?"
-    Rz ""
+    Rz "Qu'est-ce que tu veux faire alors ? Me dissuader de prendre leurs générateurs ? Et après ?"
 
 # game/chapter5evilending.rpy:605
 translate french no_8afa0e34:
 
     # Rz "It's too late, anyway. You think they're just going to let us go after what I've done? Fat chance."
-    Rz ""
+    Rz "C'est trop tard de toute façon ! Tu crois qu'ils vont nous laisser partir après ce que j'ai fait ? Moi non, je suis condamné."
 
 # game/chapter5evilending.rpy:607
 translate french no_be7abdba:
 
     # Rz normal "Whatever you may think, you'll find that our leaders back home agree with my course of action."
-    Rz normal ""
+    Rz normal "Peu importe ce que tu penses de mes actes, tu te rendras très vite compte que nos dirigeants approuvent mes choix."
 
 # game/chapter5evilending.rpy:609
 translate french no_4f03a3df:
 
     # c "Why are you telling me this?"
-    c ""
+    c "Pourquoi tu me dis ça ?"
 
 # game/chapter5evilending.rpy:611
 translate french no_0b3f6198:
 
     # Rz "Because I expect you to join me."
-    Rz ""
+    Rz "Parce que j'espère que tu vas te joindre à moi."
 
 # game/chapter5evilending.rpy:613
 translate french no_1eb71afe:
 
     # c "That's not going to happen."
-    c ""
+    c "Nan, ne compte pas sur moi."
 
 # game/chapter5evilending.rpy:615
 translate french no_2d79312c:
 
     # Rz angry "And you call yourself an ambassador? This generator is the only thing we need for our city to survive. How can you even argue about this?"
-    Rz angry ""
+    Rz angry "Et tu te dis ambassadeur ? On a seulement besoin de ce générateur pour que notre ville survive. Comment tu peux refuser de m'aider ?"
 
 # game/chapter5evilending.rpy:620
 translate french no_4d5c609b:
 
     # c "The dragons also need that generator and I'll do what is necessary to stop you if I have to."
-    c ""
+    c "Les dragons aussi ont besoin de ce générateur. Et je ferais tout ce qu'il faut pour t'arrêter s'il le faut !"
 
 # game/chapter5evilending.rpy:622
 translate french no_76709b4d:
 
     # Rz annoyed "So, that makes you judge, jury and executioner. What a wonderful set of morals you have there, [player_name]."
-    Rz annoyed ""
+    Rz annoyed "Donc, te voilà juge, jury et bourreau. Tu es un vrai petit tribunal à toi tout seul, n'est-ce pas [player_name]."
 
 # game/chapter5evilending.rpy:625
 translate french no_2f5f018e:
 
     # c "We only need to wait until the comet has passed safely."
-    c ""
+    c "Tout ce qu'on a à faire, c'est de les aider à dévier la trajectoire de la comète et d'attendre qu'elle soit passée !"
 
 # game/chapter5evilending.rpy:627
 translate french no_c00416d1:
 
     # Rz "You think you can stop the comet? And you need this generator to do that?"
-    Rz ""
+    Rz "Tu crois que tu peux faire ça ? Et évidement tu as besoin de ce générateur pour réussir ton petit tour de magie !"
 
 # game/chapter5evilending.rpy:629
 translate french no_d8514ee7:
 
     # Rz "Sure, and if your plan fails, then not only is this world gone, but we also lose any and all hope to save our own."
-    Rz ""
+    Rz "Une bonne idée oui ! Mais si ton plan échoue, non seulement ce monde va disparaître, mais les espoirs de sauver le nôtre vont mourir avec lui !"
 
 # game/chapter5evilending.rpy:631
 translate french no_9e2cabfd:
 
     # Rz angry "We are so close now. We can't risk anything by waiting for your crazy plan when back home they are dying by the minute. I will not let you."
-    Rz angry ""
+    Rz angry "On est si proche d'un avenir meilleur pour les nôtres ! Je ne te laisserai pas risquer nos chances pour ton plan de malade, alors que notre espèce meurs minute après minutes !"
 
 # game/chapter5evilending.rpy:633
 translate french no_4876a4e4:
 
     # c "You only want to save your own two-faced hide, because you don't want to face the consequences of what you did."
-    c ""
+    c "Tu veux surtout sauver ta peau Reza ! Tu sais que si mon plan réussi, toi tu ne sortiras pas indemne de tout ça avec tout ce que tu as fait !"
 
 # game/chapter5evilending.rpy:635
 translate french no_3bf4c97d:
 
     # Rz "..."
-    Rz ""
+    Rz "..."
 
 # game/chapter5evilending.rpy:637
 translate french no_0cbaed28:
 
     # Rz normal "..."
-    Rz normal ""
+    Rz normal "..."
 
 # game/chapter5evilending.rpy:639
 translate french no_8997dbc9:
 
     # Rz laugh "Hahahahahahahahahahaha!"
-    Rz laugh ""
+    Rz laugh "Ha ha ha ha ha ha ha ha ha ha ha !"
 
 # game/chapter5evilending.rpy:641
 translate french no_488376d7:
 
     # c "Why are you laughing about this?"
-    c ""
+    c "Et ça te fait rire !?"
 
 # game/chapter5evilending.rpy:643
 translate french no_bb787d06:
 
     # Rz "Because it's a joke. It must be. I'm the one with the gun, and you thought you could just waltz in here and lecture me."
-    Rz ""
+    Rz "C'est une blague, oui ça ne peut être qu'une blague ! C'est moi qui ai un flingue, et tu t'imagines que je vais te laisser me faire la moral !"
 
 # game/chapter5evilending.rpy:645
 translate french no_138dcbc4:
 
     # Rz amused "Listening to you was fun and all, but the grownups must get back to work now."
-    Rz amused ""
+    Rz amused "Enfin, je me suis bien amusé de tes belles paroles. Maintenant laisse les adultes générer la situation tu veux ?"
 
 # game/chapter5evilending.rpy:659
 translate french no_7342b0c0:
 
     # Rz "I mean, what are you going to do? You can't stop me now, anyway."
-    Rz ""
+    Rz "Et puis qu'est-ce que tu vas faire, hein ? Tu ne peux pas m'arrêter de toute façon."
 
 # game/chapter5evilending.rpy:703
 translate french _call_syscheck_97_d5fce622:
 
     # s "You decided not to meet anyone or investigate for the tenth time!"
-    s ""
+    s "Vous avez décidé de ne rencontrer personne tout en enquêtant pour la dixième fois !"
 
 # game/chapter5evilending.rpy:707
 translate french _call_syscheck_97_0ffb665d:
 
     # s "You decided not to meet anyone or investigate for the tenth time. Who cares?"
-    s ""
+    s "Vous avez décidé de ne rencontrer personne tout en enquêtant pour la dixième fois. Qui s'en soucie, sérieux ?"
 
 # game/chapter5evilending.rpy:711
 translate french _call_syscheck_97_42aff287:
 
     # s "You decided not to meet anyone or investigate for the tenth time. Being exceptionally good at doing nothing apparently is a skill, too."
-    s ""
+    s "Vous avez décidé de ne rencontrer personne tout en enquêtant pour la dixième fois. Être exceptionnellement bon à rien est digne d'un achèvement apparement."
 
 # game/chapter5evilending.rpy:733
 translate french _call_syscheck_98_b9c658b8:
 
     # s "You used the skip function 10 times!"
-    s ""
+    s "Vous avez skippé pour la dixième fois !"
 
 # game/chapter5evilending.rpy:737
 translate french _call_syscheck_98_d28ca258:
 
     # s "You used the skip function 10 times. You skipper."
-    s ""
+    s "Vous avez skippé pour la dixième fois. Skipper-man."
 
 # game/chapter5evilending.rpy:741
 translate french _call_syscheck_98_b33e9d23:
 
     # s "You used the skip function 10 times. If you could, you'd probably skip this text too, wouldn't you?"
-    s ""
+    s "Vous avez skippé pour la dixième fois, vous skipperiez même ce texte si vous le pouviez ?"
 
 # game/chapter5evilending.rpy:763
 translate french _call_syscheck_99_8ed1e5e6:
 
     # s "You had two messages waiting for you!"
-    s ""
+    s "Vous aviez deux message sur ton répondeur !"
 
 # game/chapter5evilending.rpy:767
 translate french _call_syscheck_99_42e2e280:
 
     # s "You had two messages waiting for you. I wonder why..."
-    s ""
+    s "Vous aviez deux message sur ton répondeur. Je me demande pourquoi..."
 
 # game/chapter5evilending.rpy:771
 translate french _call_syscheck_99_044dc97c:
 
     # s "You had two messages waiting for you. You sure are getting around, aren't you?"
-    s ""
+    s "Vous aviez deux message sur ton répondeur. Vous êtes toujours en déplacement, n'est-ce pas ?"
 
 # game/chapter5evilending.rpy:791
 translate french _call_syscheck_100_dcad8579:
 
     # s "You have seen what lies beneath the mask!"
-    s ""
+    s "Vous avez vu ce qui se cache derrière le masque !"
 
 # game/chapter5evilending.rpy:795
 translate french _call_syscheck_100_14668d1f:
 
     # s "You have seen what lies beneath the mask. Quite revealing, isn't it?"
-    s ""
+    s "Vous avez vu ce qui se cache derrière le masque. Sacré révélation, n'est-ce pas ?"
 
 # game/chapter5evilending.rpy:799
 translate french _call_syscheck_100_76fabffb:
 
     # s "You have seen what lies beneath the mask. Unsurprisingly, it was a face."
-    s ""
+    s "Vous avez vu ce qui se cache derrière le masque. Sans surprise, c'était un visage."
 
 # game/chapter5evilending.rpy:817
 translate french _call_syscheck_101_d5bbc844:
 
     # s "You have seen your first good ending!"
-    s ""
+    s "Vous avez vu votre première \"bonne\" fin !"
 
 # game/chapter5evilending.rpy:829
 translate french skiptut_b619f659:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner."
-    s ""
+    s "Mes enregistrements indiquent que vous avez déjà vu cette scène de manière satifsaisante."
 
 # game/chapter5evilending.rpy:833
 translate french skiptut_dee13ebb:
 
     # s "If you wish, we could skip sections like these which you have already cleared before."
-    s ""
+    s "Si vous voulez, on peut passer des scènes que vous avez déjà vécu, comme celle qui vient après."
 
 # game/chapter5evilending.rpy:837
 translate french skiptut_4cbf1aa4:
 
     # s "No need to read everything again! Isn't that great?"
-    s ""
+    s "Pas besoin de tout relire ! Formidable, hein ?"
 
 # game/chapter5evilending.rpy:841
 translate french skiptut_5e30f108:
 
     # s "{i}How is this different from just using the skip buttons like [[Ctrl] and [[Tab]?{/i}, you might ask."
-    s ""
+    s "Vous pourriez vous demander : {i}En quoi ça change de l'utilisation des boutons [[Ctrl] et [[Tab] pour skipper ?{/i}."
 
 # game/chapter5evilending.rpy:845
 translate french skiptut_a325d596:
 
     # s "Well, here's the deal: Using the skip buttons can be tedious, especially when encountering puzzles you've already solved before or when faced with long dialogue trees."
-    s ""
+    s "Je vous explique : L'utilisation de la fonction skip peut être fastidieuse, surtout lorsque vous avez des choix à faire qui vous ont déjà apporté la bonne suite, ou de longues lignes de dialogues à passer."
 
 # game/chapter5evilending.rpy:849
 translate french skiptut_738b6997:
 
     # s "Sometimes, it's just easier to jump over a whole section than speeding it up, y'know?"
-    s ""
+    s "Parfois, c'est plus simple de skipper une scène entière que de juste l'accélérer, vous savez ?"
 
 # game/chapter5evilending.rpy:853
 translate french skiptut_521da73b:
 
     # s "So, during relevant sections, I will come in and ask if you don't want to just outright jump ahead. Sound good so far?"
-    s ""
+    s "C'est pour ça que, lorsque vous tomberez sur des scènes \"skippables\" (quel mot magnifique, hein ? J'ai déjà demandé à Robert de l'ajouter dans son livre), je vous proposerai de les skipper. C'est pas mal comme plan, avouez !"
 
 # game/chapter5evilending.rpy:857
 translate french skiptut_69fa3789:
 
     # s "Anyway, there are times when you might still want to choose not to jump ahead like this and use the skip buttons as usual. That's totally fine."
-    s ""
+    s "Quoi qu'il en soit, je vous laisse le choix, si jamais vous voulez revoir une scène pour vous souvenir, ou pour le plaisir de relire."
 
 # game/chapter5evilending.rpy:861
 translate french skiptut_21aa4b71:
 
     # s "Both methods have their own advantages and disadvantages."
-    s ""
+    s "Les deux méthodes ont leurs propres avantages et inconvénients."
 
 # game/chapter5evilending.rpy:865
 translate french skiptut_5496eeb1:
 
     # s "Jumping ahead will often skip minor choices that can be made, especially during character sections with lots of dialogue options. This can include parts that would unlock new achievements."
-    s ""
+    s "Skipper une scène complète permet souvent d'esquiver des choix mineurs que vous avez déjà rencontrés, surtout pendant les rencontres avec les personnages où beaucoup d'options sont possibles. Attention, ces options de dialogues peuvent déboucher sur des succès !"
 
 # game/chapter5evilending.rpy:869
 translate french skiptut_2acb98f7:
 
     # s "However, jumping ahead will never skip important choices that you have to make, such as those that could result in good endings or the choices you make during your investigations."
-    s ""
+    s "Toutefois en skippant, vous ne changerez jamais les choix importants qui peuvent donner sur les bonnes fins, ni ceux qui vous pouvez faire durant les enquêtes."
 
 # game/chapter5evilending.rpy:873
 translate french skiptut_06013450:
 
     # s "It's up to you whether you want to use it or not, but it might save you some time."
-    s ""
+    s "À vous de voir si vous voulez en user, voir en abuser. Mais ça pourra vous faire gagner du temps dans tout les cas."
 
 # game/chapter5evilending.rpy:877
 translate french skiptut_c5ae7a1f:
 
     # s "Either way, the choice is yours."
-    s ""
+    s "Quoi qu'il en soit, le choix vous revient [player_name]."
 
 # game/chapter5evilending.rpy:883
 translate french skiptut_ea93d1df:
 
     # s "Would you like to skip ahead?"
-    s ""
+    s "Alors, je passe à la suite ?"
 
 translate french strings:
 
     # chapter5evilending.rpy:3
     old "Chapter 5 - Evil"
-    new ""
-
+    new "Chapitre 5 - Fin du méchant"
