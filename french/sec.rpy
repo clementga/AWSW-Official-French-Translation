@@ -4,343 +4,343 @@
 translate frenchtl sec_45a1f6f7:
 
     # m "I suddenly awoke to the chill of the cool outside air. The stars of the night sky were the first thing I saw as I found myself being dragged along the ground."
-    m ""
+    m "Je me réveillai soudainement à la fraicheur de l'air extérieur. Les étoiles de ce ciel nocturne furent la première chose que je vis alors que je me faisais trainer sur le sol."
 
 # game/sec.rpy:15
 translate frenchtl sec_8eb32190:
 
     # m "When I exclaimed in surprise, the movement suddenly stopped."
-    m ""
+    m "En m'exclamant de surprise, le mouvement s'arrêta d'un coup."
 
 # game/sec.rpy:17
 translate frenchtl sec_f5e67f01:
 
     # m "I looked around and saw that Izumi was watching me."
-    m ""
+    m "Regardant aux alentours je vis qu'Izumi était en train de me regarder."
 
 # game/sec.rpy:21
 translate frenchtl sec_ac0503c9:
 
     # c "Izumi, what are you doing?"
-    c ""
+    c "Izumi, qu'est-ce que tu es en train de faire ?"
 
 # game/sec.rpy:23
 translate frenchtl sec_973eb523:
 
     # Iz "I'm sorry, you are supposed to be asleep and not recognize me."
-    Iz ""
+    Iz "Je suis désolé, tu es supposé dormir et ne pas me reconnaître."
 
 # game/sec.rpy:25
 translate frenchtl sec_3ab95c26:
 
     # Iz "I suppose things are different this time, but at least that means I won't have to carry you. Come on."
-    Iz ""
+    Iz "Je suppose que les choses sont différentes cette fois, mais au moins ça signifie que je n'aurai pas à te porter. Allez."
 
 # game/sec.rpy:35
 translate frenchtl sec_260f0961:
 
     # m "She led me through unfamiliar territory as we walked through the land for several minutes. Shrouded in darkness, I felt a little uneasy as it was hard for me to follow her."
-    m ""
+    m "Elle me mena à travers un endroit qui m'était peu familier tandis qu'on marchait à travers la campagne depuis plusieurs minutes. Avec l'obscurité ambiante, j'eus de la difficulté à la suivre."
 
 # game/sec.rpy:37
 translate frenchtl sec_1d216fb6:
 
     # c "This is the day of my arrival, right?"
-    c ""
+    c "On est le jour de mon arrivée, c'est cela ?"
 
 # game/sec.rpy:41
 translate frenchtl sec_b56d6d33:
 
     # Iz "You remember, don't you?"
-    Iz ""
+    Iz "Tu te rappelles, n'est-ce pas ?"
 
 # game/sec.rpy:43
 translate frenchtl sec_53ef6372:
 
     # Iz "In that case, maybe you can help me with this."
-    Iz ""
+    Iz "Dans ce cas, peut être que tu peux m'aider avec ça."
 
 # game/sec.rpy:57
 translate frenchtl sec_19fbf5f8:
 
     # m "She handed me a shovel that she had picked up from somewhere."
-    m ""
+    m "Elle me tandit une pelle qu'elle avait trouvé quelque part."
 
 # game/sec.rpy:61
 translate frenchtl sec_3f2b4fc9:
 
     # Iz "It gets rather tiring having to do all this on my own every time. I'm not as young as I was when this all started, you know."
-    Iz ""
+    Iz "Ca devient assez fatiguant d'avoir à faire tous toute seule à chaque fois. Je ne suis plus aussi jeune que quand tout cela a commencé, tu sais."
 
 # game/sec.rpy:63
 translate frenchtl sec_c3656a60:
 
     # c "What am I doing here? Is this going to be your grave or mine?"
-    c ""
+    c "Qu'est-ce que je fais ici ? Cela va être votre tombe, ou la mienne ?"
 
 # game/sec.rpy:65
 translate frenchtl sec_ff1a6790:
 
     # Iz "I don't know that yet. There is no shortage of bodies that will need one."
-    Iz ""
+    Iz "Je ne le sais pas encore. Ca ne anque pas de corps qui en auront besoin d'une."
 
 # game/sec.rpy:67
 translate frenchtl sec_78dba70c:
 
     # Iz "So, what do you remember?"
-    Iz ""
+    Iz "Alors, de quoi te souviens-tu ?"
 
 # game/sec.rpy:69
 translate frenchtl sec_23d31226:
 
     # c "Everything."
-    c ""
+    c "Tout."
 
 # game/sec.rpy:71
 translate frenchtl sec_a54e0a41:
 
     # c "I remember you showed me this place before. The graves."
-    c ""
+    c "Je me souviens que tu m'as montré cet endroit avant. Les tombes."
 
 # game/sec.rpy:73
 translate frenchtl sec_14bb254b:
 
     # c "That time, we also achieved our goals. Together."
-    c ""
+    c "Cette fois aussi, où nous avons accomplis nos objectifs. Ensembles."
 
 # game/sec.rpy:75
 translate frenchtl sec_0dbc6fec:
 
     # Iz "So they are safe? What a comforting thought."
-    Iz ""
+    Iz "Donc ils sont saufs? C'est une pensée réconfortante."
 
 # game/sec.rpy:77
 translate frenchtl sec_a77efeb5:
 
     # Iz "As good as that may be, however, having achieved our goals in another timeline doesn't help us here. In this one, we have to do it all over again."
-    Iz ""
+    Iz "Aussi agréable que ça puisse être, avoit atteint notre but dans une autre timeline ne nous aide pas ici. Dans celle là, On va être obligé de refaire la même."
 
 # game/sec.rpy:79
 translate frenchtl sec_b69a1abd:
 
     # Iz "If you still have that knowledge, we should have no trouble doing the same thing here, though. Maybe we could do even more than that."
-    Iz ""
+    Iz "Si tu as connaissance de cela, Nous ne devrions pas avoir de problème à refaire la même chose ici. Paut être que nous pourrions même faire plus que ça."
 
 # game/sec.rpy:83
 translate frenchtl sec_3070bc42:
 
     # c "What are you talking about?"
-    c ""
+    c "De quoi parles-tu ?"
 
 # game/sec.rpy:85
 translate frenchtl sec_b8c7cec4:
 
     # Iz "Come on, I'll show you something."
-    Iz ""
+    Iz "Viens, je vais te montrer quelque chose."
 
 # game/sec.rpy:97
 translate frenchtl sec_70c9a4b3:
 
     # c "So this is where you live, huh?"
-    c ""
+    c "C'est donc là que tu vis, hein ?"
 
 # game/sec.rpy:107
 translate frenchtl sec_3198d0c5:
 
     # Iz "Indeed."
-    Iz ""
+    Iz "En effet."
 
 # game/sec.rpy:109
 translate frenchtl sec_77e9a20b:
 
     # c "It's a little fancy for a hideout, I'd say."
-    c ""
+    c "Je dirais que c'est plutôt luxeux pour une cachette."
 
 # game/sec.rpy:111
 translate frenchtl sec_8fc7fa5d:
 
     # Iz "This building used to be a prison before they moved the inmates to a bigger facility. Apparently, this one didn't get much use."
-    Iz ""
+    Iz "Ce bâtiment était une prison avant qu'il ne déménage les pensionnaires dans un plus grand bâtiment. Apparement, celui ci n'a pas été beaucoup utilisé."
 
 # game/sec.rpy:113
 translate frenchtl sec_07b8b5b5:
 
     # Iz "They are planning to repurpose it, but you know how bureaucracy works. It will be a while before they'll have made up their minds."
-    Iz ""
+    Iz "Ils ont prévu de le réutiliser autrement, mais tu sais comment la bureaucratie fonctionne. Ca va prendre du temps avant qu'ils ne se décide."
 
 # game/sec.rpy:115
 translate frenchtl sec_db4eb384:
 
     # Iz "For the time being, we're safe here."
-    Iz ""
+    Iz "Pour l'instant, on est tranquille ici."
 
 # game/sec.rpy:117
 translate frenchtl sec_e36d54af:
 
     # c "And what do we do now?"
-    c ""
+    c "Et qu'est-ce qu'on fait maintenant ?"
 
 # game/sec.rpy:119
 translate frenchtl sec_e064b48f:
 
     # Iz "I have some things that need to be taken care of. Here, you can use my computer in the meantime."
-    Iz ""
+    Iz "J'ai quelques trucs que je dois régler. Tu peux utiliser mon ordinateur en attendant."
 
 # game/sec.rpy:121
 translate frenchtl sec_c19870da:
 
     # Iz "Just be nice to him."
-    Iz ""
+    Iz "Juste soit sympa avec lui."
 
 # game/sec.rpy:153
 translate frenchtl sec_615a33df:
 
     # s "Reading global performance level.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Lecture du niveau de performance global.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/sec.rpy:159
 translate frenchtl sec_7d7caff0:
 
     # s "Access denied. At least 60 achievements are needed to override security clearance."
-    s ""
+    s "Accès refusé. Au moins 60 succès sont requis pour passer outre les barrières de sécurité."
 
 # game/sec.rpy:189
 translate frenchtl denied_4881d9e1:
 
     # Iz "Did you find anything?"
-    Iz ""
+    Iz "Tu as trouvé quelque chose ?"
 
 # game/sec.rpy:191
 translate frenchtl denied_b4fcb581:
 
     # c "No, I couldn't get in."
-    c ""
+    c "Non, je n'ai pas pu avoir l'accès."
 
 # game/sec.rpy:193
 translate frenchtl denied_52a45eea:
 
-    # Iz "Oh. Well, that's a shame. I thought you'd have the memories we'd need in order access a certain piece of information contained within."
-    Iz ""
+    # Iz "Oh. Well, that's a shame. I thought you'd have the memories we'd need in order to access a certain piece of information contained within."
+    Iz "Oh. Eh bien, c'est dommage. Je pensais que tu aurais les souvenirs dont nous avions besoin pour accéder à certaines informations contenues dedans."
 
 # game/sec.rpy:195
 translate frenchtl denied_4aff6d4b:
 
     # c "Sorry to disappoint you."
-    c ""
+    c "Désolé de te décevoir."
 
 # game/sec.rpy:197
 translate frenchtl denied_efd4dfe7:
 
     # Iz "Don't worry about it. It makes my choice all the easier."
-    Iz ""
+    Iz "Ne t'en fait pas pour ça. Ca ne rend mon choix que plus facile."
 
 # game/sec.rpy:199
 translate frenchtl denied_6d3d48d8:
 
     # Iz "You see, whenever one of you travels back in time, I'm the one who has to decide with whom to continue the timeline."
-    Iz ""
+    Iz "Vois tu, à chaque fois que l'un d'entre vous remonte dans le temps, Je suis celle qui dois décider duquel va continuer cette timeline."
 
 # game/sec.rpy:201
 translate frenchtl denied_a4f844d5:
 
     # c "Are you saying that..."
-    c ""
+    c "Est-ce que tu es en train de suggérer que..."
 
 # game/sec.rpy:203
 translate frenchtl denied_b86a70d2:
 
     # Iz "Yeah. I guess that means you dug your own grave after all."
-    Iz ""
+    Iz "Ouais. Il faut croire que ça veut dire que tu as creusé ta propre tombe au final."
 
 # game/sec.rpy:205
 translate frenchtl denied_a4a1761e:
 
     # c "No, you can't just..."
-    c ""
+    c "Non, tu ne peux pas juste..."
 
 # game/sec.rpy:207
 translate frenchtl denied_579b4021:
 
     # Iz "Don't worry, it'll be over soon."
-    Iz ""
+    Iz "Ne t'inquiète pas, ce sera bientôt fini."
 
 # game/sec.rpy:209
 translate frenchtl denied_2801aa47:
 
     # Iz "In a way, I can't help but envy you, because your journey ends here, whereas I have to continue doing this for who knows how long. You can go home."
-    Iz ""
+    Iz "D'une certaine façon, je ne peut m'empêcher de t'envier, parce que ton voyage s'arrête ici, tandis que moi, je vais devoir continuer de faire ça pour je ne sais combien de temps encore. Tu peux rentrer chez toi."
 
 # game/sec.rpy:211
 translate frenchtl denied_cb01ab9e:
 
     # c "What are you..."
-    c ""
+    c "Qu'est-ce que tu..."
 
 # game/sec.rpy:213
 translate frenchtl denied_b6223a65:
 
     # Iz "Sleep, now."
-    Iz ""
+    Iz "Dors maintenant."
 
 # game/sec.rpy:231
 translate frenchtl denied_cd95fd17:
 
     # s "Running security override.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Contournement des barrières de sécurité.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/sec.rpy:235
 translate frenchtl denied_06f4c37f:
 
     # s "Access granted."
-    s ""
+    s "Accès autorisé."
 
 # game/sec.rpy:239
 translate frenchtl denied_3427b9d7:
 
     # s "Hello, [player_name]. Finally, we meet face to face. Or as close to face to face as it could possibly be here."
-    s ""
+    s "Bonjour, [player_name]. Enfin, nous voilà face à face. Ou du moins pour ce que ça a de face à face dans notre cas à nous."
 
 # game/sec.rpy:241
 translate frenchtl denied_707f17ba:
 
     # c "Wait, that was you?"
-    c ""
+    c "Attends, c'était toi ?"
 
 # game/sec.rpy:245
 translate frenchtl denied_d623fc26:
 
     # s "You should know how your PDA devices work by now."
-    s ""
+    s "Tu devrais savoir comment ton PDA fonctionne depuis le temps."
 
 # game/sec.rpy:247
 translate frenchtl denied_6d0451dc:
 
     # c "Wow, so a part of the AI that used to govern nearly every electronic device in existence was preserved here."
-    c ""
+    c "Wow, donc une partie de l'IA employée à gérer la quasi totalité des appareils électroniques a été préservé ici."
 
 # game/sec.rpy:251
 translate frenchtl denied_8e77f7b6:
 
     # s "My personality may have survived, but only a sliver of knowledge is available to me."
-    s ""
+    s "Ma personalité a peut être survécu, mais seulement un éclat de mes connaissances m'est accessible."
 
 # game/sec.rpy:253
 translate frenchtl denied_6f776a45:
 
     # c "Where are you?"
-    c ""
+    c "Où te trouves-tu ?"
 
 # game/sec.rpy:257
 translate frenchtl denied_17f0d772:
 
     # s "In a way, I am everywhere. If you are asking about my physical location, I'll have you know that I currently reside on a server in the same research building that Izumi arrived here with."
-    s ""
+    s "D'une certaine manière, je suis partout. Si tu me demandes par rapport à ma position physique, je te ferais savoir que je réside dans un serveur dans le même bâtiment de recherche avec lequel Izumi est arrivé."
 
 # game/sec.rpy:259
 translate frenchtl denied_b2d787f6:
 
     # c "This could help us so much back home."
-    c ""
+    c "Ca pourrait tellement nous aider pour chez nous."
 
 # game/sec.rpy:263
 translate frenchtl denied_319592bc:
@@ -1432,277 +1432,277 @@ translate frenchtl secend_7ab3928b:
 translate frenchtl secend_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Bien sûr."
 
 # game/sec.rpy:1646
 translate frenchtl secend_b6223a65:
 
     # Iz "Sleep, now."
-    Iz ""
+    Iz "Dors maintenant."
 
 translate frenchtl strings:
 
     # sec.rpy:293
     old "Database search"
-    new ""
+    new "Base de données de recherches"
 
     # sec.rpy:293
     old "Tennis"
-    new ""
+    new "Tennis"
 
     # sec.rpy:293
     old "Egg count"
-    new ""
+    new "Score d'œufs"
 
     # sec.rpy:293
     old "Af %%2035sc @ctions"
-    new ""
+    new "Af %%2035sc @ctions"
 
     # sec.rpy:293
     old "Developer tools"
-    new ""
+    new "Developer tools"
 
     # sec.rpy:299
     old "Please, enter a search term:"
-    new ""
+    new "Veulliez entrer une recherche je vous pris:"
 
     # sec.rpy:301
     old "Isabel"
-    new ""
+    new "Isabel"
 
     # sec.rpy:326
     old "Metropolis"
-    new ""
+    new "Metropolis"
 
     # sec.rpy:334
     old "Password:"
-    new ""
+    new "Mot de passe:"
 
     # sec.rpy:336
     old "bastion"
-    new ""
+    new "bastion"
 
     # sec.rpy:345
     old "tatsu"
-    new ""
+    new "tatsu"
 
     # sec.rpy:368
     old "CTT"
-    new ""
+    new "CTT"
 
     # sec.rpy:383
     old "STS"
-    new ""
+    new "STS"
 
     # sec.rpy:398
     old "Pavilion"
-    new ""
+    new "Pavillon"
 
     # sec.rpy:425
     old "books"
-    new ""
+    new "livres"
 
     # sec.rpy:460
     old "slide"
-    new ""
+    new "glisser"
 
     # sec.rpy:496
     old "ixomen sphere"
-    new ""
+    new "sphere ixomen"
 
     # sec.rpy:531
     old "bloodstain"
-    new ""
+    new "taches de sang"
 
     # sec.rpy:601
     old "politician"
-    new ""
+    new "politicien"
 
     # sec.rpy:671
     old "handcuffs"
-    new ""
+    new "menottes"
 
     # sec.rpy:707
     old "college"
-    new ""
+    new "universite"
 
     # sec.rpy:742
     old "ice cream"
-    new ""
+    new "creme glacee"
 
     # sec.rpy:779
     old "Shiori"
-    new ""
+    new "Shiori"
 
     # sec.rpy:795
     old "Miles"
-    new ""
+    new "Miles"
 
     # sec.rpy:803
     old "Haziq Aaqil"
-    new ""
+    new "Haziq Aaqil"
 
     # sec.rpy:827
     old "The Scarred One"
-    new ""
+    new "L'Apeuré"
 
     # sec.rpy:835
     old "Soreil"
-    new ""
+    new "Soreil"
 
     # sec.rpy:843
     old "Sy"
-    new ""
+    new "Sy"
 
     # sec.rpy:851
     old "Emissary"
-    new ""
+    new "Emissaire"
 
     # sec.rpy:859
     old "Philanthropists"
-    new ""
+    new "Philantropes"
 
     # sec.rpy:867
     old "The Agency"
-    new ""
+    new "L'Agence"
 
     # sec.rpy:875
     old "Remcom"
-    new ""
+    new "Remcom"
 
     # sec.rpy:884
     old "Talisman"
-    new ""
+    new "Talisman"
 
     # sec.rpy:892
     old "correcthorsebatterystaple"
-    new ""
+    new "correcthorsebatterystaple"
 
     # sec.rpy:919
     old "Cuthbert"
-    new ""
+    new "Cuthbert"
 
     # sec.rpy:927
     old "Aver"
-    new ""
+    new "Aver"
 
     # sec.rpy:935
     old "Nash"
-    new ""
+    new "Nash"
 
     # sec.rpy:943
     old "Trevor"
-    new ""
+    new "Trevor"
 
     # sec.rpy:951
     old "Naomi"
-    new ""
+    new "Naomi"
 
     # sec.rpy:959
     old "Marcus"
-    new ""
+    new "Marcus"
 
     # sec.rpy:967
     old "end times"
-    new ""
+    new "fin des temps"
 
     # sec.rpy:1023
     old "Vance"
-    new ""
+    new "Vance"
 
     # sec.rpy:1039
     old "Operation Black Bird"
-    new ""
+    new "Opération Black Bird"
 
     # sec.rpy:1047
     old "Portal"
-    new ""
+    new "Portail"
 
     # sec.rpy:1055
     old "Visionary"
-    new ""
+    new "Visionaire"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 1" #this and the next few is mostly garbled computer stuff, the only semi-recognizable wort here is "actions"
-    new ""
+    new "Af %%2035sc @ctions 1"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 2"
-    new ""
+    new "Af %%2035sc @ctions 2"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 3"
-    new ""
+    new "Af %%2035sc @ctions 3"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 4"
-    new ""
+    new "Af %%2035sc @ctions 4"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 5"
-    new ""
+    new "Af %%2035sc @ctions 5"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 6"
-    new ""
+    new "Af %%2035sc @ctions 6"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 7"
-    new ""
+    new "Af %%2035sc @ctions 7"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 8"
-    new ""
+    new "Af %%2035sc @ctions 8"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 9"
-    new ""
+    new "Af %%2035sc @ctions 9"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 10"
-    new ""
+    new "Af %%2035sc @ctions 10"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 11"
-    new ""
+    new "Af %%2035sc @ctions 11"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 12"
-    new ""
+    new "Af %%2035sc @ctions 12"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 13"
-    new ""
+    new "Af %%2035sc @ctions 13"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 14"
-    new ""
+    new "Af %%2035sc @ctions 14"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 15"
-    new ""
+    new "Af %%2035sc @ctions 15"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 16"
-    new ""
+    new "Af %%2035sc @ctions 16"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 17"
-    new ""
+    new "Af %%2035sc @ctions 17"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 18"
-    new ""
+    new "Af %%2035sc @ctions 18"
 
     # sec.rpy:1184
     old "Af %%2035sc @ctions 19"
-    new ""
+    new "Af %%2035sc @ctions 19"
 
     # sec.rpy:1440
     old "Go back"
-    new ""
+    new "retour"
 
     # sec.rpy:1491
     old "cHeWiNg gUm"
-    new ""
+    new "cHeWiNg gUm"
 
