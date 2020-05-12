@@ -346,79 +346,79 @@ translate frenchtl denied_b2d787f6:
 translate frenchtl denied_319592bc:
 
     # s "I already entered your personal device when you arrived here. You would only need to return to your own world to start spreading it to other active devices."
-    s ""
+    s "Je me suis déjà infiltré dans votre appareil personnel quand vous êtes arrivé ici. Vous n'aurez qu'à revenir dans votre monde pour commencer à me diffuser à d'autre appareils actifs."
 
 # game/sec.rpy:265
 translate frenchtl denied_55e2ce95:
 
     # c "This is unbelievable. To find someone like you in a place like this. Forget about the deal we made with the dragons. This alone means so much more."
-    c ""
+    c "C'est incroyable. De trouver quelqu'un comme toi dans un endroit pareil. Oublie le marché qu'on a passé avec les dragons. Rien que ça signifie tellement plus."
 
 # game/sec.rpy:269
 translate frenchtl denied_d8ce1f70:
 
     # s "I am glad to be of service, [player_name]."
-    s ""
+    s "Je suis heureux d'être de rendre service, [player_name]."
 
 # game/sec.rpy:271
 translate frenchtl denied_5401a521:
 
     # c "Show me what you can do."
-    c ""
+    c "Montre moi ce dont tu es capable."
 
 # game/sec.rpy:275
 translate frenchtl denied_09a2c8f2:
 
     # s "I recommend caution. My incomplete databases are unstable and prone to corruption. Don't touch anything that looks out of place if you don't know what you're doing."
-    s ""
+    s "Je recommande de la prudence. Mes bases de données incomplètes sont instables et prompts à la corruption. Ne touche rien qui n'ait pas l'air à sa place si tu ne sais pas ce que tu fais."
 
 # game/sec.rpy:277
 translate frenchtl denied_59e810c4:
 
     # c "I'll keep that in mind."
-    c ""
+    c "Je garderai ça à l'esprit."
 
 # game/sec.rpy:307
 translate frenchtl secmenu_47e8abd1:
 
     # s "[[corrupted] individual [[corrupted] Philanthropists [[corrupted]"
-    s ""
+    s "[[corrupted] indviduel [[corrupted] Philantropes [[corrupted]"
 
 # game/sec.rpy:317
 translate frenchtl noperm_2c982259:
 
     # s "Access denied."
-    s ""
+    s "Accès refusé."
 
 # game/sec.rpy:321
 translate frenchtl noperm_c8736af9:
 
     # s "It looks like you don't have the necessary permission to look at this file."
-    s ""
+    s "Il semblerait que tu n'ais pas la permission nécéssaire pour regarder dans ce fichier."
 
 # game/sec.rpy:332
 translate frenchtl noperm_a66d28c0:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:340
 translate frenchtl noperm_1cb045f3:
 
     # s "Biggest city of the new world, population roughly [[file corrupted] million."
-    s ""
+    s "La plus grande ville du nouveau monde, population d'à peu près [[file corrupted] million."
 
 # game/sec.rpy:349
 translate frenchtl noperm_f5b65cea:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:358
 translate frenchtl noperm_aa05b112:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:374
 translate frenchtl noperm_3357e22d:
