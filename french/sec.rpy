@@ -424,31 +424,31 @@ translate frenchtl noperm_aa05b112:
 translate frenchtl noperm_3357e22d:
 
     # s "[[corrupted] transferrence technology."
-    s ""
+    s "[[corrupted] technologie de transfert."
 
 # game/sec.rpy:389
 translate frenchtl noperm_8a704464:
 
     # s "[[corrupted] stabilizer technology, currently in use at [[redacted] center in order to prevent [[corrupted]"
-    s ""
+    s "[[corrupted] technologie de stabilisation, actuellement employée au centre de [[redacted] dans le but de prévenir [[corrupted]"
 
 # game/sec.rpy:404
 translate frenchtl noperm_15a2585a:
 
     # s "The attack on our [[corrupted] base with a number of casualties. It is very reminiscent of [[corrupted]"
-    s ""
+    s "L'attaque sur notre base de [[corrupted] avec un grand nombre de victimes. C'est très réminiscent de [[corrupted]"
 
 # game/sec.rpy:408
 translate frenchtl noperm_b0a71fe6:
 
     # s "However, since [[corrupted] unclear whether this might be an imitator, successor or something else, but given the previous [[corrupted] will have to be made."
-    s ""
+    s "Cependant, depuis [[corrupted] incertain de si c'est un imitateur, successeur ou autre, mais compte tenu des précédents [[corrupted] devra être effectué."
 
 # game/sec.rpy:421
 translate frenchtl noperm_a66d28c0_1:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:429
 translate frenchtl noperm_08c5237b:
@@ -460,577 +460,577 @@ translate frenchtl noperm_08c5237b:
 translate frenchtl noperm_f5b65cea_1:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:447
 translate frenchtl noperm_aa05b112_1:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:456
 translate frenchtl noperm_a66d28c0_2:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:464
 translate frenchtl noperm_293139d7:
 
     # s "[[Database corrupted] [[O]"
-    s ""
+    s "[[Database corrupted] [[O]"
 
 # game/sec.rpy:473
 translate frenchtl noperm_f5b65cea_2:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:482
 translate frenchtl noperm_aa05b112_2:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:492
 translate frenchtl noperm_a66d28c0_3:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:500
 translate frenchtl noperm_8c41280c:
 
     # s "[[Database corrupted] [[C]"
-    s ""
+    s "[[Database corrupted] [[C]"
 
 # game/sec.rpy:509
 translate frenchtl noperm_f5b65cea_3:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:518
 translate frenchtl noperm_aa05b112_3:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:527
 translate frenchtl noperm_a66d28c0_4:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:535
 translate frenchtl noperm_f6fb0d91:
 
     # s "[[Database corrupted] [[T]"
-    s ""
+    s "[[Database corrupted] [[T]"
 
 # game/sec.rpy:544
 translate frenchtl noperm_f5b65cea_4:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:553
 translate frenchtl noperm_aa05b112_4:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:562
 translate frenchtl noperm_a66d28c0_5:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:570
 translate frenchtl noperm_9169cd72:
 
     # s "[[Database corrupted] [[R]"
-    s ""
+    s "[[Database corrupted] [[R]"
 
 # game/sec.rpy:579
 translate frenchtl noperm_f5b65cea_5:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:588
 translate frenchtl noperm_aa05b112_5:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:597
 translate frenchtl noperm_a66d28c0_6:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:605
 translate frenchtl noperm_8c41280c_1:
 
     # s "[[Database corrupted] [[C]"
-    s ""
+    s "[[Database corrupted] [[C]"
 
 # game/sec.rpy:614
 translate frenchtl noperm_f5b65cea_6:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:623
 translate frenchtl noperm_aa05b112_6:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:632
 translate frenchtl noperm_a66d28c0_7:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:640
 translate frenchtl noperm_3ce6593d:
 
     # s "[[Database corrupted] [[D]"
-    s ""
+    s "[[Database corrupted] [[D]"
 
 # game/sec.rpy:649
 translate frenchtl noperm_f5b65cea_7:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:658
 translate frenchtl noperm_aa05b112_7:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:667
 translate frenchtl noperm_a66d28c0_8:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:675
 translate frenchtl noperm_15f89e5d:
 
     # s "[[Database corrupted] [[N]"
-    s ""
+    s "[[Database corrupted] [[N]"
 
 # game/sec.rpy:684
 translate frenchtl noperm_f5b65cea_8:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:693
 translate frenchtl noperm_aa05b112_8:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:703
 translate frenchtl noperm_a66d28c0_9:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:711
 translate frenchtl noperm_dfa39b6f:
 
     # s "[[Database corrupted] [[S]"
-    s ""
+    s "[[Database corrupted] [[S]"
 
 # game/sec.rpy:720
 translate frenchtl noperm_f5b65cea_9:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:729
 translate frenchtl noperm_aa05b112_9:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:738
 translate frenchtl noperm_a66d28c0_10:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:746
 translate frenchtl noperm_c51076db:
 
     # s "[[Database corrupted] [[U]"
-    s ""
+    s "[[Database corrupted] [[U]"
 
 # game/sec.rpy:755
 translate frenchtl noperm_f5b65cea_10:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:764
 translate frenchtl noperm_aa05b112_10:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:774
 translate frenchtl noperm_fa7df9bd:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:783
 translate frenchtl noperm_fa7df9bd_1:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:791
 translate frenchtl noperm_fa7df9bd_2:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:799
 translate frenchtl noperm_fa7df9bd_3:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:807
 translate frenchtl noperm_fa7df9bd_4:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:815
 translate frenchtl noperm_fa7df9bd_5:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:823
 translate frenchtl noperm_fa7df9bd_6:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:831
 translate frenchtl noperm_fa7df9bd_7:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:839
 translate frenchtl noperm_fa7df9bd_8:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:847
 translate frenchtl noperm_fa7df9bd_9:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:855
 translate frenchtl noperm_fa7df9bd_10:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:863
 translate frenchtl noperm_fa7df9bd_11:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:871
 translate frenchtl noperm_fa7df9bd_12:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:879
 translate frenchtl noperm_fa7df9bd_13:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:888
 translate frenchtl noperm_a66d28c0_11:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:896
 translate frenchtl noperm_fa7df9bd_14:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:905
 translate frenchtl noperm_f5b65cea_11:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:914
 translate frenchtl noperm_aa05b112_11:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:923
 translate frenchtl noperm_fa7df9bd_15:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:931
 translate frenchtl noperm_fa7df9bd_16:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:939
 translate frenchtl noperm_fa7df9bd_17:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:947
 translate frenchtl noperm_fa7df9bd_18:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:955
 translate frenchtl noperm_fa7df9bd_19:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:963
 translate frenchtl noperm_a66d28c0_12:
 
     # s "Hmm, it looks like this file is protected by a password."
-    s ""
+    s "Hmm, On dirait que ce fichier est protégé par un mot de passe."
 
 # game/sec.rpy:976
 translate frenchtl noperm_f5b65cea_12:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:985
 translate frenchtl noperm_aa05b112_12:
 
     # s "You have entered the wrong password. Access denied."
-    s ""
+    s "Vous avez entré le mauvais mot de passe. Accès refusé."
 
 # game/sec.rpy:994
 translate frenchtl noperm_25af6087:
 
     # s "Missing since teleportation incident. Presumed dead."
-    s ""
+    s "Disparu depuis l'incident de la téléportation. Présumé morte."
 
 # game/sec.rpy:1002
 translate frenchtl noperm_25af6087_1:
 
     # s "Missing since teleportation incident. Presumed dead."
-    s ""
+    s "Disparu depuis l'incident de la téléportation. Présumé mort."
 
 # game/sec.rpy:1010
 translate frenchtl noperm_25af6087_2:
 
     # s "Missing since teleportation incident. Presumed dead."
-    s ""
+    s "Disparu depuis l'incident de la téléportation. Présumé morte."
 
 # game/sec.rpy:1018
 translate frenchtl noperm_25af6087_3:
 
     # s "Missing since teleportation incident. Presumed dead."
-    s ""
+    s "Disparu depuis l'incident de la téléportation. Présumé mort."
 
 # game/sec.rpy:1027
 translate frenchtl noperm_fa7df9bd_20:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:1035
 translate frenchtl noperm_fa7df9bd_21:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:1043
 translate frenchtl noperm_fa7df9bd_22:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:1051
 translate frenchtl noperm_fa7df9bd_23:
 
     # s "[[Database corrupted]"
-    s ""
+    s "[[Database corrupted]"
 
 # game/sec.rpy:1059
 translate frenchtl noperm_fff001ad:
 
     # s "[[corrupted] real name [[corrupted] likes chewing gum."
-    s ""
+    s "[[corrupted] de son vrai nom [[corrupted] aime le chewing gum."
 
 # game/sec.rpy:1067
 translate frenchtl noperm_56cb2696:
 
     # s "No results found."
-    s ""
+    s "Aucun résultat trouvé."
 
 # game/sec.rpy:1081
 translate frenchtl noperm_84d6bbbf:
 
     # s "You want to play a game? Be my guest."
-    s ""
+    s "Tu veux jouer à un jeu ? Fais donc."
 
 # game/sec.rpy:1085
 translate frenchtl noperm_7e681612:
 
     # s "I'll have to warn you, though. I'm absolutely ruthless."
-    s ""
+    s "Je vais devoir te prévenir, cependant. Je suis impitoyable."
 
 # game/sec.rpy:1126
 translate frenchtl noperm_8c9a78ee:
 
     # s "Hah. Told you."
-    s ""
+    s "Hah. Je te l'avais dit."
 
 # game/sec.rpy:1130
 translate frenchtl noperm_84c0fcc5:
 
     # s "That was fun, though. I'm up for a rematch if you are."
-    s ""
+    s "Mais c'était amusant. Je suis partant pour une revanche si tu en es."
 
 # game/sec.rpy:1138
 translate frenchtl noperm_571a8edb:
 
     # s "You got me there. That was fun, though."
-    s ""
+    s "Tu m'as bien eu sur celle là. C'était fun."
 
 # game/sec.rpy:1145
 translate frenchtl noperm_acd73aeb:
 
     # s "Hmm, it looks like accessing these data points for the game also enabled me to find a link to an unrelated item."
-    s ""
+    s "Hmm, il semblerait qu'accéder à ces points de données pour le jeu m'ont permis de trouver un lien vers un item sans rapport."
 
 # game/sec.rpy:1149
 translate frenchtl noperm_8ddd0f54:
 
     # s "It doesn't look complete, but I'll add it to the menu regardless."
-    s ""
+    s "Ca n'a pas l'air complet, mais je vais quand même l'ajouter au menu."
 
 # game/sec.rpy:1160
 translate frenchtl noperm_dcc79b45:
 
     # s "I'm up for a rematch if you are."
-    s ""
+    s "Je suis partant pour une revanche si tu en es."
 
 # game/sec.rpy:1173
 translate frenchtl noperm_44ae90fa:
 
     # s "Retrieving global statistics.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Recherches des statistiques globales.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/sec.rpy:1177
 translate frenchtl noperm_298c7008:
 
     # s "Total eggs smashed in senseless violence: [persistent.c1eggnumber]"
-    s ""
+    s "Total des œufs détruits dans une violence insensée : [persistent.c1eggnumber]"
 
 # game/sec.rpy:1190
 translate frenchtl noperm_f0facc53:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1206
 translate frenchtl noperm_b5a5d467:
 
     # s "Database permissions have been upgraded. You should be able to access some files now that you weren't able to read before."
-    s ""
+    s "Les permissions des bases de données ont été mises à jours. Tu devrais être capable d'accéder à certains fichiers que tu ne pouvais pas lire avant."
 
 # game/sec.rpy:1216
 translate frenchtl noperm_f0facc53_1:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1224
 translate frenchtl noperm_f0facc53_2:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1232
 translate frenchtl noperm_f0facc53_3:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1240
 translate frenchtl noperm_f0facc53_4:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1248
 translate frenchtl noperm_f0facc53_5:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1256
 translate frenchtl noperm_f0facc53_6:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1264
 translate frenchtl noperm_f0facc53_7:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1272
 translate frenchtl noperm_f0facc53_8:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1280
 translate frenchtl noperm_f0facc53_9:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1288
 translate frenchtl noperm_f0facc53_10:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1304
 translate frenchtl noperm_ed908b4e:
@@ -1066,37 +1066,37 @@ translate frenchtl noperm_89aefe22:
 translate frenchtl noperm_f0facc53_11:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1338
 translate frenchtl noperm_f0facc53_12:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1346
 translate frenchtl noperm_f0facc53_13:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1354
 translate frenchtl noperm_f0facc53_14:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1362
 translate frenchtl noperm_f0facc53_15:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1370
 translate frenchtl noperm_f0facc53_16:
 
     # s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
-    s ""
+    s "ERROR: Fatal exception occured in 03XS:25831 in Socket base 12. No such connection exists. Program shutdown."
 
 # game/sec.rpy:1383
 translate frenchtl noperm_f9c3564a:
@@ -1240,79 +1240,79 @@ translate frenchtl secend_76b2fe88:
 translate frenchtl secend_53d5ed48:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1565
 translate frenchtl secend_53d5ed48_1:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1567
 translate frenchtl secend_53d5ed48_2:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1569
 translate frenchtl secend_53d5ed48_3:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1571
 translate frenchtl secend_53d5ed48_4:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1573
 translate frenchtl secend_53d5ed48_5:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1575
 translate frenchtl secend_53d5ed48_6:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1577
 translate frenchtl secend_53d5ed48_7:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1579
 translate frenchtl secend_53d5ed48_8:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1581
 translate frenchtl secend_53d5ed48_9:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1583
 translate frenchtl secend_53d5ed48_10:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1585
 translate frenchtl secend_53d5ed48_11:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1587
 translate frenchtl secend_53d5ed48_12:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1594
 translate frenchtl secend_53062eb1:
