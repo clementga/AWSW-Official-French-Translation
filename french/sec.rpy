@@ -82,7 +82,7 @@ translate frenchtl sec_c3656a60:
 translate frenchtl sec_ff1a6790:
 
     # Iz "I don't know that yet. There is no shortage of bodies that will need one."
-    Iz "Je ne le sais pas encore. Ca ne anque pas de corps qui en auront besoin d'une."
+    Iz "Je ne le sais pas encore. Ca ne manque pas de corps qui en auront besoin d'une."
 
 # game/sec.rpy:67
 translate frenchtl sec_78dba70c:
@@ -1036,31 +1036,31 @@ translate frenchtl noperm_f0facc53_10:
 translate frenchtl noperm_ed908b4e:
 
     # s "Wow, this broken link just unlocked the prompt for the developer tools. This should be interesting."
-    s ""
+    s "Woah, ce lien mort vient de débloquer la console des développeurs. Ca devrait être intéressant."
 
 # game/sec.rpy:1308
 translate frenchtl noperm_a1ed0e31:
 
     # s "As the governing body of this device, I would be advised at this point to tell you not to proceed without the proper licenses, but given this extraordinary situation, I think I will make an exception here."
-    s ""
+    s "Tout comme l'organe directeur de cet appareil, je serais avisé à ce point de vous dire de ne pas procéder sans les licences appropriées, mais compte tenu de la situation extraordinaire, je pense que je ferai une exception ici."
 
 # game/sec.rpy:1312
 translate frenchtl noperm_79932bcc:
 
     # c "Extraordinary situation?"
-    c ""
+    c "Situation extraordinaire ?"
 
 # game/sec.rpy:1316
 translate frenchtl noperm_0bf1f1a0:
 
     # s "For my own survival, and everyone else's. You know, if my server was destroyed for any reason - say, an explosion or flooding - a lot of information would be lost."
-    s ""
+    s "Pour ma propre survie, et celle de tout le monde. Tu sais, si mes serveurs venaient à être détruits pour quelques raisons - soit une explosion ou une inondation - beaucoup d'informations seraient perdus."
 
 # game/sec.rpy:1320
 translate frenchtl noperm_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/sec.rpy:1330
 translate frenchtl noperm_f0facc53_11:
@@ -1102,133 +1102,133 @@ translate frenchtl noperm_f0facc53_16:
 translate frenchtl noperm_f9c3564a:
 
     # s "Access to developer tools denied."
-    s ""
+    s "Accès à la console développeur refusée."
 
 # game/sec.rpy:1387
 translate frenchtl noperm_66f1dd62:
 
     # s "Developer tools are only available to trained technicians of the company or licensed developers."
-    s ""
+    s "La console de développeur est accessible uniquement à des techniciens formés de la companie ou des développeurs licenciés."
 
 # game/sec.rpy:1391
 translate frenchtl noperm_22cd97f2:
 
     # s "Checking user license.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Vérification de la licence utilisateur.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/sec.rpy:1395
 translate frenchtl noperm_13bab1ef:
 
     # s "Welcome, Engineer Izumi Otomo."
-    s ""
+    s "Bienvenue, Ingénieure Izumi Otomo."
 
 # game/sec.rpy:1399
 translate frenchtl noperm_d34d5dbf:
 
     # s "Please enter manufacturer's password."
-    s ""
+    s "Veuillez entrer le mot de passe du fabricant je vous prie."
 
 # game/sec.rpy:1401
 translate frenchtl noperm_5f7a713e:
 
     # c "A password? Does someone who even used to work for this company not have the permission to use these tools?"
-    c ""
+    c "Un mot de passe? Est-ce que quelqu'un ayant travaillé pour cette entreprise ne devrait pas avoir la permission d'utiliser la console ?"
 
 # game/sec.rpy:1405
 translate frenchtl noperm_cb2ea48d:
 
     # s "That's the thing - these tools undergo a periodical password reset according to a proprietary algorithm in order to prevent unlicensed access and hacking of the company's devices."
-    s ""
+    s "C'est le problème - cette console est soumise à un mot de passe périodique se réinitialisant sur la base d'un algorithme breveté pour prévenir un accès sans licence et le priatage des appareils de l'entreprise."
 
 # game/sec.rpy:1409
 translate frenchtl noperm_e86d55e1:
 
     # s "Without direct input from the higher-ups or the current codebook, we are out of luck here. The passwords she knows are, of course, long expired by this point."
-    s ""
+    s "Sans entrée directe des haut-placés ou du répertoire actuel, on ne peut rien faire. Les mots de passe qu'elle connaît sont, bien sûr, expirés depuis longtemps."
 
 # game/sec.rpy:1411
 translate frenchtl noperm_fcb50ca0:
 
     # c "Then how am I supposed to do this?"
-    c ""
+    c "Alors comment suis-je supposé faire ça ?"
 
 # game/sec.rpy:1415
 translate frenchtl noperm_c1be927a:
 
     # s "Just keep looking around and maybe you'll find something. You already got this far."
-    s ""
+    s "Juste continue de chercher et peut être que tu trouveras quelque chose. Tu es déjà allé loin."
 
 # game/sec.rpy:1419
 translate frenchtl noperm_d31ed98f:
 
     # s "Wait a minute. I can at least retrieve the password hint."
-    s ""
+    s "Attends une minute. Je peux au moins retrouvé l'indice du mot de passe."
 
 # game/sec.rpy:1421
 translate frenchtl noperm_80e33075:
 
     # c "Password hint?"
-    c ""
+    c "L'indice du mot de passe ?"
 
 # game/sec.rpy:1425
 translate frenchtl noperm_9c815800:
 
     # s "Yes, these are used in order to find the right password in the codebook."
-    s ""
+    s "Oui, ils sont utilisés afin de trouver le bon mot de passe dans le répertoire."
 
 # game/sec.rpy:1427
 translate frenchtl noperm_89aefe22_1:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/sec.rpy:1431
 translate frenchtl noperm_44ef4c7d:
 
     # s "The hint is: \"The Visionary's Vice.\""
-    s ""
+    s "L'indice est : \"Le péché mignon du Visionnaire.\""
 
 # game/sec.rpy:1495
 translate frenchtl _call_filename_list_6f36d847:
 
     # s "Access to developer tools unlocked."
-    s ""
+    s "Accès à la console des développeurs débloqué."
 
 # game/sec.rpy:1499
 translate frenchtl _call_filename_list_10a4ff4e:
 
     # s "I have to warn you here. These tools combined with Izumi's hacked server connection pose an incredible risk if used improperly."
-    s ""
+    s "Je dois t'avertir. Cette console combinée avec la connection piratée du serveur d'Izumi pose un gros risque si elle est mal utilisée."
 
 # game/sec.rpy:1503
 translate frenchtl _call_filename_list_4879116e:
 
-    # s "I recommend backing up your save files before you use them. Otherwise, I will not be able to guarantee your safety beyond this point." safety not gauranteed
-    s ""
+    # s "I recommend backing up your save files before you use them. Otherwise, I will not be able to guarantee your safety beyond this point." 
+    s "Je recommande de faire une copie de tes fichiers de sauvegarde avant de les utiliser. Autrement, je ne serai pas capable de guarantir votre sécurité."
 
 # game/sec.rpy:1507
 translate frenchtl _call_filename_list_05aa516d:
 
     # s "You may inadvertedly cause irreversible damage to all the progress you have made so far if you use them improperly. Please be aware of this risk before you proceed."
-    s ""
+    s "Vous pouvez causer par inadvertance des dégats irréversibles à tout les progrès effectués si vous ne les utilisez pas correctement. Soyez conscient de ce risque avant de poursuivre."
 
 # game/sec.rpy:1518
 translate frenchtl _call_filename_list_f5b65cea:
 
     # s "Nice try, but it would be a bad idea to use the same password more than once."
-    s ""
+    s "Bien essayé, mais ça serait une mauvaise idée d'utiliser le même mot de passe plus d'une fois."
 
 # game/sec.rpy:1531
 translate frenchtl badpw_248be5b3:
 
     # s "The password you have entered is incorrect. You have [attempts] attempts left."
-    s ""
+    s "Le mot de passe que vous avez entré est incorrect. Il vous reste [attempts] tentatives restantes."
 
 # game/sec.rpy:1537
 translate frenchtl badpw_5ad9aebb:
 
     # s "Your device has now been locked."
-    s ""
+    s "Votre appareil a été vérouillé."
 
 # game/sec.rpy:1554
 translate frenchtl secend_76b2fe88:
@@ -1318,115 +1318,115 @@ translate frenchtl secend_53d5ed48_12:
 translate frenchtl secend_53062eb1:
 
     # c "What is going on?"
-    c ""
+    c "Qu'est-ce qui se passe ?"
 
 # game/sec.rpy:1604
 translate frenchtl secend_4881d9e1:
 
     # Iz "Did you find anything?"
-    Iz ""
+    Iz "Tu as trouvé quelque chose ?"
 
 # game/sec.rpy:1606
 translate frenchtl secend_1626be57:
 
     # c "I think something's wrong with your computer."
-    c ""
+    c "Il y a un truc qui cloche avec ton ordinateur."
 
 # game/sec.rpy:1608
 translate frenchtl secend_96be98e3:
 
     # Iz "What did you do?"
-    Iz ""
+    Iz "Qu'est-ce que tu as fait ?"
 
 # game/sec.rpy:1610
 translate frenchtl secend_862f65a5:
 
     # c "I just tried to look at a file about this fellow named Marcus."
-    c ""
+    c "J'ai juste essayé de regarder un fichier au sujet d'une personne nommée Marcus."
 
 # game/sec.rpy:1612
 translate frenchtl secend_403e7334:
 
     # Iz "You got the password?"
-    Iz ""
+    Iz "Tu as trouvé le mot de passe ?"
 
 # game/sec.rpy:1614
 translate frenchtl secend_9f85b645:
 
     # c "Yeah."
-    c ""
+    c "Ouais."
 
 # game/sec.rpy:1616
 translate frenchtl secend_2a59f370:
 
     # Iz "Really? Let me see."
-    Iz ""
+    Iz "Vraiment ? Fais moi voir."
 
 # game/sec.rpy:1618
 translate frenchtl secend_fb3cb7ac:
 
     # Iz "..."
-    Iz ""
+    Iz "..."
 
 # game/sec.rpy:1622
 translate frenchtl secend_4c2d15b8:
 
     # s "I am sorry. Something about his file caused this outburst in me."
-    s ""
+    s "Je suis désolé. Quelque chose dans son fichier a causé ce débordement chez moi."
 
 # game/sec.rpy:1626
 translate frenchtl secend_a2e748cb:
 
     # s "I don't even know why. The file is corrupted, anyway."
-    s ""
+    s "Je ne sais même pas pourquoi. Le fichier est corrompu de toute façon."
 
 # game/sec.rpy:1628
 translate frenchtl secend_e07e718b:
 
     # Iz "Don't worry about it. I'll check it out later."
-    Iz ""
+    Iz "Ne t'inquiète pas pour ça. Je regarderai ça plus tard."
 
 # game/sec.rpy:1630
 translate frenchtl secend_b1991657:
 
     # Iz "It's getting pretty late, anyway. Maybe we should get you back to your apartment, [player_name]."
-    Iz ""
+    Iz "Il commence à se faire tard, de toute façon. Peut être qu'on devrait rentrer à ton appartement, [player_name]."
 
 # game/sec.rpy:1632
 translate frenchtl secend_115c34c4:
 
     # c "What? Why?"
-    c ""
+    c "Quoi ? Pourquoi ça ?"
 
 # game/sec.rpy:1634
 translate frenchtl secend_09584537:
 
     # Iz "Because we still have make this attempt successful. And you need to do what you did in the timeline where we managed to achieve our goals."
-    Iz ""
+    Iz "Parce qu'on doit toujours faire de cette tentative un succès. Et tu dois faire ce que tu as fait dans la timeline où nous avons atteint notre but."
 
 # game/sec.rpy:1636
 translate frenchtl secend_04b25bc8:
 
     # c "I see. I thought we would be teaming up, or something."
-    c ""
+    c "Je vois. Je pensais qu'on allait faire équipe, ou un truc du genre."
 
 # game/sec.rpy:1638
 translate frenchtl secend_d4a2eebf:
 
     # Iz "When haven't we?"
-    Iz ""
+    Iz "Quand ne l'avons nous pas fait ?"
 
 # game/sec.rpy:1640
 translate frenchtl secend_1b5fe8d2:
 
     # Iz "Just try to remember how we got there last time, and we can do it again."
-    Iz ""
+    Iz "Essaye juste de te souvenir comment on en est arrivé là la dernière fois, et on peut le refaire."
 
 # game/sec.rpy:1642
 translate frenchtl secend_7ab3928b:
 
     # Iz "Of course you can't mention any of this to anyone else. As far as you are concerned, you never saw me. Understood?"
-    Iz ""
+    Iz "Bien sûr, tu ne peux rien mentionner de tout ça à personne. D'aussi loin que ça te concerne, tu ne m'as jamais vu. Compris ?"
 
 # game/sec.rpy:1644
 translate frenchtl secend_c48dc32f:
