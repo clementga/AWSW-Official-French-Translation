@@ -1240,79 +1240,79 @@ translate frenchtl secend_76b2fe88:
 translate frenchtl secend_53d5ed48:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1565
 translate frenchtl secend_53d5ed48_1:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1567
 translate frenchtl secend_53d5ed48_2:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1569
 translate frenchtl secend_53d5ed48_3:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1571
 translate frenchtl secend_53d5ed48_4:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1573
 translate frenchtl secend_53d5ed48_5:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1575
 translate frenchtl secend_53d5ed48_6:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1577
 translate frenchtl secend_53d5ed48_7:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1579
 translate frenchtl secend_53d5ed48_8:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1581
 translate frenchtl secend_53d5ed48_9:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1583
 translate frenchtl secend_53d5ed48_10:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1585
 translate frenchtl secend_53d5ed48_11:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1587
 translate frenchtl secend_53d5ed48_12:
 
     # n "{cps=150}Do not believe his lies. Do not believe his lies. Do not believe his lies. Do not believe his lies.{/cps}{nw}"
-    n ""
+    n "{cps=150}Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges. Ne crois pas ses mensonges.{/cps}{nw}"
 
 # game/sec.rpy:1594
 translate frenchtl secend_53062eb1:
