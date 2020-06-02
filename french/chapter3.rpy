@@ -5055,19 +5055,19 @@ translate french _call_syscheck_19_76b2fe88_1:
 translate french _call_syscheck_19_ee3bcbd5:
 
     # n "According to the report, the investigation of the building was halted due to the acute danger of its collapse, and the damage that the surrounding water could cause."
-    n ""
+    n "D'après le rapport, l'inspection du bâtiment fut interrompue dû au risque élevé de son éffondrement, et les dégâts que pourraient causer les poches d'eau environnantes."
 
 # game/chapter3.rpy:3639
 translate french _call_syscheck_19_acb4214c:
 
     # n "Since the building had unknown historical and technological value, there was a plan in place to drain the water pockets. The legal permissions had not yet gone through, however, and it would take some time for the equipment to arrive."
-    n ""
+    n "Et comme le bâtiment a une histoire inconnue et une valeur technologique, il y eut un plan mis en place pour drainer les poches d'eau. Les permissions légales n'avaient cependant pas encore été donné, et l'équipement mettrait du temps à arriver."
 
 # game/chapter3.rpy:3641
 translate french _call_syscheck_19_240ed26c:
 
     # n "For now, the building was stable as long as it remained undisturbed, but for obvious reasons, no one was allowed to enter. There were patrols guarding it day and night."
-    n ""
+    n "Pour l'instant, la structure était stable aussi longtemps qu'elle demeurait non perturbée, mais pour des raisons évidentes, personne n'était autorisé à rentrer. Il y avait des patrouilles la guardant jour et nuit."
 
 # game/chapter3.rpy:3645
 translate french _call_syscheck_19_76b2fe88_2:
@@ -5079,109 +5079,109 @@ translate french _call_syscheck_19_76b2fe88_2:
 translate french _call_syscheck_19_3decdb96:
 
     # c "(Okay, here we go.)"
-    c ""
+    c "(Ok, allons-y.)"
 
 # game/chapter3.rpy:3661
 translate french _call_syscheck_19_17c0dd7c:
 
     # c "(That should do it.)"
-    c ""
+    c "(Ca devrait le faire.)"
 
 # game/chapter3.rpy:3663
 translate french _call_syscheck_19_0e66599c:
 
     # m "I wasn't sure when Bryce was going to be in his office again, but when he returned, he would definitely notice this."
-    m ""
+    m "Je ne savais pas quand Bryce allait revenir dans son bureau, mais quand il allait revenir, Il remarquerait ça pour sûr."
 
 # game/chapter3.rpy:3682
 translate french _call_syscheck_20_efb683aa:
 
     # s "You pranked Bryce!"
-    s ""
+    s "Tu as fait une farce à Bryce!"
 
 # game/chapter3.rpy:3686
 translate french _call_syscheck_20_06fe5d86:
 
     # s "You pranked Bryce. My condolences to him."
-    s ""
+    s "Tu as fait une farce à Bryce. Mes condoléances pour lui."
 
 # game/chapter3.rpy:3690
 translate french _call_syscheck_20_0839c1ef:
 
     # s "You pranked Bryce. You naughty, naughty person."
-    s ""
+    s "Tu as fait une farce à Bryce. Ca pour être espiègle."
 
 # game/chapter3.rpy:3704
 translate french _call_syscheck_20_4c34f1c4:
 
     # c "(Alright, here goes nothing.)"
-    c ""
+    c "(Bon, quand faut y aller.)"
 
 # game/chapter3.rpy:3719
 translate french _call_syscheck_20_c9264d06:
 
     # c "(Huh, what's this?)"
-    c ""
+    c "(Hein, C'est quoi ça ?)"
 
 # game/chapter3.rpy:3721
 translate french _call_syscheck_20_5804c28d:
 
     # c "(It's a flat base, with a circular indent at the top.)"
-    c ""
+    c "(C'est un socle plat, avec un renfoncement creux sur le dessus.)"
 
 # game/chapter3.rpy:3725
 translate french _call_syscheck_20_2f574f4b:
 
     # c "(Where have I seen this before?)"
-    c ""
+    c "(Où est-ce que j'ai pu voir ça avant ?)"
 
 # game/chapter3.rpy:3727
 translate french _call_syscheck_20_1bb80a09:
 
     # c "(Oh, right. It's an Ixomen Sphere part.)"
-    c ""
+    c "(Oh oui. C'est une partie de la sphère Ixomène.)"
 
 # game/chapter3.rpy:3734
 translate french _call_syscheck_21_444f6d6f:
 
     # s "You acquired an Ixomen Sphere part (Base)! {image=image/ui/status/base_taken.png}"
-    s ""
+    s "Vous avez acquis une partie de la sphère Ixomène (le Socle)! {image=image/ui/status/base_taken.png}"
 
 # game/chapter3.rpy:3739
 translate french _call_syscheck_21_a3352dcc:
 
     # c "(It looks like it could be useful. If nothing else, it might make a nice souvenir.)"
-    c ""
+    c "(Ca pourrait être utile. Sinon, ça pourrait faire un chouette souveninr.)"
 
 # game/chapter3.rpy:3747
 translate french _call_syscheck_22_0068750f:
 
     # s "You acquired a mysterious base! {image=image/ui/status/base_taken.png}"
-    s ""
+    s "Vous avez acquis un mytérieux socle! {image=image/ui/status/base_taken.png}"
 
 # game/chapter3.rpy:3751
 translate french _call_syscheck_22_5c782f01:
 
     # s "You acquired a mysterious base. How basic. {image=image/ui/status/base_taken.png}"
-    s ""
+    s "Vous avez acquis un mytérieux socle. le socle de connaissances inconnues. {image=image/ui/status/base_taken.png}"
 
 # game/chapter3.rpy:3755
 translate french _call_syscheck_22_f79a1de5:
 
     # s "You acquired a mysterious base. Now you only have to find something vaguely spherical to put in it. {image=image/ui/status/base_taken.png}"
-    s ""
+    s "Vous avez acquis un mytérieux socle. Maintenant vous n'avez plus qu'à trouver quelque chose de vaguement sphérique à mettre dedans. {image=image/ui/status/base_taken.png}"
 
 # game/chapter3.rpy:3760
 translate french _call_syscheck_22_0a67191b:
 
     # c "(There doesn't seem to be anything useful here.)"
-    c ""
+    c "(Il ne semble y avoir rien d'utile ici.)"
 
 # game/chapter3.rpy:3774
 translate french _call_syscheck_22_2cf8fe10:
 
     # c "(Huh, look at the time. I better wrap it up here.)"
-    c ""
+    c "(Oh, regarde l'heure. Je ferais mieux de rembaler et partir.)"
 
 # game/chapter3.rpy:3810
 translate french c3sto_bd0329ac:
