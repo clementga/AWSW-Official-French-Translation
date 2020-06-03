@@ -34,10 +34,10 @@ bryce2 ✔<br/>
 lorem2 ✔✔<br/>
 remy2 ✔<br/>
 xemera ✔<br/>
-xzhong ✔ (à reprendre)<br/>
+xzhong ✔<br/>
 chapter3 En cours (BananaSplit2)<br/>
-adine3 En cours (alpha the dragon)<br/>
-anna3 En cours (Obscurity Dragon)<br/>
+adine3 ✔<br/>
+anna3 ✔<br/>
 bryce3 ✔<br/>
 lorem3 ✔<br/>
 remy3 ✔<br/>
