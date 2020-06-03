@@ -5187,163 +5187,163 @@ translate french _call_syscheck_22_2cf8fe10:
 translate french c3sto_bd0329ac:
 
     # c "(Who's he talking to?)"
-    c ""
+    c "(A qui est-il en train de parler ?)"
 
 # game/chapter3.rpy:3820
 translate french c3sto_4dce18a1:
 
     # c "(Oh, it's her again.)"
-    c ""
+    c "(Oh, c'est encore elle.)"
 
 # game/chapter3.rpy:3826
 translate french c3sto_01bee951:
 
     # c "(Hey, I think I've seen her before.)"
-    c ""
+    c "(Hey, Il me semble l'avoir vu auparavant.)"
 
 # game/chapter3.rpy:3835
 translate french c3sto_8d6362b2:
 
     # St "If you've mixed up the prescriptions again, then I can't help you. I can't refill this one."
-    St ""
+    St "Si tu as encore confondu les ordonances, Je ne peux pas t'aider pour le coup. Je ne peux pas te réapprovisionner."
 
 # game/chapter3.rpy:3839
 translate french c3sto_9e8d2247:
 
     # St "We're just about to close, so you'll have to bring the right one tomorrow."
-    St ""
+    St "Nous sommes sur le point de fermer, donc tu devras ramener la bonne demain."
 
 # game/chapter3.rpy:3849
 translate french c3sto_90c9ae06:
 
     # St "Hello, [player_name]. How can I help you?"
-    St ""
+    St "Bonjour, [player_name]. Comment puis-je t'aider ?"
 
 # game/chapter3.rpy:3853
 translate french c3sto_90c9ae06_1:
 
     # St "Hello, [player_name]. How can I help you?"
-    St ""
+    St "Bonjour, [player_name]. Comment puis-je t'aider ?"
 
 # game/chapter3.rpy:3855
 translate french c3sto_208bd904:
 
     # c "Wait, aren't you the bartender from the other day?"
-    c ""
+    c "Attendez, vous seriez pas le barman de l'autre jour ?"
 
 # game/chapter3.rpy:3857
 translate french c3sto_12259c4a:
 
     # St "That I am."
-    St ""
+    St "C'est moi, oui."
 
 # game/chapter3.rpy:3862
 translate french c3sto_90c9ae06_2:
 
     # St "Hello, [player_name]. How can I help you?"
-    St ""
+    St "Bonjour, [player_name]. Comment puis-je vous aider ?"
 
 # game/chapter3.rpy:3864
 translate french c3sto_f1c349e2:
 
     # c "You know who I am?"
-    c ""
+    c "Vous savez qui je suis ?"
 
 # game/chapter3.rpy:3866
 translate french c3sto_3d02bb5e:
 
     # St "How could I not? Everyone knows about you."
-    St ""
+    St "Pourquoi ne le saurai-je pas ? Tout le monde vous connaît."
 
 # game/chapter3.rpy:3869
 translate french c3sto_1bec09e5:
 
     # St "Actually, I'm just about to close up here, so please make it quick."
-    St ""
+    St "En fait, Je m'apprêtais à fermer, donc est-ce que vous pouvez faire vite."
 
 # game/chapter3.rpy:3871
 translate french c3sto_9d4723cf:
 
     # c "I'm here on behalf of the police, and I was hoping that you could answer a few questions."
-    c ""
+    c "Je suis ici au nom de la police, et j'espéraique vous pourriez répondre à quelques questions."
 
 # game/chapter3.rpy:3873
 translate french c3sto_d534d27e:
 
     # St "I see. Well, I don't mind as long as you make it quick. I have to leave for my other job soon."
-    St ""
+    St "Je vois. Eh bien, ça ne me dérange pas du moment que vous faites vite. Je dois bientôt partir pour mon autre travail."
 
 # game/chapter3.rpy:3879
 translate french c3sto_e5690abb:
 
     # St "Vara, what are you still doing here? I already told you. You have to come back tomorrow."
-    St ""
+    St "Vara, qu'est-ce que tu fais encore ici ? Je te l'ai déjà dit. Tu dois revenir demain."
 
 # game/chapter3.rpy:3881
 translate french c3sto_4a9dff6c:
 
     # St "Here, have a lolly on the house."
-    St ""
+    St "Tiens, voilà une sucette, c'est cadeau."
 
 # game/chapter3.rpy:3899
 translate french c3sto_808e4282:
 
     # St "I guess she doesn't want it."
-    St ""
+    St "Il faut croire qu'elle n'en veut pas."
 
 # game/chapter3.rpy:3903
 translate french c3sto_3d99ceef:
 
     # c "What's the deal with her?"
-    c ""
+    c "Qu'est-ce qui lui arrive ?"
 
 # game/chapter3.rpy:3907
 translate french c3sto_e6674300:
 
     # St "She comes here occasionally to pick up her mother's prescription."
-    St ""
+    St "Elle vient de temps en temps to prendre la prescription de sa mère."
 
 # game/chapter3.rpy:3914
 translate french c3sto_bd179b8b:
 
     # St "I'm not sure what's up with her lately. This isn't the first time this has happened. One time the doctor forgets to issue a new prescription, another time she brings me an expired one instead of the new one."
-    St ""
+    St "Je ne sais pas ce qu'elle a ces temps-ci. Ce n'est pas la première fois que c'est arrivé. Une fois c'est le médecin qui oublie de lui donner une nouvelle ordonance, une autre fois elle m'en amène une expirée au lieu de la nouvelle."
 
 # game/chapter3.rpy:3916
 translate french c3sto_a1caa2af:
 
     # St "She isn't exactly the brightest, but this is unusual even for her."
-    St ""
+    St "Ce n'est pas vraiment une lumière, mais même pour elle c'est inhabituel."
 
 # game/chapter3.rpy:3918
 translate french c3sto_25e1c4dd:
 
     # St "So, what did you want to know?"
-    St ""
+    St "Donc, qu'est-ce que vous voulez savoir ?"
 
 # game/chapter3.rpy:3949
 translate french stay_381ecd72:
 
     # c "As I said, this is about an ongoing police investigation. You reported seeing something yesterday evening, and any information you have could help."
-    c ""
+    c "Comme je l'ai dit, c'est au sujet d'un enquête policière en cours. Vous avez rapporté avoir vu quelque chose hier soir, et toute information que vous pouvez avoir pourait aider."
 
 # game/chapter3.rpy:3951
 translate french stay_0a296b2b:
 
     # c "Can you tell me exactly what happened?"
-    c ""
+    c "Pouvez-vous me dire ce qu'il s'est passé exactement ?"
 
 # game/chapter3.rpy:3953
 translate french stay_68c069ae:
 
     # St "Of course. This was after I came back from my second job, so around two or three in the morning."
-    St ""
+    St "Bien sûr. C'était après être sorti de mon deuxième emploi, donc aux alentours de deux ou trois heurs du matin."
 
 # game/chapter3.rpy:3955
 translate french stay_44e0b6ca:
 
     # St "It was dark, and I couldn't make out much, but the police requested that anything unusual be reported."
-    St ""
+    St "Il faisait sombre, et je n'y voyais pas grand chose, mais la police a demandé à ce qu'on témoigne de toute activité inhabituelle."
 
 # game/chapter3.rpy:3957
 translate french stay_fe02862e:
