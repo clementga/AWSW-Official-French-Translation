@@ -5349,337 +5349,337 @@ translate french stay_44e0b6ca:
 translate french stay_fe02862e:
 
     # c "And what did you see?"
-    c ""
+    c "Et qu'avez-vous vu ?"
 
 # game/chapter3.rpy:3959
 translate french stay_de400c9a:
 
     # St "There was a human-like figure walking away from the production facility. Seemed to be in a hurry, too."
-    St ""
+    St "Il y avait une figure d'aparence humaine s'éloignant du labo de production. Elle semblait être pressée, également."
 
 # game/chapter3.rpy:3961
 translate french stay_b7b5eaef:
 
     # c "And you are sure this was a human?"
-    c ""
+    c "Et vous $etes sûre que c'était un humain ?"
 
 # game/chapter3.rpy:3963
 translate french stay_f0ac37a9:
 
     # St "Unmistakably so. I couldn't make out any details, though. Honestly, if you were the figure, I wouldn't have been able to tell the difference."
-    St ""
+    St "Pas de doutes là dessus. Je n'ai pas plus de détails, en revanche. Honnêtement, si vous aviez été cette personne, je n'aurais pas été capable de faire la différence."
 
 # game/chapter3.rpy:3965
 translate french stay_7e485505:
 
     # c "What did you do when you saw it?"
-    c ""
+    c "Qu'est-ce que vous avez fait quand vous l'avez vu ?"
 
 # game/chapter3.rpy:3967
 translate french stay_19fb6a38:
 
     # St "Nothing. I was on my way home, and it was a little unusual, but I wouldn't have bothered to mention it under normal circumstances. I only did because of the police's request for witnesses."
-    St ""
+    St "Rien. J'étais en train de rentrer chez moi, et c'était plutôt inhabituel, mais je n'aurais pas pris la peine de le mentionner dans des circonstances normales. Je l'ai fait seulement parce que la police a lancé un appel à témoins."
 
 # game/chapter3.rpy:3969
 translate french stay_c99cabc4:
 
     # c "Do you know what direction the person went?"
-    c ""
+    c "Vous savez dans quelle direction la personne est partie ?"
 
 # game/chapter3.rpy:3971
 translate french stay_b7ce660e:
 
     # St "One second. It will be easier to draw a sketch for you."
-    St ""
+    St "Une seconde. Ce sera plus facile de vous faire un dessin."
 
 # game/chapter3.rpy:3973
 translate french stay_aa9539fb:
 
     # c "That would be great, thanks."
-    c ""
+    c "Ca serait nickel, merci."
 
 # game/chapter3.rpy:3977
 translate french stay_9602ee8d:
 
     # m "He grabbed a piece of paper and drew on it with a thick felt-tip pen."
-    m ""
+    m "Il prit une feuille de papier et dessina dessus avec un feutre."
 
 # game/chapter3.rpy:3979
 translate french stay_e10c25fd:
 
     # St "Here. This is the east entry of the facility, and this is where they went."
-    St ""
+    St "Voilà. C'est l'entrée est du laboratoire, et ça c'est par où cette personne a fui."
 
 # game/chapter3.rpy:3981
 translate french stay_9b850e3d:
 
     # c "So, away from the main district?"
-    c ""
+    c "Donc, loin du quartier central ?"
 
 # game/chapter3.rpy:3983
 translate french stay_a3163e52:
 
     # St "I guess so."
-    St ""
+    St "Il faut croire."
 
 # game/chapter3.rpy:3985
 translate french stay_abf26993:
 
     # c "Okay. That will be all. Thanks for your help."
-    c ""
+    c "D'accord. Ca sera tout. Merci pour votre aide."
 
 # game/chapter3.rpy:3987
 translate french stay_258c4f41:
 
     # St "You're welcome."
-    St ""
+    St "De rien."
 
 # game/chapter3.rpy:4010
 translate french follow_d94835c0:
 
     # c "Actually, excuse me. Sorry, but we'll have to do this another time."
-    c ""
+    c "En fait, je vais devoir prendre congé. Désolé, mais on va devoir faire ça une autre fois."
 
 # game/chapter3.rpy:4012
 translate french follow_60895c5d:
 
     # St "If you say so."
-    St ""
+    St "Comme vous voulez."
 
 # game/chapter3.rpy:4026
 translate french follow_116df98c:
 
     # m "Luckily, she hadn't gotten too far, so I followed her from a distance."
-    m ""
+    m "Heureusement, elle n'était pas partie très loin, donc je la suivis en gardant une certaine distance."
 
 # game/chapter3.rpy:4030
 translate french follow_8117fd74:
 
     # m "Minutes passed as we walked through streets weaving through an unfamiliar part of town. The young dragon looked small and lonely on the empty road."
-    m ""
+    m "Les minutes défilèrent alors que nous marchions à travers les rues au cœur d'une partie de la ville qui ne me disait rien. La jeune dragonne semblait petite et seule sur ce chemin vide."
 
 # game/chapter3.rpy:4034
 translate french follow_90df709c:
 
     # m "Before long, we passed the village border, yet she pressed on and stepped into the forest."
-    m ""
+    m "Très vite, nous pâssames la limite du village, alors elle accéléra et pénétra dans la forêt."
 
 # game/chapter3.rpy:4036
 translate french follow_6790b41c:
 
     # m "I turned back once to gaze at the village on the far horizon, and in an instant the dragon was gone."
-    m ""
+    m "Je me retournai pour regarder le village à l'horizon, et en un instant la dragonne avait disparu."
 
 # game/chapter3.rpy:4038
 translate french follow_338906d7:
 
     # m "I rushed to the spot I'd seen her last and found the entrance to a cave on a hillside."
-    m ""
+    m "Je me précipitai à l'endroit où je l'avais vu la dernière fois pour trouver l'entrée d'une grotte à flanc de coteau."
 
 # game/chapter3.rpy:4046
 translate french follow_4e8538c2:
 
     # m "When I peered inside, I saw Vara alongside a much larger, orange dragon. The small dragon filled a bowl with a thick fluid and placed it front of the other."
-    m ""
+    m "En jetant un œil à l'intérieur, je vis Vara aux côtés d'une dragonne plus grande de couleur orange. La petite dragonne remplit un bol avec un liquide épais et le placer devant l'autre."
 
 # game/chapter3.rpy:4048
 translate french follow_b36cdb39:
 
     # m "Then she placed her hands on the large dragon's chin. Gently, she lifted its huge muzzle and guided it toward the bowl. But when she released it, the dragon's head slumped and fell into the liquid. The bowl tumbled sideways and spilled its contents across the cave floor."
-    m ""
+    m "Elle positionna ses mains sous le menton de la grande dragonne. Délicatement, elle souleva son énorme museau vers le bol. Mais quand elle le relâcha, la tête de la dragonne s'affaissa et tomba dans le liquide. Le bol tomba sur le côté et le contenu se déversa sur le sol de la cave."
 
 # game/chapter3.rpy:4064
 translate french follow_b788615d:
 
     # m "I realized then, that other than what Vara had done, the orange dragon hadn't moved at all since I arrived."
-    m ""
+    m "Je réalisai alors que, en dépis de tout ce que Vara avait fait, La dragonne orange n'avait pas bougé du tout depuis mon arrivée."
 
 # game/chapter3.rpy:4074
 translate french follow_25717af4:
 
     # Sb "How did you even find out about this?"
-    Sb ""
+    Sb "Comment vous avez découvert ça ?"
 
 # game/chapter3.rpy:4076
 translate french follow_f1d5a4fd:
 
     # c "I could tell something was wrong, so I followed her."
-    c ""
+    c "Je me doutais que quelqu chose n'allait pas, donc je l'ai suivi."
 
 # game/chapter3.rpy:4078
 translate french follow_759b976c:
 
     # Sb "I see."
-    Sb ""
+    Sb "Je vois."
 
 # game/chapter3.rpy:4080
 translate french follow_9767decd:
 
     # Sb "Well, good job, [player_name]."
-    Sb ""
+    Sb "Bon travail, [player_name]."
 
 # game/chapter3.rpy:4082
 translate french follow_a893d785:
 
     # c "What's going to happen to her now?"
-    c ""
+    c "Que va-t-il lui arriver maintenant ?"
 
 # game/chapter3.rpy:4084
 translate french follow_e2f4eecd:
 
     # Sb "She'll be sent to the orphanage. The background check determined that she had a father, but the two hadn't seen each other in years."
-    Sb ""
+    Sb "Elle sera envoyée à l'orphelinat. Ses antécédents ont révélé qu'elle avait un père, mais ça fait des années qu'ils ne se sont pas vus."
 
 # game/chapter3.rpy:4086
 translate french follow_b1bfb125:
 
     # c "Can't you locate him?"
-    c ""
+    c "Vous savez de qui il s'agit ?"
 
 # game/chapter3.rpy:4088
 translate french follow_957ad85d:
 
     # Sb "We did. Reza's second victim, the maintenance guy. That was him."
-    Sb ""
+    Sb "Oui. La seconde victime de Reza, le gars de la maintenance. C'était lui."
 
 # game/chapter3.rpy:4090
 translate french follow_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/chapter3.rpy:4092
 translate french follow_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois"
 
 # game/chapter3.rpy:4094
 translate french follow_c09b77b8:
 
     # c "How did it even get this far?"
-    c ""
+    c "Comment ça a pu en arriver là ?"
 
 # game/chapter3.rpy:4096
 translate french follow_36d5502d:
 
     # Sb "I don't know, but we'll certainly look into it."
-    Sb ""
+    Sb "Je ne sais pas, mais on va très sûrement y jeter un œil."
 
 # game/chapter3.rpy:4098
 translate french follow_80f5c1fd:
 
     # Sb "Some just fall through the cracks of the system."
-    Sb ""
+    Sb "Certains tombent juste dans les failles du système."
 
 # game/chapter3.rpy:4100
 translate french follow_bdf22018:
 
     # Sb "Being out here on their own probably didn't help."
-    Sb ""
+    Sb "Etre là, livrés à eux-mêmes n'a probablement pas aidé."
 
 # game/chapter3.rpy:4102
 translate french follow_2bf69b74:
 
     # c "Do many of your people live outside the town like this?"
-    c ""
+    c "Est-ce que beaucoup de citoyens vivent hors de la ville comme ça ?"
 
 # game/chapter3.rpy:4104
 translate french follow_6e146781:
 
     # Sb "Well, some do it on principle. Others because they have no other choice."
-    Sb ""
+    Sb "Eh bien, certains le font par principe. Et d'autres parce qu'ils n'ont pas le choix."
 
 # game/chapter3.rpy:4106
 translate french follow_b84f759d:
 
     # Sb "Houses and apartments can be expensive, and it's not unusual for us to use natural environments as our homes."
-    Sb ""
+    Sb "Les maisons et appartements peuvent être cher, et ça n'est pas inhabituels pour nous d'utiliser l'environement comme logis."
 
 # game/chapter3.rpy:4108
 translate french follow_38771039:
 
     # Sb "Alright, I think we're done here for now. Don't forget to stop by the department later."
-    Sb ""
+    Sb "D'accord, je pense qu'on a fini ici pour l'instant. Pense à passer au poste plus tard."
 
 # game/chapter3.rpy:4110
 translate french follow_59087957:
 
     # c "I won't."
-    c ""
+    c "Ca marche."
 
 # game/chapter3.rpy:4136
 translate french _call_syscheck_23_fd5f30ca:
 
     # s "You followed Vara!{image=image/ui/status/varasaved.png}"
-    s ""
+    s "Tu as suivi Vara !{image=image/ui/status/varasaved.png}"
 
 # game/chapter3.rpy:4140
 translate french _call_syscheck_23_0093ddcb:
 
     # s "You followed Vara. Well done, [player_name].{image=image/ui/status/varasaved.png}"
-    s ""
+    s "Tu as suivi Vara. Bien joué [player_name].{image=image/ui/status/varasaved.png}"
 
 # game/chapter3.rpy:4144
 translate french _call_syscheck_23_0093ddcb_1:
 
     # s "You followed Vara. Well done, [player_name].{image=image/ui/status/varasaved.png}"
-    s ""
+    s "Tu as suivi Vara. Bien joué [player_name].{image=image/ui/status/varasaved.png}"
 
 # game/chapter3.rpy:4167
 translate french c3go_158f7686:
 
     # Sb "There you are, [player_name]."
-    Sb ""
+    Sb "Te voilà , [player_name]."
 
 # game/chapter3.rpy:4169
 translate french c3go_96aba71c:
 
     # c "It seems to me you've taken a liking to Bryce's chair."
-    c ""
+    c "On dirait que tu as pris goût au fauteuil de Bryce."
 
 # game/chapter3.rpy:4171
 translate french c3go_6622afde:
 
     # Sb smile b "Maybe. I could get used to this."
-    Sb smile b ""
+    Sb smile b "Peut être. Je pourrais m'y habituer."
 
 # game/chapter3.rpy:4173
 translate french c3go_42478c56:
 
     # Sb normal b "Don't tell Bryce, though."
-    Sb normal b ""
+    Sb normal b "N'en parle pas à Bryce."
 
 # game/chapter3.rpy:4178
 translate french c3go_a7a22c85:
 
     # Sb "By the way, good job calling the police when you heard Reza. It's too bad he got away again, but maybe a witness will come forward and we'll find out what happened."
-    Sb ""
+    Sb "Au passage, tu as bien fait d'appeler la police quand tu as entendu Reza. C'est dommage qu'il se soit encore échappé, mais peut être qu'un témoin va se manifester, nous aidant à découvrir ce qu'il s'est passé."
 
 # game/chapter3.rpy:4182
 translate french c3go_54f803a0:
 
     # Sb "By the way, we have evidence that Reza visited the portal today."
-    Sb ""
+    Sb "Au passage, on a des preuves que Reza est allé au portail aujourd'hui."
 
 # game/chapter3.rpy:4184
 translate french c3go_5ec0d41a:
 
     # Sb "Someone reported loud bangs consistent with what we know about his weapon. We didn't manage to catch him, but I wonder if this stunt means he's getting desperate."
-    Sb ""
+    Sb "Quelqu'un dit avoir entendu de fortes détonations ce qui corrobrece qu'on sait au sujet de son arme. Nous n'avons pas réussi à l'attraper, mais je me demande si ce coup signifie qu'il commence à être à désespéré."
 
 # game/chapter3.rpy:4186
 translate french c3go_475d90b4:
 
     # c "Who knows."
-    c ""
+    c "Qui sait."
 
 # game/chapter3.rpy:4189
 translate french c3go_3c07b3ff:
 
     # Sb "Now, let's take a look at what you've got for me."
-    Sb ""
+    Sb "Maintenant jetons un œil à ce que tu as pour moi."
 
 # game/chapter3.rpy:4193
 translate french c3go_f10ed86d:
