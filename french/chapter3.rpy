@@ -5685,193 +5685,193 @@ translate french c3go_3c07b3ff:
 translate french c3go_f10ed86d:
 
     # Sb "The witness report from Anna is good. Nothing new to us, but it's nice to have her statement in writing."
-    Sb ""
+    Sb "Le témoignage d'Anna est bon. Rien de nouveau pour nous, mais c'est bon d'avoir sa déclaration par écrit."
 
 # game/chapter3.rpy:4202
 translate french c3go_97955863:
 
     # Sb "What you've learned about the map is fascinating, if not a little unsettling. While it's good to have confirmed its origin, to know that it came from your world is something else."
-    Sb ""
+    Sb "Ce que tu as appris sur la carte est fascinant, voir un peu perturbant. Bien que ce soit super de confirmer son origine, de savoir que ça venait de ton monde, c'est tout autre chose."
 
 # game/chapter3.rpy:4204
 translate french c3go_73925600:
 
     # Sb "It raises more questions than it answers. How could something like a whole building end up in our world? It's a mystery that needs to be answered."
-    Sb ""
+    Sb "Ca soulève plus de questions que ça n'en résout. Comment un bâtiment entier comme celui ci a-t-il pu atterrir dans notre monde ? C'est un mystère qui a besoin d'être résolu."
 
 # game/chapter3.rpy:4214
 translate french c3go_33fe9f85:
 
     # Sb "The statement from the store clerk is interesting. We've had few reports of Reza since he went into hiding, so this is very helpful. It's another confirmation of his involvement in this whole matter."
-    Sb ""
+    Sb "La déclaration du caissier est intéressante. On a eu des signalements de Reza depuis qu'il esst parti se cacher, donc c'est très utile. C'est une autre confirmation de son implication dans toute cette affaire."
 
 # game/chapter3.rpy:4224
 translate french c3go_b43daeae:
 
     # Sb "You did great today, [player_name]. The police department is glad to have you on our side."
-    Sb ""
+    Sb "Tu as fait du super boulot, [player_name]. Avec la police on est heureux de t'avoir de notre côté."
 
 # game/chapter3.rpy:4226
 translate french c3go_8bdef6d0:
 
     # Sb "You saved that little girl. As far as I am concerned, nothing else you could have done would have mattered as much."
-    Sb ""
+    Sb "Tu as sauvé cette petite fille. D'aussi loin que je sois concerné, rien que tu n'ait fait n'aurait eu plus d'importance."
 
 # game/chapter3.rpy:4228
 translate french c3go_86c8a6f3:
 
     # Sb "Good job, [player_name]."
-    Sb ""
+    Sb "Bon travail, [player_name]."
 
 # game/chapter3.rpy:4247
 translate french _call_syscheck_24_05510d8f:
 
     # s "You did well on the third investigation!"
-    s ""
+    s "Tu t'es bien débrouillé sur la troisième enquête !"
 
 # game/chapter3.rpy:4251
 translate french _call_syscheck_24_725a9201:
 
     # s "You did well on the third investigation. Investiga-tastic."
-    s ""
+    s "Tu t'es bien débrouillé sur la troisième enquête. Enquê-cellent."
 
 # game/chapter3.rpy:4255
 translate french _call_syscheck_24_4c9a0d6d:
 
     # s "You did well on the third investigation. I am running out of things to say here."
-    s ""
+    s "Tu t'es bien débrouillé sur la troisième enquête. Je commence à manquer de choses à dire ici."
 
 # game/chapter3.rpy:4263
 translate french _call_syscheck_24_b43daeae:
 
     # Sb "You did great today, [player_name]. The police department is glad to have you on our side."
-    Sb ""
+    Sb "Tu as fait du bon travail aujourd'hui, [player_name]. Au poste on est content de t'avoir à nos côtés."
 
 # game/chapter3.rpy:4279
 translate french _call_syscheck_25_05510d8f:
 
     # s "You did well on the third investigation!"
-    s ""
+    s "Tu t'es bien débrouillé sur la troisième enquête !"
 
 # game/chapter3.rpy:4283
 translate french _call_syscheck_25_3bd9a531:
 
     # s "You did well on the third investigation. Investig-awesome."
-    s ""
+    s "Tu t'es bien débrouillé sur la troisième enquête. Enquê-norme."
 
 # game/chapter3.rpy:4287
 translate french _call_syscheck_25_4c9a0d6d:
 
     # s "You did well on the third investigation. I am running out of things to say here."
-    s ""
+    s "Tu t'es bien débrouillé sur la troisième enquête. Je commence à manquer de choses à dire ici."
 
 # game/chapter3.rpy:4295
 translate french _call_syscheck_25_aa7a0b94:
 
     # Sb "Not bad, [player_name], not bad at all. Thanks for your help."
-    Sb ""
+    Sb "Pas mal, [player_name], pas mal du tout. Merci pour ton aide."
 
 # game/chapter3.rpy:4301
 translate french _call_syscheck_25_9973aa30:
 
     # Sb "Hmm, this isn't much information to go on, but who knows when it could come in handy."
-    Sb ""
+    Sb "Hmm, ça ne fait pas beaucoup d'information pour continuer, mais qui sait, ça pourrait être utile."
 
 # game/chapter3.rpy:4326
 translate french _call_syscheck_26_5b7de835:
 
     # s "You did well in all investigations!"
-    s ""
+    s "Tu t'es bien débrouillé sur toutes les enquêtes !"
 
 # game/chapter3.rpy:4330
 translate french _call_syscheck_26_95b6c9d1:
 
     # s "You did well in all investigations. Phew."
-    s ""
+    s "Tu t'es bien débrouillé sur toutes les enquêtes. Fiou."
 
 # game/chapter3.rpy:4334
 translate french _call_syscheck_26_a57f7559:
 
     # s "You did well in all investigations. Maybe you should be a private detective."
-    s ""
+    s "Tu t'es bien débrouillé sur toutes les enquêtes. Peut être que tu aurais dû faire détective privé."
 
 # game/chapter3.rpy:4336
 translate french _call_syscheck_26_86cc6bd5:
 
     # c "I do what I can."
-    c ""
+    c "Je fais ce que peux."
 
 # game/chapter3.rpy:4338
 translate french _call_syscheck_26_d1a64cdc:
 
     # Sb "I know, and your help is greatly appreciated - believe me. Especially since we're so short on staff right now."
-    Sb ""
+    Sb "Je sais, et ton aide est grandement appréciée - crois moi. Tout particulièrement quand on est à court de personnel."
 
 # game/chapter3.rpy:4340
 translate french _call_syscheck_26_66336c18:
 
     # Sb "That will be all for today. I'll contact you if we need anything."
-    Sb ""
+    Sb "Ca sera tout pour aujourd'hui. Je te contacterai si nous avons besoin de quoi que ce soit."
 
 # game/chapter3.rpy:4342
 translate french _call_syscheck_26_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Bien sûr."
 
 # game/chapter3.rpy:4354
 translate french _call_syscheck_26_f821edfe:
 
     # c "By the way, I found an Ixomen Sphere in the park a while ago and was told to hand it over to you."
-    c ""
+    c "Au passage, j'ai trouvé cette sphère Ixomen dans le parc il y a un moment maintenant et on m'a dit de vous la confier."
 
 # game/chapter3.rpy:4356
 translate french _call_syscheck_26_430ae6ed:
 
     # Sb "Oh, yes. Those things are really expensive. I'm sure the owner will greatly appreciate it if they get it back."
-    Sb ""
+    Sb "Oh oui. Ces trucs coutent une blinde. Je suis sûre que le propriétaire appréciera beaucoup s'il le récupère."
 
 # game/chapter3.rpy:4358
 translate french _call_syscheck_26_d15be5f9:
 
     # m "I dug into my pockets only to realize that the Ixomen Sphere was still resting on the table in my apartment."
-    m ""
+    m "Je mis la main dans ma poche pour réaliser que la sphère Ixomen était toujours sur la table à mon appartement."
 
 # game/chapter3.rpy:4360
 translate french _call_syscheck_26_a37e61f1:
 
     # c "Oh, looks like I don't have it on me."
-    c ""
+    c "Oh, il semblerait que je ne l'ai pas sur moi."
 
 # game/chapter3.rpy:4362
 translate french _call_syscheck_26_c0586069:
 
     # Sb "If it is registered, you only need to turn it on and you should be able to find out who it belongs to."
-    Sb ""
+    Sb "Si elle est enregistrée, tu auras simplement besoin de l'allumer pour trouver à qui elle appartient."
 
 # game/chapter3.rpy:4364
 translate french _call_syscheck_26_b8f36c01:
 
     # c "I already tried that, but I think it's out of battery."
-    c ""
+    c "J'ai déjà essayé ça, Mais je pense que les batteries sont à plat."
 
 # game/chapter3.rpy:4366
 translate french _call_syscheck_26_e3a976c3:
 
     # Sb "Maybe we could find you a charging base, then."
-    Sb ""
+    Sb "Peut être que tu peux trouver un socle de rechargement."
 
 # game/chapter3.rpy:4368
 translate french _call_syscheck_26_122f33c5:
 
     # Sb disapproval b "Actually, we had one in our lost and found box."
-    Sb disapproval b ""
+    Sb disapproval b "En fait, on en a un dans notre boîte des objets perdus."
 
 # game/chapter3.rpy:4370
 translate french _call_syscheck_26_817a3dc4:
 
     # Sb normal b "Bryce keeps it somewhere around here. Let me check."
-    Sb normal b ""
+    Sb normal b "Bryce la garde quelque part ici. Laisse-moi vérifier."
 
 # game/chapter3.rpy:4374
 translate french _call_syscheck_26_90e9a7df:
