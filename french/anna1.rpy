@@ -11,13 +11,13 @@ translate french anna1_d2dc5415:
 translate french anna1_8d584416:
 
     # m "The production facility had many different wings, covering everything from research to processing, in addition to production. It was easy to get lost if you didn't know where you were going."
-    m "L'usine avait de nombreuses ailes différentes, recouvrant l'intégralité de la recherche au développement, avec en plus la production. Il était simple de s'y perdre si vous ne saviez pas où vous alliez."
+    m "L'usine avait de nombreuses ailes différentes et couvrait tous les domaines, de la recherche au développement, ainsi que la production. Il était simple de s'y perdre si vous ne saviez pas où vous alliez."
 
 # game/anna1.rpy:36
 translate french anna1_b230ba57:
 
     # m "I heard some commotion in the distance, and when I approached, I was surprised to see not only Anna, but Remy as well."
-    m "J'entendais de l'agitation au loin, et lorsque je me suis approché, je fus surpris de ne pas juste voir Anna, mais aussi Remy."
+    m "J'entendais de l'agitation au loin, et quand je me suis approché, je fus surpris de ne pas juste voir Anna, mais aussi Remy."
 
 # game/anna1.rpy:37
 translate french anna1_64333f1a:
@@ -29,19 +29,19 @@ translate french anna1_64333f1a:
 translate french anna1_6a221be0:
 
     # Ry "We have heard the rumors."
-    Ry "Nous avons entendus les rumeurs"
+    Ry "Nous avons entendu les rumeurs."
 
 # game/anna1.rpy:46
 translate french anna1_a17387cd:
 
     # An "So you come to me on the basis of rumors? Is that how you operate? What do you want from me?"
-    An "Donc tu viens vers moi sur la base de rumeurs ? C'est comme ça que tu opères ? Que veux tu de moi ?"
+    An "Donc tu viens vers moi sur la base de rumeurs ? C'est comme ça que tu opères ? Que veux-tu de moi ?"
 
 # game/anna1.rpy:47
 translate french anna1_3f4546f9:
 
     # Ry "This is not the first time you've been in trouble, you know. They might not be so lenient with you this time."
-    Ry "Ce n'est pas la première fois que tu a des ennuis, tu sais. Ils ne seront peut-être pas si indulgents avec toi cette fois."
+    Ry "Ce n'est pas la première fois que tu as des ennuis, tu sais. Ils ne seront peut-être pas si indulgents avec toi cette fois."
 
 # game/anna1.rpy:51
 translate french anna1_5e3528a3:
@@ -65,7 +65,7 @@ translate french anna1_4dc4a125:
 translate french anna1_3a3d127a:
 
     # Ry "I wouldn't. I'm here as a courtesy to you, not to threaten or intimidate. Do with that information whatever you wish."
-    Ry "Je ne le ferais pas. Je suis ici par courtoisie, pas pour te menacer ou t'insulter. Fais ce que tu souhaites de cette information."
+    Ry "Je ne le ferai pas. Je suis ici par courtoisie, pas pour te menacer ou t'insulter. Fais ce que tu souhaites de cette information."
 
 # game/anna1.rpy:64
 translate french anna1_df29eec3:
@@ -77,7 +77,7 @@ translate french anna1_df29eec3:
 translate french anna1_7ee0481f:
 
     # An "Do you think I care?"
-    An "Tu crois que j'en ai quelque chose à faire?"
+    An "Tu crois que j'en ai quelque chose à faire ?"
 
 # game/anna1.rpy:69
 translate french anna1_16a8a491:
@@ -125,7 +125,7 @@ translate french _call_skiptut_7_eee83226:
 translate french _call_skiptut_7_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Donc, il semblerait que vous ayez déjà vu ceci avant. Soit vous pourriez le regarder de nouveau, ou l'on pourrait vous faire gagner du temps et passer jusqu'à la fin de la scène."
+    s "Donc, il semblerait que vous ayez déjà vu ceci auparavant. Vous pourriez le regarder de nouveau, ou l'on pourrait vous faire gagner du temps et passer jusqu'à la fin de la scène."
 
 # game/anna1.rpy:142
 translate french _call_skiptut_7_0054b77b:
@@ -161,7 +161,7 @@ translate french _call_skipcheck_7_e8ba533a:
 translate french _call_skipcheck_7_1b46c468:
 
     # An "Wait, how long have you been here?"
-    An "Attends, depuis combien de temps es-tu la?"
+    An "Attends, depuis combien de temps es-tu là ?"
 
 # game/anna1.rpy:202
 translate french _call_skipcheck_7_baa3667a:
@@ -179,13 +179,13 @@ translate french _call_skipcheck_7_479e6953:
 translate french _call_skipcheck_7_5a61a232:
 
     # An "The nerve of that guy. He probably wouldn't be so uptight if it wasn't for that thing with his girlfriend a few years ago."
-    An "Le culot de ce type. Il ne serait probablement pas si tendu si ce n'était pour cette histoire avec sa petite amie quelques années auparavant."
+    An "Le culot de ce type. Il ne serait probablement pas si crispé si ce n'était pour cette histoire avec sa petite amie quelques années auparavant."
 
 # game/anna1.rpy:211
 translate french _call_skipcheck_7_93f35ab2:
 
     # An "But I don't care about him. It's his superiors that are the problem. They don't like me and the research I'm doing. They cite their traditions and values, claiming that those are what have kept us alive for so long."
-    An "Mais je m'en fiche de lui. Ses supérieurs sont le vrai problème. Ils n'aiment ni moi, ni les recherches que je fais. Ils citent leurs traditions et leurs valeurs, prétendant que ce sont ces derniers qui nous ont maintenu en vie si longtemps."
+    An "Mais je m'en fiche de lui. Ses supérieurs sont le vrai problème. Ils n'aiment ni moi, ni les recherches que je fais. Ils citent leurs traditions et leurs valeurs, prétendant que ce sont ces dernières qui nous ont maintenu en vie si longtemps."
 
 # game/anna1.rpy:215
 translate french _call_skipcheck_7_fd0e7feb:
@@ -197,7 +197,7 @@ translate french _call_skipcheck_7_fd0e7feb:
 translate french _call_skipcheck_7_36b5bba3:
 
     # An "At least if you believe those old-timers who keep repeating these phrases."
-    An "Enfin, si tu crois ce que disent les vieux qui répétaient ces phrases."
+    An "Enfin, si tu crois ce que disent les vieux qui répètent ces phrases."
 
 # game/anna1.rpy:223
 translate french _call_skipcheck_7_54f42344:
@@ -233,7 +233,7 @@ translate french _call_skipcheck_7_4e54941b:
 translate french _call_skipcheck_7_501d818b:
 
     # An "Wasting my time with that guy was just another setback, not that I don't already have more than enough work to do. Even right now I'm supposed to be working overtime."
-    An "Perdre mon temps avec ce type n'était qu'un retardemment, omme si je n'avais pas déjà assez de travail a faire. Même maintenant je suis supposer faire des heures supplémentaires."
+    An "Perdre mon temps avec ce type n'était qu'un retardemment, comme si je n'avais pas déjà assez de travail à faire. Même maintenant je suis supposée faire des heures supplémentaires."
 
 # game/anna1.rpy:247
 translate french _call_skipcheck_7_206a6186_1:
@@ -263,7 +263,7 @@ translate french _call_skipcheck_7_781a7e53:
 translate french _call_skipcheck_7_afb05e33:
 
     # c "I see. What do you actually do here?"
-    c "Je vois. Mais que fais-tu ici?"
+    c "Je vois. Mais que fais-tu ici ?"
 
 # game/anna1.rpy:264
 translate french _call_skipcheck_7_7194792c_1:
@@ -353,7 +353,7 @@ translate french _call_skipcheck_7_65ce626d:
 translate french _call_skipcheck_7_3f4c75b3:
 
     # An "Excuse me for a moment, but I must weep for the English language. At this rate, why don't you just say you're the \"most curiouserest\"?"
-    An "Excuse-moi un instant, mais je dois pleurer pour la langue Française. À ce niveau, pourquoi ne dis-tu pas que tu es le \"plus curieux\" ?"
+    An "Excuse-moi un instant, mais je dois pleurer pour la langue Française. À ce point, pourquoi ne dis-tu pas simplement que tu es le \"plus extrarchicurieux\" ?"
 
 # game/anna1.rpy:307
 translate french _call_skipcheck_7_ad12b171:
@@ -377,7 +377,7 @@ translate french _call_skipcheck_7_145bfa91:
 translate french _call_skipcheck_7_84a1d6ad:
 
     # c "In any case, if you have to work overtime today, does that mean I should wait for you, or do you want me to come back another time?"
-    c "Dans tous les cas, si tu dois faire des heures supplémentaires aujourd'hui, est-ce que ça signifit que je dois t'attendre, ou préfères-tu que je revienne une autre fois ?"
+    c "Dans tous les cas, si tu dois faire des heures supplémentaires aujourd'hui, est-ce que ça signifie que je dois t'attendre, ou préfères-tu que je revienne une autre fois ?"
 
 # game/anna1.rpy:318
 translate french _call_skipcheck_7_d1affb50:
@@ -401,7 +401,7 @@ translate french _call_skipcheck_7_8a39980d:
 translate french _call_skipcheck_7_63b615c0:
 
     # An "Just one of the perks of being the manager of this facility."
-    An "Juste un des bonus pour être la manager de cette usine."
+    An "Juste un des bonus d'être la manager de cette usine."
 
 # game/anna1.rpy:338
 translate french _call_skipcheck_7_8b0c65b1:
@@ -449,7 +449,7 @@ translate french _call_skipcheck_7_3a948282:
 translate french _call_skipcheck_7_0c82e1c2:
 
     # An "Now that's a convincing reason."
-    An "Voilà une raison convainquante."
+    An "Voilà une raison convaincante."
 
 # game/anna1.rpy:392
 translate french _call_skipcheck_7_b0cff734:
@@ -641,7 +641,7 @@ translate french _call_skipcheck_7_71fb7109:
 translate french _call_skipcheck_7_824f6a3f:
 
     # An "I'm not sure I'd go so far as to call it \"fascinating\", but it surely does give me a lot of opportunities."
-    An "Je ne sais pas si on peut aller jusqu'à dire que c'est \"fascinant\", mais ce qui est sûr, c'est que ça m'offre beaucoup d'opportunitées."
+    An "Je ne sais pas si on peut aller jusqu'à dire que c'est \"fascinant\", mais ce qui est sûr, c'est que ça m'offre beaucoup d'opportunités."
 
 # game/anna1.rpy:543
 translate french _call_skipcheck_7_0b08fe43:
@@ -683,7 +683,7 @@ translate french _call_skipcheck_7_4cad5cfe:
 translate french _call_skipcheck_7_7318a035:
 
     # An "Maybe I should. I'll tell her you hit me, then sue for damages."
-    An "Peut-être que je devrais. Je lui dirai que tu m'a touché, et ensuite je te poursuivrai pour des dédommagements."
+    An "Peut-être que je devrais. Je lui dirai que tu m'a touchée, et ensuite je te poursuivrai pour des dédommagements."
 
 # game/anna1.rpy:576
 translate french _call_skipcheck_7_169504fd:
@@ -887,7 +887,7 @@ translate french _call_skipcheck_7_e658b925:
 translate french _call_skipcheck_7_fa19e5d4:
 
     # An "{i}Textile Merchant{/i}? Knizki?"
-    An "{i}Textile Merchant{/i}? Knizki?"
+    An "{i}Marchand de Textile{/i} ? Knizki ?"
 
 # game/anna1.rpy:686
 translate french _call_skipcheck_7_2e2553b3:
@@ -905,7 +905,7 @@ translate french _call_skipcheck_7_d3f48fd2:
 translate french _call_skipcheck_7_5b3a3cb1:
 
     # c "It seems to be a trivia game. Do you have good general knowledge?"
-    c "Il semblerait que ce soit un quizz. As-tu une bonne connaissance générale?"
+    c "Il semblerait que ce soit un quizz. As-tu une bonne connaissance générale ?"
 
 # game/anna1.rpy:693
 translate french _call_skipcheck_7_91a94269:
@@ -929,7 +929,7 @@ translate french _call_skipcheck_7_16cf313c:
 translate french _call_skipcheck_7_5b4ed353:
 
     # An "What do you have in mind?"
-    An "A quoi penses-tu ?"
+    An "À quoi penses-tu ?"
 
 # game/anna1.rpy:703
 translate french _call_skipcheck_7_8ecea63c:
@@ -971,7 +971,7 @@ translate french _call_skipcheck_7_4eb24f9d:
 translate french _call_skipcheck_7_e8d0b893:
 
     # An "How disappointing. I guess this whole thing was just a waste of time, then."
-    An "Quelle décéption. Je suppose que tout ça n'était qu'une perte de temps."
+    An "Quelle déception. Je suppose que tout ça n'était qu'une perte de temps."
 
 # game/anna1.rpy:732
 translate french _call_skipcheck_7_175760ef:
@@ -1055,13 +1055,13 @@ translate french _call_skipcheck_7_4137e81a:
 translate french _call_skipcheck_7_3a429c00:
 
     # m "I saw mischief in her eyes, her stare piercing, paired with the hint of an arrogant smirk that exposed her anticipation. She seemed confident that she would win and loved every second of it."
-    m "Je vis de la malice dans ses yeux. son regard était perçant, allant de pair avec son petit sourire satisfait et arrogant qui exposait son anticipation. Elle semblait certaine qu'elle gagnerait et en savourerait chaque seconde."
+    m "Je vis de la malice dans ses yeux. Son regard était perçant, allant de pair avec son petit sourire satisfait et arrogant qui exposait son anticipation. Elle semblait certaine qu'elle gagnerait et en savourait chaque seconde."
 
 # game/anna1.rpy:785
 translate french _call_skipcheck_7_3c8056a2:
 
     # m "Slowly, her hand went over to the deck of cards and drew the topmost."
-    m "Doucement, sa main se dirigea vers le paquet de cartes et piocha la première."
+    m "Doucement, sa main se dirigeait vers le paquet de cartes et piocha la première."
 
 # game/anna1.rpy:801
 translate french _call_skipcheck_7_8dd493bd:
@@ -1073,7 +1073,7 @@ translate french _call_skipcheck_7_8dd493bd:
 translate french _call_skipcheck_7_2fa2fb8c:
 
     # An "How could you even know something like that? You have only been here for what, a few days?"
-    An "Comment pouvais-tu savoir ça? tu n'es là que depuis, quoi, quelques jours ?"
+    An "Comment pouvais-tu savoir ça ? Tu n'es là que depuis, quoi, quelques jours ?"
 
 # game/anna1.rpy:814
 translate french _call_skipcheck_7_900ba916:
@@ -1127,7 +1127,7 @@ translate french cont1_b3f8bf41:
 translate french cont1_c0e353ca:
 
     # An "Bring it."
-    An "Lances-toi."
+    An "Lance-toi."
 
 # game/anna1.rpy:857
 translate french cont1_e7d505dd:
@@ -1139,7 +1139,7 @@ translate french cont1_e7d505dd:
 translate french cont1_f67814b1:
 
     # An "Only until the middle. Anything after that and you're walking out of the woods again."
-    An "Uniquement jusqu'au centre. Au-dela tu es sur le chemin pour sortir des bois."
+    An "Uniquement jusqu'au centre. Au-delà tu es sur le chemin pour sortir des bois."
 
 # game/anna1.rpy:859
 translate french cont1_46db7d15:
@@ -1301,7 +1301,7 @@ translate french wrong3_a083c857:
 translate french cont4_cfde30fd:
 
     # c "Looks like this is going to be the last question."
-    c "Apparament ça va être la dernière question."
+    c "Apparemment ça va être la dernière question."
 
 # game/anna1.rpy:1013
 translate french cont4_58cb19cf:
@@ -1409,13 +1409,13 @@ translate french _call_syscheck_36_3291805c:
 translate french _call_syscheck_36_6238581e:
 
     # An "I won't have a spot in the facility to do the tests for a while, though, so I suppose next time we meet, it'll be a date."
-    An "Je n'aurai pas d'endroit dans le laboratoire pour faire les tests pendant un moment, donc je suppose que notre prochaine rendez-vous sera un rencart."
+    An "Je n'aurai pas d'endroit dans le laboratoire pour faire les tests pendant un moment, donc je suppose que notre prochaine rendez-vous sera un rancard."
 
 # game/anna1.rpy:1074
 translate french _call_syscheck_36_af0d0955:
 
     # c "Don't forget what I said earlier about what I expect from you on this date. You better be on your best behavior."
-    c "N'oublie pas ce que j'ai dis plus tôt sur mes attentes envers toi pour le rencart. Tu ferais mieux d'être de bonne humeur."
+    c "N'oublie pas ce que j'ai dis plus tôt sur mes attentes envers toi pour le rancard. Tu ferais mieux d'être de bonne humeur."
 
 # game/anna1.rpy:1076
 translate french _call_syscheck_36_ba35d478:
@@ -1469,13 +1469,13 @@ translate french _call_syscheck_36_27a8acdb:
 translate french _call_syscheck_36_4e513385:
 
     # n "Even though my bet of forcing her to go on a proper date with me was more to get back at her for her earlier rudeness, I had not expected this outcome. I was not even sure what I expected from this meeting in the first place, but now I was locked into going on a date with her and being her own, personal guinea pig."
-    n "Même si mon pari de la forcer a faire un vrai rencart ensemble était plus dû à son impolitesse plus tôt, mais je ne m'attendais pas a ce résultat. Je n'étais même pas certain de ce que j'attendais de ce rendez-vous en premier lieu, mais maintenant j'étais forcé d'aller a un rencart avec elle, mais aussi d'être son cobaye personnel."
+    n "Même si mon pari de la forcer à faire un vrai rancard ensemble était plus dû à son impolitesse plus tôt, je ne m'attendais pas a ce résultat. Je n'étais même pas certain de ce que j'attendais de ce rendez-vous en premier lieu, mais maintenant j'étais forcé d'aller a un rancard avec elle, mais aussi d'être son cobaye personnel."
 
 # game/anna1.rpy:1094
 translate french _call_syscheck_36_7f2e72b6:
 
     # n "Whether anything good would come of this, I wasn't sure, either."
-    n "Je n'étais pas non plus sûr que quelque chose de bon ressorte de tout ça."
+    n "Je n'étais pas non plus sûr que quoi que ce soit de bon ressorte de tout ça."
 
 # game/anna1.rpy:1123
 translate french anna1skip_e7d90bc0:
@@ -1529,7 +1529,7 @@ translate french anna1skip_0a6adcc2:
 translate french anna1skip_591c3b68:
 
     # An "But you know what, this wasn't so bad after all. Maybe I'll let you have your date."
-    An "Mais tu sais quoi, ce n'était pas si mal en fin de compte. Peut-être vais-je te laisser avoir ton rencart."
+    An "Mais tu sais quoi, ce n'était pas si mal en fin de compte. Peut-être vais-je te laisser avoir ton rancard."
 
 # game/anna1.rpy:1136
 translate french anna1skip_4e24c2ca:
@@ -1553,7 +1553,7 @@ translate french anna1skip_fe5f3366:
 translate french anna1skip_2318ff16:
 
     # An "Well, it's up to you. Call me if you're interested."
-    An "Tout dépend de toi. Appelle-moi si tu est intéréssé."
+    An "Tout dépend de toi. Appelle-moi si tu es intéréssé."
 
 # game/anna1.rpy:1140
 translate french anna1skip_79abe5b9:
@@ -1577,7 +1577,7 @@ translate french anna1skip_bae7468d:
 translate french anna1skip_b9e3523e:
 
     # An "You bet I will. In any case, I should get going now. My \"break\" is just about to end. Bye!"
-    An "Tu peux parier dessus. Dans tous les cas, il faut que j'y aille. Ma \"pause\" va se terminer sous peu. À la revoyure."
+    An "Tu peux parier là-dessus. Dans tous les cas, il faut que j'y aille. Ma \"pause\" va se terminer sous peu. À la revoyure."
 
 # game/anna1.rpy:1150
 translate french anna1skip_76b2fe88:
@@ -1595,13 +1595,13 @@ translate french anna1skip_4190e1e7:
 translate french anna1skip_6329633b:
 
     # n "After all, proposing a proper date was my way of sticking it to her for being rude."
-    n "Après tout, proposer un rencart était ma méthode de lui faire payer pour avoir été si froide."
+    n "Après tout, proposer un rancard était ma méthode de lui faire payer pour avoir été si froide."
 
 # game/anna1.rpy:1155
 translate french anna1skip_1935d8cf:
 
     # n "Even though I lost the bet, she didn't seem to mind going on a date with me, as long as she got what she wanted. Whether I would follow up on it was up to me, though."
-    n "Même si j'avais perdu le pari, elle n'a pas l'air d'être dérangée à l'idée d'aller à un rencart avec moi, tant qu'elle obtenait ce qu'elle voulait. Mais vouloir continuer sur cette voie ou non était un choix qui me revenait."
+    n "Même si j'avais perdu le pari, elle n'avait pas l'air d'être dérangée à l'idée d'aller à un rancard avec moi, tant qu'elle obtenait ce qu'elle voulait. Mais vouloir continuer sur cette voie ou non était un choix qui me revenait."
 
 # game/anna1.rpy:1182
 translate french anna1skip_5a69d41d:
@@ -1643,13 +1643,13 @@ translate french anna1skip_7eb6d8f6:
 translate french anna1skip_35135016:
 
     # An "I think you're just experiencing acute posterior pain, because you don't get to go on a date with me now."
-    An "Je pense que tu es juste en train d'expérimenter une douleur postérieur aigüe, parce que tu ne pourras pas aller à un rencart avec moi."
+    An "Je pense que tu es juste en train d'expérimenter une douleur postérieur aigüe, parce que tu ne pourras pas aller à un rancard avec moi."
 
 # game/anna1.rpy:1192
 translate french anna1skip_6af3e46d:
 
     # c "I didn't want to go on a date with you in the first place. I just wanted to teach you some manners."
-    c "Je ne voulais pas même aller à un rencart avec toi en premier lieu. Je voulais juste t'apprendre quelques manières."
+    c "Je ne voulais pas même aller à un rancard avec toi en premier lieu. Je voulais juste t'apprendre quelques manières."
 
 # game/anna1.rpy:1194
 translate french anna1skip_bba286a8:
@@ -1667,7 +1667,7 @@ translate french anna1skip_f64a830d:
 translate french anna1skip_44223133:
 
     # An "Because you'd obviously be such a good teacher, the way you exude virtues such as civility and humbleness, and tried to force someone to go on a date with you on a bet."
-    An "Parce que tu serais evidemment un tellement bon professeur, la manière dont tu respires les vertues telles la politesse et l'humilité, et d'avoir essayé de forcer quelqu'un à aller à un rencart avec toi sur un pari."
+    An "Parce que tu serais evidemment un tellement bon professeur, la manière dont tu respires les vertues telles la politesse et l'humilité, et d'avoir essayé de forcer quelqu'un à aller à un rancard avec toi sur un pari."
 
 # game/anna1.rpy:1198
 translate french anna1skip_0eabec36:
@@ -1679,7 +1679,7 @@ translate french anna1skip_0eabec36:
 translate french anna1skip_b7bca3d1:
 
     # An "You criticize me, but you're such a hypocrite. I can't even understand what you're saying. What's a horse?"
-    An "Tu me critique, mais tu es tellement hypocrite. Je ne comprends même pas ce que tu me racontes. Qu'est-ce qu'un cheval ?"
+    An "Tu me critiques, mais tu es tellement hypocrite. Je ne comprends même pas ce que tu me racontes. Qu'est-ce qu'un cheval ?"
 
 # game/anna1.rpy:1201
 translate french anna1skip_089d2a2e:
@@ -1853,7 +1853,7 @@ translate french strings:
 
     # anna1.rpy:640
     old "Just wait and you'll see."
-    new "Attends juste et tu verra."
+    new "Attends juste et tu verras."
 
     # anna1.rpy:640
     old "I'm being cute and spontaneous?"
@@ -1897,7 +1897,7 @@ translate french strings:
 
     # anna1.rpy:809
     old "It was a lucky guess."
-    new "C'était de la chance je suppose."
+    new "C'était un coup de chance."
 
     # anna1.rpy:809
     old "Not a good start for you, is it?"
@@ -1937,7 +1937,7 @@ translate french strings:
 
     # anna1.rpy:965
     old "#3, the room submerged in water filled with alligators that have not eaten in eight months."
-    new "#3, La salle submergée par de l'eau, avec des alligators qui n'ont pas mangé depuis huit mois."
+    new "#3, la salle submergée par de l'eau, avec des alligators qui n'ont pas mangé depuis huit mois."
 
     # anna1.rpy:965
     old "None of these."
