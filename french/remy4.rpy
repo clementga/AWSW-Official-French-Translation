@@ -1750,7 +1750,7 @@ translate frenchtl remy4skip2_f210ba5f:
 translate frenchtl remy4skip2_cfd4b66e:
 
     # m "We met, and my arms enveloped his neck as our lips touched. For a few seconds, we were closer than ever before. During the kiss, he used a lot more tongue than I expected."
-    m "Nous nous sommes embrassés, et mes bras enveloppèrent son coup tandis que nos lèvres se touchaient. Pendant quelques secondes nous étions plus proches que jamais. Durant le baiser, il y mit plus de langue que ce à quoi je m"attendais."
+    m "Nous nous sommes embrassés, et mes bras enveloppèrent son coup tandis que nos lèvres se touchaient. Pendant quelques secondes nous étions plus proches que jamais. Durant le baiser, il y mit plus de langue que ce à quoi je m'attendais."
 
 # game/remy4.rpy:1043
 translate frenchtl remy4skip2_bea08d55:
