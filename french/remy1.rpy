@@ -1,6 +1,6 @@
-# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2020-06-06 20:21
 # Original translator : gone461
-# Reviews : 1 (BananaSplit)
+# Reviews : 2 (BananaSplit,AraMacaw)
 
 # game/remy1.rpy:4
 translate french remyhints_76b2fe88:
@@ -103,13 +103,13 @@ translate french _call_skipcheck_22_97628180:
 translate french _call_skipcheck_22_67f8c7af:
 
     # "???" "REMY!" with vpunch
-    "???" "RÉMI" with vpunch
+    "???" "Rémy" with vpunch
 
 # game/remy1.rpy:129
 translate french _call_skipcheck_22_b1af94d4:
 
     # Em "REMY!" with vpunch
-    Em "RÉMI" with vpunch
+    Em "Rémy" with vpunch
 
 # game/remy1.rpy:131
 translate french _call_skipcheck_22_5e2d76e5:
@@ -505,19 +505,19 @@ translate french _call_remyhints_10_db9fa518:
 translate french _call_syscheck_85_85d9d7a5:
 
     # s "You brought Remy's books into the correct order!"
-    s "Vous avez rangé les livres de Rémi dans le bon ordre !"
+    s "Vous avez rangé les livres de Rémy dans le bon ordre !"
 
 # game/remy1.rpy:746
 translate french _call_syscheck_85_54c6365b:
 
     # s "You brought Remy's books into the correct order. Amazing."
-    s "Vous avez rangé les livres de Rémi dans le bon ordre. Fantastique."
+    s "Vous avez rangé les livres de Rémy dans le bon ordre. Fantastique."
 
 # game/remy1.rpy:750
 translate french _call_syscheck_85_3b1c21eb:
 
     # s "You brought Remy's books into the correct order. What an achievement."
-    s "Vous avez rangé les livres de Rémi dans le bon ordre. Quel succès."
+    s "Vous avez rangé les livres de Rémy dans le bon ordre. Quel succès."
 
 # game/remy1.rpy:756
 translate french _call_syscheck_85_71a3b0ac:
@@ -577,7 +577,7 @@ translate french _call_syscheck_85_76b2fe88:
 translate french _call_syscheck_85_cb3d9530:
 
     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
+    n "Apparemment Rémy n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -643,7 +643,7 @@ translate french _call_syscheck_85_76b2fe88_2:
 translate french _call_syscheck_85_cb3d9530_1:
 
    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
+    n "Apparemment Rémy n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -709,7 +709,7 @@ translate french _call_syscheck_85_76b2fe88_4:
 translate french _call_syscheck_85_cb3d9530_2:
 
       # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
+    n "Apparemment Rémy n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -775,7 +775,7 @@ translate french _call_syscheck_85_76b2fe88_6:
 translate french _call_syscheck_85_cb3d9530_3:
 
      # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
+    n "Apparemment Rémy n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
 translate french _call_syscheck_85_6fabc8b8:
@@ -853,7 +853,7 @@ translate french remycont_83b5ca96:
 translate french remycont_273998e3:
 
     # m "Before I could answer, Remy came around the corner, his face bearing a look of disapproval. He stooped over and helped me pick up the spilled objects."
-    m "Avant que je ne puisse répondre, Rémi surgit de derrière une étagère, un regard désapprobateur sur son visage. Il se pencha et m'aida à ramasser les objets éparpillés."
+    m "Avant que je ne puisse répondre, Rémy surgit de derrière une étagère, un regard désapprobateur sur son visage. Il se pencha et m'aida à ramasser les objets éparpillés."
 
 # game/remy1.rpy:1054
 translate french remycont_dfdabe9a:
@@ -907,7 +907,7 @@ translate french remycont_2897079b:
 translate french remycont_15e5e930:
 
     # c "Oh, look at me, I'm Remy! I'm such a huge NERD. I like scrolls so much that I'd marry them if I could."
-    c "Oh, regardez-moi, je m'appelle Rémi ! Je suis un gros intello. J'aime tellement les parchemins que je me marierais avec si je le pouvais."
+    c "Oh, regardez-moi, je m'appelle Rémy ! Je suis un gros intello. J'aime tellement les parchemins que je me marierais avec si je le pouvais."
 
 # game/remy1.rpy:1085
 translate french remycont_0edb3f5d:
@@ -1363,7 +1363,7 @@ translate french remystuff_37a8d66f:
 translate french remystuff_b1af94d4:
 
     # Em "REMY!" with vpunch
-    Em "RÉMI!" with vpunch
+    Em "Rémy!" with vpunch
 
 # game/remy1.rpy:1269
 translate french remystuff_a1dc5ba8:
@@ -1387,7 +1387,7 @@ translate french remystuff_86148265:
 translate french remystuff_1da51af8:
 
     # c "(So, this is your office, Remy.)"
-    c "(Donc, voici ton bureau, Rémi.)"
+    c "(Donc, voici ton bureau, Rémy.)"
 
 # game/remy1.rpy:1298
 translate french remyoffmenu_d356bb2f:
@@ -1471,7 +1471,7 @@ translate french _call_syscheck_86_1df05425:
 translate french _call_syscheck_86_3760748d:
 
     # c "(There are a lot of used tissues. Maybe he had the flu, but dutiful as he is, he still went to work sick. Poor Remy.)"
-    c "(Il y a beaucoup de mouchoirs utilisés. Il a peut-être eu la grippe, mais fidèle au poste, il est venu travailler malgré tout. Pauvre Rémi.)"
+    c "(Il y a beaucoup de mouchoirs utilisés. Il a peut-être eu la grippe, mais fidèle au poste, il est venu travailler malgré tout. Pauvre Rémy.)"
 
 # game/remy1.rpy:1364
 translate french _call_syscheck_86_9bdb9a21:
@@ -2086,19 +2086,19 @@ translate french strings:
 
     # remy1.rpy:26
     old "Chapter 4 - Remy 1"
-    new "Chapitre 4 - Rémi 1"
+    new "Chapitre 4 - Rémy 1"
 
     # remy1.rpy:30
     old "Chapter 3 - Remy 1"
-    new "Chapitre 3 - Rémi 1"
+    new "Chapitre 3 - Rémy 1"
 
     # remy1.rpy:34
     old "Chapter 2 - Remy 1"
-    new "Chapitre 2 - Rémi 1"
+    new "Chapitre 2 - Rémy 1"
 
     # remy1.rpy:38
     old "Chapter 1 - Remy 1"
-    new "Chapitre 1 - Rémi 1"
+    new "Chapitre 1 - Rémy 1"
 
     # remy1.rpy:155
     old "Not like I had anything better to do."
