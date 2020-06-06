@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-06-06 20:20
 
 # game/remy3.rpy:46
 translate frenchtl _call_skiptut_24_44e0ddc6:
@@ -34,7 +34,7 @@ translate frenchtl _call_skipcheck_24_0054b77b:
 translate frenchtl _call_skipcheck_24_42ba5ff5:
 
     # c "Hey, Remy!"
-    c "Salut, Rémi !"
+    c "Salut, Rémy !"
 
 # game/remy3.rpy:107
 translate frenchtl _call_skipcheck_24_b78d98e9:
@@ -124,7 +124,7 @@ translate frenchtl _call_skipcheck_24_b3d7f3aa:
 translate frenchtl _call_skipcheck_24_a6c1b3cb:
 
     # c "Hey, you can talk to me, Remy."
-    c "Hey, Tu peux m'en parler, Rémi."
+    c "Hey, Tu peux m'en parler, Rémy."
 
 # game/remy3.rpy:174
 translate frenchtl _call_skipcheck_24_056888f8:
@@ -610,7 +610,7 @@ translate frenchtl remy2goodendingmenu_12281d58:
 translate frenchtl remy2goodendingmenu_e137ef85:
 
     # c "If you want to change something, Remy, you have to take action. What's the worst that could happen if you talk to her?"
-    c "Si tu veux changer quelque chose, Rémi, tu dois prendre des initiatives. Que pourrait-il arriver de pire si tu lui parles ?"
+    c "Si tu veux changer quelque chose, Rémy, tu dois prendre des initiatives. Que pourrait-il arriver de pire si tu lui parles ?"
 
 # game/remy3.rpy:443
 translate frenchtl remy2goodendingmenu_1a234d6d:
@@ -640,7 +640,7 @@ translate frenchtl c3remotherwise_209ec189:
 translate frenchtl c3remotherwise_06f8b421:
 
     # c "No problem, Remy."
-    c "Pas de problème, Rémi."
+    c "Pas de problème, Rémy."
 
 # game/remy3.rpy:468
 translate frenchtl c3remotherwise_dccb233b:
@@ -802,7 +802,7 @@ translate frenchtl c3remotherwise_f5ce6383:
 translate frenchtl c3remotherwise_2b8080a0:
 
     # m "Remy paused and gave me an embarrassed smile."
-    m "Rémi s'intérompit et m'adressa un sourire gêné."
+    m "Rémy s'intérompit et m'adressa un sourire gêné."
 
 # game/remy3.rpy:562
 translate frenchtl c3remotherwise_42d27763:
@@ -826,7 +826,7 @@ translate frenchtl _call_skiptut_25_eee83226:
 translate frenchtl _call_skiptut_25_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-     s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner du temps et passer jusqu'à la fin de cette scène."
+     s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrai"
 
 # game/remy3.rpy:612
 translate frenchtl _call_skiptut_25_0054b77b:
@@ -1804,19 +1804,19 @@ translate frenchtl strings:
 
     # remy3.rpy:10
     old "Chapter 4 - Remy 3"
-    new "Chapitre 4 - Rémi 3"
+    new "Chapitre 4 - Rémy 3"
 
     # remy3.rpy:14
     old "Chapter 3 - Remy 3"
-    new "Chapitre 3 - Rémi 3"
+    new "Chapitre 3 - Rémy 3"
 
     # remy3.rpy:18
     old "Chapter 2 - Remy 3"
-    new "Chapitre 2 - Rémi 3"
+    new "Chapitre 2 - Rémy 3"
 
     # remy3.rpy:22
     old "Chapter 1 - Remy 3"
-    new "Chapitre 1 - Rémi 3"
+    new "Chapitre 1 - Rémy 3"
 
     # remy3.rpy:113
     old "Can't say I have."
