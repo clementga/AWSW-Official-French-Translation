@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2020-06-06 20:20
 
 # game/remy2.rpy:50
 translate frenchtl _call_skiptut_34_0ff5f677:
@@ -154,7 +154,7 @@ translate frenchtl _call_skipcheck_34_d866693f:
 translate frenchtl _call_skipcheck_34_39122503:
 
     # m "With those words, Remy walked into the partially walled-off kitchen. There was no door, so I saw him open the fridge and take out two steaks before he set them on the counter."
-    m "Sur ces mots, Rémi alla dans la cuisine, partiellement ouverte sur le salon. Il n'y avait pas de porte, donc je le vis ouvrir le frigo et en sortir deux steaks avant de les poser sur le comptoir."
+    m "Sur ces mots, Rémy alla dans la cuisine, partiellement ouverte sur le salon. Il n'y avait pas de porte, donc je le vis ouvrir le frigo et en sortir deux steaks avant de les poser sur le comptoir."
 
 # game/remy2.rpy:218
 translate frenchtl _call_skipcheck_34_8968ee6f:
@@ -202,13 +202,13 @@ translate frenchtl _call_skipcheck_34_86148265:
 translate frenchtl _call_skipcheck_34_8ffd1b92:
 
     # m "I looked around the apartment as Remy cooked and couldn't help but notice the almost mesmerizing tidiness that permeated the place. Shelves were filled with books, scrolls, magazines and other various trinkets."
-    m "Je jetai un coup d'œil à l'appartement pendant que Rémi cuisinait et ne pus m'empêcher de remarquer la fascinante organisation qui imprégnait l'endroit. Les étagères étaient remplies de livres, de parchemins, magazines et divers bibelots."
+    m "Je jetai un coup d'œil à l'appartement pendant que Rémy cuisinait et ne pus m'empêcher de remarquer la fascinante organisation qui imprégnait l'endroit. Les étagères étaient remplies de livres, de parchemins, magazines et divers bibelots."
 
 # game/remy2.rpy:238
 translate frenchtl _call_skipcheck_34_c8f99ce9:
 
     # m "Suddenly, the repetitious noise of vegetables being cut ceased as Remy returned from the adjoining room."
-    m "Soudain, le bruit répétitif des légumes se faisant découper cessa alors que Rémi revenait de la pièce adjacente."
+    m "Soudain, le bruit répétitif des légumes se faisant découper cessa alors que Rémy revenait de la pièce adjacente."
 
 # game/remy2.rpy:242
 translate frenchtl _call_skipcheck_34_1e5e65c5:
@@ -274,31 +274,31 @@ translate frenchtl remy2menu_6a8904bf:
 translate frenchtl remy2menu_68a85906:
 
     # m "The second picture showed Remy in his typical attire - tie, glasses and all."
-    m "La seconde photo montrait Rémi dans son attirail typique - Cravatte, lunettes, la totale."
+    m "La seconde photo montrait Rémy dans son attirail typique - Cravatte, lunettes, la totale."
 
 # game/remy2.rpy:338
 translate frenchtl remy2menu_6496ac67:
 
     # m "The last of the three pictures was of another red dragon, who - as far as I could tell - was a fairly young member of its species. It reminded me of a younger version of Remy, although without his typical accessoires."
-    m "La dernière des trois photos était un autre dragon rouge, qui - d'après ce que je pouvais dire - était un membre plutôt jeune de son espèce. Il me rappelait une version plus jeune de Rémi, quoique sans ses accessoires typiques."
+    m "La dernière des trois photos était un autre dragon rouge, qui - d'après ce que je pouvais dire - était un membre plutôt jeune de son espèce. Il me rappelait une version plus jeune de Rémy, quoique sans ses accessoires typiques."
 
 # game/remy2.rpy:360
 translate frenchtl _call_syscheck_114_77554175:
 
     # s "You looked at Remy's pictures! {image=image/ui/status/c2pictures.png}"
-    s "Tu as regardé les photos de Rémi ! {image=image/ui/status/c2pictures.png}"
+    s "Tu as regardé les photos de Rémy ! {image=image/ui/status/c2pictures.png}"
 
 # game/remy2.rpy:364
 translate frenchtl _call_syscheck_114_e49e42fa:
 
     # s "You looked at Remy's pictures. Creep.{image=image/ui/status/c2pictures.png}"
-    s "Tu as regardé les photos de Rémi. Pervers. {image=image/ui/status/c2pictures.png}"
+    s "Tu as regardé les photos de Rémy. Pervers. {image=image/ui/status/c2pictures.png}"
 
 # game/remy2.rpy:368
 translate frenchtl _call_syscheck_114_a27820b1:
 
     # s "You looked at Remy's pictures. Better than prying into his bedroom, at least.{image=image/ui/status/c2pictures.png}"
-    s "Tu as regardé les photos de Rémi. Au moins, c'est toujours mieux que de fouiner dans sa chambre. {image=image/ui/status/c2pictures.png}"
+    s "Tu as regardé les photos de Rémy. Au moins, c'est toujours mieux que de fouiner dans sa chambre. {image=image/ui/status/c2pictures.png}"
 
 # game/remy2.rpy:375
 translate frenchtl _call_syscheck_114_6891e17b:
@@ -322,7 +322,7 @@ translate frenchtl _call_syscheck_114_0788b0be:
 translate frenchtl _call_syscheck_114_63678003:
 
     # c "(Looks like Remy still isn't back.)"
-    c "(Il semblerait que Rémi n'est toujours pas revenu.)"
+    c "(Il semblerait que Rémy n'est toujours pas revenu.)"
 
 # game/remy2.rpy:403
 translate frenchtl _call_syscheck_114_15a8f30b:
@@ -340,7 +340,7 @@ translate frenchtl remy2cont_f3bc5b96:
 translate frenchtl remy2cont_97ce035f:
 
     # m "I barely heard the muffled sound, but when I saw Remy's ears perk, I realized he had more sensitive ears than I expected."
-    m "J'avais à peine entendu le son étouffé, mais quand je vis les oreilles de Rémi se dresser, je réalisai qu'il avait une ouïe plus sensible que ce que à quoi je m'attendais."
+    m "J'avais à peine entendu le son étouffé, mais quand je vis les oreilles de Rémy se dresser, je réalisai qu'il avait une ouïe plus sensible que ce que à quoi je m'attendais."
 
 # game/remy2.rpy:446
 translate frenchtl remy2cont_05d1a2fa:
@@ -526,7 +526,7 @@ translate frenchtl remy2cont_453c3f35:
 translate frenchtl remy2cont_d6d4994f:
 
     # m "I looked down and saw that a plate was already in front of me, piled with steak and vegetables. Remy was already eating, so I took the knife he had provided and cut off a small corner of my steak."
-    m "Je baissai les yeux et vis qu'une assiette était déjà posé devant moi, avec dessus un steak et des légumes. Rémi était déjà en train de manger, donc je pris le couteau qu'il m'avait fourni et me coupa un boût de mon steak."
+    m "Je baissai les yeux et vis qu'une assiette était déjà posé devant moi, avec dessus un steak et des légumes. Rémy était déjà en train de manger, donc je pris le couteau qu'il m'avait fourni et me coupa un boût de mon steak."
 
 # game/remy2.rpy:563
 translate frenchtl remy2cont_e78d707f:
@@ -562,7 +562,7 @@ translate frenchtl remy2cont_7543ea61:
 translate frenchtl remy2cont_18b631e1:
 
     # m "Remy's words snapped me back to reality."
-    m "Les mots de Rémi me ramenèrent à la réalité."
+    m "Les mots de Rémy me ramenèrent à la réalité."
 
 # game/remy2.rpy:575
 translate frenchtl remy2cont_dab4e608:
@@ -1552,7 +1552,7 @@ translate frenchtl _call_skipcheck_35_59bc1ef6:
 translate frenchtl _call_skipcheck_35_2fbca092:
 
     # m "Remy reached with his free forepaw in his attempt to save it, but lost balance without its support and fell over."
-    m "Rémi tenta de l'atteindre avec sa patte libre, dans sa tentative de la sauver, mais perdit l'équilibre sans son support et tomba en avant."
+    m "Rémy tenta de l'atteindre avec sa patte libre, dans sa tentative de la sauver, mais perdit l'équilibre sans son support et tomba en avant."
 
 # game/remy2.rpy:1282
 translate frenchtl _call_skipcheck_35_e2efb8b7:
@@ -1564,7 +1564,7 @@ translate frenchtl _call_skipcheck_35_e2efb8b7:
 translate frenchtl _call_skipcheck_35_273ec8d2:
 
     # m "For a few moments, there was silence as Remy and I looked at the result of his blunder."
-    m "Pendant un moment, il y avait un silence tandis que Rémi et moi regardions le résultat des sa gaffe."
+    m "Pendant un moment, il y avait un silence tandis que Rémy et moi regardions le résultat des sa gaffe."
 
 # game/remy2.rpy:1298
 translate frenchtl _call_skipcheck_35_0cdc1fe2:
@@ -1864,7 +1864,7 @@ translate frenchtl remy2skip_23de5913:
 translate frenchtl remy2skip_a7b65946:
 
     # m "As I left the apartment, Remy got to his feet and started to clean up the mess."
-    m "Alors que je quittais l'appartement, Rémi se leva et commença à nettoyer le bazzare."
+    m "Alors que je quittais l'appartement, Rémy se leva et commença à nettoyer le bazzare."
 
 # game/remy2.rpy:1507
 translate frenchtl remy2skip_76b2fe88_2:
@@ -1876,19 +1876,19 @@ translate frenchtl strings:
 
     # remy2.rpy:10
     old "Chapter 4 - Remy 2"
-    new "Chapitre 4 - Rémi 2"
+    new "Chapitre 4 - Rémy 2"
 
     # remy2.rpy:14
     old "Chapter 3 - Remy 2"
-    new "Chapitre 3 - Rémi 2"
+    new "Chapitre 3 - Rémy 2"
 
     # remy2.rpy:18
     old "Chapter 2 - Remy 2"
-    new "Chapitre 2 - Rémi 2"
+    new "Chapitre 2 - Rémy 2"
 
     # remy2.rpy:22
     old "Chapter 1 - Remy 2"
-    new "Chapitre 1 - Rémi 2"
+    new "Chapitre 1 - Rémy 2"
 
     # remy2.rpy:120
     old "It's no problem, really."
@@ -2044,7 +2044,7 @@ translate frenchtl strings:
 
     # remy2.rpy:1042
     old "Good job, Remy. You're AWESOME."
-    new "Beau boulot Rémi. Tu es GENIAL."
+    new "Beau boulot Rémy. Tu es GENIAL."
 
     # remy2.rpy:1065
     old "Ain't nobody got time for that." #meme reference
@@ -2060,7 +2060,7 @@ translate frenchtl strings:
     
     # remy2.rpy:1098
     old "I agree."
-    nes "Je suis d'accord."
+    new "Je suis d'accord."
 
     # remy2.rpy:1098
     old "I didn't know you wanted to chat."
