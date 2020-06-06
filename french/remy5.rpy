@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-06-06 20:20
 
 # game/remy5.rpy:12
 translate frenchtl remy5_cb2b8cb1:
@@ -112,7 +112,7 @@ translate frenchtl remy5_d5667416:
 translate frenchtl remy5_ed67b9fa:
 
     # c "Remy, I think we need to go. Now."
-    c "Rémi, je crois qu'on dois y aller. Maintenant."
+    c "Rémy, je crois qu'on dois y aller. Maintenant."
 
 # game/remy5.rpy:81
 translate frenchtl remy5_462b44ad:
@@ -166,7 +166,7 @@ translate frenchtl remy5_91cde1b5:
 translate frenchtl remy5_184fb767:
 
     # m "I started running as Remy's voice called out to me."
-    m "Je commençai à courrir quand Rémi m'appella."
+    m "Je commençai à courrir quand Rémy m'appella."
 
 # game/remy5.rpy:101
 translate frenchtl remy5_051ed2da:
@@ -190,7 +190,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_5233b371:
 translate frenchtl _call_endingjustafewminuteslater_2_07e6a997:
 
     # m "Suddenly, Maverick and Remy appeared next to me."
-    m "Soudain, Maverick et Rémi apparurent à côté de moi."
+    m "Soudain, Maverick et Rémy apparurent à côté de moi."
 
 # game/remy5.rpy:131
 translate frenchtl _call_endingjustafewminuteslater_2_40a50c3c:
@@ -298,7 +298,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_540abdc9:
 translate frenchtl _call_endingjustafewminuteslater_2_ebe742c3:
 
     # m "Reza was quick with his gun and shot Remy once before Maverick could charge him."
-    m "Reza fut rapide avec son arme et tira une fois sur Rémi avant que Maverick ne puisse foncer sur lui."
+    m "Reza fut rapide avec son arme et tira une fois sur Rémy avant que Maverick ne puisse foncer sur lui."
 
 # game/remy5.rpy:253
 translate frenchtl _call_endingjustafewminuteslater_2_5599f9c1:
@@ -370,7 +370,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_bd6f8931:
 translate frenchtl _call_endingjustafewminuteslater_2_08c15b2e:
 
     # m "I crawled over to Remy and was glad to hear him breathing."
-    m "Je rampai vers Rémi et fut content de l'entendre respirer."
+    m "Je rampai vers Rémy et fut content de l'entendre respirer."
 
 # game/remy5.rpy:335
 translate frenchtl _call_endingjustafewminuteslater_2_4ee7c247:
@@ -424,13 +424,13 @@ translate frenchtl _call_endingjustafewminuteslater_2_684bbb9e:
 translate frenchtl _call_endingjustafewminuteslater_2_606d77a7:
 
     # m "He felt around his side, trying to get the right grip before he applied pressure on his own. I let go, and after a bit of adjustment, Remy could stop the bleeding on his own for now."
-    m "Il se laissa tomber sur le côté, essayant de ne pas glisser avant d'appliquer une pression de lui même. Je relâchai, et après quelque ajustements, Rémi put arrêter le saignement de lui même pour le moment."
+    m "Il se laissa tomber sur le côté, essayant de ne pas glisser avant d'appliquer une pression de lui même. Je relâchai, et après quelque ajustements, Rémy put arrêter le saignement de lui même pour le moment."
 
 # game/remy5.rpy:355
 translate frenchtl _call_endingjustafewminuteslater_2_847c0930:
 
     # m "I took off my shirt and briefly considered whether I would be able to use it to dress Remy's wound, but I soon realized it was not long enough to wrap around him properly."
-    m "J'enlevai ma chemise et considéra brièvement à l'utiliser pour appliquer un bandage sur la blessure de Rémi, mais je réalisai très vite que ce n'était pas assez long pour bien faire le tour de son corps."
+    m "J'enlevai ma chemise et considéra brièvement à l'utiliser pour appliquer un bandage sur la blessure de Rémy, mais je réalisai très vite que ce n'était pas assez long pour bien faire le tour de son corps."
 
 # game/remy5.rpy:357
 translate frenchtl _call_endingjustafewminuteslater_2_4c48abc5:
@@ -454,7 +454,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_e53174bf:
 translate frenchtl _call_endingjustafewminuteslater_2_a56d7ef0:
 
     # m "Remy was right. Both Reza and the Administrator were gone."
-    m "Rémi avait raison. Reza et l'Administrateur avaient tout les deux disparu."
+    m "Rémy avait raison. Reza et l'Administrateur avaient tout les deux disparu."
 
 # game/remy5.rpy:365
 translate frenchtl _call_endingjustafewminuteslater_2_c290c862:
@@ -544,7 +544,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88:
 translate frenchtl _call_endingjustafewminuteslater_2_fba8d596:
 
     # n "I made my way back to Remy to look for something to treat his wound. Given everything that had just transpired, I had no idea what was going to happen."
-    n "Je revins vers Rémi pour chercher quelque chose qui pusse traiter nos blessures. Compte tenu de tout ce qui s'était passé, Je n'avais aucune idée de ce qui allait arriver."
+    n "Je revins vers Rémy pour chercher quelque chose qui pusse traiter nos blessures. Compte tenu de tout ce qui s'était passé, Je n'avais aucune idée de ce qui allait arriver."
 
 # game/remy5.rpy:421
 translate frenchtl _call_endingjustafewminuteslater_2_c7a74a32:
@@ -592,7 +592,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88_1:
 translate frenchtl _call_endingjustafewminuteslater_2_12ccb622:
 
     # n "I didn't know what Reza had told them, but I certainly didn't want to leave just yet. I tried to protest and told them about Remy, and the soldier let me know that they would take care of it. For now, however, their orders were clear and I was to come with them immediately."
-    n "Je ne savais pas ce que Reza leur avait dit, mais je ne voulais certainement pas partie maintenant. J'essayai de m'opposer et leur ai parlé de Rémi, et le soldat me fit savoir qu'ils se chargeraient de ça. Pour l'instant, leurs ordres étaient clair et je devais venir avec eux immédiatement."
+    n "Je ne savais pas ce que Reza leur avait dit, mais je ne voulais certainement pas partie maintenant. J'essayai de m'opposer et leur ai parlé de Rémy, et le soldat me fit savoir qu'ils se chargeraient de ça. Pour l'instant, leurs ordres étaient clair et je devais venir avec eux immédiatement."
 
 # game/remy5.rpy:439
 translate frenchtl _call_endingjustafewminuteslater_2_71db95d0:
@@ -724,13 +724,13 @@ translate frenchtl _call_endingjustafewminuteslater_2_48feb085:
 translate frenchtl _call_endingjustafewminuteslater_2_041d5c86:
 
     # m "Blinded by the sun, I couldn't quite make out the dragon before it landed and approached. It was Remy."
-    m "Aveuglé par le soleil, je ne pouvais pas vraiment reconnaître le dragon avant qu'il n'atterrisse et ne s'approche. C'était Rémi."
+    m "Aveuglé par le soleil, je ne pouvais pas vraiment reconnaître le dragon avant qu'il n'atterrisse et ne s'approche. C'était Rémy."
 
 # game/remy5.rpy:503
 translate frenchtl _call_endingjustafewminuteslater_2_d8f61250:
 
     # c "Remy! What are you doing here?"
-    c "Rémi ! Qu'est-ce que tu fais là ?"
+    c "Rémy ! Qu'est-ce que tu fais là ?"
 
 # game/remy5.rpy:505
 translate frenchtl _call_endingjustafewminuteslater_2_ac0d4b1f:
@@ -790,7 +790,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_c5d03f6a:
 translate frenchtl _call_endingjustafewminuteslater_2_0047d285:
 
     # c "Remy..."
-    c "Rémi..."
+    c "Rémy..."
 
 # game/remy5.rpy:525
 translate frenchtl _call_endingjustafewminuteslater_2_d2efe431:
@@ -856,7 +856,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_0aef8823:
 translate frenchtl _call_endingjustafewminuteslater_2_4009b000:
 
     # m "I watched as Remy reactivated the portal, using its interface with his somewhat clumsy paws."
-    m "Je regardais tandis que Rémi réactivait le portail, utilisant l'interface avec ses pattes un peu maladroites."
+    m "Je regardais tandis que Rémy réactivait le portail, utilisant l'interface avec ses pattes un peu maladroites."
 
 # game/remy5.rpy:553
 translate frenchtl _call_endingjustafewminuteslater_2_5e15e851:
@@ -886,7 +886,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_36697e89:
 translate frenchtl _call_endingjustafewminuteslater_2_4597dab0:
 
     # c "Remy, I think I've got some very bad news."
-    c "Rémi, je pense que j'ai de très mauvaises nouvelles."
+    c "Rémy, je pense que j'ai de très mauvaises nouvelles."
 
 # game/remy5.rpy:563
 translate frenchtl _call_endingjustafewminuteslater_2_4ff11ae8:
@@ -970,7 +970,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_be26647f:
 translate frenchtl _call_endingjustafewminuteslater_2_f2c585f0:
 
     # c "Can Remy come with us?"
-    c "Est-ce que Rémi peut venir avec nous ?"
+    c "Est-ce que Rémy peut venir avec nous ?"
 
 # game/remy5.rpy:601
 translate frenchtl _call_endingjustafewminuteslater_2_e85f99cb:
@@ -1066,13 +1066,13 @@ translate frenchtl _call_endingjustafewminuteslater_2_998fd1c1:
 translate frenchtl _call_endingjustafewminuteslater_2_0d874340:
 
     # m "As I heard the familiar sound of the portal starting up, the last thing I saw was Remy watching us as he slowly undid his tie and slipped it off his neck."
-    m "Tandis que j'entendais le bruit familier du portail démarrer, la dernière chose que je visse fut Rémi nous regardant alors qu'il défaisait sa cravate et l'enlevait de son coup."
+    m "Tandis que j'entendais le bruit familier du portail démarrer, la dernière chose que je visse fut Rémy nous regardant alors qu'il défaisait sa cravate et l'enlevait de son coup."
 
 # game/remy5.rpy:807
 translate frenchtl _call_syscheck_71_b73da2a0:
 
     # s "You have seen Remy's bad ending!"
-    s "Vous avez vu la mauvaise fin de Rémi !"
+    s "Vous avez vu la mauvaise fin de Rémy !"
 
 # game/remy5.rpy:831
 translate frenchtl remygoodending_14f8db56:
@@ -1138,7 +1138,7 @@ translate frenchtl remygoodending_039c8651:
 translate frenchtl remygoodending_b05e5f4b:
 
     # m "When I looked up again, I saw Remy looking at me with a pained expression."
-    m "En relevant la tête, je vis Rémi me regarder avec une expression empli de douleur."
+    m "En relevant la tête, je vis Rémy me regarder avec une expression empli de douleur."
 
 # game/remy5.rpy:1022
 translate frenchtl remygoodending_1b3f7f53:
@@ -1162,7 +1162,7 @@ translate frenchtl remygoodending_38c3881e:
 translate frenchtl remygoodending_0d259e8b:
 
     # n "Soon, more help arrived. Remy and I got all the medical attention we needed."
-    n "Très vite, des renforts arrivèrent. Rémi et moi reçûmes toute l'attention médicale dont nous avions besoins."
+    n "Très vite, des renforts arrivèrent. Rémy et moi reçûmes toute l'attention médicale dont nous avions besoins."
 
 # game/remy5.rpy:1044
 translate frenchtl remygoodending_e6933e74:
@@ -1264,7 +1264,7 @@ translate frenchtl remygoodending_af3ad756:
 translate frenchtl remygoodending_bb30bf9e:
 
     # n "As soon as I could, I met with Remy, who told me about everything I had missed."
-    n "Dès que je le pus, j'allai retrouver Rémi, qui me raconta tout ce que j'avais manqué."
+    n "Dès que je le pus, j'allai retrouver Rémy, qui me raconta tout ce que j'avais manqué."
 
 # game/remy5.rpy:1083
 translate frenchtl remygoodending_76b2fe88_2:
@@ -1372,11 +1372,11 @@ translate frenchtl remygoodending_44b1ec79:
 translate frenchtl _call_syscheck_72_cc23d045:
 
     # s "You have seen Remy's good ending!"
-    s "Vous avez vu la bonne fin de Rémi !"
+    s "Vous avez vu la bonne fin de Rémy !"
 
 translate frenchtl strings:
 
     # remy5.rpy:7
     old "Chapter 5 - Remy"
-    new "Chapitre 5 - Rémi"
+    new "Chapitre 5 - Rémy"
 
