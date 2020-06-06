@@ -508,7 +508,7 @@ translate french _call_skipcheck_3e38b9a5:
 translate french _call_skipcheck_e8344bb6:
 
     # c "It gets better. They grow continuously, so they need to be cut regularly."
-    c "Encore mieux. Ils poussent en continu", donc il faut les couper régulièrement.
+    c "Encore mieux. Ils poussent en continu, donc il faut les couper régulièrement."
 
 # game/anna3.rpy:394
 translate french _call_skipcheck_32849cad:
@@ -1636,7 +1636,7 @@ translate french _call_skipcheck_44b2fd02:
 translate french _call_skipcheck_0f173ebb:
 
     # c "What is it?"
-    c "Quoi donc ?""
+    c "Quoi donc ?"
 
 # game/anna3.rpy:1070
 translate french _call_skipcheck_5e2c01f1:
