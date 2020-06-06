@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2020-06-06 20:20
 
 # game/remy4.rpy:31
 translate frenchtl remy4_42bcad01:
@@ -40,7 +40,7 @@ translate frenchtl _call_skipcheck_28_0054b77b:
 translate frenchtl _call_skipcheck_28_241427e0:
 
     # c "Remy, what's that on your face?"
-    c "Rémi, qu'est-ce que c'est que ce truc sur ton visage ?"
+    c "Rémy, qu'est-ce que c'est que ce truc sur ton visage ?"
 
 # game/remy4.rpy:115
 translate frenchtl _call_skipcheck_28_314084ce:
@@ -592,7 +592,7 @@ translate frenchtl _call_skipcheck_28_00974107:
 translate frenchtl _call_skipcheck_28_2b440c0e:
 
     # m "I took a sip from my wine glass. Remy really hadn't been kidding about getting the second cheapest bottle, because that was exactly what it tasted like."
-    m "Je pris une gorgée de mon verre à vin. Rémi ne plaisantait pas quand au sujet de prendre la seconde boutielle la moins chère, parce que ça en avait exactement le goût."
+    m "Je pris une gorgée de mon verre à vin. Rémy ne plaisantait pas quand au sujet de prendre la seconde boutielle la moins chère, parce que ça en avait exactement le goût."
 
 # game/remy4.rpy:401
 translate frenchtl _call_skipcheck_28_85881e65:
@@ -1468,7 +1468,7 @@ translate frenchtl _call_skipcheck_29_608ebe1f:
 translate frenchtl _call_skipcheck_29_48b3174b:
 
     # m "I watched Remy as he got up again, stretching himself in a way that reminded me of a cat before we prepared to leave again."
-    m "Je regardait Rémi tandis qu'il se relevait, s'étirant d'une façon qui me rappelait celle d'un chat avant qu'on ne se prépare à repartir."
+    m "Je regardait Rémy tandis qu'il se relevait, s'étirant d'une façon qui me rappelait celle d'un chat avant qu'on ne se prépare à repartir."
 
 # game/remy4.rpy:838
 translate frenchtl _call_skipcheck_29_093348e2:
@@ -1840,19 +1840,19 @@ translate frenchtl strings:
 
     # remy4.rpy:7
     old "Chapter 4 - Remy 4"
-    new "Chapitre 4 - Rémi 4"
+    new "Chapitre 4 - Rémy 4"
 
     # remy4.rpy:11
     old "Chapter 3 - Remy 4"
-    new "Chapitre 3 - Rémi 4"
+    new "Chapitre 3 - Rémy 4"
 
     # remy4.rpy:15
     old "Chapter 2 - Remy 4"
-    new "Chapitre 2 - Rémi 4"
+    new "Chapitre 2 - Rémy 4"
 
     # remy4.rpy:19
     old "Chapter 1 - Remy 4"
-    new "Chapitre 1 - Rémi 4"
+    new "Chapitre 1 - Rémy 4"
 
     # remy4.rpy:227
     old "They're pretty interesting."
