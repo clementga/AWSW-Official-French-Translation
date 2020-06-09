@@ -2010,10 +2010,6 @@ translate frenchtl strings:
     old "I agree."
     new "Je suis d'accord."
 
-    # remy2.rpy:885
-    old "Say nothing."
-    new "Ne rien dire."
-
     # remy2.rpy:968
     old "I don't know."
     new "Je ne sais pas."
@@ -2057,10 +2053,6 @@ translate frenchtl strings:
     # remy2.rpy:1065
     old "I wouldn't mind playing some of your video games."
     new "Ca ne me dérangerais pas de jouer à certains de tes jeux vidéos."
-    
-    # remy2.rpy:1098
-    old "I agree."
-    nes "Je suis d'accord."
 
     # remy2.rpy:1098
     old "I didn't know you wanted to chat."

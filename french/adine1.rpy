@@ -798,7 +798,7 @@ translate french _call_skipcheck_10_4f76bc1a:
 translate french _call_skipcheck_10_a9cad82b:
 
     # Ad "Oh, you've got \"Price and Prayer\". You should totally read that one."
-    Ad "Oh, tu as \"Prix et Prière"\. Tu devrait totalement lire celui là."
+    Ad "Oh, tu as \"Prix et Prière\". Tu devrait totalement lire celui là."
 
 # game/adine1.rpy:560
 translate french _call_skipcheck_10_d98d0cd8:

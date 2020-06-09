@@ -1993,10 +1993,6 @@ translate french strings:
     new "Ça ne peut pas être si difficile."
 
     # bryce1.rpy:71
-    old "Alright."
-    new "D'accord."
-
-    # bryce1.rpy:71
     old "I'd rather not."
     new "Je ne préfère pas."
 
@@ -2043,10 +2039,6 @@ translate french strings:
     # bryce1.rpy:551
     old "I'm in."
     new "J'en suis."
-
-    # bryce1.rpy:551
-    old "[[Leave.]"
-    new "[[Part.]."
 
     # bryce1.rpy:636
     old "That sounds easy enough."
@@ -2164,10 +2156,6 @@ translate french strings:
     old "S-Suck on this, you ssscaly bastard."
     new "P-prends ça... d-dans les dents, enf..foiré !"
 
-    # bryce1.rpy:1064
-    old "[[Say nothing.]"
-    new "[[Ne dit rien.]"
-
     # bryce1.rpy:1109
     old "Yeah."
     new "Ouais... Ouais, ça va."
@@ -2199,10 +2187,6 @@ translate french strings:
     # bryce1.rpy:1169
     old "If I have to..."
     new "Si c'est la règle..."
-
-    # bryce1.rpy:1169
-    old "[[Leave.]"
-    new "[[Part.]"
 
     # bryce1.rpy:1214
     old "Dump some water on his face."
