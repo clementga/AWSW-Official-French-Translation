@@ -2463,10 +2463,6 @@ translate french strings:
   new "Chapitre 1 - Bryce 3"
 
   # bryce3.rpy:141
-  old "Sure."
-  new "Bien sûr."
-
-  # bryce3.rpy:141
   old "I'll try."
   new "Je vais essayer."
 
@@ -2538,13 +2534,9 @@ translate french strings:
   old "He's just a friend."
   new "C'est juste un ami."
 
-   # bryce3.rpy:803
-   old "Okay, I like him. Sue me."
-   new "D'accord, je l'aime bien. Allez-y, foutez vous de moi."
-
   # bryce3.rpy:803
-  old "That's none of your business."
-  new "Ça ne vous regarde pas."
+  old "Okay, I like him. Sue me."
+  new "D'accord, je l'aime bien. Allez-y, foutez vous de moi."
 
   # bryce3.rpy:803
   old "Don't get too worked up. It's not a thing anymore."
@@ -2575,10 +2567,6 @@ translate french strings:
   new "J'ai juste fait un pari avec elle, il n'y a pas de quoi s'inquiéter."
 
   # bryce3.rpy:909
-  old "That's none of your business."
-  new "Laissez tomber, ça ne vous regarde pas."
-
-  # bryce3.rpy:909
   old "I probably won't see her again anyway."
   new "De toute façon je ne la reverrais plus."
 
@@ -2597,11 +2585,6 @@ translate french strings:
   # bryce3.rpy:1233
   old "Ask him about the map."
   new "Parle lui parler du plan."
-
-  # bryce3.rpy:1233
-  old "Don't say anything."
-  new "Ne lui en parle pas."
-
 
   # bryce3.rpy:1269
   old "There's no need for you to sleep on the floor."

@@ -2174,20 +2174,8 @@ translate french strings:
     new "Merci Bryce."
 
     # bryce2.rpy:594
-    old "Likewise."
-    new "Je ferais la même pour toi."
-
-    # bryce2.rpy:594
     old "Watch your own back first."
     new "Surveille tes arrières avant tout."
-
-    # bryce2.rpy:623
-    old "Sure."
-    new "Ouais, bien sûr."
-
-    # bryce2.rpy:623
-    old "No, thanks."
-    new "Non merci, c'est gentil."
 
     # bryce2.rpy:623
     old "I thought we didn't want to get drunk again."
@@ -2196,10 +2184,6 @@ translate french strings:
     # bryce2.rpy:623
     old "Can't you even stop drinking for the few hours I'm here?"
     new "Tu ne peux même pas te retenir de boire pendant que je suis ici ?"
-
-    # bryce2.rpy:673
-    old "Wait."
-    new "L'attendre."
 
     # bryce2.rpy:673
     old "Examine the blanket."
@@ -2268,7 +2252,3 @@ translate french strings:
     # bryce2.rpy:1219
     old "I've probably seen worse."
     new "J'ai peut-être bien vu pire, tu sais."
-
-    # bryce2.rpy:1219
-    old "I see."
-    new "Je vois."

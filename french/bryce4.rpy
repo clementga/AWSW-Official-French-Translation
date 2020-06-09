@@ -1325,7 +1325,7 @@ translate french bryce4skip_6ac5d749:
 translate french bryce4skip_156df2b4:
 
     # Br normal "Don't you worry about him. You mentioned that you had a talk with him about a week ago, and that didn't end badly for you either. He might be scary, but I don't think you need to be afraid of him."
-    Br normal "Ne t'inquiète pas pour lui. Tu m'as dit avoir déjà eut une discussion en tête à tête il y a une semaine à peu près, et il ne s'est rien passé de spécial."*
+    Br normal "Ne t'inquiète pas pour lui. Tu m'as dit avoir déjà eut une discussion en tête à tête il y a une semaine à peu près, et il ne s'est rien passé de spécial."
     Br "Je sais qu'il peut paraître effrayant à première vue, mais tu n'as pas à avoir peur de lui."
 
 # game/bryce4.rpy:603
@@ -1919,10 +1919,6 @@ translate french strings:
     # bryce4.rpy:191
     old "No, thanks. It's all yours."
     new "Je t'en prie, il est tout à toi."
-
-    # bryce4.rpy:191
-    old "Sure."
-    new "Bien sûr."
 
     # bryce4.rpy:702
     old "It didn't mean what you thought it meant."

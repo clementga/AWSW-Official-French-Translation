@@ -2269,10 +2269,6 @@ translate french strings:
     new "Suis-je vraiment obligé de le faire ?"
     
     #remy1.rpy:1019
-    old "If I have to."
-    new "S'il le faut."
-    
-    #remy1.rpy:1019
     old "Sure thing."
     new "Bien sûr."
 

@@ -82,7 +82,7 @@ translate french evilending_32568256:
 translate french evilending_36ce8cdb:
 
     # m "I had acquired it in a previous attempt. I wasn't sure how long ago that was, but I vaguely remembered taking it from Reza's corpse after he had tried to kill me one time."
-    m Je l'avais acquis lors d'un de mes précédents voyages. Je ne savais plus quand exactement, mais je me souvenais l'avoir pris sur le corps de Reza après que ce dernier ai tenté de me tuer.""
+    m "Je l'avais acquis lors d'un de mes précédents voyages. Je ne savais plus quand exactement, mais je me souvenais l'avoir pris sur le corps de Reza après que ce dernier ai tenté de me tuer."
 
 # game/chapter5evilending.rpy:45
 translate french evilending_b72c2187:
