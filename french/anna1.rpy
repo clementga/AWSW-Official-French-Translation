@@ -113,37 +113,37 @@ translate french anna1_28d33d90:
 translate french _call_skiptut_7_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes données indiquent que vous avez déjà expérimenté cette scène d'une manière satisfaisante. Souhaitez vous passer à la fin ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
 
 # game/anna1.rpy:119
 translate french _call_skiptut_7_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semblerait que vous ayez déjà vu ceci avant. Passer jusqu'à la fin de la scène ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la sélection des scènes ?"
 
 # game/anna1.rpy:127
 translate french _call_skiptut_7_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Donc, il semblerait que vous ayez déjà vu ceci auparavant. Vous pourriez le regarder de nouveau, ou l'on pourrait vous faire gagner du temps et passer jusqu'à la fin de la scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des scènes."
 
 # game/anna1.rpy:142
 translate french _call_skiptut_7_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}}"
 
 # game/anna1.rpy:163
 translate french _call_skipcheck_7_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna1.rpy:175
 translate french _call_skipcheck_7_15b4d010:
 
     # An "Who cares?"
-    An "Qui en a quelque chose à faire?"
+    An "Qui en a quelque chose à faire ?"
 
 # game/anna1.rpy:181
 translate french _call_skipcheck_7_206a6186:
