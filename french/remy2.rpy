@@ -1570,7 +1570,7 @@ translate frenchtl _call_skipcheck_35_273ec8d2:
 translate frenchtl _call_skipcheck_35_0cdc1fe2:
 
     # Ry "I'm sorry, [player_name]."
-    Ry "Je suis désolé, [player_name].
+    Ry "Je suis désolé, [player_name]."
 
 # game/remy2.rpy:1317
 translate frenchtl _call_skipcheck_35_f1478745:

@@ -826,7 +826,7 @@ translate frenchtl _call_skiptut_25_eee83226:
 translate frenchtl _call_skiptut_25_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-     s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrai
+     s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner du temps et passer jusqu'à la fin de cette scène."
 
 # game/remy3.rpy:612
 translate frenchtl _call_skiptut_25_0054b77b:
