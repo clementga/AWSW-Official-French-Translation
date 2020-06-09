@@ -4759,16 +4759,6 @@ translate french strings:
     # chapter1.rpy:1328
     old "Just like you."
     new "Comme toi."
-    
-    # chapter1.rpy:1461
-    # Ajout
-    old "I'd rather not."
-    new "Je ne préfère pas."
-    
-    # chapter1.rpy:1477
-    # Ajout
-    old "Sure, why not."
-    new "Pourquoi pas."
 
     # chapter1.rpy:1627
     old "They say it's for our own security."
@@ -4787,10 +4777,6 @@ translate french strings:
     new "Vous avez été capable d'identifier correctement notre espèce en se basant sur notre apparence, félicitations !"
 
     # chapter1.rpy:1653
-    old "Wait, where?"
-    new "Quoi ? Où ça ?"
-
-    # chapter1.rpy:1653
     old "Oh, it's a dragon!"
     new "Oh, c'est un dragon !"
 
@@ -4805,10 +4791,6 @@ translate french strings:
     # chapter1.rpy:1677
     old "Today's special."
     new "Le plat du jour."
-    
-    # chapter1.rpy:1706
-    old "I'm not sure."
-    new "Je ne suis pas sûr."
 
     # chapter1.rpy:1706
     old "Yeah, I've noticed it too."
@@ -4837,18 +4819,10 @@ translate french strings:
     # chapter1.rpy:1753
     old "Now shoo, scaly-face."
     new "Maintenant ouste, face d'écailles."
-    
-    # chapter1.rpy:1753
-    old "[[Say nothing.]"
-    new "[[Ne rien dire.]"
 
     # chapter1.rpy:1888
     old "Of course not, as long as I don't have to pay the bill."
     new "Bien sûr que non, tant que je n'ai pas à payer la facture."
-    
-    # chapter1.rpy:1888
-    old "Actually, I do."
-    new "En fait, si, cela me gêne"
 
     # chapter1.rpy:1888
     old "How nice of you."

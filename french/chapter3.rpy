@@ -3947,7 +3947,7 @@ translate french c3fac_9a4a39ed_1:
 translate french c3fac_0b226d75_2:
 
     # Lo happy "Hey, [player_name]!"
-    Lo happy "Salut, [player_name] !""
+    Lo happy "Salut, [player_name] !"
 
 # game/chapter3.rpy:2765
 translate french c3fac_418328d3_2:

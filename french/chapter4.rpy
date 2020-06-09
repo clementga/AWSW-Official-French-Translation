@@ -2056,7 +2056,7 @@ translate french brycefirst_6165962f:
 translate french brycefirst_a6bce8f5:
 
     # Sb drop b "And we got so close, too. It was his hideout, for crying out loud! He probably just saw us approaching and left before we even had the chance to apprehend him."
-    Sb drop b Et on le tenait presque... C'était sa planque ! Il nous a sûrement vu nous approcher, et s'est enfui avant qu'on ai la chance de le coincer !""
+    Sb drop b "Et on le tenait presque... C'était sa planque ! Il nous a sûrement vu nous approcher, et s'est enfui avant qu'on ai la chance de le coincer !"
 
 # game/chapter4.rpy:1992
 translate french brycefirst_8257f5a5:
@@ -4654,7 +4654,7 @@ translate french _call_syscheck_82_daf2fc69_1:
 translate french _call_syscheck_82_913a4129_1:
 
     # Ad "I think we should go inside."
-    Ad Bon, on devrait retourner à l'intérieur."
+    Ad "Bon, on devrait retourner à l'intérieur."
 
 # game/chapter4.rpy:3873
 translate french _call_syscheck_82_85c543cb_1:
@@ -5230,7 +5230,7 @@ translate french _call_skipcheck_21_0be41dab:
 translate french _call_skipcheck_21_4301388e:
 
     # n "I could have sent myself back into the present with the right coordinates, but this was a risky endeavor, and I also had to ask myself if it was a present I wanted to return to."
-    n J'aurais pu me renvoyer dans le présent avec les bonnes coordonnées, mais c'était une entreprise risquée, et je devais aussi me demander si c'était un présent dans lequel je voulais retourner."
+    n "J'aurais pu me renvoyer dans le présent avec les bonnes coordonnées, mais c'était une entreprise risquée, et je devais aussi me demander si c'était un présent dans lequel je voulais retourner."
 
 # game/chapter4.rpy:4394
 translate french _call_skipcheck_21_bd76b207:
@@ -6016,7 +6016,7 @@ translate french _call_skipcheck_21_16ec2642:
 translate french _call_skipcheck_21_261b9526:
 
     # m "A second later the figure had already vanished into the darkness outside."
-    m La seconde suivante, l'individu est sorti de la caverne et s'est évanoui dans l'obscurité de la nuit.""
+    m "La seconde suivante, l'individu est sorti de la caverne et s'est évanoui dans l'obscurité de la nuit."
 
 # game/chapter4.rpy:4693
 translate french _call_skipcheck_21_4253bf23:

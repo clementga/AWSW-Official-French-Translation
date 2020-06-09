@@ -1607,30 +1607,6 @@ translate french strings:
 
 
 
-    # xzhong.rpy:515
-    old "Piano"
-    new "Piano"
-    # xzhong.rpy:515
-    old "Classical"
-    new "Musique classique"
-    # xzhong.rpy:515
-    old "Rock"
-    new "Rock"
-    # xzhong.rpy:515
-    old "Electronic"
-    new "Musique électronique"
-    # xzhong.rpy:515
-    old "Orchestral"
-    new "Musique orchestrale"
-    # xzhong.rpy:515
-    old "Soundtrack"
-    new "Bande originale."
-    # xzhong.rpy:515
-    old "[[I've heard enough.]"
-    new "[[J'en ai assez entendu.]"
-
-
-
     # xzhong.rpy:550
     old "Let's try something else."
     new "Essaye autre chose."
@@ -1638,9 +1614,6 @@ translate french strings:
     # xzhong.rpy:564
     old "It's alright. I just want to try something else."
     new "Si, mais je voulais essayer autre chose."
-    # xzhong.rpy:564
-    old "Not really."
-    new "Pas vraiment non."
 
     # xzhong.rpy:596
     old "It's pretty good."
@@ -1651,14 +1624,6 @@ translate french strings:
     # xzhong.rpy:596
     old "It's pretty bad, to be honest."
     new "C'est mauvais, pour être franc."
-
-    # xzhong.rpy:644
-    old "Stop it."
-    new "Arrête la musique."
-
-    # xzhong.rpy:765
-    old "Turn it off."
-    new "Arrête la musique."
 
     # xzhong.rpy:777
     old "Not enough action for my taste."
@@ -1691,10 +1656,6 @@ translate french strings:
     # xzhong.rpy:1014
     old "Keep it."
     new "Prends le tout."
-
-    # xzhong.rpy:1068
-    old "I agree."
-    new "Je suis d'accord."
     
     # xzhong.rpy:1068
     old "I prefer Bryce's approach."
