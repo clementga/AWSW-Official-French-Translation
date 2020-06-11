@@ -11,181 +11,181 @@ translate french anna1_d2dc5415:
 translate french anna1_8d584416:
 
     # m "The production facility had many different wings, covering everything from research to processing, in addition to production. It was easy to get lost if you didn't know where you were going."
-    m "L'usine avait plusieurs branches différentes, recouvrant l'intégralité de la recherche au développement, avec en plus la production. Il était simple de s'y perdre si on ne savait pas où l'on allait."
+    m "L'usine possédait de nombreuses ailes différentes, couvrant tout de la recherche au développement, en passant par la production. Il était aisé d'y perdre son chemin si on ne savait pas précisément où aller."
 
 # game/anna1.rpy:36
 translate french anna1_b230ba57:
 
     # m "I heard some commotion in the distance, and when I approached, I was surprised to see not only Anna, but Remy as well."
-    m "J'ai entendu de l'agitation au loin, et lorsque je m'ne suis approché, je fus surpris de ne pas juste voir Anna, mais aussi Remy."
+    m "J'entendis de l'agitation au loin, et m'ayant approché, je fus surpris d'apercevoir Anna non seule, mais en présence de Remy."
 
 # game/anna1.rpy:37
 translate french anna1_64333f1a:
 
     # m "They seemed to be in the middle of a heated conversation. I thought it would be inappropriate to approach now, so I remained several paces back, out of their field of vision, but still close enough to be able to make out their words."
-    m "Ils avaient l'air d'être au milieu d'une conversation enflammée. Je me suis dis qu'il était inapproprié de s'approcher maintenant, je suis donc resté plusieurs pas en arrière, hors de leurs champ de vision, mais tout de même assez proche pour comprendre ce qu'ils disaient."
+    m "Ils avaient l'air au beau milieu d'une discussion enflammée. Il aurait été, selon moi, inapproprié de m'approcher à ce moment, je restai alors quelque peu en arrière, en dehors de leur champ de vision, mais tout de même suffisament près pour pouvoir les écouter."
 
 # game/anna1.rpy:42
 translate french anna1_6a221be0:
 
     # Ry "We have heard the rumors."
-    Ry "Nous avons entendus les rumeurs"
+    Ry "Nous avons entendu parlé des rumeurs."
 
 # game/anna1.rpy:46
 translate french anna1_a17387cd:
 
     # An "So you come to me on the basis of rumors? Is that how you operate? What do you want from me?"
-    An "Donc tu viens vers moi avec des rumeurs pour base? C'est comme ça que tu opères ? Que veux-tu de moi ?"
+    An "Ah, donc tu viens me voir en te basant sur des rumeurs ? C'est ton mode de fonctionnement ? Qu'est-ce que tu veux ?"
 
 # game/anna1.rpy:47
 translate french anna1_3f4546f9:
 
     # Ry "This is not the first time you've been in trouble, you know. They might not be so lenient with you this time."
-    Ry "Ce n'est pas la première fois que tu a des ennuis, tu sais. Ils ne seront peut être pas si indulgents avec toi cette fois."
+    Ry "Ce n'est pas la première fois que tu as des ennuis, tu sais. Ils ne seront peut-être pas si cléments avec toi cette fois-ci."
 
 # game/anna1.rpy:51
 translate french anna1_5e3528a3:
 
     # An "I don't know what you are talking about."
-    An "Je ne sais pas de quoi tu parle"
+    An "Je ne vois pas de quoi tu parles."
 
 # game/anna1.rpy:52
 translate french anna1_cc16093b:
 
     # Ry "Consider this a warning. You should proceed carefully, for your own good."
-    Ry "Considère ceci comme un avertissement. Tu devrais faire plus attention, pour ton propre bien."
+    Ry "Considère cela comme un avertissement. Tu devrais faire attention à ce que tu fais, c'est pour ton propre bien."
 
 # game/anna1.rpy:56
 translate french anna1_4dc4a125:
 
     # An "If you wanted to threaten me, the least you could have done was to send someone more intimidating. You may be larger than I am, but even I can see that you're just a big coward. You wouldn't dare to put your dirty claws on me."
-    An "Si tu voulais me menacer, tu aurais au moins pu envoyer quelqu'un de plus intimidant. Tu es peut être plus grand que moi, mais même moi je peux voir que tu n'es qu'un gros lâche. Tu n'hoserais pas poser tes sales griffes sur moi."
+    An "Si ton intention était de me menacer, tu aurais au moins pu envoyer quelqu'un de plus intimidant à la place. Tu es plus imposant que moi, mais je peux voir aisément que tu n'es qu'un gros lâche. Tu n'oserais pas poser tes sales griffes sur moi."
 
 # game/anna1.rpy:60
 translate french anna1_3a3d127a:
 
     # Ry "I wouldn't. I'm here as a courtesy to you, not to threaten or intimidate. Do with that information whatever you wish."
-    Ry "Je ne le ferais pas. Je suis ici par courtoisie, pas pour te menacer ou t'insulter. Fais ce que tu souhaite de cette information."
+    Ry "Je ne le ferais pas. Je suis ici par courtoisie envers toi, pas pour te menacer ni t'intimider. Fais-en ce que tu veux."
 
 # game/anna1.rpy:64
 translate french anna1_df29eec3:
 
     # Ry "You know we'll be back, and if they find anything, there will be consequences."
-    Ry "Tu sais que nous reviendrons, et si ils trouvent quoi que ce soit, il y aura des conséquences."
+    Ry "Nous reviendrons et tu le sais bien, et s'ils trouvent quoi que ce soit, il y aura des conséquences."
 
 # game/anna1.rpy:65
 translate french anna1_7ee0481f:
 
     # An "Do you think I care?"
-    An "Tu crois que j'en ai quelque chose a faire?"
+    An "Tu crois que j'en ai quoi que ce soit à faire ?"
 
 # game/anna1.rpy:69
 translate french anna1_16a8a491:
 
     # Ry "This attitude of yours is not helpful."
-    Ry "Ton attitude n'aide pas beaucoup."
+    Ry "Ton comportement ne nous aide pas du tout."
 
 # game/anna1.rpy:73
 translate french anna1_ccbd7537:
 
     # An "Neither are you."
-    An "Toi non plus."
+    An "Le tiens non plus."
 
 # game/anna1.rpy:77
 translate french anna1_e9fe9500:
 
     # Ry "Well, I've said what I came here to say. Good luck."
-    Ry "Bon, j'ai dit ce que je suis venu te dire. Bonne chance. "
+    Ry "Bon, j'ai dit ce que j'avais à dire. Bonne chance."
 
 # game/anna1.rpy:81
 translate french anna1_32b2cfd8:
 
     # An "Whatever."
-    An "Peu importe."
+    An "Ouais, c'est ça."
 
 # game/anna1.rpy:87
 translate french anna1_28d33d90:
 
     # m "Remy turned to leave and started walking in my direction. I ducked behind a pillar, and when he went past, I wasn't sure if he'd seen me. Either way, he left, and I was safe to approach now."
-    m "Remy s'est retourné pour partir et a commencé a marcher dans ma direction. J'ai plongé derrière un pillier, et lorsqu'il est passé, je n'étais pas sur si il m'avait vu. Dans tout les cas, il est parti, et je pouvais m'approcher sans risques."
+    m "Remy se retourna afin de partir et se mit à marcher dans ma direction. Je plongeai derrière un pilier, une fois passé, je n'étais pas sûr s'il m'avait vu ou pas. En tout cas, il était parti, et je pouvais maintenant m'approcher sans problème."
 
 # game/anna1.rpy:111
 translate french _call_skiptut_7_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes données indiquent que vous avez déjà expérimenté cette scène d'une manière satisfaisante. Souhaitez vous passer à la fin?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/anna1.rpy:119
 translate french _call_skiptut_7_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semblerait que vous ayez déjà vu ceci avant. Passer jusqu'à la fin de la scene?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la fin de cette scène ?"
 
 # game/anna1.rpy:127
 translate french _call_skiptut_7_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Donc, il semblerait que vous ayez déjà vu ceci avant. Soit vous pourriez le reregarder, ou l'on pourrait vous faire gagner du temps et passer jusqu'à la fin de la scene."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la fin de cette scène."
 
 # game/anna1.rpy:142
 translate french _call_skiptut_7_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna1.rpy:163
 translate french _call_skipcheck_7_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna1.rpy:175
 translate french _call_skipcheck_7_15b4d010:
 
     # An "Who cares?"
-    An "Qui en a quelque chose a faire?"
+    An "Qu'est-ce que ça peut te faire ?"
 
 # game/anna1.rpy:181
 translate french _call_skipcheck_7_206a6186:
 
     # An "Hey, [player_name]."
-    An "Hey, [player_name]."
+    An "Salut, [player_name]."
 
 # game/anna1.rpy:186
 translate french _call_skipcheck_7_e8ba533a:
 
     # An "Hey."
-    An "Hey."
+    An "Salut."
 
 # game/anna1.rpy:190
 translate french _call_skipcheck_7_1b46c468:
 
     # An "Wait, how long have you been here?"
-    An "Attends, depuis combien de temps es-tu la?"
+    An "Attends, ça fait combien de temps que tu es là ?"
 
 # game/anna1.rpy:202
 translate french _call_skipcheck_7_baa3667a:
 
     # An "Not that it matters much anyway. This is just par for the course for me."
-    An "Ce n'est pas important de toute façon. Ce n'est qu'un morceau du parcour pour moi."
+    An "C'est pas important de toute façon. C'est du quotidien pour moi."
 
 # game/anna1.rpy:203
 translate french _call_skipcheck_7_479e6953:
 
     # c "I know Remy. What's the problem?"
-    c "Je connais Remy. Quel est le problème?"
+    c "Je connais Remy. Quel est le problème ?"
 
 # game/anna1.rpy:207
 translate french _call_skipcheck_7_5a61a232:
 
     # An "The nerve of that guy. He probably wouldn't be so uptight if it wasn't for that thing with his girlfriend a few years ago."
-    An "Les nerfs de ce type. Il ne serait probablement pas si tendu si ce n'était pour cette histoire avec sa petite amie quelques années auparavant"
+    An "Quel culot ce type. Il ne serait probablement pas aussi coincé si ce n'était pas pour cette histoire avec sa petite amie, il y a quelques années."
 
 # game/anna1.rpy:211
 translate french _call_skipcheck_7_93f35ab2:
 
     # An "But I don't care about him. It's his superiors that are the problem. They don't like me and the research I'm doing. They cite their traditions and values, claiming that those are what have kept us alive for so long."
-    An "Mais je m'en fiche de lui. Ses supérieurs sont le vrai problème. Ils n'aiment ni moi, ni les recherches que je fais. Ils citent leurs traditions et leurs valeurs, prétendant que ce sont ces derniers qui nous ont maintenu en vie si longtemps."
+    An "Mais je m'en fiche de lui. Ce sont ses supérieurs qui sont le véritable problème. Ils n'aiment ni moi, ni mes recherches. Ils citent leurs traditions et leurs valeurs comme justification, prétendant que ce sont ces derniers qui nous ont maintenu en vie si longtemps."
 
 # game/anna1.rpy:215
 translate french _call_skipcheck_7_fd0e7feb:
@@ -1733,19 +1733,19 @@ translate french strings:
 
     # anna1.rpy:22
     old "Chapter 1 - Anna 1"
-    new "Chapitre 1 - Anna1"
+    new "Chapitre 1 - Anna 1"
 
     # anna1.rpy:170
     old "What was that all about?"
-    new "Qu'est-ce que c'était que ça?"
+    new "C'était quoi tout ça ?"
 
     # anna1.rpy:170
     old "Hey, Anna."
-    new "Hey, Anna."
+    new "Salut, Anna."
 
     # anna1.rpy:170
     old "Hellooo."
-    new "Saluuut."
+    new "Bonjouuuuur."
 
     # anna1.rpy:192
     old "I saw everything."
@@ -1757,7 +1757,7 @@ translate french strings:
 
     # anna1.rpy:274
     old "Guess you can give me the tour some other time, then."
-    new "Tu me fera ka visite une autre fois, dans ce cas."
+    new "Tu me fera la visite une autre fois, dans ce cas."
 
     # anna1.rpy:274
     old "How disappointing."
