@@ -59,7 +59,7 @@ translate french anna1_cc16093b:
 translate french anna1_4dc4a125:
 
     # An "If you wanted to threaten me, the least you could have done was to send someone more intimidating. You may be larger than I am, but even I can see that you're just a big coward. You wouldn't dare to put your dirty claws on me."
-    An "Si tu voulais me menacer, tu aurais au moins pu envoyer quelqu'un de plus intimident. Tu es peut être plus grand que moi, mais même moi je peux voir que tu n'es qu'un gros lâche. Tu n'hoserais pas poser tes sales griffes sur moi."
+    An "Si tu voulais me menacer, tu aurais au moins pu envoyer quelqu'un de plus intimidant. Tu es peut être plus grand que moi, mais même moi je peux voir que tu n'es qu'un gros lâche. Tu n'hoserais pas poser tes sales griffes sur moi."
 
 # game/anna1.rpy:60
 translate french anna1_3a3d127a:
