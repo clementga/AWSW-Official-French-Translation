@@ -35,7 +35,7 @@ translate french anna1_6a221be0:
 translate french anna1_a17387cd:
 
     # An "So you come to me on the basis of rumors? Is that how you operate? What do you want from me?"
-    An "Donc tu viens vers moi avec des rumeurs pour base? C'est comme ça que tu opère? Que veux tu de moi?"
+    An "Donc tu viens vers moi avec des rumeurs pour base? C'est comme ça que tu opères ? Que veux-tu de moi ?"
 
 # game/anna1.rpy:47
 translate french anna1_3f4546f9:
