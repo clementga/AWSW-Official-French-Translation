@@ -4,61 +4,61 @@
 translate french anna2_0747b334:
 
     # c "(And just on time. Now, where is she?)"
-    c "﻿(Et juste a temps. Bien, maintenant, ou est-elle?)"
+    c "(Juste à temps. Bien, maintenant, où est-elle ?)"
 
 # game/anna2.rpy:35
 translate french anna2_98ba7ce2:
 
     # c "Hello?"
-    c "Allô?"
+    c "Il y a quelqu'un ?"
 
 # game/anna2.rpy:37
 translate french anna2_24a09038:
 
     # c "(What's this? Looks like a message.)"
-    c "(Quest-ce que c'est? on dirait un message.)"
+    c "(Qu'est-ce que c'est ? On dirait un message.)"
 
 # game/anna2.rpy:39
 translate french anna2_adae8a70:
 
     # m "Something came up at the last second. \nWait for me, it shouldn't be too long. \nAnna."
-    m "Un imprévus est survenu à la dernière minute. \nAttends moi ça ne devrais pas être long\nAnna."
+    m "Un imprévu est survenu à la dernière minute. \nAttends-moi, ça ne devrait pas être long\nAnna."
 
 # game/anna2.rpy:41
 translate french anna2_eb97a561:
 
     # c "(I guess \"at the last second\" is meant in a literal sense here, or else she could've just called me.)"
-    c "(Je suppose que \"à la dernière minute\" est littérale ici, sinon elle aurait juste pu m'appeler.)"
+    c "(Je suppose que \"à la dernière minute\" est à prendre au sens littérale ici, sinon elle aurait juste pu m'appeler.)"
 
 # game/anna2.rpy:43
 translate french anna2_ff7509de:
 
     # c "(Guess we're playing the waiting game, then.)"
-    c "(Je suppose que nous allons jouer au jeu de la patience, dans ce cas.)"
+    c "(Je suppose que nous allons devoir être patient dans ce cas.)"
 
 # game/anna2.rpy:49
 translate french anna2_e8d095e5:
 
     # c "(Okay, it's been like an hour and my patience is slowly, but surely running out.)"
-    c "(Bon, ça fait deja au moins une heure et ma patience est en train de disparraître, doucement mais sûrement.)"
+    c "(Bon, ça fait dejà au moins une heure et ma patience est en train de disparaître, doucement mais sûrement.)"
 
 # game/anna2.rpy:55
 translate french anna2_e02cf647:
 
     # m "In the end, I decided that enough was enough. Not wanting to wait any longer, I left, even though she still owed me that date."
-    m "Je me suis finallement dis que trop c'est trop. Ne voulant pas attendre une seconde de plus, je suis parti, même si elle me doit toujours ce rencart."
+    m "Je me dis finalement que c'en était assez. Ne voulant pas attendre une seconde de plus, je partis, même si elle me devait toujours ce rencard."
 
 # game/anna2.rpy:81
 translate french anna2_2b8ed8c3:
 
     # c "(I've already waited this long, so guess I can wait a little longer...)"
-    c "(J'ai deja attendus tellement longtemps, donc je pense bien pouvoir attendre un peu plus longtemps...)"
+    c "(J'ai dejà attendu un bon bout de temps, donc je peux bien attendre un peu plus longtemps...)"
 
 # game/anna2.rpy:89
 translate french anna2_9a6ab21a:
 
     # c "(I'm not sure who the world record holder for \"most patient person\" is, but now I feel like a contender.)"
-    c "(Je ne sais pas qui détient le record du monde pour \"Personne la plus patiente\" mais je me sens comme un concurrent.) "
+    c "(Je ne sais pas qui détient le record du monde de \"la personne la plus patiente\" mais je me sens être un bon concurrent.) "
 
 # game/anna2.rpy:91
 translate french anna2_b0fcd784:
@@ -70,37 +70,37 @@ translate french anna2_b0fcd784:
 translate french anna2_e02cf647_1:
 
     # m "In the end, I decided that enough was enough. Not wanting to wait any longer, I left, even though she still owed me that date."
-    m "Je me suis finallement dis que trop c'est trop. Ne voulant pas attendre une seconde de plus, je suis parti, même si elle me doit toujours ce rencart."
+    m "Je me dis finalement que c'en était assez. Ne voulant pas attendre une seconde de plus, je partis, même si elle me devait toujours ce rencard."
 
 # game/anna2.rpy:124
 translate french anna2_d0f7d9df:
 
     # c "(Well, if she doesn't show up soon, I'm done.)"
-    c "(Bon, si elle ne montre pas le bout de son museau bientot, je saturerais.)"
+    c "(Bon, si elle ne se montre pas là tout de suite, je fais un malheur.)"
 
 # game/anna2.rpy:128
 translate french anna2_dc9748a4:
 
     # c "There you are. Where have you been all this time?"
-    c "Te voila. Ou étais-tu tout ce temps?"
+    c "Te voilà. Où étais-tu tout ce temps ?"
 
 # game/anna2.rpy:133
 translate french anna2_bf57aa74:
 
     # c "(Alright, I'm gonna score myself some sweet lab equipment. That's the least she can do for making me wait.)"
-    c "(Bien, dans ce cas je vais essayer de m'approprier un peu d'équipement de labo. C'est le minimum qu'elle puisse faire pour moi, pour m'avoir fait attendre.)"
+    c "(Bien, dans ce cas je vais essayer de m'approprier un peu d'équipement de labo. C'est le minimum qu'elle puisse faire pour m'avoir fait attendre.)"
 
 # game/anna2.rpy:135
 translate french anna2_49b92f3d:
 
     # c "(Or maybe I'll just wait inside. Standing around here is getting rather tedious.)"
-    c "(Ou alors je vais juste attendre a l'intérieur. Rester debout ici commence a devenir fastidieux.)"
+    c "(Ou alors je vais juste attendre à l'intérieur. Rester debout ici commence à devenir fastidieux.)"
 
 # game/anna2.rpy:141
 translate french anna2_a4576a71:
 
     # c "(Hmm, pushing the door does nothing. Neither does pulling.)"
-    c "(Hmm, pousser la porte ne fait rien. Tirer ne marche pas non plus.)"
+    c "(Hmm, pousser la porte ne fait rien. Tirer dessus ne marche pas non plus.)"
 
 # game/anna2.rpy:143
 translate french anna2_6e3f9e18:
@@ -112,7 +112,7 @@ translate french anna2_6e3f9e18:
 translate french anna2_52173bea:
 
     # c "(Hey, what's this?)"
-    c "(Hey, qu'est-ce que c'est?)"
+    c "(Hein, qu'est-ce que c'est ?)"
 
 # game/anna2.rpy:147
 translate french anna2_197333fc:
@@ -124,13 +124,13 @@ translate french anna2_197333fc:
 translate french anna2_bf450302:
 
     # m "Pulling at the corner, I was now holding the envelope in my hands."
-    m "En tirant sur le coin, je me suis approprié l'enveloppe."
+    m "En tirant sur le coin, je pris l'enveloppe dans mes mains."
 
 # game/anna2.rpy:155
 translate french anna2_4f7c8937:
 
     # c "(Well, I gotta pass the time somehow, right?)"
-    c "(Eh bien, il faut bien que je passe le temps d'une manière ou d'une autre, n'est-ce pas?)"
+    c "(Eh bien, il faut que je tue le temps d'une manière ou d'une autre, n'est-ce pas?)"
 
 # game/anna2.rpy:161
 translate french anna2_b78be368:
@@ -148,7 +148,7 @@ translate french anna2_4cf592a9:
 translate french anna2_b30d5085:
 
     # m "Quickly, I put the letter back into the envelope and pushed it through the gap in the door."
-    m "Rapidement, j'ai remis la lettre dans son enveloppe et je l'ai faite passée par le dessous de la porte."
+    m "Rapidement, je remis la lettre dans son enveloppe et je la fit passer par le dessous de la porte."
 
 # game/anna2.rpy:185
 translate french _call_syscheck_110_89288563:
@@ -160,37 +160,37 @@ translate french _call_syscheck_110_89288563:
 translate french _call_syscheck_110_c2f6a1f2:
 
     # s "You looked at Anna's envelope. Naughty. {image=image/ui/status/heardaboutcancer.png}"
-    s "Vous avez regardé dans l'enveloppe d'Anna. Vilain. {image=image/ui/status/heardaboutcancer.png}"
+    s "Vous avez regardé dans l'enveloppe d'Anna. Chenapan. {image=image/ui/status/heardaboutcancer.png}"
 
 # game/anna2.rpy:193
 translate french _call_syscheck_110_655131fd:
 
     # s "You looked at Anna's envelope. Better not let her catch you. {image=image/ui/status/heardaboutcancer.png}"
-    s "Vous avez regardé dans l'enveloppe d'Anna. Mieux vaut ne pas la laisser vous voir. {image=image/ui/status/heardaboutcancer.png}"
+    s "Vous avez regardé dans l'enveloppe d'Anna. Vaut mieux pas qu'elle vous prenne sur le fait. {image=image/ui/status/heardaboutcancer.png}"
 
 # game/anna2.rpy:199
 translate french _call_syscheck_110_a10dae91:
 
     # An "What are you looking at?"
-    An "Qu'est-ce que tu regarde?"
+    An "Qu'est-ce que tu regardes ?"
 
 # game/anna2.rpy:201
 translate french _call_syscheck_110_a687cfb8:
 
     # c "Your beautiful door. Where have you been all this time?"
-    c "Ta magnifique porte. Ou étais-tu tout ce temps?"
+    c "Ta magnifique porte. Ou étais-tu tout ce temps ?"
 
 # game/anna2.rpy:210
 translate french _call_syscheck_110_a10dae91_1:
 
     # An "What are you looking at?"
-    An "Qu'est-ce que tu regarde?"
+    An "Qu'est-ce que tu regardes ?"
 
 # game/anna2.rpy:212
 translate french _call_syscheck_110_a687cfb8_1:
 
     # c "Your beautiful door. Where have you been all this time?"
-    c "Ta sublime porte. Ou étais-tu tout ce temps?"
+    c "Ta magnifique porte. Ou étais-tu tout ce temps ?"
 
 # game/anna2.rpy:217
 translate french _call_syscheck_110_91aab194:
