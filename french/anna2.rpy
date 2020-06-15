@@ -196,13 +196,13 @@ translate french _call_syscheck_110_a687cfb8_1:
 translate french _call_syscheck_110_91aab194:
 
     # An "Reading comprehension must not be your strong suit, because my note clearly said I'd be back soon."
-    An "La compréhension écrite ne dois pas être ta meilleure faculté, étant donné qu'il était clairement écrit que je reviendrais bientôt."
+    An "La compréhension écrite, ça ne dois pas être ton point fort, car il était clairement écrit que je reviendrais bientôt."
 
 # game/anna2.rpy:219
 translate french _call_syscheck_110_b26d58cb:
 
     # c "Note to self: The word \"soon\" now refers to a time span of over 2 hours when waiting for a scheduled appointment."
-    c "Note a moi même: Le mot \"bientôt\" se réfère maintenant a une durée de plus de deux heures lorsqu'il faut attendre pour un rendez-vous prévus."
+    c "Note à moi même: Le mot \"bientôt\" se réfère maintenant à une durée de plus de deux heures lorsqu'il faut attendre pour un rendez-vous."
 
 # game/anna2.rpy:221
 translate french _call_syscheck_110_355cff5d:
@@ -214,37 +214,37 @@ translate french _call_syscheck_110_355cff5d:
 translate french _call_syscheck_110_7c49a015:
 
     # An face "It certainly didn't feel like it."
-    An face "Ça ne c'est pas ressenti tel quel."
+    An face "Ça ne c'est pas l'impression que j'ai eu."
 
 # game/anna2.rpy:245
 translate french _call_skiptut_32_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes données indiquent que tu a déjà expérimenté cette scène de manière satisfaisante. Souhaite-tu passer usqu'à la fin?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/anna2.rpy:253
 translate french _call_skiptut_32_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semble que tu ai deja vu ceci. Passer jusqu'à la fin de la scène?"
+    s "On dirait que vous avez déjà vu cela auparavant. Passer jusqu'à la fin de la scène?"
 
 # game/anna2.rpy:261
 translate french _call_skiptut_32_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Bien, il semble que tu ai déjà vu ça. Tu pourrait soit le revoir, ou alors on gagne un peu de temps et on passe jusqu'à la fin de la scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer jusqu'à la fin de la scène."
 
 # game/anna2.rpy:276
 translate french _call_skiptut_32_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme tu souhaite.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna2.rpy:298
 translate french _call_skipcheck_32_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme tu souhaite.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna2.rpy:302
 translate french _call_skipcheck_32_d067081d:
@@ -256,7 +256,7 @@ translate french _call_skipcheck_32_d067081d:
 translate french _call_skipcheck_32_5182c6b4:
 
     # An disgust "I just told you that I am, so get off my back. Do you want this date now or not?"
-    An disgust "Je viens juste de te dire que je l'étais, donc arrête d'être sur mon dos. Tu le veux ce rendez-vous maintenant ou pas?"
+    An disgust "Je viens juste de te dire que je l'étais, donc lâche moi un peu. Tu le veux ce rendez-vous maintenant ou pas?"
 
 # game/anna2.rpy:312
 translate french _call_skipcheck_32_77ab2819:
@@ -274,37 +274,37 @@ translate french _call_skipcheck_32_c3572cc4:
 translate french _call_skipcheck_32_90219eff:
 
     # An "I guess we missed our movie."
-    An "Je suppose qu'on a raté notre filme."
+    An "Je suppose qu'on a raté notre film."
 
 # game/anna2.rpy:338
 translate french _call_skipcheck_32_02b6e68e:
 
     # c "Can't we see the late screening or something?"
-    c "On ne peut pas voir la scéance du soir ou quoi?"
+    c "On ne peut pas voir la séance du soir ?"
 
 # game/anna2.rpy:340
 translate french _call_skipcheck_32_f15b7ea3:
 
     # An face "That was the late screening. The theater's closed now."
-    An face "C'était la scéance du soir. Le cinéma est fermé maintenant."
+    An face "C'était la séance du soir. Le cinéma est fermé maintenant."
 
 # game/anna2.rpy:342
 translate french _call_skipcheck_32_b53f79a6:
 
     # c "Maybe we should reschedule."
-    c "Peut être on devrait reporter."
+    c "Peut être qu'on devrait reporter."
 
 # game/anna2.rpy:344
 translate french _call_skipcheck_32_9c8593f4:
 
     # An sad "That won't work. At least not for me."
-    An sad "Ça ne marchera pas. Du moins pas pour moi."
+    An sad "Ça ne va pas le faire. Du moins pas pour moi."
 
 # game/anna2.rpy:346
 translate french _call_skipcheck_32_830b55a0:
 
     # An face "Today was the only day I could leave early. I won't have another chance any time soon."
-    An face "Aujourd'hui était le seul jour ou je pouvais partir plus tôt. Je n'aurais pas une autre chance d'aussi tôt."
+    An face "Aujourd'hui était le seul jour où je pouvais partir plus tôt. Je n'aurais pas d'autre occasion d'ici là."
 
 # game/anna2.rpy:348
 translate french _call_skipcheck_32_2fc1d6c7:
@@ -328,55 +328,55 @@ translate french _call_skipcheck_32_0207d90d:
 translate french _call_skipcheck_32_f3988934:
 
     # An "Closed as well."
-    An "Aussi fermé."
+    An "Fermé également."
 
 # game/anna2.rpy:363
 translate french _call_skipcheck_32_7c958f81:
 
     # c "That's just peachy."
-    c "C'est juste génial."
+    c "Bah c'est génial."
 
 # game/anna2.rpy:365
 translate french _call_skipcheck_32_d12676ca:
 
     # c "Why do you keep working so late, anyway?"
-    c "Pourquoi tu continue de travailler aussi tard de toute façon?"
+    c " D'ailleurs, pourquoi tu continues de travailler aussi tard ?"
 
 # game/anna2.rpy:367
 translate french _call_skipcheck_32_659e3b07:
 
     # An "Because what I'm doing is important."
-    An "Parceque ce que je fais est important."
+    An "Parce que ce que je fais est important."
 
 # game/anna2.rpy:371
 translate french _call_skipcheck_32_888b82be:
 
     # c "You're doing cancer research, right?"
-    c "Tu fais des recherches sur le cancer, n'est-ce pas?"
+    c "Tu fais des recherches sur le cancer, c'est cela ?"
 
 # game/anna2.rpy:373
 translate french _call_skipcheck_32_56e52cef:
 
     # An disgust "And who told you that?"
-    An disgust "Et qui t'a raconté ça?"
+    An disgust "Et qui t'a raconté ça ?"
 
 # game/anna2.rpy:375
 translate french _call_skipcheck_32_803f5c17:
 
     # c "Damion. I stopped by your lab some time ago, but you weren't there."
-    c "Damion. J'ai fais un tour a ton labo plus tôt, mais tu n'était pas la."
+    c "Damion. J'ai fait un tour à ton labo plus tôt, mais tu n'étais pas là."
 
 # game/anna2.rpy:377
 translate french _call_skipcheck_32_348981bf:
 
     # An rage "That shard-borne bastard! What else did he tell you about me?"
-    An rage ""
+    An rage "Cet espèce d'enfoiré ! Que t'a-t-il dit d'autre sur moi ?"
 
 # game/anna2.rpy:379
 translate french _call_skipcheck_32_ef7cd410:
 
     # c "Nothing much. The whole thing wasn't really about you, anyway."
-    c "Pas grand chose. Toute la chose n'était pas vraiment sur toi de toute façon."
+    c "Pas grand chose. La discussion n'était pas vraiment à ton sujet de toute façon."
 
 # game/anna2.rpy:381
 translate french _call_skipcheck_32_8633bdb1:
@@ -388,13 +388,13 @@ translate french _call_skipcheck_32_8633bdb1:
 translate french _call_skipcheck_32_a44fc2c8:
 
     # c "Sounds like you two don't get along that well."
-    c "On dirait que vous ne vous entendez pas tellement tout les deux."
+    c "On dirait que vous ne vous entendez pas super bien tout les deux."
 
 # game/anna2.rpy:385
 translate french _call_skipcheck_32_7f3d656a:
 
     # An face "That's the understatement of the century. Being trapped in a small room with the likes of him for hours on end every day is a scenario born of a sick mind with the intention of making me suffer as much as possible. It certainly doesn't make my research any easier."
-    An face "C'est l'euphémisme du siècle. Être piégée dans une petite piece avec des gens comme lui pendant plusieurs heures chaque jour est un scénario né d'un esprit fou avec pour intention de me faire souffrire le plus possible. Ça ne facilite certainement pas mes recherches."
+    An face "C'est l'euphémisme du siècle. Être piégée dans une petite pièce avec des gens comme lui pendant plusieurs heures chaque jour est un scénario né d'un esprit fou avec pour intention de me faire souffrire le plus possible. Ça ne facilite certainement pas mes recherches."
 
 # game/anna2.rpy:387
 translate french _call_skipcheck_32_fd2ad21e:
