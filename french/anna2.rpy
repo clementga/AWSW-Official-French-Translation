@@ -400,19 +400,19 @@ translate french _call_skipcheck_32_7f3d656a:
 translate french _call_skipcheck_32_fd2ad21e:
 
     # c "The stress probably doesn't help you either, and it's not worth jeopardizing your health over. Don't overwork yourself. You can't save anyone if you're dead."
-    c "Le stress ne t'aide probablement pas non plus, et ça ne vaut pas le coup de mettre ta vie en danger pour ça. Ne te surmène pas. tu ne peux sauver personne si tu es morte."
+    c "Le stress ne t'aide probablement pas non plus, et ça ne vaut pas le coup de mettre ta vie en danger pour ça. Ne te surmène pas. tu ne sauveras personne en étant morte."
 
 # game/anna2.rpy:389
 translate french _call_skipcheck_32_f1fcf8e7:
 
     # An sad "If I don't find a cure, no one else will. No one else can."
-    An sad "Si je en trouve pas un remède, personne d'autre ne le trouvera. Personne d'autre ne le pourra."
+    An sad "Si je ne trouve pas un remède, personne d'autre ne le trouvera. Personne d'autre n'en sera capable."
 
 # game/anna2.rpy:393
 translate french _call_skipcheck_32_cf73bb24:
 
     # c "I understand wanting to see things through to completion. How long have you been working on your current project?"
-    c "Je cromprends l'envie de vouloir voir l'évolution des choses jusqu'à leur accomplissement. Depuis combien de temps travaille tu sur ton projet actuel?"
+    c "Je cromprends l'envie de vouloir voir les choses aboutir. Depuis combien de temps travailles-tu sur ce projet ?"
 
 # game/anna2.rpy:395
 translate french _call_skipcheck_32_b1a2fef9:
@@ -430,49 +430,49 @@ translate french _call_skipcheck_32_2003fe8c:
 translate french _call_skipcheck_32_97609638:
 
     # An face "So what?"
-    An face "Donc?"
+    An face "Donc ?"
 
 # game/anna2.rpy:401
 translate french _call_skipcheck_32_820cb2b8:
 
     # c "Is your work really worth jeopardizing your health over? You're not going to help anyone if you're dead."
-    c "Ton travail vaut-il vraiment de mettre ta vie en péril pour? Tu ne pourra aider personne si tu es morte."
+    c "Ton travail vaut-il vraiment la peine de mettre ta vie en péril ? Tu ne pourras aider personne si tu es morte."
 
 # game/anna2.rpy:403
 translate french _call_skipcheck_32_7e431f71:
 
     # An sad "If I don't finish this, no one else will. No one else can."
-    An sad "Si je ne le termine pas, personne ne le fera. Personne ne le pourra."
+    An sad "Si je ne le termine pas, personne ne le fera. Personne d'autre n'en sera capable."
 
 # game/anna2.rpy:414
 translate french _call_skipcheck_32_929e8c62:
 
     # An face "Besides, I was only late today because I got your stupid blood work ready."
-    An face "De toute façon, je n'était en retard que parceque j'ai terminée ton stupide test sanguin. "
+    An face "De toute façon, je n'étais en retard que parce que j'ai terminé ton stupide test sanguin. "
 
 # game/anna2.rpy:416
 translate french _call_skipcheck_32_7c4435a3:
 
     # c "You have the test results?"
-    c "Tu a les résultats?"
+    c "Tu a les résultats ?"
 
 # game/anna2.rpy:418
 translate french _call_skipcheck_32_20c2fa15:
 
     # An normal "Yeah. Want to know what I have to say about them?"
-    An normal "Ouais. Tu veux savoir ce que j'ai a en dire?"
+    An normal "Ouais. Tu veux savoir ce que j'ai a en dire ?"
 
 # game/anna2.rpy:420
 translate french _call_skipcheck_32_5ce0ffef:
 
     # c "Definitely."
-    c "Définitivment"
+    c "Carrément."
 
 # game/anna2.rpy:422
 translate french _call_skipcheck_32_c02b81ac:
 
     # An "Okay, how much do you know about genetics?"
-    An "Okay, que sais-tu sur la génétique?"
+    An "Okay, quel sont tes connaissances sur la génétique ?"
 
 # game/anna2.rpy:424
 translate french _call_skipcheck_32_0e9b2fd0:
@@ -484,13 +484,13 @@ translate french _call_skipcheck_32_0e9b2fd0:
 translate french _call_skipcheck_32_cac230dc:
 
     # An "Don't worry, I'll put it into words that are easy for you to understand."
-    An "Ne t'en fait pas, je vais transcrire ça dans des termes qui te serront facile a comprendre."
+    An "Ne t'en fait pas, je vais transcrire ça dans des termes qui te seront facile à comprendre."
 
 # game/anna2.rpy:428
 translate french _call_skipcheck_32_f1301db6:
 
     # An "To start off, I've found that, on average, about 90%% of your genes are homologous to our species' genes."
-    An "Pour commencer, j'ai découvert, en général, que près de 90% de tes gènes sont des homologues des gènes de nos espèces."
+    An "Pour commencer, j'ai découvert, en général, que près de 90% de tes gènes sont homologues aux gènes de nos espèces."
 
 # game/anna2.rpy:430
 translate french _call_skipcheck_32_f3217f46:
@@ -502,7 +502,7 @@ translate french _call_skipcheck_32_f3217f46:
 translate french _call_skipcheck_32_8c9e7a86:
 
     # An "To further elaborate, you and your human neighbor back home are probably around 99.9%% genetically similar. If you compared the various sentient species we have here to each other, they would only be around 95-97%% similar."
-    An "Pour raffiner un peu plus, toi et tes confrères humains dans ton monde, avez environs 99,9% de similarité génétique. Si tu comparais les diverses espèces sentientes qui sont ici les unes avec les autres, elles n'auraient que 95-97% de similarité."
+    An "Pour raffiner un peu plus, toi et tes congénères humains dans votre monde sont génétiquement semblables à 99.9%. Si tu comparais les diverses espèces intelligentes qui sont ici les unes avec les autres, elles n'auraient que 95-97% de similarité."
 
 # game/anna2.rpy:434
 translate french _call_skipcheck_32_42bfa25e:
@@ -514,13 +514,13 @@ translate french _call_skipcheck_32_42bfa25e:
 translate french _call_skipcheck_32_87426d48:
 
     # An "Although a match of 90%% sounds like a lot, it's not as much as you might think. Still, for two beings from a different world altogether, that's quite remarkable."
-    An "Même si une correspondance de 90% semble beaucoup, ce n'est pas aussi grand que tu le pense. Tout de même pour deux êtres de deux mondes différents, dans l'ensemble, c'est plutôt remarquable."
+    An "Même si une correspondance de 90% semble beaucoup, ce n'est pas aussi grand que tu le pense. Tout de même pour deux êtres de deux mondes différents, dans l'ensemble, c'est plutôt impressionnant."
 
 # game/anna2.rpy:438
 translate french _call_skipcheck_32_7c45fda0:
 
     # An smirk "Beyond DNA, the biggest similarity between us is within the brain structure, but that's not surprising, considering our high-level cognitive abilities."
-    An smirk "Au dela de l'ADN, la plus grande similarité entre nous se situe au niveau du cerveau,mais ce n'est pas surprenant, compte tenu notre niveau élévé de capacitées cognitives."
+    An smirk "Au dela de l'ADN, la plus grande similarité entre nous se situe au niveau du cerveau, mais ce n'est pas surprenant, compte tenu de notre niveau intellectuel."
 
 # game/anna2.rpy:440
 translate french _call_skipcheck_32_5359e5f6:
@@ -532,19 +532,19 @@ translate french _call_skipcheck_32_5359e5f6:
 translate french _call_skipcheck_32_daffcd4f:
 
     # An normal "What do you mean?"
-    An normal "Qu'est-ce que tu veux dire?"
+    An normal "Qu'est-ce que tu veux dire ?"
 
 # game/anna2.rpy:444
 translate french _call_skipcheck_32_14faa002:
 
     # c "He doesn't seem to like humans very much. I'm sure he'll be displeased to know how similar we are."
-    c "Il n'a pas l'air de beaucoup aimer les humains. Je suis certain qu'il ne sera pas heureux d'apprendre a quel point nous sommes similaires."
+    c "Il n'a pas l'air de beaucoup aimer les humains. Je suis certain qu'il ne sera pas heureux d'apprendre a quel point nous sommes semblables."
 
 # game/anna2.rpy:446
 translate french _call_skipcheck_32_898cead4:
 
     # An "Oh, he doesn't like anyone, really. He's just like me in that way."
-    An "Oh, il n'aime personne, vraiment. Il est juste comme moi de ce côté."
+    An "Oh je t'assure, il n'aime personne. Il est comme moi de ce côté là."
 
 # game/anna2.rpy:448
 translate french _call_skipcheck_32_093e96d9:
