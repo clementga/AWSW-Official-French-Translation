@@ -161,7 +161,7 @@ translate french begingame_c9f110ae:
 translate french begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "J'avais déjà entendu parler d'une technologie similaire par le passé, mais plutôt à un niveau expérimental. De ce que je savais, d'autres portails avaient été créés par le passé, et leur production en masse était en cours de considération. Pour ce qui était de celui-là en particulier, nous n'avions aucune idée de qui l'avait construit, ni quand - ou même pourquoi nous l'avions trouvé au beau milieu de contrées sauvages tel que ce fut le cas. Ce qui était le plus palpitant, était le fait que ce portail était... fonctionnel."
+    n "J'avais déjà entendu parler d'une technologie similaire par le passé, mais plutôt à un niveau expérimental. De ce que je savais, d'autres portails avaient été créés par le passé, et leur production en masse était envisagée. Pour ce qui était de celui-là en particulier, nous n'avions aucune idée de qui l'avait construit, ni quand - ou même pourquoi nous l'avions trouvé au beau milieu de contrées sauvages tel que ce fut le cas. Ce qui était le plus palpitant, était le fait que ce portail était... fonctionnel."
 
 # game/chapter1.rpy:433
 translate french begingame_337d015e:
@@ -199,13 +199,13 @@ translate french begingame_f40eb8ae:
 translate french begingame_f4966cae:
 
     # n "I knew him. Or rather, had known him. We attended the same school back then, and even had a few classes together. We never really were very close friends, but we talked to each other occasionally and hung around with the same crowd sometimes. However, we still went our separate ways in the end."
-    n "Je le connaissais. Ou plutôt, je l'eus connu. Nous allions à la même école à l'époque, et avions parfois même été dans la même classe. Nous ne fûmes jamais des amis proches, mais nous discutions occasionnellement, et traînions tous les deux avec les mêmes groupes d'étudiants. Malgré tout, nous allâmes au final chacun notre chemin."
+    n "Je le connaissais. Ou plutôt, je l'eus connu. Nous allions à la même école à l'époque, et avions parfois même été dans la même classe. Nous n'étions pas des amis proches, mais nous discutions occasionnellement, et traînions tous les deux avec les mêmes groupes d'étudiants. Malgré tout, on suivait nos chemins respectifs."
 
 # game/chapter1.rpy:448
 translate french begingame_d966c5be:
 
     # n "I wasn't sure what to think about the whole thing, but he had to have known what he was doing. He certainly was brave."
-    n "Je n'étais pas sûr quoi penser de toute cette histoire, il devait savoir ce qu'il faisait. Il était certainement courageux."
+    n "Je n'étais pas sûr de quoi penser de toute cette histoire, il devait savoir ce qu'il faisait. Il était courageux pour sûr."
 
 # game/chapter1.rpy:449
 translate french begingame_0be71cd9:
@@ -217,7 +217,7 @@ translate french begingame_0be71cd9:
 translate french begingame_71b0a869:
 
     # n "While I wasn't sure which, his courage was applauded by others. After all, he couldn't possibly have known who or what would await him at the other end of the portal, and if he did meet someone there, who knew what kinds of intentions they might have?"
-    n "Bien que je ne susse pas la réponse à cela, son courage fut applaudi par les autres. Après tout, il ne pouvait pas savoir qui ou quoi l'attendrait de l'autre côté du portail, et s'il avait rencontré quelqu'un, qui sait ce que leurs intentions auraient pu être ?"
+    n "Bien que je ne connaissais pas la réponse à cela, son courage fut applaudi par les autres. Après tout, il ne pouvait pas savoir qui ou quoi l'attendrait de l'autre côté du portail, et s'il rencontrait quelqu'un, qui sait quelles seraient leurs intentions ?"
 
 # game/chapter1.rpy:451
 translate french begingame_11930bc6:
@@ -249,7 +249,7 @@ translate french begingame_02377e2f:
 translate french begingame_a929e4ad:
 
     # n "The crowd that was applauding him slowly dispersed when the enthusiasm died down, as there was nothing for us to do but wait and speculate."
-    n "La foule qui avait si longuement applaudi se dispersa lentement lorsque l'enthousiasme retomba, puisque nous n'avions plus rien à faire d'autre qu'à attendre et à spéculer."
+    n "La foule qui avait si longuement applaudi se dispersa lentement lorsque l'enthousiasme retomba, puisque nous n'avions plus rien à faire d'autre qu'attendre et spéculer."
 
 # game/chapter1.rpy:463
 translate french begingame_4e5d991b:
@@ -299,13 +299,13 @@ translate french begingame_942d3fc8:
 translate french begingame_b4430af1:
 
     # n "We called them {i}dragons{/i}, because according to Reza, that's what they were, or at least what they resembled most."
-    n "Nous les appelâmes {i}dragons{/i}, puisque selon Reza, c'est ce qu'ils étaient, où en tout cas ce à quoi ils ressemblaient le plus."
+    n "Nous les appelâmes {i}dragons{/i}, puisque selon Reza, c'est ce qu'ils étaient, ou en tout cas ce à quoi ils ressemblaient le plus."
 
 # game/chapter1.rpy:473
 translate french begingame_73af8ba0:
 
     # n "Even though we found it hard to believe, it had been these dragons who sent us all the letters. And what Reza found on the other side of the portal was a whole civilization of them. They could talk, write books, had buildings and electricity. In many ways, their society was actually very similar to our own."
-    n "Nous le trouvâmes difficile à croire, mais c'était ces dragons qui nous avaient envoyé toutes ces lettres. Et ce que Reza trouva de l'autre côté du portail en était une entière civilization. Ils pouvaient parler, écrire des livres, avaient des bâtiments et l'électricité. En de nombreux points, leur société était de fait très similaire à la notre."
+    n "Même si c'était difficile à croire, c'était ces dragons qui nous avaient envoyé toutes ces lettres. Et ce que Reza trouva de l'autre côté du portail était une civilization toute entière. Ils pouvaient parler, écrire des livres, avaient des bâtiments et l'électricité. En de nombreux points, leur société était de fait très similaire à la nôtre."
 
 # game/chapter1.rpy:474
 translate french begingame_6abe8d77:
@@ -319,13 +319,13 @@ translate french begingame_6abe8d77:
 translate french begingame_1020ae93:
 
     # n "Our speculations led us to conclude otherwise. After all, we knew about the existence of thousands of planets, millions of light-years away that may have been theoretically habitable, yet even then we had never found conclusive proof in regards to actual alien life-forms."
-    n "Nos spéculations nous poussèrent à conclure autrement. Après tout, nous connaissions l'existence de milliers de planètes, à des millions d'années-lumière, qui auraient pu être théoriquement habitable, et malgré cela, nous ne trouvâmes jamais de preuve concluante en regard de l'existence de formes de vie alien."
+    n "Nos spéculations nous poussèrent à conclure autrement. Après tout, nous connaissions l'existence de milliers de planètes, à des millions d'années-lumière, qui auraient pu être théoriquement habitables, et malgré cela, nous ne trouvâmes jamais de preuve concluante prouvant l'existence de formes de vie alien."
 
 # game/chapter1.rpy:478
 translate french begingame_3ff6841f:
 
     # n "Some people brought up quantum mechanics and parallel universes, but in the end all of this was just conjecture and an ultimately fruitless endeavor, since we neither had the means nor the resources to explore these possibilities in greater detail."
-    n "Certaines personnes invoquèrent les mécaniques quantiques et les univers parallèles, mais en tout et pour tout, tout cela n'était que conjecture et entreprise infructueuse, puisque nous n'avions ni les moyens, ni les ressources pour explorer ces possibilités plus en détails."
+    n "Certaines personnes invoquèrent les mécaniques quantiques et les univers parallèles, mais en tout et pour tout, tout cela n'était que conjecture et entreprise infructueuse, puisque nous n'avions ni les moyens, ni les ressources pour explorer ces possibilités plus en détail."
 
 # game/chapter1.rpy:479
 translate french begingame_94c45763:
@@ -357,7 +357,7 @@ translate french begingame_32508c0c:
 translate french begingame_26e2ea6a:
 
     # n "Reza apparently was sure of what he was doing, though, as he eventually let us know that they had agreed on a trade."
-    n "Reza était apparamment sûr de ce qu'il faisait cependant, puisqu'il nous finit par nous faire savoir qu'ils avaient accepté un échange."
+    n "Cependant Reza semblait être sûr de ce qu'il faisait, puisqu'il finit par nous faire savoir qu'ils avaient accepté un échange."
 
 # game/chapter1.rpy:486
 translate french begingame_32345ff9:
@@ -365,7 +365,7 @@ translate french begingame_32345ff9:
     # nvl clear
     # n "We were to give them a few of our PDA devices, which contained vast amounts of knowledge, dwarfing even that of encyclopedias. In return, they would supply us with generators."
     nvl clear
-    n "Nous leur donnerions quelques de nos PDA, qui contenaient de vastes quantités de connaissances, éclipsant celles même des encyclopédies. En échange, ils nous fourniraient en générateurs."
+    n "Nous leur donnerions quelques uns de nos PDA, qui contenaient de vastes quantités de connaissances, éclipsant celles même des encyclopédies. En échange, ils nous fourniraient en générateurs."
 
 # game/chapter1.rpy:488
 translate french begingame_23bd1b9f:
@@ -401,7 +401,7 @@ translate french begingame_9cb37fb9:
 translate french begingame_062d5b60:
 
     # n "What a way to make a first impression by a display of mutual goodwill. Everyone benefits and everyone goes home happy."
-    n "Quelle façon de faire une première impression par une démonstration de bonne volonté mutuelle. Tout le monde profite et tout le monde est content."
+    n "Une belle façon que de faire une première impression par une démonstration de bonne volonté mutuelle. Tout le monde profite et tout le monde est content."
 
 # game/chapter1.rpy:500
 translate french begingame_b084fb87:
@@ -531,7 +531,7 @@ translate french holetravel_b40dd6f0:
 translate french holetravel_5c6fb2e0:
 
     # Ry "Sorry, I imagine you might still feel the effects of the teleportation. Drowsiness or weakness is not unusual, as is fainting and spontaneous emptying of your bowels, bladder or stomach. How do you feel?"
-    Ry "Excusez-moi, j'imagine que vous sentez toujours les effets de la téléportation. Somnolence et faiblesse sont usuels, tout comme la perte de connaissance, et la vidange spontanée de vos intestins, votre vessie ou votre estomac. Comment vous sentez-vous ? "
+    Ry "Excusez-moi, j'imagine que vous sentez toujours les effets de la téléportation. Somnolence et faiblesse sont communs, tout comme la perte de connaissance, et la vidange spontanée de vos intestins, votre vessie ou votre estomac. Comment vous sentez-vous ? "
 
 # game/chapter1.rpy:666
 translate french holetravel_b43650b7:
@@ -561,7 +561,7 @@ translate french holetravel_a3fad319:
 translate french holetravel_91c5ac30:
 
     # m "So I followed the dragon, not straying too far from him, as the sun had already departed for the day and the remaining light diminished by the minute."
-    m "Je suivis alors le dragon, ne traînant pas trop loin derrière lui, le soleil s'étant déjà eclipsé pour la journée et la lumière restante diminuée par la minute."
+    m "Je suivis alors le dragon, ne traînant pas trop loin derrière lui, le soleil s'étant déjà eclipsé pour la journée et la lumière restante diminuant chaque minute."
 
 # game/chapter1.rpy:678
 translate french holetravel_98cf1cad:
@@ -603,7 +603,7 @@ translate french holetravel_437d1607:
 translate french holetravel_6e0c5972:
 
     # m "By this point, it had gotten so dark that I could barely make out the building before us. I briefly wondered whether they might have street lights elsewhere, or if they just did not require any due to possible enhanced eyesight or night vision."
-    m "À ce point, il faisait tellement sombre que je pouvais à peine voir le bâtiment se dressant devant nous. Je me demandai brièvement s'ils avaient des éclairages publics ailleurs, où s'ils n'en avaient simplement pas besoin en raison d'une meilleure acuité visuelle ou d'une meilleure vision nocturne."
+    m "À ce point, il faisait tellement sombre que je pouvais à peine voir le bâtiment se dressant devant nous. Je me demandai brièvement s'ils avaient des éclairages publics ailleurs, ou s'ils n'en avaient simplement pas besoin en raison d'une meilleure acuité visuelle ou d'une meilleure vision nocturne."
 
 # game/chapter1.rpy:696
 translate french holetravel_4bcd03cc:
@@ -615,7 +615,7 @@ translate french holetravel_4bcd03cc:
 translate french holetravel_f97397b2:
 
     # m "Hinges creaking, the door opened, and with the flick of a switch, the apartment was flooded with light, blinding me after all the time we had just spent without it."
-    m "Accompagnée d'un grincement des gonds, la porte s'ouvrit, et par un simple coup d'interrupteur, l'appartement s'inonda de lumière, m'aveuglant après tout ce temps passé sans."
+    m "Accompagnée d'un grincement des gonds, la porte s'ouvrit, et par un simple coup d'interrupteur, l'appartement s'inonda de lumière, m'aveuglant après tout ce temps passé dans l'obscurité."
 
 # game/chapter1.rpy:713
 translate french holetravel_7c536461:
