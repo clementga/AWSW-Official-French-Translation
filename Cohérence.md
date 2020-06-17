@@ -17,4 +17,5 @@ s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
  #s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
  s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
  
- 
+ # s "It looks like you've seen this before. Skip to the end of this scene?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la fin de cette scène ?"
