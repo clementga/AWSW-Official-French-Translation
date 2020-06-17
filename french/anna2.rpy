@@ -550,49 +550,49 @@ translate french _call_skipcheck_32_898cead4:
 translate french _call_skipcheck_32_093e96d9:
 
     # c "Yeah, you two would make a great couple."
-    c "Ouais, vous deux formeriez un superbe couple."
+    c "Ouais, vous deux formeriez un super couple."
 
 # game/anna2.rpy:450
 translate french _call_skipcheck_32_e3818e2c:
 
     # An smirk "You're a little late for that. I'm already his ex-girlfriend."
-    An smirk "Tu es un peu tard pour ça. Je suis deja son ex-petite-amie."
+    An smirk "Tu arrives un peu tard pour ça. Je suis dejà son ex-petite-amie."
 
 # game/anna2.rpy:452
 translate french _call_skipcheck_32_4b5e40d4:
 
     # c "Really? How did that go?"
-    c "Vraiment? Comment ça c'est passé?"
+    c "Vraiment ? Comment c'est arrivé ?"
 
 # game/anna2.rpy:454
 translate french _call_skipcheck_32_611a3f9b:
 
     # An normal "Not how you might think. It actually went pretty well. For a while, at least."
-    An normal "Pas comme tu pourraisle penser. Ça se passait plutôt bien. Pour un moment, dumoins."
+    An normal "Pas comme tu pourrais l'imaginer. Ça se passait plutôt bien. Pour un moment, du moins."
 
 # game/anna2.rpy:456
 translate french _call_skipcheck_32_359cfa9a:
 
     # An "But in the end, we both got too absorbed in our jobs until we realized we had drifted apart too much and agreed it would be better if we just broke up."
-    An "Mais au final, nous étiosn tous deux trop absobés dans nos travails jusqu'à ce que nous réalisions que nous nous étions trop éloignés et nous nous sommes accordés sur le fait que que ce serait mieux que nous nous séparions."
+    An "Mais au final, nous étions tous deux trop absorbés par nos boulots respectifs jusqu'à ce que nous réalisions que nous nous étions trop éloignés pour au final nous accorder sur le fait que ce serait mieux de nous séparer."
 
 # game/anna2.rpy:458
 translate french _call_skipcheck_32_803a1558:
 
     # An "I still respect him for the work he does. I mean, we even used to solve crime together. I'd be in the lab, running tests, and he'd be out on the field, chasing after the perps. Those were good times."
-    An "Je le respecte toujours pour le travail qu'il réalise. Je veux dire, on a même résolu des crimes ensembles. J'étais dans le labo, a faire des tests, et il était dehors sur le terrain, a chasser les criminels. C'était le bon temps."
+    An "Je le respecte toujours pour le travail qu'il fait. Je veux dire, on a même résolu des crimes ensembles. J'étais dans le labo, à faire des tests, et il était dehors sur le terrain, a chasser les criminels. C'était le bon temps."
 
 # game/anna2.rpy:460
 translate french _call_skipcheck_32_9282d271:
 
     # c "I guess nowadays he just chases after me."
-    c "Je suppose qu'au jour d'aujourd'hui il se contente de me chasser moi."
+    c "Je suppose qu'au jour d'aujourd'hui, il se contente de me chasser moi."
 
 # game/anna2.rpy:462
 translate french _call_skipcheck_32_c79cd9f3:
 
     # An face "What?"
-    An face "Quoi?"
+    An face "Quoi ?"
 
 # game/anna2.rpy:464
 translate french _call_skipcheck_32_a0c4e770:
@@ -610,19 +610,19 @@ translate french _call_skipcheck_32_60bb1b7f:
 translate french _call_skipcheck_32_c421870e:
 
     # c "Okay, but this is just between us, alright?"
-    c "Okay, mais ça reste entre nous, d'accord?"
+    c "Ok, mais ça reste entre nous, d'accord ?"
 
 # game/anna2.rpy:470
 translate french _call_skipcheck_32_80974b59:
 
     # An face "Sure, whatever."
-    An face "bien sur, peu importe."
+    An face "Bien sûr, qu'on en finisse."
 
 # game/anna2.rpy:472
 translate french _call_skipcheck_32_6e7f0920:
 
     # c "Maverick is convinced that I'm the accomplice of a crime. He made a point to tell me that he's searching for proof to legally arrest me, or worse."
-    c "Maverick est convaincu que je suis impliqué dans un crime. Il a mis un point d'honneur a me dire qu'il cherchait des preuves pour m'arrêter légallement, ou pire encore."
+    c "Maverick est convaincu que je suis impliqué dans un crime. Il m'a bien fait savoir qu'il cherchait des preuves pour m'arrêter légalement, ou pire encore."
 
 # game/anna2.rpy:474
 translate french _call_skipcheck_32_240b5d0d:
@@ -634,7 +634,7 @@ translate french _call_skipcheck_32_240b5d0d:
 translate french _call_skipcheck_32_4e24c2ca:
 
     # c "Really?"
-    c "Vraiment?"
+    c "Vraiment ?"
 
 # game/anna2.rpy:478
 translate french _call_skipcheck_32_0353602b:
@@ -646,13 +646,13 @@ translate french _call_skipcheck_32_0353602b:
 translate french _call_skipcheck_32_0f389c98:
 
     # c "Still, it doesn't feel nice to be threatened and stalked, especially by someone like him."
-    c "Même, ce n'est pas un sentiment appréciable de se sentir menacer et poursuivi, surtout par quelqu'un comme lui."
+    c "Quand même, ce n'est pas un sentiment appréciable de se sentir menacé et poursuivi, surtout par quelqu'un comme lui."
 
 # game/anna2.rpy:482
 translate french _call_skipcheck_32_88e68a44:
 
     # An "That's just him. He gets way too into it once he sets his sights on something."
-    An "C'est juste lui. Il se laisse vraiment emporter lorsqu'il se fixe un objectif précis."
+    An "C'est juste lui. Il se laisse vraiment emporter lorsqu'il a quelque chose en tête."
 
 # game/anna2.rpy:484
 translate french _call_skipcheck_32_2789f598:
@@ -664,7 +664,7 @@ translate french _call_skipcheck_32_2789f598:
 translate french _call_skipcheck_32_a6ac6dfc:
 
     # An face "It's his job. What do you expect?"
-    An face "C'est son travail. Qu'attendais-tu?"
+    An face "C'est son travail. Que t'imaginais-tu ?"
 
 # game/anna2.rpy:488
 translate french _call_skipcheck_32_76fde006:
@@ -676,19 +676,19 @@ translate french _call_skipcheck_32_76fde006:
 translate french _call_skipcheck_32_b8210c5f:
 
     # An normal "He wasn't always like this, you know."
-    An normal "Il n'était pas toujours comme ça tu sais."
+    An normal "Il n'a pas toujours été comme ça, tu sais."
 
 # game/anna2.rpy:494
 translate french _call_skipcheck_32_1d1c8067:
 
     # An "A couple of years ago, he was assigned to this one case."
-    An "Plusieurs années de ça, il a été assigné a cette affaire."
+    An "Il y a plusieurs années de ça, il a été assigné a cette affaire."
 
 # game/anna2.rpy:502
 translate french _call_skipcheck_32_b13f7b9a:
 
     # An "He was still relatively new on the force. Young and eager to help. Then reality came crashing down on him."
-    An "Il était encore relativement nouveau dans les forces de l'ordre. Jeune et enthousiaste d'aider. Et la la réalité s'est abattue sur lui."
+    An "Il était encore relativement nouveau dans les forces de l'ordre. Jeune et désireux d'aider. Et puis la réalité s'est abattue sur lui."
 
 # game/anna2.rpy:504
 translate french _call_skipcheck_32_b9ffec12:
@@ -700,25 +700,25 @@ translate french _call_skipcheck_32_b9ffec12:
 translate french _call_skipcheck_32_ccc7639e:
 
     # An "We later found out that the killer's actions were the result of a degenerative disease, which brought his feral nature to the foreground."
-    An "Nous avons plus tard découverts que les actions du tueur étaient le résultat d'un maladie dégérénative, mettant sa nature sauvage en avant."
+    An "Nous avons plus tard découverts que les actions du tueur étaient le résultat d'un maladie dégérénative, l'ayant ramené à l'état sauvage."
 
 # game/anna2.rpy:508
 translate french _call_skipcheck_32_5074780d:
 
     # An "At that point, he was just a wild animal. Turned into a cannibal that hunted under the shadow of night."
-    An "A ce niveau, il n'était plus qu'un animal sauvage. Transformé en cannibal qui chassait dans l'ombre de la nuit."
+    An "A ce niveau, il n'était plus qu'un animal bestial. Transformé en cannibal qui chassait dans l'ombre de la nuit."
 
 # game/anna2.rpy:510
 translate french _call_skipcheck_32_e7d8836a:
 
     # An "Everyone in town was up in arms, terrified that they'd be next. The police did everything they could. A curfew was instated and patrols guarded the streets at night... And then they found him munching on his fifth victim."
-    An "Tout le monde dans la ville se serait dans leurs bras, terrifés d'êtres les prochains. La police a fait tout ce qu'elle a pu, un couvre feu a été instauré et des patrouilles gardaient les rues la nuit... et alors ils le trouvèrent en train de macher sa cinquième victime."
+    An "Tout le monde en la ville étaient terrorisés, terrifés d'êtres les prochains. La police faisait tout ce qu'elle pouvait, un couvre feu fut instauré et des patrouilles gardaient les rues la nuit... et alors ils le trouvèrent en train de dévorer sa cinquième victime."
 
 # game/anna2.rpy:512
 translate french _call_skipcheck_32_7b07546c:
 
     # An "Poor little Maverick was not prepared for what he would find."
-    An "Le pauvre petit Maverick n'était pas préparé pour ce qui l'attendais."
+    An "Le pauvre petit Maverick n'était pas préparé à ce qui l'attendais."
 
 # game/anna2.rpy:522
 translate french _call_skipcheck_32_e9c0201c:
@@ -730,7 +730,7 @@ translate french _call_skipcheck_32_e9c0201c:
 translate french _call_skipcheck_32_b4a1b1b3:
 
     # Mv scared b gray "Miles?"
-    Mv scared b gray "Miles?"
+    Mv scared b gray "Miles ?"
 
 # game/anna2.rpy:526
 translate french _call_skipcheck_32_3c58f1a4:
@@ -748,19 +748,19 @@ translate french _call_skipcheck_32_79a11911:
 translate french _call_skipcheck_32_a5cd392a:
 
     # An "Miles couldn't comprehend their words, and only saw rivals who wanted to take away his prey."
-    An "Miles ne pouvais comprendre leurs mots, et ne voyais que des rivaux qui voulaient prendre sa proie."
+    An "Miles ne pouvais comprendre leurs mots, et ne voyait que des rivaux qui voulaient prendre sa proie."
 
 # game/anna2.rpy:534
 translate french _call_skipcheck_32_640b5fdf:
 
     # An "And he wasn't about to just let go of it without a fight."
-    An "Et il n'était pas près a juste laisser tombé sans combattre."
+    An "Et il n'était pas près de laisser tomber. Pas sans combattre."
 
 # game/anna2.rpy:540
 translate french _call_skipcheck_32_f4349131:
 
     # m "Miles raised his head from his kill, blood dripping from his maw. The officers' breaths were smothered by the deathly stillness of the night. Fangs bared, the feral dragon snarled and stood strong in front of his meal, prepared to protect it from the two who intruded upon his territory."
-    m "Miles leva la tête de sa proie, du sang coulait de sa machoire. Les respirations des officiers étaient étouffées par le voile mortel de la nuit. Les crocs sortis, le Dragon sauvage grognait et restait brave face a son repas, préparé a le protéger des deux qui s'introduisaient sur son territoire."
+    m "Miles leva la tête de sa proie, du sang coulait de ses machoires. Les respirations des officiers étaient étouffées par le voile mortel de la nuit. Les crocs sortis, le dragon sauvage grognait et restait brave devant son repas, préparé à le protéger des deux qui s'introduisaient sur son territoire."
 
 # game/anna2.rpy:542
 translate french _call_skipcheck_32_9919657a:
@@ -772,43 +772,43 @@ translate french _call_skipcheck_32_9919657a:
 translate french _call_skipcheck_32_7761fa31:
 
     # m "In an instant, Miles was upon Bryce. They clashed in a flurry of teeth and claws. Miles had the advantage with his small frame and quick movements, and Bryce could not get a clear hit in. It all happened so fast that Maverick didn't know what to do."
-    m "En un instant, Miles était sur Bryce. Ils se battaient dans une raffale de crocs et de griffes. Miles avait l'avantage avec sa petite sillhouette et ses mouvements rapide, et Bryce n'arrivait pas a placer un coup. Tout se passait si vite que Maverick ne savait pas quoi faire."
+    m "En un instant, Miles était sur Bryce. Ils se battaient dans une raffale de crocs et de griffes. Miles avait l'avantage avec sa petite sillhouette et ses mouvements rapide, et Bryce n'arrivait pas a placer un coup. Tout se passa si vite que Maverick ne sut pas quoi faire."
 
 # game/anna2.rpy:576
 translate french _call_skipcheck_32_eca61239:
 
     # m "They rolled on the ground and Bryce ended up on his back, as helpless as a turtle. Miles pinned him and clamped his jaws on his neck."
-    m "Ils roullairent sur le sol et Bryce fini par se retrouver sur son dos, impuissant comme une tortue. Miles le clouait au sol et planta ses crocs dans son cou."
+    m "Ils roulèrent sur le sol et Bryce finit par se retrouver sur le dos, impuissant comme une tortue. Miles le cloua au sol et planta ses crocs dans son cou."
 
 # game/anna2.rpy:580
 translate french _call_skipcheck_32_1bbfbe7e:
 
     # m "Bryce's claws were the only thing preventing Miles from biting down, and they were slipping, slick with blood and quivering with fatigue, as he tried to push him off."
-    m "Les griffes de Bryce étaient les seules choses qui l'empaichait de mordre plus profondemment, et ils glissaient, nappé de sang et tramblant avec la fatigue, alors qu'il essayait de le repousser."
+    m "Les griffes de Bryce étaient les seules choses qui empêchait Miles de mordre plus profondemment, et elles glissaient, nappé de sang et tramblant avec la fatigue, alors qu'il essayait de le repousser."
 
 # game/anna2.rpy:582
 translate french _call_skipcheck_32_e6fa05f2:
 
     # m "For a brief moment, Bryce thought he'd meet his end, when the jaws suddenly relaxed and he was able to dislodge them."
-    m "Pour un bref instant, Bryce pensait qu'il allait rencontrer sa fin, quand les crocs soudainement lachèrent leur pression et qu'il arrivait a les sortir."
+    m "Pour un bref instant, Bryce pensait qu'il allait rencontrer sa fin, quand les mâchoires se relâchèrent soudainement et qu'il put s'en dégager."
 
 # game/anna2.rpy:584
 translate french _call_skipcheck_32_1bf6af32:
 
     # m "When he looked up, he saw that Maverick had managed to get to Miles from behind. He bit through his brother's neck from above."
-    m "En regardant vers le haut, il a vu que Maverick avait réussi a prendre Miles par derrière. Il a mordu au travers du cou de son frère par le dessus."
+    m "En relevant la tête, il vit que Maverick avait réussi à prendre Miles par derrière. Il avait mordu au travers du cou de son frère par le dessus."
 
 # game/anna2.rpy:590
 translate french _call_skipcheck_32_7ebdfc7a:
 
     # m "Blood flowed down Maverick's jaws and over Miles' lifeless body. Bryce had been saved, but the young dragon wore a wide-eyed, empty stare."
-    m "Du sang coulait des corcs de Maverick et sur le corps vide de vie de Miles. Bryce a été sauvé, mais le jeune dragon avait un regard, les yeux écarquillés et vide."
+    m "Du sang coulait des mâchoires de Maverick et sur le corps sans vie de Miles. Bryce était sauvé, mais le jeune dragon avait un regard écarquillés, vide."
 
 # game/anna2.rpy:602
 translate french _call_skipcheck_32_bee9ce8e:
 
     # An "Maverick blamed himself for not taking better care of his brother. He knew Miles had problems and was taking medication for it, but he wished he could have done more to help him."
-    An "Maverick se blâmait lui même pour ne pas avoir pris plus grand soin de son frère. Il savait que Miles avait des problèmes et qu'il prenait des medicaments pour, mais il souhaitait qu'il avait fait plus pour l'aider."
+    An "Maverick se blâma pour ne pas avoir pris plus grand soin de son frère. Il savait que Miles avait des problèmes et qu'il prenait des médicaments, mais il souhaitait en avoir fait plus pour l'aider."
 
 # game/anna2.rpy:604
 translate french _call_skipcheck_32_0d8501c7:
@@ -832,13 +832,13 @@ translate french _call_skipcheck_32_572ef42b:
 translate french _call_skipcheck_32_e9c1adcb:
 
     # An "It doesn't, but now you know why he is how he is. It's not unusual for him to act like this, so you might just have to wait it out."
-    An "Ça ne t'aide pas, mais maintenant tu sais pourquoi il est tel qu'il est. Ce n'est pas anormal pour lui d'agir ainsi, donc tu devra peut être attendre."
+    An "Ça ne t'aidera pas, mais maintenant tu sais pourquoi il est tel qu'il est. Ce n'est pas anormal pour lui d'agir ainsi, donc tu devras peut être attendre."
 
 # game/anna2.rpy:614
 translate french _call_skipcheck_32_a90493ad:
 
     # An "Anyway, let's get back to your test results. Since you were so interested, did you want a copy of them?"
-    An "Qu'importe, retournons a tes résultats du test. Étant donné que tu était si intéréssé, veux-tu une copie de ces derniers?"
+    An "Enfin bref, retournons a tes résultats du test. Vu que tu avais l'air si intéréssé, veux-tu une copie de ces derniers ?"
 
 # game/anna2.rpy:616
 translate french _call_skipcheck_32_49c5493e:
@@ -856,13 +856,13 @@ translate french _call_skipcheck_32_288c6194:
 translate french _call_skipcheck_32_b5b35b5e:
 
     # c "I heard you also wanted Reza's blood."
-    c "J'ai entendus que tou voulais aussi du sang de Reza."
+    c "J'ai entendu que tu voulais aussi un échantillon du sang de Reza."
 
 # game/anna2.rpy:622
 translate french _call_skipcheck_32_2d3f23b2:
 
     # An "Of course. I invited him over too, but that was before you arrived here."
-    An "Bien évidemment. Je l'ai aussi invité, mais c'était avant que tu arrive."
+    An "Bien évidemment. Je l'ai aussi invité, mais c'était avant que tu n'arrives."
 
 # game/anna2.rpy:624
 translate french _call_skipcheck_32_e3b02716:
@@ -880,13 +880,13 @@ translate french _call_skipcheck_32_69cd35bc:
 translate french _call_skipcheck_32_aa766f4d:
 
     # c "He wouldn't even participate in an exhilarating round of trivia board games?"
-    c "Il ne voulait même pas participer a un exaltant jeu de Quizz?"
+    c "Il ne voulait même pas participer a un exaltant jeu de Quizz ?"
 
 # game/anna2.rpy:630
 translate french _call_skipcheck_32_3598421d:
 
     # An sad "Not even that, can you believe it?"
-    An sad "Pas même, tu y crois?"
+    An sad "Pas même, tu y crois à ça ?"
 
 # game/anna2.rpy:632
 translate french _call_skipcheck_32_18982e40:
