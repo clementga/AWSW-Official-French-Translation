@@ -1090,13 +1090,13 @@ translate french _call_skipcheck_32_c48dc32f_2:
 translate french _call_skipcheck_32_23127dc3:
 
     # m "After several minutes of walking, Anna led me to the outskirts of town. We arrived at a farm house; on one side, fields stretched toward the horizon, and on the other were lush, green hills with fenced populations of animals."
-    m "Après pluiseurs minutes de marche, Anna m'a conduit aux balieues de la ville. Nous sommes arrivés à une ferme; sur le côté, des champs s'entendaient vers l'horizon, et de l'autre il y avait de luxueuses prairies vertes avec une population d'animaux clôturés."
+    m "Après pluiseures minutes de marche, Anna me conduit en périphérie de la ville. Nous arrivâmes à une ferme; d'un côté, des champs s'étendaient vers l'horizon, et de l'autre il y avait des collines verdoyantes avec une population d'animaux clôturés."
 
 # game/anna2.rpy:750
 translate french _call_skipcheck_32_8d3e5f20:
 
     # c "What kind of restaurant is this supposed to be?"
-    c "Quel genre de restaurant c'est censé être?"
+    c "Quel genre de restaurant c'est censé être ?"
 
 # game/anna2.rpy:752
 translate french _call_skipcheck_32_4502501a:
@@ -1108,13 +1108,13 @@ translate french _call_skipcheck_32_4502501a:
 translate french _call_skipcheck_32_deb2a681:
 
     # An normal "Just think about it this way: What's the worst that could happen?"
-    An normal "Pense juste comme ça: Quel est la pire chose qui puisse arriver?"
+    An normal "Pense y juste comme ça: Quel est la pire chose qui puisse arriver ?"
 
 # game/anna2.rpy:762
 translate french _call_skipcheck_32_da14a24f:
 
     # An "We get caught, and maybe they'll tell me to compensate them. Or we'll just say it was your idea and that you didn't know it was forbidden or something. You have diplomatic immunity, so there's nothing they could do."
-    An "On nous attrape, et peut-être ils vont me demender une compensation. Ou on dira juste que c'était ton idée et que tu ne savais pas que c'était interdit ou quelque chose comme ça. Tu a l'immunité diplomatique, donc ils ne pourraient rien faire."
+    An "On se fait attraper, et peut-être ils vont me demander une compensation. Ou on dira juste que c'était ton idée et que tu ne savais pas que c'était interdit ou quelque chose comme ça. Tu a l'immunité diplomatique, donc ils ne pourraient rien faire."
 
 # game/anna2.rpy:766
 translate french _call_skipcheck_32_7c313631:
@@ -1126,25 +1126,25 @@ translate french _call_skipcheck_32_7c313631:
 translate french _call_skipcheck_32_6c1e1e2b:
 
     # An face "Really, you're going to bail after coming all the way out here?"
-    An face "Vraiment? Tu va te dégonfler après avoir fait tout le chemin jusqu'ici?"
+    An face "Vraiment ? Tu vas te dégonfler après avoir fait tout le chemin jusqu'ici ?"
 
 # game/anna2.rpy:777
 translate french _call_skipcheck_32_92a62e3b:
 
     # An disgust "Fine, then go ahead and starve."
-    An disgust "Très bien, vas-y et affame toi."
+    An disgust "Très bien, vas-y et crève de faim."
 
 # game/anna2.rpy:785
 translate french _call_skipcheck_32_f9b8e1a7:
 
     # n "I wasn't sure exactly what she was planning, but I wasn't going to be involved."
-    n "Je n'étais pas certain de ce qu'elle avait aplannifiée, mais je n'allais pas être impliqué."
+    n "Je n'étais pas certain de ce qu'elle avait plannifié, mais pas question d'être impliqué."
 
 # game/anna2.rpy:787
 translate french _call_skipcheck_32_e7e6519e:
 
     # n "I quickly left, making my way back to my apartment after the events that had just taken place."
-    n "Je suis rapidement parti, tracant mon chemin jusqu'à mon retour a l'appartement, après les évennements qui viennent de se dérouler."
+    n "Je partis rapidement, traçant mon chemin jusqu'à l'appartement, après les évennements qui venaient de se dérouler."
 
 # game/anna2.rpy:791
 translate french _call_skipcheck_32_76b2fe88:
@@ -1156,49 +1156,49 @@ translate french _call_skipcheck_32_76b2fe88:
 translate french _call_skipcheck_32_40460e73:
 
     # An "How well can you hunt?"
-    An "Sais-tu bien chasser?"
+    An "Est-ce que tu chasses bien ?"
 
 # game/anna2.rpy:816
 translate french _call_skipcheck_32_21f1ad8f:
 
     # c "Me? Even if I knew how, it's not like I have any equipment here."
-    c "Moi? Même si je savais comment, ce n'est pas comme si j'avais de l'équipement pour, ici."
+    c "Moi ? Même si je savais comment, ce n'est pas comme si j'avais de l'équipement pour, ici."
 
 # game/anna2.rpy:818
 translate french _call_skipcheck_32_c036fa15:
 
     # An face "Equipment? What a sissy."
-    An face "De l'équipement? Quelle poule mouillée."
+    An face "De l'équipement ? Quelle poule mouillée."
 
 # game/anna2.rpy:820
 translate french _call_skipcheck_32_1d5f74b3:
 
     # An normal "You've got hands and teeth. What more do you need?"
-    An normal "Tu a des mains et des dents. Que te faut-il de plus?"
+    An normal "Tu a des mains et des dents. Que te faut-il de plus ?"
 
 # game/anna2.rpy:822
 translate french _call_skipcheck_32_cc813e76:
 
     # c "A long-range weapon, maybe?"
-    c "Une arme a longue portée peut-être?"
+    c "Une arme a longue portée peut-être ?"
 
 # game/anna2.rpy:824
 translate french _call_skipcheck_32_3100d711:
 
     # An smirk "Like fire? I suppose even you could make use of that."
-    An smirk "Comme du feu? Je suppose que même toi tu pourrais faire usage de ce dernier."
+    An smirk "Comme du feu ? Je suppose que même toi tu pourrais en faire usage."
 
 # game/anna2.rpy:826
 translate french _call_skipcheck_32_81758593:
 
     # An normal "Alright, since I'm apparently the only one capable of acquiring food, I'll be right back."
-    An normal "Très bien,puisqu'apparament je suis la seule capable d'obtenir de la nourrite. Je reviens tout de suite."
+    An normal "Très bien, apparament je suis la seule capable d'obtenir de la nourriture, je reviens tout de suite."
 
 # game/anna2.rpy:830
 translate french _call_skipcheck_32_ff6358d1:
 
     # m "Anna walked over to a fenced enclosure of animals that reminded me of sheep. She crouched and squeezed herself through the bars, after which I lost sight of her."
-    m "Anna marcha vers une des barrières de la clôture d'animaux qui me rappelaient des moutons. Elle s'abaissa et se faufilla entre les barreaux, après quoi je l'ai perdue de vue."
+    m "Anna marcha vers un enclos d'animaux qui me rappelaient des moutons. Elle s'abaissa et se faufila entre les barreaux, après quoi je la perdit de vue."
 
 # game/anna2.rpy:832
 translate french _call_skipcheck_32_ae2cdc63:
@@ -1210,7 +1210,7 @@ translate french _call_skipcheck_32_ae2cdc63:
 translate french _call_skipcheck_32_c9b73266:
 
     # m "It took only a couple of minutes for her to return, dragging one of the animals behind her with her now-bloodied jaws and hands."
-    m "Cela n'a pris que quelques minutes avant qu'elle ne revienne, en trainant l'un des animaux derrière elle avec sa machoire et ses griffes, maintenant couverts de sang."
+    m "Cela ne prit que quelques minutes avant qu'elle ne revienne, en trainant l'un des animaux derrière elle avec sa machoire et ses griffes, maintenant couverts de sang."
 
 # game/anna2.rpy:838
 translate french _call_skipcheck_32_eba684ba:
@@ -1222,7 +1222,7 @@ translate french _call_skipcheck_32_eba684ba:
 translate french _call_skipcheck_32_26733c5f:
 
     # c "What kind of animal is this?"
-    c "Quelle sorte d'animal c'est censé être?"
+    c "Quelle sorte d'animal c'est censé être ?"
 
 # game/anna2.rpy:842
 translate french _call_skipcheck_32_66644620:
@@ -1234,13 +1234,13 @@ translate french _call_skipcheck_32_66644620:
 translate french _call_skipcheck_32_6567e13b:
 
     # An "Anyway, do you have a part you'd prefer?"
-    An "Peut importe, quelle partie préfère tu?"
+    An "Enfin bref, quelle partie préfères-tu ?"
 
 # game/anna2.rpy:846
 translate french _call_skipcheck_32_273a737c:
 
     # An smirk c "See how nice I am? I'm even letting you choose first."
-    An smirk c "Tu vois comment je suis sympa? Je te laisse même choisir en premier"
+    An smirk c "Tu vois comme je suis sympa ? Je te laisse même choisir en premier."
 
 # game/anna2.rpy:852
 translate french _call_skipcheck_32_f3de0e52:
@@ -1258,13 +1258,13 @@ translate french _call_skipcheck_32_cb4e7418:
 translate french _call_skipcheck_32_6ccedd71:
 
     # An normal c "Okay."
-    An normal c "Okay."
+    An normal c "Ca marche."
 
 # game/anna2.rpy:888
 translate french _call_skipcheck_32_698956a3:
 
     # An face c "Really, that makes you lose your appetite?"
-    An face c "Vraiment? ça t'a fait perdre ton appétit?"
+    An face c "Vraiment ? Ca t'a fait perdre ton appétit ?"
 
 # game/anna2.rpy:890
 translate french _call_skipcheck_32_a8b78426:
