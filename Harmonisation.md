@@ -7,9 +7,6 @@ Ce fichier contient à certain nombre de consignes à suivre afin d'assurer une 
 - Dico :
 
 * "production facility" -> "complexe de production", "complexe"
-
-Flyer: Aviateurs
-
-Earth dragon: Dragon terrestre
-
-Runner: Véloces
+* Flyer: Aviateur
+* Earth dragon: Dragon terrestre
+* Runner: Véloce
