@@ -12,4 +12,4 @@ Flyer: Aviateurs
 
 Earth dragon: Dragon terrestre
 
-Runner: 
+Runner: Véloces
