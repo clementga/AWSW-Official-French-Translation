@@ -1,9 +1,17 @@
-Ce fichier contient ‡ certain nombre de consignes ‡ suivre afin d'assurer une certaine harmonie entre les diffÈrents traducteurs
+Ce fichier contient √† certain nombre de consignes √† suivre afin d'assurer une certaine harmonie entre les diff√©rents traducteurs
 
-- Dans les passages de narration, utiliser le passÈ simple/imparfait/plus-que-parfait (et les temps correspondant dans les autres modes). Ne pas mÈlanger diffÈrents temps (tel que passÈ simple et passÈ composÈ).
+- Dans les passages de narration, utiliser le pass√© simple/imparfait/plus-que-parfait (et les temps correspondant dans les autres modes). Ne pas m√©langer diff√©rents temps (tel que pass√© simple et pass√© compos√©).
 
-- Les noms des personnages sont inchangÈs sauf pour 2 d'entre eux : Sebastian est changÈ en SÈbastien, et Remy est changÈ en RÈmi.
+- Les noms des personnages sont inchang√©s sauf pour 2 d'entre eux : Sebastian est chang√© en S√©bastien, et Remy est chang√© en R√©mi.
 
 - Dico :
 
 * "production facility" -> "complexe de production", "complexe"
+
+Pour les esp√®ces de dragons il faut qu'on se d√©cide une bonne fois pour toutes.
+
+runner : 
+
+flyer : Alulaire
+
+earth dragon : Drake
