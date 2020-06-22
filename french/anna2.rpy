@@ -1276,73 +1276,73 @@ translate french _call_skipcheck_32_a8b78426:
 translate french _call_skipcheck_32_b1fc4ca4:
 
     # m "Using one of her claws, she skinned the dead Mouflon and divided it into various pieces."
-    m "en utilisant l'une de ses griffes, elle écorcha le Mouflon mort et le divisa en plusieurs parties."
+    m "En utilisant l'une de ses griffes, elle écorcha le Mouflon mort et le divisa en plusieures parties."
 
 # game/anna2.rpy:903
 translate french _call_skipcheck_32_338ffbd9:
 
     # An "Do you want yours grilled or raw?"
-    An "Tu veux ton morceau cuit ou crû?"
+    An "Tu veux ton morceau cuit ou cru ?"
 
 # game/anna2.rpy:905
 translate french _call_skipcheck_32_82a1bfde:
 
     # c "Grilled. Unless prepared properly, raw meat carries a significant risk of diseases for us."
-    c "Cuit. Sauf si elles sont préparées correctement, les viandes crues sont porteuses d'un risque signifiant de maladie pour nous."
+    c "Cuit. A moins d'être préparées correctement, les viandes crues sont porteuses de maladie pour nous."
 
 # game/anna2.rpy:909
 translate french _call_skipcheck_32_982f6a29:
 
     # An "Now, do I want this grilled or raw? What do you think?"
-    An "Maintenant, la voudrais-je Grillée ou crue? Qu'en pense-tu?"
+    An "Voyons, la voudrais-je grillée ou crue ? Qu'en penses-tu ?"
 
 # game/anna2.rpy:911
 translate french _call_skipcheck_32_5f555ca6:
 
     # c "Raw meat actually carries a significant risk of diseases for us if not prepared properly."
-    c "La viande crue porte des gros risques de maladies pour nous, si elle n'est pas préparée convenablement."
+    c "La viande crue est porteuse de maladies pour nous, si elle n'est pas préparée convenablement."
 
 # game/anna2.rpy:913
 translate french _call_skipcheck_32_28f21901:
 
     # An face c "How inept can your species even be? You can't hunt on your own, and you need tools and help at every step. You don't even have claws to cut things up."
-    An face c "A quel point ton espèce peut-elle être inepte? Tu ne peux pas chasser par tes propres moyens, et tu a besoin d'outils ainsi que d'aide a chaque étape. Tu n'a même pas des griffes pour couper quelque chose."
+    An face c "A quel point ton espèce peut-elle être inapte ? Tu ne peux pas chasser par tes propres moyens, et tu as besoin d'outils ainsi que d'aide à chaque étape. Tu n'as même pas de griffes pour couper quelque chose."
 
 # game/anna2.rpy:915
 translate french _call_skipcheck_32_c96b53da:
 
     # An normal c "I'm not sure how you could ever survive in the wild."
-    An normal c "Je ne sais même pas comment tu pourais survivre dans la nature."
+    An normal c "Je ne sais même pas comment tu pourrais survivre dans la nature."
 
 # game/anna2.rpy:917
 translate french _call_skipcheck_32_8a81e1bc:
 
     # An "Seriously, what god did you piss off to end up like that?"
-    An "Sérieusement, quelle divinité vous avez énervé pour en arrivé à ça?"
+    An "Sérieusement, quelle divinité vous avez énervé pour en arriver là ?"
 
 # game/anna2.rpy:923
 translate french _call_skipcheck_32_a2ec599f:
 
     # c "I guess after millions of years of evolution, nature decided that we didn't need those abilities anymore. Instead, we got very articulate hands and arms, and our upright stance. Those let us do many other things."
-    c "Je suppose qu'après des millions d'années d'évolution, la nature décida que nous n'avions plus besoin de ces capacités. A la place nous avons obtenu des mains et des bras très articulés, ainsi que notre posture droite. Ces éléments nous laissent la possibilité de faire bien d'autres choses."
+    c "Je suppose qu'après des millions d'années d'évolution, la nature a décidé que nous n'avions plus besoin de ces capacités. A la place nous avons obtenu des mains et des bras très articulés, ainsi que notre posture droite. Ces éléments nous laissent la possibilité de faire bien d'autres choses."
 
 # game/anna2.rpy:925
 translate french _call_skipcheck_32_c7de8994:
 
     # An "Like what?"
-    An "Comme quoi?"
+    An "Comme quoi ?"
 
 # game/anna2.rpy:927
 translate french _call_skipcheck_32_640a1ac4:
 
     # c "Who builds everything in your society? Who's responsible for the delicate tasks, like assembling electronics, manufacturing, or cooking and bartending?"
-    c "Qui construit tout ce qui se trouve dans votre société? Qui est responsable des tâches délicates, comme l'assemblage électronic, la fabrication industrielle ou être cuisinier ainsi que barman?"
+    c "Qui construit tout ce qui se trouve dans votre société ? Qui est responsable des tâches délicates, comme l'assemblage électronique, la fabrication industrielle ou la préparation culinaire ainsi que la profession de barman ?"
 
 # game/anna2.rpy:929
 translate french _call_skipcheck_32_9dd1c0ea:
 
     # An smirk c "That's mostly us, the runners. We've got proper hands, after all."
-    An smirk c "C'est majoritairement nous, les courreurs. Nous avons les mains les plus adaptées après tout."
+    An smirk c "C'est majoritairement nous, les véloces. Nous avons les mains les plus adaptées après tout."
 
 # game/anna2.rpy:933
 translate french _call_skipcheck_32_66b779fe:
@@ -1360,19 +1360,19 @@ translate french _call_skipcheck_32_d9c9abdd:
 translate french _call_skipcheck_32_3a7b2838:
 
     # c "The difference between you and me is about as big as the difference between you and another of your species'."
-    c "La différence entre toi et moi, est aussi grande que la différence entre toi et un autre de ton espèce."
+    c "La différence entre toi et moi, est aussi grande que la différence entre toi et un autre membre de ton espèce."
 
 # game/anna2.rpy:939
 translate french _call_skipcheck_32_8c7dd009:
 
     # c "Just imagine what we could do with our advantages."
-    c "Juste, imagine ce que l'on pourrait faire avec nos avantage."
+    c "Juste, imagine ce que l'on pourrait faire avec nos avantages."
 
 # game/anna2.rpy:941
 translate french _call_skipcheck_32_d9334d46:
 
     # An face c "Oh, you think you can school me?"
-    An face c "Oh, tu pense pouvoir m'éduquer?"
+    An face c "Oh, tu pense pouvoir m'éduquer ?"
 
 # game/anna2.rpy:943
 translate french _call_skipcheck_32_d6ece629:
@@ -1384,19 +1384,19 @@ translate french _call_skipcheck_32_d6ece629:
 translate french _call_skipcheck_32_9185ff52:
 
     # An normal c "Don't get cocky. We've overcome the limitations of individual species with all of our technology."
-    An normal c "Ne soit pas trop sur de toi. Nous avons surpassés les limites de nos espèces individuelles avec toute notre technologie."
+    An normal c "Ne soit pas trop sûr de toi. Nous avons surpassés les limites de nos espèces individuelles avec toute notre technologie."
 
 # game/anna2.rpy:947
 translate french _call_skipcheck_32_75098963:
 
     # c "Actually, we have technology back home that is far superior to yours."
-    c "A vrai dire, nous avons une technologie bien plus avancée que la votre de la ou je viens."
+    c "A vrai dire, nous avons une technologie bien plus avancée que la votre de là où je viens."
 
 # game/anna2.rpy:949
 translate french _call_skipcheck_32_2a537beb:
 
     # An smirk c "I'd love to see it. Though, we've already gathered plenty of information on your tech from the databases contained in the PDA. What will you do when we catch up?"
-    An smirk c "J'adorerais pouvoir la voir. Même si nous avons déjà collecté beaucoup d'informations sur votre technologie des bases de données du PDA. Qu'est-ce que tu va faire lorsqu'on vous rattrapera?"
+    An smirk c "J'adorerais pouvoir la voir. Même si nous avons déjà collecté beaucoup d'informations sur votre technologie des bases de données du PDA. Qu'est-ce que tu vas faire lorsqu'on vous rattrapera ?"
 
 # game/anna2.rpy:951
 translate french _call_skipcheck_32_14283680:
@@ -1408,13 +1408,13 @@ translate french _call_skipcheck_32_14283680:
 translate french _call_skipcheck_32_5fb4dca1:
 
     # An face c "Do you really believe that?"
-    An face c "Tu y crois sérieusement?"
+    An face c "Tu y crois sincèrement ?"
 
 # game/anna2.rpy:963
 translate french _call_skipcheck_32_9d9fb6df:
 
     # c "I do."
-    c "J'y crois sérieusement."
+    c "J'y crois oui."
 
 # game/anna2.rpy:965
 translate french _call_skipcheck_32_9758b24e:
@@ -1426,7 +1426,7 @@ translate french _call_skipcheck_32_9758b24e:
 translate french _call_skipcheck_32_678f9d86:
 
     # c "I have no idea. It's kinda sad when you look at it from that perspective. So many different species have so many amazing natural abilities that it seems like we got the bad end of the deal."
-    c "Je n'en sais rien. C'est un peu triste qu'en on voit ça sous un autre angle. Il y a tellement d'espèces différentes qui ont des capacités naturelles incroyables, que ça donne l'impression que nosu avons eu la mauvaise partie du marché."
+    c "Je n'en sais rien. C'est un peu triste qu'en on voit ça sous un autre angle. Il y a tellement d'espèces différentes qui ont des capacités naturelles incroyables, que ça donne l'impression que nous avons eu la mauvaise partie du marché."
 
 # game/anna2.rpy:977
 translate french _call_skipcheck_32_f2aa4009:
