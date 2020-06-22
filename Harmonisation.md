@@ -7,11 +7,6 @@ Ce fichier contient à certain nombre de consignes à suivre afin d'assurer une 
 - Dico :
 
 * "production facility" -> "complexe de production", "complexe"
-
-Pour les espèces de dragons il faut qu'on se décide une bonne fois pour toutes.
-
-runner : 
-
-flyer : Alulaire
-
-earth dragon : Drake
+* Flyer: Aviateur
+* Earth dragon: Dragon terrestre
+* Runner: Véloce
