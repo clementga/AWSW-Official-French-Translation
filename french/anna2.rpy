@@ -1372,7 +1372,7 @@ translate french _call_skipcheck_32_8c7dd009:
 translate french _call_skipcheck_32_d9334d46:
 
     # An face c "Oh, you think you can school me?"
-    An face c "Oh, tu pense pouvoir m'éduquer ?"
+    An face c "Oh, tu pense pouvoir me faire la leçon ?"
 
 # game/anna2.rpy:943
 translate french _call_skipcheck_32_d6ece629:
@@ -1438,13 +1438,13 @@ translate french _call_skipcheck_32_f2aa4009:
 translate french _call_skipcheck_32_14bbf64a:
 
     # An smirk c "Mother nature has been so cruel to your race that I almost feel sorry for you."
-    An smirk c "Mère Nature a été tellement cruelle avec votre espèce, j'en ai presque des remorts pour toi."
+    An smirk c "Mère Nature a été tellement cruelle avec votre espèce, j'en ai presque de la peine pour toi."
 
 # game/anna2.rpy:989
 translate french _call_skipcheck_32_a3bd46da:
 
     # m "She opened her maw wide before a liquid shot from both corners of her mouth and onto the ground below the parts of the Mouflon she had prepared."
-    m "Elle ouvra grand sa gueule avant qu'un liquide s'ejecta des deux coins de sa bouche pour s'éclater sur le sol, la ou se trouvaient les parties du Mouflon qu'elle avait préparée."
+    m "Elle ouvrit grand sa gueule avant qu'un liquide s'éjecta des deux coins de sa bouche pour se répandre sur le sol, là où se trouvaient les parties du Mouflon qu'elle avait préparée."
 
 # game/anna2.rpy:995
 translate french _call_skipcheck_32_fbf46b19:
@@ -1462,13 +1462,13 @@ translate french _call_skipcheck_32_cb199878:
 translate french _call_skipcheck_32_57187021:
 
     # c "That's a neat trick."
-    c "C'est un splendide tour."
+    c "C'est un chouette tour."
 
 # game/anna2.rpy:1003
 translate french _call_skipcheck_32_8e366eab:
 
     # An smirk c "I bet you wish you could do that, huh?"
-    An smirk c "Je parie que tu souhaiterais pouvoire le faire, n'est-ce pas?"
+    An smirk c "Je parie que tu souhaiterais pouvoire le faire, n'est-ce pas ?"
 
 # game/anna2.rpy:1011
 translate french _call_skipcheck_32_a992f1d5:
@@ -1486,25 +1486,25 @@ translate french _call_skipcheck_32_533d5b93:
 translate french _call_skipcheck_32_609b3cec:
 
     # An "So, being biologically inferior somehow makes you better than us. Got it."
-    An "Donc, être biologiquement inférieur vous rend d'une quelconque manière suppérieur a nous, j'ia compris."
+    An "Donc, être biologiquement inférieur vous rend d'une quelconque manière suppérieur a nous, j'ai compris."
 
 # game/anna2.rpy:1024
 translate french _call_skipcheck_32_21d8cb8c:
 
     # An "Right? It comes in handy."
-    An "N'est-ce pas? C'est plutôt utile."
+    An "N'est-ce pas ? C'est plutôt utile."
 
 # game/anna2.rpy:1035
 translate french _call_skipcheck_32_05fcfeac:
 
     # An normal c "Why not?"
-    An normal c "Pourquoi pas?"
+    An normal c "Pourquoi pas ?"
 
 # game/anna2.rpy:1037
 translate french _call_skipcheck_32_b448568f:
 
     # c "It would be a neat ability to have, but I don't think I'd want a deadly weapon at my disposal at all times. Furthermore, I'm not sure about what could happen if other humans had access to that skill."
-    c "Ce serait une capacité cool à avoir, mais je ne pense pas que je souhaiterais avoir une arme mortelle a disposition a tout moment. De plus, qui sait ce qui pourrait arriver si d'autres humains avait accès a cette compétence."
+    c "Ce serait une capacité cool à avoir, mais je ne pense pas que je souhaiterais avoir une arme mortelle à disposition a tout moment. De plus, qui sait ce qui pourrait arriver si d'autres humains avaient accès a cette compétence."
 
 # game/anna2.rpy:1039
 translate french _call_skipcheck_32_5057e9fb:
@@ -1516,25 +1516,25 @@ translate french _call_skipcheck_32_5057e9fb:
 translate french _call_skipcheck_32_0368de38:
 
     # c "How does that work, anyway? Don't you ever burn your mouth?"
-    c "Comment ça marche de toute façon? Tu ne te brûle jamais la bouche?"
+    c "Comment ça marche de toute façon ? Tu ne te brûles jamais la bouche ?"
 
 # game/anna2.rpy:1044
 translate french _call_skipcheck_32_af9c799d:
 
     # An "Not at all. There are actually two different components. They only catch on fire when a sufficient quantity of both is present."
-    An "Pas dutout. Il y a actuellement deux composants différents, ces derniers ne s'enflamment que lorsqu'une quantité suffisante de chaque se mélange."
+    An "Pas du tout. Il y a actuellement deux composants différents, ces derniers ne s'enflamment que lorsqu'une quantité suffisante de chaque se mélange."
 
 # game/anna2.rpy:1046
 translate french _call_skipcheck_32_c5aed8d5:
 
     # c "Interesting."
-    c "Intéréssent."
+    c "Intéressant."
 
 # game/anna2.rpy:1054
 translate french _call_skipcheck_32_7ab0071a:
 
     # m "The flames weakened and grew smaller until they went out, revealing steamy, appetizing pieces of meat."
-    m "Les flammes s'affaiblissent et rétrécissent jusqu'à s'éteindre, dévoilant un morceau de viande fumant, et appétisant."
+    m "Les flammes s'affaiblirent et rétrécirent jusqu'à s'éteindre, dévoilant un morceau de viande fumant, et appétisant."
 
 # game/anna2.rpy:1056
 translate french _call_skipcheck_32_880f45b8:
@@ -1546,7 +1546,7 @@ translate french _call_skipcheck_32_880f45b8:
 translate french _call_skipcheck_32_7735c230:
 
     # m "I grabbed a piece, but dropped it as soon as I felt the heat on my fingertips."
-    m "J'ai attrapé un morceau, mais l'ai lâché aussi tôt que je sentis la chaleur au bout de mes doigts."
+    m "J'attrapai un morceau, mais le lâchai aussi tôt que je sentis la chaleur au bout de mes doigts."
 
 # game/anna2.rpy:1062
 translate french _call_skipcheck_32_726f87f7:
@@ -1558,7 +1558,7 @@ translate french _call_skipcheck_32_726f87f7:
 translate french _call_skipcheck_32_f7d18b58:
 
     # An smirk c "Can't take a little heat, huh? That's too bad."
-    An smirk c "Tu ne peux pas supporter un peu de chaleur hein? Que c'est dommage."
+    An smirk c "Tu ne peux pas supporter un peu de chaleur hein ? Que c'est dommage."
 
 # game/anna2.rpy:1068
 translate french _call_skipcheck_32_e78d8661:
@@ -1570,7 +1570,7 @@ translate french _call_skipcheck_32_e78d8661:
 translate french _call_skipcheck_32_7d829b7a:
 
     # m "Unaffected by its temperature, she took a piece into her hand, tore a chunk out of it with her teeth, and started chewing."
-    m "Non affectée par la chaleur, elle pris un morceau dans sa main, et en arracha un morceau avec ses dents, suite a quoi elle commença à mâcher."
+    m "Non affectée par la chaleur, elle prit un morceau dans sa main, et en arracha un morceau avec ses dents, suite a quoi elle commença à mâcher."
 
 # game/anna2.rpy:1072
 translate french _call_skipcheck_32_28a55877:
@@ -1588,7 +1588,7 @@ translate french _call_skipcheck_32_bc8400c3:
 translate french _call_skipcheck_32_715002fb:
 
     # c "How does it taste?"
-    c "Alors, c'est bon?"
+    c "Alors, c'est bon ?"
 
 # game/anna2.rpy:1078
 translate french _call_skipcheck_32_38caf1ef:
@@ -1606,31 +1606,31 @@ translate french _call_skipcheck_32_954aa2a1:
 translate french _call_skipcheck_32_63472a9d:
 
     # c "It's bad enough that you roped me into all this, and now you're making fun of the person you stole from. Seriously, knock it off."
-    c "C'était déjà suffisament mauvais que tu m'embarque la dedans, et maintenant tu tu moque d'une personne que tu viens de voler. Sérieusement, arrête."
+    c "C'était déjà suffisament mal que tu m'embarques là dedans, et maintenant tu tu moques d'une personne que tu viens de voler. Sérieusement, arrête."
 
 # game/anna2.rpy:1095
 translate french _call_skipcheck_32_70b1634e:
 
     # An "If he didn't want someone to steal his things, he should've built a taller fence."
-    An "Si il ne voulait pas que quelqu'un vole sa viande, il n'avait qu'a construire une plus grande barrière."
+    An "S'il ne voulait pas que quelqu'un vole sa viande, il n'avait qu'à construire une plus grande barrière."
 
 # game/anna2.rpy:1097
 translate french _call_skipcheck_32_d5413a53:
 
     # c "How would you feel if I just walked into your lab and took your stuff?"
-    c "Comment tu te sentirais si je rentrais dans ton labo et que je prenais tes affaires?"
+    c "Comment te sentirais-tu si je rentrais dans ton labo et que je prenais tes affaires ?"
 
 # game/anna2.rpy:1099
 translate french _call_skipcheck_32_d0f92eae:
 
     # An normal c "You wouldn't be able to, because I actually take security seriously."
-    An normal c "Tu ne pourrais pas, parcequ'en l'occurence, la sécurité est quelque chose que je prends très au sérieux."
+    An normal c "Tu ne pourrais pas, parce qu'en l'occurence, la sécurité est quelque chose que je prends très au sérieux."
 
 # game/anna2.rpy:1106
 translate french _call_skipcheck_32_78fd9539:
 
     # An "And he is such a good man, too. Poor him."
-    An "Et il était un homme si aimable. Pauvre lui."
+    An "Et il était un homme si aimable. Pauvre de lui."
 
 # game/anna2.rpy:1113
 translate french _call_skipcheck_32_125d05ce:
@@ -1642,19 +1642,19 @@ translate french _call_skipcheck_32_125d05ce:
 translate french _call_skipcheck_32_c72afdc0:
 
     # m "Carefully, I grabbed one of the pieces, which by now had indeed cooled down enough to not burn me anymore and took a bite."
-    m "J'ai attrapé, avec précaution, un morceau de viande, qui avait en effet suffisament refroidi pour ne plus me brûler, et je mordis dedans."
+    m "J'attrapai, avec précaution, un des morceau de viande, qui avait en effet suffisament refroidi pour ne plus me brûler, et je mordis dedans."
 
 # game/anna2.rpy:1117
 translate french _call_skipcheck_32_4334daf7:
 
     # m "It was a little bland, I had to admit, but not bad for something that was alive less than an hour ago, and prepared in the wild."
-    m "Il fallait que j'admette que c'était un peu fade, mais pas mauvais pour quelque chose qui était vivant il y a encore moins d'une heure, et cuisiné dans la nature."
+    m "Il fallait admettre que c'était un peu fade, mais pas mauvais pour quelque chose qui était vivant il y a encore moins d'une heure, et cuisiné dans la nature."
 
 # game/anna2.rpy:1119
 translate french _call_skipcheck_32_1934b70c:
 
     # An smirk c "How do you like your Mouflon à la Anna?"
-    An smirk c "Comment est donc ton Mouflon à la Anna?"
+    An smirk c "Comment est donc ton Mouflon à la Anna ?"
 
 # game/anna2.rpy:1125
 translate french _call_skipcheck_32_f2ae7c70:
@@ -1666,7 +1666,7 @@ translate french _call_skipcheck_32_f2ae7c70:
 translate french _call_skipcheck_32_8d3f8737:
 
     # An face c "I'm not one to destroy a perfectly good piece of meat with stupid vegetables, but you can put some grass on it if you like."
-    An face c "Je ne suis aps quelqu'un qui va détruire un morceau de viande parfait avec quelques végétables stupides, mais tu peux y mettre un peu d'herbe si tu veux."
+    An face c "Je ne suis pas quelqu'un qui va détruire un morceau de viande parfait avec quelques légumes stupides, mais tu peux y mettre un peu d'herbe si tu veux."
 
 # game/anna2.rpy:1129
 translate french _call_skipcheck_32_8aecccd4:
@@ -1690,7 +1690,7 @@ translate french _call_skipcheck_32_888f924f:
 translate french _call_skipcheck_32_02d98feb:
 
     # An "Quite different from sitting in an expensive restaurant and using their fancy cutlery and napkins, isn't it?"
-    An "Quelque peu différent que d'être assis dans un de ces restaurants chèr et d'utiliser leurs couvers et serviettes chiques, n'est-ce pas?"
+    An "Quelque peu différent que d'être assis dans un de ces restaurants hors de prix et d'utiliser leurs couverts et serviettes chiques, n'est-ce pas ?"
 
 # game/anna2.rpy:1145
 translate french _call_skipcheck_32_ef240537:
@@ -1702,7 +1702,7 @@ translate french _call_skipcheck_32_ef240537:
 translate french _call_skipcheck_32_ddeb8157:
 
     # c "How often do you just go out and hunt on your own?"
-    c "Tu sors souvent pour chasser seule?"
+    c "Tu sors souvent pour chasser seule ?"
 
 # game/anna2.rpy:1153
 translate french _call_skipcheck_32_af540d2b:
@@ -1726,25 +1726,25 @@ translate french _call_skipcheck_32_c9819249:
 translate french _call_skipcheck_32_6aa9b575:
 
     # c "I can see your point. This certainly isn't how I thought the evening would go, but it was pretty fun."
-    c "Je vois ce que tu veux dire. Ce n'est certainement pas comment je voyais se dérouler la soirée, mais c'était amusant."
+    c "Je vois ce que tu veux dire. Ce n'est certainement pas comme ça que je voyais la soirée se dérouler, mais c'était amusant."
 
 # game/anna2.rpy:1170
 translate french _call_skipcheck_32_1337cc4c:
 
     # An "I can see why; you're totally lost in the wild. You need everything to be done for you by an army of lackeys and cooks."
-    An "Je comprends pourquoi; tu es totalement perdu dans la nature. Tu a besoin que tout soit fait pour toi par une armée de Laquais et de cuisiniers."
+    An "Je comprends pourquoi; tu es totalement perdu dans la nature. Tu as besoin que tout soit fait pour toi par une armée de laquais et de cuisiniers."
 
 # game/anna2.rpy:1172
 translate french _call_skipcheck_32_265b6161:
 
     # An "Even out here, I can take care of myself. I got the Mouflon, I cut it up and - surprise, surprise - I was also the one who cooked it."
-    An "Même ici, dehors, je peux prendre soin de moi-même. J'ai attrapé le Mouflon, je l'ai ouvert et - Surprise - J'étais aussi celle qui l'a cuisiné."
+    An "Même ici, dehors, je peux prendre soin de moi-même. J'ai attrapé le Mouflon, je l'ai ouvert et - surprise - J'étais aussi celle qui l'a cuisiné."
 
 # game/anna2.rpy:1177
 translate french _call_skipcheck_32_52ae2312:
 
     # An "Anyways, I'm stuffed."
-    An "Peu importe, je suis repue."
+    An "Quoi qu'il en soit, je suis repue."
 
 # game/anna2.rpy:1181
 translate french _call_skipcheck_32_e0224be1:
@@ -1756,7 +1756,7 @@ translate french _call_skipcheck_32_e0224be1:
 translate french _call_skipcheck_32_d4e460d0:
 
     # c "There's still plenty left over. What are we going to do with it all?"
-    c "Il en reste encore beaucoup. Qu'est-ce qu'en on fait?"
+    c "Il en reste encore beaucoup. Qu'est-ce qu'en on fait ?"
 
 # game/anna2.rpy:1185
 translate french _call_skipcheck_32_a1b1befd:
@@ -1768,13 +1768,13 @@ translate french _call_skipcheck_32_a1b1befd:
 translate french _call_skipcheck_32_19a7388d:
 
     # An "Yeah, he should pay me for cooking him such a nice meal."
-    An "Ouais, il devrais me payer pour lui avoir cuisiné un si bon plat."
+    An "Ouais, il devrait me payer pour lui avoir cuisiné un si bon plat."
 
 # game/anna2.rpy:1202
 translate french _call_skipcheck_32_558cb802:
 
     # An normal c "So what? They need to eat, too."
-    An normal c "Et donc? Ils ont aussi besoin de se nourrir."
+    An normal c "Et donc ? Ils ont aussi besoin de se nourrir."
 
 # game/anna2.rpy:1211
 translate french _call_skipcheck_32_4be2784f:
@@ -1798,7 +1798,7 @@ translate french _call_skipcheck_32_281e042b:
 translate french anna2skip_ee80c080:
 
     # c "Well, that was interesting."
-    c "Et bien, c'était intéréssent."
+    c "Eh bien, c'était intéréssent."
 
 # game/anna2.rpy:1236
 translate french anna2skip_4115a8bc:
@@ -1816,43 +1816,43 @@ translate french anna2skip_7884d914:
 translate french anna2skip_7c7a5749:
 
     # c "Thanks, but did you really need to spend all that extra time getting this done today?"
-    c "Merci, mais avais-tu vraiment besoin de tout ce temps supplémentaire pour finir ça aujourd'hui?"
+    c "Merci, mais avais-tu vraiment besoin de tout ce temps supplémentaire pour finir ça aujourd'hui ?"
 
 # game/anna2.rpy:1256
 translate french anna2skip_251f14c0:
 
     # An sad "I just wanted to get it over with when I had the chance."
-    An sad "Je voulais juste le terminer dès que j'en avais la chance."
+    An sad "Je voulais juste le terminer dès que j'en avais l'occasion."
 
 # game/anna2.rpy:1264
 translate french anna2else_f94cf9ab:
 
     # c "Can I ask you something? Did you really have to make me wait two hours so you could finish whatever you were doing?"
-    c "Puis-je te demander quelque chose? Tu avais réellement besoin de me faire attendre deux heures pour finir je ne sais quoi?"
+    c "Puis-je te demander quelque chose ? Tu avais réellement besoin de me faire attendre deux heures pour finir je ne sais quoi ?"
 
 # game/anna2.rpy:1266
 translate french anna2else_f35ca7e8:
 
     # An face "I had something important to take care of in the lab, and I just wanted to get it over with."
-    An face "J'avais quelque chose d'omportant a faire dans le labo, et je voulais simplement le terminer."
+    An face "J'avais quelque chose d'important à faire dans le labo, et je voulais simplement le terminer."
 
 # game/anna2.rpy:1271
 translate french anna2else_122b7bfe:
 
     # c "Maybe you should start thinking about not working so late on a regular basis. It might do you some good, Anna."
-    c "Peut-être devrais tu penser a ne pas travailler aussi tard de manière régulière? Ça pourrais te faire du bien, Anna."
+    c "Peut-être devrais tu penser à ne pas travailler aussi tard de manière régulière ? Ça pourrait te faire du bien, Anna."
 
 # game/anna2.rpy:1276
 translate french anna2else_e9e1b3a4:
 
     # An sad "You know, I think you have a point."
-    An sad "En réalité, je pense que tu marque un point."
+    An sad "En réalité, je pense que tu marques un point."
 
 # game/anna2.rpy:1278
 translate french anna2else_3a1080d0:
 
     # An "I haven't been feeling like myself lately. There are various reasons for that, but working too much might be one."
-    An "Je ne me sens pas vraimment comme moi même ces derniers temps. Il y a diverses raisons pour ça, mais le surmenage au travail en est certainement une cause."
+    An "Je ne suis plus vraiment moi même ces derniers temps. Il y a diverses raisons pour ça, mais le surménage au travail en est certainement une cause."
 
 # game/anna2.rpy:1280
 translate french anna2else_b0f72366:
@@ -1864,91 +1864,91 @@ translate french anna2else_b0f72366:
 translate french anna2else_0d6fc47a:
 
     # An smirk "Speaking of which, now that our date is officially over, we should talk about your end of the deal."
-    An smirk "À ce sujet, maintenant que notre rendez-vous est officiellement terminé, on devrait parler d"
+    An smirk "À ce sujet, maintenant que notre rendez-vous est officiellement terminé, on devrait parler de reste de notre marché."
 
 # game/anna2.rpy:1284
 translate french anna2else_4e8c7062:
 
     # c "Of course."
-    c "Bien sur."
+    c "Bien sûr."
 
 # game/anna2.rpy:1286
 translate french anna2else_e1459a92:
 
     # An normal "There is an opening soon where I can fit you in. I'll call you with all the details."
-    An normal "Il y a une ouverture bientôt ou je pourrais de placer. Je te recontacterais avec les détails."
+    An normal "Il y a un créneau bientôt où je pourrais te placer. Je te recontacterais avec les détails."
 
 # game/anna2.rpy:1288
 translate french anna2else_2d3c9328:
 
     # c "I shall be looking forward to that."
-    c "Je vais attendre impatiament."
+    c "Je vais attendre impatiemment."
 
 # game/anna2.rpy:1321
 translate french anna2else_c3ff5da8:
 
     # An face "Why do you think so?"
-    An face "Pourquoi pense-tu ainsi?"
+    An face "qu'est-ce qui te fait dire ça ?"
 
 # game/anna2.rpy:1323
 translate french anna2else_eb025f84:
 
     # c "I'm just saying, if it usually gets as bad as it did today, that's not a good sign."
-    c "Je dis juste que si ça tourné généralement aussi mal qu'aujourd'hui, c'est plutôt mauvais signe."
+    c "Je dis juste que si ça tournait généralement aussi mal qu'aujourd'hui, c'est plutôt mauvais signe."
 
 # game/anna2.rpy:1325
 translate french anna2else_400a38c0:
 
     # An sad "I just didn't pay attention to the time, but I guess that's because I barely go out anyway and I didn't even think about watching the clock."
-    An sad "Je n'ai simplement pas faite attention à l'heure, mais je suppose que c'est parceque je sors rarement de toutefaçon et que je n'avais même pas pensée à regardé l'heure."
+    An sad "Je n'ai simplement pas fait attention à l'heure, mais je suppose que c'est parce que je sors rarement de toute façon et que je n'ai même pas pensé à regarder l'heure."
 
 # game/anna2.rpy:1327
 translate french anna2else_33cabf79:
 
     # An face "Okay, point taken."
-    An face "Ok, le point te reviens."
+    An face "Ok, tu marques un point."
 
 # game/anna2.rpy:1329
 translate french anna2else_545da01d:
 
     # c "So, what are you going to do?"
-    c "Donc, que va tu faire?"
+    c "Donc, que vas-tu faire ?"
 
 # game/anna2.rpy:1331
 translate french anna2else_f8c1ea5d:
 
     # An sad "I'll think about it."
-    An sad "Je vais y penser."
+    An sad "Je vais y réfléchir."
 
 # game/anna2.rpy:1333
 translate french anna2else_afa94f76:
 
     # An smirk "You know, now that this date is officially over, if I don't work overtime every single day, I could fit you in for your end of the deal."
-    An smirk "Tu sais, maintenant que ce rendez-vous est officiellement terminé, si je ne travaille pas en heure supplémentraire chaque jour de la semaine, je pourrais te placer pour finir ta promesse."
+    An smirk "Tu sais, maintenant que ce rendez-vous est officiellement terminé, si je ne fais pas d'heure supplémentraire tous les jour de la semaine, je pourrais te placer pour ta part du marché."
 
 # game/anna2.rpy:1335
 translate french anna2else_83079b08:
 
     # c "Of course you didn't forget about that."
-    c "Évidemment tu n'a rien oubliée a ce sujet."
+    c "Evidemment tu n'as rien oublié a ce sujet."
 
 # game/anna2.rpy:1337
 translate french anna2else_670c9433:
 
     # An normal "I'll let you know the details. Or just call me, if I forget."
-    An normal "Je te ferais parvenir les détails. Ou appelle moi, si j'ai oubliée."
+    An normal "Je te ferais parvenir les détails. Ou appelle moi, si j'ai oublié."
 
 # game/anna2.rpy:1339
 translate french anna2else_c48dc32f:
 
     # c "Sure."
-    c "Bien sur."
+    c "Bien sûr."
 
 # game/anna2.rpy:1373
 translate french anna2else_e84cfa86:
 
     # An disgust "How dare you tell me what to do?"
-    An disgust "Comment ose tu me dire ce que je dois faire?"
+    An disgust "Comment oses-tu me dire ce que je dois faire ?"
 
 # game/anna2.rpy:1375
 translate french anna2else_17dcde7e:
@@ -1960,19 +1960,19 @@ translate french anna2else_17dcde7e:
 translate french anna2else_205cd6ec:
 
     # An face "When did you become such a know-it-all? Oh, wait, you have been this whole time, and you know what? It's getting old really fast."
-    An face "Quand es-tu devenu un tel je-sais-tout? Oh mais attends, tu savais que tu l'a toujours été?"
+    An face "Quand es-tu devenu un tel je-sais-tout ? Oh mais attends, tu l'as toujours été, et tu le sais ? C'en est même plus drôle."
 
 # game/anna2.rpy:1379
 translate french anna2else_5928f4c0:
 
     # c "Your attitude only proves my point, you know."
-    c "Tu sais que ton attitude démontre mon avis?"
+    c "Tu sais que ton attitude démontre mon avis ?"
 
 # game/anna2.rpy:1381
 translate french anna2else_0c8c960f:
 
     # An disgust "My work is my business, not yours. Keep your nose out of it and get back to whatever it is you're supposed to be doing here."
-    An disgust "Mon travail est mon business, pas le tiens. Garde ton nez loin de mes affaires et retourne faire peut importe ce que tu es censé faire ici."
+    An disgust "Mon travail, c'est mon affaire, pas la tienne. Arrête de t'en mêler et retourne faire peut importe ce que tu étais censé faire ici."
 
 # game/anna2.rpy:1383
 translate french anna2else_87da3647:
@@ -1984,13 +1984,13 @@ translate french anna2else_87da3647:
 translate french anna2else_f9e27a63:
 
     # An face "Yeah, you know how you can help me right now? By getting the cuss out of here."
-    An face "Ouais, tu sais comment tu pourrais m'aider la tout de suite?"
+    An face "Ouais, tu sais comment tu pourrais m'aider là tout de suite ? En dégageant d'ici."
 
 # game/anna2.rpy:1387
 translate french anna2else_b5a9d974:
 
     # c "Alright, I'm leaving."
-    c "Très bien, je m'envais."
+    c "Très bien, je m'en vais."
 
 # game/anna2.rpy:1389
 translate french anna2else_ab496d71:
@@ -2038,7 +2038,7 @@ translate french strings:
 
     # anna2.rpy:304
     old "You better be."
-    new "Tu fais mieux."
+    new "Tu ferais mieux."
 
     # anna2.rpy:304
     old "Let's just go."
@@ -2046,7 +2046,7 @@ translate french strings:
 
     # anna2.rpy:304
     old "Losing track of time happens to the best of us."
-    new "Perdre la notion du temps arrive aux meilleurs d'entre nous."
+    new "Perdre la notion du temps arrive même aux meilleurs d'entre nous."
 
     # anna2.rpy:653
     old "I'd prefer someplace inside."
@@ -2062,7 +2062,7 @@ translate french strings:
 
     # anna2.rpy:692
     old "That's gross."
-    new "C'est dégoutant."
+    new "C'est dégoûtant."
 
     # anna2.rpy:692
     old "I'll pass."
@@ -2074,15 +2074,15 @@ translate french strings:
 
     # anna2.rpy:754
     old "I seriously doubt that."
-    new "Je doute sérieusement."
+    new "J'en doute sérieusement."
 
     # anna2.rpy:754
     old "You're a bad girl, Anna."
-    new "Tu es une mauvaise fille, Anna."
+    new "Tu es une rebelle, Anna."
 
     # anna2.rpy:754
     old "I'm no filthy thief. I'm outta here."
-    new "Je ne suis pas un voleur grossier. Je reste en dehors de ça."
+    new "Je ne suis pas un vulgaire voleur. Je reste en dehors de ça."
 
     # anna2.rpy:848
     old "Offal."
@@ -2090,7 +2090,7 @@ translate french strings:
 
     # anna2.rpy:848
     old "Rump."
-    new "Entrecôte."
+    new "L'entrecôte."
 
     # anna2.rpy:848
     old "Anything will do."
@@ -2122,7 +2122,7 @@ translate french strings:
 
     # anna2.rpy:1005
     old "I'm not sure."
-    new "Je suis pas sur."
+    new "Je suis pas sûr."
 
     # anna2.rpy:1080
     old "You're a wild one, Anna."
@@ -2146,7 +2146,7 @@ translate french strings:
 
     # anna2.rpy:1159
     old "I can see your point. This was unusual, but fun."
-    new "Je commence a te comprendre. c'était inhabituel, mais fun."
+    new "Je vois ce que tu veux dire. c'était inhabituel, mais fun."
 
     # anna2.rpy:1159
     old "I would've preferred the fancy restaurant."
@@ -2158,9 +2158,9 @@ translate french strings:
 
     # anna2.rpy:1187
     old "Won't this attract predators or something?"
-    new "Ça ne va pas attirer les prédateurs ou quelque chose comme ça?"
+    new "Ça ne va pas attirer les prédateurs ou quelque chose comme ça ?"
 
     # anna2.rpy:1187
     old "Talk about recycling."
-    new "Parlons recyclage."
+    new "En parlant de recyclage."
 
