@@ -4,67 +4,67 @@
 translate french anna3_ec3d8050:
 
     # An "There you are. I was wondering if you'd even show up."
-    An "Enfin te voilà. Je commençais a me demandé si tu allais avoir le courrage de venir."
+    An "Enfin te voilà. Je commençais à me demander si tu allais avoir le courage de venir."
 
 # game/anna3.rpy:40
 translate french anna3_421fd54a:
 
     # An face b "Good for you. And for me, as it turns out."
-    An face b "Bien pour toi. Ainsi que pour moi, semblerait-il."
+    An face b "Tant mieux pour toi. Ainsi que pour moi, il semblerait."
 
 # game/anna3.rpy:51
 translate french anna3_3bf23f9c:
 
     # An smirk b "A glutton for punishment, huh? Not that I mind."
-    An smirk b "Un amour pour les punissions, hein? Pas que ça me dérange."
+    An smirk b "Un amoureux des punitions, hein ? Pas que ça me dérange."
 
 # game/anna3.rpy:58
 translate french anna3_7594905a:
 
     # An "As long as you're here, I don't care."
-    An "Tant que tu es la, je m'en contrefiche."
+    An "Tant que tu es là, je m'en contrefiche."
 
 # game/anna3.rpy:63
 translate french anna3_d523151f:
 
     # An "Follow me, please."
-    An "Suis moi s'il te plaît."
+    An "Suis moi je te prie."
 
 # game/anna3.rpy:91
 translate french _call_skiptut_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/anna3.rpy:99
 translate french _call_skiptut_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/anna3.rpy:107
 translate french _call_skiptut_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène ?"
 
 # game/anna3.rpy:122
 translate french _call_skiptut_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna3.rpy:142
 translate french _call_skipcheck_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna3.rpy:148
 translate french _call_skipcheck_7237b0a4:
 
     # c "So, what exactly is this room?"
-    c "Quelle est donc cette pièce?"
+    c "Quelle est donc cette pièce ?"
 
 # game/anna3.rpy:150
 translate french _call_skipcheck_69d9df16:
@@ -76,13 +76,13 @@ translate french _call_skipcheck_69d9df16:
 translate french _call_skipcheck_bfc7829e:
 
     # c "And what exactly do you test here?"
-    c "Et qu'est-ce que tu teste exactement?"
+    c "Et qu'est-ce que tu testes exactement ?"
 
 # game/anna3.rpy:154
 translate french _call_skipcheck_0d7511f8:
 
     # An smirk b "You'll see that soon enough. I intend to use this facility to its fullest potential."
-    An smirk b "Tu va le voir très vite. J'ai l'intention d'utiliser ce laboratoire a son plein potentiel."
+    An smirk b "Tu vas le voir très vite. J'ai l'intention d'utiliser ce laboratoire a son plein potentiel."
 
 # game/anna3.rpy:156
 translate french _call_skipcheck_89aefe22:
@@ -94,25 +94,25 @@ translate french _call_skipcheck_89aefe22:
 translate french _call_skipcheck_0d56635a:
 
     # An normal b "Let's start with this one."
-    An normal b "Commençons avec celle-çi."
+    An normal b "Commençons avec celui-ci."
 
 # game/anna3.rpy:162
 translate french _call_skipcheck_df72d121:
 
     # c "What's that?"
-    c "Qu'est-ce donc?"
+    c "Qu'est-ce donc ?"
 
 # game/anna3.rpy:164
 translate french _call_skipcheck_27ed4a2a:
 
     # An "I can get a good look at your bone structure, muscle groups and organs with this. For the finer details, we'll need a different machine."
-    An "Avec celle-çi, je vais pouvoir avoir un meilleur visuel de ta structure osseuse, ainsi que tes groupements de muscles et d'organes. Pour les plus petit détails, il nous faudra une autre machine."
+    An "Avec ça, je vais pouvoir avoir un bon aperçu de ta structure osseuse, ainsi que de tes groupes musculaires et organes. Pour les détails les plus fins, il nous faudra une autre machine."
 
 # game/anna3.rpy:166
 translate french _call_skipcheck_e6746144:
 
     # An "Would you please lie down here?"
-    An "Pourrais-tu t'allonger ici, s'il te plaît?"
+    An "Pourrais-tu t'allonger ici, s'il te plaît ?"
 
 # game/anna3.rpy:168
 translate french _call_skipcheck_4e8c7062:
@@ -124,7 +124,7 @@ translate french _call_skipcheck_4e8c7062:
 translate french _call_skipcheck_b5ebda44:
 
     # c "Before we start, can I ask about your qualifications?"
-    c "Avant de commencer, je peux te demander tes qualifications?"
+    c "Avant de commencer, je peux te demander tes qualifications ?"
 
 # game/anna3.rpy:174
 translate french _call_skipcheck_938fe821:
@@ -136,7 +136,7 @@ translate french _call_skipcheck_938fe821:
 translate french _call_skipcheck_2424b47f:
 
     # c "What kind of doctor?"
-    c "Quel genre de Docteur?"
+    c "Quel genre de Docteur ?"
 
 # game/anna3.rpy:178
 translate french _call_skipcheck_d9d3dded:
@@ -154,7 +154,7 @@ translate french _call_skipcheck_28d19d80:
 translate french _call_skipcheck_43d3c897:
 
     # An face b "You think I'd let an opportunity like this go to waste by not doing my research? I'll have you know that I'm very qualified to perform these tests."
-    An face b "Tu pense que je vais laisser une opportunité telle que celle-çi m'échapper et ne pas faire mes recherches? Je te ferais savoir que je suis plus que qualifiée pour faire ces tests."
+    An face b "Tu penses que je vais laisser une opportunité telle que celle-ci m'échapper et ne pas faire mes recherches ? Je te ferais savoir que je suis plus que qualifiée pour faire ces tests."
 
 # game/anna3.rpy:184
 translate french _call_skipcheck_c1bfa14d:
@@ -172,31 +172,31 @@ translate french _call_skipcheck_dc7a3460:
 translate french _call_skipcheck_436ffffb:
 
     # c "And how long will that be?"
-    c "Et combien de temps ça va durer?"
+    c "Et combien de temps ça va durer ?"
 
 # game/anna3.rpy:193
 translate french _call_skipcheck_963f63c3:
 
     # An normal b "Good question. I suppose we'll see soon enough."
-    An normal b "Bonne question. Je suppose qu'on le saura bien asser tôt"
+    An normal b "Bonne question. Je suppose qu'on le saura bien assez tôt"
 
 # game/anna3.rpy:195
 translate french _call_skipcheck_7c35cf59:
 
     # c "And what do we do now? Just wait until it's over?"
-    c "Et que fait-on maintenant? Simplement attendre qu'elle finisse?"
+    c "Et que fait-on maintenant ? Simplement attendre jusqu'à ce qu'elle finisse ?"
 
 # game/anna3.rpy:197
 translate french _call_skipcheck_9c360a25:
 
     # An sad b "What do you want me to do? Dance for you so you don't get bored?"
-    An sad b "Et tu veux que je fasse quoi? Dancer pour toi pour que tu ne t'ennuis pas?"
+    An sad b "Et tu veux que je fasse quoi ? Dancer pour toi pour que tu ne t'ennuies pas ?"
 
 # game/anna3.rpy:205
 translate french _call_skipcheck_774855ff:
 
     # An face b "I'm sure you wouldn't, but I'm afraid I don't provide {i}those{/i} kinds of services."
-    An face b "Bien évidemment, mais je craint que je ne fournisse pas {i}ce{/i} genre de services."
+    An face b "Bien évidemment, mais je crains que je ne fournisse pas {i}ce{/i} genre de services."
 
 # game/anna3.rpy:217
 translate french _call_skipcheck_dc15bd8a:
@@ -208,49 +208,49 @@ translate french _call_skipcheck_dc15bd8a:
 translate french _call_skipcheck_282a6965:
 
     # An smirk b "Is that your scientific curiosity shining through? I can approve of that."
-    An smirk b "Serait-ce ta curiosité scientifique qui s'illumine? Je peux approuvé cela."
+    An smirk b "Serait-ce ta curiosité scientifique qui s'illumine ? Je peux approuver cela."
 
 # game/anna3.rpy:229
 translate french _call_skipcheck_7416e511:
 
     # c "You didn't answer my question."
-    c "Tu n'a pas répondue a ma question."
+    c "Tu n'as pas répondu à ma question."
 
 # game/anna3.rpy:231
 translate french _call_skipcheck_96b7dd29:
 
     # An normal b "Well, I'm not going to show you. If you're that curious, you might find the answer in the seedier parts of town."
-    An normal b "Je ne t'en ferais pas la démonstration. Si tu es si curieux, tu trouvera peut-être la réponse dans les bas-quartiers de la ville."
+    An normal b "Je ne t'en ferais pas la démonstration. Si tu es si curieux, tu trouveras peut-être la réponse dans les bas-quartiers de la ville."
 
 # game/anna3.rpy:233
 translate french _call_skipcheck_98d32ec3:
 
     # c "Your town has seedy parts?"
-    c "Votre ville a des bas-quartiers?"
+    c "Votre ville a des bas-quartiers ?"
 
 # game/anna3.rpy:235
 translate french _call_skipcheck_13ce0798:
 
     # An smirk b "Oh, there’s a lot you haven’t seen yet."
-    An smirk b "Oh, il ya bien des choses que tu n'a pas encore vus."
+    An smirk b "Oh, il y a bien des choses que tu n'as pas encore vus."
 
 # game/anna3.rpy:243
 translate french _call_skipcheck_f69898f4:
 
     # c "You know, when I heard that something happened at the facility, I thought it might have been you."
-    c "Tu sais, quand j'ai entendus ce qu'il s'est passé au laboratoire, j'ai crus qu'il s'agissait de toi."
+    c "Tu sais, quand j'ai entendu ce qu'il s'est passé au laboratoire, j'ai cru qu'il s'agissait de toi."
 
 # game/anna3.rpy:247
 translate french _call_skipcheck_637b9e7b:
 
     # An sad b "It's quite something, isn't it? You know, if I stayed as late as I used to, it might have been me instead of Damion."
-    An sad b "C'est invraisemblable, n'est-ce pas? Tu sais, si j'étais restée aussi tardivement que je le fais d'habitude, ça aurait pus être moi a la place de Damion."
+    An sad b "C'est invraisemblable, n'est-ce pas ? Tu sais, si j'étais restée aussi tardivement que je le fais d'habitude, ça aurait pu être moi à la place de Damion."
 
 # game/anna3.rpy:249
 translate french _call_skipcheck_039c4f1d:
 
     # An "And it's only because you told me not to stay late so often that I wasn't there that night."
-    An "Et c'est juste parceque tu m'a dis de ne pas rester tard si souvent que je n'était pas au Laboratoire la nuit dernière. "
+    An "Et c'est juste parce que tu m'as dit de ne pas rester tard si souvent que je n'étais pas là cette nuit là. "
 
 # game/anna3.rpy:251
 translate french _call_skipcheck_a7dc4424:
@@ -268,7 +268,7 @@ translate french _call_skipcheck_95705667:
 translate french _call_skipcheck_eb4b8d72:
 
     # An sad b "It's quite something, isn't it? You know, if I stayed as late as I used to, I might have been there when the break-in happened."
-    An sad b "C'est incroyable n'est-ce pas? Tu sais, si j'étais restée aussi tardivement que d'habitude, j'aurais pu être la lors de l'éffraction !"
+    An sad b "C'est incroyable n'est-ce pas ? Tu sais, si j'étais restée aussi tardivement que d'habitude, j'aurais pu être là lors de l'effraction !"
 
 # game/anna3.rpy:260
 translate french _call_skipcheck_305afc93:
@@ -286,13 +286,13 @@ translate french _call_skipcheck_41b2da87:
 translate french _call_skipcheck_48ec34df:
 
     # An face b "Really? What makes you think so?"
-    An face b "Vraiment? qu'est-ce qui te fais dire cela?"
+    An face b "Vraiment ? qu'est-ce qui te fais dire cela ?"
 
 # game/anna3.rpy:266
 translate french _call_skipcheck_af216271:
 
     # c "The perpetrator is the same person who is responsible for the murders you might have heard about recently."
-    c "Le coupable est la même personne qui est aussi responsable des meurtres dont tu a pu entendre parler récemment."
+    c "Le coupable est la même personne qui est responsable des meurtres dont tu as pu entendre parler récemment."
 
 # game/anna3.rpy:268
 translate french _call_skipcheck_1d561c5d:
@@ -304,25 +304,25 @@ translate french _call_skipcheck_1d561c5d:
 translate french _call_skipcheck_6c4dfa01:
 
     # An normal b "Alright, you can move again."
-    An normal b "C'est bon, tu peux bouger de nouveau."
+    An normal b "C'est bon, tu peux bouger."
 
 # game/anna3.rpy:276
 translate french _call_skipcheck_e2e67c34:
 
     # c "Does that mean I'm done?"
-    c "Ça signifie qu'on a terminé?"
+    c "Ça signifie qu'on a terminé ?"
 
 # game/anna3.rpy:278
 translate french _call_skipcheck_0b7528e6:
 
     # An smirk b "That's a good one! We're just getting started."
-    An smirk b "Elle est bonne celle la! On ne fait que commencer."
+    An smirk b "Elle est bonne celle là ! On ne fait que commencer."
 
 # game/anna3.rpy:280
 translate french _call_skipcheck_5bd33aec:
 
     # c "What about the results?"
-    c "Et les résultats?"
+    c "Et les résultats ?"
 
 # game/anna3.rpy:282
 translate french _call_skipcheck_c9d4967f:
