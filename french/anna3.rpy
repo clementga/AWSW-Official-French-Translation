@@ -1240,7 +1240,7 @@ translate french _call_skipcheck_31643d1b:
 translate french _call_skipcheck_36b45508:
 
     # Ry "I hope you are careful around her."
-    Ry "J'espère que tu reste prudent avec elle."
+    Ry "J'espère que tu restes prudent avec elle."
 
 # game/anna3.rpy:881
 translate french _call_skipcheck_93510052:
@@ -1264,19 +1264,19 @@ translate french _call_skipcheck_30b38924:
 translate french _call_skipcheck_6c1246b2:
 
     # Ry "You know, if she tries anything, you can always tell her to stop. If it comes to the worst, your rights as ambassador trump any bar bets you might have made with her."
-    Ry "Tu sais, si elle tente quoi que ce soit du genre, tu peux toujours lui demander d'arrêter. Au pire, tes droits en tant qu'ambassadeur pèsent plus que ce pari que tu as fait avec elle."
+    Ry "Tu sais, si elle tente quoi que ce soit, tu peux toujours lui demander d'arrêter. Dans le pire des cas, tes droits en tant qu'ambassadeur pèsent plus que ce pari que tu as fait avec elle."
 
 # game/anna3.rpy:889
 translate french _call_skipcheck_4812fd9e:
 
     # c "I'll keep that in mind, thanks!"
-    c "Je garde ça en tête, merci."
+    c "Je vais garder ça à l'esprit, merci."
 
 # game/anna3.rpy:891
 translate french _call_skipcheck_c6f84be9:
 
     # Ry normal "Have you made up your mind about it yet?"
-    Ry normal "Dit, tant que je te tiens... Tu as déjà réfléchi au fait ?"
+    Ry normal "Est-ce que tu t'es enfin décidé ?"
 
 # game/anna3.rpy:893
 translate french _call_skipcheck_bb00a52c:
@@ -1294,7 +1294,7 @@ translate french _call_skipcheck_c95bcbc9:
 translate french _call_skipcheck_22f2ccc2:
 
     # c "Oh, I haven't forgotten. I've just been a bit busy with all kinds of things, this included. I'll have to get back to you on that."
-    c "h oui ne t'inquiète pas, je ne t'oublie pas. J'ai juste été un peu pris, y compris par ce stupide pari. Mais je te rappelles quand j'en sais plus, d'accord ?"
+    c "Oh oui, Je n'ai pas oublié. J'ai juste été un peu pris par plein de choses, ce pari inclus. Il faudra que je te rappelle pour ça."
 
 # game/anna3.rpy:899
 translate french _call_skipcheck_4b1ffe07:
@@ -1312,19 +1312,19 @@ translate french _call_skipcheck_9fb925ef:
 translate french _call_skipcheck_be7f9017:
 
     # c "Bye."
-    c "À bientôt Remy !"
+    c "Salut."
 
 # game/anna3.rpy:914
 translate french _call_skipcheck_6bd54151:
 
     # Ry smile "I see, just enjoying the fresh air then."
-    Ry smile "Je vois, tu profite de l'air frais alors."
+    Ry smile "Je vois, tu profites de l'air frais alors."
 
 # game/anna3.rpy:916
 translate french _call_skipcheck_0c0e0411:
 
     # c "What about you?"
-    c "Et toi donc?"
+    c "Et toi ?"
 
 # game/anna3.rpy:918
 translate french _call_skipcheck_f79f60fb:
@@ -1336,7 +1336,7 @@ translate french _call_skipcheck_f79f60fb:
 translate french _call_skipcheck_b5603b3c:
 
     # c "Is Emera breathing down the back of your neck again?"
-    c "C'est l'une de ces tâches que t'as confiée Emera ?"
+    c "Est-ce qu'Emera est encore sur ton dos ?"
 
 # game/anna3.rpy:922
 translate french _call_skipcheck_b0fd3e30:
@@ -1354,7 +1354,7 @@ translate french _call_skipcheck_afce4b58:
 translate french _call_skipcheck_3d9e61f3:
 
     # Ry "One question before I go: Have you made up your mind about it yet?"
-    Ry "Dit, avant que tu ne partes, est-ce que tu as repensé à ce que je t'ai demandé ?"
+    Ry "Dit, avant que je ne parte, est-ce que tu t'es enfin décidé ?"
 
 # game/anna3.rpy:928
 translate french _call_skipcheck_bb00a52c_1:
@@ -1372,7 +1372,7 @@ translate french _call_skipcheck_810d5202:
 translate french _call_skipcheck_22f2ccc2_1:
 
     # c "Oh, I haven't forgotten. I've just been a bit busy with all kinds of things, this included. I'll have to get back to you on that."
-    c "Oh oui ne t'inquiète pas, je ne t'oublie pas. J'ai juste été un peu pris, y compris par ce stupide pari. Mais je te rappelles quand j'en sais plus, d'accord ?"
+    c "Oh oui, Je n'ai pas oublié. J'ai juste été un peu pris par plein de choses, ce pari inclus. Il faudra que je te rappelle pour ça."
 
 # game/anna3.rpy:934
 translate french _call_skipcheck_898879eb:
@@ -1384,13 +1384,13 @@ translate french _call_skipcheck_898879eb:
 translate french _call_skipcheck_2ee5b10f:
 
     # c "See you next time, then."
-    c "À plus tard alors !"
+    c "À plus tard, alors."
 
 # game/anna3.rpy:938
 translate french _call_skipcheck_acc659e8:
 
     # Ry "Until we meet again."
-    Ry "jusqu'à notre prochaine rencontre!"
+    Ry "A la prochaine."
 
 # game/anna3.rpy:949
 translate french _call_skipcheck_5fc96028:
@@ -1408,7 +1408,7 @@ translate french _call_skipcheck_7595a8df:
 translate french _call_skipcheck_e0993848:
 
     # c "Remy."
-    c "Remy"
+    c "Rémi"
 
 # game/anna3.rpy:962
 translate french _call_skipcheck_2460901e:
@@ -1426,7 +1426,7 @@ translate french _call_skipcheck_61355b8f:
 translate french _call_skipcheck_f191c3bc:
 
     # c "Hey, Remy."
-    c "Salut, Remy."
+    c "Salut, Rémi."
 
 # game/anna3.rpy:971
 translate french _call_skipcheck_21fde127:
@@ -1438,7 +1438,7 @@ translate french _call_skipcheck_21fde127:
 translate french _call_skipcheck_0c0e0411_1:
 
     # c "What about you?"
-    c "Je ne suis pas le seul visiblement !"
+    c "Et toi ?"
 
 # game/anna3.rpy:975
 translate french _call_skipcheck_f79f60fb_1:
@@ -1450,7 +1450,7 @@ translate french _call_skipcheck_f79f60fb_1:
 translate french _call_skipcheck_b5603b3c_1:
 
     # c "Is Emera breathing down the back of your neck again?"
-    c "C'est l'une de ces tâches que t'as confiée Emera ?"
+    c "Est-ce qu'Emera est encore sur ton dos ?"
 
 # game/anna3.rpy:979
 translate french _call_skipcheck_b0fd3e30_1:
@@ -1462,7 +1462,7 @@ translate french _call_skipcheck_b0fd3e30_1:
 translate french _call_skipcheck_afce4b58_1:
 
     # c "Well, I better not hold you up, then."
-    c "Je vois, dans ce cas autant ne pas traîner en chemin !"
+    c "Je vois, dans ce cas je ne devrais pas te retenir."
 
 # game/anna3.rpy:983
 translate french _call_skipcheck_acc659e8_1:
@@ -1486,13 +1486,13 @@ translate french _call_skipcheck_8301a2f5:
 translate french _call_skipcheck_87e347f9:
 
     # c "Hey, Remy. Long time no see."
-    c "Bonjour, Remy. Ça faisait longtemps qu'on ne s'était pas vu."
+    c "Bonjour, Rémi. Ça faisait longtemps qu'on ne s'était pas vu."
 
 # game/anna3.rpy:998
 translate french _call_skipcheck_9655f7ae:
 
     # Ry "Indeed. Just enjoying the fresh air, I see."
-    Ry "En effet ! Je vois que vous profitez de l'air frais ?"
+    Ry "En effet ! Je vois que tu profites de l'air frais ?"
 
 # game/anna3.rpy:1000
 translate french _call_skipcheck_9f85b645:
@@ -1504,7 +1504,7 @@ translate french _call_skipcheck_9f85b645:
 translate french _call_skipcheck_74636a73:
 
     # Ry "You know, if you ever want to come by and visit the library or need to know anything, feel free to ask me."
-    Ry "Vous savez, si vous voulez passer à la bibliothèque ou si vous voulez me demander quelque chose, n'hésitez pas à venir me voir."
+    Ry tu sais, si tu veux passer à la bibliothèque ou me demander quelque chose, n'hésite pas à venir me voir."
 
 # game/anna3.rpy:1004
 translate french _call_skipcheck_565bdd6e:
@@ -1522,25 +1522,25 @@ translate french _call_skipcheck_25ad2a31:
 translate french _call_skipcheck_b78072c4:
 
     # Ry smile "[player_name]!"
-    Ry smile "[player_name]!"
+    Ry smile "[player_name] !"
 
 # game/anna3.rpy:1017
 translate french _call_skipcheck_e0993848_1:
 
     # c "Remy."
-    c "Remy!"
+    c "Rémi !"
 
 # game/anna3.rpy:1019
 translate french _call_skipcheck_a7399f02_1:
 
     # Ry normal "What are you doing here?"
-    Ry normal "Qu'est-ce que vous faites ici ?"
+    Ry normal "Qu'est-ce que tu fais ici ?"
 
 # game/anna3.rpy:1027
 translate french _call_skipcheck_a7b22381:
 
     # Ry look "I see, so that's why you have that thing strapped to your arm."
-    Ry look "Je vois, ça explique cette chose attachée à votre bras."
+    Ry look "Je vois, ça explique cette chose attachée à ton bras."
 
 # game/anna3.rpy:1029
 translate french _call_skipcheck_9f85b645_1:
@@ -1552,37 +1552,37 @@ translate french _call_skipcheck_9f85b645_1:
 translate french _call_skipcheck_1862094a:
 
     # Ry "I guess you've been hanging out with Anna a lot, then."
-    Ry "Je suppose que vous passez beaucoup de temps avec Anna, alors."
+    Ry "Je suppose que tu passes beaucoup de temps avec Anna, alors."
 
 # game/anna3.rpy:1033
 translate french _call_skipcheck_bc663373:
 
     # Ry shy "Is that why you didn't return my calls?"
-    Ry shy "C'est peut-être pour ça que vous ne répondez pas à mes messages."
+    Ry shy "C'est peut-être pour ça que tu ne réponds pas à mes messages."
 
 # game/anna3.rpy:1035
 translate french _call_skipcheck_106cdec3:
 
     # c "It's not like that."
-    c "Nan, c'est pas ça..."
+    c "Ce n'est pas ce que tu crois..."
 
 # game/anna3.rpy:1037
 translate french _call_skipcheck_f282a91e:
 
     # Ry "I would've warned you about her, but I think you know what you're doing."
-    Ry "J'aurai pu vous parler un peu d'elle et vous prévenir à son sujet. Mais bon je suppose que vous savez ce que vous faites."
+    Ry "J'aurai pu te parler un peu d'elle et te prévenir à son sujet. Mais bon je suppose que te sais ce que tu fais."
 
 # game/anna3.rpy:1039
 translate french _call_skipcheck_3e831290:
 
     # c "You're overreacting."
-    c "Vous exagérez..."
+    c "Tu exagères."
 
 # game/anna3.rpy:1041
 translate french _call_skipcheck_de108082:
 
     # Ry sad "Don't worry about it. I'm leaving. I hope you're happy with the decisions you've made."
-    Ry sad "Pas de soucis, de toute façon j'ai à faire. Puissiez vous être satisfait des décisions que vous avez prises."
+    Ry sad "T'en fait pas pour ça. Je m'en vais. J'espère que tu es en phase avec tes décisions."
 
 # game/anna3.rpy:1043
 translate french _call_skipcheck_23de5913:
@@ -1594,25 +1594,25 @@ translate french _call_skipcheck_23de5913:
 translate french _call_skipcheck_71f5910d:
 
     # Ry smile "Enjoying the fresh air, I see."
-    Ry smile "Je vois, vous profitez du bon air de l'extérieur alors."
+    Ry smile "Je vois que tu profites de l'air frais."
 
 # game/anna3.rpy:1056
 translate french _call_skipcheck_b28b31e9:
 
     # c "Yeah, what about you?"
-    c "En effet, et vous donc?"
+    c "En effet, et toi ?"
 
 # game/anna3.rpy:1058
 translate french _call_skipcheck_f79f60fb_2:
 
     # Ry normal "Oh, I have some errands to run."
-    Ry normal "J'ai quelques petites courses a faire."
+    Ry normal "J'ai quelques petites courses à faire."
 
 # game/anna3.rpy:1060
 translate french _call_skipcheck_b5603b3c_2:
 
     # c "Is Emera breathing down the back of your neck again?"
-    c "C'est l'une de ces tâches que t'as confiée Emera ?"
+    c "Est-ce qu'Emera est encore sur ton dos ?"
 
 # game/anna3.rpy:1062
 translate french _call_skipcheck_b0fd3e30_2:
@@ -1624,13 +1624,13 @@ translate french _call_skipcheck_b0fd3e30_2:
 translate french _call_skipcheck_afce4b58_2:
 
     # c "Well, I better not hold you up, then."
-    c "Bon, je ne vais pas vous retarder alors."
+    c "Bon, je ne vais pas te retarder alors."
 
 # game/anna3.rpy:1066
 translate french _call_skipcheck_44b2fd02:
 
     # Ry shy "I just have one question for you."
-    Ry shy "Juste, j'ai quelque chose à vous demander."
+    Ry shy "Juste, j'ai quelque chose à te demander."
 
 # game/anna3.rpy:1068
 translate french _call_skipcheck_0f173ebb:
@@ -1642,13 +1642,13 @@ translate french _call_skipcheck_0f173ebb:
 translate french _call_skipcheck_5e2c01f1:
 
     # Ry "Is there a reason why you haven't returned my calls?"
-    Ry "Vous n'avez pas répondu à mes messages. J'ai fait quelque chose de mal ?"
+    Ry "Y a-t-il une raison pour laquelle tu ne m'ais pas rappelé ?"
 
 # game/anna3.rpy:1072
 translate french _call_skipcheck_252e6333:
 
     # c "Oh, I've just been very busy. I never even check my messages."
-    c "Oh, désolé, mais j'ai été pas mal pris dernièrement, j'en ai même oublié de consulter mes messages."
+    c "Oh, j'ai été pas mal pris dernièrement, je n'ai même pas consulté mes messages."
 
 # game/anna3.rpy:1074
 translate french _call_skipcheck_15ced712:
@@ -1666,13 +1666,13 @@ translate french _call_skipcheck_da25e634:
 translate french _call_skipcheck_4f6b168e:
 
     # Ry "Let me know if you can."
-    Ry "Faites moi savoir si vous voulez qu'on se revoit."
+    Ry "Fais moi savoir si tu veux qu'on se revoit."
 
 # game/anna3.rpy:1080
 translate french _call_skipcheck_289475a2:
 
     # c "Sure thing. I've got to go now, so see you later!"
-    c "Bien sûr. Cependant je dois y aller, à plus tard Remy !"
+    c "Bien sûr. Bon je dois y aller, à plus tard Rémi !"
 
 # game/anna3.rpy:1082
 translate french _call_skipcheck_ebd372dc:
@@ -1690,13 +1690,13 @@ translate french _call_skipcheck_e3609547:
 translate french _call_skipcheck_c06eab4d:
 
     # m "Trying for a consistent speed, I started with a light jog. Soon, I was outside the gate and around the first corner."
-    m "Tout en essayant de maintenir un rythme constant, j'ai commencé mon petit jogging. Je fus très vite hors du complexe à rejoindre le premier tournant."
+    m "En essayant de tenir un rythme régulier, je commencai en petite foulée. Je fus très vite hors du complexe à rejoindre le premier tournant."
 
 # game/anna3.rpy:1108
 translate french _call_skipcheck_6810e294:
 
     # m "Afterwards, I finished my lap around the block, arriving only a few minutes after I had started."
-    m "J'ai ensuite continué en faisant le tour du complexe et suis arrivé quelques minutes seulement après avoir commencé."
+    m "Puis, je finis mon tour du bâtiment arrivant quelques minutes seulement après que j'eus commencé."
 
 # game/anna3.rpy:1114
 translate french _call_skipcheck_b1dfddd7:
@@ -1720,37 +1720,37 @@ translate french _call_skipcheck_29f782d1:
 translate french _call_skipcheck_0db1a52d:
 
     # An normal b "How so? Did you have to stop and smell some flowers?"
-    An normal b "h vraiment ? Tu as vu de belles fleurs et tu n'as pas résisté à l'envie d'aller sentir leur doux parfum ?"
+    An normal b "Vraiment ? Tu n'as pas pu t'empêcher d'aller sentir les fleurs ?"
 
 # game/anna3.rpy:1122
 translate french _call_skipcheck_c0365d77:
 
     # c "I met Remy."
-    c "J'ai croisé Remy."
+    c "J'ai croisé Rémi."
 
 # game/anna3.rpy:1124
 translate french _call_skipcheck_2081b681:
 
     # An face b "Remy? Oh, I wouldn’t mind if that bastard kicked the bucket too."
-    An face b "Remy ? Oh, ça ne me ferait pas pleurer si cet enfoiré se faisait lui aussi \"cambrioler\" !"
+    An face b "Rémi ? Oh, ça ne me ferait pas pleurer si cet enfoiré se faisait descendre."
 
 # game/anna3.rpy:1132
 translate french _call_skipcheck_a9f7db4f:
 
     # An sad b "He's such a self-righteous do-gooder who can't help but stick his nose where it doesn't belong."
-    An sad b "C'est l'un de ces justiciers parfaitement sûr de lui, qui ne peut pas s'empêcher de fourer son museau partout. Surtout là où il ne faut pas."
+    An sad b "C'est l'un de ces justiciers parfaitement sûr de lui, qui ne peut pas s'empêcher de fourer son museau là où il ne faut pas."
 
 # game/anna3.rpy:1134
 translate french _call_skipcheck_f2524ef3:
 
     # An face b "I don't care what he does as long as he doesn't mess with me, but he does mess with me so I {i}do{/i} care."
-    An face b "En général les gens comme ça ne me dérangent pas tant qu'ils m'emmerdent pas. Sauf que {i}lui{/i} il me dérange. "
+    An face b "En général les gens comme ça ne me dérangent pas tant qu'ils ne sont pas dans mes pattes. Sauf que {i}lui{/i} il me dérange. "
 
 # game/anna3.rpy:1142
 translate french _call_skipcheck_ad7f1c56:
 
     # An normal b "That's how I feel. Would you prefer me to lie to your face?"
-    An normal b "C'est ce que je pense. Pourquoi, tu préfère que je te mente ouvertement ?"
+    An normal b "C'est ce que je pense. Pourquoi, tu préfères que je te mente ouvertement ?"
 
 # game/anna3.rpy:1147
 translate french _call_skipcheck_5fc28105:
@@ -1762,7 +1762,7 @@ translate french _call_skipcheck_5fc28105:
 translate french _call_skipcheck_5337153e:
 
     # An "Anyways, I've got your data, so we can head back inside if you're not too exhausted to walk."
-    An "Bon, maintenant j'ai les données qu'il me faut. On peut retourner à l'intérieur si tu peux encore marcher."
+    An "Bon, j'ai les données qu'il me faut. On peut retourner à l'intérieur si tu peux encore marcher."
 
 # game/anna3.rpy:1152
 translate french _call_skipcheck_4e8c7062_1:
@@ -1786,7 +1786,7 @@ translate french _call_skipcheck_80b7fddd_3:
 translate french _call_skipcheck_1ffa9ae9:
 
     # c "You sure get to ask me a lot of questions here."
-    c "Tu prends vraiment toutes les occasions pour poser des questions."
+    c "Pour sûr tu me poses un paquet de questions."
 
 # game/anna3.rpy:1192
 translate french _call_skipcheck_8e8d0cab:
@@ -1804,7 +1804,7 @@ translate french _call_skipcheck_6545724e:
 translate french _call_skipcheck_b9416955:
 
     # c "Does that mean we're done here?"
-    c "Ça veux dire qu'on en a fini pour le moment?"
+    c "Ça veux dire qu'on en a fini pour le moment ?"
 
 # game/anna3.rpy:1198
 translate french _call_skipcheck_d7326f0d:
@@ -1834,13 +1834,13 @@ translate french _call_skipcheck_225b1d83:
 translate french _call_skipcheck_9414510f:
 
     # c "Wouldn't I deserve royalties from that?"
-    c "Dans ce cas, j'espère toucher un pourcentage."
+    c "Ne devrais-je pas toucher des royalties pour ça ?"
 
 # game/anna3.rpy:1217
 translate french _call_skipcheck_78667331:
 
     # An "Sorry, no such written agreement exists."
-    An "Désolée, je ne trouve pas d'accord écrit là-dessus."
+    An "Désolé, il n'existe pas de tel arrangement par écrit."
 
 # game/anna3.rpy:1226
 translate french _call_skipcheck_5c1b860e:
@@ -1876,7 +1876,7 @@ translate french _call_skipcheck_68945358:
 translate french _call_skipcheck_1898452c:
 
     # An "It's not like I could use our myths to get a scan like this one."
-    An "C'est pas comme si je pouvais scanner les mythes pour en tirer des données comparable à celles que je continue de recevoir actuellement."
+    An "C'est pas comme si je pouvais scanner les mythes pour en tirer des données comparables à celles que je continue de recevoir actuellement."
 
 # game/anna3.rpy:1246
 translate french _call_skipcheck_7877c062:
@@ -1888,19 +1888,19 @@ translate french _call_skipcheck_7877c062:
 translate french _call_skipcheck_55732973:
 
     # c "We do."
-    c "On peut le faire, oui... Enfin les femmes, pas les hommes."
+    c "On peut."
 
 # game/anna3.rpy:1250
 translate french _call_skipcheck_6e643d02:
 
     # An "Let me study your muscle groups for a bit."
-    An "Évidemment... Bon, regardons un peu ta musculature..."
+    An "Bon, regardons un peu ta musculature."
 
 # game/anna3.rpy:1252
 translate french _call_skipcheck_d8c68868:
 
     # c "Do you want me to take my clothes off again?"
-    c "Tu veux que je me déshabille encore une fois?"
+    c "Tu veux que je me déshabille encore une fois ?"
 
 # game/anna3.rpy:1254
 translate french _call_skipcheck_4951cd6c:
@@ -1912,7 +1912,7 @@ translate french _call_skipcheck_4951cd6c:
 translate french _call_skipcheck_d4e0f84a:
 
     # c "Oh, I see."
-    c "Oh... oui, bien sûr, les photos..."
+    c "Oh... oui, bien sûr."
 
 # game/anna3.rpy:1258
 translate french _call_skipcheck_1bee29fa:
@@ -1930,7 +1930,7 @@ translate french _call_skipcheck_fe5f3366_1:
 translate french _call_skipcheck_d30aa57d:
 
     # m "While I continued sitting on the bed, she went up to her table and started looking at the scans of muscle groups. As we talked, her eyes never left the screen."
-    m "Tandis que je me posai sur le lit, elle s'est installée à son bureau et à commencée à regarder les scans de mes muscles. Elle ne quittait pas l'écran des yeux malgré notre conversation."
+    m "Tandis que je me posai sur le lit, elle s'installa à son bureau et commença à regarder les scans de mes muscles. Elle ne quittait pas l'écran des yeux malgré notre conversation."
 
 # game/anna3.rpy:1266
 translate french _call_skipcheck_65311a22:
@@ -1984,25 +1984,25 @@ translate french _call_skipcheck_ab1bf449:
 translate french _call_skipcheck_c66938a3:
 
     # c "You can't take what you dish out, huh?"
-    c "C'est difficile de recevoir ce qu'on donne, hein ?"
+    c "Tu ne supportes pas qu'on te fasses la même, hein ?"
 
 # game/anna3.rpy:1286
 translate french _call_skipcheck_67beb563:
 
     # m "Suddenly, she got up. A look of rage crossed her face."
-    m "Brusquement elle s'est levée, et a jeté sur moi un regard furieux."
+    m "Brusquement elle se leva, et jeta sur moi un regard furieux."
 
 # game/anna3.rpy:1290
 translate french _call_skipcheck_10cb26d8:
 
     # An "I said get the heck out of here."
-    An "Je t'ai dit de foutre le camp ! Qu'est-ce que tu fous encore là !?"
+    An "Je t'ai dit de foutre le camp."
 
 # game/anna3.rpy:1292
 translate french _call_skipcheck_3e5e1c61:
 
     # m "She grabbed my arm and roughly walked me to the door. After shoving me outside, she quickly closed the door behind me."
-    m "Elle m'a cramponné le bras et m'a traîné jusqu'à l'extérieur. Après m'avoir poussé dans le couloir, elle a claqué la porte derrière moi."
+    m "Elle me cramponna le bras et me traîna jusqu'à l'extérieur. Après m'avoir poussé dans le couloir, elle claqua la porte derrière moi."
 
 # game/anna3.rpy:1300
 translate french _call_skipcheck_fe5f3366_2:
@@ -2020,7 +2020,7 @@ translate french _call_skipcheck_287dca66:
 translate french _call_skipcheck_c82cd98a:
 
     # c "You apologized. That's a new one."
-    c "Des excuses ? Voilà un changement intéressant."
+    c "Des excuses ? C'est nouveau ça."
 
 # game/anna3.rpy:1336
 translate french _call_skipcheck_8ab84973:
@@ -2038,25 +2038,25 @@ translate french _call_skipcheck_cfe15ac7:
 translate french _call_skipcheck_f86a01f7:
 
     # c "Don't you have any friends?"
-    c "Tu n'as pas d'amis avec lesquels décompresser de temps en temps ?"
+    c "Tu n'as pas d'amis ?"
 
 # game/anna3.rpy:1342
 translate french _call_skipcheck_7f3c5a30:
 
     # An "Not really. If you keep skipping grades like I did and were on the fast track in university, you wouldn't really have the time to make or keep any friends either."
-    An "Pas vraiment non. Quand tu sautes des classes comme moi et que tu te retrouves très jeune à l'université, crois moi tu n'as pas le temps de faire ou de garder des amis."
+    An "Pas vraiment non. Quand tu sautes des classes comme moi et que tu te retrouves très jeune à l'université, crois moi tu n'as pas le temps de te faire ou de garder des amis."
 
 # game/anna3.rpy:1344
 translate french _call_skipcheck_4a23c57d:
 
     # An "I think the last time I had a real friend was more than a decade ago."
-    An "Je pense que la dernière fois que j'ai eut une véritable amie, ça remonte à plus de dix ans."
+    An "Je pense que la dernière fois que j'ai eu une véritable amie, ça remonte à plus de dix ans."
 
 # game/anna3.rpy:1346
 translate french _call_skipcheck_b55431a0:
 
     # c "What happened to that friend?"
-    c "Ah oui ? Et elle est où cette amie ?"
+    c "Que lui est-il arrivée ?"
 
 # game/anna3.rpy:1348
 translate french _call_skipcheck_33accb73:
