@@ -2074,37 +2074,37 @@ translate french _call_skipcheck_76b2fe88:
 translate french _call_skipcheck_71714474:
 
     # n "We went to the same class for a while. I ended up skipping a grade after that year."
-    n "On a été dans la même classe pendant un certain temps. Et puis j'ai fini par sauter une classe."
+    n "On était dans la même classe depuis un certain temps. Et puis je finis par sauter une classe."
 
 # game/anna3.rpy:1360
 translate french _call_skipcheck_702f189c:
 
     # n "She found new friends. I didn't."
-    n "Elle s'est faite de nouveaux amis, moi pas."
+    n "Elle se fit de nouveaux amis, moi pas."
 
 # game/anna3.rpy:1362
 translate french _call_skipcheck_fa3a53f1:
 
     # n "We still met, but those visits became less and less frequent as time went on."
-    n "On se voyait toujours, mais même ça, avec le temps ça a finit par se perdre."
+    n "On se voyait toujours, mais ces visites devinrent de moiins en moins fréquentes avec le temps."
 
 # game/anna3.rpy:1364
 translate french _call_skipcheck_6eef213f:
 
     # n "I was around ten years old when her parents prompted me to visit her."
-    n "J'avais environ dix ans, le jour où ses parents m'ont incitée à lui rendre visite."
+    n "J'avais environ dix ans quand ses parents m'incitèrent à lui rendre visite."
 
 # game/anna3.rpy:1366
 translate french _call_skipcheck_a7cb7c0d:
 
     # n "She was in the hospital. Apparently had been for some time already."
-    n "Elle était à l'hôpital, et apparement ça faisait quelques temps qu'elle y était entrée."
+    n "Elle était à l'hôpital, et apparement ça faisait quelques temps qu'elle y était."
 
 # game/anna3.rpy:1368
 translate french _call_skipcheck_af2b3837:
 
     # n "I didn't know, because I hadn't seen her for quite a while at that point."
-    n "À ce moment là, on ne se voyait plus. Apprendre qu'elle était hospitalisée fut une surprise pour moi."
+    n "Je n'en savais rien, car ça faisait un moment que je ne l'avais pas vu."
 
 # game/anna3.rpy:1370
 translate french _call_skipcheck_cb2710de:
@@ -2122,37 +2122,37 @@ translate french _call_skipcheck_76b2fe88_1:
 translate french _call_skipcheck_36c2c51e:
 
     # n "Her case was particularly bad. She was already paralyzed from the neck down by the time I went to visit her."
-    n "Son cas était particulièrement grave. Elle était paralysé jusqu'au cou quand je suis allée la voir."
+    n "Son cas était particulièrement grave. Elle était déjà paralysée jusqu'au cou quand je vins lui rendre visite."
 
 # game/anna3.rpy:1378
 translate french _call_skipcheck_2d82bd10:
 
     # n "When I entered her room, I couldn't even pretend to be her friend. Lying in the bed was just a crude image of her former self. It was as if she was already dead."
-    n "Quand je suis entrée dans sa chambre... ce n'était plus l'amie que j'avais connu. C'était un corps inerte, même si elle respirait encore, c'est comme si elle était déjà morte."
+    n "En entrant dans sa chambre, je ne pouvais même plus prétendre être son amie. La personne étendue dans le lit n'était qu'une image grossière de qui elle était. C'est comme si elle était déjà morte."
 
 # game/anna3.rpy:1380
 translate french _call_skipcheck_9958b0bc:
 
     # n "I couldn't bear to see her like that. It scared me."
-    n "Je n'ai pas supporté de la voir dans cet état, ça m'a...éffrayée."
+    n "Je ne pouvais pas supporter de la voir dans cet état. Ca m'a effrayé."
 
 # game/anna3.rpy:1382
 translate french _call_skipcheck_99db37b7:
 
     # n "I didn't stay long."
-    n "Je ne suis pas restée longtemps à ses côtés ce jour là."
+    n "Je ne étais pas restée longtemps."
 
 # game/anna3.rpy:1384
 translate french _call_skipcheck_0bf38bb2:
 
     # n "Seeing her like that was... I just told myself I never wanted to end up like her, dying slowly, painfully, and alone."
-    n "La voir comme ça... Nan, je me suis dit que je ne voulais pas finir comme elle, seule, à l'agonie à attendre que mort vienne me chercher."
+    n "La voir comme ça c'était... Je me suis dit que je ne voulais pas finir comme elle, à l'agonie et seule."
 
 # game/anna3.rpy:1393
 translate french _call_skipcheck_ab75d247:
 
     # An "That was the last time I saw her. She died a few weeks later."
-    An "C'est la dernière fois que je l'ai vue. Elle s'est éteinte quelque semaines après."
+    An "C'est la dernière fois que je la vit. Elle mourrut quelque semaines après."
 
 # game/anna3.rpy:1395
 translate french _call_skipcheck_b2210746:
@@ -2164,49 +2164,49 @@ translate french _call_skipcheck_b2210746:
 translate french _call_skipcheck_8736a70b:
 
     # An "Not really. I became a scientist because that's apparently what I'm good at."
-    An "Pas vraiment. Je suis ici parce que je suis bonne dans le domaine."
+    An "Pas vraiment. Je suis devenue scientifique car apparement c'est ce dans quoi j'excelle."
 
 # game/anna3.rpy:1399
 translate french _call_skipcheck_55ef1946:
 
     # An "Doesn't make my work any less important, though."
-    An "Mais ça ne rends pas mon travail moins important pour autant."
+    An "Mais ça ne rend pas mon travail moins important pour autant."
 
 # game/anna3.rpy:1401
 translate french _call_skipcheck_b7eb5ad6:
 
     # An "Just from what we did here today, we might make a few breakthroughs in several areas."
-    An "Rien qu'avec ces quelques tests qu'on a fait, on pourrait bien faire quelques percées dans plusieurs domaines !"
+    An "Rien qu'avec ce qu'on a fait aujourd'hui, on pourrait bien faire quelques percées dans plusieurs domaines."
 
 # game/anna3.rpy:1403
 translate french _call_skipcheck_4e24c2ca:
 
     # c "Really?"
-    c "Vraiment?"
+    c "Vraiment ?"
 
 # game/anna3.rpy:1405
 translate french _call_skipcheck_ff3c89c3:
 
     # An "You are a completely different, yet stable evolutionary line. There are some things that are similar in our bodies, and others that are completely different. Anything that is different and works can tell us something new about biology."
-    An "Vous êtes une ligne d'évolution complètement différente, et pourtant stable. On retrouvera des éléments similaires entre nos corps,et d'autres qui sont complètements différents. Tout ce qui est différent et fonctionnel peut potentiellement nous révéler denouvelles connaissances biologiques."
+    An "Vous êtes une ligne d'évolution complètement différente, et pourtant stable. On retrouvera des choses similaires entre nos corps, et d'autres qui seront complètements différentes. Un rien de différent et fonctionnel peut potentiellement nous révéler quelque chose de nouveau dans le domaine de la biologie."
 
 # game/anna3.rpy:1407
 translate french _call_skipcheck_c604cb5c:
 
     # An "All the various species have their own challenges and diseases. It'll come in handy somewhere, for sure."
-    An "Chaque espèce a sa manière de survivre aux maladies et à tout ce que lui inflige son environnement. Ce qu'on peut apprendre sur vous nous servira très certainement."
+    An "Chaque espèce a ses propres difficultés et maladies. Je suis sûre que ça pourra servir quelque part."
 
 # game/anna3.rpy:1409
 translate french _call_skipcheck_7e7e1abc:
 
     # c "And you're doing all of that, because of your pure, unselfish heart."
-    c "Et c'est a cause de ton coeur pur et noble que tu fais tout ça?"
+    c "Et c'est a cause de ton coeur pur et altruiste que tu fais tout ça ?"
 
 # game/anna3.rpy:1411
 translate french _call_skipcheck_9b6765fb:
 
     # An "Not really. But if I do the brunt of the work, then I deserve to have my name on it."
-    An "Pas vraimant, non. Si c'est moi qui fait le plus gros du taf, j'espère bien voir mon nom figurer quelque part ! "
+    An "Pas vraiment, non. Mais si c'est moi qui fait le plus gros du taf, je mérite de voir mon nom figurer quelque part."
 
 # game/anna3.rpy:1413
 translate french _call_skipcheck_cf2a6a99:
@@ -2218,7 +2218,7 @@ translate french _call_skipcheck_cf2a6a99:
 translate french anna3skip_c7239520:
 
     # An sad b "Well, I think that's it for the day. You can go if you like."
-    An sad b "Bon, je crois que j'en ai terminé avec toi pour aujourd'hui, tu es libre de décamper si tu veux."
+    An sad b "Bon, je crois que c'est tout pour aujourd'hui, tu peux y aller si tu veux."
 
 # game/anna3.rpy:1423
 translate french anna3skip_af6a1da1:
@@ -2230,7 +2230,7 @@ translate french anna3skip_af6a1da1:
 translate french anna3skip_4f385ba8:
 
     # An "Really?"
-    An "Vraiment?"
+    An "Vraiment ?"
 
 # game/anna3.rpy:1427
 translate french anna3skip_cbd94a65:
@@ -2242,37 +2242,37 @@ translate french anna3skip_cbd94a65:
 translate french anna3skip_ca0dca51:
 
     # An "Well, I want to study those pictures some more, and I can't really have you around if I do anything serious."
-    An "Eh bien, j'aimerais étudier ces scans de manière plus rigoureuse, et si tu restes avec moi, j'ai bien peur de ne pas être de très bonne compagnie."
+    An "Eh bien, je veux étudier ces images plus en détail, et je ne peux pas t'avoir dans les parages si je fais quelque chose de sérieux."
 
 # game/anna3.rpy:1431
 translate french anna3skip_844b0123:
 
     # An normal b "But, maybe some other time."
-    An normal b "Mais... Une autre fois ?"
+    An normal b "Mais, peut être Une autre fois."
 
 # game/anna3.rpy:1433
 translate french anna3skip_4e24c2ca:
 
     # c "Really?"
-    c "Vraiment?"
+    c "Vraiment ?"
 
 # game/anna3.rpy:1435
 translate french anna3skip_d7d05aa2:
 
     # An "Because you're so insistent, I might as well."
-    An "Puisque tu insiste, pourquoi pas."
+    An "Puisque tu insistes, pourquoi pas."
 
 # game/anna3.rpy:1437
 translate french anna3skip_fe5f3366:
 
     # c "Okay."
-    c "Okay"
+    c "D'accord."
 
 # game/anna3.rpy:1439
 translate french anna3skip_7008dfa3:
 
     # An "You know how busy I am, but I can call you if you'd like."
-    An "Comme tu le sais je suis très prise par mon travail, mais je t'appellerai si tu veux."
+    An "Comme tu le sais je suis très occupée, mais je t'appellerai si tu veux."
 
 # game/anna3.rpy:1441
 translate french anna3skip_c48dc32f:
@@ -2284,13 +2284,13 @@ translate french anna3skip_c48dc32f:
 translate french anna3skip_63a555dd:
 
     # An "If I don't forget, that is."
-    An ""
+    An "Si je n'oublie pas, bien évidemment."
 
 # game/anna3.rpy:1445
 translate french anna3skip_92b380c3:
 
     # c "Well, I'll leave you to your work, then."
-    c "Si je n'oublie pas, bien évidemment."
+    c "Bon, je vais te laisser travailler alors."
 
 # game/anna3.rpy:1447
 translate french anna3skip_0f66dc95:
@@ -2320,7 +2320,7 @@ translate french anna3skip_e28a26ec:
 translate french anna3skip_9ae5dd87:
 
     # An "Well, I'll have plenty of data for a while. So I guess we'd have to find something else for us to do."
-    An "J'ai déjà un bon paquet de données à analyser. Je suppose qu'il faudra trouver autre chose pour la prochaine fois."
+    An "J'aurai un paquet de données pour un moment. Je suppose qu'il faudra qu'on se trouve autre chose à faire."
 
 # game/anna3.rpy:1488
 translate french anna3skip_89aefe22:
@@ -2332,7 +2332,7 @@ translate french anna3skip_89aefe22:
 translate french anna3skip_92b380c3_1:
 
     # c "Well, I'll leave you to your work, then."
-    c "Dans ce cas je vais te laisser travailler."
+    c "Bon, je vais te laisser travailler alors."
 
 # game/anna3.rpy:1492
 translate french anna3skip_0f66dc95_1:
@@ -2368,7 +2368,7 @@ translate french strings:
 
     # anna3.rpy:34
     old "I didn't have anything better to do, anyway."
-    new "Je n'avais rien de mieux a faire de tout façon."
+    new "Je n'avais rien de mieux à faire de tout façon."
 
     # anna3.rpy:199
     old "I wouldn't mind that."
@@ -2376,7 +2376,7 @@ translate french strings:
 
     # anna3.rpy:199
     old "Just forget I said anything."
-    new "Oublie tout ce que j'ai pu dire."
+    new "Oublie, J'ai rien dit."
 
     # anna3.rpy:199
     old "What does a dancing dragon look like, anyway?"
@@ -2392,7 +2392,7 @@ translate french strings:
 
     # anna3.rpy:310
     old "You better behave. I'm doing you a favor."
-    new "Tu ferais bien d'être sage. Je suis en train de te faire une faveur la."
+    new "Tu ferais bien d'être sage. Je suis en train de te faire une faveur là."
 
     # anna3.rpy:361
     old "I could've told you that."
@@ -2400,11 +2400,11 @@ translate french strings:
 
     # anna3.rpy:361
     old "Is that supposed to mean anything?"
-    new "C'est censé signifer quelque chose?"
+    new "C'est censé signifer quelque chose ?"
 
     # anna3.rpy:361
     old "Because it is."
-    new "Parceque c'est le cas."
+    new "Parce que c'est le cas."
 
     # anna3.rpy:417
     old "Says the queen of complaining."
@@ -2416,7 +2416,7 @@ translate french strings:
 
     # anna3.rpy:417
     old "Just hurry up."
-    new "Dépèche toi alors."
+    new "Dépêche toi alors."
 
     # anna3.rpy:448
     old "I don't mind them."
@@ -2440,15 +2440,15 @@ translate french strings:
 
     # anna3.rpy:503
     old "Nothing."
-    new "Ça va oui."
+    new "Rien du tout."
 
     # anna3.rpy:586
     old "Does this question count already?"
-    new "Cette question y comprit ?"
+    new "Est-ce que cette question compte ?"
 
     # anna3.rpy:679
     old "There are no ulterior motives."
-    new "Je n'ai rien d'autre en tête."
+    new "Il n'y a aucun but caché."
 
     # anna3.rpy:679
     old "No comment."
@@ -2456,7 +2456,7 @@ translate french strings:
 
     # anna3.rpy:712
     old "Probably not."
-    new "Nan, vas-y."
+    new "Probablement pas."
 
     # anna3.rpy:712
     old "There's only one person in this room who can answer that question."
@@ -2464,7 +2464,7 @@ translate french strings:
 
     # anna3.rpy:769
     old "I don't like exercising."
-    new "Je ne suis pas très sportif."
+    new "Je n'aime pas faire de l'exercice."
 
     # anna3.rpy:769
     old "Awesome."
@@ -2484,11 +2484,11 @@ translate french strings:
 
     # anna3.rpy:816
     old "No need to point out the obvious."
-    new "Inutile de t'attendre au pire, tu sais."
+    new "Pas besoin de pointer ce qui est évident."
 
     # anna3.rpy:869
     old "I made a bet with Anna, and now I have to do some tests for her."
-    new "J'ai perdu un pari avec Anna, et je dois faire des tests pour elle."
+    new "J'ai fait un pari avec Anna, et je dois faire des tests pour elle."
 
     # anna3.rpy:869
     old "Nothing special, just going out for a jog."
@@ -2496,15 +2496,15 @@ translate french strings:
 
     # anna3.rpy:869
     old "Can't talk right now, see you later!"
-    new "Désolé, je ne peux pas vraiment parler pour le moment, je te rappelles, okay ?"
+    new "Pas le temps de parler là maintenant, on se voit plus tard !"
 
     # anna3.rpy:1021
     old "I made a bet with Anna and now I have to do some tests for her."
-    new "Eh bien, disons que j'ai perdu à un pari avec Anna, et que maintenant je dois faire quelques tests pour elle."
+    new "J'ai fait un pari avec Anna, et je dois faire des tests pour elle."
 
     # anna3.rpy:1021
     old "Can't talk right now, I have to go!"
-    new "Désolé je n'ai pas le temps de discuter, je dois y aller !"
+    new "Pas le temps de parler là maintenant, je dois y aller !"
 
     # anna3.rpy:1126
     old "What do you have against him?"
@@ -2520,11 +2520,11 @@ translate french strings:
 
     # anna3.rpy:1164
     old "A little."
-    new "Pas vraiment, je ne suis pas un grand sportif."
+    new "Un peu."
 
     # anna3.rpy:1164
     old "None at all."
-    new "Nan, jamais."
+    new "Non, jamais."
 
     # anna3.rpy:1200
     old "Unflattering as they may be."
@@ -2536,4 +2536,4 @@ translate french strings:
 
     # anna3.rpy:1200
     old "I'd rather be looking at some pretty pictures of you instead."
-    new "Je préférerai regarder de jolies photo de toi."
+    new "Je préférerai plutôt regarder de jolies photo de toi."
