@@ -28,19 +28,19 @@ translate french anna4_7e1629bc:
 translate french _call_skiptut_17_44e0ddc6:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip ahead a bit?"
-    s "Mes enregistrements indiquent que vous avez déjà passé cette scène en ayant obtenu une fin satisfaisante. Souhaitez-vous tout de même la revoir ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous avancer un peu?"
 
 # game/anna4.rpy:71
 translate french _call_skiptut_17_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s "Il semble que vous avez déjà vu cette scène. Je la repasse tout de même ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Avancez un peu ?"
 
 # game/anna4.rpy:79
 translate french _call_skiptut_17_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Il s'avère que vous avez déjà vu cela auparavant. Soit vous pouvez le revoir, soit nous pouvons gagner du temps et passer directement à la fin du rendez-vous."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et avancer un peu."
 
 # game/anna4.rpy:93
 translate french _call_skiptut_17_0054b77b:
@@ -58,31 +58,31 @@ translate french _call_skipcheck_17_0054b77b:
 translate french _call_skipcheck_17_daf04529:
 
     # An face "Worried? If I was worried, it would mean I was afraid of something that might happen, but I'm way beyond that."
-    An face "Inquiète ? Si j'étais inquiète, ça voudrait dire que j'aurais peur d'un truc qui pourrait m'arriver ! Mais ce truc est déjà arrivé justement !"
+    An face "Inquiète ? Si j'étais inquiète, ça voudrait dire que j'aurais peur d'un truc qui pourrait m'arriver ! Mais le mal est déjà fait !"
 
 # game/anna4.rpy:121
 translate french _call_skipcheck_17_0328d4f7:
 
     # An disgust "I know exactly what's going to happen to me."
-    An disgust "Et je sais exactement comment ça va se finir..."
+    An disgust "Et je sais exactement ce qui va m'arriver."
 
 # game/anna4.rpy:123
 translate french _call_skipcheck_17_98d316a9:
 
     # An cry "It's over. It's all over."
-    An cry "C'est fini, tout est fini !..."
+    An cry "C'est fini. Tout est fini ."
 
 # game/anna4.rpy:125
 translate french _call_skipcheck_17_3070bc42:
 
     # c "What are you talking about?"
-    c "De quoi ? Qu'est-ce qui est fini ?"
+    c "De quoi parles-tu ?"
 
 # game/anna4.rpy:127
 translate french _call_skipcheck_17_b149c2db:
 
     # An "First they came to my lab, and now they went to my home, too."
-    An "L'autre jour, ils sont venus à mon labo, et depuis, ils sont venus chez moi..."
+    An "D'abord ils sont venus à mon labo, et puis, ils sont venus également chez moi."
 
 # game/anna4.rpy:129
 translate french _call_skipcheck_17_1b197f34:
@@ -94,19 +94,19 @@ translate french _call_skipcheck_17_1b197f34:
 translate french _call_skipcheck_17_b2f74694:
 
     # An despair "The police. They raided the place. They had a warrant and everything."
-    An despair "Les flics. Ils se sont pointés, ils avaient un mandat..."
+    An despair "La police. Ils ont retourné l'endroit, ils avaient un mandat et tout."
 
 # game/anna4.rpy:133
 translate french _call_skipcheck_17_51b7b20d:
 
     # An cry "I already know that they have all they need to convict me. I'm going to die in prison."
-    An cry "Je sais déjà qu'ils ont largement de quoi me condamner. Je vais crever en taule putain !"
+    An cry "Je sais déjà qu'ils ont tout ce qu'il faut pour me condamner. Je vais mourir en taule !"
 
 # game/anna4.rpy:135
 translate french _call_skipcheck_17_4e5a4202:
 
     # c "Why?"
-    c "Mais pourquoi ?"
+    c "Pourquoi ?"
 
 # game/anna4.rpy:137
 translate french _call_skipcheck_17_8a862cfc:
@@ -118,19 +118,19 @@ translate french _call_skipcheck_17_8a862cfc:
 translate french _call_skipcheck_17_f5c902c4:
 
     # c "You will die in prison, because you looked at my fingernail under the microscope?"
-    c "Tu vas finir en prison simplement parce que tu as regardé mes ongles au microscope ?"
+    c "Tu vas mourir en prison, parce que tu as regardé mes ongles au microscope ?"
 
 # game/anna4.rpy:141
 translate french _call_skipcheck_17_43dbcd1f:
 
     # c "I'm a bit confused. Why don't you start from the beginning?"
-    c "Je suis un peu perdu là en fait... Et si tu me disais ce qui se passe exactement ?"
+    c "Je suis un peu perdu là. Pourquoi ne commencerais-tu pas du début ?"
 
 # game/anna4.rpy:143
 translate french _call_skipcheck_17_7ab8abe1:
 
     # An "Alright."
-    An "Okay, bon..."
+    An "D'accord."
 
 # game/anna4.rpy:153
 translate french _call_skipcheck_17_76b2fe88:
@@ -142,7 +142,7 @@ translate french _call_skipcheck_17_76b2fe88:
 translate french _call_skipcheck_17_b9a1c6cf:
 
     # n "This goes years back, and you already know half the story."
-    n "Ça remonte à des années, tu connais la moitié de l'histoire."
+    n "Ça remonte à des années, tu connais déjà la moitié de l'histoire."
 
 # game/anna4.rpy:167
 translate french _call_skipcheck_17_61a8b142:
@@ -154,25 +154,25 @@ translate french _call_skipcheck_17_61a8b142:
 translate french _call_skipcheck_17_6a52549c:
 
     # n "You wouldn't believe the offers I had, based on all my accomplishments."
-    n "Tu n'imagines pas les propositions qu'on m'a faite à cause de certaines réalisation qui m'ont rendue célèbre."
+    n "Tu n'imagines pas les propositions qu'on m'a faite, et ce à cause de mes accomplissements."
 
 # game/anna4.rpy:171
 translate french _call_skipcheck_17_6770fe0f:
 
     # n "I was still in school and already solving problems that no one had even touched before."
-    n "J'étais encore en cours que je résolvais déjà des problèmes que personne n'avait même encore abordé."
+    n "J'étais encore à l'école que je résolvais déjà des problèmes que personne n'avait encore abordé."
 
 # game/anna4.rpy:173
 translate french _call_skipcheck_17_b7f336c7:
 
     # n "I had so many awards lining my shelves that new ones just went straight to the trash. I didn't need them; I just enjoyed the challenge."
-    n "J'avais tellement de trophés sur mes étagères que j'ai fini par balancer les nouveaux au fur et à mesure qu'on me les donnais. J'en avait rien à fiche de ça, tout ce qui me plaisait, c'était le défi."
+    n "J'avais tellement de trophés sur mes étagères que je finis par balancer les nouveaux au fur et à mesure qu'on me les donnait. Je n'en avait pas besoin; j'aimais juste le défi."
 
 # game/anna4.rpy:175
 translate french _call_skipcheck_17_944bcbb5:
 
     # n "Besides, I couldn't care less about what some old people thought about my work. As if I needed their approval. I was already more than any of them could have ever dreamed to be."
-    n "J'ai bien eu quelques détracteurs, mais je me fichais royalement de leurs avis sur mon travail. Qu'est-ce que j'en avais à faire, sachant que j'étais déjà bien meilleurs qu'eux."
+    n "Par ailleurs, je me contrefichais de ce que certains anciens pensaient de mon travail. Comme si j'avais besoin de leur approbation. J'étais déjà plus que n'importe lequel d'entre eux rêvait d'être."
 
 # game/anna4.rpy:178
 translate french _call_skipcheck_17_76b2fe88_1:
@@ -184,25 +184,25 @@ translate french _call_skipcheck_17_76b2fe88_1:
 translate french _call_skipcheck_17_532e84af:
 
     # n "The next problem I was going to tackle was an incurable disease."
-    n "Puis il y a eu ce défi auquel je me suis attaqué : une maladie incurable."
+    n "Le problème suivant auquel j'allais m'attaquer était une maladie incurable."
 
 # game/anna4.rpy:183
 translate french _call_skipcheck_17_0825a27e:
 
     # n "I started my research, but in an ironic twist of fate, I ended up contracting that very same disease myself."
-    n "J'ai commencé mes recherches, mais par un retournement de situation totallement ironique, j'ai moi même choppé cette merde."
+    n "J'avais commencé mes recherches, mais par un retournement de situation ironique, je finis par contracter la même maladie."
 
 # game/anna4.rpy:185
 translate french _call_skipcheck_17_3a996be4:
 
     # n "Whether someone had not been following health & safety protocols as well as they should have or if I was just unlucky, I'll never know. But the reality was that I now had a disease that was treatable, but not curable."
-    n "Je ne saurais jamais si c'est à cause d'un protocole de sécurité qui n'a pas été suivi ou juste de la malchance, mais je me retrouvais avec cette maladie traitable, mais incurable."
+    n "Je ne saurais jamais si c'est à cause d'un protocole de sécurité qui n'a pas été suivi correctement ou juste de la malchance, mais la réalité était que je me retrouvais avec une maladie qui était traitable, mais incurable."
 
 # game/anna4.rpy:187
 translate french _call_skipcheck_17_5f5d28f1:
 
     # n "Despite having helped an incredible amount of people with my work, I was now the one who needed help… Yet there was no one who could help me."
-    n "Même si j'avais aidé un nombre incalculable de genre dans mon travail, c'était moi qui avait besoin d'aide maintenant... Mais personne ne pouvait m'aider."
+    n "Même en ayant aidé un nombre incalculable de gens de par mon travail, c'était moi qui avait besoin d'aide maintenant… Mais personne ne pouvait m'aider."
 
 # game/anna4.rpy:189
 translate french _call_skipcheck_17_15fef034:
