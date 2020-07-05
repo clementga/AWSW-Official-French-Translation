@@ -32,7 +32,7 @@ adine2 ✔<br/>
 anna2 ✔<br/>
 bryce2 ✔<br/>
 lorem2 ✔✔<br/>
-remy2 ✔<br/>
+remy2 ✔✔<br/>
 xemera ✔<br/>
 xzhong ✔<br/>
 chapter3 ✔<br/>
