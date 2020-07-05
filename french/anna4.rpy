@@ -226,25 +226,25 @@ translate french _call_skipcheck_17_76b2fe88_2:
 translate french _call_skipcheck_17_1e4ed520:
 
     # n "I told no one about my affliction and set out to do what many others had failed to. Any materials I needed to start my work were easily acquired just by waving my status around."
-    n "Je n'ai parlé à personne de ça, et je me suis mise à la tâche comme personne avant n'avait osé le faire. Pour le matériel, j'avais juste à user de mon statut pour avoir ce que je voulais."
+    n "Je n'avais parlé à personne de ma maladie et entrprit de réussir ce que beaucoup d'autres avaient échoué. Je pouvais obtenir tout le matériel dont j'avais besoin pour démarrer, juste en usant de mon statut."
 
 # game/anna4.rpy:199
 translate french _call_skipcheck_17_3dce64c9:
 
     # n "I had free reign over my own lab. I could've even gotten assistants if I wanted to, but I knew they would only be liabilities."
-    n "J'avais la liberté de diriger un labo. J'aurais même pu avoir des assistants si je l'avais voulu, mais ils m'auraient ralentis."
+    n "J'avais un pouvoir de décision total sur mon propre labo. J'aurais même pu avoir des assistants si je l'avais voulu, mais ils n'auraient été qu'une charge financière."
 
 # game/anna4.rpy:201
 translate french _call_skipcheck_17_9c9e0e61:
 
     # n "I even had a few good leads for ways to combat the disease, although the one that I chose to pursue was not exactly legal."
-    n "Par dessus tout, j'avais des pistes intéressantes pour lutter contre cette maladie, bien que celles que j'ai choisies de nuivre étaient quelque peu discutables d'un point de vue éthique et légal."
+    n "J'avais même des pistes intéressantes pour lutter contre cette maladie, bien que celles que j'ai choisies de suivre n'étaient pas vraiment légales."
 
 # game/anna4.rpy:203
 translate french _call_skipcheck_17_3add2b1a:
 
     # n "Not without prior approval by the council. My research was promising, though. And while I submitted the paperwork, I knew that these things always moved slowly."
-    n "J'avais besoin de l'approbation du conseil même si mes recherches étaient prometteuses. Et rien qu'en préparant la paperasse, je savais que cette procédure allait me ralentir."
+    n "J'avais besoin de l'approbation du conseil. Mais mes recherches étaient prometteuses. Et alors que j'eus soumis la paperasse, je savais que ce genre de chose allait lentement."
 
 # game/anna4.rpy:206
 translate french _call_skipcheck_17_76b2fe88_3:
@@ -256,25 +256,25 @@ translate french _call_skipcheck_17_76b2fe88_3:
 translate french _call_skipcheck_17_43ca2846:
 
     # n "Being pushed through the various boards and committees could have taken months, if not years, depending on how generous they would be. I just couldn't afford to wait that long, as I was working against the clock."
-    n "J'aurais pu être baladée entre les comités, les conseils et autres groupes de grattes-papiers pendant des mois, voire des années. Mais ce n'est pas un luxe que je pouvais me permettre, puisque je courrais déjà contre le temps."
+    n "Etre baladée entre les comités et les conseils aurait pu prendre des mois, voire des années, en fonction de leur générosité. Je ne pouvais pas me permettre d'attendre aussi longtemps, puisque mon temps était compté."
 
 # game/anna4.rpy:211
 translate french _call_skipcheck_17_e7ef2f0b:
 
     # n "So, while waiting for the paperwork to be approved, I had already started with my work. I fully expected them to approve it eventually. How could they not, given that I was tackling an incurable disease?"
-    n "C'est pour ça qu'en attendant leurs approbations, j'avais déjà discrètement commencé mon travail. J'étais persuadée qu'ils approuveraient de toute façon, quel crétin refuse de chercher un remède à une maladie incurable ?"
+    n "C'est pour ça qu'en attendant que le dossier soit approuvé, j'avais déjà commencé mon travail. J'étais persuadée qu'ils approuveraient de toute façon. Pourquoi ne le ferait-il pas, vu que je m'attaquais à une maladie incurable ?"
 
 # game/anna4.rpy:213
 translate french _call_skipcheck_17_e2558e4a:
 
     # n "The method I was going to use was not necessarily a new one, but it was controversial. It didn't even cross my mind that anyone would object, seeing as I would cure thousands, if not millions of future people."
-    n "Même si la méthode que j'avais choisie était sujette à controverse, il ne m'est pas venu à l'esprit qu'un refus était envisageable. La découverte d'un moyen de guérison allait sauver des milliers, voire des millions de gens à l'avenir !"
+    n "La méthode que j'avais choisi était connue, mais sujette à controverse. Il ne m'est pas venu à l'esprit qu'un refus était envisageable, en voyant que j'allais soigner des milliers, voir des millions de gens à l'avenir."
 
 # game/anna4.rpy:215
 translate french _call_skipcheck_17_17a03a2a:
 
     # n "But I was younger then, and a little more naïve than I am now."
-    n "Mais j'étais un peu plus jeune, et plus naïve qu'aujourd'hui."
+    n "Mais j'étais jeune à l'époque, et un peu plus naïve qu'aujourd'hui."
 
 # game/anna4.rpy:218
 translate french _call_skipcheck_17_76b2fe88_4:
@@ -286,7 +286,7 @@ translate french _call_skipcheck_17_76b2fe88_4:
 translate french _call_skipcheck_17_87e6ff57:
 
     # n "In the end, my whole project came crashing down in flames."
-    n "Seulement au final, tout mon projet est tombée à l'eau."
+    n "Au final, tout mon projet fut réduit en cendres."
 
 # game/anna4.rpy:223
 translate french _call_skipcheck_17_1f1991bf:
