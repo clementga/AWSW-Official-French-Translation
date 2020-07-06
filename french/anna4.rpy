@@ -292,19 +292,19 @@ translate french _call_skipcheck_17_87e6ff57:
 translate french _call_skipcheck_17_1f1991bf:
 
     # n "The proposal that I was sure would be approved was ultimately rejected, putting all the work I had already done into jeopardy. I had already made good progress at the time, too."
-    n "Cette proposition que j'étais certaine de voir acceptée, ces idiots l'ont finalement rejetée. J'avais déjà bien avancé, mais tout mes efforts ont été réduits à néant."
+    n "Cette proposition que j'étais certaine de voir acceptée fut finalement rejetée, fouttant en l'air tout le travail que j'avais déjà fait. J'avais aussi déjà bien avancé à ce moment."
 
 # game/anna4.rpy:225
 translate french _call_skipcheck_17_8bfd241e:
 
     # n "After the rejection, there was going to be an inspection of my workplace in order to determine the progress I had made on the project, which they assumed had been within legal bounds and didn't include the controversial things outlined in the paperwork."
-    n "Après l'étude de ma proposition, le conseil a jugé bon de venir faire une visite d'inspection dans mon labo afin de s'assurer que je n'avais pas franchis les limites du légal et surtout, que je n'avais rien fait de tout ce était mentionné dans les documents que je leurs avait remis."
+    n "Après le rejet, Il y allait avoir une inspection de mon labo afin de faire le point sur les progrès que j'avais effectué sur mon projet, ce qu'ils avaient assumé être resté dans les limites du légal et n'incluant pas les éléments sujets à controverse mis en évidence dans le papier."
 
 # game/anna4.rpy:229
 translate french _call_skipcheck_17_6563cf83:
 
     # n "Of course, that meeting was just going to be a pretense, because I knew there were already rumors going around about what really went on in my lab."
-    n "Bien sûr, cette visite d'inspection n'était qu'un prétexte, puisque des rumeurs avaient déjà pas mal circulées sur ce que je faisais dans mon labo."
+    n "Bien sûr, cette visite d'inspection n'était qu'un prétexte, puisque des rumeurs avaient déjà pas mal circulées sur ce qu'il se passait dans mon labo."
 
 # game/anna4.rpy:232
 translate french _call_skipcheck_17_76b2fe88_5:
@@ -316,31 +316,31 @@ translate french _call_skipcheck_17_76b2fe88_5:
 translate french _call_skipcheck_17_bde93a67:
 
     # n "In the end, I had very little warning. Thankfully, I managed to dispose of the most egregious evidence before they arrived."
-    n "Au final je n'ai eut qu'un petit avertissement par rapport à ce que je risquais. Heureusement, je m'étais déjà débarassé du plus gênant avant la visite."
+    n "Au final je n'eus qu'un petit avertissement. Heureusement, j'avais réussi à me débarasser des preuves les plus scandaleuses avant leur arrivée."
 
 # game/anna4.rpy:237
 translate french _call_skipcheck_17_ee41b11a:
 
     # n "They found proof of my wrongdoing, but since they didn't find evidence of how far I had already proceeded, I was able to deny most of their accusations."
-    n "Ils ont bien trouvé quelques preuves indirectes de ce que j'avais fait. Mais sans preuve formelle, je suis parvenue à nier la plupart de leurs accusations."
+    n "Ils trouvèrent des preuves de ce que j'avais fait, mais comme ils n'avaient pas trouvé de preuves de ma progression, je suis parvenue à nier la plupart de leurs accusations."
 
 # game/anna4.rpy:239
 translate french _call_skipcheck_17_32373b89:
 
     # n "Using the controversial method when it hadn't been approved was still seen as a very grievous offense, however."
-    n "Mais ma méthode, plus le fait de la pratiquer sans approbation, j'aurais pu être accusée de délit grave."
+    n "Mais user de ma méthode alors qu'elle n'avait pas été approuvée était toujours vu comme un délit grave."
 
 # game/anna4.rpy:241
 translate french _call_skipcheck_17_b7bf63e4:
 
     # n "I was charged and sentenced harshly, though the sentence was suspended due to their lack of evidence."
-    n "J'ai été jugée et condamnée, mais la peine a été levée, faute de preuve."
+    n "J'ai été jugée et condamnée durement, mais la peine a été levée, faute de preuve."
 
 # game/anna4.rpy:243
 translate french _call_skipcheck_17_982e2ece:
 
     # n "With all I had done for them, they knew better than to take away my license, and I was able to continue work in other areas, under the condition that it was within a council-owned facility."
-    n "Avec tout ce que j'avais été capable de faire, ils savaient que ça aurait été une erreur de me retirer ma license. Ils m'ont donc assigné à d'autres domaines, tout en me remisant dans un labo appartenant au conseil."
+    n "Avec tout ce que j'avais fait pour eux, ils savaient que ça aurait été une erreur de me retirer ma licence. J'avais la possibilité de travailler dans d'autres domaines, à condition que ce soit dans un labo appartenant au conseil."
 
 # game/anna4.rpy:249
 translate french _call_skipcheck_17_76b2fe88_6:
