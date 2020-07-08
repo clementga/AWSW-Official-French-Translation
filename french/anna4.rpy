@@ -292,19 +292,19 @@ translate french _call_skipcheck_17_87e6ff57:
 translate french _call_skipcheck_17_1f1991bf:
 
     # n "The proposal that I was sure would be approved was ultimately rejected, putting all the work I had already done into jeopardy. I had already made good progress at the time, too."
-    n "Cette proposition que j'étais certaine de voir acceptée, ces idiots l'ont finalement rejetée. J'avais déjà bien avancé, mais tout mes efforts ont été réduits à néant."
+    n "Cette proposition que j'étais certaine de voir acceptée fut finalement rejetée, fouttant en l'air tout le travail que j'avais déjà fait. J'avais aussi déjà bien avancé à ce moment."
 
 # game/anna4.rpy:225
 translate french _call_skipcheck_17_8bfd241e:
 
     # n "After the rejection, there was going to be an inspection of my workplace in order to determine the progress I had made on the project, which they assumed had been within legal bounds and didn't include the controversial things outlined in the paperwork."
-    n "Après l'étude de ma proposition, le conseil a jugé bon de venir faire une visite d'inspection dans mon labo afin de s'assurer que je n'avais pas franchis les limites du légal et surtout, que je n'avais rien fait de tout ce était mentionné dans les documents que je leurs avait remis."
+    n "Après le rejet, Il y allait avoir une inspection de mon labo afin de faire le point sur les progrès que j'avais effectué sur mon projet, ce qu'ils avaient assumé être resté dans les limites du légal et n'incluant pas les éléments sujets à controverse mis en évidence dans le papier."
 
 # game/anna4.rpy:229
 translate french _call_skipcheck_17_6563cf83:
 
     # n "Of course, that meeting was just going to be a pretense, because I knew there were already rumors going around about what really went on in my lab."
-    n "Bien sûr, cette visite d'inspection n'était qu'un prétexte, puisque des rumeurs avaient déjà pas mal circulées sur ce que je faisais dans mon labo."
+    n "Bien sûr, cette visite d'inspection n'était qu'un prétexte, puisque des rumeurs avaient déjà pas mal circulées sur ce qu'il se passait dans mon labo."
 
 # game/anna4.rpy:232
 translate french _call_skipcheck_17_76b2fe88_5:
@@ -316,31 +316,31 @@ translate french _call_skipcheck_17_76b2fe88_5:
 translate french _call_skipcheck_17_bde93a67:
 
     # n "In the end, I had very little warning. Thankfully, I managed to dispose of the most egregious evidence before they arrived."
-    n "Au final je n'ai eut qu'un petit avertissement par rapport à ce que je risquais. Heureusement, je m'étais déjà débarassé du plus gênant avant la visite."
+    n "Au final je n'eus qu'un petit avertissement. Heureusement, j'avais réussi à me débarasser des preuves les plus scandaleuses avant leur arrivée."
 
 # game/anna4.rpy:237
 translate french _call_skipcheck_17_ee41b11a:
 
     # n "They found proof of my wrongdoing, but since they didn't find evidence of how far I had already proceeded, I was able to deny most of their accusations."
-    n "Ils ont bien trouvé quelques preuves indirectes de ce que j'avais fait. Mais sans preuve formelle, je suis parvenue à nier la plupart de leurs accusations."
+    n "Ils trouvèrent des preuves de ce que j'avais fait, mais comme ils n'avaient pas trouvé de preuves de ma progression, je suis parvenue à nier la plupart de leurs accusations."
 
 # game/anna4.rpy:239
 translate french _call_skipcheck_17_32373b89:
 
     # n "Using the controversial method when it hadn't been approved was still seen as a very grievous offense, however."
-    n "Mais ma méthode, plus le fait de la pratiquer sans approbation, j'aurais pu être accusée de délit grave."
+    n "Mais user de ma méthode alors qu'elle n'avait pas été approuvée était toujours vu comme un délit grave."
 
 # game/anna4.rpy:241
 translate french _call_skipcheck_17_b7bf63e4:
 
     # n "I was charged and sentenced harshly, though the sentence was suspended due to their lack of evidence."
-    n "J'ai été jugée et condamnée, mais la peine a été levée, faute de preuve."
+    n "J'ai été jugée et condamnée durement, mais la peine a été levée, faute de preuve."
 
 # game/anna4.rpy:243
 translate french _call_skipcheck_17_982e2ece:
 
     # n "With all I had done for them, they knew better than to take away my license, and I was able to continue work in other areas, under the condition that it was within a council-owned facility."
-    n "Avec tout ce que j'avais été capable de faire, ils savaient que ça aurait été une erreur de me retirer ma license. Ils m'ont donc assigné à d'autres domaines, tout en me remisant dans un labo appartenant au conseil."
+    n "Avec tout ce que j'avais fait pour eux, ils savaient que ça aurait été une erreur de me retirer ma licence. J'avais la possibilité de travailler dans d'autres domaines, à condition que ce soit dans un labo appartenant au conseil."
 
 # game/anna4.rpy:249
 translate french _call_skipcheck_17_76b2fe88_6:
@@ -352,7 +352,7 @@ translate french _call_skipcheck_17_76b2fe88_6:
 translate french _call_skipcheck_17_6e0dc1c0:
 
     # c "I see. So I assume that those tests on me were against whatever conditions they set for the suspended sentence."
-    c "Je vois. Je suppose donc que les tests que j'ai subis étaient contre les conditions décidées suite à la condamnation avec sursis."
+    c "Je vois. Je suppose donc que les tests que j'ai subis étaient contre les conditions décidées suite à la condamnation suspendue."
 
 # game/anna4.rpy:263
 translate french _call_skipcheck_17_0ffc5c99:
@@ -364,61 +364,61 @@ translate french _call_skipcheck_17_0ffc5c99:
 translate french _call_skipcheck_17_3461f980:
 
     # c "Why didn't you just do things the proper way and wait for the paperwork to clear?"
-    c "Pourquoi t'être précipitée ? Pourquoi tu n'as pas attendue leur approbation ?"
+    c "Pourquoi n'as-tu pas fait les choses dans les règles et attendue la fin de la procédure administrative ?"
 
 # game/anna4.rpy:267
 translate french _call_skipcheck_17_c9c53b69:
 
     # An face "Before my paperwork would even get through, you’d be long gone."
-    An face "Parce que le temps que ça se fasse, tu serais déjà partie depuis longtemps."
+    An face "Parce que le temps que la paperasse se fasse, tu serais déjà parti depuis longtemps."
 
 # game/anna4.rpy:269
 translate french _call_skipcheck_17_2466102c:
 
     # An "Using you as a test subject would’ve been a process that the council would have to discuss with humanity. As such, there might have been another trade agreement and who knows what else!"
-    An "Me servir de toi comme sujet de test aurait certainement mérité une petite discussion préalable avec l'humanité. Ce genre de discussion aurait pu déboucher sur un autre accord commercial, ou je ne sais quoi."
+    An "Me servir de toi comme sujet de test aurait été un processus que le conseil aurait dû discuter avec l'humanité. Ce genre de discussion aurait pu déboucher sur un autre accord commercial, ou je ne sais quoi."
 
 # game/anna4.rpy:271
 translate french _call_skipcheck_17_e9553d62:
 
     # An "I just didn't have the time. Quite frankly, I don't even know how much longer I have left."
-    An "Je n'avais pas le temps pour ces conneries. En fait, je ne sais même pas combien de temps il me reste !"
+    An "Je n'avais juste pas le temps. Et franchement, je ne sais même pas combien de temps il me reste !"
 
 # game/anna4.rpy:273
 translate french _call_skipcheck_17_4810babe:
 
     # An cry "This is my death sentence."
-    An cry "Ils ont signé mon arrêt de mort..."
+    An cry "Ils ont signé mon arrêt de mort."
 
 # game/anna4.rpy:275
 translate french _call_skipcheck_17_a2ac1927:
 
     # c "You thought my test results would help you find a cure?"
-    c "Tu crois que les résultats des analyses sur moi t'auraient permis de trouver des solutions pour tes recherches ?"
+    c "Tu pensais que les résultats des analyses sur moi t'auraient aidé à trouver un remède ?"
 
 # game/anna4.rpy:277
 translate french _call_skipcheck_17_d3397970:
 
     # An despair "And that's never going to happen now."
-    An despair "Ouais, mais ça n'arrivera jamais maintenant."
+    An despair "Mais ça n'arrivera jamais maintenant."
 
 # game/anna4.rpy:279
 translate french _call_skipcheck_17_464d45b5:
 
     # c "How did they find out so quickly? It's not been that long since I came to your lab."
-    c "Comment ils ont fait pour savoir ? Les tests que tu as fait sur moi remontent juste à quelques jours !"
+    c "Comment l'ont-ils découvert si vite ? Ca ne fait pas longtemps que je suis venu à ton labo."
 
 # game/anna4.rpy:281
 translate french _call_skipcheck_17_2ff3db4f:
 
     # An cry "It wasn't just those tests. There was Reza, too."
-    An cry "Il n'y avait pas que toi, il y avait aussi Reza."
+    An cry "Il n'y avait pas que ces tests, il y avait aussi Reza."
 
 # game/anna4.rpy:283
 translate french _call_skipcheck_17_1703b7d0:
 
     # c "But Reza told me he didn't give you any of his blood when you asked for it."
-    c "Il m'a dit qu'il avait refusé de te donner son sang."
+    c "Il m'a dit qu'il avait refusé de te donner son sang quand tu lui as demandé."
 
 # game/anna4.rpy:285
 translate french _call_skipcheck_17_03619e40:
@@ -430,13 +430,13 @@ translate french _call_skipcheck_17_03619e40:
 translate french _call_skipcheck_17_d4509248:
 
     # An "This is my life we're talking about. Do you think I didn't spend hours on the ground in the hallway of the facility after Reza's first visit, trying to find a stray hair or anything else I could use?"
-    An "On parle de ma vie là ! Tu crois que j'ai pas passé des heures à scrutter le sol des couloirs de l'usine après son passage ? Un poils, un résidu de peau, n'importe quoi d'organique m'aurait permis d'avancer !"
+    An "On parle de ma vie là. Tu crois que j'ai pas passé des heures à scrutter le sol des couloirs du complexe après la première visite de Reza, essayant de trouver un poils ou n'importe quel chose d'utile ?"
 
 # game/anna4.rpy:289
 translate french _call_skipcheck_17_6c24cd3e:
 
     # An "Or that when I gave him that first generator I didn’t try to graze his skin just enough so that I could salvage a few skin cells?"
-    An "Et l'autre jour quand je lui ai donné le générateur, tu n'as pas remarqué que j'ai tenté de le griffer \"malencontreusement\" pour récupérer quelques morceaux de peau ?"
+    An "Et l'autre jour quand je lui ai donné ce premier générateur, tu n'as pas remarqué que j'ai tenté de le griffer pour récupérer quelques morceaux de peau ?"
 
 # game/anna4.rpy:293
 translate french _call_skipcheck_17_473c72e2:
@@ -472,61 +472,61 @@ translate french _call_skipcheck_17_0c229817:
 translate french _call_skipcheck_17_86531fc7:
 
     # An cry "He found out what I was doing with the stuff I could salvage from Reza."
-    An cry "Il a trouvé mes quelques trouvailles concernant Reza, il a comprit ce que j'en faisais !"
+    An cry "Il a trouvé ce que je faisais avec les choses que je pouvais récupérer de Reza."
 
 # game/anna4.rpy:305
 translate french _call_skipcheck_17_ed6e622d:
 
     # An "I didn't mind giving him what he wanted, though. I just wanted to live."
-    An "Mais je m'en fout de ce connard ! Tout ce que je veux c'est vivre bordel !"
+    An "Mais je m'en foutais de lui donner ce qu'il voulait. Je voulais juste vivre."
 
 # game/anna4.rpy:307
 translate french _call_skipcheck_17_d3561ec0:
 
     # An "When he died and the police searched his apartment, they found all the evidence he had on me."
-    An "Après sa mort, la police a fouillé son appart'. C'est là qu'ils ont trouvé les preuves qu'il gardait pour me faire chanter."
+    An "Après sa mort, la police a fouillé son appartement. Ils ont trouvé les preuves qu'il avait sur moi."
 
 # game/anna4.rpy:309
 translate french _call_skipcheck_17_113143e4:
 
     # An face "And now, everything is coming down. I will be punished to the full extent of the law, and I will die in prison."
-    An face "Et maintenant je suis foutue. Je vais payer pour toute les lois que j'ai enfreintes et crever dans une cellule."
+    An face "Et maintenant tout s'écroule. Je vais payer pour toute les lois que j'ai enfreintes et je vais mourir en prison."
 
 # game/anna4.rpy:311
 translate french _call_skipcheck_17_e70339e4:
 
     # An "My work will forever be tainted. Not that I'll care about that when I'm dead."
-    An "Mon travail sera à jamais entachée par tout ça. Même si après ma mort j'en aurais plus rien à carrer."
+    An "Mon travail sera entachée à jamais. Même si après ma mort ce ne sera plus mon problème."
 
 # game/anna4.rpy:313
 translate french _call_skipcheck_17_32aacc7a:
 
     # An cry "Do you remember that childhood friend of mine I told you about? I never wanted to end up like her, but it seems not even I can do anything to escape that fate."
-    An cry "Tu te souviens de mon amie d'enfance ? Je m'étais jurée que je ne finirait pas comme elle. Et aujourd'hui même moi je ne peux rien faire pour empêcher ça."
+    An cry "Tu te souviens de cette amie d'enfance dont je t'ai parlé ? Je m'étais jurée de ne pas finir comme elle, mais il semblerait que même moi je ne peux rien faire pour empêcher ça."
 
 # game/anna4.rpy:315
 translate french _call_skipcheck_17_64ff3c51:
 
     # An "Maybe I deserve it."
-    An "Peut-être que je le mérite finalement."
+    An "Peut-être que je le mérite."
 
 # game/anna4.rpy:317
 translate french _call_skipcheck_17_54c05cee:
 
     # An "Maybe it's my punishment. I have to die like she did, because I left her."
-    An "Peut-être que le destin me punit de l'avoir abandonnée sur son lit d'hopital."
+    An "Peut-être est-ce ma punition. Je dois mourir comme elle, parce que je l'ai laissé tomber."
 
 # game/anna4.rpy:319
 translate french _call_skipcheck_17_bf062190:
 
     # An "I will spend my last days bedridden in a prison cell, and no one will visit me or care."
-    An "Je vais passer les derniers jours de ma vie dans un lit perdu au milieu d'une prison. Personne ne viendra me rendre visite, personne ne va se préoccuper de moi."
+    An "Je vais passer mes derniers jours de ma vie alitée dans une cellule, et personne ne viendra me rendre visite, ou ne se préoccupera de moi."
 
 # game/anna4.rpy:321
 translate french _call_skipcheck_17_e98b2883:
 
     # An face "And you know what? With all that data I got from you, I might've actually found a cure."
-    An face "Et tu sais c'est quoi le pire ? Avec les données que j'ai obtenues de tes tests... J'avais peut-être trouvé un remède."
+    An face "Et tu sais quoi ? Avec les données que j'ai obtenues de tes tests, j'avais peut-être trouvé un remède."
 
 # game/anna4.rpy:323
 translate french _call_skipcheck_17_09163495:
@@ -538,109 +538,19 @@ translate french _call_skipcheck_17_09163495:
 translate french _call_skipcheck_17_62d3329a:
 
     # An face "I don't want to cry in front of you. I don't want the attention or the pity. I don't want it."
-    An face "Je ne veux pas chialer devant toi, je ne veux pas te faire pitiée ou quoi... merde !..."
-
-
-    if persistent.playedkevin == True:
-
-
-
-        if annastatus == "good":
-
-            menu:
-
-                "Si je peux faire quoi que ce soit...":
-
-                    An disgust "Quoi ? Qu'est-ce que t'as en tête là ?"
-
-                    c "Quelque chose qu'un ami m'a suggeré pour aller un peu mieux..."
-
-                    An "..."
-
-                    An rage "À quoi tu penses au juste !? Et fais gaffe à ce que tu vas me proposer !"
-
-                    menu:
-
-                        "Un bête et innocent câlin...":
-
-                            c "Je sais que ça peut paraître stupide..."
-
-                            An "..."
-
-                            An disgust "..."
-
-                            c "..."
-
-                            An cry "..."
-
-                            An "Et puis merde."
-
-                            hide anna with dissolve
-
-                            play sound "fx/undress.ogg"
-
-                            m "Contre tout attente, elle s'est approchée de moi pour me prendre dans les bras et me serrer fort contre elle."
-
-                            m "Je sentais sa tête au creux de mon cou, elle a alors éclaté en sanglots, j'ai posé deux mains timides sur ses écailles et les ai caressées."
-
-                            if persistent.annagoodending == True:
-
-                                m "Mais au final, elle n'étais pas la seul à se sentir mal. J'ai versé quelques larmes et l'ai serrée contre moi."
-
-                                play sound "fx/purr.ogg"
-
-                                m "La chaleur de ses écailles sous mes mains m'apaisait étrangement, c'est alors que j'ai entendu un grondement apaisant venant de son corps."
-
-
-                            else:
-
-                                pass
-
-
-                            An "J'suis pas une faible !... Juste..."
-
-                            c "Je ne suis pas là pour te juger Anna."
-
-                            An "Merci [player_name]..."
-
-                            m "Elle est restée ainsi quelques longues secondes, puis m'a finalement relâché."
-
-                            show anna cry with dissolve
-
-                            stop sound fadeout 0.5
-
-
-                            An "Tu diras à ton ami que ça fait du bien ce genre de truc... Même si c'est pas ça qui va me guérir."
-
-
-                        "Nan, oublie.":
-
-                            pass
-
-
-
-
-
-                "(Ne rien dire)":
-
-                    pass
-
-
-
-
-
+    An face "Je ne veux pas pleurer devant toi, je ne veux pas d'attention ou de pitié. Je n'en veux pas."
 
 # game/anna4.rpy:329
 translate french anna4skip1_cbbc280d:
 
     # An cry "I didn't cry back when I was diagnosed, and I'm sure as heck not going to cry now."
-    An cry "Je n'ai pas chialé quand on m'a annoncé que j'étais condamnée..."
+    An cry "Je n'ai pas pleuré quand on m'a diagnostiqué, et pour sûr je ne pleurerais pas maintenant."
 
 # game/anna4.rpy:343
 translate french anna4skip1_b96a4bb0:
 
     # c "You have cancer."
-    c "Anna, je suis au courant pour ton cancer."
+    c "Tu as un cancer."
 
 # game/anna4.rpy:345
 translate french anna4skip1_9864f844:
@@ -664,61 +574,61 @@ translate french anna4skip1_983bccd8:
 translate french anna4skip1_966afd80:
 
     # An face "He must have used his position to look into some confidential documents."
-    An face "Il a dû profiter de sa place aux archives pour fouiller dans certains documents confidentiels !"
+    An face "Il a dû profiter de son postes pour fouiller dans certains documents confidentiels !"
 
 # game/anna4.rpy:355
 translate french anna4skip1_02c0e145:
 
     # An disgust "That's not exactly legal either. What a hypocrite. Why don't they just throw him into prison as well and let us rot together, huh?"
-    An disgust "Ça aussi c'est pas légal ! Quel enfoiré d'hypocrite ! Ils devraient le balancer en prison lui aussi pour ça ! Ils pourraient même nous laisser pourrir dans la même cellule !"
+    An disgust "Ça n'est pas vraiment légal non plus ! Quel hypocrite ! Ils devraient le balancer en prison lui aussi pour ça, et même nous laisser pourrir dans la même cellule, hein ?"
 
 # game/anna4.rpy:357
 translate french anna4skip1_db825c8a:
 
     # An "All those filthy bureaucrats. You should've heard them."
-    An "Et tout ces salauds de gratte papiers, tu aurais tu les entendre..."
+    An "Et tout ces salauds de bureaucrates, tu aurais tu les entendre..."
 
 # game/anna4.rpy:359
 translate french anna4skip1_03ea2e42:
 
     # An "How they don't want to change the rules, because our tradition is sacred and that's how we've survived all those years."
-    An "Hors de question de changer les règle, les traditions c'est sacré, on a vécu comme ça pendant des années..."
+    An "A ne pas vouloir changer les règles, car nos traditions sont sacrées, on a vécu comme ça qu'on a survécu toutes ces années."
 
 # game/anna4.rpy:361
 translate french anna4skip1_7742d6a7:
 
     # An cry "Tradition now demands that I die."
-    An cry "Et maintenant pour m'en tenir à vos traditions, je suis condamnée à mourrir ? Bande d'enfoirés."
+    An cry "La tradition me demande de mourrir."
 
 # game/anna4.rpy:363
 translate french anna4skip1_7a1f7feb:
 
     # An "But you know what? I'm not playing by their rules. Never have."
-    An "Mais tu sais quoi, je n'ai jamais joué selon leurs règles, jamais."
+    An "Mais tu sais quoi ? Je n'ai jamais joué selon leurs règles. Jamais."
 
 # game/anna4.rpy:365
 translate french anna4skip1_a9f239d5:
 
     # An disgust "Actually, why don't I line up all of those who got me here and kill them?"
-    An disgust "D'ailleurs, pourquoi ne pas aligner tout ceux qui m'ont foutu dans cette merde ici et les tuer hein ?!"
+    An disgust "D'ailleurs, pourquoi ne pas aligner tout ceux qui m'ont amené là où j'en suis et les tuer hein ?"
 
 # game/anna4.rpy:367
 translate french anna4skip1_58341936:
 
     # An "Because if I'm going to die, why shouldn’t I take them with me? I mean, I have nothing to lose if I’m going to die anyway."
-    An "Quite à mourir, autant les emporter avec moi, nan ? Et vu que je n'en ai plus pour longtemps à vivre, je n'ai rien à perdre !"
+    An "Car si je dois mourir, pourquoi ne pas les emporter avec moi ? Je veux dire, je n'en ai plus pour longtemps à vivre, je n'ai rien à perdre."
 
 # game/anna4.rpy:369
 translate french anna4skip1_f90c8f74:
 
     # c "Don't do that."
-    c "Tu ne feras pas ça Anna."
+    c "Ne fais pas ça."
 
 # game/anna4.rpy:373
 translate french anna4skip1_b965a55f:
 
     # An "Just give me one good reason!" with Shake((0, 0, 0, 0), 2, dist=10)
-    An "Donne moi juste une raison de ne pas tous les crever !" with Shake((0, 0, 0, 0), 2, dist=10)
+    An "Donne moi juste une bonne raison !" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/anna4.rpy:375
 translate french anna4skip1_397f4fa7:
