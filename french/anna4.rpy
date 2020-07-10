@@ -652,115 +652,115 @@ translate french anna4skip1_983bccd8_1:
 translate french anna4skip1_e85d1303:
 
     # An "How dare you look into my personal belongings?" with Shake((0, 0, 0, 0), 2, dist=10)
-    An "Comment as-tu osé fouiller dans mes affaires ! Hein !?" with Shake((0, 0, 0, 0), 2, dist=10)
+    An "Comment as-tu osé fouiller dans mes affaires ?" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/anna4.rpy:390
 translate french anna4skip1_f98bd948:
 
     # c "Hey, I wouldn't have if you didn't keep me waiting."
-    c "Hé, je n'aurais pas pu le faire si je ne t'avais pas attendue !"
+    c "Hé, je ne l'aurais guère fait si je n'avais pas eu à t'attendre."
 
 # game/anna4.rpy:392
 translate french anna4skip1_fd6031dd:
 
     # An disgust "So what? That doesn't give you any right to look into my stuff!"
-    An disgust "Et alors ! Parce que j'étais en retard, ça t'a donné le droit de fouiller mon courrier personnel ?"
+    An disgust "Et alors ? Ca ne te donne pas le droit de fouiller dans mes affaires !"
 
 # game/anna4.rpy:394
 translate french anna4skip1_59631e6a:
 
     # c "It just happened, okay?"
-    c "J'ai fait une connerie, d'accord !"
+    c "C'est arrivé comme ça, d'accord ?"
 
 # game/anna4.rpy:396
 translate french anna4skip1_e27a6c7b:
 
     # An "Now you show your true colors, [player_name]."
-    An "Maintenant dit moi tout, [player_name] !"
+    An "Là tu montres ton vrai visage, [player_name] !"
 
 # game/anna4.rpy:398
 translate french anna4skip1_41ec2651:
 
     # An "You are just as duplicitous as our government."
-    An "T'es aussi tordu que notre cher gouvernement !"
+    An "Tu es aussi hypocrite que notre gouvernement."
 
 # game/anna4.rpy:400
 translate french anna4skip1_57b4cc06:
 
     # An "They keep talking about how they care about everyone, yet that wasn't what happened to me."
-    An "Ils font comme s'ils se souciaient de tout le monde, mais moi tout le monde s'en balance !"
+    An "Ils font comme s'ils se souciaient de tout le monde, mais ce n'est pas ce qui m'est arrivé."
 
 # game/anna4.rpy:402
 translate french anna4skip1_e3dd800d:
 
     # An cry "It's their backwards rules and traditions that now demand that I die."
-    An cry "C'est à cause de leurs fichues règles et de leur putain de tradition que je dois mourir !"
+    An cry "C'est leurs règles arriérées et leur traditions qui aujourd'hui me demande de mourir !"
 
 # game/anna4.rpy:404
 translate french anna4skip1_cb810fa6:
 
     # An disgust "The same rules and traditions that would make them worship you, just because of some stupid, old legend."
-    An disgust "Ces mêmes règles, et ces mêmes traditions qui les fait vous vénérer, tout ça à cause de croyances à la con !"
+    An disgust "Ces mêmes règles et traditions qui les fait vous vénérer, tout ça à cause de croyances stupides et de vielles légendes."
 
 # game/anna4.rpy:406
 translate french anna4skip1_3d2095fb:
 
     # An "You know it and used it to your advantage to arrange this one-sided trade with us."
-    An "Vous le saviez, et vous en avez profiter pour échanger de la marchandise de valeur contre un savoir qui ne nous aidera jamais !"
+    An "Vous le saviez, et vous en avez profiter pour arranger ce marché à sens unique avec nous"
 
 # game/anna4.rpy:408
 translate french anna4skip1_80b842d8:
 
     # c "That wasn't me."
-    c "Ce n'étais pas ma décision Anna !"
+    c "Ce n'étais pas moi."
 
 # game/anna4.rpy:410
 translate french anna4skip1_92b36cf0:
 
     # An face "It doesn't matter if it was you in particular or one of the other humans."
-    An face "On s'en fout que ça soit ta décision ou celle d'un autre humain !"
+    An face "On s'en fout que ça soit toi en particulier ou un autre humain."
 
 # game/anna4.rpy:412
 translate french anna4skip1_7620d745:
 
     # An disgust "You still work for them, don't you?"
-    An disgust "T'es toujours avec eux, on est d'accord ?"
+    An disgust "Tu travailles toujours pour eux, on est d'accord ?"
 
 # game/anna4.rpy:414
 translate french anna4skip1_dc8edbd9:
 
     # An sad "You look into things you shouldn't, and Reza does whatever the heck he does nowadays."
-    An sad "Tu fourres ton museau là ou il n'a pas lieu d'être, pendant que ton collègue fais je ne sais quoi dehors !"
+    An sad "Tu fourres ton museau là ou il n'a pas lieu d'être, et Reza fait je ne sais quoi dehors."
 
 # game/anna4.rpy:416
 translate french anna4skip1_b21e8396:
 
     # An face "Why did I even come here today? To have another knife driven into my back?"
-    An face "Et pourquoi je suis venu ici moi, hein ? Pour que tu aies le privilège de me planter une autre lame dans le dos !?"
+    An face "Pourquoi je suis venu ici aujourd'hui ? Pour avoir une autre lame plantée dans le dos ?"
 
 # game/anna4.rpy:418
 translate french anna4skip1_5c1e0af6:
 
     # An sad "I'm just not sure why I ever expected anything different from you."
-    An sad "Tu sais... Je m'attendais à autre chose de ta part. Quelle conne que je suis."
+    An sad "Je ne sais juste pas pourquoi je m'attendais à quelque chose de différent venant de toi."
 
 # game/anna4.rpy:420
 translate french anna4skip1_2c34807f:
 
     # c "It's not like that at all."
-    c "Nan Anna, t'as eut raison de t'attendre à quelque chose de moi."
+    c "Ca n'est pas du tout ce que tu crois."
 
 # game/anna4.rpy:424
 translate french anna4skip1_4f60a6da:
 
     # An "Oh, really? Prove it." with Shake((0, 0, 0, 0), 2, dist=10)
-    An "Ah ouais ? Alors quoi au juste !?" with Shake((0, 0, 0, 0), 2, dist=10)
+    An "Oh, vraiment ? Prouve le." with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/anna4.rpy:426
 translate french anna4skip1_79349d46:
 
     # c "Where I come from, we can cure cancer. If you came with me..."
-    c "Anna ! D'où je viens, on a tout ce qu'il faut pour guérir le cancer !... Si tu viens dans mon monde..."
+    c "D'où je viens, on peut guérir le cancer. Si tu viens avec moi..."
 
 # game/anna4.rpy:433
 translate french anna4skip1_09163495:
@@ -772,25 +772,25 @@ translate french anna4skip1_09163495:
 translate french anna4skip1_0adfecd8:
 
     # An "You can? Are you saying that if I went back with you, if you smuggled me out, that you could cure me?"
-    An "T'es sérieux là ? T'es en train de me dire que, si je me casse avec toi en douce et qu'on va dans ton monde, tu pourras me guérir ?..."
+    An "T'en es capable ? T'es en train de me dire que si tu me fais passer en fraude, tu pourrais me guérir ?"
 
 # game/anna4.rpy:439
 translate french anna4skip1_97ce8ee6:
 
     # c "We have the facilities. If we had the power from the generators we asked for, we could."
-    c "Notre hopital à tout le nécessaire. Si nous avons les générateurs qu'il nous faut pour rétablir le courant et réactiver les appareils, oui, je te soignerai."
+    c "Nous avons les équipements. Si nous avions l'énergie des générateurs qu'on a demandé, on pourrait."
 
 # game/anna4.rpy:441
 translate french anna4skip1_a44cc8d9:
 
     # An rage "Are you kidding me? Because if you are, I'll..."
-    An rage "Tu te fous de ma gueule là ? Me donne pas en vie de te !..."
+    An rage "Tu te fiche de moi ? Parce que si c'est le cas, je vais te..."
 
 # game/anna4.rpy:443
 translate french anna4skip1_80760825:
 
     # c "No, it's the truth."
-    c "Nan Anna ! C'est la vérité ! La stricte vérité !"
+    c "Non, c'est la vérité."
 
 # game/anna4.rpy:445
 translate french anna4skip1_09163495_1:
@@ -802,19 +802,19 @@ translate french anna4skip1_09163495_1:
 translate french anna4skip1_c7cd94ef:
 
     # c "Maybe we could work something out. I'm sure humanity would not object, or maybe we could just give you the technology or the necessary method. We have already cured cancer, so there's no need for you to die."
-    c "OOn a déjà guéri des personnes atteintes du cancer Anna. Tu n'as pas besoin de mourir, tu m'entends ?"
+    c "On pourrait trouver une solution. Je suis sûr que l'humanité de posera pas d'objection, ou bien nous pourrions juste vous donner la technologie ou les méthodes nécéssaires. On a déjà soigné le cancer, donc tu n'as pas à mourir."
 
 # game/anna4.rpy:449
 translate french anna4skip1_0562251b:
 
     # An "Why would you do that for me?"
-    An "Pourquoi tu ferais ça ? Pour moi ?"
+    An "Pourquoi ferais-tu ça pour moi ?"
 
 # game/anna4.rpy:451
 translate french anna4skip1_6e1a3c24:
 
     # An "You know I didn't care about you. I just wanted your blood, your data. Just anything that would help me save myself."
-    An "Tu sais qu'à la base je m'en fiche de toi, hein ?... Tout ce que je voulais, c'était ton sang et une batterie de test pour collecter le maximum de donnée, bref, tout ce qui est succeptible de me sauver..."
+    An "Tu sais que je me fichais de toi. Tout ce que je voulais, c'était ton sang, des données sur toi. Tout ce qui aurait été succeptible de me sauver."
 
 # game/anna4.rpy:453
 translate french anna4skip1_45711d91:
@@ -826,62 +826,61 @@ translate french anna4skip1_45711d91:
 translate french anna4skip1_6ec06ead:
 
     # An "Why? Nobody has ever cared about me. People were always willing to use my research, but I was just a machine to churn out results for them. That's what all the awards were for."
-    An "Mais pourquoi ?... Tout le monde s'en fout de moi, tout ce qui intéresse ce sont le résultat de mes recherches. Les gens les ont toujours utilisé, tout comme ils m'ont utilisée, comme si j'étais juste une machine à trouver des solutions..."
+    An "Pourquoi ? Tout le monde s'en fout de moi. Les gens veulent bien utiliser mes recherches, mais j'étais juste une machine à trouver des résultats. D'où tous les prix gagnés."
 
 # game/anna4.rpy:466
 translate french a4otherwise_a95bb18d:
 
     # An "I admit that I was selfish. Always. Yet I did great things. At least that's what everyone kept telling me."
-    An "J'avoue que je n'ai toujours pensée qu'à moi. Malgré ça j'ai fait de grandes choses, c'est ce qu'on m'a souvent répété en tout cas."
+    An "J'avoue que je n'ai toujours pensée qu'à moi. Malgré ça j'ai fait de grandes choses. C'est ce qu'on m'a souvent répété en tout cas."
 
 # game/anna4.rpy:468
 translate french a4otherwise_6d9b9a7e:
 
     # An "You know, after that whole affair back then and the suspended sentence, the rumors about me never stopped. Did they warn you about me? Tell you to stay away? I'm sure they have."
-    An "Tu sais, après cette histoire et suite à ma condamnation, les rumeurs sur moi n'ont jamais cessé d'exister. Est-ce qu'on t'a demandé de faire attention à l'affreuse Anna ?"
-    An "Est-ce qu'on t'a demandé de ne pas entrer dans son laboratoire plein de monstre diformes et autres expériences râtées ? Ouais, je suis sûr qu'on t'as mis en garde sur moi."
+    An "Tu sais, après toute l'affaire à l'époque et la sentence suspendue, les rumeurs sur moi ne se sont jamais arrêtée. T'ont-ils averti à mon sujet ? De rester loin de moi ? J'en suis certaine."
 
 # game/anna4.rpy:470
 translate french a4otherwise_6bb3777a:
 
     # An "Why are you still here?"
-    An "Pourquoi t'es venu malgré tout ?"
+    An "Pourquoi es-tu venu malgré tout ?"
 
 # game/anna4.rpy:472
 translate french a4otherwise_4f04831b:
 
     # c "I didn't listen to them, I guess. Just like you."
-    c "Je n'ai écouté personne je suppose, comme toi."
+    c "Je ne les ai pas écouté, je suppose. Tout comme toi."
 
 # game/anna4.rpy:474
 translate french a4otherwise_cf15e601:
 
     # An face "The Council, Damion, Remy... They were always sabotaging me. If everyone just left me alone, I wouldn't even need your help."
-    An face "Le Conseil, Damion, Remy... Ils m'ont toujours mis des bâtons dans les roues. Si tout le monde m'avait laissée faire mon taf, je n'aurais même pas eut besoin de toi."
+    An face "Le Conseil, Damion, Rémi... Ils m'ont toujours mis des bâtons dans les roues. Si tout le monde m'avait laissée tranquille, je n'aurais même pas eu besoin de ton aide."
 
 # game/anna4.rpy:476
 translate french a4otherwise_6bf8fa0d:
 
     # An cry "Why couldn't everyone just leave me alone?"
-    An cry "Pourquoi le monde n'a jamais pu me laisser en paix ?"
+    An cry "Pourquoi le monde ne pouvait juste pas me laisser en paix ?"
 
 # game/anna4.rpy:478
 translate french a4otherwise_a4541f75:
 
     # An "When they gave me the manager position at the facility, that was just to distract me even more. Giving me free reign over the lab so I'd be tempted to do something I shouldn't."
-    An "Quand on m'a donné la direction de l'usine, c'était juste pour me distraire un peu plus. En me laissant un beau laboratoire plein de matériel, ils ont certainement pensé que je serais tenté de faire des expériences illégales."
+    An "Quand on m'a donné la direction du complexe, c'était juste pour me distraire un peu plus. En me donnant le champ libre sur un laboratoire, je aurait été tenté de faire quelque chose de discutable."
 
 # game/anna4.rpy:480
 translate french a4otherwise_cac4c825:
 
     # An face "How could I not at least try?"
-    An face "D'ailleurs, pourquoi ne pas tenter après tout, hein ?"
+    An face "Pourquoi ne pas tenter après tout ?"
 
 # game/anna4.rpy:482
 translate french a4otherwise_a07e2e36:
 
     # An cry "One of their oh-so-important founding principles is how every individual is important. That's clearly not the case with me. At least, they never showed it was."
-    An cry "L'un des principes fondamentaux de notre société, c'est de mettre en avant l'importance de chaque individu. Par contre moi nan, ils n'ont jamais manifesté la moindre attention à mon égard."
+    An cry "L'un de nos grand principes fondamentaux, c'est de mettre en avant l'importance de chaque individu. Ca n'était clairement pas le cas avec moi. Du moins, il ne me l'ont jamais montré."
 
 # game/anna4.rpy:484
 translate french a4otherwise_c04fd889:
@@ -893,19 +892,19 @@ translate french a4otherwise_c04fd889:
 translate french a4otherwise_f75caa45:
 
     # An "You are the only one who came to me willingly and without any ulterior motives."
-    An "Tu es le seul à être venu me voir de ton plein gré, et tu venais me voir moi, pas mon travail."
+    An "Tu es le seul à être venu me voir de ton plein gré, et sans but caché."
 
 # game/anna4.rpy:488
 translate french a4otherwise_dd305a0a:
 
     # An "Or did you?"
-    An "Mais pourquoi [player_name] ?"
+    An "A moins que ?"
 
 # game/anna4.rpy:490
 translate french a4otherwise_4aba3dda:
 
     # c "You invited me. I just took that invitation."
-    c "Tu m'as invité dès notre première rencontre. J'ai juste accepté ton invitation."
+    c "Tu m'as invité. J'ai juste accepté ton invitation."
 
 # game/anna4.rpy:492
 translate french a4otherwise_91881375:
@@ -917,25 +916,25 @@ translate french a4otherwise_91881375:
 translate french a4otherwise_48a02ca7:
 
     # An cry "And you still came back for more. You let me do all those tests on you. Sure, you complained like a pro, but you sat it out for me."
-    An cry "Et tu es venu. Tu m'as laissé faire tout ces tests sur toi, sans me demander quoi que ce soit en échange. Bien sûr tu as râlé comme un vrai pro, mais tu as fait tout ce que je t'ai demandé."
+    An cry "Et tu es venu. Tu m'as laissé faire tout ces tests sur toi. Bien sûr tu as râlé comme un vrai pro, mais tu y as participé pour moi."
 
 # game/anna4.rpy:496
 translate french a4otherwise_5626babf:
 
     # c "I owed it to you."
-    c "Je me suis dit que je te devais bien ça."
+    c "Je te devais bien ça."
 
 # game/anna4.rpy:498
 translate french a4otherwise_93c6f31c:
 
     # An face "You don't owe me anything anymore."
-    An face "Désormais, tu ne me dois plus rien."
+    An face "Tu ne me dois plus rien maintenant."
 
 # game/anna4.rpy:503
 translate french a4otherwise_8d82d8ec:
 
     # c "So what?"
-    c "D'accord, et maintenant ?"
+    c "Et alors ?"
 
 # game/anna4.rpy:507
 translate french a4otherwise_061bd480:
@@ -953,19 +952,19 @@ translate french a4otherwise_1e78610f:
 translate french a4otherwise_f8776daf:
 
     # An "I know there's politics involved, and I know it may not ever happen, but this is my last straw, my last hope."
-    An "Je sais que tu n'es pas le seul à décider de tout ça. Si ça se trouve ça n'arrivera jamais... Mais c'est mon dernière espoir."
+    An "Je sais qu'il y a de la politique impliquée, et si ça se trouve ça n'arrivera jamais, mais c'est mon dernier espoir."
 
 # game/anna4.rpy:513
 translate french a4otherwise_97b195e0:
 
     # c "I'll do what I can."
-    c "Je ferais tout ce que je peux Anna."
+    c "Je ferais tout ce que je peux."
 
 # game/anna4.rpy:515
 translate french a4otherwise_e864050c:
 
     # An "Thank you."
-    An "Merci [player_name]."
+    An "Merci."
 
 # game/anna4.rpy:519
 translate french a4otherwise_028f234d:
