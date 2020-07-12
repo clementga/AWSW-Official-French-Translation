@@ -988,19 +988,19 @@ translate french a4otherwise_0a2731ea:
 translate french _call_skiptut_18_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indiquent que vous avez déjà passé cette scène en ayant obtenu une fin satisfaisante. Souhaitez-vous tout de même la revoir ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous avancer jusqu'à la fin ?"
 
 # game/anna4.rpy:552
 translate french _call_skiptut_18_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semble que vous avez déjà vu cette scène. Je la repasse tout de même ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Avancer jusqu'à la fin de cette scène ?"
 
 # game/anna4.rpy:560
 translate french _call_skiptut_18_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Il s'avère que vous avez déjà vu cela auparavant. Soit vous pouvez le revoir, soit nous pouvons gagner du temps et passer directement à la fin du rendez-vous."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et avancer à la fin de cette scène."
 
 # game/anna4.rpy:575
 translate french _call_skiptut_18_0054b77b:
@@ -1018,31 +1018,31 @@ translate french _call_skipcheck_18_0054b77b:
 translate french _call_skipcheck_18_a6c475aa:
 
     # An sad "Anyway, enough of that. I hope you dont mind me hanging around here. My place still looks like the police raided it. Oh, wait, that's exactly what happened."
-    An sad "Enfin, arrêtons de parler de tout ça. Ça te dérange si je traîne un peu ici ? Chez moi c'est comme si j'avais eut droit à une descente de flic. Ah nan pardon, c'est exactement ce qui s'est passé !"
+    An sad "Enfin, arrêtons de parler de ça. J'espère que ça ne te dérange pas si je traine ici. Chez moi c'est comme si j'avais eu droit à une descente de flic. Non attends, c'est exactement ce qui s'est passé."
 
 # game/anna4.rpy:601
 translate french _call_skipcheck_18_ea1507a8:
 
     # c "Do you need help cleaning up?"
-    c "Tu voudras de l'aide pour ranger ?"
+    c "Tu as besoin d'aide pour nettoyer ?"
 
 # game/anna4.rpy:603
 translate french _call_skipcheck_18_c01cbb0a:
 
     # An face "No, I can pay someone to do it later. I just don't want to be there right now."
-    An face "Nan, je paierai du monde pour s'en charger, t'inquiète. Mais là j'ai pas envie d'y retourner, tu comprends."
+    An face "Non, je peux payer quelqu'un pour le faire plus tard. Je n'ai juste pas envie d'être là bas, là tout de suite."
 
 # game/anna4.rpy:605
 translate french _call_skipcheck_18_4d006aae:
 
     # An sad "Nice apartment you've got here, by the way. Not quite as fancy as mine, but this isn't bad either. I guess the council treats you nicely, huh?"
-    An sad "Joli cet apaprtement au fait. Bon, pas aussi chic que le miens, mais pas mal quand même. Le conseil te traite bien on dirait."
+    An sad "Joli cet apaprtement au fait. Pas aussi chic que le miens, mais c'est pas mal quand même. Il faut croire que le conseil te traite bien, hein ?"
 
 # game/anna4.rpy:607
 translate french _call_skipcheck_18_b8565449:
 
     # c "Hey, it wasn't my decision."
-    c "Ce n'est pas moi qui ai voulu tout ça tu sais."
+    c "Hey, ce n'est pas moi qui ai voulu tout ça."
 
 # game/anna4.rpy:609
 translate french _call_skipcheck_18_d10c9fc3:
@@ -1054,31 +1054,31 @@ translate french _call_skipcheck_18_d10c9fc3:
 translate french _call_skipcheck_18_23e7ac20:
 
     # c "I can't be that important if your apartment is nicer than this."
-    c "Je ne suis pas si important que toi, vu que mon appartement n'est pas aussi chic que le tien."
+    c "Je ne dois pas être si important si ton appartement est plus chic que le mien."
 
 # game/anna4.rpy:613
 translate french _call_skipcheck_18_5b698ecc:
 
     # c "Besides, after your rhetoric about being wild and all that when we went on our date, I assumed you were more the type of person who just lives in a hole in the ground."
-    c "D'ailleurs, je suis surpris. Après notre petite soirée dans ce resto où on a mangé cet exquis mouflon à la Anna, je me disais que tu étais du genre à vivre dans une grotte à la sauvage."
+    c "D'ailleurs, après ton discours sur le fait d'être sauvage et tout ce qu'on a fait lors de notre rencard, je me suis dit que tu étais du genre à vivre dans un trou dans le sol."
 
 # game/anna4.rpy:615
 translate french _call_skipcheck_18_9840b3f3:
 
     # An sad "That's not what I said. I told you I can appreciate all kinds of different experiences. I could survive in the wild if I wanted to, though."
-    An sad "Nan. Justement ce soir là, je t'ai dit que j'appréciais autant un resto de luxe qu'un self service au milieu des champs. Mais ouais, je pourrais vivre dans une grotte si je le voulais."
+    An sad "Ca n'est pas ce que j'ai dit. Je t'ai dit que j'appréciais toutes sortes d'expériences. Mais je pourrais survivre à l'état sauvage si je le voulais."
 
 # game/anna4.rpy:617
 translate french _call_skipcheck_18_57a04928:
 
     # An normal "Do you want to know what I did on my last vacation ? I just started walking in a random direction. I spent a week in the wilderness before I came back."
-    An normal "Tu sais ce que j'ai fait de mes dernières vacances ? J'ai été dans une direction où le paysage semblait agréable, et j'ai marché. J'ai passé une semaine dans la nature avant de revenir en ville."
+    An normal "Tu sais ce que j'ai fait de mes dernières vacances ? J'ai juste commencé à marcher dans une direction au hasard. J'ai passé une semaine dans la nature avant de revenir."
 
 # game/anna4.rpy:619
 translate french _call_skipcheck_18_1870a566:
 
     # c "That must've been an adventure. I wouldn’t be able to do that without tools."
-    c "Ça devait être une sacrée aventure. Perso, sans outil, c'est même pas la peine que j'essaie."
+    c "Ça devait être une sacrée aventure. Je ne serais pas capable de faire ça sans outils."
 
 # game/anna4.rpy:621
 translate french _call_skipcheck_18_2413ebbe:
@@ -1090,31 +1090,31 @@ translate french _call_skipcheck_18_2413ebbe:
 translate french _call_skipcheck_18_cb2b6e43:
 
     # c "Not sure if I'll ever need them, but I guess they could come in handy."
-    c "Je ne sais pas si j'en aurais vraiment besoin un jour, mais sait on jamais."
+    c "Je ne sais pas si j'en aurais vraiment besoin, mais ça pourrait servir."
 
 # game/anna4.rpy:625
 translate french _call_skipcheck_18_f8ac9388:
 
     # An "Actually, there's one tip that should take care of everything."
-    An "En fait, il y a juste un truc que tu pourrais faire pour palier à tout ce qui te manque."
+    An "En fait, il y a un conseil qui pourrait marcher pour tout."
 
 # game/anna4.rpy:627
 translate french _call_skipcheck_18_fcbd37e9:
 
     # c "Let's hear it, then."
-    c "Ah oui ?"
+    c "Je suis tout ouïe."
 
 # game/anna4.rpy:629
 translate french _call_skipcheck_18_214f7aef:
 
     # An normal "Just be a dragon. Then you've got everything you need and don't have to rely on tools and other stupid stuff."
-    An normal "Juste, sois un dragon. Finit les outils et autres trucs débiles, tu pourras te passer de tout ça pour vivre en pleine nature."
+    An normal "Juste, sois un dragon. Tu as tout ce dont tu as besoin sans t'appuyer sur des outils ou autre trucs stupides."
 
 # game/anna4.rpy:631
 translate french _call_skipcheck_18_5e62e772:
 
     # c "Yeah, that's super helpful. How do you think I'm supposed to do that?"
-    c "Ouais, très utile j'imagine. Mais comment je suis supposé faire ça ?"
+    c "Ouais, C'est super utile. Mais comment je suis supposé faire ça ?"
 
 # game/anna4.rpy:633
 translate french _call_skipcheck_18_19152924:
@@ -1126,7 +1126,7 @@ translate french _call_skipcheck_18_19152924:
 translate french _call_skipcheck_18_846cf6e7:
 
     # c "Actually, can you tell me about your advances in genetic engineering? Maybe you could make it happen."
-    c "En fait, tu m'as parlé de vos avancées en matière de génie génétique. Tu pourrais peut-être m'aider ?"
+    c "En fait, Peux-tu m'en dire plus sur vos avancées en matière de génie génétique ? Peut être que tu pourrais rendre ça possible ?"
 
 # game/anna4.rpy:637
 translate french _call_skipcheck_18_8b800a52:
@@ -1138,19 +1138,19 @@ translate french _call_skipcheck_18_8b800a52:
 translate french _call_skipcheck_18_ce34c345:
 
     # c "I was speaking more of your society as a whole, but if you have personal experience, that could also be interesting."
-    c "Je parlais de celle de votre société en général. Mais si tu as des solutions personelles, je prends volontier."
+    c "Je parlais de celle de votre société en général. Mais si tu as une experience personnelle, ça pourrait être intéressant."
 
 # game/anna4.rpy:641
 translate french _call_skipcheck_18_e60b8374:
 
     # An sad "We could do so much if we wanted to. Cloning, genetic scrambling or hybrids of our various different species."
-    An sad "T'imagine pas tout ce qu'on pourrait faire si on le voulait. Le clonage, le mélange génétique, créer des hybrides à partir de nos différentes espèces..."
+    An sad "On pourrait faire tellement de choses si on le voulait. Le clonage, le mélange génétique, créer des hybrides à partir de nos différentes espèces."
 
 # game/anna4.rpy:643
 translate french _call_skipcheck_18_e2eee211:
 
     # An "Heck, we could even create new species if we wanted to, but that's not going to happen any time soon. Tampering with genetics is not allowed."
-    An "Hé, on pourrait même créer de nouvelles espèces ! Mais c'est pas prêt d'arriver tout ça. C'est tout simplement interdit d'altérer la génétique."
+    An "Sérieux, on pourrait même créer de nouvelles espèces si on le voulait, mais c'est pas prêt d'arriver tout ça. C'est interdit d'altérer la génétique."
 
 # game/anna4.rpy:645
 translate french _call_skipcheck_18_4e5a4202:
@@ -1174,13 +1174,13 @@ translate french _call_skipcheck_18_a9a698ae:
 translate french _call_skipcheck_18_f60d7ae9:
 
     # An normal "Yeah, that one. It's the only one we have."
-    An normal "Oui, celle là. C'est la seule qu'on aie d'ailleurs."
+    An normal "Oui, celui là. C'est le seul qu'on aie d'ailleurs."
 
 # game/anna4.rpy:653
 translate french _call_skipcheck_18_d65c3b37:
 
     # An face "Anyway, we are not to tamper with the perfect images after which we were created."
-    An face "Enfin, il est dit quelque part qu'on ne doit pas altérer l'apparence parfaite que l'humain nous a donnée."
+    An face "Enfin, on ne doit pas altérer l'apparence parfaite qui nous a été donnée."
 
 # game/anna4.rpy:655
 translate french _call_skipcheck_18_b0d4200f:
@@ -1192,7 +1192,7 @@ translate french _call_skipcheck_18_b0d4200f:
 translate french _call_skipcheck_18_02020108:
 
     # An normal "The belief is that each species was molded for particular tasks, or a particular role in our society."
-    An normal "Il est dit que chaque espèce a été modelée pour convenir à des tâches bien spécifiques, ou pour tenir un rôle en particulier dans notre société."
+    An normal "La croyance que chaque espèce a été modelée pour convenir à des tâches bien spécifiques, ou pour un rôle en particulier dans notre société."
 
 # game/anna4.rpy:659
 translate french _call_skipcheck_18_4e24c2ca:
@@ -1204,7 +1204,7 @@ translate french _call_skipcheck_18_4e24c2ca:
 translate french _call_skipcheck_18_00676a7c:
 
     # An "Some of them aren't even wrong. It suggests certain species should go into certain jobs, because of their naturally higher aptitude in those fields."
-    An "Tout n'est pas à jeter là dedans. Les croyances conseillent à certaines espèces d'occuper des tâches en particulier, en raison de leurs capacité naturelles à correspondre à ces tâches."
+    An "Tout n'est pas à jeter là dedans. Les croyances conseillent à certaines espèces d'occuper des postes en particulier, en raison de leurs capacités naturelles à effectuer ces tâches."
 
 # game/anna4.rpy:663
 translate french _call_skipcheck_18_83683327:
@@ -1216,44 +1216,43 @@ translate french _call_skipcheck_18_83683327:
 translate french _call_skipcheck_18_1d3badc2:
 
     # An "Well, let's just say that while everyone can join the police force, you'll never be the flyer on duty unless you belong to a species that can fly."
-    An "Disons que même si la police accueille tout le monde quelque soit son espèce, il est clair qu'on ne va pas confier les missions aériennes à un taurex."
+    An "Disons que même si la police accueille tout le monde quelque soit son espèce, tu ne seras pas l'aviateur en service à moins d'appartenir à une espèce qui peut voler."
 
 # game/anna4.rpy:667
 translate french _call_skipcheck_18_a4b9d871:
 
     # c "That much is a given. I was talking more about if there is any sort of discrimination, for example."
-    c "Ce qui est évident. En fait, je me demandais si il y avait une sorte de discrimination."
+    c "Ce qui est évident. En fait, je me demandais si il y avait une sorte de discrimination, par exemple."
 
 # game/anna4.rpy:669
 translate french _call_skipcheck_18_a6861586:
 
     # An "You could say so. These structures can be pretty rigid in places, especially where the council is concerned. They really like to employ the members of the various species in their traditional roles."
-    An "On peut dire ça oui. Il y a des organismes qui sont particulièrement rigides là dessus. Au conseil surtout, les politiques sont les premiers à prendre en compte l'espèce pour confier leurs missions."
+    An "On peut dire ça oui. Ces structures peuvent être rigides là dessus, tout particulièrement là où le conseil est impliqué. Ils aiment beaucoup employer les membres des différentes espèces dans leur rôles traditionnels."
 
 # game/anna4.rpy:671
 translate french _call_skipcheck_18_d5d94e01:
 
     # An sad "Ironically enough, the perpetual nuisance you know as Remy was a revolutionary case where that didn't happen."
-    An sad "Ironiquement, l'emmerdeur perpétuel plus connu sous le nom de Remy a vraiment secoué les choses au moment où Emera l'a fait signer pour travailler à la bibliothèque."
+    An sad "Ironiquement, la nuisance perpétuel que tu connais sous le nom de Rémi fut une exception révolutionnaire."
 
 # game/anna4.rpy:673
 translate french _call_skipcheck_18_4d3f3918:
 
     # c "In what way?"
-    c "De quelle manière au juste ?"
+    c "De quelle manière ?"
 
 # game/anna4.rpy:675
 translate french _call_skipcheck_18_74e6fa19:
 
     # An normal "Well, a council's aide - particularly one who works in the archives - is usually a member of a species with more dextrous hands. You can't really expect a four legged species to do that kind of job well."
-    An normal "En général, l'assistant d'un conseiller, et surtout celui qui est relégué aux archives, est généralement un dragon habile de ses mains, un véloce par exemple."
-    An "Tu comprends bien qu'une espèce qui n'a que quatre pattes n'est pas vraiment bienvenue dans une bibliothèque."
+    An normal "Eh bien un assistant du conseil - en particulier ceux qui travaillent aux archives - est habituellement une espèce avec des mains habiles. Tu ne t'attends pas à ce qu'une espèce quadripède fasse correctement ce genre de travail."
 
 # game/anna4.rpy:677
 translate french _call_skipcheck_18_04f2322a:
 
     # An face "And he doesn't. It's really been a disaster. He's basically become the laughingstock of the whole town."
-    An face "Et il n'est pas à sa place ! C'est un vrai boulet, il est le bouc émissaire de toute la ville !"
+    An face "Et ce n'est pas le cas. Ce fut un vrai désastre. Il est le bouffon de la ville toute entière."
 
 # game/anna4.rpy:679
 translate french _call_skipcheck_18_3fc6b56d:
