@@ -1258,25 +1258,25 @@ translate french _call_skipcheck_18_04f2322a:
 translate french _call_skipcheck_18_3fc6b56d:
 
     # An sad "When Remy initially got the position, there was a lot of controversy about the subject. Some liked it, some didn't."
-    An sad "Le jour où tout le monde a apprit que Remy était embauché aux archives, ça a fait couler pas mal d'entre. Certains ont aimé l'idée, d'autres pas du tout."
+    An sad "Le jour où Rémi obtint le poste, Il y eut pas mal de polémiques sur le sujet. Certains aimèrent l'idée, d'autres pas du tout."
 
 # game/anna4.rpy:681
 translate french _call_skipcheck_18_79bada66:
 
     # c "I thought that for Emera, politics was a popularity contest. Doing something controversial and divisive like that doesn't really fit that image."
-    c "Moi qui pensais qu'Emera faisait tout pour être populaire, je doute qu'une décision si controversée soit vraiment la meilleure pub qu'elle se soit faire."
+    c "Je pensais que pour Emera, la politique était un concours de popularité. Faire quelque chose d'aussi controversé et clivant ne lui correspond pas."
 
 # game/anna4.rpy:683
 translate french _call_skipcheck_18_0b08dffc:
 
     # An normal "She wasn't like that in the beginning. It certainly caused people to remember her, though, and now that people know her, she has changed her attitude a bit."
-    An normal "Elle ne pensait pas qu'à son image au début. Mais cette décision est restée dans le souvenir collectif, c'est probablement pour ça qu'elle fait plus attention aux yeux du public maintenant."
+    An normal "Elle n'était pas comme ça à ses début. Mais ça a fait que les gens se souviennent d'elle, et maintenant qu'ils la connaissent, elle a un peu changé son attitude."
 
 # game/anna4.rpy:685
 translate french _call_skipcheck_18_0a5c0446:
 
     # An "It was a good move, because it kept her in the spotlight all the time. And she's using it to gain popularity now."
-    An "C'était une bonne décision quand même, car elle lui a permis de rester sous les projecteurs tout le temps. Et aujourd'hui elle se sert de ça pour gagner en popularité."
+    An "C'était une bonne décision, car ça lui a permis de rester sous les projecteurs tout le temps. Et aujourd'hui elle se sert de ça pour gagner en popularité."
 
 # game/anna4.rpy:687
 translate french _call_skipcheck_18_2b22d815:
@@ -1288,25 +1288,25 @@ translate french _call_skipcheck_18_2b22d815:
 translate french _call_skipcheck_18_f3de8142:
 
     # An sad "I don't know why she does it, and frankly, I don't care. You'd have to ask her yourself, but I doubt she'd tell you. I wouldn't expect honesty from someone like her."
-    An sad "J'en sais rien, et je m'en fous. Tu peux toujours lui poser la question, mais quelqu'un comme elle ne te répondra jamais avec franchise."
+    An sad "Je ne sais pas pourquoi elle fait ça, et franchement, je m'en fiche. Tu peux toujours lui demander, je doute qu'elle te réponde. Je ne m'attendrais pas à de l'honnêteté de la part de quelqu'un comme elle."
 
 # game/anna4.rpy:691
 translate french _call_skipcheck_18_22283a89:
 
     # c "Politics always used to be so messy back home... Scandals, arguments, lies. They were everywhere."
-    c "La politique a toujours été un véritable bazar chez nous. Scandales, mensonges, prises de tête... On les voyait partout, même dans la presse people."
+    c "La politique a toujours été un véritable bazar chez nous. Scandales, disputes, mensonges. C'était partout."
 
 # game/anna4.rpy:693
 translate french _call_skipcheck_18_a4e3b15a:
 
     # An "We do get the occasional scandal from time to time, and of course there's always rumors. You can't really make people stop talking."
-    An "On connait bien les scandales nous aussi, il y en a au moins un tous les jours, sans parler des rumeurs. C'est difficile de faire taire les gens."
+    An "On a bien quelques scandales de temps à autre, et bien sûr il y a toujours des rumeurs. C'est difficile de faire taire les gens."
 
 # game/anna4.rpy:695
 translate french _call_skipcheck_18_28333be8:
 
     # c "In a way, I'm glad we don't have all that anymore."
-    c "D'un côté, je suis content de ne plus avoir plus tout ça dans notre monde."
+    c "D'un côté, je suis content de ne plus avoir plus tout ça."
 
 # game/anna4.rpy:697
 translate french _call_skipcheck_18_5f687d6d:
@@ -1318,67 +1318,67 @@ translate french _call_skipcheck_18_5f687d6d:
 translate french _call_skipcheck_18_0b3a944c:
 
     # c "At some point, it just gets tiring. People get loud and argumentative, and those are supposed to be our leaders."
-    c "À un moment donné, ça devient saoûlant. Ces gens donnent l'impression de vivre dans un autre monde, parfois ils sont complètement idiots, et quand tu sais que ce sont eux qui nous dirigent, ça n'arrange rien."
+    c "À un moment donné, ça devient fatigant. Les gens sont bruyants et péremptoires, et ils sont supposés être nos dirigeants."
 
 # game/anna4.rpy:701
 translate french _call_skipcheck_18_b9a6a655:
 
     # An sad "That's not something people would like here. If you are a council member who wants to be popular, you don't engage in that kind of behavior."
-    An sad "Ce n'est pas le genre de chose qui plairait ici non plus. Si tu es dans le conseil et que tu veux plaire au peuple, tu as plutôt intérêt d'avoir un comportement un peu plus exemplaire."
+    An sad "Ce n'est pas le genre de chose qui plairait ici non plus. Si tu es dans le conseil et que tu veux être populaire, tu ne t'adonnes pas à ce genre de comportement."
 
 # game/anna4.rpy:703
 translate french _call_skipcheck_18_c3009a29:
 
     # c "That sounds like a nice change of pace."
-    c "Ça n'a pas l'air mal à première vue."
+    c "Ça m'a l'air d'un bon changement d'attitude."
 
 # game/anna4.rpy:705
 translate french _call_skipcheck_18_c09d41a9:
 
     # An face "Not necessarily, since it also leads to reluctant agreements and sweeping issues that should be talked about under the rug. You know what? That doesn't jive with me."
-    An face "Pas vraiment en fait. Ça conduit à des situations et des sujets qui parfois devraient être traité un peu plus discrètement. Et tu sais quoi ? Au final, ça ne me correspond pas."
+    An face "Pas vraiment, ça conduit à des accords réticents et des problématiques de grande envergure qui parfois devraient être traité un peu plus discrètement. Et tu sais quoi ? Au final, ça ne me correspond pas."
 
 # game/anna4.rpy:707
 translate french _call_skipcheck_18_b56474f2:
 
     # An sad "They like to preserve this fantasy of peace and harmony in our society. For me, it's just so fake."
-    An sad "Ils aiment préserver cette image de paix et d'harmonie dans notre société. Pour moi c'est un tissu de connerie."
+    An sad "Ils aiment préserver cet idéal de paix et d'harmonie dans notre société. Pour moi, ça semble si artificiel."
 
 # game/anna4.rpy:709
 translate french _call_skipcheck_18_46bb97c0:
 
     # An face "People pretend to be something they aren't to conform, because they don't want to stand out. They become faceless puppets, like drones in a hive or cogs in a machine."
-    An face "Les gens essaient de rester dans le moule coûte que coûte, parce qu'ils ne veulent pas se démarquer. Ils ne sont que des marionnettes, de gentilles ouvrières dans une immense ruche, ou des rouages dans une machine."
+    An face "Les gens prétendent être quelque chose qu'ils ne sont pas pour se conformer, parce qu'ils ne veulent pas se démarquer. Ils ne sont que des marionnettes sans visage, des ouvrières dans une ruche, ou des rouages dans une machine."
 
 # game/anna4.rpy:711
 translate french _call_skipcheck_18_32bba1b5:
 
     # An sad "What kind of world do we live in where speaking one’s mind is seen as something bad? I never held back… Now, see where that got me."
-    An sad "Dans quel genre de monde on est là ? Tu n'as pas le droit de dire ce que tu penses sans être mal vu. Je n'ai jamais fermé ma gueule, regarde où j'en suis aujourd'hui."
+    An sad "Dans quel genre de monde nous vivons si tu n'as pas le droit de dire ce que tu penses sans être mal vu ? Je ne me suis jamais retenu... Regarde où j'en suis aujourd'hui."
 
 # game/anna4.rpy:713
 translate french _call_skipcheck_18_82c43b40:
 
     # c "I bet some would argue that it would just be easier to conform, then."
-    c "Certains te diront certainement que ça serait plus facile pour toi de faire comme les autres."
+    c "Je parie que certains te dirontue ça serait plus facile pour toi de faire comme les autres."
 
 # game/anna4.rpy:715
 translate french _call_skipcheck_18_3ebe4391:
 
     # An normal "I could never do that. And besides, I don't want to. There is this thing called \"integrity\", and if there's one thing this society needs, that's it."
-    An normal "Nan, jamais je ne pourrais m'abaisser à ça. Il y a un truc qui s'appelle \"l'integrité\", et crois moi, ce monde en a bien besoin."
+    An normal "Je ne pourrais jamais faire ça. Et puis, je ne veux pas. Il y a un truc qui s'appelle \"l'integrité\", et crois moi, cette société en a bien besoin."
 
 # game/anna4.rpy:717
 translate french _call_skipcheck_18_6b9a06e9:
 
     # c "Now you're starting to sound like a politician."
-    c "On dirait que tu parles comme une politicienne."
+    c "Là tu commences à ressembler à une politicienne."
 
 # game/anna4.rpy:719
 translate french _call_skipcheck_18_f0856ae9:
 
     # An face "If that's what your politicians sound like, maybe they aren't so bad. Sometimes, I just want to walk up to some of ours and shake them until they wake up and accept the truth."
-    An face "Si les politiciens de chez toi ressemblaient à ça, ils n'étaient peut-être pas si mauvais dans le fond. Tu sais, il y a des fois ou j'ai juste envie d'en secouer quelques uns pour les réveiller, et leur faire accepter la vérité."
+    An face "Si les politiciens de chez toi ressemblent à ça, ils n'étaient peut-être pas si mauvais. Des fois, j'ai juste envie d'en secouer quelques uns jusqu'à ce qu'ils se réveillent, et acceptent la vérité."
 
 # game/anna4.rpy:721
 translate french _call_skipcheck_18_7cc47b82:
@@ -1390,13 +1390,13 @@ translate french _call_skipcheck_18_7cc47b82:
 translate french _call_skipcheck_18_a70c49a9:
 
     # An normal "I'm a scientist. Truth are facts that are empirically verifiable by science and tests. After all, the tests I do in my job are to find out if assumptions are true or not."
-    An normal "Je suis une scientifique. La vérité est en grande partie l'une des raisons d'être de la science. Après tout, mon travail consiste à découvrir si les hypothèses sont vraies ou non."
+    An normal "Je suis une scientifique. La vérité est l'ensemble des faits vérifiables empiriquement par la science et les tests. Après tout, mon travail consiste à découvrir si les hypothèses sont vraies ou non."
 
 # game/anna4.rpy:725
 translate french _call_skipcheck_18_4edba913:
 
     # c "I suppose if you asked different people, their definitions of truth would be very different."
-    c "Je suppose que si tu demandais à plusieurs personnes au hasard, leurs réponses à la question seraient certainement très variables."
+    c "Je suppose que si tu demandais à plusieurs personnes au hasard, leurs définitions de la vérité seraient très différentes."
 
 # game/anna4.rpy:727
 translate french _call_skipcheck_18_b073898c:
@@ -1408,7 +1408,7 @@ translate french _call_skipcheck_18_b073898c:
 translate french _call_skipcheck_18_901a10e9:
 
     # An face "That's something our politicians would say."
-    An face "C'est ce qu'un politicien de chez nous dirait."
+    An face "C'est ce que nos politiciens diraient."
 
 # game/anna4.rpy:737
 translate french _call_skipcheck_18_998dda8e:
@@ -1420,19 +1420,19 @@ translate french _call_skipcheck_18_998dda8e:
 translate french _call_skipcheck_18_d66751e3:
 
     # An sad "But good intentions alone don't get us anywhere. If we all just followed everyone's ill-informed good intentions, it'd be chaos."
-    An sad "Mais ce n'est pas parce que tu es plein de bonnes intention que tu vas vers la vérité. Tu imagine si on suivait un type plein de bonnes intention mais très mal informé ? On irait droit dans le mur."
+    An sad "Mais les bonnes intention ne nous mènent nul part. Si on suivait tous les types plein de bonnes intention mais très mal informé, Ce serait le chaos."
 
 # game/anna4.rpy:741
 translate french _call_skipcheck_18_1ec5c993:
 
     # An face "Just look at me, I'm a victim of this. Stupid backwards laws made on so-called \"good intentions\" are what will put me in prison."
-    An face "Regarde justement, je suis une victime de cette manière de penser. Des lois débiles et rétrogrades mais fondées sur de \"bonnes intentions\" font me balancer en prison."
+    An face "Regarde moi, je suis une victime de cette manière de penser. Des lois débiles et rétrogrades fondées sur de \"bonnes intentions\" vont m'envoyer en prison."
 
 # game/anna4.rpy:743
 translate french _call_skipcheck_18_9a22ef9a:
 
     # An sad "That kind of thinking doesn't help in my work, because in the end, feelings can be wrong."
-    An sad "Ce n'est pas le genre de réflexion qui m'aide dans mon travail. Au final, les sentiments et les bonnes intentions peuvent êtres erronnés."
+    An sad "Ce genre de réflexion ne m'aide pas dans mon travail. Car au final, les sentiments peuvent êtres erronnés."
 
 # game/anna4.rpy:745
 translate french _call_skipcheck_18_585cfc59:
