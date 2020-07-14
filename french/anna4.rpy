@@ -1462,19 +1462,19 @@ translate french _call_skipcheck_18_ec53b8d7:
 translate french _call_skipcheck_18_dbb8391a:
 
     # c "It's a philosophical phrase. It means that, ultimately, we can't really know anything with absolute certainty."
-    c "C'est de la philosophie. Ça veux dire qu'en fin de compte, nous ne pouvons rien savoir avec une absolue certitude."
+    c "C'est de la philosophie. Ça veux dire qu'en fin de compte, nous ne pouvons rien savoir avec une certitude absolue."
 
 # game/anna4.rpy:769
 translate french _call_skipcheck_18_b0225365:
 
     # An sad "Yeah, philosophy is nice and all, but that doesn't really help me when I'm in the lab."
-    An sad "Oui, c'est sympa la philosophie. Mais dans mon labo ça ne m'aide pas vraiment."
+    An sad "Oui, c'est sympa la philosophie, mais ça ne m'aide pas vraiment quand je suis dans mon labo."
 
 # game/anna4.rpy:774
 translate french _call_skipcheck_18_ab2da13c:
 
     # An "You do seem to like talking about this kind of stuff, though."
-    An "Tu aimes bien parler de tout ça on dirait."
+    An "Tu aimes bien parler de ce genre de choses on dirait."
 
 # game/anna4.rpy:776
 translate french _call_skipcheck_18_aac01a77:
@@ -1486,43 +1486,43 @@ translate french _call_skipcheck_18_aac01a77:
 translate french _call_skipcheck_18_67f7bfa2:
 
     # An face "You're an ambassador so you can discuss the nature of truth with different cultures? You know, if you asked the wrong kind of person, these kinds of discussions could turn very ugly."
-    An face "Tu es ambassadeur, donc tu peux parler de la nature de la vérité avec des gens de différentes cultures ? Tu sais ici, aborde ce sujet avec la mauvaise personne et ça peut mal finir."
+    An face "Tu es ambassadeur, donc tu peux parler de la nature de la vérité avec des gens de différentes cultures ? Tu sais, si tu abordes ce sujet avec la mauvaise personne, ça peut mal finir."
 
 # game/anna4.rpy:780
 translate french _call_skipcheck_18_7399b146:
 
     # c "I'm certainly here to learn about what you're thinking and how your society works on a deeper level. Of course I wouldn't just walk up to someone on the street and start talking."
-    c "Je suis ici à la base pour apprendre à vous connaître, vous et votre société. Mais tout de même je ne parlerai pas de n'importe quoi avec le premier type croisé dans la rue."
+    c "Je suis ici à la base pour apprendre à vous connaître, et comment votre société fonctionne en profondeur. Mais bien sûr je ne parlerai pas de n'importe quoi avec le premier type croisé dans la rue."
 
 # game/anna4.rpy:782
 translate french _call_skipcheck_18_4ee5fba7:
 
     # An sad "Maybe you should be talking with someone in social studies, then."
-    An sad "Tu devrais parler avec quelqu'un qui a étudié dans le social, alors."
+    An sad "Tu devrais en parler avec quelqu'un qui a étudié en sociologie, alors."
 
 # game/anna4.rpy:784
 translate french _call_skipcheck_18_904c6800:
 
     # c "Not necessarily. Even if someone like that gave me their opinion, it's still important to hear the people's voices themselves."
-    c "Pas nécessairement. Tu sais, même si quelqu'un du social me donnait son avis, c'est toujours important d'avoir l'avis des gens eux même."
+    c "Pas nécessairement. Tu sais, même si quelqu'un de ce milieu me donnait son avis, c'est toujours important d'avoir l'avis des gens eux même."
 
 # game/anna4.rpy:786
 translate french _call_skipcheck_18_c7bf314e:
 
     # An face "Okay. Anything else you want to know?"
-    An face "Je vois. Il y a peut-être autre chose que tu aimerais savoir ?"
+    An face "Je vois. Autre chose que tu aimerais savoir ?"
 
 # game/anna4.rpy:788
 translate french _call_skipcheck_18_4ddd52e1:
 
     # c "How much do you really like me?"
-    c "Est-ce que tu m'apprécies ?"
+    c "Au combien tu m'apprécies ?"
 
 # game/anna4.rpy:790
 translate french _call_skipcheck_18_fe13535c:
 
     # An sad "That's not the kind of question I was expecting."
-    An sad "Euh... C'est pas vraiment à ça que je pensais en fait."
+    An sad "Ce n'est pas vraiment à ça que je pensais en fait."
 
 # game/anna4.rpy:792
 translate french _call_skipcheck_18_84797806:
@@ -1558,25 +1558,25 @@ translate french _call_skipcheck_18_b4a328c8:
 translate french _call_skipcheck_18_88ab5d60:
 
     # An face "You want to use emotionally laden words to describe our relationship? We've met a few times, and that does it for you?"
-    An face "Tu veux vraiment employer des mots touchants pour parler de notre relation ? On s'est rencontré quelques fois, et pour toi ça suffit pour parler de relation ?"
+    An face "Tu veux vraiment employer des mots touchants pour parler de notre relation ? On s'est rencontré quelques fois, et pour toi ça suffit ?"
 
 # game/anna4.rpy:804
 translate french _call_skipcheck_18_e784e70e:
 
     # c "This isn't about me. Before anything happens to either of us, I just want to know."
-    c "Je ne parle pas pour moi. Avant qu'il n'arrive quelque chose à toi ou à moi, je veux le savoir."
+    c "Je ne parle pas pour moi. Avant qu'il n'arrive quelque chose à l'un de nous, je veux le savoir."
 
 # game/anna4.rpy:806
 translate french _call_skipcheck_18_c833ae37:
 
     # An "You want me to tell you how I feel about you?"
-    An "Tu veux vraiment que je te dise ce que je ressens pour toi ?"
+    An "Tu veux que je te dise ce que je ressens pour toi ?"
 
 # game/anna4.rpy:808
 translate french _call_skipcheck_18_e5742ad6:
 
     # An sad "Even if something happened between us, you know it's not made to last. You will go back to your own world, and I'll probably spend the next few years in prison."
-    An sad "[player_name], même si il y avait un truc entre nous, tu sais que ça ne peut pas durer. Tu vas retourner dans ton monde, et moi je vais finir derrière les barreaux."
+    An sad "Même si il y avait un truc entre nous, tu sais que ça ne peut pas durer. Tu vas retourner dans ton monde, et moi je vais sûrement passer les prochaines années en prison."
 
 # game/anna4.rpy:810
 translate french _call_skipcheck_18_b262cb16:
@@ -1630,31 +1630,31 @@ translate french anna4skip2_4052a8d2:
 translate french anna4skip2_b139f60c:
 
     # An sad "Why else would you follow my every whim?"
-    An sad "Pour quelle autre raison tu te serais plié à tout mes caprices."
+    An sad "Pour quelle autre raison tu aurais accepté tout mes caprices ?"
 
 # game/anna4.rpy:838
 translate french anna4skip2_c0dc9e7c:
 
     # An normal "Not that I mind. We both got what we wanted. And now I even kinda like you."
-    An normal "Non pas que ça me dérange. On a eut ce qu'on voulait tout les deux. Et je dirais même que je t'apprécie un peu..."
+    An normal "Non pas que ça me dérange. On a eu ce qu'on voulait tout les deux. Et je t'apprécie même un peu à présent..."
 
 # game/anna4.rpy:840
 translate french anna4skip2_8c981368:
 
     # An smirk "Usually, people stay away from me after the first date, because that's apparently all it takes. Not for you, I guess."
-    An smirk "En général, les gens restent éloignés de moi après le premier rencard. Apparement il n'y a que comme ça qu'on me supporte. Mais toi non visiblement."
+    An smirk "En général, les gens restent éloignés de moi après le premier rencard, car c'est tout ce qui leur faut. Mais toi non visiblement."
 
 # game/anna4.rpy:848
 translate french anna4skip2_e6b344a4:
 
     # An smirk "I guess we feel the same way, then."
-    An smirk "Oh, on dirait qu'on ressens la même chose l'un pour l'autre, alors."
+    An smirk "On dirait qu'on ressens la même chose l'un pour l'autre, alors."
 
 # game/anna4.rpy:854
 translate french anna4skip2_73a3d83e:
 
     # An "So, you met with me multiple times just because it was the right thing to do?"
-    An "Donc, tu m'as supporté toute ces fois simplement parce que tu voulais rester cool avec moi ?"
+    An "Donc, tu m'as supporté toute ces fois simplement parce que c'était la bonne chose à faire ?"
 
 # game/anna4.rpy:856
 translate french anna4skip2_56d0beb3:
@@ -1672,19 +1672,19 @@ translate french anna4skip2_9d609545:
 translate french anna4skip2_9f4c3685:
 
     # c "You sounded upset and I wouldn't let anyone in such a situation down. I guess I don't like you the same way you like me, though."
-    c "Tu avais besoin de parler, et je ne laisse pas tomber les gens quand ils en ont besoin. Mais je suppose qu'on ne ressens pas la même chose l'un pour l'autre."
+    c "Tu avais l'air mal, et je ne laisserais pas tomber qui que ce soit dans une telle situation. Mais je suppose qu'on ne ressens pas la même chose l'un pour l'autre."
 
 # game/anna4.rpy:862
 translate french anna4skip2_2a273f16:
 
     # An face "You're such a do-gooder. You spent enough time with me that I started to care, and then it turns out it's just platonic."
-    An face "Quelle âme charitable. Tu as passé tout ce temps avec moi, et le jour ou je commence à éprouver un truc pour toi, tu me dis que tu t'en fous."
+    An face "Quelle âme charitable. Tu as passé suffisament de temps avec moi que j'ai commencé à tenir à toi, et il s'est avéré que c'était juste platonique."
 
 # game/anna4.rpy:864
 translate french anna4skip2_230bcb88:
 
     # An sad "You know what? I don't deserve you. Find yourself someone who is as nice as you are and be happy."
-    An sad "Tu sais quoi, je ne te mérite pas alors. Trouve toi quelqu'un d'aussi sympa que toi, et sois heureux avec cette personne."
+    An sad "Tu sais quoi ? Je ne te mérite pas alors. Trouve toi quelqu'un d'aussi sympa que toi, et sois heureux avec cette personne."
 
 # game/anna4.rpy:866
 translate french anna4skip2_be761c8f:
@@ -1720,7 +1720,7 @@ translate french anna4skip2_7607c97c:
 translate french anna4skip2_8602b865:
 
     # An "The big fireworks show at the end of the summer festival. It may be the last one I'll ever see. If the police don't arrest me beforehand, that is."
-    An "Le grand feu d'artifice, le final du festival d'été. C'est peut-être le dernier que je verrai, si la police ne m'arrête pas avant."
+    An "Le grand feu d'artifice, le final du festival d'été. C'est peut-être le dernier que je verrai. Si la police ne m'arrête pas avant, Ce le sera."
 
 # game/anna4.rpy:878
 translate french anna4skip2_dfc6aaca:
@@ -1732,13 +1732,13 @@ translate french anna4skip2_dfc6aaca:
 translate french anna4skip2_b6123621:
 
     # An "I figured as much. Don't worry about it, though. I can see it on my own. It just would've been nice to have some company."
-    An "Ouais. Mais au pire ne t'inquiète pas, j'irais toute seule. C'est juste que j'aurais bien aimé avoir un peu de bonne compagnie."
+    An "Je m'en doutais. Mais ne t'inquiète pas pour ça. Je peux le voir toute seule. C'est juste que j'aurais bien aimé avoir un peu de bonne compagnie."
 
 # game/anna4.rpy:882
 translate french anna4skip2_e9412bc9:
 
     # An "Anyway, I guess it's time for me to go. There is plenty of stuff I have to take care of before they take me in. Research papers, the facility and other things."
-    An "Enfin bon. Je vais te laisser maintenant. J'ai beaucoup de truc à faire avant qu'on vienne me cueillir. Les documents sur mes recherches, préparer l'usine pour mon départ et tout ça."
+    An "Enfin bon. Je dois y aller. J'ai beaucoup de truc à régler avant qu'ils m'embarquent. Les documents sur mes recherches, le colmplexe et tout ça."
 
 # game/anna4.rpy:884
 translate french anna4skip2_6d5c66fb:
@@ -1756,7 +1756,7 @@ translate french anna4skip2_fb55aece:
 translate french a4romance_9ea70273:
 
     # An "You know, this might be our last opportunity to do something. Why not make it worth it?"
-    An "Tu sais... C'est peut-être notre dernière occasion de faire quelque chose. Pourquoi ne pas rendre ce moment inoubliable ?"
+    An "Tu sais, c'est peut-être notre dernière occasion de faire quelque chose. Pourquoi ne pas rendre ce moment inoubliable ?"
 
 # game/anna4.rpy:928
 translate french a4romance_c8682f7c:
@@ -1768,49 +1768,37 @@ translate french a4romance_c8682f7c:
 translate french a4romance_26eefe0a:
 
     # c "Yes."
-    c "Ça veux dire oui..."
+    c "Oui."
 
 # game/anna4.rpy:932
 translate french a4romance_55fffe1d:
 
     # m "She strode forward, reaching out with a claw before she hooked it into the neckline of my shirt."
-    m "Elle s'est approchée de moi et a approché une griffe de mon corps qu'elle a accrochée dans l'encolure de ma chemise."
+    m "Elle s'approcha alors de moi, me saisissant avenc une griffe qu'elle a accrochée dans l'encolure de ma chemise."
 
 # game/anna4.rpy:940
 translate french a4romance_506c11b1:
 
     # c "What are you doing?"
-    c "Attends, qu'est-ce que tu fais ?..."
+    c "Attends, qu'est-ce que tu fais ?"
 
 # game/anna4.rpy:942
 translate french a4romance_0b4ea39d:
 
     # An normal "Well, we have to take these off, don't we?"
-    An normal "Il faut bien que je vire tout ça, non ?"
+    An normal "Il faut bien enlever tout ça, non ?"
 
 # game/anna4.rpy:944
 translate french a4romance_bc8692f9:
 
     # c "Not like that! You'll ruin them. I'll do it."
-    c "Attends nan, tu vas déchirer ma chemise !"
+    c "Pas comme ça, tu vas la déchirer. Je vais le faire."
 
 # game/anna4.rpy:946
 translate french a4romance_576f6194:
 
     # An face "Alright, alright. So fussy."
-    An face "D'accord, d'accord, t'es si délicat..."
-
-    c "Et au fait, ta combinaison pour m'approcher ? Les microbes tout ça, je suis un vrai nid à bactérie tu te rappelles ?"
-
-    An smirk "..."
-
-    hide anna with dissolve
-
-    play sound "fx/impact.wav"
-
-    m "Avant que je puisse dire ou faire quoi que ce soit de plus, la véloçe m'a littéralement et fougueusement sauté dessus."
-
-    An "Pas besoin de combinaison pour ces tests là, mon cobaye à moi..."
+    An face "D'accord, d'accord. Tu es si difficile."
 
 # game/anna4.rpy:978
 translate french a4romance_a09c6f72:
@@ -1840,7 +1828,7 @@ translate french a4romance_e9647dac:
 translate french a4romance_9343dc67:
 
     # An "Well, I guess it's time for me to go, then. There is plenty of stuff I have to take care of before they take me in. Research papers, the facility and other things."
-    An "Bon, dans ce cas je vais te laisser. J'ai encore pas mal de trucs à faire avant que la police ne vienne me cueillir. Les documents sur mes recherches, remettre le labo en place, tout ça tout ça..."
+    An "Bon, Je pense que vais y aller, alors. J'ai beaucoup de truc à régler avant qu'ils m'embarquent. Les documents sur mes recherches, le colmplexe et tout ça."
 
 # game/anna4.rpy:988
 translate french a4romance_6d5c66fb:
@@ -1878,7 +1866,7 @@ translate french strings:
 
     # anna4.rpy:335
     old "Tell her you know about her cancer. {image=image/ui/status/heardaboutcancer.png}"
-    new "Dis lui que tu es au courant pour son cancer. {image=image/ui/status/heardaboutcancer.png}"
+    new "Lui dire que tu es au courant pour son cancer. {image=image/ui/status/heardaboutcancer.png}"
 
     # anna4.rpy:729
     old "Truth is what I feel is right."
@@ -1886,23 +1874,23 @@ translate french strings:
 
     # anna4.rpy:729
     old "I share your view, actually."
-    new "J'aime beaucoup ton point de vue en fait."
+    new "Je partage ton point de vue, en fait."
 
     # anna4.rpy:729
     old "I know that I know nothing."
-    new "Je sais que je n'en sais rien."
+    new "Je sais que je ne sais rien."
 
     # anna4.rpy:828
     old "I was smitten with you since the first time I saw you."
-    new "La vérité, c'est que je suis tombé amoureux de toi dès notre première rencontre."
+    new "Je suis tombé amoureux de toi dès notre première rencontre."
 
     # anna4.rpy:828
     old "I don't hate you, too."
-    new "Je ne te déteste pas moi aussi."
+    new "Je ne te déteste pas non plus."
 
     # anna4.rpy:828
     old "I just did it to be nice."
-    new "Je voulais juste rester cool avec toi."
+    new "Je voulais juste être sympa avec toi."
 
     # anna4.rpy:924
     old "If you say so."
@@ -1910,4 +1898,4 @@ translate french strings:
 
     # anna4.rpy:924
     old "I can't."
-    new "Nan, désolé."
+    new "Non, désolé."
