@@ -10,19 +10,19 @@ translate french anna5_82ee252e:
 translate french anna5_1fef7ef3:
 
     # An smirk "Hey, [player_name]. Looks like you're ready to go."
-    An smirk "Salut, [player_name]. On dirait que tu es prêt ?"
+    An smirk "Salut, [player_name]. On dirait que tu es prêt à y aller."
 
 # game/anna5.rpy:22
 translate french anna5_bb0a1a2b:
 
     # c "I didn't think you'd want to go to a community event like this one."
-    c "Je ne pensais pas que tu voudrais assister à un évènement tel que ce feu d'artifice."
+    c "Je ne pensais pas que tu voudrais assister à un évènement comme celui-ci."
 
 # game/anna5.rpy:24
 translate french anna5_43fdeb9d:
 
     # An normal "Anything can be fun with the right company."
-    An normal "Tout peut devenir agréable même pour moi, du moment que j'y suis en bonne compagnie."
+    An normal "Tout peut devenir agréable du moment que j'y suis en bonne compagnie."
 
 # game/anna5.rpy:26
 translate french anna5_297bd20d:
@@ -34,25 +34,25 @@ translate french anna5_297bd20d:
 translate french anna5_d6dc6fe8:
 
     # An sad "I haven't seen the fireworks in years. With all the crazy shit that's happened to me recently, maybe they'll be a reminder of better days."
-    An sad "Je n'ai pas assisté au feu d'artifice depuis des années. Avec toute la merde qui me tombe dessus depuis quelques jours, ça me rappellera peut-être des jours meilleurs."
+    An sad "Je n'ai pas assisté au feu d'artifice depuis des années. Avec toute la merde qui m'est tombée dessus récemment, ça me rappellera peut-être des jours meilleurs."
 
 # game/anna5.rpy:30
 translate french anna5_b5d41bd1:
 
     # c "Better days? You don't usually talk about yourself like that..."
-    c "Des jours meilleurs ? D'habitude tu ne parle pas de toi comme ça..."
+    c "Des jours meilleurs ? D'habitude tu ne parles pas de toi comme ça..."
 
 # game/anna5.rpy:32
 translate french anna5_a274535f:
 
     # An normal "It's because I just don't give a damn anymore. Who cares if you know that about me? Who cares if the entire town knows? I certainly don't."
-    An normal "C'est parce que j'en fais plus de cas. Peu importe que toi, ou même toute la ville le sache ou pas. Personellement je m'en fous."
+    An normal "C'est parce que j'en fais plus cas. Qui se fout que toi, ou même toute la ville le sache ou pas ? Personellement je m'en fous."
 
 # game/anna5.rpy:34
 translate french anna5_f90b6ff0:
 
     # An "These days, I'm just trying to make the most of whatever is left."
-    An "Ces derniers temps, j'essaie juste de profiter un max de ce qui me reste."
+    An "Ces derniers temps, j'essaie juste de profiter au maximum de ce qui me reste."
 
 # game/anna5.rpy:36
 translate french anna5_56b645e7:
@@ -64,7 +64,7 @@ translate french anna5_56b645e7:
 translate french anna5_8aa8fa3e:
 
     # m "After a few minutes of walking, we arrived at a rather empty looking area near the edge of town."
-    m "Après quelques minutes passées à marcher, on est arrivé dans un endroit semblant plutôt désert, près de la périphérie de la ville."
+    m "Après quelques minutes passées à marcher, on arriva dans un endroit plutôt désert, près de la périphérie de la ville."
 
 # game/anna5.rpy:48
 translate french anna5_20e2d7dc:
@@ -94,37 +94,37 @@ translate french anna5_b493401c:
 translate french anna5_53482720:
 
     # c "Or maybe you just don't want to be seen with me."
-    c "Ou peut-être que tu ne veux pas qu'on soit vu ensemble..."
+    c "Ou peut-être que tu ne veux pas qu'on soit vu ensemble."
 
 # game/anna5.rpy:58
 translate french anna5_0d382a65:
 
     # An normal "No, that's not it. Actually, that could be quite fun. It would only be another reason for people to be jealous of me."
-    An normal "Nan ! Au contraire, ça pourrait m'amuser encore plus ! Ça leur donnerai une raison de plus d'être jaloux de moi en fait !"
+    An normal "Non, ce n'est pas ça. Enfait, ça pourrait être amusant. Ça leur donnerait une raison de plus d'être jaloux de moi."
 
 # game/anna5.rpy:60
 translate french anna5_126dd557:
 
     # c "Oh, I think it's starting."
-    c "J'imagine... Oh, on dirait que ça commence."
+    c "Oh, on dirait que ça commence."
 
 # game/anna5.rpy:64
 translate french anna5_b786e88a:
 
     # m "We waited quietly as the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "On a attendu tranquillement, alors que le silence de la nuit nous enveloppais agréablement. Et pusi j'ai entendu le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle a éclaté dans un motif aux couleurs vives."
+    m "On attendit tranquillement, alors que le silence de la nuit nous enveloppait. Et puis, j'entendis le sifflement de la première fusée s'élevant dans le ciel nocturne, après quoi elle éclata dans un motif de couleurs."
 
 # game/anna5.rpy:66
 translate french anna5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "D'autres fusées ont suivies, leurs déflagrations résonnant tout autour de nous."
+    m "D'autres fusées suivirent, leurs déflagrations résonnant à travers la contrée."
 
 # game/anna5.rpy:79
 translate french anna5_3de6ab5e:
 
     # m "Suddenly, a terrible realization hit me."
-    m "Alors que les explosions tonnaient à mes oreilles, j'ai été frappé par une terrible prise de conscience."
+    m "Mais d'un coup, je fus frappé par une terrible prise de conscience."
 
 # game/anna5.rpy:83
 translate french anna5_ba74c7f9:
