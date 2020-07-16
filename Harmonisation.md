@@ -14,7 +14,7 @@ Ce fichier contient à certain nombre de consignes à suivre afin d'assurer une 
 Pour le cinquième rendez vous de chaque personnage, il y a un passage commun à tous qui doit être traduit uniformément. je propose ça pour la traduction de ces parties. Hésitez pas à faire des suggestions.
 
     # m "Suddenly, a terrible realization hit me."
-    m "Soudain, je réalisai quelque chose de terrible."
+    m "Soudain, une réalisation terrible me frappa."
 
 
     # m "Considering how public of an event this was and how I was told multiple times that everyone would be watching the fireworks, now would be the best time for Reza to do anything he planned to do."
@@ -22,7 +22,7 @@ Pour le cinquième rendez vous de chaque personnage, il y a un passage commun à
 
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever need."
-    m "Non seulement le village était basiquement désert, mais le bruit des feux d'artifices couvrait également les tirs d'armes à feu. Il pouvait agir en toute sécurité."
+    m "Non seulement le village était simplement déserté, mais le bruit des feux d'artifice couvrirait également les tirs d'armes à feu, lui donnant toute la sécurité dont il aurait besoin.""
 
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
