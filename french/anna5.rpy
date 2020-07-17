@@ -124,25 +124,25 @@ translate french anna5_07037632:
 translate french anna5_3de6ab5e:
 
     # m "Suddenly, a terrible realization hit me."
-    m "Mais d'un coup, je fus frappé par une terrible prise de conscience."
+    m "Soudain, je réalisai quelque chose de terrible."
 
 # game/anna5.rpy:83
 translate french anna5_ba74c7f9:
 
-    # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Étant donné le symbole que ce feu d'artifice représentait au yeux des habitants, et me souvenant avoir entendu à plusieurs reprise que tout le monde y assistait, c'était une opportunité de choix pour Reza pour accomplir sa mission."
+    # m "Considering how public of an event this was and how I was told multiple times that everyone would be watching the fireworks, now would be the best time for Reza to do anything he planned to do."
+    m "En considérant que cet évènement était public et le nombre de fois où on m'a dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il a planifié."
 
 # game/anna5.rpy:85
 translate french anna5_ef9cdfc8:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever need."
-    m "Non seulement la ville était quasiment déserte, mais il pouvait couvrir le son de ses tirs par les explosions des feux d'artifices. Il pouvait agir en toute sécurité."
+    m "Non seulement le village était basiquement désert, mais le bruit des feux d'artifices couvrait également les tirs d'armes à feu. Il pouvait agir en toute sécurité."
 
 # game/anna5.rpy:87
 translate french anna5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Comme le portail avait été réparé par le mystérieux humain masqué que j'avais rencontré, c'était le moment idéal pour que Reza s'enfuie. Et j'étais le seul à le savoir."
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 # game/anna5.rpy:89
 translate french anna5_91355740:
@@ -154,49 +154,49 @@ translate french anna5_91355740:
 translate french anna5_fe90c819:
 
     # An face "Really? The fireworks just started."
-    An face "Sérieux ? Ça vient à peine de commencer !"
+    An face "Sérieux ? Les feux d'artifice viennent à peine de commencer !"
 
 # game/anna5.rpy:93
 translate french anna5_78b2c8cd:
 
     # c "I know where Reza is. We need to stop him."
-    c "Je sais où se trouve Reza en ce moment, on doit l'arrêter."
+    c "Je sais où se trouve Reza en ce moment. On doit l'arrêter."
 
 # game/anna5.rpy:95
 translate french anna5_3e88e5d3:
 
     # An disgust "Speak for yourself. This isn't my responsibility."
-    An disgust "Parle pour toi, ce ne sont pas mes affaires."
+    An disgust "Parle pour toi, ce n'est pas mon problème."
 
 # game/anna5.rpy:97
 translate french anna5_2b129582:
 
     # c "This is much bigger than you. Are you going to help me or not?"
-    c "C'est bien au dela de tes affaires Anna. Alors, tu vas m'aider ou pas ?"
+    c "Ca va au delà de tes préoccupations. Alors, tu vas m'aider ou pas ?"
 
 # game/anna5.rpy:99
 translate french anna5_63688e5d:
 
     # An sad "Alright, just for you. What do you want me to do, fight him?"
-    An sad "Okay, mais c'est juste pour toi. Qu'est-ce que tu attends de moi, que je le combatte ?"
+    An sad "D'accord, mais c'est juste pour toi. Qu'est-ce que tu attends de moi, que je le combatte ?"
 
 # game/anna5.rpy:101
 translate french anna5_a10fc8fe:
 
     # c "I'm not sure if that would be such a good idea. I want to try talking to him first."
-    c "Nan pas vraiment, je veux d'abord essayer de lui parler."
+    c "Je ne crois pas que ce soit une bonne idée. Je veux d'abord essayer de lui parler."
 
 # game/anna5.rpy:103
 translate french anna5_53dc70d5:
 
     # An "If you can buy us some time, maybe I could get some help."
-    An "Si tu peux faire gagner un peu de temps, je peux peut-être nous chercher de l'aide."
+    An "Si tu peux nous faire gagner un peu de temps, je pourrais peut-être aller chercher de l'aide."
 
 # game/anna5.rpy:105
 translate french anna5_0bc3274a:
 
     # c "That would be perfect. He'll be at the portal. Let's go!"
-    c "Ça serait parfait. Tu nous trouveras au portail, en avant !"
+    c "Ça serait parfait. Il sera au portail. En avant !"
 
 # game/anna5.rpy:117
 translate french _call_endingjustafewminuteslater_1_5233b371:
