@@ -58,12 +58,12 @@ Pour l'échange avec Reza:
 
 
     # m "He pulled out his gun, not sure which one of us he should be aiming at."
-    m "Il a dégainé son arme, sans savoir lequel d'entre nous viser."
+    m "Il dégaina son arme, sans savoir lequel d'entre nous viser."
 
 
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz "Laissez moi juste partir, et j'oublierai tout ce qui vient de se passer."
+    Rz "Laissez moi partir, et j'oublierai tout ce qui vient de se passer."
 
 
 
@@ -88,12 +88,12 @@ Pour l'échange avec Reza:
 
 
     # m "Suddenly, the Administrator came out of the shadows in the hallway behind Reza."
-    m "Soudain, l'administrateur sortit de l'ombre, dans le couloir derrière Reza."
+    m "Soudain, ce fut au tour de l'administrateur de sortir de l'ombre, dans le couloir derrière Reza."
 
 
 
     # As "No, they belong to me."
-    As "Non, tout ça n'appartient qu'à moi."
+    As "Non, tout ça m'appartient à moi."
 
 
 
