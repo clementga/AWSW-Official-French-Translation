@@ -208,55 +208,55 @@ translate french _call_endingjustafewminuteslater_1_5233b371:
 translate french _call_endingjustafewminuteslater_1_c7a80a23:
 
     # m "Suddenly, Maverick and Anna appeared next to me."
-    m "Soudain, j'ai vu Anna et Maverick arriver à mes côtés."
+    m "Soudain, je vis Anna et Maverick arriver à mes côtés."
 
 # game/anna5.rpy:130
 translate french _call_endingjustafewminuteslater_1_40a50c3c:
 
     # Rz angry "You planned this, didn't you, [player_name]?"
-    Rz angry "Tu avais tout prévu depuis le début hein, [player_name] ?"
+    Rz angry "C'est toi qui a prévu ça, n'est-ce pas, [player_name] ?"
 
 # game/anna5.rpy:132
 translate french _call_endingjustafewminuteslater_1_0599b8cd:
 
     # Rz "Traitor!" with hpunch
-    Rz "Traitre !" with hpunch
+    Rz "Sale traître !" with hpunch
 
 # game/anna5.rpy:134
 translate french _call_endingjustafewminuteslater_1_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Et dire que je t'ai laissé m'embobiner avec ton petit numéro. Juste parce que je pensais qu'il te restait une part d'humanité."
+    Rz "Et dire que je t'ai laissé m'embobiner avec ton petit numéro ! Juste parce que je pensais qu'il restait une once d'humanité en toi..."
 
 # game/anna5.rpy:142
 translate french _call_endingjustafewminuteslater_1_bdbf243c:
 
     # m "He pulled out his gun, not sure which one of us he should be aiming at."
-    m "Il a dégainé son arme, sans savoir lequel d'entre nous viser."
+    m "Il dégaina son arme, sans savoir lequel d'entre nous viser."
 
 # game/anna5.rpy:144
 translate french _call_endingjustafewminuteslater_1_561cf27e:
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz "Laissez moi partir, et j'oublie tout ce qui s'est passé, okay ?"
+    Rz "Laissez moi partir, et j'oublierai tout ce qui vient de se passer."
 
 # game/anna5.rpy:146
 translate french _call_endingjustafewminuteslater_1_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c "Tu as six balles et on est trois. Tu crois pouvoir nous vaincre, Reza ? Tu crois vraiment que ça vaut le coup de risquer ta peau pour ça ?"
+    c "Tu as six balles pour trois personnes. Penses-tu vraiment que tu vas y arriver, Reza ? Tu penses que ça vaut le coup de risquer ta vie pour ça ?"
 
 # game/anna5.rpy:148
 translate french _call_endingjustafewminuteslater_1_6281e04a:
 
     # Rz angry "I've been risking my life for this every day for the last two weeks. What did you do during that time? Sip champagne in your nice apartment?"
-    Rz angry "Je risque ma peau chaque jour depuis deux semaines ! Et qu'est-ce que t'as foutu pendant tout ce temps, hein ? À part te la couler douce dans ton superbe appartement !"
+    Rz angry "J'ai risqué ma vie chaque jour durant les deux dernières semaines pour ça. Qu'est-ce que tu as fait pendant ce temps ? Siroter du champagne dans ton superbe appartement ?"
 
 # game/anna5.rpy:150
 translate french _call_endingjustafewminuteslater_1_892229f8:
 
     # Rz "Besides, this generator and the whole building came from our time."
-    Rz "Et puis ce générateur et ce complexe nous appartiennent, ils sont de notre époque !"
+    Rz "De plus, ce générateur et tout le bâtiment viennent de notre époque."
 
 # game/anna5.rpy:153
 translate french _call_endingjustafewminuteslater_1_40d6a19a:
@@ -268,49 +268,49 @@ translate french _call_endingjustafewminuteslater_1_40d6a19a:
 translate french _call_endingjustafewminuteslater_1_d0af508a:
 
     # m "Suddenly, the Administrator came out of the shadows in the hallway behind Reza."
-    m "Soudain, ce fut au tour de l'Administrateur de faire son entrée, surgissant de l'ombre du couloir juste derrière Reza."
+    m "Soudain, ce fut au tour de l'administrateur de sortir de l'ombre, dans le couloir derrière Reza."
 
 # game/anna5.rpy:167
 translate french _call_endingjustafewminuteslater_1_0f4307a5:
 
     # As "No, they belong to me."
-    As "Non, tout ça n'appartient qu'à moi."
+    As "Non, tout ça m'appartient à moi."
 
 # game/anna5.rpy:175
 translate french _call_endingjustafewminuteslater_1_5de0f92a:
 
     # m "Confused, Reza spun around, aiming his gun at the newcomer who was slowly walking towards him."
-    m "Désemparé, Reza s'est tourné et a pointé son arme sur l'individu qui ne cessait de lentement s'approcher de lui."
+    m "Désemparé, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
 
 # game/anna5.rpy:177
 translate french _call_endingjustafewminuteslater_1_6380d90f:
 
     # Rz "Who the fuck are you? Freeze! I said freeze!"
-    Rz "Bordel vous êtes qui vous ? Ne bougez plus ! J'vous ai dit de n'plus bouger !"
+    Rz "Bordel t'es qui ? Bouge pas ! J'ai dit bouge pas !"
 
 # game/anna5.rpy:181
 translate french _call_endingjustafewminuteslater_1_c13acdb0:
 
     # As "Want to waste your bullets on me? Feel free. You can't stop all of us."
-    As "Tu veux gaspiller tes balles sur moi ? N'hésite pas, tu ne pourras pas tous nous arrêter."
+    As "Envie de gâcher tes balles sur moi ? Fais toi plaisir. Tu ne peux pas tous nous arrêter."
 
 # game/anna5.rpy:185
 translate french _call_endingjustafewminuteslater_1_45e01706:
 
     # Rz gunpoint flip "If you say so."
-    Rz gunpoint flip "Si vous voulez."
+    Rz gunpoint flip "Si tu insistes."
 
 # game/anna5.rpy:199
 translate french _call_endingjustafewminuteslater_1_a113215c:
 
     # m "He pulled the trigger and the Administrator fell to the ground with a dull thud that knocked her mask off."
-    m "Il a appuyé sur la détente, et dans une déflagration assourdissant, l'administrateur est tombé. Son corps a touché le sol dans un bruit sourd, et son masque se détachant de son visage."
+    m "Il appuya sur la détente, et l'administrateur s'effondra au sol dans un choc sourd qui éjecta son masque."
 
 # game/anna5.rpy:213
 translate french _call_endingjustafewminuteslater_1_a776138b:
 
     # m "My first instinct was to run away, but as Maverick started charging, so did Anna and I."
-    m "Mon instinct me poussait à fuir, mais en voyant Maverick le charger, Anna et moi avons fait de même."
+    m "Mon instinct me poussait à fuir, mais en voyant Maverick le charger, Anna et moi firent de même."
 
 # game/anna5.rpy:240
 translate french _call_endingjustafewminuteslater_1_b783d092:
@@ -322,31 +322,31 @@ translate french _call_endingjustafewminuteslater_1_b783d092:
 translate french _call_endingjustafewminuteslater_1_3305fa38:
 
     # m "He was knocked to the ground and Maverick embedded his teeth into the body before him."
-    m "Le dragon a poussé Reza au sol, avant d'enfoncer ses dents dans l'abdomen de l'humain."
+    m "Le dragon a poussé Reza au sol, avant d'enfoncer ses dents dans son l'abdomen."
 
 # game/anna5.rpy:246
 translate french _call_endingjustafewminuteslater_1_b5f736a1:
 
     # m "Reza was screaming. He aimed at Maverick's head and frantically pulled the trigger twice."
-    m "Reza a alors poussé un cri, mais il a également posé le canon de son arme sur la tête de Maverick et a tiré à deux reprises."
+    m "Reza hurlait. Il visa la tête de Maverick et appuya frénétiquement sur la détente à deux reprises."
 
 # game/anna5.rpy:294
 translate french _call_endingjustafewminuteslater_1_98a8dd49:
 
     # m "The jaws dislodged and Reza aimed his gun in my direction. Suddenly, Anna jumped in front of me as the deafening bangs of several more shots rang out through the hallway."
-    m "Les mâchoires se sont relâchées, Reza en a aussitôt profité pour pointer son arme dans ma direction. C'est alors qu'Anna a bondit à son tour sur l'homme alors que j'entendais plusieurs déflagrations assourdissantes."
+    m "Les mâchoires se relâchèrent, Reza en profita pour pointer son arme dans ma direction. C'est alors qu'Anna bondit devant moi alors que j'entendais plusieurs déflagrations assourdissantes."
 
 # game/anna5.rpy:299
 translate french _call_endingjustafewminuteslater_1_69a3b56e:
 
     # m "While I was unharmed, Anna was hit multiple times and fell to the ground. While I watched Reza's hand dive into his pocket for more ammo, Anna's harsh breathing filled my ears."
-    m "J'étais indemne, mais Anna a été touchée à plusieurs reprises et est tombée au sol. Alors que je voyais Reza fouiller dans ses poches pour trouver d'autres balles, j'entendais distinctement la forte respiration de la véloçe."
+    m "J'étais indemne, mais Anna fut touchée à plusieurs reprises et tomba au sol. Alors que je voyais Reza fouiller dans ses poches pour trouver d'autres balles, j'entendais distinctement la forte respiration d'Anna."
 
 # game/anna5.rpy:313
 translate french _call_endingjustafewminuteslater_1_9abbc5a9:
 
     # m "Quickly, I dove behind the generator's box for cover and saw Anna opening her muzzle, spraying some liquid in Reza's direction."
-    m "Je me suis précipité derrière la boite du générateur pour m'abriter, mais j'ai eut le temps de voir Anna ouvrir sa gueule, avant qu'elle ne crache un peu de liquide en direction de Reza."
+    m "Je me suis précipité derrière la boite du générateur pour m'abriter et vis Anna ouvrir sa gueule, crachant du liquide en direction de Reza."
 
 # game/anna5.rpy:317
 translate french _call_endingjustafewminuteslater_1_f7bc135f:
@@ -358,61 +358,61 @@ translate french _call_endingjustafewminuteslater_1_f7bc135f:
 translate french _call_endingjustafewminuteslater_1_67907376:
 
     # m "He started flailing his arms around wildly, trying to put out the fire."
-    m "Il a commencé à s'agiter, essayant d'éteindre le feu par des gestes désespérés."
+    m "Il commenca à agiter sauvagement ses bras, essayant d'éteindre le feu."
 
 # game/anna5.rpy:321
 translate french _call_endingjustafewminuteslater_1_a1d1330a:
 
     # m "But the flames didn't stop. He tried to get up, but failed as he fell once more and squirmed around the floor shrieking in agony."
-    m "Mais les flammes n'ont cessé. Il a alors tenté de se relever, sans succès, et tombant même une fois encore avant de se tortiller de douleur, criant d'agonie."
+    m "Mais les flammes ne s'éteignaient pas. Il tenta alors de se relever, sans succès, et tomba une fois encore se tortillant de douleur, criant d'agonie."
 
 # game/anna5.rpy:323
 translate french _call_endingjustafewminuteslater_1_c0501288:
 
     # m "A short time later, his body slumped and his cries stopped as he lay on the ground, motionless. I watched for a while as the flames continued burning the now lifeless body."
-    m "Quelques secondes après, son corps s'est lourdement affaisé, et ses cris ont cessés. Il était étendu au sol, et les flammes continuaient à dévorer cette masse inerte."
+    m "Quelques secondes après, son corps s'affaisa lourdement, et ses cris cessèrent alors qu'il était étendu au sol, inerte. J'observais, tandis que les flammes continuaient de dévorer ce corps sans vie."
 
 # game/anna5.rpy:325
 translate french _call_endingjustafewminuteslater_1_c6550d67:
 
     # m "I went over to Anna, only to realize she was covered in blood from her bullet wounds. She was breathing heavily, but was still alive."
-    m "Je me suis alors précipité vers Anna, elle était recouverte de son propre sang, ses blessures saignant abondemment. Elle respirait difficilement, mais était encore en vie."
+    m "Je me précipitai alors vers Anna, pour voir qu'elle était couverte de sang provenant de ses blessures. Elle respirait difficilement, mais était encore en vie."
 
 # game/anna5.rpy:327
 translate french _call_endingjustafewminuteslater_1_61e166c3:
 
     # c "This looks bad. I have to do something to stop the bleeding."
-    c "Merde... C'est pas beau, 'faut que j'arrête l'hémorragie..."
+    c "Ca se présente mal. Je dois faire quelque chose pour arrêter l'hémorragie."
 
 # game/anna5.rpy:331
 translate french _call_endingjustafewminuteslater_1_37748aa9:
 
     # An "Don't bother. Based on where he got me, I'll be gone soon."
-    An "T'embête pas, d'après ce qu'il a dit, on sera bientôt tous morts..."
+    An "T'embête pas. Vu les endroits où il m'a touché, je serais bientôt morte."
 
 # game/anna5.rpy:333
 translate french _call_endingjustafewminuteslater_1_058c4d85:
 
     # c "Don't say that."
-    c "Dis pas ça..."
+    c "Ne dis pas ça."
 
 # game/anna5.rpy:335
 translate french _call_endingjustafewminuteslater_1_c07bed80:
 
     # An "I've done autopsies before. I know how this goes. No one can help me now."
-    An "[player_name], j'ai déjà fait des autopsies, tu ne m'apprendras rien... Personne ne peut m'aider..."
+    An "J'ai déjà fait des autopsies, tu ne m'apprendras rien. Personne ne peut m'aider."
 
 # game/anna5.rpy:337
 translate french _call_endingjustafewminuteslater_1_8ac40d51:
 
     # c "You jumped in front of me, Anna. Why? Why did you do it?"
-    c "Tu lui a sauté dessus, t'as délibérément risqué ta vie Anna... Pourquoi ? Pourquoi t'as fait ça ?"
+    c "Tu t'es jetée devant moi, Anna. Pourquoi ? Pourquoi t'as fait ça ?"
 
 # game/anna5.rpy:339
 translate french _call_endingjustafewminuteslater_1_3957bdba:
 
     # An "I only had a few months left to live. If I was lucky, that is. Anything past that wouldn't even be a life worth living."
-    An "Dans tous les cas, même avec de la chance, je n'en ai plus que pour quelques mois... Tout ce qui m'attendais après ne vaut pas la peine que je le vive."
+    An "Dans tous les cas, même avec de la chance, je n'avais plus que quelques mois à vivre. Tout ce qui m'attendais après ne valait pas la peine que je le vive."
 
 # game/anna5.rpy:341
 translate french _call_endingjustafewminuteslater_1_afefa1e4:
