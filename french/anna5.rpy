@@ -418,13 +418,13 @@ translate french _call_endingjustafewminuteslater_1_3957bdba:
 translate french _call_endingjustafewminuteslater_1_afefa1e4:
 
     # An "Would you want to spend your last days strapped to a hospital bed, slowly wasting away until nothing is left but a mere shell - a shadow of your former self?"
-    An "Tu n'imagines pas que je veux me laisser mourir sur un lit d'hôpital, à sentir mon corps m'abandonner lentement jusqu'à ce qu'il ne soit plus qu'une simple coquille vide ?"
+    An "Tu voudrais passer tes derniers jours sur un lit d'hôpital, à dépérir lentement jusqu'à ce que tu ne sois plus qu'une simple coquille vide - l'ombre de toi même ?"
 
 # game/anna5.rpy:343
 translate french _call_endingjustafewminuteslater_1_c48f1b73:
 
     # An "They can prolong my life, but they can't save me. But by doing this, I could save you - so I did."
-    An "Ils auraient pu prolonger un peu mon espérance de vie, mais jamais ils ne m'auraient sauvée. En faisant ça, je pouvais te sauver toi... alors je n'ai pas hésité."
+    An "Ils peuvent prolonger un peu mon espérance de vie, mais jamais ils n'auraient pu me sauvée. En faisant ça, je pouvais te sauver toi - alors je n'ai pas hésité."
 
 # game/anna5.rpy:345
 translate french _call_endingjustafewminuteslater_1_d7961dd8:
@@ -436,73 +436,73 @@ translate french _call_endingjustafewminuteslater_1_d7961dd8:
 translate french _call_endingjustafewminuteslater_1_fc6c4d06:
 
     # An "Even if they'd have me rot and die in prison rather than finding a cure for myself and who knows how many others. Just... make it count, [player_name]."
-    An "Même si j'm'en étais sortie... Même s'ils avaient prévu de me laisser pourrir en taule, le tout, c'est d'faire en sorte... que ça compte... Arrange toi pour que j'sois pas morte pour rien, [player_name]."
+    An "Même s'ils avaient prévu de me laisser pourrir en taule plutôt que de trouver un remède pour moi et plein d'autres. Juste... fait en sorte que ça vaille le coup, [player_name]."
 
 # game/anna5.rpy:351
 translate french _call_endingjustafewminuteslater_1_d52184df:
 
     # m "Before I could answer, her head slumped. She was dead."
-    m "Avant que je ne puisse dire un mot, j'ai senti sa tête s'affaisser. Elle n'était plus."
+    m "Avant que je ne puisse répliquer, sa tête s'affaissa. Elle n'était plus."
 
 # game/anna5.rpy:355
 translate french _call_endingjustafewminuteslater_1_3ecc4bad:
 
     # m "I looked around the room. The fire had stopped and it had become eerily quiet as I checked on the others."
-    m "Par instinct, j'ai regardé tout autour de moi, le feu s'était éteint. Le couloir était étrangement calme alors que je voyais les corps sans vie des autres."
+    m "Je regardai tout autour de moi, le feu s'était éteint. Le couloir était étrangement calme tandis que je jetais un œil aux autres."
 
 # game/anna5.rpy:369
 translate french _call_endingjustafewminuteslater_1_450b2c02:
 
     # m "While I confirmed that Maverick and Reza were dead, I was glad to discover that the Administrator was still alive."
-    m "Bien que Reza et Maverick étaient bel et biens morts, j'ai été soulagé au moment ou je me suis rendu compte que l'Administrateur était encore vivant."
+    m "Bien que Reza et Maverick étaient bel et bien morts, je fus soulagé au moment ou je me suis rendu compte que l'Administrateur était encore vivante."
 
 # game/anna5.rpy:371
 translate french _call_endingjustafewminuteslater_1_9210c9b8:
 
     # m "I found a first aid kit in one of the rooms and used it to dress her wound."
-    m "En fouillant dans les salles alentours, j'ai trouvé une trousse de secours que j'ai utilisé pour sa blessure pour sa blessure."
+    m "J'avais trouvé une trousse de secours dans une des salles et l'utilisa pour panser ses blessures."
 
 # game/anna5.rpy:373
 translate french _call_endingjustafewminuteslater_1_f517466a:
 
     # m "After a bit of rest, she was able to get up and we walked outside."
-    m "Après quelques minutes pour récupérer, elle a réussi à se relever et nous sommes sortis du complexe."
+    m "Après un peu de repos, elle réussit à se relever et nous sortîmes du complexe."
 
 # game/anna5.rpy:397
 translate french _call_endingjustafewminuteslater_1_f31ebaec:
 
     # As "What are you planning to do now?"
-    As "Et maintenant, qu'est-ce que tu vas faire ?"
+    As "Et maintenant, qu'est-ce que tu comptes faire ?"
 
 # game/anna5.rpy:399
 translate french _call_endingjustafewminuteslater_1_b209046b:
 
     # c "I don't know, Izumi. What do you think we should do? We have to stop the comet, after all."
-    c "J'en sais rien Izumi. Qu'est-ce qu'on doit faire à votre avis ? On peut toujours essayer d'arrêter la comète après tout."
+    c "J'en sais rien Izumi. Qu'est-ce qu'on doit faire à votre avis ? On doit arrêter la comète après tout."
 
 # game/anna5.rpy:401
 translate french _call_endingjustafewminuteslater_1_9e2dcb1b:
 
     # Iz "So you remember my name. What else do you remember?"
-    Iz "Oh, je vois que tu te souviens de mon nom. Tu te souviens d'autre chose ?"
+    Iz "Je vois que tu te souviens de mon nom. Tu te souviens d'autre chose ?"
 
 # game/anna5.rpy:403
 translate french _call_endingjustafewminuteslater_1_0a3a4db3:
 
     # c "I know we can stop the comet, but I also want to help humanity. I'd be just like Reza if I didn't try, you know. Just helping one world and disregarding the suffering of the other."
-    c "Je sais qu'on peut arrêter la comète. Mais je tiens à sauver l'humanité en plus de ce monde. Si je ne sauve que les dragons en laissant les humains s'éteindre, je ne vaux pas mieux que Reza."
+    c "Je sais qu'on peut arrêter la comète. Mais je tiens aussi à sauver l'humanité. Je serais comme Reza si je n'essayais pas, tu sais. Sauvant un monde en ignorant la souffrance de l'autre."
 
 # game/anna5.rpy:405
 translate french _call_endingjustafewminuteslater_1_51e0f8ca:
 
     # Iz "That's why I was asking for your plan."
-    Iz "C'est pour je te demande ton plan."
+    Iz "C'est pourquoi je te demande ton plan."
 
 # game/anna5.rpy:407
 translate french _call_endingjustafewminuteslater_1_0cc640c7:
 
     # c "Sending generators now would be out of the question, since we'll need all we can gather in order to stop the comet."
-    c "Hors de question d'envoyer les générateurs maintenant, on va en avoir besoin pour la comète."
+    c "Hors de question d'envoyer des générateurs maintenant, on va en avoir besoin d'autant que possible pour la comète."
 
 # game/anna5.rpy:409
 translate french _call_endingjustafewminuteslater_1_bf178f51:
