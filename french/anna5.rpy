@@ -514,7 +514,7 @@ translate french _call_endingjustafewminuteslater_1_bf178f51:
 translate french _call_endingjustafewminuteslater_1_118bb1f7:
 
     # c "Unfortunately, I also know that by the time we've stopped the comet, humanity will have given up on the portal and disconnected its power source, so we won't be able to help them afterwards."
-    c "Le problème, c'est que je sais ce qui va se passer. On va détourner la comète, mais en même temps, l'humanité va récupérer la source d'énergie de son portail pour s'en servir à l'hôpital. On ne pourra plus les recontacter."
+    c "Malheureusement, Je sais aussi que le temps d'arrêter la comète, l'humanité aura abandonné pour le portail et déconnecté sa source d'alimentation, donc on ne sera pas capable de les aider après ça."
 
 # game/anna5.rpy:413
 translate french _call_endingjustafewminuteslater_1_055f1421:
@@ -526,13 +526,13 @@ translate french _call_endingjustafewminuteslater_1_055f1421:
 translate french _call_endingjustafewminuteslater_1_299ddcee:
 
     # c "The solution to this would be rather simple: We'd just need to let them know to wait a while longer while the dragons recover from expending all their power sources to stop the comet."
-    c "On peut envisager une solution : on les contacte pour leur demander d'attendre qu'on en ai fini avec la comète, après quoi on pourra reprendre la production de générateurs."
+    c "La solution pour ça serait simple : on aurait besoin de les contacte pour leur demander d'attendre que les dragons recouvre la dépense énergétique des générateurs utilisés pour arrêter la comète."
 
 # game/anna5.rpy:417
 translate french _call_endingjustafewminuteslater_1_0e62af1b:
 
     # c "We could just send them a letter."
-    c "Oui, on peut simplement envoyer une lettre !"
+    c "On pourrait simplement leur envoyer une lettre."
 
 # game/anna5.rpy:419
 translate french _call_endingjustafewminuteslater_1_cefce0e4:
@@ -544,13 +544,13 @@ translate french _call_endingjustafewminuteslater_1_cefce0e4:
 translate french _call_endingjustafewminuteslater_1_9d26514c:
 
     # c "And why is that?"
-    c "Pourquoi ça ?"
+    c "Et pourquoi ça ?"
 
 # game/anna5.rpy:423
 translate french _call_endingjustafewminuteslater_1_40590c21:
 
     # Iz "After what happened during some of our other attempts, I decided to delete the coordinates to humanity's portal when I repaired this one a few days ago."
-    Iz "Vu ce qui s'est passé pendant je ne sais combien d'autres chronologies, j'ai prit la précaution de supprimer les coordonnées vers ton monde quand j'ai réparé le portail l'autre jour."
+    Iz "Vu ce qui s'est passé pendant nos autres tentatives, j'ai pris la précaution de supprimer les coordonnées vers ton monde quand j'ai réparé le portail l'autre jour."
 
 # game/anna5.rpy:425
 translate french _call_endingjustafewminuteslater_1_4cc00571:
@@ -562,74 +562,73 @@ translate french _call_endingjustafewminuteslater_1_4cc00571:
 translate french _call_endingjustafewminuteslater_1_a3166690:
 
     # Iz "Unfortunately, looking for other portals through time and space would be a significant energy expenditure that we can't afford right now. Not if we want to stop the comet."
-    Iz "Bien sûr. Le problème, c'est que si on entame la procédure pour chercher un autre portail à travers le temps en plus de l'espace, notre portail va consommer bien trop d'énergie, et ça on ne peut pas se le permettre si on veux dévier la trajectoire de la comète."
+    Iz "Malheureusement, chercher d'autres portails à travers le temps en plus de l'espace va consommer bien trop d'énergie, et ça on ne peut pas se le permettre maintenant. Pas si on veux dévier la trajectoire de la comète."
 
 # game/anna5.rpy:429
 translate french _call_endingjustafewminuteslater_1_e4fb0c5c:
 
     # c "I... reject this outcome. If there is no way to send them help, I will go back to the day of my arrival and try again. That's why you put those coordinates in, after all."
-    c "Je... Nan, impossible. Si je ne peux pas leur envoyer un message, alors je retourne au jour de mon arrivée et je réessaie. C'est pour ça que vous avez laissé ces coordonnées après tout, non ?"
+    c "Je... refuse qu'on en arrive là. S'il n'y a aucun moyen de leur envoyer de l'aide, alors je retourne au jour de mon arrivée et je réessaie. C'est pour ça que vous avez laissé ces coordonnées après tout."
 
 # game/anna5.rpy:431
 translate french _call_endingjustafewminuteslater_1_aba3b00e:
 
     # Iz "No, that's not your call to make. These coordinates were only to be used in emergencies, or if we failed."
-    Iz "Non. Ce n'est pas à toi de décider quoi faire de ces coordonnées. Elles sont prévues pour les cas d'urgence ou les échecs."
+    Iz "Non, ce n'est pas à toi d'en décider. Ces coordonnées étaient prévues que pour les cas d'urgence ou si nous venions à échouer."
 
 # game/anna5.rpy:433
 translate french _call_endingjustafewminuteslater_1_6f90b9ed:
 
     # c "As far as I am concerned, we did fail."
-    c "Mais à mon avis, on a échoué."
+    c "En ce qui me concerne, on a échoué."
 
 # game/anna5.rpy:435
 translate french _call_endingjustafewminuteslater_1_1c187bae:
 
     # Iz "Look at this world and what they have achieved under my guidance. You want to jeopardize this for a chance – just a chance - to save your city as well?"
-    Iz "Regarde ce monde, regarde ce qu'ils ont accomplis sous ma bienveillance. Tu veux vraiment risquer tout ça pour un soupçon de chance de sauver ta ville aussi ?"
+    Iz "Regarde ce monde, regarde ce qu'ils ont accomplis avec moi pour les guider. Tu veux vraiment risquer tout ça pour un soupçon de chance de sauver ta ville aussi ?"
 
 # game/anna5.rpy:437
 translate french _call_endingjustafewminuteslater_1_0e63918a:
 
     # c "It's what I came here for. Reza too, but he's dead now, so I'm the only one they have left to fight for their survival."
-    c "C'est pour ça que je suis là. Reza avait la même mission, mais sans lui, je suis leur seul espoir pour leur survie !"
+    c "C'est pour ça que je suis là. Reza aussi, mais il est mort maintenant, donc je suis leur seul espoir de survie !"
 
 # game/anna5.rpy:439
 translate french _call_endingjustafewminuteslater_1_990a71a4:
 
     # c "I can't just leave them now. As nice as it would be, a life here would be a life built on the suffering of others. I wouldn't be able to live with myself knowing that I could've helped them but didn't because I took the easy way out."
-    c "Je ne peux pas les laisser tomber. Même si la vie ici est belle et agréable, même si on fait ce qu'il faut pour que ça dure, au final on vivra sur la mort et la souffrance d'une autre civilisation."
+    c "Je ne peux pas les laisser tomber. Même si la vie ici est agréable, elle n'aurait été construite au final que sur la souffrance des autres. Je ne pourrais pas me regarger dans une glace en sachant que j'aurais pu les aider mais ne l'ai pas fait car j'ai préféré fuir."
 
 # game/anna5.rpy:441
 translate french _call_endingjustafewminuteslater_1_054c4fad:
 
     # c "As far as I am concerned, this isn't over yet."
-    c "Je ne veux pas vivre avec ça sur la conscience, en sachant que j'ai refusé de les aider même si j'en avait la possibilité. Je ne veux pas abandonner en choisissant la solution la plus facile, vous comprenez ?"
+    c "En ce qui me concerne, ça n'est pas fini."
 
 # game/anna5.rpy:445
 translate french _call_endingjustafewminuteslater_1_74455348:
 
     # Iz "You want to save those who sent Reza, and his supporters?"
-    Iz "Je reste sur ma position : ça n'est pas encore terminé."
+    Iz "Tu veux sauver ceux qui ont envoyé Reza, et ceux qui le soutiennent ?"
 
 # game/anna5.rpy:447
 translate french _call_endingjustafewminuteslater_1_0de8ac3f:
 
     # Iz "Is this really about humanity, or about Anna?"
-    Iz "Tu veux aussi sauver Reza et les salauds qui l'ont envoyés ?"
-    Iz "Tu veux vraiment sauver l'humanité ? Ou juste sauver Anna ?"
+    Iz "Tu veux vraiment sauver l'humanité ? Ou c'est à propos d'Anna ?"
 
 # game/anna5.rpy:449
 translate french _call_endingjustafewminuteslater_1_ec4e7c8d:
 
     # Iz "She sacrificed herself for you, not for you to undo it all again."
-    Iz "Elle s'est sacrifié pour sauver ta peau ! Pas pour que tu risque une fois de plus de tout fiche en l'air !"
+    Iz "Elle s'est sacrifié pour toi, pas pour que tu annules et recommence tout."
 
 # game/anna5.rpy:451
 translate french _call_endingjustafewminuteslater_1_965640da:
 
     # Iz "It is her sacrifice that makes it possible to save this world now. Is that not enough for you?"
-    Iz "C'est grâce à son sacrifice qu'on a le pouvoir de sauver ce monde aujourd'hui, c'est pas assez pour toi ?"
+    Iz "C'est grâce à son sacrifice qu'on a le pouvoir de sauver ce monde aujourd'hui. C'est pas assez pour toi ?"
 
 # game/anna5.rpy:453
 translate french _call_endingjustafewminuteslater_1_9dbb5e08:
@@ -641,13 +640,13 @@ translate french _call_endingjustafewminuteslater_1_9dbb5e08:
 translate french _call_endingjustafewminuteslater_1_7b0a8a09:
 
     # Iz "If that is your final decision, you leave me no other choice."
-    Iz "Si tel est ton choix, alors j'ai le mien aussi."
+    Iz "Si tel est ton choix, tu ne me laisse pas d'autre option."
 
 # game/anna5.rpy:458
 translate french _call_endingjustafewminuteslater_1_bc62d587:
 
     # m "Suddenly, I saw her reaching for something in one of her pockets."
-    m "Soudain, elle a sorti quelque chose d'une de ses poches."
+    m "Soudain, je la vis saisir quelque chose d'une de ses poches."
 
 # game/anna5.rpy:474
 translate french _call_endingjustafewminuteslater_1_2f3bd6e1:
@@ -659,37 +658,37 @@ translate french _call_endingjustafewminuteslater_1_2f3bd6e1:
 translate french _call_endingjustafewminuteslater_1_8eacf2a2:
 
     # m "In the ensuing scuffle, I managed to wrest it away from her and hit her in the face with its blunt end."
-    m "Dans la lutte qui a suivi, j'ai réussi à lui arracher l'arme de ses mains et l'ai frappé au visage d'un coup de canon, son extrémité lui entaillant sérieusement la joue."
+    m "Dans la lutte qui suivit, je réussis à lui arracher l'arme des mains et la frappa au visage d'un coup de crosse."
 
 # game/anna5.rpy:502
 translate french _call_endingjustafewminuteslater_1_fea43be3:
 
     # m "She collapsed in pain as blood started to run down her cheek where the impact had opened a gash."
-    m "Elle s'est effondrée de douleur alors que le sang commençait à couler abondemment de la plaie."
+    m "Elle s'effondra de douleur alors que le sang commençait à couler abondemment de la plaie béante."
 
 # game/anna5.rpy:504
 translate french _call_endingjustafewminuteslater_1_65e5d3a6:
 
     # m "As she squirmed on the ground, I turned to her before I took my leave."
-    m "Alors qu'elle était toujours au sol et bloquée par la douleur, je me suis tourné vers elle."
+    m "Alors qu'elle s'agitait toujours au sol, je me suis tourné vers elle avant de partir."
 
 # game/anna5.rpy:506
 translate french _call_endingjustafewminuteslater_1_11108241:
 
     # c "You know what? For all Reza has done, you sure don't seem that different from him when it comes down to it. Goodbye."
-    c "Vous savez quoi, même si Reza a été capable de commetre des choses atroces pour des raisons odieuses, au final vous n'êtes pas si différente de lui. On se reverra de l'autre côté."
+    c "Vous savez quoi ? Même avec tout ce que Reza a fait, au bout du compte vous n'êtes pas si différente de lui. Au revoir."
 
 # game/anna5.rpy:512
 translate french _call_endingjustafewminuteslater_1_aaf2dabf:
 
     # m "As I made my way to the portal to return to the day of my arrival, I thought about what had just happened and what I would do now."
-    m "En me dirigeant vers le portail, je me suis demandé ce que j'allais faire une fois que je serai de retour au jour de mon arrivée."
+    m "En me dirigeant vers le portail pour repartir au jour de mon arrivée ici, je pensais à ce qui venait d'arriver et à ce que j'allais faire ensuite."
 
 # game/anna5.rpy:514
 translate french _call_endingjustafewminuteslater_1_c5fbb59d:
 
     # m "If anything, Izumi's actions had only strengthened my resolve to make things right. Just right. After all, I had all the time in the world to try."
-    m "Les actions d'Izumi n'ont fait que renforcer ma détermination à sauver les deux mondes en faisant exactement ce qu'il fallait. Après tout, j'avais tout le temps du monde devant moi."
+    m "Les actions d'Izumi n'ont fait que renforcer ma détermination à arranger les choses. et le faire bien. Après tout, j'avais tout le temps du monde pour essayer."
 
 # game/anna5.rpy:649
 translate french _call_syscheck_42_e7760f77:
