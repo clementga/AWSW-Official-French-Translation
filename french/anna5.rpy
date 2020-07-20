@@ -700,37 +700,37 @@ translate french _call_syscheck_42_e7760f77:
 translate french annagoodending_6874a8ae:
 
     # m "The jaws dislodged and Reza aimed his gun in my direction. Out of nowhere, Anna tackled me – shoving us both out of the way just before Reza unloaded the weapon in our direction."
-    m "Les mâchoires ont relâché le corps de Reza. Il en a alors profité pour me pointer de son arme, mais sortie de nulle part, Anna m'a bousculé, nous écartant tout les deux de la trajectoire des balles que Reza avait tirées."
+    m "Les mâchoires se relâchèrent et Reza en profita pour me pointer de son arme. Mais sortie de nulle part, Anna me bouscula, nous écartant tout les deux de la trajectoire des balles que Reza avait tirées."
 
 # game/anna5.rpy:718
 translate french annagoodending_5f389ab6:
 
     # m "Both of us were seemingly unharmed, and by the time Reza was reloading his gun, Anna was already up again and running towards him."
-    m "On était tous les deux indemnes à première vue, et au moment ou j'ai remarqué que Reza rechargeait son arme, j'ai vu Anna se jeter sur lui."
+    m "On était tous les deux indemnes à première vue, et le temps que Reza rechargeait son arme, Anna s'était déjà relevée et lui fonçait dessus."
 
 # game/anna5.rpy:738
 translate french annagoodending_545de3ca:
 
     # m "Just as he raised his arm to aim at her, she jumped and collided with him, causing him to miss his target wildly."
-    m "Au moment où il a levé son arme vers elle, la véloçe lui a bondit dessus, le déstabilisant et lui faisant lâcher son revolver."
+    m "Au moment où il leva son arme vers elle, Elle lui bondit dessus lui rentrant dedans, lui faisant manquer sa cible."
 
 # game/anna5.rpy:742
 translate french annagoodending_7860e0db:
 
     # m "She was on top of him now, raising a hind leg before slitting his throat with one of the large claws at the end of it."
-    m "Elle était debout sur son corps, elle a alors levé une de ses jambes avec laquelle elle a frappé le sol juste à côté du cou de Reza. C'est alors que je me suis rendu compte qu'elle venait de planter l'une des griffes de sa patte dans la gorge de l'homme."
+    m "Elle était debout sur son corps, levant une de ses jambes avant de lui trancher la gorge avec l'une des grandes griffes à son extrémité."
 
 # game/anna5.rpy:744
 translate french annagoodending_11900b29:
 
     # m "Immediately he slumped. Blood gushed from his wound as he helplessly squirmed on the ground and horrible, distorted noises left his severed windpipe."
-    m "Il s'est aussitôt effondré. Le sang jaillissait abondemment de la blessure tandis qu'il convulsait, en poussant d'horribles cris déformés par sa gorge tranchée."
+    m "Il s'effondra aussitôt. Le sang jaillissait abondemment de la blessure tandis qu'il convulsait au sol, en poussant d'horribles cris déformés par sa trachée tranchée."
 
 # game/anna5.rpy:746
 translate french annagoodending_cc1f3a33:
 
     # m "After a few seconds, his movements stopped and Anna returned to me."
-    m "Après quelque secondes, il s'est arrêté de bouger. C'est alors que j'ai vu Anna revenir vers moi."
+    m "Après quelque secondes, il s'arrêta de bouger et Anna revint vers moi."
 
 # game/anna5.rpy:758
 translate french annagoodending_2e63c48d:
@@ -742,8 +742,7 @@ translate french annagoodending_2e63c48d:
 translate french annagoodending_9f85b645:
 
     # c "Yeah."
-    c "Ouais... Et toi ?"
-    An "J'ai connu mieux, mais ça va."
+    c "Ouais."
 
 # game/anna5.rpy:762
 translate french annagoodending_1ff8ac61:
@@ -761,19 +760,19 @@ translate french annagoodending_76b2fe88:
 translate french annagoodending_3c83df96:
 
     # n "In the weeks that followed, the dragons prepared for the comet."
-    n "Durant les semaines qui ont suivi, les dragons se sont préparés pour la comète."
+    n "Durant les semaines qui suivirent, les dragons se préparèrent pour la comète."
 
 # game/anna5.rpy:787
 translate french annagoodending_cfb57675:
 
     # n "I, on the other hand, spent more time with Anna as she opened up about her condition."
-    n "Quant à moi, j'ai commencé à passer de plus en plus de temps en compagnie d'Anna alors que sa santé commençait à dépérir."
+    n "Quant à moi, je passais plus de temps avec Anna alors qu'elle commençait à s'ouvrir sur sa condition."
 
 # game/anna5.rpy:789
 translate french annagoodending_01e1c5cc:
 
     # n "When the time came, the dragons executed their plan, and by utilizing the underground building's generators, the comet was ultimately diverted and never hit Earth."
-    n "Au moment propice, les dragons ont mis leur plan à l'action. En utilisant les générateurs du complexe souterrain, ils sont parvenus à détourner la trajectoire de la comète qui n'a finalement jamais touché la Terre."
+    n "Au moment propice, les dragons exécutèrent leur plan, et en utilisant les générateurs du complexe souterrain, ils parvinrent à détourner la trajectoire de la comète qui ne toucha finalement jamais la Terre."
 
 # game/anna5.rpy:791
 translate french annagoodending_0d4277f6:
@@ -785,7 +784,7 @@ translate french annagoodending_0d4277f6:
 translate french annagoodending_92633769:
 
     # n "While she had her own reasons for doing this, it meant that now my only options were to stay here, or to use the portal and the coordinates she had entered to travel back in time and return to the day of my arrival in this world."
-    n "Même si elle avait eut ses raisons de le faire, cela signifiait que je pouvais simplement rester ici, ou utiliser les coordonnés en mémoire pour voyager dans le temps et revenir au jour de mon arrivée."
+    n "Même si elle avait eu ses raisons de le faire, cela signifiait que mes seules options était de rester ici, ou d'utiliser les coordonnés en mémoire pour voyager dans le temps et revenir au jour de mon arrivée dans ce monde."
 
 # game/anna5.rpy:796
 translate french annagoodending_76b2fe88_1:
@@ -803,19 +802,19 @@ translate french annagoodending_47822293:
 translate french annagoodending_c4c7db3e:
 
     # n "For her help in stopping Reza, she was awarded the highest honor the council could bestow on her, citing her bravery and exceptional service to the community."
-    n "Pour avoir arrêté Reza, elle a reçu la plus haute distinction que le conseil pouvait lui donner, citant sa bravoure et le service exceptionnel qu'elle avait rendu à la communauté."
+    n "Pour avoir arrêté Reza, elle reçut la plus haute distinction que le conseil pouvait lui donner, citant sa bravoure et le service exceptionnel qu'elle avait rendu à la communauté."
 
 # game/anna5.rpy:803
 translate french annagoodending_bf91aad8:
 
     # n "As a result, the case against her was dropped and she was cleared of all charges."
-    n "En guise de remerciements, ils ont abandonné toute les poursuites contre elle, et elle a été innocenté de toute accusation."
+    n "En guise de remerciements, ils abandonnèrent toute les poursuites contre elle, et elle fut innocentée de toute accusation."
 
 # game/anna5.rpy:805
 translate french annagoodending_143d1d18:
 
     # n "In the months that followed, I was with her during her cancer treatments and could only watch as her condition worsened by the day."
-    n "Dans les mois qui ont suivi, je suis resté à ses côtés, alors qu'elle recevait son traitement contre le cancer. Hélas, je voyais son état s'aggraver de jour en jour."
+    n "Dans les mois qui suivirent, je étais resté à ses côtés durant son traitement contre le cancer. Hélas, je voyais son état s'aggraver de jour en jour."
 
 # game/anna5.rpy:807
 translate french annagoodending_e0479f7f:
@@ -839,55 +838,55 @@ translate french annagoodending_c8720a47:
 translate french annagoodending_598ee9f8:
 
     # An "Who cares what the doctor says? I know he sugarcoats everything. It's not going to be long now, or else I wouldn't even be here."
-    An "Qu'est-ce qu'on s'en fout de ce que dit le docteur ?... Je sais qu'ils disent ce qu'ils veulent. Je n'en ai plus pour longtemps, sinon je ne serais pas là."
+    An "Qu'est-ce qu'on s'en fout de ce que dit le docteur ? Je sais qu'ils adoucissent tout. Je n'en ai plus pour longtemps, sinon je ne serais pas là."
 
 # game/anna5.rpy:823
 translate french annagoodending_37ff030f:
 
     # c "I'm not sure if there is any sensible way to ask this, but..."
-    c "Je ne sais pas vraiment comment te demander ça, mais -"
+    c "Je ne sais pas vraiment comment te demander ça avec tact, mais..."
 
 # game/anna5.rpy:825
 translate french annagoodending_eeeb9c7e:
 
     # An "We're talking about less than a week."
-    An "Moins d'une semaine."
+    An "On parle de moins d'une semaine."
 
 # game/anna5.rpy:827
 translate french annagoodending_fcc1db76:
 
     # An "Besides, I'm the one who's dying here, not you. No reason for you to be so upset."
-    An "Mais, c'est moi qui vait mourir, pas toi... T'as pas de raison d'être si boulversé..."
+    An "Mais, c'est moi qui vait mourir, pas toi. T'as pas de raison d'être si boulversé."
 
 # game/anna5.rpy:829
 translate french annagoodending_8d96a732:
 
     # m "She looked away from me as I saw tears welling up in her eyes."
-    m "Elle a détourné son regard, j'ai vu ses yeux devenir humides, puis de petites larmes en couler."
+    m "Elle détournait son regard, et je vis des larmes en couler de ses yeux."
 
 # game/anna5.rpy:831
 translate french annagoodending_5e1ffe6d:
 
     # An cry "And to think that in your world you already had a cure for cancer."
-    An cry "Dire que dans ton monde... y a un remède contre cette merde..."
+    An cry "Dire que dans ton monde vous avez déjà un remède contre le cancer."
 
 # game/anna5.rpy:833
 translate french annagoodending_f5b886fc:
 
     # An "How pointlessly tragic."
-    An "Quelle putain de tragédie inutile..."
+    An "Tu parles d'une tragédie inutile."
 
 # game/anna5.rpy:835
 translate french annagoodending_81c7c120:
 
     # An "Yet here I am, being what I never wanted to become."
-    An "Et pourtant je suis là, je suis devenu ce que je redoutais le plus..."
+    An "Et pourtant je suis là, je suis devenu ce que je redoutais le plus."
 
 # game/anna5.rpy:841
 translate french annagoodending_31e4c84b:
 
     # An "But at least I'm not alone."
-    An "Au moins, je ne suis pas toute seule... Je t'ai toi."
+    An "Mais au moins, je ne suis pas toute seule."
 
 # game/anna5.rpy:847
 translate french annagoodending_76b2fe88_3:
@@ -899,47 +898,46 @@ translate french annagoodending_76b2fe88_3:
 translate french annagoodending_0c2e4bec:
 
     # n "A few days later, she passed away quietly in her sleep."
-    n "Quelques jours plus tard, elle s'est éteinte dans son sommeil."
+    n "Quelques jours plus tard, elle s'éteignit dans son sommeil."
 
 # game/anna5.rpy:855
 translate french annagoodending_bfaaa2f8:
 
     # n "The council held a funeral in her honor, which I didn't attend."
-    n "Le conseil a organisé des funérails en son honneur, auxquelles je n'ai pas assisté."
+    n "Le conseil organisa des funérails en son honneur, auxquelles je n'avais pas assisté."
 
 # game/anna5.rpy:857
 translate french annagoodending_f913dc39:
 
     # n "Now that I had been with Anna until the end, I had a decision to make."
-    n "J'avais accompagné Anna jusqu'à la fin de son voyage. Maintenait j'avais une décision à prendre."
+    n "J'avais accompagné Anna jusqu'à la fin. Maintenait j'avais une décision à prendre."
 
 # game/anna5.rpy:859
 translate french annagoodending_376dedf9:
 
     # n "I could either stay here, accept this outcome and all its consequences, or - by using the portal and Izumi's coordinates - travel back in time and return to the day of my arrival in this world."
-    n "Je pouvais sois rester ici et accepter de vivre avec tout ça, soit me servir du portail et recommencer à nouveau en utilisant les coordonnées laissées par Izumi."
+    n "Je pouvais sois rester ici et accepter cette issue et ses conséquences, ou - en utilisant le portail et les coordonnées d'Izumi - de voyager dans le temps au jour de mon arrivée dans ce monde."
 
 # game/anna5.rpy:861
 translate french annagoodending_2a6101fd:
 
     # n "This way, I could get the chance to try again."
-    n "En recommençant, j'avais une chance de réussir."
+    n "De cette façon, j'avais une chance de réessayer."
 
 # game/anna5.rpy:863
 translate french annagoodending_ac80eb02:
 
     # n "No doubt, it would be a risk to relive this rollercoaster of emotions. After all, I would have to go through all the events and their dangers again, but maybe it would be worth it..."
-    n "Ce serait sans doute risqué d'affronter à nouveau cette montagne russe émotionnelle. J'allais devoir revivre les évènements et dangers, mais peut-être que ça en valait la peine."
-    n "Peut-être que je pouvais sauver nos deux mondes... Peut-être que je pouvais sauver Anna..."
+    n "Ce serait sans doute risqué d'affronter à nouveau cette montagne russe émotionnelle, car j'allais devoir revivre les évènements et dangers. Mais peut-être que ça en vaudrait la peine..."
 
 # game/anna5.rpy:1006
 translate french _call_syscheck_43_f7d2be79:
 
     # s "You have seen Anna's good ending!"
-    s "Vous avez vu la bonne fin d'Anna."
+    s "Vous avez vu la bonne fin d'Anna !"
 
 translate french strings:
 
     # anna5.rpy:7
     old "Chapter 5 - Anna"
-    new "Chapitre 5 Anna"
+    new "Chapitre 5 - Anna"
