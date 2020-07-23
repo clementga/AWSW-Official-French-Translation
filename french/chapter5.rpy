@@ -10,31 +10,31 @@ translate french chapter5_76b2fe88:
 translate french chapter5_2bc90776:
 
     # m "After a night of turbulent dreams, my consciousness returned to the shores of the waking world."
-    m "Après une énième nuit de rêves turbulents, je suis doucement sorti de ces songes agîtés."
+    m "Après une énième nuit de rêves turbulents, je sortis doucement de ces songes agîtés."
 
 # game/chapter5.rpy:441
 translate french chapter5_9fff8558:
 
     # c "(Today is the day of the big fireworks. Who shall I bring?)"
-    c "(C'est aujourd'hui qu'a lieu le grand feu d'artifice. J'y vais avec qui ?)"
+    c "(C'est aujourd'hui qu'a lieu le grand feu d'artifice. Avec qui devrais-je y aller ?)"
 
 # game/chapter5.rpy:504
 translate french aloneendings_ae7c103b:
 
     # m "While I was sure any of those I knew would agree to watch the fireworks with me if I asked, I ultimately decided to go alone, not wanting to impose on anyone if they hadn't asked me first."
-    m "Même si j'étais persuadé de pouvoir compter sur n'importe laquelle de mes nouvelles connaissances ici, j'y suis finalement allé tout seul. Je ne voulais pas m'imposer dans leur journée d'une quelconque manière."
+    m "Même si j'étais persuadé que n'importe laquelle de mes nouvelles connaissances ici m'aurait accompagné volontier au feux d'artifices, je décidai finalement d'y aller tout seul. Je ne voulais pas m'imposer à eux s'ils ne me l'avait pas demandé d'abord."
 
 # game/chapter5.rpy:506
 translate french aloneendings_df9f1168:
 
     # m "After making some preparations for the day, I set out to experience these fireworks I had heard so much about."
-    m "Après m'être préparé, je suis allé voir ces fameux feux d'artifices dont tout le monde m'avais parlé."
+    m "Après m'être préparé, je sortis pour aller voir ces fameux feux d'artifices dont tout le monde m'avais parlé."
 
 # game/chapter5.rpy:514
 translate french aloneendings_e385c5e3:
 
     # m "When I left my apartment, I realized just how eerily deserted the rest of the place felt. They really weren't kidding when they said {i}everyone{/i} would watch the fireworks. I imagined there were a couple of designated places people gathered for this purpose. I had no doubt they were crowded beyond belief."
-    m "En quittant mon appartement, je me suis rendu compte à quel point tout semblait si désert. C'était donc vrai ce qui se disait, absolument tout la ville était partie assister au feu d'artifice. J'ai alors pensé qu'il y avait certainement des endroit particulièrement bondés de monde maintenant."
+    m "En quittant mon appartement, je me rendis compte à quel point tout semblait si désert. C'était donc vrai ce qui se disait, absolument tout la ville était partie assister au feu d'artifice. Je me disais alors qu'il y avait certainement des endroits où les gens se rassemblaient pour l'évènement. Pas de doutes qu'ils devaient être particulièrement bondés."
 
 # game/chapter5.rpy:516
 translate french aloneendings_04daa7ff:
