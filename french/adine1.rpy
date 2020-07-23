@@ -6,19 +6,19 @@
 translate french adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
-    m "﻿Je me rapelle que Adine m'a dit que le café fait aussi des livraisons, et avoir rien de mieux à faire, je me suis dit que je devrais essayer. J'ai pris ma commande avec un appel rapide au téléphone, et ce n'était pas long avant que la sonette de porte sonne."
+    m "﻿Je me souvins des paroles d'Adine concernant les livraisons que le café pouvaient également faire et, n'ayant rien de mieux à faire, je me dis que je devrais essayer. Je fis ma commande par un rapide coup de téléphone, et ce ne fut pas long avant que la sonette de la porte ne sonne."
 
 # game/adine1.rpy:32
 translate french adine1_d60c0822:
 
     # c "(Well, that was quick.)"
-    c "(dit donc, c'était rapide.)"
+    c "(Eh bien, c'était rapide.)"
 
 # game/adine1.rpy:39
 translate french adine1_245dbdc1:
 
     # m "It just so happened that Adine herself stood in the doorway, dripping wet and with damp containers in her grip."
-    m "Il se trouve que Adine elle même ce tenait en avant de la porte, toute mouillé avec les contenants humides dans sa poignée."
+    m "Il se trouva qu'Adine elle-même se tenait dans l'entrée, trempée de la tête aux pieds et tenant des boites humides dans ses griffes."
 
 # game/adine1.rpy:61
 translate french adine1_c084e644:
@@ -30,13 +30,13 @@ translate french adine1_c084e644:
 translate french adine1_2ec83f33:
 
     # Ad think b "I thought they sent you away after everything that's going on."
-    Ad think b "Je croyait qu'il t'avait renvoyé après tout ce qui ce passe."
+    Ad think b "Je croyais qu'ils t'avaient renvoyé avec tout ce qu'il se passe."
 
 # game/adine1.rpy:65
 translate french adine1_ba9efa2f:
 
     # c "They changed their minds, so I suppose you'll be stuck with me for a little while longer."
-    c "Ils ont changé d'idée alors je suppose que tu est pris avec moi pour un peu plus longtemps."
+    c "Ils ont changé leur fusil d'apule, je suppose que vous serez coincé avec moi un peu plus longtemps."
 
 # game/adine1.rpy:67
 translate french adine1_c84f55d5:
@@ -48,37 +48,37 @@ translate french adine1_c84f55d5:
 translate french adine1_796a7e39:
 
     # Ad "Oh, it's you again."
-    Ad "Oh, c'est toi encore."
+    Ad "Oh, c'est encore toi."
 
 # game/adine1.rpy:79
 translate french adine1_7c3e6087:
 
     # Ad "I do remember your name, though. It was... [player_name], right?"
-    Ad "Et je me rapelle de ton nom, cépendant. C'était... [player_name], correct?"
+    Ad "Je me rapelle de ton nom, cependant. C'était... [player_name], correct ?"
 
 # game/adine1.rpy:80
 translate french adine1_56d0beb3:
 
     # c "That's right."
-    c "C'est ca."
+    c "C'est ça."
 
 # game/adine1.rpy:83
 translate french adine1_9d2d1212:
 
     # Ad "Shouldn't come as a surprise, considering you knew I deliver for the café."
-    Ad "Ca ne devrait pas être une surprise, considerant que tu savait que je délivrait pour le café."
+    Ad "Ca ne devrait pas être une surprise, puisque tu sais que je fais des livraisons pour le café."
 
 # game/adine1.rpy:85
 translate french adine1_56e644c8:
 
     # Ad "Hey."
-    Ad "Hey."
+    Ad "Salut."
 
 # game/adine1.rpy:88
 translate french adine1_1cc03842:
 
     # Ad "Here's your order. Sorry, it got a little wet, but it should still be okay."
-    Ad "Voilà votre commande. Désolé, il est un peu mouillée, mais il devrait encore être correct."
+    Ad "Voilà ta commande. Désolé, elle a pris un peu l'eau, mais elle devrait encore être bonne."
 
 # game/adine1.rpy:94
 translate french adine1choice1_e6f972e8:
@@ -90,19 +90,19 @@ translate french adine1choice1_e6f972e8:
 translate french adine1choice1_9a5ca63d:
 
     # Ad "Thanks, I was just about to ask you if I could stay for a little while. This was actually my last delivery for the day, and I live on the other side of town."
-    Ad "Merci, j'allait justement demander si je pourrait rester un petit moment. c'était présentement ma dernière livraison de la journée et je vit à l'autre bout de la ville."
+    Ad "Merci, j'allais justement te demander si je pouvais rester un peu. C'était en fait ma dernière livraison de la journée et je vis à l'autre bout de la ville."
 
 # game/adine1.rpy:101
 translate french adine1choice1_be0b9602:
 
     # c "Of course, I couldn't let you fly back when it's this ugly outside."
-    c "bien sûr, je ne peut pas te laisser voler chez toi lorsque qu'il fait si mauvais dehors."
+    c "Bien sûr, je ne pourrais pas te laisser retourner chez toi par les airs par un aussi mauvais temps."
 
 # game/adine1.rpy:105
 translate french adine1choice1_8c2647a6:
 
     # m "I was just about to close the door in her face again when she suddenly spoke up."
-    m "j'alait justement fermer la porte encore quand soudainement elle à pris la parole."
+    m "Je m'apprêtais à lui fermer la porte au nez encore quand elle pris soudainement la parole."
 
 # game/adine1.rpy:107
 translate french adine1choice1_db4b5fa0:
@@ -114,13 +114,13 @@ translate french adine1choice1_db4b5fa0:
 translate french adine1choice1_0f173ebb:
 
     # c "What is it?"
-    c "Qu'est ce qui à?"
+    c "Qu'est-ce qu'il y a ?"
 
 # game/adine1.rpy:110
 translate french adine1choice1_f8bbc1ff:
 
     # Ad "Do you think I could come in for a few minutes? It's raining pretty heavily outside, and this was my last delivery for the day. I actually live on the other side of town, and I don't really want to fly back in the rain."
-    Ad "Pense tu que je peut entrer pour quelques minutes? Il pleut assez fort dehors et c'était ma dernière livraison de la journée. Je vit à l'autre bout de la ville et je ne veut pas voler chez moi sous la pluie."
+    Ad "Penses-tu que je pourrais entrer pendant quelques minutes? Il pleut fortement dehors et c'était ma dernière livraison de la journée. Je vis en fait à l'autre bout de la ville et je ne veux pas vraiment retourner chez moi par les airs sous cette pluie."
 
 # game/adine1.rpy:117
 translate french menadine_b2d97902:
@@ -138,19 +138,19 @@ translate french menadine_76b2fe88:
 translate french menadine_544afc3c:
 
     # n "Without another word, I closed the door, with nothing now separating me from the delights of the slightly soggy food before me."
-    n "Sans un mot de plus, J'ai fermé la porte, avec maintenant rien séparant moi des délices de la nourriture légerement détrempé en avant de moi."
+    n "Sans un mot de plus, Je fermai la porte, rien ne me séparant plus des délices de la nourriture légerement trempé devant moi."
 
 # game/adine1.rpy:129
 translate french menadine_a00b0992:
 
     # n "I opened my container in anticipation, but what I found inside wasn't at all what I was expecting. It was noodles, with chicken and some sort of sauce."
-    n "J'ouvre mon contenant avec anticipation, mais je n'expectait pas ce qu'il y avait à l'intérieur. C'était des nouilles, avec du poulet et une sorte de sauce."
+    n "J'ouvris ma boite avec anticipation, mais ce que j'y trouvis n'était pas du tout ce à quoi je m'attendais. Il s'agissait de nouilles, avec du poulet et une sorte de sauce."
 
 # game/adine1.rpy:130
 translate french menadine_07803e25:
 
     # n "The problem was, I hadn't ordered noodles. I rushed to the door, wondering what had gone wrong and what I had done to deserve this, but it was too late."
-    n "Le problème est, Que je n'avait pas commandé de nouilles. Je cours à la porte, Demandant ou était l'erreur et qu'est ce que j'avait fait pour mérité cela, mais il était trop tard."
+    n "Le problème est que je n'avais pas commandé de nouilles. Je courus à la porte, me demandant ce qu'il s'était passé et ce que j'avait fait pour mériter ça, mais il était trop tard."
 
 # game/adine1.rpy:131
 translate french menadine_54475cd1:
@@ -162,49 +162,49 @@ translate french menadine_54475cd1:
 translate french menadine_b01b710e:
 
     # Ad "Thank you!"
-    Ad "Merci!"
+    Ad "Merci !"
 
 # game/adine1.rpy:162
 translate french menadine_68d0fcf9:
 
     # Ad "Come on, don't make me fly in the rain like this. Please?"
-    Ad "Allez, ne me fait pas voler dans la pluie comme cela. S'il te plaît?"
+    Ad "Allez, ne me fais pas voler par ce temps comme ça. S'il te plaît ?"
 
 # game/adine1.rpy:188
 translate french _call_skiptut_10_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes données indique que tu as déjà subit l'expérience de cette scène d'une manière satisfaisante. Voulez vous sauter à la fin?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/adine1.rpy:196
 translate french _call_skiptut_10_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il parait que vous avez vu cela auparavant. Sauter à la fin de la scène?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la fin de cette scène ?"
 
 # game/adine1.rpy:204
 translate french _call_skiptut_10_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Alors, il parait que vous avez vu cela auparavant. Soit vous pouvez regarder encore, oû ont peut sauver du temps et sauter jusqu'à la fin de la scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la fin de cette scène."
 
 # game/adine1.rpy:218
 translate french _call_skiptut_10_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/adine1.rpy:251
 translate french _call_skipcheck_10_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/adine1.rpy:254
 translate french _call_skipcheck_10_e53dbbb3:
 
     # c "Feel right at home. I better eat this before it gets cold."
-    c "On se sent bien chez soi. Je serait de manger cela avant que ca devienne froid."
+    c "Fais comme chez toi. Je ferais mieux de manger avant que ca devienne froid."
 
 # game/adine1.rpy:257
 translate french _call_skipcheck_10_f212dc62:
@@ -1810,31 +1810,31 @@ translate french strings:
 
     # adine1.rpy:75
     old "I thought we were over this, but at least you don't reduce me to my species anymore."
-    new "Je croyais qu'on était passé par dessus, mais au moins tu ne me réduit plus a mon spécimen."
+    new "Je croyais qu'on avait passé ce cap, mais au moins tu ne me réduis plus à mon espèce."
 
     # adine1.rpy:75
     old "Likewise."
-    new "Également."
+    new "De même."
 
     # adine1.rpy:75
     old "Hey."
-    new "Hey."
+    new "Salut."
 
     # adine1.rpy:92
     old "What happened to you, did you fall into a river or something?"
-    new "Que t'es t'il arrivé, est tu tombé dans une rivière ou quoi?"
+    new "Que t'est-il arrivé, tu es tombé dans une rivière ou quoi ?"
 
     # adine1.rpy:92
     old "You're soaked, why don't you come in?"
-    new "Tu est trempé, pourquoi ne rentre tu pas à l'intérieur?"
+    new "Tu es trempée, pourquoi ne rentres-tu pas ?"
 
     # adine1.rpy:92
     old "Well, thanks for the food."
-    new "Bien, merci pour la nourriture."
+    new "Eh bien, merci pour la nourriture."
 
     # adine1.rpy:113
     old "I suppose it won't hurt if you come in for a few minutes."
-    new "Je suppose que ca ne ferait pas mal si tu reste pour quelques minutes."
+    new "Je suppose que ca ne fera pas de mal si tu viens quelques minutes."
 
     # adine1.rpy:113
     old "[[Close the door.]"
@@ -1842,19 +1842,19 @@ translate french strings:
 
     # adine1.rpy:113
     old "Sure, come in."
-    new "Bien sûr, entrez."
+    new "Bien sûr, entre."
 
     # adine1.rpy:113
     old "This isn't a homeless shelter."
-    new "Ce n'est pas un refuge pour sans abris."
+    new "C'est pas un refuge à SDF ici."
 
     # adine1.rpy:212
     old "Yes. I want to skip ahead."
-    new "Oui. Je veut sauter en avant."
+    new "Oui. Je veux passer cette scène."
 
     # adine1.rpy:212
     old "No. Don't skip ahead."
-    new "Non. ne saute pas en avant."
+    new "Non. Ne pas passer cette scène."
 
     # adine1.rpy:274
     old "Maybe."
