@@ -102,7 +102,7 @@ translate french adine1choice1_be0b9602:
 translate french adine1choice1_8c2647a6:
 
     # m "I was just about to close the door in her face again when she suddenly spoke up."
-    m "Je m'apprêtais à lui fermer la porte au nez encore quand elle pris soudainement la parole."
+    m "Je m'apprêtais à lui refermer la porte au nez quand elle pris soudainement la parole."
 
 # game/adine1.rpy:107
 translate french adine1choice1_db4b5fa0:
