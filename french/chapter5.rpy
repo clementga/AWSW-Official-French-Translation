@@ -40,86 +40,85 @@ translate french aloneendings_e385c5e3:
 translate french aloneendings_04daa7ff:
 
     # m "While I waited for the fireworks to start, I looked at the area around me. With no soul in sight, I realized I hadn't actually spent many nights outside and was reminded of the day I had arrived here at my apartment in total darkness, with only Remy by my side."
-    m "En attendant le début du feu d'artifice, j'ai regardé tout autour de moi. Pas une âme en vue, je me suis alors dit que je n'avais jamais vraiment été seul, dehors et au beau milieu de la nuit depuis ma venue ici. Je me suis rappelé de ce moment où il n'y avait que Remy pour me conduire jusqu'à mon appartement."
+    m "Tandis que j'attendais le début du feu d'artifice, je regardais tout autour de moi. Pas une âme en vue, je me dis alors que je n'avais pas passé beaucoup de nuits dehors et ça me rappela la nuit de mon arrivée ici jusqu'à mona appartement, avec Rémi pour seul compagnon."
 
 # game/chapter5.rpy:520
 translate french aloneendings_e507d2af:
 
     # m "Soon, the total stillness was broken with the sound of the first rocket ascending, its explosion painting a circular pattern in the sky."
-    m "Bientôt, le silence quasi total de la nuit fut brisé par le sifflement de la première fusée, puis de son explosion et du magnifique motif circulaire qu'elle peignait dans le ciel étoilé."
+    m "Bientôt, le silence quasi total de la nuit fut brisé par le sifflement de la première fusée, puis de son explosion peignant un motif circulaire dans le ciel."
 
 # game/chapter5.rpy:522
 translate french aloneendings_6f06eb98:
 
     # m "More rockets followed, their quantity and frequency steadily increasing."
-    m "D'autres fusées ont suivi, il y en avait de plus en plus, et elles étaient lancées à un rythme grandissant."
+    m "D'autres fusées suivirent, il y en avait de plus en plus, et elles étaient lancées à un rythme grandissant."
 
 # game/chapter5.rpy:533
 translate french aloneendings_37857128:
 
     # m "As the explosions battered my ears, a terrible realization hit me."
-    m "Alors que les explosions tonnaient à mes oreilles, j'ai été frappé par une terrible prise de conscience."
+    m "Alors que les explosions tonnaient à mes oreilles, je fus frappé par une terrible réalisation."
 
 # game/chapter5.rpy:537
 translate french aloneendings_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Étant donné le symbole que ce feu d'artifice représentait au yeux des habitants, et me souvenant avoir entendu à plusieurs reprise que tout le monde y assistait, c'était une opportunité de choix pour Reza pour accomplir sa mission."
+    m "En considérant que cet évènement était public et le nombre de fois où on m'a dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il a planifié."
 
 # game/chapter5.rpy:539
 translate french aloneendings_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m "Non seulement la ville était quasiment déserte, mais il pouvait couvrir le son de ses tirs par les explosions des feux d'artifices. Il pouvait agir en toute sécurité."
+    m "Non seulement le village était simplement déserté, mais le bruit des feux d'artifice couvrirait également les tirs d'armes à feu, lui donnant toute la sécurité dont il aurait besoin."
 
 # game/chapter5.rpy:541
 translate french aloneendings_3ecc47ed:
 
     # m "As the portal had been repaired by the Administrator, Reza would have no trouble making his getaway, and I was the only one who knew."
-    m "Comme le portail avait été réparé par le mystérieux humain masqué que j'avais rencontré, c'était le moment idéal pour que Reza s'enfuie. Et j'étais le seul à le savoir."
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 # game/chapter5.rpy:543
 translate french aloneendings_fa8bff57:
 
     # m "I ran to my apartment and briefly considered calling the police as I grabbed a few things. However, I soon remembered that they were not only already understaffed, but that I might waste precious time if I tried to do so."
-    m "J'ai détaché mon regard du ciel et me suis précipité vers mon appartement pour prévenir la police. Mais j'ai songé au fait qu'ils manquaient d'effectifs, et ai surtout eu peur d'arriver trop tard au portail."
-    m "J'ai profité du fait que j'y étais pour prendre quelques affaires, et j'ai repprit ma course en direction du portail sans même fermer la porte à clef."
+    m "Je courus à mon appartement pour prévenir la police en même temps de prendre quelques affaires. Mais me rappelant vite qu'ils manquaient déjà d'effectifs, et je craignais surtout de perdre un temps précieux si j'essayais."
 
 # game/chapter5.rpy:560
 translate french _call_endingjustafewminuteslater_d9fbb49c:
 
     # c "Actually, I can."
-    c "Moi, je le peux !"
+    c "Moi, je le peux."
 
 # game/chapter5.rpy:564
 translate french _call_endingjustafewminuteslater_0f6e4f5f:
 
     # m "I opened the cloak I was wearing to reveal an improvised bomb I had made from a generator."
-    m "J'ai ouvert la cape que je portais pour montrer cette bombe artisanale que j'avais fabriqué à partir d'un générateur."
+    m "J'ouvris le manteau que je portais pour montrer cette bombe artisanale que j'avais fabriqué à partir d'un générateur."
 
 # game/chapter5.rpy:566
 translate french _call_endingjustafewminuteslater_bdcdbe69:
 
     # Rz angry "What is this?"
-    Rz angry "Qu'est-ce que c'est que ça !?"
+    Rz angry "Qu'est-ce que c'est que ça ?"
 
 # game/chapter5.rpy:568
 translate french _call_endingjustafewminuteslater_18fd4acb:
 
     # c "You showed me how to do it, with the little trap you set at the farmhouse."
-    c "Tu m'as montré comment faire ça, tu sais, les petits pièges que tu avais laissé à la vieille ferme..."
+    c "Tu m'as montré comment le fabriquer, avec les petits pièges que tu avais laissé à la vieille ferme."
 
 # game/chapter5.rpy:570
 translate french _call_endingjustafewminuteslater_a113acc6:
 
     # Rz "That... wasn't intended for you."
-    Rz "C'est... nan, c'était pas pour toi ça !"
+    Rz "Ca... ne t'était pas destiné."
 
 # game/chapter5.rpy:572
 translate french _call_endingjustafewminuteslater_e00fadee:
 
     # c "It doesn't matter. You set it for someone. You set it to kill."
-    c "Peu importe, tu avais prévu tout ça pour tuer, peu importe qui allait ouvrir cette porte."
+    c "Peu importe. Tu l'avais préparé pour quelqu'un. Tu l'avais préparé pour tuer."
 
 # game/chapter5.rpy:574
 translate french _call_endingjustafewminuteslater_a3339a21:
@@ -131,61 +130,61 @@ translate french _call_endingjustafewminuteslater_a3339a21:
 translate french _call_endingjustafewminuteslater_3a7a8c67:
 
     # c "After the police reclaimed the generators you stole, it was easy for me to take one when I was alone in the department, just in case."
-    c "Après que la police ait récupéré les générateurs que tu as volé, j'ai jugé prudent d'en garder un pour moi. Ça a été simple de me servir au poste tu sais."
+    c "Après que la police ait récupéré les générateurs que tu avais volé, ce fut facile d'en dérober un au département alors que j'étais tout seul, juste au cas où."
 
 # game/chapter5.rpy:578
 translate french _call_endingjustafewminuteslater_46985aa4:
 
     # m "I set the bomb on the ground between us. With it and me between Reza and the exit, he would have to listen now."
-    m "J'ai posé la bombe à même le sol, entre nous deux. Avec ça, il était clair que Reza allait m'écouter à présent."
+    m "J'eus posé la bombe à même le sol, entre nous deux. Avec ça, il était clair que Reza allait m'écouter à présent."
 
 # game/chapter5.rpy:580
 translate french _call_endingjustafewminuteslater_bf205efc:
 
     # Rz "So, what's the plan?"
-    Rz "Okay... C'est quoi le plan ?"
+    Rz "Donc, C'est quoi le plan ?"
 
 # game/chapter5.rpy:582
 translate french _call_endingjustafewminuteslater_c6368b6d:
 
     # c "I'll tell you what's going to happen. You leave the generator and turn yourself in."
-    c "Je vais te le dire : tu laisses le générateur, et tu te rends."
+    c "Je vais te dire ce qui va se passer. tu vas laisser le générateur, et te rendre."
 
 # game/chapter5.rpy:584
 translate french _call_endingjustafewminuteslater_b4c6de5d:
 
     # Rz angry "You know what? I think you're bluffing. If you set off that bomb, not only do we both die, but you destroy the generators as well - and with them, any chance of saving either world. You would never do that."
-    Rz angry "Tu sais quoi ? C'est du bluff tout ça ! Si tu active cette bombe, tu va non seulement nous tuer tous les deux, mais tu vas détruire le générateur, et avec lui toute chance pour ce monde ou le nôtre de s'en sortir ! Tu ne feras jamais ça !"
+    Rz angry "Tu sais quoi ? Je pense que c'est du bluff. Si tu active cette bombe, tu vas non seulement nous tuer tous les deux, mais tu vas détruire les générateurs, et avec lui toute chance pour ce monde ou le nôtre de s'en sortir. Tu ne feras jamais ça."
 
 # game/chapter5.rpy:590
 translate french _call_endingjustafewminuteslater_fcd47aef:
 
     # m "He pulled out his gun and pointed it at me as he slowly started closing the distance between us."
-    m "Il a sorti son arme qu'il a pointé sur moi, tout en s'approchant doucement."
+    m "Il sortit son arme qu'il pointa sur moi, tout en réduisant doucement la distance entre nous deux."
 
 # game/chapter5.rpy:592
 translate french _call_endingjustafewminuteslater_a04a361a:
 
     # Rz "What is it going to be, [player_name]? Killing all of us, or just this world?"
-    Rz "Alors, tu choisis quoi [player_name] ? Tu veux réduire ces deux mondes au chaos, ou bien sauver le nôtre ?"
+    Rz "Alors, tu choisis quoi [player_name] ? Tous nous tuer, ou juste ce monde ?"
 
 # game/chapter5.rpy:594
 translate french _call_endingjustafewminuteslater_861dff8c:
 
     # m "Reza was right. In reality, the bomb provided no real leverage against him. If his goal was truly to save our city back home at any costs, he would not turn himself in. Even if the threat of setting off the bomb was a real one, his best chance would be to at least try to kill me now."
-    m "Reza avait malheureusement raison. Comme je le redoutais, même une bombe n'avait aucun impact sur sa détermination. Il état prêt à sauver notre peuple à tout prix, et même si je prévoyais d'activer la bombe, il avait encore une chance de gagner en me tuant maintenant."
+    m "Reza avait malheureusement raison. Comme je le redoutais, même une bombe n'avait aucun impact sur sa détermination. Il état prêt à sauver notre ville à tout prix, il ne se rendrait. Même si je prévoyais réellement d'activer la bombe, il avait encore une chance de gagner en me tuant maintenant."
 
 # game/chapter5.rpy:596
 translate french _call_endingjustafewminuteslater_69f65a19:
 
     # m "I turned around and started running."
-    m "Je me suis alors relevé et ai commencé à courir, tenant encore la bombe."
+    m "Je me relevai alors et commencai à courir."
 
 # game/chapter5.rpy:600
 translate french _call_endingjustafewminuteslater_7ea9afa3:
 
     # Rz "No!" with hpunch
-    Rz "Nan !" with hpunch
+    Rz "Non !" with hpunch
 
 # game/chapter5.rpy:604
 translate french _call_endingjustafewminuteslater_6bb0c534:
