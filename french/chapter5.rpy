@@ -190,93 +190,91 @@ translate french _call_endingjustafewminuteslater_7ea9afa3:
 translate french _call_endingjustafewminuteslater_6bb0c534:
 
     # m "I heard gunshots. Immediately I felt the most excruciating pain I’ve ever experienced resonate through my arm. As I kept sprinting as fast as I could, I heard a beeping sound that made me realize I had inadvertently activated the bomb when I was hit."
-    m "J'ai entendu des coups de feu. Immédiatement, j'ai senti mon bras être comme poussé par quelque chose alors qu'une douleur atroce s'en emparait. Je ne me suis pas arrêté pour autant, mais voilà qu'un bip sonore s'est fait entendre."
+    m "J'entendis des coups de feu. Je sentis soudain une douleur des plus atroces retentir à travers mon bras. Alors que je continuais de courir, j'entendis un bip sonore qui me fit réaliser que j'avais activé la bombe par inadvertance quand je me fis toucher."
 
 # game/chapter5.rpy:608
 translate french _call_endingjustafewminuteslater_fcdea398:
 
     # m "Out of bullets, Reza was not far behind me as we both scrambled towards the exit."
-    m "C'est alors que j'ai réalisé, j'avais activé la bombe par inadvertance au moment où la balle avait percuté mon bras. Je l'ai alors laissé tomber."
+    m "A court de balles, Reza n'était pas loin derrière moi alors que nous nous précipitâmes vers la sortie."
 
 # game/chapter5.rpy:622
 translate french _call_endingjustafewminuteslater_4ffa6f77:
 
     # m "Just as I reached the outside, the bomb went off. The explosion battered my ears as the shockwave sent me flying."
-    m "À court de munition, Reza m'a tout de même poursuivi, il était proche de moi alors qu'on courait tout les deux vers la sortie."
+    m "Au moment de ma retrouver dehors, la bombe explosa. L'explosion me retentit dans les oreilles tandis que l'onde de choc me fit faire un vol planné."
 
 # game/chapter5.rpy:624
 translate french _call_endingjustafewminuteslater_f42fab5d:
 
     # m "I collided with the ground and immediately felt a hail of debris. I cowered, waiting for it to die down."
-    m "Au moment où je me suis retrouvé dehors, j'ai senti un bruit sourd aussitôt suivi d'un sifflement aiguë insuportable, tandis qu'un souffle me projetais dans les airs. La bombe avait explosée."
-    m "J'ai alors percuté le sol, puis ai aussitôt senti une pluie de débrit me tomber dessus. Par réflexe je me suis recroquevillé en position foetal jusqu'à ce que je ne sente plus rien."
+    m "J'avais alors percuté le sol, puis aussitôt senti une pluie de débris me tomber dessus. Je tremblais, attendant que ça s'arrête."
 
 # game/chapter5.rpy:628
 translate french _call_endingjustafewminuteslater_b597b931:
 
     # m "After a few seconds, I turned around and looked at the sky where the fireworks still painted patterns in the stars. With one hand, I reached toward my injured arm only to find it wet with blood from my bullet wound. My whole body was numb."
-    m "Après quelques secondes, je me suis tourné, j'ai alors vu le ciel étoilé dans lequel les feu d'artifices peignaient encore de magnifiques motifs colorés. J'ai tenté d'examiner mon bras blessé, il était particulièrement ensanglanté."
-    m "La blessure que m'avait infligé la balle saignait abondemment, et tout mon corps était engourdi."
+    m "Après quelques secondes, Je vis alors en me retournant le ciel étoilé dans lequel les feu d'artifices peignaient encore des motifs colorés dans les étoiles. Je tentai alors d'examiner mon bras blessé, trempé de sang à cause de la blessure. Tout mon corps était endolori."
 
 # game/chapter5.rpy:630
 translate french _call_endingjustafewminuteslater_d1e49880:
 
     # m "But I could not give up now. I slowly got up, looking around the area to get some perspective of the situation. Not far from where I was, I saw Reza lying on the ground. He wasn't moving."
-    m "Mais hors de question d'abandonner maintenant. Je me suis levé avec prudence, examinant les alentours pour me donner une idée de la situation. Non loin de moi, Reza était étentu au sol, immobile."
+    m "Mais je ne pouvais pas abandonner maintenant. Je m'étais levé avec prudence, examinant les alentours pour me donner une idée de la situation. Non loin de moi, je vis Reza étentu au sol, immobile."
 
 # game/chapter5.rpy:636
 translate french _call_endingjustafewminuteslater_9365651e:
 
     # m "As I got closer, I spotted the gun next to him."
-    m "En m'approchant, j'ai remarqué son arme à côté de lui."
+    m "En m'approchant, je remarquai son arme à côté de lui."
 
 # game/chapter5.rpy:638
 translate french _call_endingjustafewminuteslater_fbe4f29c:
 
     # c "I won't let them find this."
-    c "Je ne les laisserai pas prendre ça."
+    c "Je ne les laisserai pas trouver ça."
 
 # game/chapter5.rpy:642
 translate french _call_endingjustafewminuteslater_3e5cfc0a:
 
     # m "I took it with me, hiding it in one of my pockets as I started making my way towards the portal with slow and uneasy steps."
-    m "J'ai alors pris le revolver avec moi, et l'ai caché dans une de mes poches tout en me dirigeant lentement vers le portail."
+    m "Je pris le revolver avec moi, le cachant dans une de mes poches tout en me dirigeant lentement et avec un pas hésitant vers le portail."
 
 # game/chapter5.rpy:646
 translate french _call_endingjustafewminuteslater_846870c2:
 
     # m "I was shaking and my vision was blurry. Every inch of movement felt like a new and harder chore than the last."
-    m "Je tremblais, et ma vision se troublait peu à peu. Chaque pas en plus me semblait être une tâche de plus en plus difficile à accomplir."
+    m "Je tremblais, et ma vision était trouble. Chaque pas en plus me semblait être une tâche de plus en plus difficile à accomplir."
 
 # game/chapter5.rpy:650
 translate french _call_endingjustafewminuteslater_5aec03e2:
 
     # m "Eventually, my legs gave in and I collapsed to the ground."
-    m "J'ai finalement senti mes jambes m'abandonner, et me suis effondré au sol."
+    m "Je sentis finalement mes jambes m'abandonner, et m'effondrai au sol."
 
 # game/chapter5.rpy:661
 translate french _call_endingjustafewminuteslater_3e1e00f2:
 
     # m "I resigned to my fate as I watched the night sky, illuminated by the colorful explosions of the fireworks."
-    m "Je me suis résigné à mon sort, regardant le ciel étoilé illuminé par les explosions colorées des feux d'artifices."
+    m "Je m'étais résigné à mon sort, regardant le ciel étoilé, illuminé par les explosions colorées des feux d'artifices."
 
 # game/chapter5.rpy:671
 translate french _call_endingjustafewminuteslater_7282346f:
 
     # m "Suddenly, I was lifted off the ground and as I opened my eyes, I saw the masked face of the Administrator."
-    m "C'est alors que j'ai senti une force me soulever et me redresser. En ouvrant les yeux, j'ai vu le visage masqué de l'Administrateur."
+    m "C'est alors que je sentis une force me soulever du sol et en ouvrant les yeux, je vis le visage masqué de l'Administrateur."
 
 # game/chapter5.rpy:675
 translate french _call_endingjustafewminuteslater_a388a88e:
 
     # c "I just could not let it happen. I had to stop him. I had to try... somehow."
-    c "Je ne pouvais pas le laisser faire... Je devais l'arrêter... Je devais essayer... d'une manière ou d'une autre..."
+    c "Je ne pouvais pas le laisser faire. Je devais l'arrêter. Je devais essayer... d'une manière ou d'une autre."
 
 # game/chapter5.rpy:677
 translate french _call_endingjustafewminuteslater_59ce4100:
 
     # m "The Administrator started moving, carrying me."
-    m "L'Administrateur à alors commencé à me traîner."
+    m "L'Administrateur commenca alors à me traîner."
 
 # game/chapter5.rpy:679
 translate french _call_endingjustafewminuteslater_78c0c468:
@@ -288,7 +286,7 @@ translate french _call_endingjustafewminuteslater_78c0c468:
 translate french _call_endingjustafewminuteslater_c5d2623c:
 
     # c "So this is how it ends? With humanity doomed to fade into history, and the dragons facing extinction?"
-    c "C'est donc la fin ? L'humanité va sombrer dans le chaos, et les dragons vont s'éteindre ?..."
+    c "C'est donc la fin ? L'humanité va sombrer dans le chaos, et les dragons vont s'éteindre ?"
 
 # game/chapter5.rpy:683
 translate french _call_endingjustafewminuteslater_21605de2:
@@ -300,25 +298,25 @@ translate french _call_endingjustafewminuteslater_21605de2:
 translate french _call_endingjustafewminuteslater_dc4c4166:
 
     # c "What are you going to do?"
-    c "Qu'est-ce que vous allez faire ?..."
+    c "Qu'est-ce que vous allez faire ?"
 
 # game/chapter5.rpy:687
 translate french _call_endingjustafewminuteslater_dfa04c88:
 
     # As "I'm going to send you back in time. We'll just try again, and maybe we'll do better next time."
-    As "Je vais te renvoyer dans le passé. On va recommencer une fois de plus, en espérant qu'on fera mieux la prochaine fois."
+    As "Je vais te renvoyer dans le passé. On va recommencer une fois de plus, et peut être qu'on fera mieux la prochaine fois."
 
 # game/chapter5.rpy:691
 translate french _call_endingjustafewminuteslater_50692fcd:
 
     # m "By now, we had arrived at the portal. The Administrator gently set me down before moving towards the portal's controls."
-    m "Nous sommes finalement arrivés au portail. L'Administrateur m'a prudemment reposé avant de se dirirer vers les commandes du portail."
+    m "Nous arrivâmes finalement au portail. L'Administrateur me reposa prudemment avant de se dirirer vers les commandes du portail."
 
 # game/chapter5.rpy:703
 translate french _call_endingjustafewminuteslater_405b83a8:
 
     # As "You will probably forget most of what happened. The teleportation tends to do that sometimes, especially when someone is transported several times in quick succession."
-    As "Tu pas certainement oublier tout ce qui s'est passé. Parfois, c'est un des effets de la téléportation, surtout lorsque le sujet a été téléporté à plusieurs reprises."
+    As "Tu vas certainement oublier tout ce qui s'est passé. Parfois, c'est un des effets de la téléportation, surtout lorsque le sujet a été téléporté à plusieurs reprises sur de courts intervalles."
 
 # game/chapter5.rpy:705
 translate french _call_endingjustafewminuteslater_3eda1cdc:
@@ -348,7 +346,7 @@ translate french _call_endingjustafewminuteslater_76b2fe88:
 translate french _call_endingjustafewminuteslater_7b42eeec:
 
     # n "{cps=40}I heard the sound of the portal starting to do its work as the numbness and pain suddenly left my body.{/cps}{nw}"
-    n "{cps=40}J'ai entendu le portail se mettre en marche, alors que je sensait la douleur et l'engourdissement quitter subittement mon corps.{/cps}{nw}"
+    n "{cps=40}J'entendis le portail se mettre en marche, alors que je sentais la douleur et l'engourdissement quitter subittement mon corps.{/cps}{nw}"
 
 # game/chapter5.rpy:734
 translate french _call_endingjustafewminuteslater_d0eadb7a:
@@ -360,7 +358,7 @@ translate french _call_endingjustafewminuteslater_d0eadb7a:
 translate french _call_endingjustafewminuteslater_ee215d9b:
 
     # n "{cps=40}I felt free.{/cps}{nw}"
-    n "{cps=40}Je me suis senti libre.{/cps}{nw}"
+    n "{cps=40}Je me sentais libre.{/cps}{nw}"
 
 # game/chapter5.rpy:880
 translate french _call_syscheck_27_37f642c6:
@@ -384,19 +382,19 @@ translate french tut_49c5e701:
 translate french tut_dc60dc4d:
 
     # s "During the next playthrough, you may want to make different choices. You may even find the information you've gained this time to be helpful!"
-    s "Au cours de votre prochain séjour, vous pourrez faire des choix différents. Ce qui en résulterat pourrait bien vous aider !"
+    s "Au cours de votre prochaine partie, vous pourrez faire des choix différents. Vous pourriez même trouver une utilité aux informations que vous avez recceuilli cette fois ci !"
 
 # game/chapter5.rpy:909
 translate french tut_10345df0:
 
     # s "Sometimes, you might even notice that prior choices have changed a character or aspect of the game's world permanently."
-    s "Il est même possible que vous remarquiez des différences chez les gens que vous allez croiser. Dites vous que vos précédents actes ont pu avoir une influence sur eux."
+    s "Il est même possible que vous remarquiez des différences chez les gens que vous allez croiser ou dans le monde du jeu, et ce de manière permanente."
 
 # game/chapter5.rpy:913
 translate french tut_1e8d4b79:
 
     # s "At any rate, feel free to employ the game's skip buttons (CTRL and TAB) generously, as - by default - they will only skip text that you have already seen, making subsequent playthroughs much more palatable."
-    s "Quoi qu'il en soit, n'hésitez pas à skipper les scènes que vous avez déjà vécues et les dialogues que vous avez déjà lus. Ça rendra vos parties suivantes bien plus fluides !"
+    s "Quoi qu'il en soit, n'hésitez pas à utiliser généreusement les touches (CTRL et TAB), car par défaut elle ne vous feront passer que les dialogues que vous avez déjà lus. Ça rendra vos parties suivantes bien plus agréables !"
 
 # game/chapter5.rpy:917
 translate french tut_72b3f8a3:
@@ -418,7 +416,7 @@ translate french strings:
 
     # chapter5.rpy:457
     old "Remy."
-    new "Remy"
+    new "Rémi"
 
     # chapter5.rpy:457
     old "Anna."
@@ -438,11 +436,11 @@ translate french strings:
 
     # chapter5.rpy:457
     old "Go alone."
-    new "Vas-y seul."
+    new "Y aller seul."
 
     # chapter5.rpy:457
     old "Everyone."
-    new "Vas-y avec tout le monde."
+    new "Y aller avec tout le monde."
 
     # chapter5.rpy:502
     old "Chapter 5 - Alone"
