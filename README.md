@@ -14,9 +14,9 @@ Fichiers traduits (✘ = non fait, ✔ = fait, ✔✔ = relu, ✔✔✔ = versio
 
 common ✔<br/>
 dv ✔<br/>
-screens ✔<br/>
+screens ✔✔<br/>
 status ✔<br/>
-help ✔<br/>
+help ✔✔<br/>
 images ✔<br/>
 script ✔<br/>
 chapter1 ✔<br/>
@@ -50,7 +50,7 @@ bryce4 ✔<br/>
 lorem4 ✔<br/>
 remy4 ✔<br/>
 xkevin ✔<br/>
-chapter5 ✔<br/>
+chapter5 ✔✔<br/>
 chapter5evilending ✔<br/>
 adine5 ✔<br/>
 anna5 ✔✔<br/>
