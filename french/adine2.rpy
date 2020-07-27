@@ -402,73 +402,73 @@ translate french _call_skipcheck_23_b86d6667:
 translate french _call_skipcheck_23_72a69e39:
 
     # Ad "It's nothing too dramatic. I read this magazine the other day and found a few interesting articles ."
-    Ad "Ce n'est rien de trop dramatique. Je lisait ce magazine l'autre journée et j'ai trouvé quelques articles intéresant."
+    Ad "Ce n'est rien de trop dramatique. Je lisais ce magazine l'autre jour et j'ai trouvé quelques articles intéressants."
 
 # game/adine2.rpy:348
 translate french _call_skipcheck_23_1d8e34de:
 
     # m "Using her partial hands, she held up a magazine to show me its cover. A rather bold-looking female was presented on the front, adorned with trinkets like rings and jewels. Various headlines gave me an idea of the content within. It reminded me a lot of the typical gossip magazines back home."
-    m "En utilisant ses mains partiels, elle tenait un magazine pour me montrer le couvert. Une femme audacieuse était présenté à l'avant, orné avec des bibelots comme des bagues et des bijoux. Plusieurs en-têtes me donnait une idée du contenu à l'intérieur. Ça me rapelle beaucoup des magazines de pôtints typique de chez moi."
+    m "En utilisant ses mains partielles, elle brandit un magazine pour me montrer la couverture. Une femelle à l'allure audacieuse était présenté en première page, orné de bibelots ressemblant à des bagues et des bijoux. Plusieurs en-têtes me donnaient une idée du contenu. Ça me rapellait pas mal les magazines de potins typiques de chez moi."
 
 # game/adine2.rpy:350
 translate french _call_skipcheck_23_782e5967:
 
     # c "{i}LIFESTYLE: The Magazine for Modern People{/i}?"
-    c "{i}MODE DE VIE: Le magazine pour les gens modernes{/i}?"
+    c "{i}LIFESTYLE: Le Magazine des Gens Modernes{/i} ?"
 
 # game/adine2.rpy:352
 translate french _call_skipcheck_23_661a9853:
 
     # Ad giggle b "This issue even came with a set of fortune cards!"
-    Ad giggle b "Cette parution viens même avec un paquet de cartes de fortune!"
+    Ad giggle b "Cette parution était même livrée avec un paquet de cartes de divination !"
 
 # game/adine2.rpy:358
 translate french _call_skipcheck_23_13ba6e80:
 
     # Ad "Isn't that the whole fun of it?"
-    Ad "N'est ce pas ce qui est amusant?"
+    Ad "N'est-ce pas ce qui est le plus amusant avec ça ?"
 
 # game/adine2.rpy:369
 translate french _call_skipcheck_23_e2c3a930:
 
     # Ad annoyed b "Come on, don't knock it before you try it."
-    Ad annoyed b "Aller, ne le critique pas avant d'avoir essayé."
+    Ad annoyed b "Allez, ne critique pas avant d'avoir essayé."
 
 # game/adine2.rpy:378
 translate french _call_skipcheck_23_3d537ac6:
 
     # c "With articles like {i}5 Steps to Get the Partner of Your Dreams{/i}, I'm sure they're qualified to determine my fate."
-    c "Avec des articles comme {i}5 étapes pour avoir le partenaire de tes rèves{/i}, je suis certain qu'ils sont capable de déterminer mon destin."
+    c "Avec des articles comme {i}5 Etapes pour Avoir le Partenaire de Tes Rêves{/i}, je suis certain qu'ils sont qualifiés pour déterminer mon destin."
 
 # game/adine2.rpy:380
 translate french _call_skipcheck_23_840cdea4:
 
     # Ad normal b "Come on, it'll be fun."
-    Ad normal b "Aller, ce serait amusant."
+    Ad normal b "Allez, ça va être amusant."
 
 # game/adine2.rpy:382
 translate french _call_skipcheck_23_8fc66374:
 
     # c "If you say so."
-    c "Si tu le dit."
+    c "Si tu le dis."
 
 # game/adine2.rpy:384
 translate french _call_skipcheck_23_fc66ae05:
 
     # Ad "What should we look at first?"
-    Ad "Qu'est ce que ont devrait regarder d'abord?"
+    Ad "Qu'est ce qu'on devrait regarder en premier ?"
 
 # game/adine2.rpy:392
 translate french _call_skipcheck_23_27216165:
 
     # Ad think b "Alright, let's see."
-    Ad think b "Bien, voyont voir."
+    Ad think b "Bien, voyons voir."
 
 # game/adine2.rpy:399
 translate french _call_skipcheck_23_27216165_1:
 
     # Ad think b "Alright, let's see."
-    Ad think b "Bien, voyont voir."
+    Ad think b "Bien, voyons voir."
 
 # game/adine2.rpy:408
 translate french _call_skipcheck_23_99b68283:
@@ -480,19 +480,19 @@ translate french _call_skipcheck_23_99b68283:
 translate french _call_skipcheck_23_387b6fd4:
 
     # Ad normal b "Here, this article talks about dreams and what they mean."
-    Ad normal b "Voila, cette article parle à propos des rêves et qu'est ce qu'ils veulent dire."
+    Ad normal b "Regarde, cet article parle des rêves et de leur signification."
 
 # game/adine2.rpy:417
 translate french _call_skipcheck_23_19f1eadc:
 
     # Ad think b "Have you had any strange or recurring dreams lately?"
-    Ad think b "As tu eu des rêves étrange ou récurrant dernièrement?"
+    Ad think b "As-tu eu des rêves étrange ou récurrant dernièrement ?"
 
 # game/adine2.rpy:425
 translate french _call_skipcheck_23_c029577a:
 
     # Ad normal b "Well, according to this article, that means you're a really creative person."
-    Ad normal b "bien, d'après cet article, ca veut dire que tu est une personne três créative."
+    Ad normal b "Eh bien, d'après cet article, ca veut dire que tu es une personne très créative."
 
 # game/adine2.rpy:427
 translate french _call_skipcheck_23_4e50fccb:
@@ -504,79 +504,79 @@ translate french _call_skipcheck_23_4e50fccb:
 translate french _call_skipcheck_23_e2c5f113:
 
     # Ad "Fire? That's interesting."
-    Ad "Du feu? Ca c'est intéressant."
+    Ad "Du feu ? Ca c'est intéressant."
 
 # game/adine2.rpy:434
 translate french _call_skipcheck_23_8c4bca97:
 
     # Ad normal b "Apparently, it's a rather common symbol that can mean a variety of things."
-    Ad normal b "Apparament, c'est un symbole assez commun qui peut dire une variété de choses."
+    Ad normal b "Apparament, c'est un symbole assez commun qui peut vouloir dire une variété de choses."
 
 # game/adine2.rpy:436
 translate french _call_skipcheck_23_6a5cd9f5:
 
     # Ad think b "Another thing to consider is the significance of the symbol to the dreamer. So, what does fire mean to you?"
-    Ad think b "Une autre chose à considerer is la défénition du symbole pour le rêveur. Alors, qu'est ce que du feu veut dire pour toi?"
+    Ad think b "Une autre chose à considerer is la signification du symbole pour le rêveur. Alors, qu'est ce que du feu veut dire pour toi?"
 
 # game/adine2.rpy:438
 translate french _call_skipcheck_23_a4aa9181:
 
     # Ad normal b "Fire can be destructive, but also wild and passionate. It can represent an issue or problem you can no longer ignore, similar to an actual fire breaking out."
-    Ad normal b "Le feu peut être destructeur, mais peut aussi être sauvage et passionné. Il peut représenter un soucis ou un problème que tu ne peut plus ignorer, semblabe à un vrai feu qui se éclate."
+    Ad normal b "Le feu peut être destructeur, mais peut aussi être sauvage et passionné. Il peut représenter un soucis ou un problème que tu ne peux plus ignorer, semblable à un incendie qui se répand."
 
 # game/adine2.rpy:440
 translate french _call_skipcheck_23_35c9ab45:
 
     # Ad giggle b "It also mentions prophetic dreams, but let's hope that yours don't fall into that category."
-    Ad giggle b "Il mentionne aussi le rêve prophétique, mais j'espère que le tien ne tombe pas dans cette catégorie."
+    Ad giggle b "Il fait aussi référence aux les rêves prophétique, mais j'espère que le tien ne tombe pas dans cette catégorie."
 
 # game/adine2.rpy:442
 translate french _call_skipcheck_23_3154d577:
 
     # c "I doubt they do."
-    c "Ca me surprendrait que ce le serait."
+    c "Je doute que ce soit le cas."
 
 # game/adine2.rpy:444
 translate french _call_skipcheck_23_f62f1fb5:
 
     # Ad think b "Phew."
-    Ad think b "Phew."
+    Ad think b "Fiou."
 
 # game/adine2.rpy:455
 translate french _call_skipcheck_23_52128d22:
 
     # Ad normal b "Actually, that's not the case. You only think that because you don't remember your dreams."
-    Ad normal b "Actuellement, ce n'est pas le cas. Tu peut seulement y penser parce que tu ne te rapelle pas de ton rêve."
+    Ad normal b "En fait, ce n'est pas le cas. Tu penses ça simplement parce que tu ne te rapelles pas de tes rêves."
 
 # game/adine2.rpy:457
 translate french _call_skipcheck_23_584b119a:
 
     # Ad think b "But even that can tell us something."
-    Ad think b "Mais même ca peut nous dire quelque chose."
+    Ad think b "Mais même ça peut nous dire quelque chose."
 
 # game/adine2.rpy:459
 translate french _call_skipcheck_23_a6521f18:
 
     # Ad "Dream recall is linked to how strong of a sleeper you are and the duration of your rest."
-    Ad "Se rapeller de son rêve est attaché à comment tu est un dormeur dur et la durée de ton someil."
+    Ad "Se rappeler de son rêve est lié à la profondeur et à la durée de ton sommeil."
 
 # game/adine2.rpy:461
 translate french _call_skipcheck_23_25c73dcb:
 
     # Ad normal b "Light sleepers recall their dreams more often, particularly if they wake up during the night. It seems that dream recall is closely related to waking up during the right phase of sleep."
-    Ad normal b "Les réveur légers se rapelle plus souvent de leur rêve, particulièrement si ils se réveille pendant la nuit. Il parrait que ce rapeller de son rêve est relié à se réveiller pendant la bonne phase."
+    Ad normal b "Les dormeurs légers se rapelle plus souvent de leurs rêves, particulièrement s'ils se réveillent pendant la nuit. Il parraît que se rapeller de son rêve a une forte corrélation au fait de se réveiller pendant la bonne phase du sommeil."
 
 # game/adine2.rpy:463
 translate french _call_skipcheck_23_b325d80d:
 
     # Ad "So, if you maintain the same schedule every day and sleep for the same amount of time every night, it could prevent you from remembering your dreams."
-    Ad "Alors, si tu maintient le même horaire chaque jour et que tu dors pour le même montant de temps, ca pourrait t'enpècher de te rapeller de ton rêve."
+    Ad "Alors, si tu maintiens les mêmes horaires chaque jour et que tu dors la même quantité de temps, ça pourrait t'empêcher de te rapeller de tes rêves."
 
 # game/adine2.rpy:470
 translate french _call_skipcheck_23_68b135b3:
 
     # Ad "That could be for a variety of reasons. One theory is that dreams are a way for the brain to process day to day experiences, so it's not unusual to dream of people you've met."
-    Ad "Ca pourrait être pour une variété de raison. une théorie est que les rêves sont une manière au cerveau de procédé les expériences de chaque jour, alors ce n'est pas étrange de rêver des gens que tu connais."
+    Ad "Ca pourrait être pour diverses raisons. Une théorie est que les rêves sont une manière pour le cerveau de trier les expériences de chaque jour, donc ce n'est pas étrange de rêver des gens que tu connais."
 
 # game/adine2.rpy:472
 translate french _call_skipcheck_23_5ed4401f:
