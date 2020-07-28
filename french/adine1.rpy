@@ -534,19 +534,19 @@ translate french _call_skipcheck_10_410ee6b4:
 translate french _call_skipcheck_10_02d2db07:
 
     # Ad "This might be an unusual question, so... When they said it was a human that would be coming here, I kinda expected something a little different."
-    Ad "C'est peut ètre une question étrange, alors... Lorsque qu'ils ont dit que c'était un humain qui viens, je m'attendais à quelque chose d'un peu différent."
+    Ad "C'est peut-être une question étrange, mais... Lorsque qu'ils ont dit que c'est un humain qui viendrait, je m'attendais à quelque chose d'un peu différent."
 
 # game/adine1.rpy:418
 translate french _call_skipcheck_10_9beac2da:
 
     # Ad "You know what I mean..."
-    Ad "Je sais ce que tu veut dire..."
+    Ad "Tu vois ce que je veux dire..."
 
 # game/adine1.rpy:424
 translate french _call_skipcheck_10_2f44ec25:
 
     # Ad "I'm not sure exactly, but they do say it was humans that made us who we are today. You don't seem so different from us, though."
-    Ad "Je ne sais pas exactement, mais c'est dit que ce sont les humains qui ont fait ce qu'on est aujourd'hui. Tu ne semble pas si différent de nous, par exemple."
+    Ad "Je ne suis pas vraiment sûre, mais il est dit que ce sont les humains qui ont fait de nous ce que nous sommes aujourd'hui. Vous ne semblez pas si différents de nous cependant."
 
 # game/adine1.rpy:427
 translate french _call_skipcheck_10_53f42aeb:
@@ -1922,7 +1922,7 @@ translate french strings:
 
     # adine1.rpy:413
     old "Well, what did you expect?"
-    new "Bien, tu t'addendait à quoi?"
+    new "Eh bien, à quoi t'attendais-tu ?"
 
     # adine1.rpy:413
     old "I know."
