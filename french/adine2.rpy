@@ -582,67 +582,67 @@ translate french _call_skipcheck_23_68b135b3:
 translate french _call_skipcheck_23_5ed4401f:
 
     # Ad normal b "But a recurring dream involving the same people is a different story. That could represent strong emotions for or unresolved issues with that person."
-    Ad normal b "Mais un rêve récurrent qui implique la même personne est une autre histoire. Ca peut représenter une émotion puissante pour lui ou des problèmes qui ne sont pas résolus avec cette personne."
+    Ad normal b "Mais pour un rêve récurrent qui implique la même personne c'est une autre histoire. Ca peut représenter des émotions fortes pour cette personne ou des problèmes qui ne sont pas résolus avec elle."
 
 # game/adine2.rpy:475
 translate french _call_skipcheck_23_3761077d:
 
     # c "What about your dreams?"
-    c "Qu'en est t'il de tes rêves?"
+    c "Et pour tes rêves à toi ?"
 
 # game/adine2.rpy:477
 translate french _call_skipcheck_23_aa03ac7a:
 
     # Ad think b "It kinda feels like they're different every night. Most of them are nonsense, but sometimes I dream of people I used to know."
-    Ad think b "Je sens un peu comme si c'est différent chaque nuit. La plupart d'entre eux sont des absurdités, mais parfois je rêve de gens que connaissait."
+    Ad think b "C'est un peu comme si ils étaient différents chaque nuit. La plupart d'entre eux sont des absurdités, mais parfois je rêve de gens que connaissait."
 
 # game/adine2.rpy:479
 translate french _call_skipcheck_23_452a7126:
 
     # Ad "What do you make of all this?"
-    Ad "Qu'est ce que tu pense de tout ca?"
+    Ad "Qu'est-ce que tu penses de tout ça ?"
 
 # game/adine2.rpy:487
 translate french _call_skipcheck_23_0b16a848:
 
     # Ad disappoint b "But dreams are so interesting. They must mean something."
-    Ad disappoint b "Mais les rêves sont tellement intéressant. Ils doivent signifier quelque chose."
+    Ad disappoint b "Mais les rêves sont tellement intéressants. Ils doivent signifier quelque chose."
 
 # game/adine2.rpy:489
 translate french _call_skipcheck_23_1ad66100:
 
     # c "Or maybe they don't mean anything at all. You're overthinking it."
-    c "Ou peut être qu'ils ne signifient rien du tout. Tu y pense trop."
+    c "Ou peut être qu'ils ne signifient rien du tout. Tu réfléchis trop."
 
 # game/adine2.rpy:491
 translate french _call_skipcheck_23_a3230f03:
 
     # Ad think b "I'm just saying there's got to be a reason they exist. Even the article concludes that scientists haven't figured out exactly why we dream. It's a big mystery."
-    Ad think b "Je dit juste qu'il doit avoir une raison que ca existe. Même l'article conclus que les sienctifiques n'ont pas encore trouvé exactement pourquoi est ce que ont rêvent. C'est un grand mystère."
+    Ad think b "Je dis juste qu'il doit y avoir une raison à leur existence. Même l'article conclut que les sienctifiques n'ont pas encore trouvé exactement pourquoi nous rêvons. C'est un grand mystère."
 
 # game/adine2.rpy:498
 translate french _call_skipcheck_23_573eac2e:
 
     # Ad "Even the article concludes that scientists haven't figured out exactly why we dream. It's a big mystery."
-    Ad "Même l'article conclus que les sienctifiques n'ont pas encore trouvé exactement pourquoi est ce que ont rêvent. C'est un grand mystère."
+    Ad "Même l'article conclut que les sienctifiques n'ont pas encore trouvé exactement pourquoi nous rêvons. C'est un grand mystère."
 
 # game/adine2.rpy:501
 translate french _call_skipcheck_23_604e3357:
 
     # Ad normal b "Alright, let's move on."
-    Ad normal b "d'accord, passont à autre chose."
+    Ad normal b "D'accord, changeons de sujet."
 
 # game/adine2.rpy:505
 translate french _call_skipcheck_23_dc53aaac:
 
     # c "Oh, I thought you meant moving on from the magazine."
-    c "Oh, je pensait que tu voulait dire passont à autre chose que le magazine."
+    c "Oh, je pensais que tu voulais dire en finir avec le magazine."
 
 # game/adine2.rpy:507
 translate french _call_skipcheck_23_3cbb554a:
 
     # Ad annoyed b "Don't be such a sourpuss. There's some interesting stuff in here."
-    Ad annoyed b "Ne soit pas si irritable. Il à des choses intéressant à l'intérieur."
+    Ad annoyed b "Ne soit pas aussi soupe au lait. Il y a des choses intéressantes dedans."
 
 # game/adine2.rpy:515
 translate french _call_skipcheck_23_bf8eb063:
@@ -654,73 +654,73 @@ translate french _call_skipcheck_23_bf8eb063:
 translate french _call_skipcheck_23_6c53fdda:
 
     # Ad think b "Okay, maybe you didn't like the first article, but just wait for what I'm going to show you now."
-    Ad think b "Ok, peut être que tu n'a pas aimé le premier article, mais juste attend ce que je vais te montrer maintenant."
+    Ad think b "Ok, peut être que tu n'as pas aimé le premier article, mais attends de voir ce que je vais te montrer maintenant."
 
 # game/adine2.rpy:531
 translate french _call_skipcheck_23_b4acc597:
 
     # Ad giggle b "See, I told you this was going to be fun."
-    Ad giggle b "Tu vois, je t'ai dit que ca alait être amusant."
+    Ad giggle b "Tu vois, je t'ai dit que ça allait être amusant."
 
 # game/adine2.rpy:536
 translate french _call_skipcheck_23_7210ca4f:
 
     # c "What's next?"
-    c "Quel est le prochain?"
+    c "C'est quoi la suite ?"
 
 # game/adine2.rpy:538
 translate french _call_skipcheck_23_02405e38:
 
     # Ad normal b "A personality test. Didn't you always want to know what kind of relationship would suit you?"
-    Ad normal b "Un test de personalité. Ne veut tu pas savoir quel genre de relation qui serait pour toi?"
+    Ad normal b "Un test de personalité. Ne veux-tu pas savoir quel genre de relation te conviendrait le mieux ?"
 
 # game/adine2.rpy:546
 translate french _call_skipcheck_23_bc0d17cb:
 
     # Ad giggle b "In that case, we'll find out if what you think about yourself is true."
-    Ad giggle b "Dans ce cas, ont va voir si ce que tu pense de toi est vrai."
+    Ad giggle b "Dans ce cas, on va voir si ce que tu penses de toi est vrai."
 
 # game/adine2.rpy:553
 translate french _call_skipcheck_23_78cf0049:
 
     # Ad annoyed b "Why do you have to be like that? You don't have to take this seriously, but at least have some fun with it."
-    Ad annoyed b "Pourquoi doit tu être comme ca? Tu n'as même pas besoin de prendre ceci sérieusement, mais au moins amuse toi un peu avec."
+    Ad annoyed b "Pourquoi dois-tu te comporter comme ça ? Tu n'as pas besoin de prendre ça au sérieux, mais au moins amuse toi un peu avec."
 
 # game/adine2.rpy:555
 translate french _call_skipcheck_23_c8963619:
 
     # c "But I'm already having so much fun."
-    c "Mais je m'amuse beaucoup déjà."
+    c "Mais je m'amuse déjà beaucoup."
 
 # game/adine2.rpy:564
 translate french _call_skipcheck_23_9d5db008:
 
     # Ad giggle b "Let's find out."
-    Ad giggle b "Ont va savoir."
+    Ad giggle b "Découvrons ça ensemble."
 
 # game/adine2.rpy:569
 translate french _call_skipcheck_23_a688d1d5:
 
     # Ad normal b "Okay, first question: In a relationship, what role do you take?"
-    Ad normal b "Ok, première question: Dans une relation, quel role prend tu?"
+    Ad normal b "Ok, première question : Dans une relation, quel rôle assumes-tu?"
 
 # game/adine2.rpy:577
 translate french _call_skipcheck_23_37243f64:
 
     # Ad giggle b "Is that so?"
-    Ad giggle b "est-ce vrai?"
+    Ad giggle b "c'est vrai ?"
 
 # game/adine2.rpy:591
 translate french _call_skipcheck_23_d48bec38:
 
     # Ad think b "Really? I didn't think you'd be that kind of person."
-    Ad think b "Vraiment? Je ne croyait pas que tu était ce genre de personne."
+    Ad think b "Vraiment ? Je ne pensais pas que tu étais ce genre de personne."
 
 # game/adine2.rpy:606
 translate french _call_skipcheck_23_cf5c043d:
 
     # Ad "Variety is the spice of life, right?"
-    Ad "La variété est l'épice de la vie, pas vrai?"
+    Ad "Varier met du piment dans la vie, pas vrai ?"
 
 # game/adine2.rpy:609
 translate french _call_skipcheck_23_f2387144:
@@ -732,13 +732,13 @@ translate french _call_skipcheck_23_f2387144:
 translate french _call_skipcheck_23_2ee186bd:
 
     # c "Wait, aren't you going to answer the questions, too?"
-    c "Attend, ne va tu pas répondre au questions aussi?"
+    c "Attends, tu ne vas pas répondre au questions, aussi ?"
 
 # game/adine2.rpy:613
 translate french _call_skipcheck_23_6e464236:
 
     # Ad "I'll take the test after you. I don't want to keep track of both our scores at once."
-    Ad "Je passerait le test aprês toi. Je ne veut pas retenir nos deux scores en même temps."
+    Ad "Je passerai le test aprês toi. Je ne veux pas avoir à retenir nos deux scores en même temps."
 
 # game/adine2.rpy:615
 translate french _call_skipcheck_23_86148265:
@@ -750,67 +750,67 @@ translate french _call_skipcheck_23_86148265:
 translate french _call_skipcheck_23_c7f796d3:
 
     # Ad "Question number two: What is your favorite dessert?"
-    Ad "Question numéro deux: Quel est ton dessert préféré?"
+    Ad "Question numéro deux: Quel est ton dessert préféré ?"
 
 # game/adine2.rpy:627
 translate french adine2menb_508cb881:
 
     # Ad "An all-time classic. Who doesn't like chocolate cake?"
-    Ad "Un classique de tous les temps. Qui n'aime pas le gateau au chocolat?"
+    Ad "Un classique. Qui n'aime pas le gateau au chocolat ?"
 
 # game/adine2.rpy:633
 translate french adine2menb_0cc0ac49:
 
     # Ad giggle b "That's unusual, but sounds really interesting. I'd love to try some!"
-    Ad giggle b "C'est inhabituelle, mais sonne vraiment intéressant. Jadorerais en essayer!"
+    Ad giggle b "C'est inhabituel, mais ça a l'air très intéressant. J'adorerais en goûter !"
 
 # game/adine2.rpy:641
 translate french adine2menb_eec2b1c8:
 
     # Ad "I'm always worried I'll mess up soufflés; they're just so fragile. I'd certainly try one if I had the opportunity, though!"
-    Ad "Je m'inquète toujours que je vais gacher les soufflés; ils sont just tellement fragile. Mais j'essaierais certainement un si j'ai l'opportunité!"
+    Ad "J'ai toujours peur de gâcher les soufflés; ils sont tellement fragiles. Mais j'en essaierais certainement un si j'en avais l'occasion !"
 
 # game/adine2.rpy:647
 translate french adine2menb_a8a5d6a3:
 
     # Ad think b "I don't think chilies should go anywhere near something that's supposed to be a dessert, but that's just me."
-    Ad think b "Je ne pense pas que des chilies devrait être proche de quoi que ce soit qui est supposé être un déssert, mais c'est juste moi."
+    Ad think b "Je ne pense pas que les chilis soient proche de quoi que ce soit supposé être un dessert, mais c'est juste moi."
 
 # game/adine2.rpy:658
 translate french adine2menb_b1e68e2d:
 
     # Ad annoyed b "Oh, just answer it."
-    Ad annoyed b "Oh, juste répond."
+    Ad annoyed b "Oh, on te demande juste une réponse."
 
 # game/adine2.rpy:668
 translate french adine2menb_ea6c0095:
 
     # Ad "Here's the next question: What is your dream job?"
-    Ad "Voici la prochaine question: Quel est ton travail de rêve?"
+    Ad "Voici la prochaine question: Quel est le job de tes rêve ?"
 
 # game/adine2.rpy:676
 translate french adine2menb_02eaf6a9:
 
     # Ad think b "Some people believe that kind of life is very idyllic, but I think it would also be a lot of work."
-    Ad think b "Certaine personnes croie que ce genre de vie est très idyllique, mais je croit que ca peut aussi être beaucoup de bôulot."
+    Ad think b "Certaines personnes croient que ce genre de vie est très idyllique, mais je pense que ça peut aussi être beaucoup de travail."
 
 # game/adine2.rpy:685
 translate french adine2menb_8f25404d:
 
     # Ad think b "I don't understand the appeal of that kind of job. It certainly doesn't mesh well with my ideals."
-    Ad think b "Je ne comprend pas ce qu'il y a d'intéressant avec ce genre de travail. Ca engrene cerrtainement pas avec mes ideaux."
+    Ad think b "Je ne comprends pas ce qu'il y a d'intéressant avec ce genre de travail. Ca n'est certainement pas en phase avec mes idéaux."
 
 # game/adine2.rpy:696
 translate french adine2menb_ec4c07a4:
 
     # Ad think b "I'm with you on that one, but does that really qualify as a job?"
-    Ad think b "Je suis avec toi pour celui ci, mais est ce que ca qualifie vraiment comme un travail?"
+    Ad think b "Je suis avec toi pour celui-ci, mais est ce que c'est vraiment considéré comme un travail ?"
 
 # game/adine2.rpy:698
 translate french adine2menb_4b0981a6:
 
     # c "Are you questioning the almighty magazine?"
-    c "Questionne tu le magazine tout-puissant?"
+    c "Questionnes-tu le magazine tout-puissant ?"
 
 # game/adine2.rpy:700
 translate french adine2menb_dd089063:
@@ -822,7 +822,7 @@ translate french adine2menb_dd089063:
 translate french adine2menb_a239277e:
 
     # c "How many more questions are there?"
-    c "Il reste combien de questions?"
+    c "Il reste combien de questions ?"
 
 # game/adine2.rpy:711
 translate french adine2menb_4e2e790b:
@@ -834,19 +834,19 @@ translate french adine2menb_4e2e790b:
 translate french adine2menb_d653223e:
 
     # Ad normal b "Now, to look up the results."
-    Ad normal b "Maintenant, regarder les résultats."
+    Ad normal b "Maintenant, regardons les résultats."
 
 # game/adine2.rpy:719
 translate french adine2menb_fd8933bb:
 
     # Ad think b "Oh, it says here that the results are outlined in the weight-loss booklet that came with the magazine, but I already threw that away."
-    Ad think b "Oh, ca dit ici que les résultats était souligné dans le livret de perte de poids qui venait avec le magazine, mais je l'ai déja jeté."
+    Ad think b "Oh, ça dit ici que les résultats était renseigné dans le livret de perte de poids qui venait avec le magazine, mais je l'ai déjà jeté."
 
 # game/adine2.rpy:727
 translate french adine2menb_d5bba2c1:
 
     # Ad sad b "Do you think so?"
-    Ad sad b "Croit tu?"
+    Ad sad b "Tu le penses vraiment ?"
 
 # game/adine2.rpy:729
 translate french adine2menb_9f85b645:
@@ -864,37 +864,37 @@ translate french adine2menb_3a48fa0a:
 translate french adine2menb_634302e3:
 
     # Ad disappoint b "Yeah, I really wanted to know."
-    Ad disappoint b "Ouais, je voulait vraiment savoir."
+    Ad disappoint b "Ouais, je voulais vraiment savoir."
 
 # game/adine2.rpy:747
 translate french adine2menb_59cf7678:
 
     # Ad "Yeah, how else would you know?"
-    Ad "Ouais, comment pourrait tu savoir autrement?"
+    Ad "Ouais, comment pourrais-tu le savoir autrement ?"
 
 # game/adine2.rpy:749
 translate french adine2menb_bf587384:
 
     # c "There's no other way. I'll be at a loss for the rest of my life."
-    c "Il n'y à pas d'autre moyens. Je suis dans ma perte pour le restant de mes jours."
+    c "Il n'y a pas d'autre moyens. Je serai perdu pour le restant de mes jours."
 
 # game/adine2.rpy:753
 translate french adine2menb_efe42388:
 
     # Ad giggle b "But now we get to the best part: The fortune cards!"
-    Ad giggle b "Mais maintenant ont est à la meilleur partie: Les cartes de fortune"
+    Ad giggle b "Mais maintenant on est à la meilleure partie: Les cartes de divination."
 
 # game/adine2.rpy:761
 translate french adine2menb_bbcd79f2:
 
     # Ad disappoint b "Come on, what's the worst that could happen?"
-    Ad disappoint b "Allons, quel est le pire qui peut arriver?"
+    Ad disappoint b "Allons, qu'est-ce qui peut t'arriver au pire ?"
 
 # game/adine2.rpy:763
 translate french adine2menb_b1304934:
 
     # c "I could waste precious minutes of my life that I'm never going to get back."
-    c "Je pourrait gaspiller des précieuses minutes de ma vie que je ne pourrait jamais reprendre."
+    c "Je pourrait gaspiller de précieuses minutes de ma vie que je ne pourrai jamais rattraper."
 
 # game/adine2.rpy:765
 translate french adine2menb_fe3290e5:
@@ -906,7 +906,7 @@ translate french adine2menb_fe3290e5:
 translate french adine2menb_8bd50539:
 
     # Ad annoyed b "I just want to try it out for fun. You need to be more open-minded."
-    Ad annoyed b "Je veut juste essayer pour s'amuser. Tu devrait être plus ouvert d'esprit."
+    Ad annoyed b "Je veux juste les essayer pour rire. Tu devrais être plus ouvert d'esprit."
 
 # game/adine2.rpy:781
 translate french adine2menb_f74971f2:
