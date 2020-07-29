@@ -918,109 +918,109 @@ translate french adine2menb_f74971f2:
 translate french adine2menb_c6638b47:
 
     # c "How is that supposed to work, anyway? I mean, they're just cards. How can they predict the future?"
-    c "Comment est ce supposé marché de toute facon? Je veut dire, ce sont juste des cartes. Comment peuvent t'elle prédire le futur?"
+    c "Comment c'est censé marcher au passage ? Je veux dire, ce sont juste des cartes. Comment peuvent-elles prédire l'avenir ?"
 
 # game/adine2.rpy:788
 translate french adine2menb_7a3a5cff:
 
     # Ad think b "Apparently, there are different schools of thought regarding the use of fortune telling cards."
-    Ad think b "Apparament, il y a des pensées différentes au sujet de l'utilisation des cartes de fortunes."
+    Ad think b "Apparament, il y a différentes écoles de pensées  au sujet de l'utilisation des cartes de divination."
 
 # game/adine2.rpy:790
 translate french adine2menb_9f38610b:
 
     # Ad "The cards themselves don't know anything. They're just a tool."
-    Ad "Les cartes eux même ne savent rien. Il sont seulement que des outils."
+    Ad "Les cartes en elles-même ne savent rien. Ce ne sont que des outils."
 
 # game/adine2.rpy:792
 translate french adine2menb_e2cef971:
 
     # Ad normal b "So, the information actually comes from somewhere else."
-    Ad normal b "Alors, l'information viens de quelque part d'autre."
+    Ad normal b "Du coup, l'information en fait vient de quelque part ailleurs."
 
 # game/adine2.rpy:794
 translate french adine2menb_de46ac95:
 
     # c "But where, though?"
-    c "Mais ou, par exemple?"
+    c "Mais d'où ?"
 
 # game/adine2.rpy:796
 translate french adine2menb_d9442b37:
 
     # Ad think b "Well, one interpretation is that it's our subconscious who gives us the answers that we seek."
-    Ad think b "Bien, une interprétation est que c'est notre consience qui nous donne les réponses que l'ont cherche."
+    Ad think b "Eh bien, une interprétation est que c'est notre subconsient qui nous donne les réponses que nous cherchons."
 
 # game/adine2.rpy:798
 translate french adine2menb_a05d560e:
 
     # Ad normal b "Similar to how dreams can be interpreted, the interpretation of the cards is very dependent on the person itself and the symbols they recognize in the card's images."
-    Ad normal b "Semblabe à comment les rêves peuvent être interpreté, l'interpretation des cartes est très dépendant de la personne même et les symboles qu'elle reconnait dans l'image des cartes."
+    Ad normal b "Semblable à la manière dont les rêves peuvent être interprétés, l'interprétation des cartes dépend beaucoup de la personne elle-même et les symboles qu'elle reconnaît dans l'image des cartes."
 
 # game/adine2.rpy:800
 translate french adine2menb_e39569d8:
 
     # Ad "We recognize images that are relevant to our lives, and that gives us an idea about ourselves and our current problems."
-    Ad "Ont reconnait les images qui sont révélant dans nos vies, et ca nous donne une idée à propos de nous même et de nos problèmes courrant."
+    Ad "On reconnaît des images qui sont pertinentes pour nos vies, et ça nous donne une idée à propos de nous-même et de nos problèmes actuels."
 
 # game/adine2.rpy:802
 translate french adine2menb_9281ee4a:
 
     # Ad think b "However, that is just the most grounded interpretation out there. People usually associate something more paranormal with fortune cards."
-    Ad think b "Mais, c'est seulement interprétation la plus simple par la. D'habitude les personnes les associe à quelque chose de plus paranormal avec les cartes de fortune."
+    Ad think b "Mais ça, c'est juste l'interprétation la plus basique en vogue. D'habitude les gens associe les cartes de divination à quelque chose de plus paranormal."
 
 # game/adine2.rpy:804
 translate french adine2menb_8cb2b508:
 
     # Ad "One of those explanations is that the cards are our way to communicate with a higher being, a paranormal entity that knows more than we do and can give us subtle nudges using the cards."
-    Ad "Une des explications est que les cartes sont notre manière de communiqué avec un être, une entité paranormal qui sait plus que nous et peut nous guider subtilement en utilisant des cartes."
+    Ad "Une de ces explications est que les cartes sont notre manière de communiquer avec un être supérieur, une entité paranormal qui en sait plus que nous et qui peut nous guider subtilement au moyen des cartes."
 
 # game/adine2.rpy:806
 translate french adine2menb_f930bbb0:
 
     # c "And who would that be?"
-    c "Et ce serait qui?"
+    c "Et ce serait qui ?"
 
 # game/adine2.rpy:808
 translate french adine2menb_26af2b97:
 
     # Ad giggle b "The explanations range from ghosts to angelic beings. One even involved humans."
-    Ad giggle b "Les explications vont de fantômes jusqu'a des êtres angelique. Un d'entre eux est même à propos des humains."
+    Ad giggle b "Les explications vont des fantômes jusqu'aux entités angélique. L'une d'entre elles impliquait même des humains."
 
 # game/adine2.rpy:810
 translate french adine2menb_4e24c2ca:
 
     # c "Really?"
-    c "Vraiment?"
+    c "Vraiment ?"
 
 # game/adine2.rpy:812
 translate french adine2menb_a793f8f2:
 
     # Ad normal b "Yeah, people would say you could communicate with humans this way."
-    Ad normal b "Ouais, les personnes disent qu'ils peuvent communiquer avec les humains cette manière."
+    Ad normal b "Ouais, les gens disent qu'ils peuvent communiquer avec les humains de cette façon."
 
 # game/adine2.rpy:814
 translate french adine2menb_624b970f:
 
     # Ad think b "And then there was also something they called {i}higher self{/i}."
-    Ad think b "et ensuite il y a quelque chose qu'il appele le {i}soi supérieur{/i}."
+    Ad think b "Et puis il y a quelque chose qu'ils appellent le {i}sur moi{/i}."
 
 # game/adine2.rpy:816
 translate french adine2menb_79f4e854:
 
     # c "Higher self?"
-    c "Le soi supérieur?"
+    c "Le sur moi ?"
 
 # game/adine2.rpy:818
 translate french adine2menb_a25761a6:
 
     # c "How come you know so much about this?"
-    c "Comment sait tu tout ca?"
+    c "Comment sais-tu tout ca ?"
 
 # game/adine2.rpy:820
 translate french adine2menb_b99621a1:
 
     # Ad normal b "Because I read the article about it."
-    Ad normal b "Parce que j'ai lue l'article à ce sujet."
+    Ad normal b "Parce que j'ai lu l'article à ce sujet."
 
 # game/adine2.rpy:822
 translate french adine2menb_4bcb453b:
@@ -1032,19 +1032,19 @@ translate french adine2menb_4bcb453b:
 translate french adine2menb_2e81d834:
 
     # Ad think b "Okay, what should I draw for you?"
-    Ad think b "Ok, qu'est ce que je devrait piger pour toi?"
+    Ad think b "Ok, qu'est ce que je devrais tirer pour toi?"
 
 # game/adine2.rpy:826
 translate french adine2menb_455b9da8:
 
     # c "Why don't I get to be the one who's reading the fortune?"
-    c "Pourquoi n'est ce pas moi qui lit la fortune?"
+    c "Pourquoi ce n'est pas moi qui lit l'avenir ?"
 
 # game/adine2.rpy:828
 translate french adine2menb_e93f73d0:
 
     # Ad giggle b "Because I paid for this magazine, so the cards are mine."
-    Ad giggle b "Parce que j'ai payé ce magazine, alors les cartes sont à moi."
+    Ad giggle b "Parce que j'ai payé pour ce magazine, alors les cartes sont à moi."
 
 # game/adine2.rpy:830
 translate french adine2menb_fe5f3366:
@@ -1056,67 +1056,67 @@ translate french adine2menb_fe5f3366:
 translate french adine2menb_94e2962e:
 
     # c "So, what are my options?"
-    c "Alors, quel sont mes options?"
+    c "Donc, quels sont mes options ?"
 
 # game/adine2.rpy:834
 translate french adine2menb_40be0483:
 
     # Ad normal b "I could read your past, present or future."
-    Ad normal b "Je peut lire ton passé, présent ou futur."
+    Ad normal b "Je peut lire ton passé, ton présent ou ton futur."
 
 # game/adine2.rpy:836
 translate french adine2menb_6b90aa54:
 
     # Ad think b "What is it going to be?"
-    Ad think b "Qu'est ce que ca va être?"
+    Ad think b "Qu'est ce que ça va être ?"
 
 # game/adine2.rpy:845
 translate french adine2menb_b4fdb6ce:
 
     # Ad "Reading the past sounds a little strange, since you already know it, but it might help you see things in a new light or give you a new perspective."
-    Ad "Lire le passé sonne un peu étrange, car tu le sait déjà, mais ca peut peut être t'aider à voir les choses d'une nouvelle lumière ou d'une nouvelle perspective."
+    Ad "Lire le passé peut sembler un peu étrange, car tu le connais déjà, mais ca peut peut-être t'aider à voir les choses sous un nouveau jour et te donner une nouvelle perspective."
 
 # game/adine2.rpy:853
 translate french adine2menb_06b47c2f:
 
     # Ad "Let me see what this card means..."
-    Ad "Voyont voir qu'est ce cette carte veut dire..."
+    Ad "Voyont voir ce que cette carte veut dire..."
 
 # game/adine2.rpy:857
 translate french adine2menb_136ed5fb:
 
     # Ad think b "Your past is filled with fire, strife and conflict. Yet like steel, you adopted it and were tempered by it. What didn't kill you only made you stronger."
-    Ad think b "Votre passé est rempli de flames, disputes et conflits. Mais comme de l'acier, vous l'adopterez et serez tempté. qu'est ce qui ne vous tue pas vous rend seulement plus fort."
+    Ad think b "Votre passé est rempli de flammes, de guerres et de conflits. Mais tele l'acier, vous l'avez embrassé et vous êtes endurci en son sein. ce qui ne vous a pas tué n'a fait que vous rendre plus fort."
 
 # game/adine2.rpy:859
 translate french adine2menb_db719df0:
 
     # Ad "As a result, you grew up quickly and became a mature and decisive individual. You know what you want and you have the potential to get it."
-    Ad "Comme résultat, vous grandisez rapidement et devenez un individu mature et décisif. vous savez qu'est ce que vous voulez et vous avez le potentiel de l'obtenir."
+    Ad "En conséquence, vous avez grandi rapidement et êtes devenu un individu mature et décidé. Vous savez ce que vous voulez et vous avez le potentiel de l'obtenir."
 
 # game/adine2.rpy:861
 translate french adine2menb_4de8e1f8:
 
     # Ad normal b "What do you think about that?"
-    Ad normal b "Que pense tu de cela?"
+    Ad normal b "Que penses-tu de cela ?"
 
 # game/adine2.rpy:869
 translate french adine2menb_2c9c2915:
 
     # Ad think b "Is that so?"
-    Ad think b "Vraiment?"
+    Ad think b "Vraiment ?"
 
 # game/adine2.rpy:871
 translate french adine2menb_be7b3cad:
 
     # Ad normal b "Then it's up to you to keep learning from your past and moving forward with that knowledge."
-    Ad normal b "Alors c'est à toi de continuer à apprendre de ton passé et avancer avec cette connaissance."
+    Ad normal b "Alors c'est à toi de continuer à apprendre de ton passé et avancer avec ce savoir."
 
 # game/adine2.rpy:880
 translate french adine2menb_2a8663e1:
 
     # c "That doesn't really apply to me. Like, at all."
-    c "Ca ne s'applique pas avec moi comme du tout"
+    c "Ca ne s'applique pas à moi. Genre, pas du tout"
 
 # game/adine2.rpy:882
 translate french adine2menb_03673aa6:
@@ -1128,31 +1128,31 @@ translate french adine2menb_03673aa6:
 translate french adine2menb_f4b0bc8c:
 
     # c "Who knows? Maybe you should ask your almighty magazine."
-    c "Qui sait? peut être que tu devrait demander à ton grand magazine."
+    c "Qui sait ? peut être que tu devrais demander à ton magazine tout puissant."
 
 # game/adine2.rpy:886
 translate french adine2menb_d8b41529:
 
     # Ad giggle b "Don't be silly."
-    Ad giggle b "Ne soit pas idiot."
+    Ad giggle b "Arrête de faire l'idiot."
 
 # game/adine2.rpy:892
 translate french adine2menb_5ec8084e:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "C'est três générique. Tu sait que c'est intentionellement vague pour que tous le monde sent comme si ca s'applique à eux, correct?"
+    c "C'est très générique. Tu sais que c'est intentionellement vague pour que tous le monde ait le sentiment que ça s'applique à eux, n'est-ce pas ?"
 
 # game/adine2.rpy:894
 translate french adine2menb_e994abe2:
 
     # Ad annoyed b "You can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Tu ne peut pas vraiment t'attendre à beaucoup de détails à partir de la lecture d'une carte."
+    Ad annoyed b "Tu ne peux pas vraiment t'attendre à beaucoup de détails à partir de la lecture d'une carte."
 
 # game/adine2.rpy:896
 translate french adine2menb_9d0d3f05:
 
     # c "Yeah, I'm sure that's the reason."
-    c "Ouais, je suis sure que c'est ca la raison."
+    c "Ouais, je suis sûre que c'est ça la raison."
 
 # game/adine2.rpy:910
 translate french adine2menb_fa90a747:
