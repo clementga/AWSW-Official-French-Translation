@@ -1152,13 +1152,13 @@ translate french adine2menb_e994abe2:
 translate french adine2menb_9d0d3f05:
 
     # c "Yeah, I'm sure that's the reason."
-    c "Ouais, je suis sûre que c'est ça la raison."
+    c "Ouais, c'est sûrement pour ça."
 
 # game/adine2.rpy:910
 translate french adine2menb_fa90a747:
 
     # Ad "Let's see what it says about the present... According to this, understanding our present situation is paramount to understanding the future, as what we do now influences the future that will become our present."
-    Ad "Voyont voir qu'est ce que ca dit sur le présent... D'après ceci, comprendre la situation présente est primondiale pour comprendre le futur"
+    Ad "Voyons voir ce que ça dit sur le présent... D'après ceci, La compréhension de notre présent est primondiale pour comprendre le futur, car ce que nous faisons maintenant influence le futur qui deviendra notre présent."
 
 # game/adine2.rpy:918
 translate french adine2menb_88df5d81:
@@ -1176,31 +1176,31 @@ translate french adine2menb_02b35a09:
 translate french adine2menb_f173471c:
 
     # Ad "Crossroads are ahead of you. Be wary of your decisions, for the consequences may be dire. Careful actions may have rewarding results, but carelessness could have consequences reaching further than you might think."
-    Ad "Des croissements de chemins sont en avant de vous. Faites attention de vos décisions, car les conséquences peuvent être grave. Des actions prudents pourrait avoir des résultats gratifiants, mais l'imprudence peuvent avoir des conséquenses plus grave que vous pourrez imaginer."
+    Ad "Vous serez à la croisée des chemins. Faites attention à vos décisions, car leurs conséquences pourront être terribles. La prudence pourra avoir des résultats gratifiants, mais l'imprudence pourait avoir des conséquenses ayant plus d'impact que vous ne pouvez l'imaginer."
 
 # game/adine2.rpy:926
 translate french adine2menb_78cdb8e2:
 
     # Ad normal b "At least, that's what the description says."
-    Ad normal b "Au moins, c'est ce qui est écrit sur la description."
+    Ad normal b "Du moins, c'est ce qui est écrit dans la description."
 
 # game/adine2.rpy:928
 translate french adine2menb_019f1399:
 
     # Ad "What's your opinion on this?"
-    Ad "Quel est ton opinion sur cela?"
+    Ad "Quel est ton opinion à ce sujet ?"
 
 # game/adine2.rpy:934
 translate french adine2menb_414990f6:
 
     # c "To be honest, I'm not really sure what this could mean."
-    c "Pour être honnête, je ne suis pas vraiment certain qu'est ce que ca veut dire."
+    c "Pour être honnête, je ne suis pas vraiment certain de ce que ça veut dire."
 
 # game/adine2.rpy:936
 translate french adine2menb_bda1ddb5:
 
     # Ad "Well, we make decisions every single day of our lives. I think it's just telling you to be careful."
-    Ad "Bien, ont fait des décisions chaque jours de notre vie. Je pense que ca te dit juste d'être prudent."
+    Ad "Eh bien, on prend des décisions chaque jour de notre vie. Je pense que ça te dit juste d'être prudent."
 
 # game/adine2.rpy:938
 translate french adine2menb_c3f43f0d:
@@ -1212,37 +1212,37 @@ translate french adine2menb_c3f43f0d:
 translate french adine2menb_54c946a8:
 
     # c "I feel like this is totally true, especially if you consider what it means for me to be here. I'm aware that whatever I do here could impact a lot of lives."
-    c "Je sent que c'est totalement vrai, surtout si ont considère qu'est-ce que ca veut dire pour moi d'être ici. Je suis consient que tout ce que je fait ici peut changer beaucoup de vies."
+    c "J'ai le sentiment que c'est totalement vrai, surtout si on considère ce que ça signifie pour moi d'être ici. Je suis conscient que tout ce que je fais ici pourrait impacter beaucoup de vies."
 
 # game/adine2.rpy:947
 translate french adine2menb_6f49916d:
 
     # Ad "I see. In that case, I agree that you should be very careful."
-    Ad "Je vois. Dans ce cas, je suis d'accord que tu devrait faire três attention."
+    Ad "Je vois. Dans ce cas, je suis d'avis que tu devrais faire très attention."
 
 # game/adine2.rpy:956
 translate french adine2menb_5ec8084e_1:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "C'est três générique. Tu sait que c'est intentionellement vague pour que tous le monde sent comme si ca s'applique à eux, correct?"
+    c "C'est très générique. Tu sais que c'est intentionellement vague pour que tous le monde ait le sentiment que ça s'applique à eux, n'est-ce pas ?"
 
 # game/adine2.rpy:958
 translate french adine2menb_bb359085:
 
     # Ad annoyed b "Well, you can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Tu ne peut pas vraiment t'attendre à beaucoup de détails à partir de la lecture d'une carte."
+    Ad annoyed b "Tu ne peux pas vraiment t'attendre à beaucoup de détails à partir de la lecture d'une carte."
 
 # game/adine2.rpy:960
 translate french adine2menb_9d0d3f05_1:
 
     # c "Yeah, I'm sure that's the reason."
-    c "Ouais, je suis sure que c'est ca la raison."
+    c "Ouais, c'est sûrement pour ça."
 
 # game/adine2.rpy:972
 translate french adine2menb_d2139c34:
 
     # Ad "The prediction of the future is what most people associate with these readings. However, their purpose is to prepare the person in question for a possible future, rather than just predicting it."
-    Ad "La prédiction du futur est ce que la majorité des gens associe avec les ondes. Par exemple, leur raison est de préparer les personnes en questions pour un futur possible, plutôt que juste le prédire."
+    Ad "La prédiction du futur est ce que la majorité des gens associe avec ces interprétations. En revanche, leur but est de préparer les personnes en questions à un futur possible, plutôt que de juste le prédire."
 
 # game/adine2.rpy:980
 translate french adine2menb_af424b97:
@@ -1254,103 +1254,103 @@ translate french adine2menb_af424b97:
 translate french adine2menb_0f173ebb:
 
     # c "What is it?"
-    c "Qu'est-ce que c'est?"
+    c "Qu'est-ce qu'il y a ?"
 
 # game/adine2.rpy:986
 translate french adine2menb_497f0dbd:
 
     # Ad "The card we've drawn is associated with drastic measures, particularly those with a final conclusion."
-    Ad "La carte qu'on a pigé est associé avec des mesures drastiques, particulièrement ceux avec une conclusion finale."
+    Ad "La carte qu'on a tiré est associé avec des mesures drastiques, particulièrement celles avec une conclusion finale."
 
 # game/adine2.rpy:988
 translate french adine2menb_a9733ea8:
 
     # Ad "This can be interpreted in many ways, but it can refer to death, the ultimate conclusion. It can also mean many other things, like a violent outcome of a brewing conflict, or a positive resolution of a long-running conflict."
-    Ad "Ca peut être interpreté de plusieurs manières, mais ca peut referer à la mort, la conclusion ultime. Ca peut aussi dire plein d'autre choses, comme une fin violente d'une confrontation brassant, ou une résolution positive d'une confrontation de longue durée."
+    Ad "Ca peut être interpreté de plusieurs manières, mais ça peut faire référence à la mort, la conclusion ultime. Ca peut aussi dire plein d'autre choses, comme une fin violente à une conflit en gestation, ou la résolution positive d'une confrontation de longue durée."
 
 # game/adine2.rpy:990
 translate french adine2menb_6922aff7:
 
     # Ad "What do you think?"
-    Ad "Qu'en pense tu?"
+    Ad "Qu'en penses tu ?"
 
 # game/adine2.rpy:996
 translate french adine2menb_631e6cfa:
 
     # Ad "Really? How can you already know about the future?"
-    Ad "Vraiment? Comment peut tu déjà savoir à propos du futur?"
+    Ad "Vraiment ? Comment peux-tu déjà connaître le futur ?"
 
 # game/adine2.rpy:998
 translate french adine2menb_85205a4b:
 
     # c "Let's just say I have a hunch. It mentioned resolutions to conflicts that have been brewing, and there's definitely stuff brewing."
-    c "Disont juste que j'ai un préssentiment. Ca mentione des résolution à des conflits qui sont brassé, et il y a défénitivement des choses qui brasse."
+    c "Disons juste que j'ai un pressentiment. Ca mentionnait la résolution de conflits qui ont macéré, et il se passe défénitivement quelque chose."
 
 # game/adine2.rpy:1007
 translate french adine2menb_c80ff75f:
 
     # Ad normal b "If anything, it's not supposed to make you worry, but give you some input so you can prepare for what is to come."
-    Ad normal b "Quoi que ce soit, ce n'est pas supposer t'inquièter, mais te donner une idée pour que tu peut te préparer pour ce qui est à venir."
+    Ad normal b "Quoi qu'il en soit, ce n'est pas censé t'inquièter, mais te donner des idée pour que tu puisses te préparer à ce qui va arriver."
 
 # game/adine2.rpy:1009
 translate french adine2menb_d343259d:
 
     # c "And what would that be?"
-    c "Et qu'est-ce que ca pourrait être?"
+    c "Et qu'est-ce que ca pourrait être ?"
 
 # game/adine2.rpy:1011
 translate french adine2menb_2e04c98c:
 
     # Ad think b "I suppose you'll find that out when the time comes."
-    Ad think b "Je suppose que tu le découvrera lorsque le temps viendra."
+    Ad think b "Je suppose que tu le découvriras en temps voulu."
 
 # game/adine2.rpy:1016
 translate french adine2menb_5ec8084e_2:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "C'est três générique. Tu sait que c'est intentionellement vague pour que tous le monde sent comme si ca s'applique à eux, correct?"
+    c "C'est très générique. Tu sais que c'est intentionellement vague pour que tous le monde ait le sentiment que ça s'applique à eux, n'est-ce pas ?"
 
 # game/adine2.rpy:1018
 translate french adine2menb_bb359085_1:
 
     # Ad annoyed b "Well, you can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Tu ne peut pas vraiment t'attendre à beaucoup de détails à partir de la lecture d'une carte."
+    Ad annoyed b "Tu ne peux pas vraiment t'attendre à beaucoup de détails à partir de la lecture d'une carte."
 
 # game/adine2.rpy:1020
 translate french adine2menb_9d0d3f05_2:
 
     # c "Yeah, I'm sure that's the reason."
-    c "Ouais, je suis sure que c'est ca la raison."
+    c "Ouais, c'est sûrement pour ça."
 
 # game/adine2.rpy:1026
 translate french adine2menb_e778aec1:
 
     # Ad "I guess that's everything the magazine has to offer."
-    Ad "Je pense que c'est tout ce que le magazine à a offrir."
+    Ad "Je pense que c'est tout ce que le magazine a à proposer."
 
 # game/adine2.rpy:1034
 translate french adine2menb_1195d717:
 
     # Ad normal b "I guess that means you had fun, then?"
-    Ad normal b "Je pense que ca veut dire que tu t'est amusé, alors?"
+    Ad normal b "J'imagine que ca veut dire que tu t'es amusé, alors ?"
 
 # game/adine2.rpy:1036
 translate french adine2menb_f59a91d6:
 
     # c "Sure, let's call it that."
-    c "Certain, appelons ça comme ça."
+    c "Ouais, appelons ça comme ça."
 
 # game/adine2.rpy:1043
 translate french adine2menb_f9e88f49:
 
     # Ad "Actually, yeah. It's not like I'm going to read the articles again."
-    Ad "Présentement, ouais. Ce n'est pas comme si je vais lire les article de nouveau."
+    Ad "En fait, ouais. Ce n'est pas comme si je allais relire les articles."
 
 # game/adine2.rpy:1045
 translate french adine2menb_f8368da4:
 
     # Ad normal b "But I'll keep the cards, because it'd be a shame to just throw them away. The pictures are so artistic and pretty."
-    Ad normal b "Mais je garde les cartes, parce que se serait dommage de les jeter. Les photos sont tellement artistique et belle."
+    Ad normal b "Mais je vais garder les cartes, parce que ce serait dommage de les jeter. Les images sont si artistique et si jolies."
 
 # game/adine2.rpy:1047
 translate french adine2menb_9cefa3aa:
@@ -1362,43 +1362,43 @@ translate french adine2menb_9cefa3aa:
 translate french adine2menb_72213e9e:
 
     # Ad disappoint b "It's got to be so much work to create a magazine like this. From selecting the topics, writing the articles, doing all the photos and the layouts... And then to get it to shops and into the hands of customers. All that work just for it to end up in the trash."
-    Ad disappoint b "Ça devrait être tellement de travail pour crée un magazine comme celui ci. De sélectionner les sujets, écrire les articles, prendre toutes les photos et les schémas... Et ensuite les mettre dans les magazins et sur les maies des clients. Tout ce travail juste pour que ca fini dans les poubelles."
+    Ad disappoint b "Ça a dû être tellement de travail pour créer un magazine comme celui ci. De sélectionner les sujets, écrire les articles, prendre toutes les photos et les schémas... Et ensuite les mettre dans les magasins et sur les mains des clients. Tout ce travail juste pour que ça finisse à la poubelle."
 
 # game/adine2.rpy:1055
 translate french adine2menb_c9e7ff04:
 
     # Ad think b "With how often they come out, it's like they're designed to be disposable."
-    Ad think b "Avec comment souvent qu'il en sorte, c'est comme si ils ont été fait pour être disposable."
+    Ad think b "Avec la fréquence à laquelle ils sortent, c'est comme s'ils avaient été faits pour être jetables."
 
 # game/adine2.rpy:1057
 translate french adine2menb_395123dc:
 
     # c "At least they can recycle the materials."
-    c "Au moins ils peuvent recycler le matériel."
+    c "Au moins, ils peuvent recycler les matériaux."
 
 # game/adine2.rpy:1059
 translate french adine2menb_6cbb26c0:
 
     # Ad normal b "That's true, I suppose."
-    Ad normal b "Je suppose que c'est vrai."
+    Ad normal b "C'est vrai, enfin je suppose."
 
 # game/adine2.rpy:1068
 translate french adine2menb_40b53bc0:
 
     # Ad normal b "I could try to find the diet booklet if you're that desperate to find out the personality test results."
-    Ad normal b "Je pourrait essayer de trouver le livret de diète si tu est tellement déseperé de trouver les résultats du test de personalité."
+    Ad normal b "Je pourrais essayer de trouver le livret de régime si tu es si déseperé de découvrir les résultats du test de personalité."
 
 # game/adine2.rpy:1070
 translate french adine2menb_a6894498:
 
     # c "Please don't."
-    c "S'il te plait ne le fait pas."
+    c "S'il te plait ne le fais pas."
 
 # game/adine2.rpy:1072
 translate french adine2menb_14467b12:
 
     # Ad giggle b "Alright."
-    Ad giggle b "D'accord."
+    Ad giggle b "Ca roule."
 
 # game/adine2.rpy:1077
 translate french adine2menb_93e0bca7:
