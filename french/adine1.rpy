@@ -552,43 +552,43 @@ translate french _call_skipcheck_10_2f44ec25:
 translate french _call_skipcheck_10_53f42aeb:
 
     # c "I know. Remy told me about some of the commonly held beliefs here."
-    c "Je sais. Remy ma parlé de certaine croyance communes d'ici."
+    c "Je sais. Rémi m'a parlé de certaines croyances fréquentes d'ici."
 
 # game/adine1.rpy:430
 translate french _call_skipcheck_10_ac2a2159:
 
     # Ad "I mean, yeah, you do look different from us, but you're not really anything like some of the things that have been said about your kind."
-    Ad "Je veut dire, ouais, tu as l'air différent, mais tu n'est pas vraiment comme ce que l'ont dit sur votre espèce."
+    Ad "Je veux dire, ouais, tu as l'air différent de nous, mais tu ne ressembles en rien aux choses qui ont pu être dites à propos de ton espèce."
 
 # game/adine1.rpy:431
 translate french _call_skipcheck_10_91928a3d:
 
     # c "I could say the same thing about you."
-    c "Je pourrait dire la même chose sur toi."
+    c "Je pourrais dire la même chose à propos de toi."
 
 # game/adine1.rpy:433
 translate french _call_skipcheck_10_c097ab55:
 
     # Ad "Really?"
-    Ad "Vraiment?"
+    Ad "Vraiment ?"
 
 # game/adine1.rpy:434
 translate french _call_skipcheck_10_93f88486:
 
     # c "Yeah, we have plenty of myths about dragons."
-    c "Ouais, ont a plein de mythes sur les dragons."
+    c "Ouais, nous avons beaucoup de mythes sur les dragons."
 
 # game/adine1.rpy:438
 translate french _call_skipcheck_10_8b9da41f:
 
     # Ad "Like what?"
-    Ad "Comme quoi?"
+    Ad "Comme quoi ?"
 
 # game/adine1.rpy:442
 translate french _call_skipcheck_10_c21eb134:
 
     # c "There are just too many to list. Some of them good, some not so much."
-    c "Il en a juste beaucoup trop pour listé. Certain d'entre eux sont bon, d'autres pas si bien."
+    c "Il en a simplement beaucoup trop pour tous les lister. Certain sont positifs, d'autres pas vraiment."
 
 # game/adine1.rpy:444
 translate french _call_skipcheck_10_8abc6d5e:
@@ -1930,15 +1930,15 @@ translate french strings:
 
     # adine1.rpy:440
     old "There are too many to list."
-    new "Il en a beaucoup trop à compter."
+    new "Il y en a beaucoup trop pour tous les lister."
 
     # adine1.rpy:440
     old "Dragons are greedy, man-eating monsters."
-    new "Les dragons sont des monstres cupides, mangeur d'hommes."
+    new "Les dragons sont des monstres cupides mangeurs d'hommes."
 
     # adine1.rpy:440
     old "Dragons are noble creatures."
-    new "Les dragons sont des créatures noble."
+    new "Les dragons sont de nobles créatures."
 
     # adine1.rpy:485
     old "I thought it was a joke."
