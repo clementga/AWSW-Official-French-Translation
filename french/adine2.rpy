@@ -1404,199 +1404,199 @@ translate french adine2menb_14467b12:
 translate french adine2menb_93e0bca7:
 
     # Ad "So, do you have anything interesting going on at the moment? I can't imagine what ambassador life is like."
-    Ad "Alors, as tu quelque chose d'intéressant qui ce passe ce moment? Je ne peut pas imaginer comment est la vie d'un embassadeur."
+    Ad "Alors, as-tu quelque chose d'intéressant qui se passe en ce moment ? Je ne peux imaginer comment doit être la vie d'un ambassadeur."
 
 # game/adine2.rpy:1079
 translate french adine2menb_c4073417:
 
     # c "It's been busy. I thought this whole thing would go by quickly and without any mishaps, but now it seems like there's always something happening."
-    c "C'était occupant. Je croyait que toute cette histoire allait finir vite et sans pépins, mais maintenant il parait qu'il y a toujours quelque chose qui arrive."
+    c "Ca a été assez dense. Je croyais que toute cette histoire allait finir vite et sans pépins, mais on dirait qu'il se passe toujours quelque chose."
 
 # game/adine2.rpy:1081
 translate french adine2menb_f4e0c922:
 
     # Ad think b "Oh, really?"
-    Ad think b "Oh, vraiment?"
+    Ad think b "Oh, vraiment ?"
 
 # game/adine2.rpy:1083
 translate french adine2menb_491287e4:
 
     # c "Yeah. I figured I'd come here, do the exchange and leave again, but apparently it's not that easy."
-    c "Ouais. Je me disait que je viendrais ici, faire l'échange et repartir, mais apparament ce n'est pas si facile."
+    c "Ouais. Je me disais que je viendrais ici, faire l'échange et repartir, mais apparament ce n'est pas si facile."
 
 # game/adine2.rpy:1085
 translate french adine2menb_e93999f4:
 
     # Ad disappoint b "It never is."
-    Ad disappoint b "Ce ne l'est jamais."
+    Ad disappoint b "Ca ne l'est jamais."
 
 # game/adine2.rpy:1087
 translate french adine2menb_150fc667:
 
     # c "You speak like you've had experience as an ambassador."
-    c "Tu parle comme si tu a eu de l'expérience comme embassadeur."
+    c "Tu parles comme si tu avais de l'expérience comme ambassadeur."
 
 # game/adine2.rpy:1089
 translate french adine2menb_fbdb7bb4:
 
     # Ad normal b "Well, no, but doing deliveries is similar. People order something, I fly to them, we exchange the product for payment and then I go back. It's basically the same thing."
-    Ad normal b "Bien, non, mais faire des livraisons est similaire. Les personnes commande quelque chose, je vole jusqu'a eux, ont échange les produits et je retourne. c'est simplement la même chose."
+    Ad normal b "Eh bien, non, mais faire des livraisons est similaire. Les personnes commandent quelque chose, je vole jusqu'à eux, on échange les produits contre paiement et je rentre. c'est basiquement la même chose."
 
 # game/adine2.rpy:1091
 translate french adine2menb_9633229f:
 
     # c "Yeah, sure."
-    c "Ouais, certain."
+    c "Mouais."
 
 # game/adine2.rpy:1093
 translate french adine2menb_5b9fa8d9:
 
     # Ad think b "But things always go wrong. For example, imagine you have two deliveries to make and the first one goes smoothly, okay?"
-    Ad think b "Mais les choses vont toujours mal. Par exemple, imagine que tu a deux commandes à faire et le premier va sans pépin, ok?"
+    Ad think b "Mais les choses vont toujours mal. Par exemple, imagine que tu as deux commandes à faire et la première se passe sans accros, ok?"
 
 # game/adine2.rpy:1095
 translate french adine2menb_59ab7f92:
 
     # c "I'm imagining it very hard right now."
-    c "Je l'imagine três dur présentement."
+    c "Je l'imagine très clairement ouais."
 
 # game/adine2.rpy:1097
 translate french adine2menb_0ce1db36:
 
     # Ad normal b "Alright, so you get to the destination of the second delivery, and they actually check what you're handing them. It turns out that you mixed up the orders, but you already delivered the first one."
-    Ad normal b "D'accord, alors tu va à la destination de la seconde livraison, et ils vérifient qu'est-ce que tu leurs à donné. Parait que tu as mélangé les commandes, mais tu a déjà délivré la première."
+    Ad normal b "D'accord, alors tu vas à la destination de la seconde livraison, et ils vérifient ce que tu leur as donné. Il s'avère que tu as mélangé les commandes, mais que tu as déjà livré la première."
 
 # game/adine2.rpy:1099
 translate french adine2menb_f7af450f:
 
     # c "That's certainly not a pleasant situation to be in."
-    c "Ce n'est certainement pas une situation plaisante à s'être mis."
+    c "Ce n'est certainement pas une situation plaisante dans laquelle se trouver."
 
 # game/adine2.rpy:1101
 translate french adine2menb_e16edad8:
 
     # Ad "Now you have to go back to the first family you delivered to, who by now have probably noticed that they got the wrong delivery, and exchange what you gave them for what they actually ordered."
-    Ad "Maintenant tu doit retourner à la première famille que tu as délivré, que par maintenant ils ont probablement apercu qu'ils ont eu la mauvaise livraison, et échanger ce que tu as donné par ce qu'ils ont réellement commandé."
+    Ad "Maintenant tu dois retourner voir la première famille que tu as livré, lesquels se sont probablement apercus d'avoir eu la mauvaise livraison, et échanger ce que tu leur as donné par ce qu'ils ont réellement commandé."
 
 # game/adine2.rpy:1103
 translate french adine2menb_f5f7c27d:
 
     # c "Right."
-    c "Bien."
+    c "Oui."
 
 # game/adine2.rpy:1105
 translate french adine2menb_b089f199:
 
     # Ad giggle b "But it turns out that they didn't mind the mix-up. As a matter of fact, they have already started eating what they got instead."
-    Ad giggle b "Mais il semble que le mélange ne l'est a pas dérangé. En vérité, ils ont déjà commencé à manger ce qu'ils ont recu à la place."
+    Ad giggle b "Mais il semble que le mélange ne les ait pas dérangé. Pour preuve, ils avaient déjà commencé à manger ce qu'ils avaient reçu à la place."
 
 # game/adine2.rpy:1107
 translate french adine2menb_4685d231:
 
     # Ad normal b "It's not so bad that they aren't angry, but now you can't exchange the orders anymore, so you have to fly back to the restaurant to get the second order remade."
-    Ad normal b "Ce n'est pas mauvais qu'ils ne sont pas faché, mais maintenant tu ne peut plus faire l'échange des commandes, alors tu doit retourner au restaurant pour refaire la seconde commande."
+    Ad normal b "Ce n'est pas si mal qu'ils ne soient pas faché, mais maintenant tu ne peux plus échanger les commandes, donc tu dois retourner au restaurant pour refaire la seconde commande."
 
 # game/adine2.rpy:1109
 translate french adine2menb_ac3e265b:
 
     # c "Happens all the time."
-    c "Arrive tout le temps."
+    c "Ca arrive tout le temps."
 
 # game/adine2.rpy:1111
 translate french adine2menb_8e38b30a:
 
     # Ad disappoint b "As a result, the people waiting for the second order do get angry, because their order has to be remade and delivered all over again."
-    Ad disappoint b "Comme résultat, les personnes qui attendent la deuxième commande s'impatiente, parce que leur commande devait être revaite de nouveau."
+    Ad disappoint b "Comme définitive, les personnes qui attendent la deuxième commande s'impatientent, parce que leur commande doit être refaite intégralement."
 
 # game/adine2.rpy:1113
 translate french adine2menb_e2a3b9f7:
 
     # c "And the plot thickens."
-    c "Et ca se complique."
+    c "Et ça se complique."
 
 # game/adine2.rpy:1115
 translate french adine2menb_c16905a7:
 
     # Ad annoyed b "They complain and, of course, get their meal comped."
-    Ad annoyed b "Ils se plaignent, et bien sur, préparent leur repas."
+    Ad annoyed b "Ils se plaignent, et bien sûr, se font offrir le repas."
 
 # game/adine2.rpy:1117
 translate french adine2menb_d3f38257:
 
     # Ad disappoint b "The restaurant can no longer sell that first order you still have, so the orders for both families are deducted from your paycheck and you end up eating nothing but ramen all week again, just so you can make rent this month."
-    Ad disappoint b "Le restaurant ne peut plus vendre cette première commande que tu as encore, alors la commande pour les deux familles est déduit de ton salaire et tu fin par manger que du ramen toute la semaine, juste pour payer le loyer ce mois."
+    Ad disappoint b "Le restaurant ne peut plus vendre cette première commande que tu as encore, alors les commandes des deux familles sont déduites de ton salaire et tu finis par manger que du ramen toute la semaine, juste pour payer le loyer ce mois ci."
 
 # game/adine2.rpy:1119
 translate french adine2menb_c70db99e:
 
     # c "That is unfortunate."
-    c "C'est un malheur."
+    c "C'est pas de chance."
 
 # game/adine2.rpy:1121
 translate french adine2menb_90397797:
 
     # Ad normal b "And that's why you always double check your orders, because even a small mistake can have consequences reaching further than you'd think."
-    Ad normal b "Et voila pourquoi tu devrais toujours vérifier tes commandes, parce que même une petite faute peut avoir des conséquenses plus grande que tu crois."
+    Ad normal b "Et voila pourquoi tu vérifies toujours tes commandes deux fois, parce que même une petite erreur peut avoir des conséquenses plus grande que tu ne le crois."
 
 # game/adine2.rpy:1123
 translate french adine2menb_2c567139:
 
     # c "Sometimes we just have to learn the hard way."
-    c "Parfois, il faut juste apprendre de la manière difficile."
+    c "Parfois, il faut juste apprendre à la dure."
 
 # game/adine2.rpy:1125
 translate french adine2menb_4ad9854f:
 
     # Ad disappoint b "I guess so."
-    Ad disappoint b "Ont dirait que c'est le cas."
+    Ad disappoint b "On dirait que c'est le cas."
 
 # game/adine2.rpy:1127
 translate french adine2menb_e3cf18f6:
 
     # c "Anyway, what else have you been up to recently?"
-    c "De toute façon, tu fait quoi d'autre récamment?"
+    c "Enfin bref, Il y a quoi d'autre de neuf récemment ?"
 
 # game/adine2.rpy:1129
 translate french adine2menb_4a504078:
 
     # Ad normal b "Do you remember the stunt flying competition I told you about?"
-    Ad normal b "Tu te rapelle de la compétition d'acrobaties aérienne que je t'avait parlé?"
+    Ad normal b "Tu te rapelles de la compétition d'acrobaties aérienne dont je t'avais parlé ?"
 
 # game/adine2.rpy:1131
 translate french adine2menb_1277548e:
 
     # c "Of course. I assume your participation is a given by now?"
-    c "Bien sur. Jassume que ta participation est garantie maintenant?"
+    c "Bien sur. Je présume que ta participation est garantie maintenant ?"
 
 # game/adine2.rpy:1133
 translate french adine2menb_c5d42cb2:
 
     # Ad think b "Actually, I'm not so sure about that. I mailed the application earlier today, so hopefully it will arrive before the deadline."
-    Ad think b "En fait, je ne suis pas certain pour ca. J'ai posté mon application plus tôt aujourd'hui, alors espèront qu'il va arriver avant la date limite."
+    Ad think b "En fait, je n'en suis pas sûre. J'ai posté ma candidature plus tôt aujourd'hui, alors espérons que ça va arriver avant la date limite."
 
 # game/adine2.rpy:1135
 translate french adine2menb_560c5588:
 
     # Ad giggle b "Or maybe I should just fly it over myself. While showing off a few moves, that is."
-    Ad giggle b "Ou peut être je devrait juste voler la bas par moi même. En même temps que je montre quelques trucs, bien sur."
+    Ad giggle b "Ou peut être que je devrais juste voler là bas en personne. Et dans le même temps leur montrer quelques cascades, bien sûr."
 
 # game/adine2.rpy:1137
 translate french adine2menb_807de2e9:
 
     # c "You should fly over anyway to make sure you get in. It would be a shame if you couldn't enter because of a technicality."
-    c "Tu devrait voler la bas de toute façon pour être certaine d'être inscrite. Ce serait dommage si tu ne pourrait pas entré à cause d'une technicalité."
+    c "Tu devrais aller là bas de toute façon pour t'assurer d'être inscrite. Ce serait dommage si tu ne pouvais pas participer à cause d'un détail technique."
 
 # game/adine2.rpy:1139
 translate french adine2menb_e962cf79:
 
     # Ad normal b "Yeah, I really should drop by."
-    Ad normal b "Ouais, je devrait vraiment y aller."
+    Ad normal b "Ouais, je devrais vraiment y faire un tour."
 
 # game/adine2.rpy:1143
 translate french adine2skip_5446a5a2:
 
     # Ad think b "By the way, could you do me a favor?"
-    Ad think b "Au fait, pourrait tu me faire une faveur?"
+    Ad think b "Au fait, pourrais-tu me faire une faveur ?"
 
 # game/adine2.rpy:1145
 translate french adine2skip_3206ae11:
@@ -1608,19 +1608,19 @@ translate french adine2skip_3206ae11:
 translate french adine2skip_b341871b:
 
     # Ad normal b "It's kind of a long story, but there's something I need. You know some people at the police station, right?"
-    Ad normal b "C'est une sorte de longue histoire, mais il y a quelque chose que j'ai besoin. Tu connait certaine personnes de la station de police, correct?"
+    Ad normal b "C'est une longue histoire, mais il y a quelque chose dont j'ai besoin. Tu connais certaines personnes au commisariat, n'est-ce pas ?"
 
 # game/adine2.rpy:1149
 translate french adine2skip_24c7ada5:
 
     # c "Yes?"
-    c "Oui?"
+    c "Oui ?"
 
 # game/adine2.rpy:1151
 translate french adine2skip_45cb9ba5:
 
     # Ad think b "I think they're in possession of a map related to an underground building they found."
-    Ad think b "Je pense qu'ils sont en possession d'une carte relié à un batiment souterrain qu'ils ont trouvé."
+    Ad think b "Je pense qu'ils sont en possession d'une carte relié à un bâtiment souterrain qu'ils ont découvert."
 
 # game/adine2.rpy:1153
 translate french adine2skip_ffece9d6:
@@ -1632,37 +1632,37 @@ translate french adine2skip_ffece9d6:
 translate french adine2skip_6dfd4551:
 
     # Ad normal b "Oh, that's great! Maybe you can get them to hand it over? It doesn't even have to be the real thing, a copy would be just fine."
-    Ad normal b "Oh, c'est bien! Peut être tu pourrait mettre la mais dessus? Même pas besoin de la vrai chose, une copie ferrait l'affaire."
+    Ad normal b "Oh, génial ! Peut être tu pourrais mettre la main dessus ? Même pas besoin de l'original, une copie ferait l'affaire."
 
 # game/adine2.rpy:1157
 translate french adine2skip_fde92139:
 
     # c "What do you even need it for?"
-    c "Pourquoi l'as tu même besoin?"
+    c "Pourquoi en as-tu besoin ?"
 
 # game/adine2.rpy:1159
 translate french adine2skip_8bfde663:
 
     # Ad think b "Let's just say I'm interested in doing a little investigation of the place myself."
-    Ad think b "Disont juste que je suis intéressé à faire une petite investigation de l'endroit moi même."
+    Ad think b "Disons juste que je suis intéressé par une petite investigation de l'endroit par moi-même."
 
 # game/adine2.rpy:1161
 translate french adine2skip_cf1a4a1a:
 
     # c "What's so special about it?"
-    c "qu'est ce qui est si spécial avec cet endroit?"
+    c "Qu'est ce qui est si spécial avec cet endroit ?"
 
 # game/adine2.rpy:1163
 translate french adine2skip_3d7a1cf2:
 
     # Ad normal b "It's supposed to be a remnant of an earlier civilization, or maybe even something created by humans. Who wouldn't be interested in that?"
-    Ad normal b "C'est supposé être les restes d'une ancienne civilisation, ou peut être même quelque chose crée par des humains. Qui ne serait pas intéressé par ca?"
+    Ad normal b "C'est supposé être les restes d'une ancienne civilisation, ou peut être même quelque chose crée par les humains. Qui ne serait pas intéressé par ça ?"
 
 # game/adine2.rpy:1171
 translate french adine2skip_46a68dc8:
 
     # Ad giggle b "If I had you all to myself it might be enough, but since your stay is only temporary, I'll need some other human-related things to keep me busy."
-    Ad giggle b "Si j'ai toi à moi tout seule ce serait peut être assez, mais puisque ton séjour est seulement temporaire, J'ai besoin d'autre choses relié au humains pour me tiendre occupée."
+    Ad giggle b "Si je t'avais pour moi toute seule ce serait peut être suffisant, mais puisque ton séjour est seulement temporaire, J'ai besoin d'autre artefacts humains pour me tenir occupée."
 
 # game/adine2.rpy:1180
 translate french adine2skip_0395e0a6:
@@ -1674,253 +1674,253 @@ translate french adine2skip_0395e0a6:
 translate french adine2skip_e2af3c5d:
 
     # Ad "See? I think if you put your word in, we could easily make it happen."
-    Ad "Tu vois? Je pense que si tu mets ta parole, ont pourrait facilement le réaliser."
+    Ad "Tu vois ? Je pense que si tu mets ta parole en jeu, ont pourrait y arriver facilement."
 
 # game/adine2.rpy:1189
 translate french adine2skip_ac60032b:
 
     # c "How do I even ask for something like that?"
-    c "Comment puis-je même demander pour quelque chose comme ca?"
+    c "Comment puis-je même demander pour quelque chose comme ca ?"
 
 # game/adine2.rpy:1191
 translate french adine2skip_045604be:
 
     # Ad think b "You could always say that humanity is interested in it."
-    Ad think b "Tu pourrait toujours dire que l'humanité en est intéressé."
+    Ad think b "Tu pourrait toujours dire que l'humanité y porte un intérêt."
 
 # game/adine2.rpy:1193
 translate french adine2skip_3ffe97ce:
 
     # c "Honestly, they probably would be."
-    c "Honnètement, ils le serait probablement."
+    c "Honnètement, ils pourraient en porter un probablement."
 
 # game/adine2.rpy:1195
 translate french adine2skip_700fa348:
 
     # Ad sad b "Could you ask them for me, please?"
-    Ad sad b "Pourait tu leur demander pour moi, s'il te plait?"
+    Ad sad b "Pourais-tu leur demander pour moi, s'il te plait ?"
 
 # game/adine2.rpy:1203
 translate french adine2skip_12bd11ab:
 
     # c "I won't promise anything, but I can certainly try."
-    c "Je ne te promets rien, mais je peut certainement essayer."
+    c "Je ne te promets rien, mais je peux certainement essayer."
 
 # game/adine2.rpy:1205
 translate french adine2skip_0db89e6b:
 
     # Ad normal b "Thank you! That means a lot to me."
-    Ad normal b "Merci! Ca veut dire beaucoup pour moi."
+    Ad normal b "Merci ! Ca représente beaucoup pour moi."
 
 # game/adine2.rpy:1212
 translate french adine2skip_b25542e6:
 
     # c "I'll have to think about it. No promises."
-    c "Je doit y réfléchir. Pas de promesses."
+    c "Je dois y réfléchir. Je ne te promets rien."
 
 # game/adine2.rpy:1214
 translate french adine2skip_52938c4f:
 
     # Ad normal b "Thank you!"
-    Ad normal b "Merci!"
+    Ad normal b "Merci !"
 
 # game/adine2.rpy:1219
 translate french adine2skip_cb1f1990:
 
     # c "Even if I wanted to, the police have bigger problems to deal with. I don't want to burden them more by making them look for a piece of paper."
-    c "Même si je voulait, la police a des plus gros problèmes à s'occuper. Je ne veut pas les nuire d'avantage en les faisant chercher pour un morceau de papier."
+    c "Même si je le voulais, la police a des plus gros problèmes à gérer. Je ne veux pas les charger d'avantage en les obligeant à chercher pour un morceau de papier."
 
 # game/adine2.rpy:1221
 translate french adine2skip_f43faceb:
 
     # Ad disappoint b "Well, it was worth a shot."
-    Ad disappoint b "Bien, ca vaulait le coup."
+    Ad disappoint b "Bien, ca valait le coup d'essayer."
 
 # game/adine2.rpy:1226
 translate french adine2skip_5fec0ad0:
 
     # c "I didn't know you were into archaeology."
-    c "Je ne savait pas que tu aimait l'archéologie."
+    c "Je ne savais pas que tu aimais l'archéologie."
 
 # game/adine2.rpy:1228
 translate french adine2skip_f842cf75:
 
     # Ad think b "I wouldn't care as much if it turned out to just be some old building. The whole thing about it being made by humans is what's really interesting."
-    Ad think b "Je m'en foutrais autant s'il s'avérait que ce soi juste un vieux bâtiment. La grosse affaire sur le fait qu'elle est construit par des humains est ce qui est vraiment intéressant."
+    Ad think b "Je m'en ficherait pas mal si ça s'avérait n'être qu'un vieux bâtiment. Le point intéressant repose sur le fait qu'elle fut construite par des humains."
 
 # game/adine2.rpy:1230
 translate french adine2skip_309e5307:
 
     # c "Why's that?"
-    c "Pourquoi ca?"
+    c "Pourquoi ca ?"
 
 # game/adine2.rpy:1232
 translate french adine2skip_83335fed:
 
     # Ad normal b "Well, the myths wouldn't be very mythical anymore if that was the case. We'd have proof."
-    Ad normal b "Bien, les mythes ne serait plus vraiment mythique si c'était le cas. Ont aura une preuve."
+    Ad normal b "Eh bien, les mythes ne seraient plus vraiment mythique si c'était le cas. On aurait une preuve."
 
 # game/adine2.rpy:1234
 translate french adine2skip_42be37ee:
 
     # c "And that so shortly after finding out that humans are, in fact, real."
-    c "Et tout de suite après avoir trouvé que les humains sont, en fait, réel."
+    c "Et pour tout de suite après découvrir que les humains sont, en fait, réel."
 
 # game/adine2.rpy:1236
 translate french adine2skip_7089d516:
 
     # Ad giggle b "Yes! What a time to be alive."
-    Ad giggle b "Oui! Quelle moment pour être en vie."
+    Ad giggle b "Oui! Sacré époque pour être en vie."
 
 # game/adine2.rpy:1238
 translate french adine2skip_ac838d28:
 
     # c "So you believe in all of that stuff?"
-    c "Alors tu crois dans toute ces choses?"
+    c "Alors tu crois dans toutes ces choses ?"
 
 # game/adine2.rpy:1240
 translate french adine2skip_bb8abd2b:
 
     # Ad normal b "\"Belief\" isn't the right word when you're standing right in front of me, you know. That alone is a miracle. I get excited all over again just thinking about it."
-    Ad normal b "\"Croire\" n'est pas le bon mot lorsque tu te tiend juste en avant de moi tu sait. Ca tout seul est un miracle. Je suis tout excité de nouveau juste en y pensant."
+    Ad normal b "\"Croire\" n'est pas le bon mot lorsque tu te tiens juste en face moi tu sais. Ca en soi c'est un miracle. J'en suis encore tout excitée rien qu'en y pensant."
 
 # game/adine2.rpy:1242
 translate french adine2skip_b487416b:
 
     # c "Speaking of which, all this excitement made me lose track of the time."
-    c "En parlant de ca, toute cette excitation m'a fait perdre l'heure."
+    c "En parlant de ça, toute cette excitation m'a fait perdre la notion du temps."
 
 # game/adine2.rpy:1244
 translate french adine2skip_83e05bed:
 
     # Ad think b "Is it that late already?"
-    Ad think b "Il est tu déjà si tard?"
+    Ad think b "Il est déjà si tard ?"
 
 # game/adine2.rpy:1246
 translate french adine2skip_c434c535:
 
     # Ad giggle b "Oh, actually, I have places to be. Especially if I want to make sure my contest application arrives on time."
-    Ad giggle b "Oh, actuellement, j'ai des endroits à y aller. Surtout si je veut être certaine mon application pour la compétition arrive à temps."
+    Ad giggle b "Oh, en fait, j'ai des endroits où je dois aller. Surtout si je veut être sûre que ma candidature pour la compétition arrive à temps."
 
 # game/adine2.rpy:1248
 translate french adine2skip_aa8eed7d:
 
     # c "Guess I should be going then, huh?"
-    c "Je crois que je devrait y aller, huh?"
+    c "Je crois que je devrais y aller maintenant, hein ?"
 
 # game/adine2.rpy:1252
 translate french adine2skip_571a5097:
 
     # Ad think b "Unless you want to sit in my empty apartment."
-    Ad think b "À moins que tu veut t'assir dans mon apartement vide."
+    Ad think b "À moins que tu veuilles traîner dans mon apartement vide."
 
 # game/adine2.rpy:1254
 translate french adine2skip_4d190ea2:
 
     # Ad normal b "You could always pay me a visit during practice sometime, if you like."
-    Ad normal b "Tu peut toujours me rendre visite pendant une pratique, si tu veut."
+    Ad normal b "Tu pourrais toujours me rendre visite pendant un entrainement, si tu veux."
 
 # game/adine2.rpy:1256
 translate french adine2skip_be6b1835:
 
     # c "You mean your stunt flying practice?"
-    c "Tu veut dire ta pratique de vol figuré?"
+    c "Tu veux dire ton entrainement de vol acrobatique ?"
 
 # game/adine2.rpy:1258
 translate french adine2skip_4ff41815:
 
     # Ad giggle b "Yeah!"
-    Ad giggle b "Ouais!"
+    Ad giggle b "Ouais !"
 
 # game/adine2.rpy:1260
 translate french adine2skip_a75478a2:
 
     # Ad normal b "Anyway, I really have to go, so I'll call you later, okay?"
-    Ad normal b "En tout cas, je doit vraiment y aller, alors je t'appelle plus tard, ok?"
+    Ad normal b "En tout cas, je dois vraiment y aller, alors je t'appelle plus tard, ok ?"
 
 # game/adine2.rpy:1262
 translate french adine2skip_c48dc32f:
 
     # c "Sure."
-    c "Certain."
+    c "Ca marche."
 
 # game/adine2.rpy:1294
 translate french adine2skip_c1f8ed28:
 
     # Ad normal b "For now, at least. I certainly wouldn't mind if you stopped by again sometime."
-    Ad normal b "Pour maintenant, au moins. Ca ne me dérangerais vraiment pas si tu reviens par ici de nouveau."
+    Ad normal b "Pour l'instant, du moins. Ca ne me dérangerait vraiment pas si tu repassais me voir un de ces quatre."
 
 # game/adine2.rpy:1296
 translate french adine2skip_971f2892:
 
     # c "Will there be any magazines involved?"
-    c "Est ce qu'il y aura des magazines?"
+    c "Est-ce que ça impliquera des magazines ?"
 
 # game/adine2.rpy:1298
 translate french adine2skip_339ac162:
 
     # Ad think b "Actually, that magazine doesn't come out that often, so we wouldn't have anything new from them. I could get a different one if you wanted to, though."
-    Ad think b "Actuellement, ce magazine ne sort pas si souvent, alors ont ne devrait pas avoir de quoi de nouveau de leur part. Je pourrait chercher un différent si tu veut par exemple."
+    Ad think b "Actuellement, ce magazine ne sort pas si souvent, alors on devrait avoir rien de nouveau de leur part. Je pourrais en trouver un différent si tu veux en revanche."
 
 # game/adine2.rpy:1300
 translate french adine2skip_ef79eae4:
 
     # c "Don't bother."
-    c "Ne prend pas la peine."
+    c "Ne te donne pas cette peine."
 
 # game/adine2.rpy:1302
 translate french adine2skip_540d98e6:
 
     # Ad giggle b "Heh, if you say so."
-    Ad giggle b "Heh, si tu le dit."
+    Ad giggle b "Heh, si tu le dis."
 
 # game/adine2.rpy:1304
 translate french adine2skip_1cff3f6f:
 
     # Ad normal b "Anyway, I really have to go, so I'll see you around!"
-    Ad normal b "En tout cas, je doit vraiment y aller, alors ont se vera!"
+    Ad normal b "En tout cas, je dois vraiment y aller, alors on se voit plus tard !"
 
 # game/adine2.rpy:1337
 translate french adine2skip_f4c958b6:
 
     # Ad normal b "Yeah, please do."
-    Ad normal b "Ouais, va s'il te plait."
+    Ad normal b "Ouais, vas y."
 
 # game/adine2.rpy:1339
 translate french adine2skip_07558c77:
 
     # c "That almost sounds like you want me to leave."
-    c "Tu sonne vraiment comme si tu veut que je pars."
+    c "Ca sonnait presque comme si tu voulait que je parte."
 
 # game/adine2.rpy:1341
 translate french adine2skip_eecda5f5:
 
     # Ad "Because I do."
-    Ad "Parce que je le veut."
+    Ad "Parce que je le veux."
 
 # game/adine2.rpy:1343
 translate french adine2skip_3bbeabf2:
 
     # c "Seriously? What did I do?"
-    c "Sérieusement? Qu'est-ce que j'ai fait?"
+    c "Sérieusement ? Qu'est-ce que j'ai fait ?"
 
 # game/adine2.rpy:1345
 translate french adine2skip_c94ba23a:
 
     # Ad annoyed b "Besides acting like a jerk, not much."
-    Ad annoyed b "Autre que agir comme un salaut, pas grand chose."
+    Ad annoyed b "A part te comporter comme un con, pas grand chose."
 
 # game/adine2.rpy:1347
 translate french adine2skip_a069954c:
 
     # c "You're just too sensitive. And your magazine was stupid."
-    c "Tu est juste trop sensitive. Et ton magazine était stupide."
+    c "Tu est juste trop sensible. Et ton magazine était stupide."
 
 # game/adine2.rpy:1349
 translate french adine2skip_09c2f3b9:
 
     # Ad disappoint b "Whatever. I have to go now, anyway, so please just leave."
-    Ad disappoint b "Peu importe. Je doit y aller maintenant, alors sort s'il te plait."
+    Ad disappoint b "Peu importe. Je doit y aller maintenant, alors va-t'en s'il te plait."
 
 translate french strings:
 
@@ -1942,51 +1942,51 @@ translate french strings:
 
     # adine2.rpy:221
     old "What a shame."
-    new "Dommage."
+    new "C'est dommage."
 
     # adine2.rpy:221
     old "I can see why."
-    new "Je peut voir pourquoi."
+    new "Je peux voir pourquoi."
 
     # adine2.rpy:221
     old "I'd adopt her if I could."
-    new "Je l'adopterais si je pourrait."
+    new "Je l'adopterais si je le pouvais."
 
     # adine2.rpy:259
     old "You're wasting your time."
-    new "Tu gaspille ton temps."
+    new "Tu gaspilles ton temps."
 
     # adine2.rpy:259
     old "That's very nice of you."
-    new "C'est très gentille de ta part."
+    new "C'est très gentil de ta part."
 
     # adine2.rpy:259
     old "Someone else would probably volunteer, even if you didn't."
-    new "Quelqu'un d'autre voudrait probablement porter volontaire, même tu ne le ne fait pas."
+    new "Quelqu'un d'autre se porterait probablement volontaire, même tu ne le ne fais pas."
 
     # adine2.rpy:305
     old "At least it wasn't you who was murdered."
-    new "Au moins ce n'était pas toi qui à été tué."
+    new "Au moins ce n'était pas toi qui t'es fait tuer."
 
     # adine2.rpy:305
     old "Don't be so sensitive."
-    new "Ne soit pas aussi sensitive."
+    new "Ne soit pas aussi sensible."
 
     # adine2.rpy:305
     old "Don't just focus on the bad things."
-    new "Ne pense pas juste au mauvaise choses."
+    new "Ne te focalise pas sur le négatif."
 
     # adine2.rpy:354
     old "I'm not sure what to expect."
-    new "Je ne suis pas certain quoi expecter."
+    new "Je ne suis pas sûr quoi attendre de celà.."
 
     # adine2.rpy:354
     old "Those types of magazines are usually trash."
-    new "Ces genres de magazines sont mauvais d'habitude."
+    new "Ces genres de magazines sont généralement mauvais."
 
     # adine2.rpy:354
     old "I'm sure they're qualified to determine my fate."
-    new "Je suis certain qu'il sont qualifié pour déterminer mon sort."
+    new "Je suis certain qu'il sont qualifiés pour déterminer mon destin."
 
     # adine2.rpy:386
     old "I don't care."
@@ -1994,19 +1994,19 @@ translate french strings:
 
     # adine2.rpy:386
     old "You decide."
-    new "Tu décide."
+    new "Tu décides."
 
     # adine2.rpy:386
     old "Throw the stupid magazine in the trash."
-    new "Lance le magazine stupide dans la poubelle."
+    new "Jette ce magazine stupide à la poubelle."
 
     # adine2.rpy:419
     old "My dreams are usually nonsense."
-    new "Mes rêves ne faisent pas de sens d'habitude."
+    new "Mes rêves n'avaient pas de sens d'habitude."
 
     # adine2.rpy:419
     old "I've been dreaming of fire."
-    new "J'ai rèvê de feu."
+    new "J'ai rêvé de feu."
 
     # adine2.rpy:419
     old "I don't dream at all."
@@ -2014,43 +2014,43 @@ translate french strings:
 
     # adine2.rpy:419
     old "My dreams are often about people I know."
-    new "Mes rêves sont souvent à propos des gens que je connait."
+    new "Mes rêves sont souvent à propos des gens que je connaît."
 
     # adine2.rpy:481
     old "It's a whole bunch of baloney, if you ask me."
-    new "C'est un tas de baloney, si tu me le demande."
+    new "C'est un tas de conneries, si tu me le demandes."
 
     # adine2.rpy:481
     old "I don't know."
-    new "Je ne sait pas."
+    new "Je ne sais pas."
 
     # adine2.rpy:509
     old "I'll reserve judgment on that."
-    new "Je réserve mon jugement sur ca."
+    new "Je réserve mon jugement là dessus."
 
     # adine2.rpy:509
     old "Do you think you can hit the trash can with it from here? You should try."
-    new "Croit tu que je peut toucher la poubelle avec le magazine d'ici? Tu devrait essayer."
+    new "Tu crois que je peux toucher la poubelle avec le magazine d'ici ? Tu devrais essayer."
 
     # adine2.rpy:509
     old "That dream stuff wasn't so bad."
-    new "Cette chose de rêves n'était pas si mauvais."
+    new "Ce truc sur les rêves n'était pas si mal."
 
     # adine2.rpy:540
     old "I already know what I want in a relationship."
-    new "Je sait déjà ce que je veut comme relation."
+    new "Je sais déjà ce que je veux comme relation."
 
     # adine2.rpy:540
     old "I'd like to see a close relationship between this magazine and the trash can."
-    new "Je voudrais voir une relation proche entre le magazine et la poubelle."
+    new "J'aimerais bien voir une relation fusionnelle entre le magazine et la poubelle."
 
     # adine2.rpy:540
     old "Sure, why not."
-    new "Bien sur, pourquoi pas."
+    new "Bien sûr, pourquoi pas."
 
     # adine2.rpy:571
     old "I prefer to take the reins."
-    new "Je préfère prendre le devant."
+    new "Je préfère prendre les rênes."
 
     # adine2.rpy:571
     old "My partner should be the leader."
@@ -2058,27 +2058,27 @@ translate french strings:
 
     # adine2.rpy:571
     old "I like to switch it up every once in a while."
-    new "J'aime changer de temps en temps."
+    new "J'aime alterner de temps en temps."
 
     # adine2.rpy:623
     old "Chocolate cream cake."
-    new "Gâteau cremé au chocolat."
+    new "Un gâteau à la crème au chocolat."
 
     # adine2.rpy:623
     old "Lemon ice cream with sprinkles."
-    new "Crème glacée citron avec des pépites."
+    new "Une glace au citron avec des pépites."
 
     # adine2.rpy:623
     old "Coconut soufflé."
-    new "soufflé au noix de coco."
+    new "Un soufflé à la noix de coco."
 
     # adine2.rpy:623
     old "Red hot chili cookies."
-    new "biscuits au chili épicé."
+    new "Un biscuits au chili épicé."
 
     # adine2.rpy:623
     old "What does this question have to do with relationships?"
-    new "Qu'est ce que cette question à a faire avec une relation?"
+    new "Qu'est-ce que cette question a à voir avec les relation ?"
 
     # adine2.rpy:670
     old "Farmer."
@@ -2086,7 +2086,7 @@ translate french strings:
 
     # adine2.rpy:670
     old "Businessperson."
-    new "Homme d'affaire."
+    new "Personne d'affaire."
 
     # adine2.rpy:670
     old "Stay-at-home parent."
@@ -2094,23 +2094,23 @@ translate french strings:
 
     # adine2.rpy:721
     old "Why'd you do that? You clearly needed it."
-    new "Pourquoi tu as fait ca? tu l'avait clairement besoin."
+    new "Pourquoi tu as fait ça ? Tu en avais clairement besoin."
 
     # adine2.rpy:721
     old "Guess we'll never find out what kind of relationship would suit me."
-    new "Ont dirait qu'ont ne saura jamais quel genre de relation irait bien avec moi."
+    new "On dirait qu'on ne saura jamais quel genre de relation me conviendrait."
 
     # adine2.rpy:755
     old "Do we really have to do that?"
-    new "Ont à tu vraiment besoin de faire cela?"
+    new "A-t-on vraiment besoin de faire ça ?"
 
     # adine2.rpy:755
     old "You know that stuff's not real, right?"
-    new "Tu sait que tout ca n'est pas vrai, correct?"
+    new "Tu sais que tout ca n'est pas réel, n'est-ce pas ?"
 
     # adine2.rpy:755
     old "That's what I was looking forward to."
-    new "C'est ca que j'attendait."
+    new "C'est ce que j'attendais avec impatience."
 
     # adine2.rpy:838
     old "Past."
@@ -2138,45 +2138,45 @@ translate french strings:
 
     # adine2.rpy:930
     old "I'm not sure what this could mean."
-    new "Je ne suis pas certain de ce que ca vouloir dire."
+    new "Je ne suis pas certain de ce que ça pourrait vouloir dire."
 
     # adine2.rpy:930
     old "I feel like this is totally true."
-    new "Je sens que c'est totallement vrai."
+    new "J'ai le sentiment que c'est totalement vrai."
 
     # adine2.rpy:992
     old "I think I know what this refers to."
-    new "Je pense que je sait à quoi cela fait référence."
+    new "Je pense que je sais ce à quoi cela fait référence."
 
     # adine2.rpy:992
     old "I wonder if I should be worried."
-    new "Je me demande si je devrait m'inquièter."
+    new "Je me demande si je devrais m'inquiéter."
 
     # adine2.rpy:1028
     old "This certainly was interesting."
-    new "C'était certainement intéressant."
+    new "C'était pour sûr très intéressant."
 
     # adine2.rpy:1028
     old "Now you can finally put it in the trash where it belongs."
-    new "Maintenant tu peut finallement le mettre dans la poubelle la ou il devrait être."
+    new "Maintenant tu peux finallement le mettre dans la poubelle là où est sa place."
 
     # adine2.rpy:1165
     old "What, an actual human in front of you is not enough?"
-    new "Quoi, un humain en avant de toi n'est pas assez?"
+    new "Quoi, un humain juste devant toi n'est pas assez ?"
 
     # adine2.rpy:1165
     old "I can think of a few people."
-    new "Je peut penser à certaine personnes."
+    new "J'ai bien certaines personnes à l'esprit."
 
     # adine2.rpy:1165
     old "I'd pay it a visit myself if I could."
-    new "J'irait faire une visite moi même si je pourrait."
+    new "J'irais faire un tour moi même si je le pouvais."
 
     # adine2.rpy:1199
     old "I can try."
-    new "Je peut essayer."
+    new "Je peux essayer."
 
     # adine2.rpy:1199
     old "I'll think about it."
-    new "Je vais y penser."
+    new "Je vais y réfléchir."
 
