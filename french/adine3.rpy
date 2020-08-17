@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2019-06-07 17:56
 
 # game/adine3.rpy:27
 translate french adine3_a84b0c2b:
 
     # c "Here we are again."
-    c "Ont y va encore une fois."
+    c "Nous y revoici."
 
 # game/adine3.rpy:33
 translate frenchtl adine3_4e116276:
 
     # Ad "Just a minute!"
-    Ad "Juste une minute!"
+    Ad "Une minute !"
 
 # game/adine3.rpy:41
 translate frenchtl adine3_f4bc3aba:
@@ -22,19 +22,19 @@ translate frenchtl adine3_f4bc3aba:
 translate frenchtl adine3_4b0d5435:
 
     # c "You said something about going to the beach."
-    c "Tu as dit quelque chose à propos avec aller à la plage."
+    c "Tu as dit quelque chose à propos d'aller à la plage."
 
 # game/adine3.rpy:45
 translate frenchtl adine3_1293430e:
 
     # Ad normal b "Yep!"
-    Ad normal b "Ouaip!"
+    Ad normal b "Ouais !"
 
 # game/adine3.rpy:51
 translate frenchtl adine3_92e83d0b:
 
     # Ad "You know, I'm glad they decided not to send you away after all."
-    Ad "Tu sait, je suis fière qu'il ont décidé de ne pas te renvoyer à la fin."
+    Ad "Tu sais, je suis contente qu'ils aient décidé de ne pas te renvoyer au final."
 
 # game/adine3.rpy:53
 translate frenchtl adine3_e0224be1:
@@ -46,25 +46,25 @@ translate frenchtl adine3_e0224be1:
 translate frenchtl adine3_4b2fcfd8:
 
     # Ad giggle b "Oh, guess who got her entry confirmation for the stunt flying competition!"
-    Ad giggle b "Oh, devine qui a eu sa confirmation d'inscription pour la compétition de vol viguré!"
+    Ad giggle b "Oh, devine qui a eu sa confirmation d'inscription pour la compétition d'acrobaties aériennes !"
 
 # game/adine3.rpy:65
 translate frenchtl adine3_a415ad8b:
 
     # Ad normal b "That's right!"
-    Ad normal b "C'est ca!"
+    Ad normal b "C'est exact !"
 
 # game/adine3.rpy:69
 translate frenchtl adine3_f1f99a8a:
 
     # Ad "Don't be silly, [player_name]!"
-    Ad "Ne soit pas ridicule, [player_name]!"
+    Ad "Ne soit pas ridicule, [player_name] !"
 
 # game/adine3.rpy:79
 translate frenchtl adine3_f8fb3187:
 
     # Ad think b "What? What are you talking about?"
-    Ad think b "Quoi? qu'est ce que tu parle de?"
+    Ad think b "Quoi ? De quoi est-ce que tu parles ?"
 
 # game/adine3.rpy:81
 translate frenchtl adine3_565c73f4:
@@ -76,55 +76,55 @@ translate frenchtl adine3_565c73f4:
 translate frenchtl adine3_420d5ee3:
 
     # Ad annoyed b "Oh. Not a particularly good one."
-    Ad annoyed b "Oh. Pas une bonne particulièrement."
+    Ad annoyed b "Oh. Elle n'était pas spécialement bonne."
 
 # game/adine3.rpy:85
 translate frenchtl adine3_ebd4d970:
 
     # Ad normal b "Anyways, it's me."
-    Ad normal b "De toute façon, c'est moi."
+    Ad normal b "Enfin bref, c'est moi."
 
 # game/adine3.rpy:90
 translate frenchtl adine3_25220751:
 
     # Ad "I've got it right here in black and white."
-    Ad "Je l'ai ici en noir et blanc."
+    Ad "Je l'ai ici noir sur blanc."
 
 # game/adine3.rpy:92
 translate frenchtl adine3_15b9421d:
 
     # Ad "{i}We are happy to confirm your entry into the annual stunt flying competition. Please have your competitor number ready and show up at the organisator's booth at the summer festival by...{/i}"
-    Ad "{i}Ont est fier de confirmer que votre inscription à la compétition de vol figuré annuel est confirmé. Veulliez s'il vous plait avoir votre numéro de compétiteur prêt et vous montrer à la cabine d'organisation au festival d'été d'ici...{/i}"
+    Ad "{i}On est fier de vous annoncer que votre inscription à la compétition d'acrobaties aériennes annuelle est confirmée. Veuillez préparer s'il vous plait votre numéro de compétiteur et vous montrer au stand de l'organisation au festival d'été d'ici...{/i}"
 
 # game/adine3.rpy:94
 translate frenchtl adine3_323af65e:
 
     # Ad "Well, who cares about the rest? I'm in!"
-    Ad "Bien, qu'est ce que ca importe du reste? j'en suis!"
+    Ad "Bref, on se fiche de la suite ? je suis prise !"
 
 # game/adine3.rpy:96
 translate frenchtl adine3_d402ac56:
 
     # c "That's great."
-    c "C'est bien ca."
+    c "C'est génial."
 
 # game/adine3.rpy:98
 translate frenchtl adine3_942b50f0:
 
     # Ad "Yeah, but the festival's pretty soon. I have to make the most of the time until then to get my skills up to par."
-    Ad "Ouais, mais le festival est bientôt. Je doit prendre le plus de mon temps jusqu'a ce moment et mettre mes habiletés au niveau."
+    Ad "Ouais, mais le festival est pour bientôt. Je dois user au mieux de mon temps jusqu'à ce moment pour me mettre à niveau."
 
 # game/adine3.rpy:100
 translate frenchtl adine3_44566801:
 
     # c "I thought you already had years of experience."
-    c "Je croyait que tu avait déjà des années d'expérience."
+    c "Je pensais que tu avais déjà des années d'expérience."
 
 # game/adine3.rpy:102
 translate frenchtl adine3_cd31c901:
 
     # Ad "Yeah, but now I have to practice the best routine I can possibly come up with, not to mention making sure I can execute it flawlessly when the time comes. Practicing in general is very different than practicing for an event like this one."
-    Ad "Ouais, mais maintenant je doit pratiquer ma meilleur routine que je peut possiblement passer, sans mentionner que je fait certain que je peut l'executer sans problèmes lorsque que le temps viendra. Pratiquer en général est très différent que pratiquer pour un évenement comme ca."
+    Ad "Ouais, mais maintenant je doit pratiquer la meilleur routine que je puisse imaginer, sans mentionner que je doit m'assurer de l'executer sans problèmes le moment venu. Pratiquer en général est très différent de pratiquer pour un évenement comme celui-ci."
 
 # game/adine3.rpy:104
 translate frenchtl adine3_89aefe22:
@@ -136,67 +136,67 @@ translate frenchtl adine3_89aefe22:
 translate frenchtl adine3_964614dd:
 
     # Ad giggle b "Are you ready to see some stunt flying?"
-    Ad giggle b "Est tu prêt pour voir des figures?"
+    Ad giggle b "Est tu prêt à voir quelques acrobaties ?"
 
 # game/adine3.rpy:108
 translate frenchtl adine3_c48dc32f:
 
     # c "Sure."
-    c "Certain."
+    c "Pour sûr."
 
 # game/adine3.rpy:110
 translate frenchtl adine3_e5bff1ec:
 
     # Ad normal b "Let's go then."
-    Ad normal b "Ont y va alors."
+    Ad normal b "On y va alors."
 
 # game/adine3.rpy:133
 translate frenchtl _call_skiptut_9_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/adine3.rpy:141
 translate frenchtl _call_skiptut_9_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/adine3.rpy:149
 translate frenchtl _call_skiptut_9_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène."
 
 # game/adine3.rpy:163
 translate frenchtl _call_skiptut_9_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/adine3.rpy:188
 translate frenchtl _call_skipcheck_9_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/adine3.rpy:192
 translate frenchtl _call_skipcheck_9_0f78c647:
 
     # c "So, this is where you usually practice?"
-    c "Alors, c'est ici que tu te pratique d'habitude?"
+    c "Alors, c'est ici que tu pratiques d'habitude ?"
 
 # game/adine3.rpy:196
 translate frenchtl _call_skipcheck_9_1f98587f:
 
     # Ad "I practice just about anywhere, but today's a nice day for a beach visit. Water and sand are also good surfaces to practice complicated maneuvers on, in case you can't make the landing."
-    Ad "Je pratique n'importe ou, mais aujourd'hui est une bonne journée pour une visite a la plage. L'eau et le sable sont aussi des bonne surfaces pour la pratique de maneuvres compliquée, au cas ou tu ne peut pas réussir l'atterrissage."
+    Ad "Je pratique un peu n'importe ou, mais aujourd'hui est une bonne journée pour aller à la plage. L'eau et le sable sont aussi des bonne surfaces pour s'exercer à des maneuvres compliquées, au cas où tu ne peux pas réussir l'atterrissage."
 
 # game/adine3.rpy:198
 translate frenchtl _call_skipcheck_9_3d635180:
 
     # c "Makes sense."
-    c "Ca fait du sens."
+    c "Ca a du sens."
 
 # game/adine3.rpy:200
 translate frenchtl _call_skipcheck_9_525b9133:
@@ -208,19 +208,19 @@ translate frenchtl _call_skipcheck_9_525b9133:
 translate frenchtl _call_skipcheck_9_2931928c:
 
     # Ad giggle b "Oh, I can't just start practicing right now. I'm still giddy with excitement from getting that letter earlier. Besides, I wanted to hang out with you while we're here as well."
-    Ad giggle b "Oh, je ne peut pas juste commencer maintenant. Je suis encore excité d'excitation d'avoir recu cette lettre plus tôt. De toute facon, je voulait me tiendre avec toi aussi."
+    Ad giggle b "Oh, je ne peux pas juste commencer là tout de suite. Je suis encore toute excitée d'avoir recu cette lettre plus tôt. De toute facon, je voulais aussi traîner avec toi tant qu'à être ici."
 
 # game/adine3.rpy:204
 translate frenchtl _call_skipcheck_9_ed080091:
 
     # c "Sounds good to me. Do you visit the beach often?"
-    c "Ca sonne bien pour moi. Tu visite souvent la plage?"
+    c "Ca me semble une bonne idée. Tu viens souvent à la plage ?"
 
 # game/adine3.rpy:206
 translate frenchtl _call_skipcheck_9_52cab7a2:
 
     # Ad normal b "Not really. Except for practice, that is. It does make for a nice backdrop while I fly, though."
-    Ad normal b "Pas vraiment. Sauf pour la pratique bien sur. Ca fait une belle toile de fond pendant que je vole par exemple."
+    Ad normal b "Pas vraiment. A part pour m'entraîner bien sûr. Ca fait un beau paysage pendant que je vole par exemple."
 
 # game/adine3.rpy:208
 translate frenchtl _call_skipcheck_9_89aefe22:
@@ -232,61 +232,61 @@ translate frenchtl _call_skipcheck_9_89aefe22:
 translate frenchtl _call_skipcheck_9_c1529629:
 
     # Ad "Do you ever go to the beach?"
-    Ad "Est-ce que tu va à la plage?"
+    Ad "Et toi, est-ce que tu vas à la plage ?"
 
 # game/adine3.rpy:212
 translate frenchtl _call_skipcheck_9_93f5f322:
 
     # c "No. It's not something that was possible for me the last couple of years, but it certainly used to be something other people would do."
-    c "Non. Ce n'était pas quelque chose de possible pour moi ces dernières années, mais c'était certainement quelque chose que les autre gens faisait."
+    c "Non. Ce n'était pas quelque chose de possible pour moi ces dernières années, mais c'était certainement quelque chose que les gens avaient l'habitude de faire."
 
 # game/adine3.rpy:214
 translate frenchtl _call_skipcheck_9_be0b0f75:
 
     # Ad think b "I see. Sunning yourself can be nice sometimes, but I'm not really a fan of going swimming."
-    Ad think b "Tu vois. prendre un bain de soleil peut être bon parfois, mais je ne suis pas vraiment fan de la natation."
+    Ad think b "Je vois. Prendre un bain de soleil peut être bon parfois, mais je ne suis pas vraiment fan de la natation."
 
 # game/adine3.rpy:216
 translate frenchtl _call_skipcheck_9_86ad97f8:
 
     # c "There is so much more you can do at the beach, though."
-    c "Il y a tellement de choses que tu peut faire à la plage par exemple."
+    c "Il y a bien plus de choses que tu peux faire à la plage."
 
 # game/adine3.rpy:218
 translate frenchtl _call_skipcheck_9_836a8bed:
 
     # Ad normal b "Like what?"
-    Ad normal b "Comme quoi?"
+    Ad normal b "Comme quoi ?"
 
 # game/adine3.rpy:220
 translate frenchtl _call_skipcheck_9_49564c7e:
 
     # c "You already mentioned sunning. Do you ever get a tan?"
-    c "Tu a déjà mantionné prendre un bain de soleil. Tu t'es bronzé?"
+    c "Tu as déjà mentionné le fait prendre un bain de soleil. Tu as déjà eu un bronzage ?"
 
 # game/adine3.rpy:222
 translate frenchtl _call_skipcheck_9_f10f3831:
 
     # Ad think b "What's that?"
-    Ad think b "C'est quoi ca?"
+    Ad think b "C'est quoi ca ?"
 
 # game/adine3.rpy:224
 translate frenchtl _call_skipcheck_9_e2c4b981:
 
     # c "I guess that's a no, then."
-    c "Alors je devine que c'est un non."
+    c "Ca doit vouloir dire non."
 
 # game/adine3.rpy:226
 translate frenchtl _call_skipcheck_9_9d27fd83:
 
     # c "To be fair, you are completely covered in scales, so I imagine you wouldn't be affected."
-    c "Pour être juste, tu est complètement recouvert d'écailles, alors j'imagine que tu ne serait pas affecté."
+    c "Pour être honnête, tu es complètement recouverte d'écailles, alors j'imagine que tu ne serais pas affectée."
 
 # game/adine3.rpy:228
 translate frenchtl _call_skipcheck_9_77d08852:
 
     # c "Tanning is a reaction of the skin when it's exposed to sunlight. If humans stay in the sun for a while, our skin can get darker."
-    c "Bronzer est une réaction de la peau lorsqu'elle est exposé à la lumière. Si les humains reste au soleil pour un moment, notre peau peut devenir plus foncé."
+    c "Bronzer est une réaction de la peau lorsqu'elle est exposée à la lumière. Si les humains reste au soleil pendant un moment, notre peau peut devenir plus foncée."
 
 # game/adine3.rpy:230
 translate frenchtl _call_skipcheck_9_56b0d2f7:
@@ -298,337 +298,37 @@ translate frenchtl _call_skipcheck_9_56b0d2f7:
 translate frenchtl _call_skipcheck_9_114bbeca:
 
     # c "And if we are exposed for too long, we can even get what is called a sunburn."
-    c "Et si on y est exposé pour trop longtemps, ont peut même avoir ce qu'ont appelle un coup de soleil."# TODO: Translation updated at 2019-06-07 17:56
-
-# game/adine3.rpy:27
-translate french adine3_a84b0c2b:
-
-        # c "Here we are again."
-    c "Ont y va encore une fois."
-
-# game/adine3.rpy:33
-translate frenchtl adine3_4e116276:
-
-    # Ad "Just a minute!"
-    Ad "Juste une minute!"
-
-# game/adine3.rpy:41
-translate frenchtl adine3_f4bc3aba:
-
-    # Ad think b "I hope I didn't forget anything."
-    Ad think b "J'espère que je n'ai rien oublié."
-
-# game/adine3.rpy:43
-translate frenchtl adine3_4b0d5435:
-
-    # c "You said something about going to the beach."
-    c "Tu as dit quelque chose à propos avec aller à la plage."
-
-# game/adine3.rpy:45
-translate frenchtl adine3_1293430e:
-
-    # Ad normal b "Yep!"
-    Ad normal b "Ouaip!"
-
-# game/adine3.rpy:51
-translate frenchtl adine3_92e83d0b:
-
-    # Ad "You know, I'm glad they decided not to send you away after all."
-    Ad "Tu sait, je suis fière qu'il ont décidé de ne pas te renvoyer à la fin."
-
-# game/adine3.rpy:53
-translate frenchtl adine3_e0224be1:
-
-    # c "Me too."
-    c "Moi aussi."
-
-# game/adine3.rpy:57
-translate frenchtl adine3_4b2fcfd8:
-
-    # Ad giggle b "Oh, guess who got her entry confirmation for the stunt flying competition!"
-    Ad giggle b "Oh, devine qui a eu sa confirmation d'inscription pour la compétition de vol viguré!"
-
-# game/adine3.rpy:65
-translate frenchtl adine3_a415ad8b:
-
-    # Ad normal b "That's right!"
-    Ad normal b "C'est ca!"
-
-# game/adine3.rpy:69
-translate frenchtl adine3_f1f99a8a:
-
-    # Ad "Don't be silly, [player_name]!"
-    Ad "Ne soit pas ridicule, [player_name]!"
-
-# game/adine3.rpy:79
-translate frenchtl adine3_f8fb3187:
-
-    # Ad think b "What? What are you talking about?"
-    Ad think b "Quoi? qu'est ce que tu parle de?"
-
-# game/adine3.rpy:81
-translate frenchtl adine3_565c73f4:
-
-    # c "It was a joke."
-    c "C'était une blague."
-
-# game/adine3.rpy:83
-translate frenchtl adine3_420d5ee3:
-
-    # Ad annoyed b "Oh. Not a particularly good one."
-    Ad annoyed b "Oh. Pas une bonne particulièrement."
-
-# game/adine3.rpy:85
-translate frenchtl adine3_ebd4d970:
-
-    # Ad normal b "Anyways, it's me."
-    Ad normal b "De toute façon, c'est moi."
-
-# game/adine3.rpy:90
-translate frenchtl adine3_25220751:
-
-    # Ad "I've got it right here in black and white."
-    Ad "Je l'ai ici en noir et blanc."
-
-# game/adine3.rpy:92
-translate frenchtl adine3_15b9421d:
-
-    # Ad "{i}We are happy to confirm your entry into the annual stunt flying competition. Please have your competitor number ready and show up at the organisator's booth at the summer festival by...{/i}"
-    Ad "{i}Ont est fier de confirmer que votre inscription à la compétition de vol figuré annuel est confirmé. Veulliez s'il vous plait avoir votre numéro de compétiteur prêt et vous montrer à la cabine d'organisation au festival d'été d'ici...{/i}"
-
-# game/adine3.rpy:94
-translate frenchtl adine3_323af65e:
-
-    # Ad "Well, who cares about the rest? I'm in!"
-    Ad "Bien, qu'est ce que ca importe du reste? j'en suis!"
-
-# game/adine3.rpy:96
-translate frenchtl adine3_d402ac56:
-
-    # c "That's great."
-    c "C'est bien ca."
-
-# game/adine3.rpy:98
-translate frenchtl adine3_942b50f0:
-
-    # Ad "Yeah, but the festival's pretty soon. I have to make the most of the time until then to get my skills up to par."
-    Ad "Ouais, mais le festival est bientôt. Je doit prendre le plus de mon temps jusqu'a ce moment et mettre mes habiletés au niveau."
-
-# game/adine3.rpy:100
-translate frenchtl adine3_44566801:
-
-    # c "I thought you already had years of experience."
-    c "Je croyait que tu avait déjà des années d'expérience."
-
-# game/adine3.rpy:102
-translate frenchtl adine3_cd31c901:
-
-    # Ad "Yeah, but now I have to practice the best routine I can possibly come up with, not to mention making sure I can execute it flawlessly when the time comes. Practicing in general is very different than practicing for an event like this one."
-    Ad "Ouais, mais maintenant je doit pratiquer ma meilleur routine que je peut possiblement passer, sans mentionner que je fait certain que je peut l'executer sans problèmes lorsque que le temps viendra. Pratiquer en général est très différent que pratiquer pour un évenement comme ca."
-
-# game/adine3.rpy:104
-translate frenchtl adine3_89aefe22:
-
-    # c "I see."
-    c "Je vois."
-
-# game/adine3.rpy:106
-translate frenchtl adine3_964614dd:
-
-    # Ad giggle b "Are you ready to see some stunt flying?"
-    Ad giggle b "Est tu prêt pour voir des figures?"
-
-# game/adine3.rpy:108
-translate frenchtl adine3_c48dc32f:
-
-    # c "Sure."
-    c "Certain."
-
-# game/adine3.rpy:110
-translate frenchtl adine3_e5bff1ec:
-
-    # Ad normal b "Let's go then."
-    Ad normal b "Ont y va alors."
-
-# game/adine3.rpy:133
-translate frenchtl _call_skiptut_9_0ff5f677:
-
-    # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
-
-# game/adine3.rpy:141
-translate frenchtl _call_skiptut_9_eee83226:
-
-    # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
-
-# game/adine3.rpy:149
-translate frenchtl _call_skiptut_9_e7709aa0:
-
-    # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
-
-# game/adine3.rpy:163
-translate frenchtl _call_skiptut_9_0054b77b:
-
-    # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
-
-# game/adine3.rpy:188
-translate frenchtl _call_skipcheck_9_0054b77b:
-
-    # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
-
-# game/adine3.rpy:192
-translate frenchtl _call_skipcheck_9_0f78c647:
-
-    # c "So, this is where you usually practice?"
-    c "Alors, c'est ici que tu te pratique d'habitude?"
-
-# game/adine3.rpy:196
-translate frenchtl _call_skipcheck_9_1f98587f:
-
-    # Ad "I practice just about anywhere, but today's a nice day for a beach visit. Water and sand are also good surfaces to practice complicated maneuvers on, in case you can't make the landing."
-    Ad "Je pratique n'importe ou, mais aujourd'hui est une bonne journée pour une visite a la plage. L'eau et le sable sont aussi des bonne surfaces pour la pratique de maneuvres compliquée, au cas ou tu ne peut pas réussir l'atterrissage."
-
-# game/adine3.rpy:198
-translate frenchtl _call_skipcheck_9_3d635180:
-
-    # c "Makes sense."
-    c "Ca fait du sens."
-
-# game/adine3.rpy:200
-translate frenchtl _call_skipcheck_9_525b9133:
-
-    # c "Well, don't let me hold you up."
-    c "Bien, ne me laisse pas te retenir."
-
-# game/adine3.rpy:202
-translate frenchtl _call_skipcheck_9_2931928c:
-
-    # Ad giggle b "Oh, I can't just start practicing right now. I'm still giddy with excitement from getting that letter earlier. Besides, I wanted to hang out with you while we're here as well."
-    Ad giggle b "Oh, je ne peut pas juste commencer maintenant. Je suis encore excité d'excitation d'avoir recu cette lettre plus tôt. De toute facon, je voulait me tiendre avec toi aussi."
-
-# game/adine3.rpy:204
-translate frenchtl _call_skipcheck_9_ed080091:
-
-    # c "Sounds good to me. Do you visit the beach often?"
-    c "Ca sonne bien pour moi. Tu visite souvent la plage?"
-
-# game/adine3.rpy:206
-translate frenchtl _call_skipcheck_9_52cab7a2:
-
-    # Ad normal b "Not really. Except for practice, that is. It does make for a nice backdrop while I fly, though."
-    Ad normal b "Pas vraiment. Sauf pour la pratique bien sur. Ca fait une belle toile de fond pendant que je vole par exemple."
-
-# game/adine3.rpy:208
-translate frenchtl _call_skipcheck_9_89aefe22:
-
-    # c "I see."
-    c "Je vois."
-
-# game/adine3.rpy:210
-translate frenchtl _call_skipcheck_9_c1529629:
-
-    # Ad "Do you ever go to the beach?"
-    Ad "Est-ce que tu va à la plage?"
-
-# game/adine3.rpy:212
-translate frenchtl _call_skipcheck_9_93f5f322:
-
-    # c "No. It's not something that was possible for me the last couple of years, but it certainly used to be something other people would do."
-    c "Non. Ce n'était pas quelque chose de possible pour moi ces dernières années, mais c'était certainement quelque chose que les autre gens faisait."
-
-# game/adine3.rpy:214
-translate frenchtl _call_skipcheck_9_be0b0f75:
-
-    # Ad think b "I see. Sunning yourself can be nice sometimes, but I'm not really a fan of going swimming."
-    Ad think b "Tu vois. prendre un bain de soleil peut être bon parfois, mais je ne suis pas vraiment fan de la natation."
-
-# game/adine3.rpy:216
-translate frenchtl _call_skipcheck_9_86ad97f8:
-
-    # c "There is so much more you can do at the beach, though."
-    c "Il y a tellement de choses que tu peut faire à la plage par exemple."
-
-# game/adine3.rpy:218
-translate frenchtl _call_skipcheck_9_836a8bed:
-
-    # Ad normal b "Like what?"
-    Ad normal b "Comme quoi?"
-
-# game/adine3.rpy:220
-translate frenchtl _call_skipcheck_9_49564c7e:
-
-    # c "You already mentioned sunning. Do you ever get a tan?"
-    c "Tu a déjà mantionné prendre un bain de soleil. Tu t'es bronzé?"
-
-# game/adine3.rpy:222
-translate frenchtl _call_skipcheck_9_f10f3831:
-
-    # Ad think b "What's that?"
-    Ad think b "C'est quoi ca?"
-
-# game/adine3.rpy:224
-translate frenchtl _call_skipcheck_9_e2c4b981:
-
-    # c "I guess that's a no, then."
-    c "Alors je devine que c'est un non."
-
-# game/adine3.rpy:226
-translate frenchtl _call_skipcheck_9_9d27fd83:
-
-    # c "To be fair, you are completely covered in scales, so I imagine you wouldn't be affected."
-    c "Pour être juste, tu est complètement recouvert d'écailles, alors j'imagine que tu ne serait pas affecté."
-
-# game/adine3.rpy:228
-translate frenchtl _call_skipcheck_9_77d08852:
-
-    # c "Tanning is a reaction of the skin when it's exposed to sunlight. If humans stay in the sun for a while, our skin can get darker."
-    c "Bronzer est une réaction de la peau lorsqu'elle est exposé à la lumière. Si les humains reste au soleil pour un moment, notre peau peut devenir plus foncé."
-
-# game/adine3.rpy:230
-translate frenchtl _call_skipcheck_9_56b0d2f7:
-
-    # Ad "How strange."
-    Ad "Étrange."
-
-# game/adine3.rpy:232
-translate frenchtl _call_skipcheck_9_114bbeca:
-
-    # c "And if we are exposed for too long, we can even get what is called a sunburn."
-    c "Et si on y est exposé pour trop longtemps, ont peut même avoir ce qu'ont appelle un coup de soleil."
+    c "Et si on y est exposé pour trop longtemps, on peut même avoir ce qu'on appelle un coup de soleil."
 
 # game/adine3.rpy:234
 translate frenchtl _call_skipcheck_9_8a25673f:
 
     # Ad "And what's that?"
-    Ad "Et c'est quoi ca?"
+    Ad "Et c'est quoi ça ?"
 
 # game/adine3.rpy:236
 translate frenchtl _call_skipcheck_9_498eb35f:
 
     # c "Well, the skin can take on a reddish tint, and it can also be painful and cause dizziness."
-    c "Bien, la peau peut prendre une tente rouge, et ca peut aussi faire mal et causer de l'étourdissement."
+    c "En fait, la peau peut prendre une teinte rougeâtre, et ca peut aussi être douloureux et causer de l'étourdissement."
 
 # game/adine3.rpy:238
 translate frenchtl _call_skipcheck_9_66711f41:
 
     # Ad "So, you have to be careful not to stay in the sun for too long?"
-    Ad "alors, tu doit faire attention de ne pas rester au soleil pour trop longtemps?"
+    Ad "Alors, tu dois faire attention de ne pas rester au soleil pour trop longtemps ?"
 
 # game/adine3.rpy:240
 translate frenchtl _call_skipcheck_9_3022c2d3:
 
     # c "Pretty much, though that isn't necessarily true for all of us. Depending on the skin tone, people can be more or less affected by the radiation."
-    c "plutôt, mais ce n'est pas nécéssairement vrai pour nous tous. Dépendent du ton de la peau, les personnes peuvent être plus ou moins affecté par les radiations."
+    c "C'est à peu près cç, mais ce n'est pas nécéssairement vrai pour nous tous. Cela dépend de la teinte de la peau, les personnes peuvent être plus ou moins affectées par les radiations."
 
 # game/adine3.rpy:242
 translate frenchtl _call_skipcheck_9_22441832:
 
     # Ad "I see. That sounds kinda complicated."
-    Ad "Je vois. Ca sonne un peu compliquée."
+    Ad "Je vois. Ca a l'air un peu compliqué."
 
 # game/adine3.rpy:244
 translate frenchtl _call_skipcheck_9_04eee7ab:
