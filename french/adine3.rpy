@@ -322,7 +322,7 @@ translate frenchtl _call_skipcheck_9_66711f41:
 translate frenchtl _call_skipcheck_9_3022c2d3:
 
     # c "Pretty much, though that isn't necessarily true for all of us. Depending on the skin tone, people can be more or less affected by the radiation."
-    c "C'est à peu près cç, mais ce n'est pas nécéssairement vrai pour nous tous. Cela dépend de la teinte de la peau, les personnes peuvent être plus ou moins affectées par les radiations."
+    c "C'est à peu près ça, mais ce n'est pas nécessairement vrai pour nous tous. Cela dépend de la teinte de la peau, les personnes peuvent être plus ou moins affectées par les radiations."
 
 # game/adine3.rpy:242
 translate frenchtl _call_skipcheck_9_22441832:
@@ -334,67 +334,67 @@ translate frenchtl _call_skipcheck_9_22441832:
 translate frenchtl _call_skipcheck_9_04eee7ab:
 
     # Ad normal b "Does that mean we shouldn't stay here for too long?"
-    Ad normal b "Est-ce que ca veut dire que ont ne devrait pas rester ici pour trop longtemps?"
+    Ad normal b "Est-ce que ça veut dire que ont ne devrait pas rester ici trop longtemps ?"
 
 # game/adine3.rpy:269
 translate frenchtl _call_skipcheck_9_99caf324:
 
     # Ad "I see. Just let me know if I need to do anything."
-    Ad "Je vois. Dit moi juste si j'ai besoin de faire quelque chose."
+    Ad "Je vois. Fais moi savoir si j'ai besoin de faire quelque chose."
 
 # game/adine3.rpy:271
 translate frenchtl _call_skipcheck_9_d603eec9:
 
     # c "Sure. Will do."
-    c "Sûr. Ça ira."
+    c "Ca marche."
 
 # game/adine3.rpy:273
 translate frenchtl _call_skipcheck_9_5008620e:
 
     # c "You said you don't like swimming all that much. Why is that?"
-    c "Tu as dit que tu n'aimait pas vraiment nager. Pourquoi ça?"
+    c "Tu as dit que tu n'aimais pas vraiment nager. Pourquoi donc ?"
 
 # game/adine3.rpy:275
 translate frenchtl _call_skipcheck_9_9d1e97ca:
 
     # Ad giggle b "Well, as you can imagine, I prefer the air to the sea, even though we flyers have quite a relationship with the water."
-    Ad giggle b "Bien, comme tu peut l'imaginer, je préfère l'air de l'eau, même si nous les volants ont une certaine relation avec l'eau."
+    Ad giggle b "Bien, comme tu peux l'imaginer, je préfère l'air à l'eau, même si nous les aviateurs avons une certaine relation avec l'eau."
 
 # game/adine3.rpy:277
 translate frenchtl _call_skipcheck_9_00ed2ddb:
 
     # c "What kind of relationship are we talking about?"
-    c "Quel genre de relation est-ce que l'ont parle?"
+    c "De quel genre de relation parle-t-on ?"
 
 # game/adine3.rpy:279
 translate frenchtl _call_skipcheck_9_018eb907:
 
     # Ad normal b "We use it to hunt."
-    Ad normal b "Ont l'utilise pour chasser."
+    Ad normal b "On l'utilise pour chasser."
 
 # game/adine3.rpy:281
 translate frenchtl _call_skipcheck_9_8cd93345:
 
     # c "I see. So you go fishing, but can't swim all that well."
-    c "Je vois. Alors tu pèche, mais ne peut pas nager très bien."
+    c "Je vois. Alors tu pêches, mais ne sais pas nager."
 
 # game/adine3.rpy:283
 translate frenchtl _call_skipcheck_9_bcb0ae6a:
 
     # Ad "Pretty much. We can do enough to safely hunt and paddle on the surface, but that's about it. If we actually want to go swimming, it's recommended we wear a life vest."
-    Ad "Plutôt. Ont peut faire assez pour chasser sécuritairement et pagayer vers la survace, mais c'est pas mal tout. Si ont veut vraiment juste aller nager, c'est recommendé que l'ont porte un gilet de sauvetage."
+    Ad "C'est à peu près ça. On peut en faire suffisament pour chasser en toute sécurité et patauger en surface, mais c'est à peu près tout. Si on veut juste aller nager, il est recommandé de porter un gilet de sauvetage."
 
 # game/adine3.rpy:285
 translate frenchtl _call_skipcheck_9_21c714fe:
 
     # c "Is it that bad?"
-    c "Est-ce que c'est si grave?"
+    c "Est-ce que c'est si grave ?"
 
 # game/adine3.rpy:287
 translate frenchtl _call_skipcheck_9_1f0bf206:
 
     # Ad giggle b "Our wings are made for flying, not for swimming. The movements and musculature are rather different. With some training, we can learn to swim better, but it still wouldn't really be effective."
-    Ad giggle b "Nos ailes son't fait pour voler, pas pour nager. Les mouvements et la musculature est assez différent. avec assez d'entrainement, ont peut apprendre à mieux nager, mais ce ne serait toujours pas efficace."
+    Ad giggle b "Nos ailes sont faites pour voler, pas pour nager. Les mouvements et la musculature sont assez différents. Avec assez d'entrainement, on peut apprendre à nager un peu mieux, mais ça ne sera toujours pas efficace."
 
 # game/adine3.rpy:289
 translate frenchtl _call_skipcheck_9_89aefe22_1:
@@ -406,13 +406,13 @@ translate frenchtl _call_skipcheck_9_89aefe22_1:
 translate frenchtl _call_skipcheck_9_682a52f6:
 
     # Ad normal b "And besides, who would choose to learn to swim if we already have the air to ourselves?"
-    Ad normal b "Et de toute façon, qui voudrait apprendre à nager si ont a déjà les airs pour nous?"
+    Ad normal b "Et de toute façon, qui voudrait apprendre à nager quand on a déjà le ciel pour nous ?"
 
 # game/adine3.rpy:293
 translate frenchtl _call_skipcheck_9_7db8abb2:
 
     # c "Flying is just your thing, I guess."
-    c "Voler c'est juste ton affaire, je suppose."
+    c "Voler c'est juste ton truc, je suppose."
 
 # game/adine3.rpy:295
 translate frenchtl _call_skipcheck_9_f4f10114:
@@ -424,37 +424,37 @@ translate frenchtl _call_skipcheck_9_f4f10114:
 translate frenchtl _call_skipcheck_9_b89cdcdb:
 
     # Ad think b "You made it sound as if beaches are a pretty important thing for humans."
-    Ad think b "Tu fait sonner comme si les plages est une chose assez importante pour les humains."
+    Ad think b "Venant de toi on dirait que les plages sont une chose assez importante pour les humains."
 
 # game/adine3.rpy:299
 translate frenchtl _call_skipcheck_9_dbef1b5c:
 
     # c "I wouldn't say important. Rather, it's a unique way for people to spend time. It was often done as a leisure activity or a way to spend holiday vacations."
-    c "Je ne dirait pas important. Plutôt, c'est une manière unique pour les gens de passer du temps. c'était souvent fait comme loisir ou des vacances de fêtes."
+    c "Je ne dirais pas important. Plutôt que c'est une manière unique pour les gens de passer du temps. C'était souvent fait comme une activité touristique ou un moyen de passer des vacances."
 
 # game/adine3.rpy:301
 translate frenchtl _call_skipcheck_9_33f9f8ab:
 
     # Ad giggle b "That sounds pretty important to me. What else did you do at the beach?"
-    Ad giggle b "Ca sonne assez important pour moi. que faisez vous d'autre à la plage?"
+    Ad giggle b "Ca a l'air assez important pour moi. Que faisez-vous d'autre à la plage ?"
 
 # game/adine3.rpy:303
 translate frenchtl _call_skipcheck_9_cc2c6348:
 
     # c "Let me think..."
-    c "Laisse moi penser..."
+    c "Laisse moi y réfléchir..."
 
 # game/adine3.rpy:305
 translate frenchtl _call_skipcheck_9_a25091eb:
 
     # m "I got an idea and started looking for something in the sand on the ground. With a bit of digging, I found a flat, smooth stone and showed it to her."
-    m "J'ai eu une idée et commencé à chercher pour quelque chose dans le sable par terre. Avec un peu de creusement, j'ai trouvé une pierre plate et douce."
+    m "J'eus une idée et commencai à chercher quelque chose dans le sable. En creusant un peu, je finis par trouver une pierre plate et polie et lui montra."
 
 # game/adine3.rpy:307
 translate frenchtl _call_skipcheck_9_a94fdf1b:
 
     # c "Do you have any idea what I'm going to do with this?"
-    c "As tu une idée qu'est ce que je vais faire avec ca?"
+    c "As-tu une idée de ce que je vais faire avec ca ?"
 
 # game/adine3.rpy:309
 translate frenchtl _call_skipcheck_9_78f43406:
@@ -466,13 +466,13 @@ translate frenchtl _call_skipcheck_9_78f43406:
 translate frenchtl _call_skipcheck_9_6605186c:
 
     # c "Let me show you something."
-    c "Laisse moi te montrer quelque chose."
+    c "Je vais te montrer quelque chose."
 
 # game/adine3.rpy:313
 translate frenchtl _call_skipcheck_9_d152b386:
 
     # m "I went to the edge of the water, followed closely by Adine."
-    m "J'ai été au bord de l'eau, suivi de près par Adine."
+    m "Je me rapprochais du bord de l'eau, suivi de près par Adine."
 
 # game/adine3.rpy:315
 translate frenchtl _call_skipcheck_9_b05a9aff:
@@ -484,49 +484,49 @@ translate frenchtl _call_skipcheck_9_b05a9aff:
 translate frenchtl _call_skipcheck_9_252c6e9d:
 
     # m "I extended my arm with the best technique I could muster before I threw the stone towards the water."
-    m "J'ai élargi mon bras avec la meilleur technique que je pourrait rassemblé avant de lancer la roche dans l'eau."
+    m "J'étendis mon bras avec la meilleur technique possible avant de lancer la pierre en direction de l'eau."
 
 # game/adine3.rpy:321
 translate frenchtl _call_skipcheck_9_79fd0520:
 
     # m "Spinning in the air, the stone bounced on the water's surface a few times before it sunk into the sea."
-    m "Volant dans les airs, la roche rebondit sur la surface de l'eau quelque fois avant de couler dans la mers."
+    m "Tournant dans les airs, la pierre rebondit sur la surface de l'eau quelque fois avant de couler dans la mer."
 
 # game/adine3.rpy:323
 translate frenchtl _call_skipcheck_9_262a4ffb:
 
     # Ad think b "What was that?"
-    Ad think b "C'était quoi ça?"
+    Ad think b "C'était quoi ça ?"
 
 # game/adine3.rpy:325
 translate frenchtl _call_skipcheck_9_8fad1116:
 
     # c "Stone skipping. Never heard of it?"
-    c "sauter une pierre, jamais entendu parler?"
+    c "Des ricochets, jamais entendu parler ?"
 
 # game/adine3.rpy:327
 translate frenchtl _call_skipcheck_9_fc4d5d5c:
 
     # Ad normal b "No! How'd you do that?"
-    Ad normal b "Non! Comment est-ce que tu fait ca?"
+    Ad normal b "Non ! Comment est-ce que tu fais ça ?"
 
 # game/adine3.rpy:329
 translate frenchtl _call_skipcheck_9_1fb87ee4:
 
     # c "I can show you."
-    c "Je peut te montrer."
+    c "Je peux te montrer."
 
 # game/adine3.rpy:331
 translate frenchtl _call_skipcheck_9_d3e3b653:
 
     # m "I looked around for another suitable stone and soon found one near the edge of the water."
-    m "Je cherche une autre roche adapté dans les environs et en trouve un proche du bord de l'eau."
+    m "Je cherchais une autre pierre adéquate dans les environs et en trouva une proche du bord de l'eau."
 
 # game/adine3.rpy:333
 translate frenchtl _call_skipcheck_9_3c27c949:
 
     # c "Let's start with the stone. Ideally, we want one that has a big surface area, but is as flat as possible."
-    c "Commençons avec la roche. Idéallement, ont veut une qui a une bonne surface, mais qui est aussi plate que possible."
+    c "Commençons avec la pierre. Idéalement, on en veut une qui ait une bonne surface, mais qui soit aussi plate que possible."
 
 # game/adine3.rpy:335
 translate frenchtl _call_skipcheck_9_f3099090:
@@ -538,19 +538,19 @@ translate frenchtl _call_skipcheck_9_f3099090:
 translate frenchtl _call_skipcheck_9_8bf72e61:
 
     # c "This one is also really smooth, which helps too."
-    c "Celle la est aussi très douce, ce qui aide aussi."
+    c "Celle là est aussi bien polie, ce qui va aider aussi."
 
 # game/adine3.rpy:339
 translate frenchtl _call_skipcheck_9_f4ade291:
 
     # Ad think b "Okay, so we need smooth, flat stones."
-    Ad think b "Ok, alors ont a besoin de roches douce et plate."
+    Ad think b "Ok, donc on a besoin de pierres polies et plates."
 
 # game/adine3.rpy:341
 translate frenchtl _call_skipcheck_9_c3423b3a:
 
     # c "Now, the technique is also pretty important."
-    c "Maintenant, la technique est aussi assez important."
+    c "Ok, la technique est également assez importante."
 
 # game/adine3.rpy:343
 translate frenchtl _call_skipcheck_9_ad607048:
