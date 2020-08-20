@@ -556,43 +556,43 @@ translate frenchtl _call_skipcheck_9_c3423b3a:
 translate frenchtl _call_skipcheck_9_ad607048:
 
     # c "I'm not sure how well this will translate to your anatomy, but I'll just show you how I do it, and then we can figure out what you can do."
-    c "Je ne suis pas sur comment bien ca va ce traduire avec ton anatomie, mais je vais juste te montrer comment je le fait, et ensuite ont peut savoir ce que tu peut faire."
+    c "Je ne suis pas sûr de comment ça va se traduire avec ton anatomie, mais je vais juste te montrer comment je fais, et ensuite on verra ce que tu peut faire."
 
 # game/adine3.rpy:345
 translate frenchtl _call_skipcheck_9_adbf5a4a:
 
     # Ad giggle b "Okay."
-    Ad giggle b "Ok."
+    Ad giggle b "D'accord."
 
 # game/adine3.rpy:349
 translate frenchtl _call_skipcheck_9_b9e28815:
 
     # c "Hold the stone like this, extend your arm, and curl it like this. Then, you have to throw in such a way that it stays relatively stable in the air, but spins as fast as you can make it."
-    c "Tiens la roche comme ça, élarge ton bras, et courbe le comme ça. Ensuite, tu doit la lancer de telle manière qu'elle reste relativement stable dans les airs, mais tourne le plus vite que tu peut."
+    c "Tiens la pierre comme ça, étend ton bras, et courbe le comme ça. Ensuite, tu dois la lancer de telle manière qu'elle reste relativement stable dans les airs, mais tourne avec autant de vitesse que tu peux lui apporter."
 
 # game/adine3.rpy:351
 translate frenchtl _call_skipcheck_9_cee64df3:
 
     # c "I do it like this."
-    c "Je le fait comme ça."
+    c "Je le fais de cette manière."
 
 # game/adine3.rpy:355
 translate frenchtl _call_skipcheck_9_0152815e:
 
     # m "I threw the stone, once again showing her how it subsequently bounced a few times over the water's surface before it sunk into the sea."
-    m "Je lance la pierre, montrant une autre fois comment elle rebondi quelque fois par la suite sur la surface de l'eau avant qu'elle calle dans la mer."
+    m "Je lancai la pierre, montrant à nouveau comment elle rebondissait quelque fois à la surface de l'eau avant qu'elle ne coule dans la mer."
 
 # game/adine3.rpy:357
 translate frenchtl _call_skipcheck_9_1238a24c:
 
     # Ad disappoint b "I'm not sure if I can do that."
-    Ad disappoint b "Je ne suis pas certain que je peut faire ça."
+    Ad disappoint b "Je ne suis pas certaine de pouvoir faire ça."
 
 # game/adine3.rpy:359
 translate frenchtl _call_skipcheck_9_a4063abf:
 
     # c "We'll see. Maybe we can figure something out."
-    c "Ont vera. peut être que ont peut trouver quelque chose."
+    c "On verra. Peut être qu'on va trouver quelque chose."
 
 # game/adine3.rpy:361
 translate frenchtl _call_skipcheck_9_25037c1e:
@@ -604,19 +604,19 @@ translate frenchtl _call_skipcheck_9_25037c1e:
 translate frenchtl _call_skipcheck_9_284507c8:
 
     # Ad normal b "Okay."
-    Ad normal b "Ok."
+    Ad normal b "D'accord."
 
 # game/adine3.rpy:365
 translate frenchtl _call_skipcheck_9_3465527b:
 
     # m "We both started looking for another appropriate stone. I saw Adine scratching around the sand with one of her feet. She crouched down to pick something up before she returned to me."
-    m "Ont commence tout les deux à chercher une pierre approprié. J'ai vu Adine gratter dans le sable avec une de ces pied. Elle ce penche par en bas pour prendre quelque chose avant de le retourner à moi."
+    m "On commenca tout les deux à chercher une pierre appropriée. J'ai vu Adine gratter dans le sable avec l'un de ses pieds. Elle se pencha pour prendre quelque chose avant de revenir vers moi."
 
 # game/adine3.rpy:367
 translate frenchtl _call_skipcheck_9_9b2cc641:
 
     # Ad "Here, what about this one?"
-    Ad "Voila, elle est comment celle la?"
+    Ad "Voilà, elle est comment celle là ?"
 
 # game/adine3.rpy:369
 translate frenchtl _call_skipcheck_9_1393bef9:
@@ -628,25 +628,25 @@ translate frenchtl _call_skipcheck_9_1393bef9:
 translate frenchtl _call_skipcheck_9_63118d91:
 
     # Ad giggle b "Guess so."
-    Ad giggle b "Ont dirait."
+    Ad giggle b "On dirait."
 
 # game/adine3.rpy:375
 translate frenchtl _call_skipcheck_9_dc095c19:
 
     # c "Okay, now for the technique..."
-    c "Ok, maintenant la technique..."
+    c "Ok, maintenant pour la technique..."
 
 # game/adine3.rpy:377
 translate frenchtl _call_skipcheck_9_f8b12e80:
 
     # m "She was holding the stone in the claws at the edge of her wing. I tried to guide her by pulling her wing back like I would an arm, but it became clear to me that it lacked a lot of maneuverability an arm would have."
-    m "Elle tenait la roche dans ces griffes au bout de son aile. J'ai essayé de la guidé en la tirant l'aile par en arrière comme j'aurait fait avec un bras, mais ça devenait clair que ça manquait beaucoup de maneuvrabilité qu'un bras aurait."
+    m "Elle tenait la roche dans les griffes au bout de son aile. J'ai essayé de la guider en tirant son aile en arrière comme je l'aurais fait avec un bras, mais il devenait clair pour moi que ça manquait beaucoup de la maneuvrabilité qu'un bras aurait."
 
 # game/adine3.rpy:379
 translate frenchtl _call_skipcheck_9_3d66dc5a:
 
     # c "For the throw, you'll want to move your wing forward as fast as you can, and at the very end of the extension, let go of the stone."
-    c "Pour le lancer, je veut que tu bouge ton aile en avant le plus vite que tu peut, et à la toute fin de l'extension, laisse la roche tomber."
+    c "Pour le lancer, il faut que tu bouges ton aile vers l'avant le plus vite possible, et à la toute fin de l'extension, lâche la pierre."
 
 # game/adine3.rpy:381
 translate frenchtl _call_skipcheck_9_279d1196:
@@ -658,7 +658,7 @@ translate frenchtl _call_skipcheck_9_279d1196:
 translate frenchtl _call_skipcheck_9_feed7478:
 
     # m "I could see her moving her wing awkwardly. She pushed it forward before releasing the stone, which sunk without bouncing a single time."
-    m "Je pouvait la voir bouger son aile bizarement. Elle pousse en avant avant de relacher la pierre, qui coule sans rebondir une seule fois."
+    m "Je pouvais la voir bouger son aile bizarement. Elle poussa en avant avant de relacher la pierre, qui coula sans rebondir une seule fois."
 
 # game/adine3.rpy:389
 translate frenchtl _call_skipcheck_9_557ef963:
@@ -670,13 +670,13 @@ translate frenchtl _call_skipcheck_9_557ef963:
 translate frenchtl _call_skipcheck_9_fe6dd5b0:
 
     # c "Yeah. There wasn't really enough spin on it."
-    c "Ouais. Il n'avait pas vraiment assez de vrille à cela."
+    c "Ouais. Il n'y avait pas vraiment assez de moment cinétique."
 
 # game/adine3.rpy:393
 translate frenchtl _call_skipcheck_9_f1bcb601:
 
     # Ad normal b "Let me try again!"
-    Ad normal b "Laisse moi essayer de nouveau!"
+    Ad normal b "Laisse moi essayer à nouveau !"
 
 # game/adine3.rpy:395
 translate frenchtl _call_skipcheck_9_86148265:
@@ -688,13 +688,13 @@ translate frenchtl _call_skipcheck_9_86148265:
 translate frenchtl _call_skipcheck_9_bc753f21:
 
     # m "I waded a few steps into the water to retrieve the stone she'd thrown only moments ago."
-    m "J'ai pataugé quelque pas vers l'eau pour chercher la roche qu'elle a lancé quelque instants passé."
+    m "Je pataugaix quelque pas dans l'eau pour chercher la pierre qu'elle avait lancée quelque instants auparavant."
 
 # game/adine3.rpy:399
 translate frenchtl _call_skipcheck_9_7cdc3eb6:
 
     # c "Here you go."
-    c "Tiens."
+    c "Voilà pour toi."
 
 # game/adine3.rpy:401
 translate frenchtl _call_skipcheck_9_ae281ca6:
@@ -706,49 +706,49 @@ translate frenchtl _call_skipcheck_9_ae281ca6:
 translate frenchtl _call_skipcheck_9_0b1fb2d0:
 
     # c "Feel free."
-    c "Sens toi libre."
+    c "fais toi plaisir."
 
 # game/adine3.rpy:405
 translate frenchtl _call_skipcheck_9_721f7122:
 
     # m "Instead of using her wing, she took the stone into the dextrous claws on one of her feet as she continued to stand on the other leg."
-    m "À la place d'utiliser son aile, elle prend la roche avec les griffes abile de l'un de ces pied et elle continue de ce tenir sur l'autre jambe."
+    m "À la place d'utiliser son aile, elle pris la roche avec les griffes habiles de l'un de ces pieds et elle continua de ce tenir sur l'autre jambe."
 
 # game/adine3.rpy:407
 translate frenchtl _call_skipcheck_9_7b02922e:
 
     # m "Effortlessly, she pulled her leg back before rapidly moving it forward and releasing the stone."
-    m "Sans effort, elle tire sa jambe en arrière rapidement avant de le bouger par en avant rapidement et relache la roche."
+    m "Sans effort, elle tira sa jambe en arrière avant de rapidement la bouger par en avant et relacha la pierre."
 
 # game/adine3.rpy:411
 translate frenchtl _call_skipcheck_9_c21e6d59:
 
     # m "It flew in a bit of an upward arch before it bounced off the water's surface once and subsequently sunk into the ocean's waters."
-    m "Elle vole un peu dans une arche montante avant qu'elle rebondit de la surface de l'eau une fois et coule dans l'eau de l'océan par la suite."
+    m "Elle vola un peu en cloche avant de rebondir sur la surface de l'eau une fois et couler dans l'océan par la suite."
 
 # game/adine3.rpy:413
 translate frenchtl _call_skipcheck_9_51a5ea84:
 
     # c "Nice!"
-    c "C'est bien ça!"
+    c "Pas mal !"
 
 # game/adine3.rpy:415
 translate frenchtl _call_skipcheck_9_84d46a72:
 
     # Ad giggle b "Not bad, huh?"
-    Ad giggle b "Pas mal, huh?"
+    Ad giggle b "Pas mal, hein ?"
 
 # game/adine3.rpy:417
 translate frenchtl _call_skipcheck_9_b9882471:
 
     # c "I had no idea you could do that with your leg."
-    c "Je n'avait aucune idée que tu pouvait faire ca avec ta jambe."
+    c "Je se savais pas que tu pouvais faire ca avec ta jambe."
 
 # game/adine3.rpy:419
 translate frenchtl _call_skipcheck_9_c74c0366:
 
     # Ad normal b "Actually, our legs are what we mainly use to grab things. It only gets complicated if I'm supposed to be moving at the same time, like when I'm waiting in the café."
-    Ad normal b "Présentement, nos jambes sont ce que ont utilise principalement pour attraper les choses. Ça devient seulement compliqué si je suis supposer bouger en même temps, comme lorsque j'attend au café."
+    Ad normal b "En fait, nos jambes sont ce que nous utilisons principalement pour attraper les choses. Ça devient compliqué seulement si je suis supposée bouger en même temps, comme lorsque je suis de service au café."
 
 # game/adine3.rpy:421
 translate frenchtl _call_skipcheck_9_f23a12cf:
