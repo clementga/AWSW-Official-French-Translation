@@ -748,49 +748,49 @@ translate frenchtl _call_skipcheck_9_b9882471:
 translate frenchtl _call_skipcheck_9_c74c0366:
 
     # Ad normal b "Actually, our legs are what we mainly use to grab things. It only gets complicated if I'm supposed to be moving at the same time, like when I'm waiting in the café."
-    Ad normal b "En fait, nos jambes sont ce que nous utilisons principalement pour attraper les choses. Ça devient compliqué seulement si je suis supposée bouger en même temps, comme lorsque je suis de service au café."
+    Ad normal b "En fait, nos jambes sont ce que nous utilisons principalement pour attraper des choses. Ça devient compliqué seulement si je suis supposée bouger en même temps, comme lorsque je suis de service au café."
 
 # game/adine3.rpy:421
 translate frenchtl _call_skipcheck_9_f23a12cf:
 
     # c "Interesting. I suppose for someone who's hunting while flying that's pretty much a requirement."
-    c "Intéressant. Je suppose pour quelqu'un qui chasse et vole en même temps que c'est pas mal un requis."
+    c "Intéressant. Je suppose que pour quelqu'un qui chasse en plein vol c'est un peu le minimum."
 
 # game/adine3.rpy:423
 translate frenchtl _call_skipcheck_9_fc46fcfc:
 
     # Ad "It is. Actually, if I'm at home and eating chips or something, I usually use my feet as well."
-    Ad "C'est le cas. Actuellement, si je suis à la maison et que je mange des croustilles ou quelque chose, habituellement j'utilise mes pieds aussi."
+    Ad "Ca l'est. Actuellement, si je suis à la maison et que je mange des chips ou un truc du genre, habituellement j'utilise mes pieds aussi."
 
 # game/adine3.rpy:431
 translate frenchtl _call_skipcheck_9_f1d085ab:
 
     # Ad annoyed b "Hey, I know to wash my feet before I start eating something with them. I don't see how it's that different from doing it with your hands."
-    Ad annoyed b "Hey, je sait que je doit me laver les pieds avant de commencer à manger quelque chose. Je ne vois pas comment c'est différent de le faire avec tes mains."
+    Ad annoyed b "Hey, je me lave les pieds avant de commencer à manger quelque chose. Je ne vois pas en quoi c'est différent de le faire avec tes mains."
 
 # game/adine3.rpy:442
 translate frenchtl _call_skipcheck_9_24a797c6:
 
     # Ad giggle b "It probably isn't even half as funny as you're picturing it."
-    Ad giggle b "C'est probablement pas même la moitié de comment drole tu le vois."
+    Ad giggle b "Ca n'est certainement pas aussi drôle que ce que tu imagines."
 
 # game/adine3.rpy:451
 translate frenchtl _call_skipcheck_9_76d8cb7e:
 
     # Ad "Oh, really?"
-    Ad "Oh, vraiment?"
+    Ad "Oh, vraiment ?"
 
 # game/adine3.rpy:453
 translate frenchtl _call_skipcheck_9_7abac9fe:
 
     # c "Yeah, some monkeys actually can. They basically have hands instead of feet."
-    c "Ouais, certain singes peuvent le faire. Au fond ils ont des mains à la place des pieds."
+    c "Ouais, certain singes peuvent le faire. Techniqument, ils ont des mains à la place des pieds."
 
 # game/adine3.rpy:455
 translate frenchtl _call_skipcheck_9_264d55c7:
 
     # Ad think b "So they have four hands?"
-    Ad think b "Alors ils ont quatre mains?"
+    Ad think b "Alors ils ont quatre mains ?"
 
 # game/adine3.rpy:457
 translate frenchtl _call_skipcheck_9_c0334108:
@@ -802,61 +802,61 @@ translate frenchtl _call_skipcheck_9_c0334108:
 translate frenchtl _call_skipcheck_9_69288d3b:
 
     # Ad normal b "That seems like it'd be handy, but I think I like my wings better."
-    Ad normal b "Ça semble comme si ce serait utile, mais je croit que je préfère mes ailes."
+    Ad normal b "Ça semble être assez utile, mais je crois que je préfère mes ailes."
 
 # game/adine3.rpy:464
 translate frenchtl _call_skipcheck_9_4b13a8e5:
 
     # Ad "That was a neat trick, though. So, what else can you do at the beach?"
-    Ad "Quoique c'était un truc élégant. alors, que fait tu d'autre à la plage?"
+    Ad "Mais c'était un tour sympa. Alors, qu'est-ce que l'on peut faire d'autre à la plage ?"
 
 # game/adine3.rpy:466
 translate frenchtl _call_skipcheck_9_d0807a02:
 
     # c "I dunno. Build sandcastles?"
-    c "Je ne sait pas. construire des châteaux de sable?"
+    c "Je ne sais pas. Construire des châteaux de sable ?"
 
 # game/adine3.rpy:468
 translate frenchtl _call_skipcheck_9_573a847a:
 
     # Ad giggle b "I haven't done that in like two decades."
-    Ad giggle b "Je n'ai pas fait ca sa fait environ deux décennies."
+    Ad giggle b "Ca doit faire deux décennies que j'ai pas fait un truc comme ça."
 
 # game/adine3.rpy:470
 translate frenchtl _call_skipcheck_9_69d58151:
 
     # m "I tried to imagine what Adine building a sandcastle would look like. Based on what I knew now, she probably wouldn't be using her wings."
-    m "J'ai essayé d'imaginer qu'est ce que ca resemblerait de voir Adine construire un chateau de sable. Basé sur ce que je connait maintenant, elle n'aurait probablement pas utilisé ces ailes."
+    m "J'essayais d'imaginer à quoi pourrait ressembler Adine qui construit un chateau de sable. Basé sur ce que je savais maintenant, elle n'aurait probablement pas utilisé ses ailes."
 
 # game/adine3.rpy:472
 translate frenchtl _call_skipcheck_9_0d6c126b:
 
     # c "Would you believe me if I told you we used to have contests for building sandcastles back home?"
-    c "Me croirait tu si je te dit que ont avait des concours pour construire des châteaux de sable chez moi?"
+    c "Me croirais-tu si je te disais qu'on avait des concours de construction de châteaux de sable chez moi ?"
 
 # game/adine3.rpy:474
 translate frenchtl _call_skipcheck_9_26fa6d2b:
 
     # Ad normal b "Really?"
-    Ad normal b "Vraiment?"
+    Ad normal b "Vraiment ?"
 
 # game/adine3.rpy:476
 translate frenchtl _call_skipcheck_9_81835b9d:
 
     # c "Yeah, people would build huge, detailed sculptures that would be taller than both of us, just with sand."
-    c "Ouais, les gens allait construire des sculpture géante et détaillé qui serait plus haut que nous deux, juste avec du sable."
+    c "Ouais, les gens y construisent des sculptures géantes et détaillées plus hautes que nous deux, juste avec du sable."
 
 # game/adine3.rpy:478
 translate frenchtl _call_skipcheck_9_838e1b45:
 
     # Ad think b "Oh, wow. That sounds hard, though."
-    Ad think b "Oh, wow. Ca sonne difficile par exemple."
+    Ad think b "Oh, wow. Mais ça a l'air super difficile."
 
 # game/adine3.rpy:493
 translate frenchtl _call_skipcheck_9_c5bdc2ef:
 
     # Ad normal b "Really? Are you talking from experience?"
-    Ad normal b "Vraiment? parle tu à partir d'expérience?"
+    Ad normal b "Vraiment ? Parles-tu d'expérience?"
 
 # game/adine3.rpy:495
 translate frenchtl _call_skipcheck_9_c7aac29f:
@@ -868,43 +868,43 @@ translate frenchtl _call_skipcheck_9_c7aac29f:
 translate frenchtl _call_skipcheck_9_7772417b:
 
     # Ad giggle b "Hah, I'm not sure I have the patience for that."
-    Ad giggle b "Hah, je ne suis pas sur d'avoir la patience pour cela."
+    Ad giggle b "Hah, je ne suis pas sûr d'avoir la patience pour cela."
 
 # game/adine3.rpy:507
 translate frenchtl _call_skipcheck_9_6c95c9e0:
 
     # Ad "To me, it seems a bit of a shame to build big, elaborate sculptures out of something like sand that clearly won't last. I mean, if you're going to spend so much time on it, why not create something that will stay?"
-    Ad "Pour moi, ca me parrait un peu dommage de construire des grosses sculptures élaboré à partir de quelque chose comme du sable qui clairement ne va pas durer. Je veut dire, si tu va utiliser tellement de temps pour ca, pourquoi ne pas crée quelque chose qui va rester?"
+    Ad "Pour moi, ca me paraît un peu dommage de construire de grandes sculptures élaborées à partir de quelque chose comme du sable qui clairement ne va pas durer. Je veux dire, si tu vas passer tellement de temps pour ca, pourquoi ne pas créer quelque chose qui va durer ?"
 
 # game/adine3.rpy:513
 translate frenchtl _call_skipcheck_9_e0d3acf5:
 
     # c "I agree. All that effort only to be swept away by the tide or worn down by the weather seems wasteful."
-    c "Je suis d'accord. Tout cet effort juste pour que ce soit balayé par les vagues ou usé par la météo semble gâcheur."
+    c "Je suis d'accord. Tout cet effort juste pour que ce soit balayé par les vagues ou usé par la météo semble être du gâchis."
 
 # game/adine3.rpy:515
 translate frenchtl _call_skipcheck_9_e9e7c2f3:
 
     # Ad think b "It's kinda sad if you think about it."
-    Ad think b "C'est un peu triste si tu y pense."
+    Ad think b "C'est un peu triste quand tu y penses."
 
 # game/adine3.rpy:517
 translate frenchtl _call_skipcheck_9_8b6ae76b:
 
     # c "I guess we won't be building any sandcastles, then."
-    c "Je crois qu'ont ne va pas construire des châteaux de sable alors."
+    c "Je crois qu'on ne va pas construire de château de sable alors."
 
 # game/adine3.rpy:526
 translate frenchtl _call_skipcheck_9_f4e0c922:
 
     # Ad think b "Oh, really?"
-    Ad think b "Oh, vraiment?"
+    Ad think b "Oh, vraiment ?"
 
 # game/adine3.rpy:528
 translate frenchtl _call_skipcheck_9_bbbe5ab0:
 
     # c "Yes, people demonstrate their skill in creating these sculptures. And by using something like sand, they prove that it doesn't matter if the sculpture gets destroyed in the end because they can just do it again if they like."
-    c "Oui, les gens démontre leur habiletés in créant ces sculptures. Et en utilisant quelque chose comme du sable, ils prouve que ca ne dérange pas si les sculptures sont détruite à la fin parce que ils peuvent juste le refaire si ils le veulent."
+    c "Oui, les gens démontre leur habiletés en créant ces sculptures. Et en utilisant quelque chose comme du sable, ils prouvent que ça importe peu si les sculptures sont détruites à la fin parce qu'ils peuvent juste le refaire s'ils le veulent."
 
 # game/adine3.rpy:530
 translate frenchtl _call_skipcheck_9_13da54dc:
@@ -916,37 +916,37 @@ translate frenchtl _call_skipcheck_9_13da54dc:
 translate frenchtl _call_skipcheck_9_59707c3f:
 
     # c "Actually, it's not unlike your stunt flying competition."
-    c "En fait, ce n'es pas différent de ta compétition de vol figuré."
+    c "En fait, ce n'es pas différent de ta compétition d'acrobaties aériennes."
 
 # game/adine3.rpy:534
 translate frenchtl _call_skipcheck_9_cadca0e2:
 
     # Ad think b "How so?"
-    Ad think b "Comment ca?"
+    Ad think b "Comment ça ?"
 
 # game/adine3.rpy:536
 translate frenchtl _call_skipcheck_9_cfbf70ee:
 
     # c "Well, during your competition, nothing lasting is created from the performance itself. It's all about the experience and memories. You have to prove that you are skilled enough to do those stunts right at that very moment just for the competition."
-    c "Bien, pendant ta compétition, rien de crée pendant la compétition ne reste. C'est tout à propos de l'expérience et les mémoires."
+    c "Bien, pendant ta compétition, rien de durable en tant que tel n'est crée pendant la compétition. C'est tout à propos de l'expérience et les mémoires. Tu dois prouver que tu es assez compétente pour effectuer ces figures en cet instant juste pour la compétition."
 
 # game/adine3.rpy:538
 translate frenchtl _call_skipcheck_9_ae760841:
 
     # Ad normal b "That's a good point."
-    Ad normal b "C'est un bon point."
+    Ad normal b "C'est un bon argument."
 
 # game/adine3.rpy:541
 translate frenchtl _call_skipcheck_9_9b41e9b4:
 
     # Ad "I'm in the mood for a snack."
-    Ad "Je suis dans l'humeur pour une collation."
+    Ad "Je suis d'humeur pour un en-cas."
 
 # game/adine3.rpy:545
 translate frenchtl _call_skipcheck_9_bb75a49e:
 
     # Ad "Should I get something for you as well?"
-    Ad "Est-ce que je devrait chercher quelque chose pour toi aussi?"
+    Ad "Est-ce que je devrais aller chercher quelque chose pour toi également ?"
 
 # game/adine3.rpy:561
 translate frenchtl _call_skipcheck_9_58abfc7c:
