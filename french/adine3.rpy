@@ -880,7 +880,7 @@ translate frenchtl _call_skipcheck_9_6c95c9e0:
 translate frenchtl _call_skipcheck_9_e0d3acf5:
 
     # c "I agree. All that effort only to be swept away by the tide or worn down by the weather seems wasteful."
-    c "Je suis d'accord. Tout cet effort juste pour que ce soit balayé par les vagues ou usé par la météo semble être du gâchis."
+    c "Je suis d'accord. Tout cet effort juste pour que ce soit balayé par les vagues ou usé par la météo, c'est du gâchis."
 
 # game/adine3.rpy:515
 translate frenchtl _call_skipcheck_9_e9e7c2f3:
@@ -958,31 +958,31 @@ translate frenchtl _call_skipcheck_9_58abfc7c:
 translate frenchtl _call_skipcheck_9_52e0caeb:
 
     # Ad giggle b "You can watch me if you like. Maybe you can learn a thing or two from it."
-    Ad giggle b "Tu peut regarder si tu veut. Tu apprendra peut être un truc ou deux."
+    Ad giggle b "Tu peux regarder si tu veux. Tu en apprendras peut être un truc ou deux."
 
 # game/adine3.rpy:565
 translate frenchtl _call_skipcheck_9_040d4940:
 
     # c "You want to teach me how to fish?"
-    c "Tu veut me montrer comment pêcher?"
+    c "Tu veux m'apprendre à pêcher ?"
 
 # game/adine3.rpy:567
 translate frenchtl _call_skipcheck_9_25957d6e:
 
     # Ad think b "Sure, since you taught me the... What was it called, again?"
-    Ad think b "Certainnement, puisque tu m'a appris le... comment c'était appelé encore?"
+    Ad think b "Certainnement, puisque tu m'a appris le... comment ça s'appellait déjà ?"
 
 # game/adine3.rpy:569
 translate frenchtl _call_skipcheck_9_573a0d87:
 
     # c "Stone skipping."
-    c "Le saut de pierre."
+    c "Les ricochets."
 
 # game/adine3.rpy:571
 translate frenchtl _call_skipcheck_9_46ed7c6c:
 
     # Ad normal b "Right. Since you taught me the stone skipping, I can show you how to fish."
-    Ad normal b "Bien. Puisque tu m'a appris le saut de pierre, je peut te montrer comment pêcher."
+    Ad normal b "C'est ça. Puisque tu m'a appris les ricochets, je peux te montrer comment pêcher."
 
 # game/adine3.rpy:573
 translate frenchtl _call_skipcheck_9_fe5f3366:
@@ -994,19 +994,19 @@ translate frenchtl _call_skipcheck_9_fe5f3366:
 translate frenchtl _call_skipcheck_9_c8bcfa7b:
 
     # Ad "We actually have two very different ways of doing it. There is hunting and angling."
-    Ad "Nous avont en fait deux manières très différent de le faire. Il y a la chasse et la pêche à la ligne."
+    Ad "Nous avons en fait deux manières très différentes de le faire. Il y a la chasse et la pêche."
 
 # game/adine3.rpy:577
 translate frenchtl _call_skipcheck_9_ab13de84:
 
     # Ad "Personally, I prefer hunting, though."
-    Ad "Personellement, je préfère la chasse."
+    Ad "Personnellement, je préfère la chasse."
 
 # game/adine3.rpy:579
 translate frenchtl _call_skipcheck_9_8c4ef24c:
 
     # c "I can see why."
-    c "Je peut voir pourquoi."
+    c "Je peux voir pourquoi."
 
 # game/adine3.rpy:581
 translate frenchtl _call_skipcheck_9_b388c51f:
@@ -1018,55 +1018,55 @@ translate frenchtl _call_skipcheck_9_b388c51f:
 translate frenchtl _call_skipcheck_9_a816cc82:
 
     # m "She took a few steps back, then started running towards the edge of the sea. Rapidly flapping her wings, she jumped into the air at the last second, taking off and flying around the area."
-    m "Elle prend quelques pas en arrière, et ensuite commence à courrir vers le bord de la mer. Battant rapidement ces ailes, elle saute dans les airs à la dernière seconde, prenant son envol dans la région."
+    m "Elle fit quelques pas en arrière, et ensuite commença à courir vers le bord de la mer. Battant rapidement des ailes, elle sauta dans les airs à la dernière seconde, prenant son envol et volant dans les alentours."
 
 # game/adine3.rpy:589
 translate frenchtl _call_skipcheck_9_10452b14:
 
     # m "I could see her staring at the sea intently, circling a few times before descending towards the water's surface, claws extended. When she got close enough, her claws suddenly sunk into the water, only to reappear with a fish in their grasp."
-    m "Je pouvait la voir regarder intensivement vers la mer, tourne quelques fois avant de descendre vers la surface de l'eau, griffes sorti. Lorsqu'elle était assez proche, ses griffes ont soudainement entré dans l'eau, pour ensuite réapparaitre avec un poisson saisi."
+    m "Je pouvais la voir regarder intensivement vers la mer, tourner quelques fois avant de descendre vers la surface de l'eau, toutes griffes dehors. Lorsqu'elle fut assez proche, ses griffes plongèrent soudainement dans l'eau, pour ensuite réapparaitre avec un poisson."
 
 # game/adine3.rpy:593
 translate frenchtl _call_skipcheck_9_c1e084fd:
 
     # m "Afterwards, she returned and landed near me."
-    m "Ensuite, elle reviens et atteré près de moi."
+    m "Ensuite, elle revint et atterrit près de moi."
 
 # game/adine3.rpy:597
 translate frenchtl _call_skipcheck_9_1eb83f5d:
 
     # Ad "Did you see that?"
-    Ad "Tu as vu ca?"
+    Ad "Tu as vu ça ?"
 
 # game/adine3.rpy:599
 translate frenchtl _call_skipcheck_9_0efcdc0c:
 
     # c "Yeah, but I think my distinct lack of wings would probably prevent me from doing the same thing."
-    c "Ouais, mais je pense que mon manque d'ailes m'empècherait probablement de pouvoir faire la même chose."
+    c "Ouais, mais je pense que le fait de ne pas avoir d'ailes m'empècherait probablement de pouvoir faire la même chose."
 
 # game/adine3.rpy:601
 translate frenchtl _call_skipcheck_9_3d62c100:
 
     # Ad annoyed b "You don't have to do exactly the same thing. In the end, I'm just grabbing them right out of the sea. You could do that."
-    Ad annoyed b "Tu n'a pas besoin de faire exactement la même chose. À la fin, je les sort juste de la mer. Tu pourait aussi faire ca."
+    Ad annoyed b "Tu n'es obligé de faire exactement la même chose. À la fin, je les attrape directement hors de l'eau. Tu pourais aussi faire ca."
 
 # game/adine3.rpy:603
 translate frenchtl _call_skipcheck_9_6a9e25b2:
 
     # c "I'm not so sure about that. I bet it's a lot easier with your claws. Fish can be pretty slippery."
-    c "Je ne suis pas si sur de ca. Je gage que c'est beaucoup plus facile avec tes griffes. Les poissons peuveut être très glissant."
+    c "Je ne suis pas si sur de ça. Je parie que c'est beaucoup plus facile avec tes griffes. Les poissons peuveut être très glissant."
 
 # game/adine3.rpy:605
 translate frenchtl _call_skipcheck_9_1706180d:
 
     # Ad giggle b "I guess you have a point."
-    Ad giggle b "Je pense que tu as un point."
+    Ad giggle b "Je pense que tu marques un point."
 
 # game/adine3.rpy:607
 translate frenchtl _call_skipcheck_9_ac1011eb:
 
     # Ad normal b "Well, there's still the other method."
-    Ad normal b "Bien, il y a toujours l'autre méthode."
+    Ad normal b "Eh bien, il y a toujours l'autre méthode."
 
 # game/adine3.rpy:609
 translate frenchtl _call_skipcheck_9_c0478c76:
@@ -1078,7 +1078,7 @@ translate frenchtl _call_skipcheck_9_c0478c76:
 translate frenchtl _call_skipcheck_9_562ed741:
 
     # Ad giggle b "Yep, angling. See my tail?"
-    Ad giggle b "Ouaip, la pêche à la ligne. tu vois ma queue?"
+    Ad giggle b "Ouaip, la pêche à la ligne. tu vois ma queue ?"
 
 # game/adine3.rpy:613
 translate frenchtl _call_skipcheck_9_58144c43:
