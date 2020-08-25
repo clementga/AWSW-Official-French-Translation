@@ -1072,61 +1072,61 @@ translate frenchtl _call_skipcheck_9_ac1011eb:
 translate frenchtl _call_skipcheck_9_c0478c76:
 
     # c "Angling."
-    c "La pêche à la ligne."
+    c "La pêche."
 
 # game/adine3.rpy:611
 translate frenchtl _call_skipcheck_9_562ed741:
 
     # Ad giggle b "Yep, angling. See my tail?"
-    Ad giggle b "Ouaip, la pêche à la ligne. tu vois ma queue ?"
+    Ad giggle b "Ouaip, la pêche. tu vois ma queue ?"
 
 # game/adine3.rpy:613
 translate frenchtl _call_skipcheck_9_58144c43:
 
     # m "She showed me her tail. At its end, there was a fork in it. With its distinct shape, size and color, it reminded me a lot of a banana."
-    m "Elle me montre sa queue. Au bout, il y a une fourche. Avec cette forme, grandeur et couleur distincte, ca me rapelle beaucoup d'une banane."
+    m "Elle me montra sa queue. Au bout, il y avait une fourche. Avec sa forme, sa taille et sa couleur particulière, ca me rapellait beaucoup une banane."
 
 # game/adine3.rpy:615
 translate frenchtl _call_skipcheck_9_1aea3872:
 
     # c "What about it?"
-    c "Et c'est quoi?"
+    c "Et c'est quoi ?"
 
 # game/adine3.rpy:617
 translate frenchtl _call_skipcheck_9_24953b01:
 
     # Ad normal b "This is the bait."
-    Ad normal b "C'est le leurre."
+    Ad normal b "C'est l'appât."
 
 # game/adine3.rpy:619
 translate frenchtl _call_skipcheck_9_e82febe7:
 
     # m "She sat down near the edge of the water, letting her tail hang down into it."
-    m "Elle s'assit proche du bord de l'eau, laisse sa queue se pendre dans l'eau."
+    m "Elle s'assit proche du bord de l'eau, laissant sa queue pendre dedans."
 
 # game/adine3.rpy:621
 translate frenchtl _call_skipcheck_9_4be08f8e:
 
     # Ad think b "This can take a while sometimes, but there are techniques which can speed up the process."
-    Ad think b "Ca peut prendre du temps parfois, mais il y a des techniques qui peut accelerer le processus."
+    Ad think b "Ca peut prendre du temps parfois, mais il y a des techniques qui peuvent accélerer le processus."
 
 # game/adine3.rpy:623
 translate frenchtl _call_skipcheck_9_e9cffff0:
 
     # Ad normal b "The right amount of movement attracts different kinds of fish. That way, we can even choose what we're going to get."
-    Ad normal b "Le bon montant de mouvement attire différent genre de poissons. de cette façon, ont peut même choisir qu'est ce que ont va avoir."
+    Ad normal b "Le bonne quantité de mouvement attire différent genre de poissons. De cette façon, on peut même choisir ce que l'on va attraper."
 
 # game/adine3.rpy:625
 translate frenchtl _call_skipcheck_9_2f416334:
 
     # c "And that works?"
-    c "Et ca fonctionne?"
+    c "Et ça fonctionne ?"
 
 # game/adine3.rpy:627
 translate frenchtl _call_skipcheck_9_3d0c595b:
 
     # Ad "Yeah. Not all the time, but often enough."
-    Ad "Ouais, pas tout le temps, mais assez souvent."
+    Ad "Ouais. Pas tout le temps, mais assez souvent."
 
 # game/adine3.rpy:629
 translate frenchtl _call_skipcheck_9_c5aed8d5:
@@ -1138,13 +1138,13 @@ translate frenchtl _call_skipcheck_9_c5aed8d5:
 translate frenchtl _call_skipcheck_9_f6254722:
 
     # Ad giggle b "There are even groups that exchange tips and such for angling this way."
-    Ad giggle b "Il y a même des groupes qui échange des astuces et tout ca pour la pèche de cette façon."
+    Ad giggle b "Il y a même des groupes qui échange des astuces et tout ca pour la pêche de cette façon."
 
 # game/adine3.rpy:637
 translate frenchtl _call_skipcheck_9_8683681b:
 
     # m "Suddenly, I saw her whip her tail upwards, which caused a fish to be launched towards the beach where it landed on the ground with an audible thud."
-    m "Soudainement, je la vois fouetter sa queue vers le haut, ce qui a causé un poisson d'être lancé vers la plage lorsque qu'il a attéri par terre avec bruit sourd."
+    m "Soudainement, je la vis fouetter sa queue vers le haut, ce qui catapulta un poisson vers la plage où il s'écrasa au sol dans un bruit sourd."
 
 # game/adine3.rpy:639
 translate frenchtl _call_skipcheck_9_19b3691e:
@@ -1162,19 +1162,19 @@ translate frenchtl _call_skipcheck_9_6a014090:
 translate frenchtl _call_skipcheck_9_45725af1:
 
     # Ad normal b "It can be very hit and miss. I just got lucky this time, and it's not even the kind of fish I really wanted."
-    Ad normal b "Ca peut aller n'importe comment. J'ai juste été chanceuse cette fois si, et ce n'était pas le genre de poisson que je voulait vraiment."
+    Ad normal b "Ca peut être très inégal. J'ai juste été chanceuse cette fois si, et ce n'était pas le genre de poisson que je voulais vraiment."
 
 # game/adine3.rpy:645
 translate frenchtl _call_skipcheck_9_409cc3dd:
 
     # c "I guess that's why you prefer hunting."
-    c "Je croit que c'est pour ca que tu préfère la chasse."
+    c "Je suppose que c'est pour ça que tu préfères la chasse."
 
 # game/adine3.rpy:647
 translate frenchtl _call_skipcheck_9_75d38af8:
 
     # Ad giggle b "Yep, and you also don't get the nibble scars on your tail where the fish bite you."
-    Ad giggle b "Ouaip, et tu n'a pas de morsure sur la queue ou que le poisson te mord non plus."
+    Ad giggle b "Ouaip, et tu n'a pas les traces de dents sur la queue là où le poisson te mord non plus."
 
 # game/adine3.rpy:649
 translate frenchtl _call_skipcheck_9_89aefe22_2:
@@ -1186,61 +1186,61 @@ translate frenchtl _call_skipcheck_9_89aefe22_2:
 translate frenchtl _call_skipcheck_9_006c6c43:
 
     # Ad normal b "Though, I suppose angling is also going to be hard for you without a forked tail like we have."
-    Ad normal b "Bien que, je suppose que la pèche va aussi être dur pour toi sans queue fourché comme ont a."
+    Ad normal b "Bien que, je suppose que la pêche va aussi être dur pour toi sans une queue en fourche comme la notre."
 
 # game/adine3.rpy:653
 translate frenchtl _call_skipcheck_9_106af37c:
 
     # c "Actually, we have fishing rods for that where I come from."
-    c "Actuellement, de la ou est ce que je viens ont a des canne à pèches pour ca."
+    c "En fait, de là où je viens ont a des cannes à pêche pour ça."
 
 # game/adine3.rpy:655
 translate frenchtl _call_skipcheck_9_f10f3831_1:
 
     # Ad think b "What's that?"
-    Ad think b "C'est quoi ca?"
+    Ad think b "Qu'est-ce que c'est ?"
 
 # game/adine3.rpy:657
 translate frenchtl _call_skipcheck_9_e9c90062:
 
     # c "The principle is very similar. Basically, it's a long stick that we hold over the water. A line connected to it has a bait and hook at the end to catch the fish. When the fish bites the hook, we can reel in the line to get the fish to us."
-    c "Le principle est très semblabe. au fond, c'est un long baton que l'ont tiens une par dessus l'eau. Une line y est connecté et il y a un appat et un hameçon au bout pour attraper le poisson. Lorsque le poisson mord l'hameçon, on peut tirer sur la ligne pour amener le poisson vers nous."
+    c "Le principle est très similaire. Basiquement, c'est un long baton que l'on tient au dessus de l'eau. Une ligne y est attachée et il y a un appât et un hameçon au bout pour attraper le poisson. Lorsque le poisson mord à l'hameçon, on peut tirer sur la ligne pour amener le poisson vers nous."
 
 # game/adine3.rpy:659
 translate frenchtl _call_skipcheck_9_e026baa6:
 
     # Ad "So you are using a tool to do a very similar thing."
-    Ad "Alors tu utilise un outil pour faire une chose très similaire."
+    Ad "Alors tu utilises un outil pour faire une chose très similaire."
 
 # game/adine3.rpy:661
 translate frenchtl _call_skipcheck_9_880fff17:
 
     # c "Basically, yes."
-    c "Au fond, oui."
+    c "C'est ça."
 
 # game/adine3.rpy:663
 translate frenchtl _call_skipcheck_9_79ed4e52:
 
     # c "Sometimes, we also fish using nets."
-    c "Parfois, ont pèche aussi avec des filets."
+    c "Parfois, ont pêche aussi avec des filets."
 
 # game/adine3.rpy:665
 translate frenchtl _call_skipcheck_9_95369530:
 
     # Ad normal b "Oh, some of us do that as well. Not my kind, but usually it's those who either work for a fishing company or sell seafood on the market."
-    Ad normal b "Oh, certain d'entre nous utilisent ca aussi. pas mon espèce, mais souvent c'est soit ceux qui travaille pour une compagnie de pèche ou vend des fruits de mer au marché."
+    Ad normal b "Oh, certains d'entre nous utilisent ça aussi. Pas mon espèce, mais souvent c'est soit ceux qui travaillent pour une compagnie de pêche ou vendent des fruits de mer au marché."
 
 # game/adine3.rpy:667
 translate frenchtl _call_skipcheck_9_98505ebc:
 
     # c "I imagine someone like you doesn't have to buy their fish on the market, though."
-    c "Bien que j'imagine que quelqu'un comme toi n'a pas besoin d'acheter ton poisson au marché."
+    c "Bien que j'imagine que quelqu'un comme toi n'a pas besoin d'acheter son poisson au marché."
 
 # game/adine3.rpy:669
 translate frenchtl _call_skipcheck_9_b11cf885:
 
     # Ad "True, but sometimes it's easier to just get them there to get what I want to, instead of coming all the way here."
-    Ad "Tu as raison, mais parfois c'est juste plus facile de le chercher ce que je veut la bas, à la place de faire tous ce chemin ici."
+    Ad "C'est vrai, mais parfois c'est juste plus facile d'aller les voir pour trouver ce que je veux, plutôt que de faire tous le chemin jusqu'ici."
 
 # game/adine3.rpy:671
 translate frenchtl _call_skipcheck_9_89aefe22_3:
@@ -1252,49 +1252,49 @@ translate frenchtl _call_skipcheck_9_89aefe22_3:
 translate frenchtl _call_skipcheck_9_ac76a48a:
 
     # Ad think b "Speaking of which, let me get a few more for later."
-    Ad think b "Et à ce propos, laisse moi en chercher quelque autres pour plus tard."
+    Ad think b "Et à ce propos, permet moi d'aller en chercher quelque autres pour plus tard."
 
 # game/adine3.rpy:675
 translate frenchtl _call_skipcheck_9_0b1fb2d0_1:
 
     # c "Feel free."
-    c "Fait comme tu veut."
+    c "Fais comme tu veux."
 
 # game/adine3.rpy:679
 translate frenchtl _call_skipcheck_9_6eef3b46:
 
     # m "Once more, Adine took to the sky to hunt for fish. While it was interesting to watch her for a bit, she kept hunting for a while, and I started passing the time by collecting some seashells."
-    m "Une fois de plus, Adine prend les air pour chasser le poisson. Alors que c'était intéressant à regarder, elle continue à chasser pour un moment, et je commencait à passer le temps en collectant des coquillages."
+    m "Une fois de plus, Adine s'envola dans les airs pour chasser du poisson. Bien que c'était intéressant à regarder pour un court instant, elle continua à chasser pour un moment, et je commençais à passer le temps en collectant des coquillages."
 
 # game/adine3.rpy:683
 translate frenchtl _call_skipcheck_9_a8e88ed4:
 
     # Ad "Phew, that should last me for a while."
-    Ad "Phew, ca devrait me tenir pour un moment."
+    Ad "Phew, ça devrait me faire une réserve pour un moment."
 
 # game/adine3.rpy:685
 translate frenchtl _call_skipcheck_9_8532c233:
 
     # Ad normal b "Oh, what are those? Seashells?"
-    Ad normal b "Oh, que c'est ca? Des coquillages?"
+    Ad normal b "Oh, que c'est ça ? Des coquillages ?"
 
 # game/adine3.rpy:691
 translate frenchtl _call_skipcheck_9_2f20a423:
 
     # c "I got bored, so I collected a few."
-    c "Je me suis ennuyé, alors j'en ai collecté quelques un."
+    c "Je m'ennuyais, alors j'en ai collecté quelques uns."
 
 # game/adine3.rpy:693
 translate frenchtl _call_skipcheck_9_69bcc6a9:
 
     # Ad "What are you going to do with them now?"
-    Ad "Qu'est ce que tu vas faire avec eux maintenant?"
+    Ad "Qu'est ce que tu vas faire avec ça maintenant ?"
 
 # game/adine3.rpy:695
 translate frenchtl _call_skipcheck_9_60fa77b7:
 
     # c "I'll just leave them here. No point in doing anything with them."
-    c "Je vais juste les laisser la. Pas besoin de faire quelque chose avec eux."
+    c "Je vais juste les laisser là. Aucun intérêt de faire quelque chose avec."
 
 # game/adine3.rpy:697
 translate frenchtl _call_skipcheck_9_ebb12d36:
@@ -1306,13 +1306,13 @@ translate frenchtl _call_skipcheck_9_ebb12d36:
 translate frenchtl _call_skipcheck_9_0f0e7af9:
 
     # Ad "For me? What for?"
-    Ad "Pour moi? Pourquoi?"
+    Ad "Pour moi ? Pourquoi ?"
 
 # game/adine3.rpy:708
 translate frenchtl _call_skipcheck_9_ffe567a8:
 
     # c "Well, you could decorate your apartment with them or something."
-    c "Bien, tu pourrait décorer ton apartement avec eux ou quelque chose."
+    c "Eh bien, tu pourrais décorer ton apartement avec ou quelque chose comme ça."
 
 # game/adine3.rpy:710
 translate frenchtl _call_skipcheck_9_43ebd9ef:
@@ -1324,7 +1324,7 @@ translate frenchtl _call_skipcheck_9_43ebd9ef:
 translate frenchtl _call_skipcheck_9_54990972:
 
     # Ad think b "Maybe I should ask you to clarify this, but does this have any particular significance for humans?"
-    Ad think b "Peut être je devrait clarifier ceci, mais est ce que ca à une significance particulière pour les humains?"
+    Ad think b "Peut être je devrais te demander de clarifier ceci, mais est ce que ça a une signification particulière pour les humains ?"
 
 # game/adine3.rpy:714
 translate frenchtl _call_skipcheck_9_9582a527:
@@ -1342,7 +1342,7 @@ translate frenchtl _call_skipcheck_9_5e5343bc:
 translate frenchtl _call_skipcheck_9_a1d57fee:
 
     # Ad "Well, thank you, [player_name]!"
-    Ad "Bien, merci, [player_name]!"
+    Ad "Eh bien, merci, [player_name] !"
 
 # game/adine3.rpy:725
 translate frenchtl _call_skipcheck_9_43ebd9ef_1:
@@ -1354,73 +1354,73 @@ translate frenchtl _call_skipcheck_9_43ebd9ef_1:
 translate frenchtl _call_syscheck_45_9830b2e8:
 
     # s "You got some seashells!"
-    s "Tu as quelques coquillages!"
+    s "Tu as trouvé quelques coquillages!"
 
 # game/adine3.rpy:748
 translate frenchtl _call_syscheck_45_73ecc8d3:
 
     # s "You got some seashells. Three of them." reference to three seashells in demolition man
-    s "Tu as quelques coquillages. Trois en tout."
+    s "Tu as trouvé quelques coquillages. Trois en tout."
 
 # game/adine3.rpy:752
 translate frenchtl _call_syscheck_45_031a6443:
 
     # s "You got some seashells. Are you sure it's okay to take them? Well, too late for that now..."
-    s "Tu as quelques coquillages. Tu est sur que c'est correct de les prendre? Bien, trop tard pour ca maintenant..."
+    s "Tu as trouvé quelques coquillages. Tu es sûr que c'est correct de les prendre ? C'est trop tard pour ça maintenant..."
 
 # game/adine3.rpy:755
 translate frenchtl _call_syscheck_45_f1feac00:
 
     # Ad "All that hunting was a good warm-up. I feel about ready to start with the practice now."
-    Ad "Toute cette chasse était un bon échauvement. Je me sens pas mal prêt pour commencer la pratique maintenant."
+    Ad "Cette session de chasse était un bon échauffement. Je me sens d'attaque pour commencer la pratique maintenant."
 
 # game/adine3.rpy:757
 translate frenchtl _call_syscheck_45_f06ae021:
 
     # c "Go ahead, I'll watch from here."
-    c "Vas-y, je te regarde d'ici."
+    c "Vas-y, je t'observerai d'ici."
 
 # game/adine3.rpy:759
 translate frenchtl _call_syscheck_45_d697d8cc:
 
     # Ad giggle b "Actually, now that I'll be part of an official competition, I need a fancy stage name."
-    Ad giggle b "Bien, maintenant que je fait partie d'une compétition officielle, j'ai besoin d'un beau nom de stage."
+    Ad giggle b "Au fait, maintenant que je fais partie d'une compétition officielle, j'ai besoin d'un beau nom de scène."
 
 # game/adine3.rpy:761
 translate frenchtl _call_syscheck_45_9b46a707:
 
     # c "Do you have something in mind?"
-    c "Tu as quelque chose en tête?"
+    c "Tu as quelque chose en tête ?"
 
 # game/adine3.rpy:763
 translate frenchtl _call_syscheck_45_8781b044:
 
     # Ad think b "Not really. Have you got any ideas?"
-    Ad think b "Pas vraiment. Tu as une idée?"
+    Ad think b "Pas vraiment. Tu as des idées ?"
 
 # game/adine3.rpy:771
 translate frenchtl _call_syscheck_45_25ecab4f:
 
     # Ad "Freefall? Where have I heard that before?" the name is a reference to a named pteranodon in the dinotopia mini-series
-    Ad ""
+    Ad "Freefall ? Où est-ce que j'ai entendu ce nom là ?"
 
 # game/adine3.rpy:775
 translate frenchtl _call_syscheck_45_1941335c:
 
     # Ad "Freefall?"
-    Ad "Chute libre?"
+    Ad "Freefall ?"
 
 # game/adine3.rpy:777
 translate frenchtl _call_syscheck_45_7be2c263:
 
     # Ad normal b "Actually, that sounds pretty nice!"
-    Ad normal b "En fait, ca sonne très bien!"
+    Ad normal b "En fait, ca sonne plutôt bien !"
 
 # game/adine3.rpy:779
 translate frenchtl _call_syscheck_45_7305b402:
 
     # Ad think b "Do you mind if I go with that?"
-    Ad think b "Ca te dérange si je va avec ca?"
+    Ad think b "Ca te dérange si je pars pour celui là ?"
 
 # game/adine3.rpy:781
 translate frenchtl _call_syscheck_45_d7ae8504:
@@ -1432,37 +1432,37 @@ translate frenchtl _call_syscheck_45_d7ae8504:
 translate frenchtl _call_syscheck_45_defd78f4:
 
     # Ad normal b "Freefall it is, then."
-    Ad normal b "C'est chute libre alors."
+    Ad normal b "Ce sera Freefall alors."
 
 # game/adine3.rpy:798
 translate frenchtl _call_syscheck_45_ac83353c:
 
     # Ad giggle b "I kinda had an idea you'd say that."
-    Ad giggle b "J'avait genre une idée que tu allait dire ca."
+    Ad giggle b "Je me doutais que tu allais dire ça."
 
 # game/adine3.rpy:800
 translate frenchtl _call_syscheck_45_679a0082:
 
     # Ad normal b "I like it, though."
-    Ad normal b "Je l'aime par exemple."
+    Ad normal b "Mais je l'aime bien."
 
 # game/adine3.rpy:804
 translate frenchtl _call_syscheck_45_a397cca7:
 
     # Ad "Lightning?"
-    Ad "Éclair?"
+    Ad "Lightning ?"
 
 # game/adine3.rpy:806
 translate frenchtl _call_syscheck_45_3636487e:
 
     # Ad normal b "I like the sound of that."
-    Ad normal b "J'aime bien comment ca sonne."
+    Ad normal b "J'aime bien. Ca sonne bien."
 
 # game/adine3.rpy:808
 translate frenchtl _call_syscheck_45_c4549617:
 
     # Ad think b "Do you mind if I take that name?"
-    Ad think b "Ca te dérange que je prend ce nom?"
+    Ad think b "Ca te dérange si je prend ce nom ?"
 
 # game/adine3.rpy:810
 translate frenchtl _call_syscheck_45_d7ae8504_1:
@@ -1474,25 +1474,25 @@ translate frenchtl _call_syscheck_45_d7ae8504_1:
 translate frenchtl _call_syscheck_45_b3f1b456:
 
     # Ad normal b "Lightning it is, then."
-    Ad normal b "C'est éclair alors."
+    Ad normal b "Ce sera Lightning alors."
 
 # game/adine3.rpy:825
 translate frenchtl _call_syscheck_45_920f1752:
 
     # Ad "That's weird. I think I'm having a déjà vu right now."
-    Ad "C'est étrange. Je crois que j'ai un déjà vu maintenant."
+    Ad "C'est étrange. Je crois que j'ai une sensation de déjà vu là."
 
 # game/adine3.rpy:827
 translate frenchtl _call_syscheck_45_db7d000f:
 
     # Ad normal b "Either way, that sounds gracious and acrobatic. I like it."
-    Ad normal b "De toute facon, ca sonne gracieux et acrobatique. J'aime ca."
+    Ad normal b "Enfin bref, ça sonne gracieux et acrobatique. J'aime ça."
 
 # game/adine3.rpy:831
 translate frenchtl _call_syscheck_45_cc5a6b34:
 
     # Ad "Neowing?" neowing was one of the winners from our contest for adine's stage names
-    Ad "Neowing?"
+    Ad "Neowing ?"
 
 # game/adine3.rpy:833
 translate frenchtl _call_syscheck_45_8081224a:
@@ -1504,7 +1504,7 @@ translate frenchtl _call_syscheck_45_8081224a:
 translate frenchtl _call_syscheck_45_7305b402_1:
 
     # Ad think b "Do you mind if I go with that?"
-    Ad think b "Ca te dérange si je va avec ca?"
+    Ad think b "Ca te dérange si je pars pour celui là ?"
 
 # game/adine3.rpy:837
 translate frenchtl _call_syscheck_45_d7ae8504_2:
@@ -1522,31 +1522,31 @@ translate frenchtl _call_syscheck_45_b39b1aeb:
 translate frenchtl _call_syscheck_45_c073266d:
 
     # Ad "Oh, why didn't I think of that? Ever since I knew about the contest, I've been thinking of this name."
-    Ad "Oh, pourquoi n'y ai-je pas pensé à ca? Depuis que je connait le concours, je pensait à ce nom."
+    Ad "Oh, pourquoi n'y ai-je pas pensé ? Depuis que je connais le concours, je pensais à ce nom."
 
 # game/adine3.rpy:856
 translate frenchtl _call_syscheck_45_529ac95a:
 
     # Ad giggle b "What a crazy coincidence."
-    Ad giggle b "Quel coincidence."
+    Ad giggle b "Quelle coincidence."
 
 # game/adine3.rpy:860
 translate frenchtl _call_syscheck_45_1fdd9bfa:
 
     # Ad "Angel? Like the mythological human with wings?"
-    Ad "Ange? Comme ce humain mythologique avec des ailes?"
+    Ad "Ange ? Comme l'humain mythologique avec des ailes ?"
 
 # game/adine3.rpy:862
 translate frenchtl _call_syscheck_45_5b24a17d:
 
     # Ad normal b "That sounds pretty awesome!"
-    Ad normal b "Ca sonne assez incroyable!"
+    Ad normal b "Ca sonne super bien !"
 
 # game/adine3.rpy:864
 translate frenchtl _call_syscheck_45_7305b402_2:
 
     # Ad think b "Do you mind if I go with that?"
-    Ad think b "Ca te dérange si je va avec ca?"
+    Ad think b "Ca te dérange si je pars sur ça ?"
 
 # game/adine3.rpy:866
 translate frenchtl _call_syscheck_45_d7ae8504_3:
@@ -1558,13 +1558,13 @@ translate frenchtl _call_syscheck_45_d7ae8504_3:
 translate frenchtl _call_syscheck_45_78ea5755:
 
     # Ad normal b "Angel it is, then."
-    Ad normal b "C'est ange alors."
+    Ad normal b "Ce sera Ange alors."
 
 # game/adine3.rpy:883
 translate frenchtl _call_syscheck_45_94e2bf27:
 
     # Ad "Now this is peculiar. I feel like I've heard the word hawk before, but I'm not sure what it means." stormhawk was another contest winner from our naming contest
-    Ad "Alors ca c'est particulier. Je croit que j'ai entendu le mot faucon avant, mais je ne suis pas certain qu'est ce que ca veut dire."
+    Ad "Alors ça c'est particulier. Je crois que j'ai entendu le mot faucon avant, mais je ne suis pas certain ce que ça veut dire."
 
 # game/adine3.rpy:885
 translate frenchtl _call_syscheck_45_facae0d5:
@@ -1582,19 +1582,19 @@ translate frenchtl _call_syscheck_45_e9d2c923:
 translate frenchtl _call_syscheck_45_2001220e:
 
     # Ad "Stormhawk?"
-    Ad "Faucon?"
+    Ad "Faucon ?"
 
 # game/adine3.rpy:893
 translate frenchtl _call_syscheck_45_d8deafdd:
 
     # Ad normal b "That sounds powerful and dynamic. I like it."
-    Ad normal b "Ca sonne puissant et dynamique. Jaime ca."
+    Ad normal b "Ca sonne puissant et dynamique. J'aime ca."
 
 # game/adine3.rpy:895
 translate frenchtl _call_syscheck_45_7305b402_3:
 
     # Ad think b "Do you mind if I go with that?"
-    Ad think b "Ca te dérange si je va avec ca?"
+    Ad think b "Ca te dérange si je pars sur ça ?"
 
 # game/adine3.rpy:897
 translate frenchtl _call_syscheck_45_d7ae8504_4:
@@ -1606,25 +1606,25 @@ translate frenchtl _call_syscheck_45_d7ae8504_4:
 translate frenchtl _call_syscheck_45_a8a8eab0:
 
     # Ad normal b "Then, henceforth, I shall forever be known as \"Stormhawk\"."
-    Ad normal b "Alors désormait, je serait toujours connu sous le nom de \"faucon\"."
+    Ad normal b "Alors désormais, je serais à jamais connue sous le nom de \"Faucon\"."
 
 # game/adine3.rpy:910
 translate frenchtl _call_syscheck_45_5dd4746c:
 
     # c "Hmm, let me think."
-    c "Hmm, laisse moi penser."
+    c "Hmm, laisse moi y réfléchir."
 
 # game/adine3.rpy:912
 translate frenchtl _call_syscheck_45_075ea2ce:
 
     # c "How about..."
-    c "Que dirait tu de..."
+    c "Que dirais-tu de..."
 
 # game/adine3.rpy:929
 translate frenchtl adinestagenameentry_80083e6d:
 
     # Ad "[adinestagename]? Where have I heard that before?"
-    Ad "[adinestagename]? Ou est-ce que j'ai entendu ca?"
+    Ad "[adinestagename] ? Où est-ce que j'ai entendu ça ?"
 
 # game/adine3.rpy:931
 translate frenchtl adinestagenameentry_fd2414ca:
@@ -1642,7 +1642,7 @@ translate frenchtl adinestagenameentry_a2b16d91:
 translate frenchtl adinestagenameentry_0cdc04bd:
 
     # Ad "[adinestagename]? Are you sure?"
-    Ad "[adinestagename]? Tu est certain?"
+    Ad "[adinestagename] ? Tu est certain ?"
 
 # game/adine3.rpy:968
 translate frenchtl adinestagenameentry_e37669c6:
@@ -1654,7 +1654,7 @@ translate frenchtl adinestagenameentry_e37669c6:
 translate frenchtl adinestagenameentry_7305b402:
 
     # Ad think b "Do you mind if I go with that?"
-    Ad think b "Ca te dérange si je vais avec ca?"
+    Ad think b "Ca te dérange si je pars sur ça ?"
 
 # game/adine3.rpy:972
 translate frenchtl adinestagenameentry_d7ae8504:
@@ -1666,13 +1666,13 @@ translate frenchtl adinestagenameentry_d7ae8504:
 translate frenchtl adinestagenameentry_e0fd91d9:
 
     # Ad normal b "[adinestagename] it is, then."
-    Ad normal b "C'est [adinestagename] alors."
+    Ad normal b "Ce sera [adinestagename] alors."
 
 # game/adine3.rpy:984
 translate frenchtl mpsave_34c4cbef:
 
     # Ad "Alright, are you ready to see some aerobatics?"
-    Ad "D'accord, est tu prêt à voir des acrobaties aériennes?"
+    Ad "D'accord, es-tu prêt à voir des acrobaties aériennes ?"
 
 # game/adine3.rpy:986
 translate frenchtl mpsave_1c5aca89:
@@ -1696,49 +1696,49 @@ translate frenchtl mpsave_61d7588d:
 translate frenchtl mpsave_0da14851:
 
     # Ad "Thanks!"
-    Ad "Merci!"
+    Ad "Merci !"
 
 # game/adine3.rpy:996
 translate frenchtl mpsave_6f2269c3:
 
     # m "Effortlessly, she took to the skies, circling around the area a few times before she started to do a few maneuvers."
-    m "Sans effort, elle s'envole dans les airs, fait quelque tours de la zone avant de commencer à faire quelques maneuvres. "
+    m "Sans effort, elle s'envola dans les airs, faaisant quelques tours dans les environs avant de commencer à faire quelques manœuvres. "
 
 # game/adine3.rpy:1007
 translate frenchtl mpsave_3bd96cc8:
 
     # m "A roll, followed by a loop, after which she did another roll. It seemed to be less of a practiced routine and more of a warm-up to me."
-    m "Un roulement, suivi d'une boucle, après qu'elle fait un autre roulement. Ca semble d'être moins d'une pratique routinière et plus d'un échauvement à mon gôut."
+    m "Une vrille, suivi d'une boucle, après laquelle elle fit une autre vrille. Ca me semblait être plus un échauffement qu'une pratique routinière."
 
 # game/adine3.rpy:1009
 translate frenchtl mpsave_6bc1b4cf:
 
     # m "Gradually, her maneuvers got more complicated. I saw circles that got smaller and smaller, a brief nosedive, and multiple loops and rolls one after another."
-    m "Progressivement, ces maneuvres deviennent plus compliqué. J'ai vu des cercles qui était de plus à plus petit, une chute brieve, et plusieurs boucles et roulements une après l'autre."
+    m "Progressivement, ces maneuvres devinrent plus compliquées. Je voyais des cercles qui devenaient de plus en plus petit, une plongée rapide, et plusieurs boucles et vrilles les une après les autres."
 
 # game/adine3.rpy:1011
 translate frenchtl mpsave_83480786:
 
     # m "Then, she landed and returned to me."
-    m "Ensuite, elle attéri et retourne à moi."
+    m "Ensuite, elle atterrit et revint vers moi."
 
 # game/adine3.rpy:1015
 translate frenchtl mpsave_6922aff7:
 
     # Ad "What do you think?"
-    Ad "Qu'est ce que tu en pense?"
+    Ad "Qu'est-ce que tu en penses?"
 
 # game/adine3.rpy:1017
 translate frenchtl mpsave_4b63739b:
 
     # c "That was great!"
-    c "C'était très bien!"
+    c "C'était génial !"
 
 # game/adine3.rpy:1019
 translate frenchtl mpsave_e6eb3d15:
 
     # Ad "You haven't even seen the best part yet."
-    Ad "Tu n'a même pas vu la meilleur partie encore."
+    Ad "Tu n'as même pas encore vu la meilleur partie."
 
 # game/adine3.rpy:1021
 translate french mpsave_d69e3382:
