@@ -1744,709 +1744,709 @@ translate frenchtl mpsave_e6eb3d15:
 translate french mpsave_d69e3382:
 
     # c "What would that be?"
-    c ""
+    c "Et qu'est-ce que ça pourrait être ?"
 
 # game/adine3.rpy:1023
 translate french mpsave_df3e8d62:
 
     # Ad "My very own Adine's special. Or rather, [adinestagename]'s special. It's a routine I came up with and have been practicing for a while."
-    Ad ""
+    Ad "Ma spécialité à la sauce Adine. Ou plutôt, à la sauce [adinestagename]. C'est une routine que j'ai élaboré et pratiqué depuis un moment."
 
 # game/adine3.rpy:1025
 translate french mpsave_95b9862e:
 
     # Ad think c "It's pretty difficult, so I'll probably spend the rest of my time until the competition perfecting it as much as possible."
-    Ad think c ""
+    Ad think c "Elle est assez difficile, donc je passerais probablement le temps restant avant la compétition à la perfectionner le plus possible."
 
 # game/adine3.rpy:1027
 translate french mpsave_b6666078:
 
     # c "What does it look like?"
-    c ""
+    c "De quoi ça a l'air ?"
 
 # game/adine3.rpy:1029
 translate french mpsave_af04e63a:
 
     # Ad normal c "It starts off with circles near the ground. Then, as I ascend, the circles get smaller and smaller. Once I reach the highest point, I go into a nosedive through the middle of the circles."
-    Ad normal c ""
+    Ad normal c "Ca commence avec des cercles proche du sol. Ensuite, tandis que je monte, les cercles se font de plus en plus petits.Une fois que j'atteins le point culminant, je plonge en piquée au milieu des cercles."
 
 # game/adine3.rpy:1031
 translate french mpsave_18cf8b0b:
 
     # Ad "At the show, I'll use a smoke trail when doing the circles, so everyone can actually see me going through the circles I made."
-    Ad ""
+    Ad "A la démonstration, je vais utiliser un fumigène pendant que je fais les cercles, afin que tout le monde me voit les traverser."
 
 # game/adine3.rpy:1033
 translate french mpsave_bd10e4b5:
 
     # c "That sounds pretty cool."
-    c ""
+    c "Ca a l'air vraiment cool."
 
 # game/adine3.rpy:1035
 translate french mpsave_f81623d3:
 
     # Ad "That's not all of it. While nosediving, I'll do a few rolls, and just before I hit the ground, I'll pull up again. Lastly, I'll end with a few loops and go to the next maneuver. It all ends up making a neat shape in the sky with the smoke trails."
-    Ad ""
+    Ad "Et ce n'est pas tout. Pendant que je plonge en piquée, je fais quelques vrilles, et juste avant de toucher le sol, je redresse. Et pour finir, je termine avec quelques loopings et passe à la manœuvre suivante. Le tout s'achève sur une jolie forme dans le ciel dessinée avec le fumigène."
 
 # game/adine3.rpy:1037
 translate french mpsave_cd5f97f1:
 
     # c "Sounds like you've got it all figured out already."
-    c ""
+    c "On dirait que tu as déjà tout prévu."
 
 # game/adine3.rpy:1039
 translate french mpsave_6acdc358:
 
     # Ad giggle c "Yeah, now I only have to perfect my execution of it."
-    Ad giggle c ""
+    Ad giggle c "Ouais, maintenant je dois perfectionner l'exécution de ma routine."
 
 # game/adine3.rpy:1041
 translate french mpsave_6d5c66fb:
 
     # c "Don't let me hold you up."
-    c ""
+    c "Ne te retiens pas à cause de moi."
 
 # game/adine3.rpy:1043
 translate french mpsave_a627306a:
 
     # Ad normal c "Alright, here we go."
-    Ad normal c ""
+    Ad normal c "D'accord, c'est parti."
 
 # game/adine3.rpy:1047
 translate french mpsave_9e0fbb32:
 
     # m "With determination in her eyes, she took to the skies once more. When she reached a certain height, she slowly descended again until she was close to the water's surface."
-    m ""
+    m "Avec de la détermination dans ses yeux, elle décolla de nouveau vers les cieux. Quand elle atteint une certaine hauteur, elle descendit doucement jusqu'à être proche de la surface de l'eau."
 
 # game/adine3.rpy:1049
 translate french mpsave_fe4a4f27:
 
     # m "Then, she started making her circles, slowly ascending as the circles gradually got smaller and smaller."
-    m ""
+    m "Puis, elle commença à décrire des cercles, montant lentement en altitude tandis que ces derniers devenaient de plus en plus petits."
 
 # game/adine3.rpy:1051
 translate french mpsave_cfead817:
 
     # m "Once her circles became as small as possible, she suddenly turned herself around and went into a nosedive."
-    m ""
+    m "Une fois ses cercles devenus aussi petits que possibles, elle pivota d'un coup sur elle même et plongea en piquée."
 
 # game/adine3.rpy:1053
 translate french mpsave_4e88367c:
 
     # m "Her speed quickly increased while she moved towards the water. Then, she did a roll, and another, followed by the third. Dangerously close to the water's surface, she suddenly pulled up, but as she did so, one of her feet went below the surface, where it apparently caught onto something, causing her to spin out of control."
-    m ""
+    m "Sa vitesse augmenta rapidement alors qu'elle s'approchait de l'eau. Elle alors une vrille, puis une autre, suivie de la troisième. Dangereusement proche de la surface, elle redressa d'un coup, mais ce faisant, l'un de ses pieds passa sous l'eau, où il sembla s'accrocher dans quelque chose, la faisant tourner de manière incontrolable."
 
 # game/adine3.rpy:1055
 translate french mpsave_e51c3ae2:
 
     # m "I saw her feeble attempt to regain control as she barely managed to steady herself enough to get back to the beach. She made a rough landing, rolling on the ground a few times after colliding with the sand."
-    m ""
+    m "Je vis sa vaine tentative de reprendre le contrôle tandis qu'elle arrivait à peine à se stabiliser pour revenir vers la plage. Elle fit un aterrissage brutal, roulant sur le sol quelques fois après être entrée en collision avec le sable."
 
 # game/adine3.rpy:1057
 translate french mpsave_b434465c:
 
     # c "Adine! Are you alright?"
-    c ""
+    c "Adine ! Tu vas bien ?"
 
 # game/adine3.rpy:1061
 translate french mpsave_a1a25ef4:
 
     # Ad "Well, that wasn't supposed to happen."
-    Ad ""
+    Ad "Eh ben, c'était pas sensé arriver."
 
 # game/adine3.rpy:1063
 translate french mpsave_917ba190:
 
     # c "It looked pretty impressive until the landing."
-    c ""
+    c "C'était plutôt impressionnant jusqu'à l'aterrissage."
 
 # game/adine3.rpy:1065
 translate french mpsave_a62399b6:
 
     # Ad sad b "Ouch, my wing hurts."
-    Ad sad b ""
+    Ad sad b "Aouch, mon aile me fait mal."
 
 # game/adine3.rpy:1067
 translate french mpsave_201003cc:
 
     # c "Let me take a look."
-    c ""
+    c "Laisse moi jeter un œil."
 
 # game/adine3.rpy:1069
 translate french mpsave_784ec073:
 
     # c "Can you move it?"
-    c ""
+    c "Tu peux la bouger ?"
 
 # game/adine3.rpy:1071
 translate french mpsave_de589eb6:
 
     # Ad disappoint b "A bit, but it really starts to hurt if I go further than this."
-    Ad disappoint b ""
+    Ad disappoint b "Un peu, mais commence à faire vraiment mal si je la bouge plus que ça."
 
 # game/adine3.rpy:1073
 translate french mpsave_d8eb9b8e:
 
     # c "At least it doesn't seem to be broken."
-    c ""
+    c "Au moins ça n'a pas l'air d'être cassé."
 
 # game/adine3.rpy:1075
 translate french mpsave_39c539b9:
 
     # Ad annoyed b "Yeah, I guess it's a sprain. Happens all the time."
-    Ad annoyed b ""
+    Ad annoyed b "Ouais, je pense que c'est une entorse. Ca arrive tout le temps."
 
 # game/adine3.rpy:1077
 translate french mpsave_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "Vraiment ?"
 
 # game/adine3.rpy:1079
 translate french mpsave_c37c35f6:
 
     # Ad disappoint b "Well, not all the time, but it happens."
-    Ad disappoint b ""
+    Ad disappoint b "Eh bien, pas tout le temps, mais ça arrive."
 
 # game/adine3.rpy:1081
 translate french mpsave_4f1dfff6:
 
     # c "What about the competition?"
-    c ""
+    c "Et pour la compétition ?"
 
 # game/adine3.rpy:1083
 translate french mpsave_8e69d48a:
 
     # Ad annoyed b "The injury is going to put a serious damper on my practice schedule, but I'm not giving up anytime soon."
-    Ad annoyed b ""
+    Ad annoyed b "La blessure va mettre un sérieux frein à mes horaires d'entraînement, mais je n'ai pas prévu d'abandonner."
 
 # game/adine3.rpy:1085
 translate french mpsave_34e98ea4:
 
     # c "I guess practice is over for today, at the very least."
-    c ""
+    c "Il faut croire que l'entraînement est pour le moins fini pour aujourd'hui."
 
 # game/adine3.rpy:1087
 translate french mpsave_c8cb38c2:
 
     # Ad disappoint b "Yeah, let's head back."
-    Ad disappoint b ""
+    Ad disappoint b "Ouais, Rentrons."
 
 # game/adine3.rpy:1101
 translate french adine3skip_aff5bb51:
 
     # Ad "I should have some bandages in the cabinet over there."
-    Ad ""
+    Ad "Je devrais avoir quelques bandages dans l'armoire juste là."
 
 # game/adine3.rpy:1105
 translate french adine3skip_98234a1d:
 
     # c "I'll get them for you."
-    c ""
+    c "Je vais te les chercher."
 
 # game/adine3.rpy:1109
 translate french adine3skip_a2f2a6e3:
 
     # c "What now?"
-    c ""
+    c "Et maintenant ?"
 
 # game/adine3.rpy:1111
 translate french adine3skip_ebc5e26a:
 
     # Ad "Would you do me the honors?"
-    Ad ""
+    Ad "Me ferais-tu l'honneur ?"
 
 # game/adine3.rpy:1113
 translate french adine3skip_209f923d:
 
     # c "Of course. Where should I start?"
-    c ""
+    c "Bien sûr. Par où je commence ?"
 
 # game/adine3.rpy:1115
 translate french adine3skip_e7773b14:
 
     # Ad think b "I think it's this joint right here."
-    Ad think b ""
+    Ad think b "Je pense que c'est cette articulation juste là."
 
 # game/adine3.rpy:1117
 translate french adine3skip_a8ebc3ac:
 
     # Ad disappoint b "Yep, definitely."
-    Ad disappoint b ""
+    Ad disappoint b "Ouais, définitivement."
 
 # game/adine3.rpy:1119
 translate french adine3skip_708f34db:
 
     # c "Okay. Let me try to get this right."
-    c ""
+    c "Je vais essayer de faire ça bien."
 
 # game/adine3.rpy:1127
 translate french adine3skip_9653146f:
 
     # c "Can I ask you something?"
-    c ""
+    c "Je peux te poser une question ?"
 
 # game/adine3.rpy:1129
 translate french adine3skip_da645f34:
 
     # Ad normal b "Sure, go right ahead."
-    Ad normal b ""
+    Ad normal b "Bien sûr, vas y."
 
 # game/adine3.rpy:1131
 translate french adine3skip_aa15b1ce:
 
     # c "You went to visit Remy in the library the other day, right?"
-    c ""
+    c "Tu es allée rendre visite à Rémi l'autre jour, hein ?"
 
 # game/adine3.rpy:1133
 translate french adine3skip_5b398893:
 
     # Ad annoyed b "How do you know that?"
-    Ad annoyed b ""
+    Ad annoyed b "Comment tu sais ça ?"
 
 # game/adine3.rpy:1135
 translate french adine3skip_5689ff63:
 
     # c "I was there, and Remy told me about everything."
-    c ""
+    c "J'étais là, et Rémi m'a tout raconté."
 
 # game/adine3.rpy:1137
 translate french adine3skip_d71a75e6:
 
     # Ad think b "What do you mean, everything?"
-    Ad think b ""
+    Ad think b "Comment ça, tout ?"
 
 # game/adine3.rpy:1139
 translate french adine3skip_fbeb142e:
 
     # c "Amelia."
-    c ""
+    c "Amelia."
 
 # game/adine3.rpy:1141
 translate french adine3skip_b9df5dfe:
 
     # Ad disappoint b "Oh."
-    Ad disappoint b ""
+    Ad disappoint b "Oh"
 
 # game/adine3.rpy:1143
 translate french adine3skip_700cf6a1:
 
     # Ad think b "Why'd he tell you about all that?"
-    Ad think b ""
+    Ad think b "Pourquoi il te raconterait tout ça ?"
 
 # game/adine3.rpy:1145
 translate french adine3skip_1ed8a869:
 
     # c "He's dealing with a lot of stuff, it seems."
-    c ""
+    c "Il en a gros sur la patate en ce moment."
 
 # game/adine3.rpy:1147
 translate french adine3skip_e9cf15f8:
 
     # Ad annoyed b "Well, he isn't the only one. I actually wanted to talk with him again, but if he doesn't respond, then I can't do anything, either."
-    Ad annoyed b ""
+    Ad annoyed b "Eh ben, il n'est pas le seul. Je voulais en fait lui reparler, mais s'il ne réagit pas, je ne peux rien faire non plus."
 
 # game/adine3.rpy:1149
 translate french adine3skip_89aefe22:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/adine3.rpy:1151
 translate french adine3skip_9189bfd3:
 
     # Ad disappoint b "I guess I remind him too much of her."
-    Ad disappoint b ""
+    Ad disappoint b "Il faut croire que je la lui rappelle trop."
 
 # game/adine3.rpy:1153
 translate french adine3skip_1c68a427:
 
     # Ad "If he knew what I know, I'm not sure what he would do."
-    Ad ""
+    Ad "S'il savait ce que je sais, Je ne suis pas sûr de ce qu'il ferait."
 
 # game/adine3.rpy:1155
 translate french adine3skip_df72d121:
 
     # c "What's that?"
-    c ""
+    c "Quoi donc ?"
 
 # game/adine3.rpy:1157
 translate french adine3skip_e147d262:
 
     # Ad "When she got sick, I often visited her. I just wanted to check up on her and take a little of the edge off, considering what she was going through at work."
-    Ad ""
+    Ad "Quand elle est tombée malade, je lui rendais souvent visite. Je voulais m'assurer qu'elle allait bien et l'aider à décompresser un peu, en considérant ce qu'elle traversait au travail."
 
 # game/adine3.rpy:1159
 translate french adine3skip_46e2fe54:
 
     # Ad "The night she died, I was actually with her. I stayed with her until pretty late, but as I had to work the next day, I eventually left. It was late enough, and I told her to take it easy."
-    Ad ""
+    Ad "La nuit de sa mort, j'étais avec elle. Je suis restée avec elle jusqu'à tard, mais comme je devais travailler le lendemain, j'ai dû partir. Il était tard, et je lui ai dit d'y aller doucement."
 
 # game/adine3.rpy:1161
 translate french adine3skip_7977d2db:
 
     # Ad "She told me that she was just going to finish up one little thing before she got some much needed sleep."
-    Ad ""
+    Ad "Elle m'a dit qu'elle allait juste finir une petite chose avant d'aller se reposer, et elle en avait besoin."
 
 # game/adine3.rpy:1163
 translate french adine3skip_c6b2742f:
 
     # Ad sad b "But only after I left did she realize that she had run out of her medication and went out alone to get a refill. If she just told me, or if I had paid more attention and noticed, I could've gotten it for her, and then none of this would have happened."
-    Ad sad b ""
+    Ad sad b "Mais c'est seulement après que je sois parti qu'elle réalisa qu'elle était à cours de médicaments et sortit pour se réapprovisionner. Si seulement elle m'en avait parlé, ou si j'avais fais plus attention, je serais allée les chercher pour elle et rien de tout ça ne serait arrivé."
 
 # game/adine3.rpy:1165
 translate french adine3skip_6a24c6d8:
 
     # Ad "And that's not even the worst of it. When she died, she..."
-    Ad ""
+    Ad "Et ce n'est même pas le pire dans tout ça. Quand elle est morte, elle..."
 
 # game/adine3.rpy:1167
 translate french adine3skip_6cdf092e:
 
     # Ad disappoint b "She was pregnant."
-    Ad disappoint b ""
+    Ad disappoint b "elle était enceinte."
 
 # game/adine3.rpy:1169
 translate french adine3skip_4b3b1d55:
 
     # Ad "They had already made so many plans, and I expected them to announce their engagement any day."
-    Ad ""
+    Ad "Ils avaient déjà tellement de plans, et je m'attendais à ce qu'ils annoncent leur engagement dès que possible."
 
 # game/adine3.rpy:1171
 translate french adine3skip_c931f54f:
 
     # c "Remy doesn't know she was pregnant?"
-    c ""
+    c "Rémi ne sais pas qu'elle était enceinte ?"
 
 # game/adine3.rpy:1173
 translate french adine3skip_4f3a43bb:
 
     # Ad "He doesn't. Or at least, I think he doesn't. They couldn't talk to each other much, as they had to keep their relationship secret. It's not exactly something she'd want to mention in just a few sentences."
-    Ad ""
+    Ad "Non. Du moins, je ne pense pas. Ils ne pouvaient pas beaucoup se parler, car ils devaient garder leur relation secrète. Ce n'est pas vraiment quelque chose qu'elle mentionnerait juste en quelques phrases."
 
 # game/adine3.rpy:1175
 translate french adine3skip_b74e56e3:
 
     # Ad "If he knows, then it certainly wasn't from her telling him about it."
-    Ad ""
+    Ad "S'il sait, alors ce n'est certainement pas par moi."
 
 # game/adine3.rpy:1177
 translate french adine3skip_89aefe22_1:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/adine3.rpy:1179
 translate french adine3skip_cdb34a82:
 
     # Ad "If he doesn't know, please don't tell him."
-    Ad ""
+    Ad "S'il n'en sait rien, ne lui dis rien s'il-te-plaît."
 
 # game/adine3.rpy:1181
 translate french adine3skip_86148265:
 
     # c "Alright."
-    c ""
+    c "D'accord."
 
 # game/adine3.rpy:1183
 translate french adine3skip_74165a88:
 
     # Ad "I know it must have been much harder for him than it was for me, but that doesn't mean I got out of it unscathed. I lost my best friend."
-    Ad ""
+    Ad "Je sais que ça a dû être plus dur pour lui que ça ne l'a été pour moi, mais ça ne veux pas dire que j'en suis sortie indemne. J'ai perdu ma meilleure amie."
 
 # game/adine3.rpy:1185
 translate french adine3skip_ee8545a5:
 
     # Ad "I blamed myself for a long time, too. I guess I still do. How could I face him, knowing that I could've averted this tragedy so easily?"
-    Ad ""
+    Ad "Je m'en suis voulu longtemps, aussi. Je pense que c'est toujours le cas. Comment je pourais lui faire face en sachant que j'aurais pu éviter cette tragédie si facilement ?"
 
 # game/adine3.rpy:1187
 translate french adine3skip_e0ffffe7:
 
     # c "I think his own feelings aren't that different."
-    c ""
+    c "Je pense que son ressenti n'est pas si différent."
 
 # game/adine3.rpy:1189
 translate french adine3skip_cadca0e2:
 
     # Ad think b "How so?"
-    Ad think b ""
+    Ad think b "Comment ça ?"
 
 # game/adine3.rpy:1191
 translate french adine3skip_e6f1691b:
 
     # c "He also blames himself for not being with her when it happened."
-    c ""
+    c "Il s'en veut également de ne pas avoir été avec elle quand c'est arrivé."
 
 # game/adine3.rpy:1193
 translate french adine3skip_20c72de9:
 
     # Ad disappoint b "Because they had to keep their relationship secret."
-    Ad disappoint b ""
+    Ad disappoint b "Parce qu'ils devaient garder leur relation secrète."
 
 # game/adine3.rpy:1195
 translate french adine3skip_9f85b645:
 
     # c "Yeah."
-    c ""
+    c "Ouais."
 
 # game/adine3.rpy:1197
 translate french adine3skip_43ebd9ef:
 
     # Ad "I see."
-    Ad ""
+    Ad "Je vois."
 
 # game/adine3.rpy:1199
 translate french adine3skip_1a4dd269:
 
     # Ad sad b "That must be horrible for him."
-    Ad sad b ""
+    Ad sad b "Ca doit être horrible pour lui."
 
 # game/adine3.rpy:1201
 translate french adine3skip_45432300:
 
     # c "I think he still hasn't gotten over it."
-    c ""
+    c "Je pense qu'il n'a toujours pas réussi à le surmonter."
 
 # game/adine3.rpy:1203
 translate french adine3skip_0f5c5908:
 
     # Ad disappoint b "I wish I could help him. I really do."
-    Ad disappoint b ""
+    Ad disappoint b "J'aimerais pouvoir l'aider. Vraiment."
 
 # game/adine3.rpy:1205
 translate french adine3skip_6f420b80:
 
     # c "What did you do after it all happened?"
-    c ""
+    c "Qu'as-tu fait après que tout ça soit arrivé ?"
 
 # game/adine3.rpy:1207
 translate french adine3skip_8c30660a:
 
     # Ad "For a while, I just felt guilty. But eventually, I realized there are those who have it much worse than myself. I decided to take what I had experienced and to turn it into something positive. That's when I started volunteering at the orphanage."
-    Ad ""
+    Ad "Pendant un moment je me suis juste senti coupable. mais finalement, j'ai réalisé qu'il y a ceux dans une situation pire que la mienne. J'ai décidé de tourner mon expérience en quelque chose de positif. C'est là que j'ai commencé à faire du bénévolat à l'orphelinat."
 
 # game/adine3.rpy:1209
 translate french adine3skip_bbeb5822:
 
     # Ad normal b "Why just let tragedies be tragedies if I could do something to help?"
-    Ad normal b ""
+    Ad normal b "Pourquoi laisser les tragédies être des tragédies si je peux faire quelque chose pour aider ?"
 
 # game/adine3.rpy:1211
 translate french adine3skip_a041a060:
 
     # c "I share the same sentiment."
-    c ""
+    c "Je partage le même sentiment."
 
 # game/adine3.rpy:1213
 translate french adine3skip_f495ba9f:
 
     # Ad "How so?"
-    Ad ""
+    Ad "Comment ça ?"
 
 # game/adine3.rpy:1215
 translate french adine3skip_d239d615:
 
     # c "I came here hoping that I could help humanity."
-    c ""
+    c "Je suis venu ici en espérant pouvoir aider l'humanité."
 
 # game/adine3.rpy:1217
 translate french adine3skip_4c77342b:
 
     # Ad think b "Maybe you're not just helping humanity."
-    Ad think b ""
+    Ad think b "Peut être que tu n'aides pas que l'humanité."
 
 # game/adine3.rpy:1230
 translate french adine3skip_ae89625a:
 
     # c "Here, that should do it. How does it feel?"
-    c ""
+    c "Voilà, ça devrait le faire. Comment tu te sens ?"
 
 # game/adine3.rpy:1232
 translate french adine3skip_51c64cac:
 
     # Ad normal b "Much better. Maybe with this I can even start practicing again in a day or two."
-    Ad normal b ""
+    Ad normal b "Beaucoup mieux. Peut être qu'avec ça je pourrais recommencer à m'entraîner d'ici un jour ou deux."
 
 # game/adine3.rpy:1234
 translate french adine3skip_27e4f149:
 
     # c "Just be safe."
-    c ""
+    c "Fais attention à toi."
 
 # game/adine3.rpy:1236
 translate french adine3skip_356b153d:
 
     # Ad "Of course."
-    Ad ""
+    Ad "Bien sûr."
 
 # game/adine3.rpy:1242
 translate french adine3skip_b18567a7:
 
     # c "(Oh, I totally forgot I still have a copy of that map for her.)"
-    c ""
+    c "(Oh, j'ai complètement oublié que j'avais une copie de la carte pour elle.)"
 
 # game/adine3.rpy:1244
 translate french adine3skip_8d441746:
 
     # c "(Should I give her the map?)" nointeract
-    c "" nointeract
+    c "(Devrais-je lui donner la carte ?)" nointeract
 
 # game/adine3.rpy:1250
 translate french adine3skip_f59e1e27:
 
     # c "By the way, I have something for you."
-    c ""
+    c "Au passage, j'ai quelque chose pour toi."
 
 # game/adine3.rpy:1252
 translate french adine3skip_a63c5af2:
 
     # Ad think b "Really? What would that be?"
-    Ad think b ""
+    Ad think b "Vraiment ? Qu'est-ce que c'est ?"
 
 # game/adine3.rpy:1256
 translate french adine3skip_58787831:
 
     # c "Ta-da!"
-    c ""
+    c "Ta-da !"
 
 # game/adine3.rpy:1258
 translate french adine3skip_2ae40564:
 
     # Ad "Is that what I think it is?"
-    Ad ""
+    Ad "Est-ce que c'est ce à quoi je pense ?"
 
 # game/adine3.rpy:1260
 translate french adine3skip_d606e72b:
 
     # c "If you think that it's a map of the underground building, then yes."
-    c ""
+    c "Si tu penses que c'est la carte du bâtiment souterrain, alors oui."
 
 # game/adine3.rpy:1262
 translate french adine3skip_0b29974d:
 
     # Ad giggle b "Wow. I really didn't expect that."
-    Ad giggle b ""
+    Ad giggle b "Woah. Je ne m'attendais vraiment pas à ça."
 
 # game/adine3.rpy:1264
 translate french adine3skip_3aa46a8e:
 
     # Ad normal b "How'd you get it?"
-    Ad normal b ""
+    Ad normal b "Comment tu l'as obtenu ?"
 
 # game/adine3.rpy:1266
 translate french adine3skip_357d5058:
 
     # c "Let's just say I had a chance to inspect it alone, and there was no one between me and the copier to stop me."
-    c ""
+    c "Disons que j'ai juste eu la chance de pouvoir l'inspecter tout seul, et qu'il n'y avait personne entre moi et la photocopieuse pour m'arrêter."
 
 # game/adine3.rpy:1268
 translate french adine3skip_65cf8f30:
 
     # Ad "That's amazing. You know people could get into big trouble for this, right?"
-    Ad ""
+    Ad "C'est génial. Tu sais que des gens pourraient avoir de gros ennuis pour ça, n'est-ce pas ?"
 
 # game/adine3.rpy:1270
 translate french adine3skip_8e1eccb3:
 
     # c "Well, it's yours now. Do with it whatever you want."
-    c ""
+    c "Eh bien, c'est à toi maintenant. Fais ce que tu veux avec."
 
 # game/adine3.rpy:1272
 translate french adine3skip_1ffde3d0:
 
     # Ad think b "I guess I will."
-    Ad think b ""
+    Ad think b "Je pense m'en donner à cœur joie."
 
 # game/adine3.rpy:1274
 translate french adine3skip_42407f4e:
 
     # c "I have to warn you, though."
-    c ""
+    c "Je dois te prévenir, cependant."
 
 # game/adine3.rpy:1276
 translate french adine3skip_301f5e4b:
 
     # Ad "What about?"
-    Ad ""
+    Ad "A propos de ?"
 
 # game/adine3.rpy:1278
 translate french adine3skip_ad06aa5e:
 
     # c "You might have heard about the water pockets surrounding the building. Any kind of disturbance could be fatal for any prospective explorers."
-    c ""
+    c "Tu dois avoir entendu parler des poches d'eau cernant le bâtiment. N'importe quelle perturbation pourrait être fatal pour n'importe quel potentiel explorateur."
 
 # game/adine3.rpy:1280
 translate french adine3skip_f5429729:
 
     # Ad normal b "I heard about that. Is it really as bad as they say?"
-    Ad normal b ""
+    Ad normal b "J'ai entendu parler de ça. C'est aussi grave qu'ils le disent ?"
 
 # game/adine3.rpy:1282
 translate french adine3skip_bc9f37b6:
 
     # c "Yes, it is. I'd be careful if I were you. Or at least wait until they have taken care of the water pockets, so there is no danger if you decide to pay it a visit."
-    c ""
+    c "Oui. Je ferais attention si j'étais toi. Ou du moins attendre qu'ils se soient occupés des poches d'eau, comme ça il n'y aura aucun danger si tu décides de faire une visite."
 
 # game/adine3.rpy:1284
 translate french adine3skip_0fb5135d:
 
     # Ad "Alright. It'll be a while until I get a chance to visit, anyway. All my free time right now will go towards practicing for the competition."
-    Ad ""
+    Ad "D'accord. Il faudra attendre un moment avant que je puisse te rendre visite de toute façon. Tout mon temps libre sera tourné vers l'entraînement pour la compétition."
 
 # game/adine3.rpy:1286
 translate french adine3skip_89aefe22_2:
 
     # c "I see."
-    c ""
+    c "Je vois."
 
 # game/adine3.rpy:1306
 translate french adine3skip_1c5d2593:
 
     # Ad "Well, thanks for the help with the bandage. And sorry about cutting practice short today. I guess you didn't get to see any proper aerobatics after all."
-    Ad ""
+    Ad "Eh bien, merci de m'avoir aidé avec le bandage. Et désolé d'avoir coupé court à l'entrînement aujourd'hui. Je crois que tu n'auras pas pu voir de belles figures au final."
 
 # game/adine3.rpy:1308
 translate french adine3skip_a0354fb0:
 
     # c "It's no big deal. Your health is more important."
-    c ""
+    c "Ce n'est rien. Ta santé est plus importante."
 
 # game/adine3.rpy:1312
 translate french adine3skip_623b118d:
 
     # Ad "Thanks for coming, at any rate."
-    Ad ""
+    Ad "Quoi qu'il en soit, merci d'être venu."
 
 # game/adine3.rpy:1314
 translate french adine3skip_fafa9709:
 
     # c "You're welcome."
-    c ""
+    c "De rien."
 
 # game/adine3.rpy:1316
 translate french adine3skip_51404203:
 
     # c "I guess I'll leave you to recuperate now, and maybe I'll see you next time."
-    c ""
+    c "Je pense que je vais te laisser récupérer, et peut être qu'on se verra la prochaine fois."
 
 # game/adine3.rpy:1318
 translate french adine3skip_1a040acb:
 
     # Ad "Sure thing! Bye!"
-    Ad ""
+    Ad "Bien sûr ! A plus !"
 
 # game/adine3.rpy:1350
 translate french adine3skip_618f6bd4:
 
     # Ad "Are you going to come to the show?"
-    Ad ""
+    Ad "Est-ce que tu vas venir à la compétition ?"
 
 # game/adine3.rpy:1352
 translate french adine3skip_baaea236:
 
     # c "If I can, sure."
-    c ""
+    c "Si je peux, bien sûr."
 
 # game/adine3.rpy:1354
 translate french adine3skip_6b29e7c3:
@@ -2470,146 +2470,146 @@ translate french adine3skip_8ce90212:
 translate french adine3skip_993ba4d9:
 
     # c "Sounds good."
-    c ""
+    c "Ca me va."
 
 # game/adine3.rpy:1362
 translate french adine3skip_e6d9aa1c:
 
     # Ad "I'll see you next time, then."
-    Ad ""
+    Ad "Je te vois la prochaine fois, donc."
 
 # game/adine3.rpy:1364
 translate french adine3skip_a4c90328:
 
     # c "See you."
-    c ""
+    c "A plus."
 
 translate french strings:
 
     # adine3.rpy:7
     old "Chapter 4 - Adine 3"
-    new ""
+    new "Chapitre 4 - Adine 3"
 
     # adine3.rpy:11
     old "Chapter 3 - Adine 3"
-    new ""
+    new "Chapitre 3 - Adine 3"
 
     # adine3.rpy:15
     old "Chapter 2 - Adine 3"
-    new ""
+    new "Chapitre 2 - Adine 3"
 
     # adine3.rpy:19
     old "Chapter 1 - Adine 3"
-    new ""
+    new "Chapitre 1 - Adine 3"
 
     # adine3.rpy:59
     old "You did?"
-    new ""
+    new "Toi ?"
 
     # adine3.rpy:59
     old "Is it me?"
-    new ""
+    new "C'est moi ?"
 
     # adine3.rpy:59
     old "Remy did."
-    new ""
+    new "C'est Rémi."
 
     # adine3.rpy:246
     old "I'll just have to be careful."
-    new ""
+    new "Il faut juste que je fasse attention."
 
     # adine3.rpy:246
     old "Don't worry about it."
-    new ""
+    new "Ne t'inquiète pas pour ça."
 
     # adine3.rpy:246
     old "It won't affect me much, if at all."
-    new ""
+    new "Ca ne m'affectera pas beaucoup, si ce n'est pas du tout."
 
     # adine3.rpy:425
     old "That's kinda gross."
-    new ""
+    new "Ca a l'air dégueulasse."
 
     # adine3.rpy:425
     old "That sounds kinda funny."
-    new ""
+    new "Ca a l'air amusant."
 
     # adine3.rpy:425
     old "I wish I could do that with my feet."
-    new ""
+    new "J'aimerais être capable de faire ça avec mes pieds."
 
     # adine3.rpy:480
     old "It is."
-    new ""
+    new "Ca l'est."
 
     # adine3.rpy:480
     old "It's not that hard."
-    new ""
+    new "Ce n'es pas si difficile."
 
     # adine3.rpy:480
     old "You could try it if you like."
-    new ""
+    new "Tu pourrais t'y essayer si tu veux."
 
     # adine3.rpy:509
     old "I agree."
-    new ""
+    new "Je suis d'accord."
 
     # adine3.rpy:509
     old "That's actually the point of those contests."
-    new ""
+    new "En fait c'est l'intérêt de ces concours."
 
     # adine3.rpy:547
     old "Yes, please."
-    new ""
+    new "Je veux bien s'il-te-plaît."
 
     # adine3.rpy:547
     old "No, thanks."
-    new ""
+    new "Non merc."
 
     # adine3.rpy:687
     old "I was bored."
-    new ""
+    new "Je m'ennuyais."
 
     # adine3.rpy:687
     old "They're for you."
-    new ""
+    new "Ils sont pour toi."
 
     # adine3.rpy:687
     old "Just a souvenir for when I get back home."
-    new ""
+    new "Juste un souvenir pour quand je rentrerais."
 
     # adine3.rpy:765
     old "Freefall"
-    new ""
+    new "Freefall"
 
     # adine3.rpy:765
     old "Lightning"
-    new ""
+    new "Lightning"
 
     # adine3.rpy:765
     old "Neowing"
-    new ""
+    new "Neowing"
 
     # adine3.rpy:765
     old "Angel"
-    new ""
+    new "Ange"
 
     # adine3.rpy:765
     old "Stormhawk"
-    new ""
+    new "Faucon"
 
     # adine3.rpy:765
     old "[[Custom name]"
-    new ""
+    new "[[Nom personalisé]"
 
     # adine3.rpy:920
     old "Enter a stage name for Adine:"
-    new ""
+    new "Entrer un nom de scène pour Adine:"
 
     # adine3.rpy:920
     old "Stagename"
-    new ""
+    new "Nom de scène"
 
     # adine3.rpy:1244
     old "Yes. {image=image/ui/status/havemap.png}"
-    new ""
+    new "Oui. {image=image/ui/status/havemap.png}"
