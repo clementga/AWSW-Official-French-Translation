@@ -29,7 +29,7 @@ remy1 ✔✔<br/>
 xsebastian ✔<br/>
 <i>endings (était utilisé dans la demo de AWSW, et peut donc être ignoré)<i/><br/>
 chapter2 ✔✔<br/>
-adine2 ✔<br/>
+adine2 ✔✔<br/>
 anna2 ✔✔<br/>
 bryce2 ✔<br/>
 lorem2 ✔✔<br/>
@@ -37,7 +37,7 @@ remy2 ✔✔<br/>
 xemera ✔<br/>
 xzhong ✔<br/>
 chapter3 ✔<br/>
-adine3 ✔<br/>
+adine3 ✔✔<br/>
 anna3 ✔✔<br/>
 bryce3 ✔<br/>
 lorem3 ✔<br/>
