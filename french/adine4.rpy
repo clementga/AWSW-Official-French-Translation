@@ -4,13 +4,13 @@
 translate french adine4_82ee252e:
 
     # c "(That must be her.)"
-    c "(Ça doit être elle.)"
+    c "(Ca doit être elle.)"
 
 # game/adine4.rpy:38
 translate french adine4_265e20e7:
 
     # Ad "Hey, [player_name]."
-    Ad "Salut [player_name] !"
+    Ad "Salut [player_name]."
 
 # game/adine4.rpy:40
 translate french adine4_9fe9869e:
@@ -28,25 +28,25 @@ translate french adine4_e7995973:
 translate french adine4_abbd9af4:
 
     # c "Sure am! I can't wait to see everything the festival has to offer."
-    c "Bien sûr, j'ai hâte d'être au festival !"
+    c "Bien sûr, j'ai hâte de voir ce que le festival a à offrir."
 
 # game/adine4.rpy:62
 translate french _call_skiptut_30_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indiquent que vous avez déjà passé cette scène en ayant obtenu une fin satisfaisante. Souhaitez-vous tout de même la revoir ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/adine4.rpy:70
 translate french _call_skiptut_30_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semble que vous avez déjà vu cette scène. Je la repasse tout de même ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Passez cette scène ?"
 
 # game/adine4.rpy:78
 translate french _call_skiptut_30_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Il s'avère que vous avez déjà vu cela auparavant. Soit vous pouvez le revoir, soit nous pouvons gagner du temps et passer directement à la fin du rendez-vous."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène."
 
 # game/adine4.rpy:92
 translate french _call_skiptut_30_0054b77b:
@@ -64,7 +64,7 @@ translate french _call_skipcheck_30_0054b77b:
 translate french _call_skipcheck_30_7e7e79bf:
 
     # Ad normal b "Oh, I'm sorry if it came across that way, but I don't think we'll actually have much time to take part in the festivities."
-    Ad normal b "Oh, désolée de te dire ça, mais je ne sais pas si on aura vraiment le temps de traîner au festival en fait."
+    Ad normal b "Oh, désolée si tu l'as compris comme ça, mais je ne sais pas si l'on aura vraiment le temps de traîner au festival en fait."
 
 # game/adine4.rpy:121
 translate french _call_skipcheck_30_f0b69231:
@@ -76,25 +76,25 @@ translate french _call_skipcheck_30_f0b69231:
 translate french _call_skipcheck_30_ae9bd704:
 
     # Ad "Yeah, I'll have to spend most of my time at the competition grounds. We'll arrive there early so I can check in and do my warmup, and I'll still have to stick around after my performance to wait for the awards ceremony."
-    Ad "Oui, il va falloir qu'on reste à la compétition. On va y aller de bonne heure histoire que je puisse m'enregistrer, et m'échauffer surtout. Et même quand je serai passée, il ne faudra pas s'éloigner en attendant les résultats."
+    Ad "Oui, je vais devoir passer le gros de mon temps au stand de la compétition. On va y aller de bonne heure histoire que je puisse m'enregistrer et m'échauffer, et même quand je serai passée, il ne faudra pas s'éloigner en attendant la remise des prix."
 
 # game/adine4.rpy:125
 translate french _call_skipcheck_30_8be16951:
 
     # Ad think b "Well, I guess you don't have to wait with me. You could see the rest of the festival if you wanted to."
-    Ad think b "Mais au pire tu n'auras pas besoin de rester tout le temps avec moi ! Si tu veux, tu pourras aller te balader dans le festival quand j'aurais fini."
+    Ad think b "Mais au pire tu n'auras pas besoin de rester tout le temps avec moi ! Si tu veux, tu pourras aller voir le reste du festival."
 
 # game/adine4.rpy:127
 translate french _call_skipcheck_30_80560524:
 
     # c "That's out of the question. I'm here to spend time with you. The festival is not that important."
-    c "Nan ça va aller. Je veux rester avec toi, le festival attendra."
+    c "Pas question. Je suis ici pour passer du temps avec toi. Le festival importe peu."
 
 # game/adine4.rpy:129
 translate french _call_skipcheck_30_2529c9a0:
 
     # Ad normal b "Besides, we can always see everything on one of the other festival days."
-    Ad normal b "Et puis on pourra y aller plus tard, si tu veux."
+    Ad normal b "Et puis on pourra y aller les autres jours."
 
 # game/adine4.rpy:131
 translate french _call_skipcheck_30_7079b2e8:
