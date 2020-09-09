@@ -106,31 +106,31 @@ translate french _call_skipcheck_30_7079b2e8:
 translate french _call_skipcheck_30_2a34125a:
 
     # Ad "We could even watch the big fireworks show at the end."
-    Ad "On pourra même assister au final avec le grand feu d'artifice !"
+    Ad "On pourra même assister au final avec le grand feu d'artifice."
 
 # game/adine4.rpy:135
 translate french _call_skipcheck_30_e0a733fd:
 
     # c "Yeah, I've heard about that. Everyone keeps telling me how important it is for me to see."
-    c "Oui, j'ai entendu parler de ça. En fait, tout le monde me répète qu'il faut à tout prix que je le vois !"
+    c "Oui, j'ai entendu parler de ça. En fait, tout le monde me répète qu'il faut à tout prix que je le vois."
 
 # game/adine4.rpy:137
 translate french _call_skipcheck_30_89332629:
 
     # Ad giggle b "It's not that important, but if you have the opportunity, you really should go."
-    Ad giggle b "J'imagine ! Perso, je ne te forcerai pas à y aller coûte que coûte. Mais si tu peux le voir, vraiment n'hésite pas."
+    Ad giggle b "Il n'est pas si important, mais si tu as l'opportunité de le voir, vraiment n'hésite pas."
 
 # game/adine4.rpy:139
 translate french _call_skipcheck_30_3c99baa8:
 
     # c "I'm not sure if I'll be able to attend, but I'd gladly accompany you if I have the chance."
-    c "Je ne sais pas encore si mon emploi du temps me le permettra, mais si je peux y aller avec toi, ça sera avec plaisir."
+    c "Je ne sais pas encore si je pourrais y assister, mais si je peux, je t'accompagne volontier."
 
 # game/adine4.rpy:141
 translate french _call_skipcheck_30_6357ebb6:
 
     # Ad normal b "Sure. So, today's agenda is emotional support, and next time, we can take in all aspects of the festival. Sound good?"
-    Ad normal b "Bien sûr ! Mais bon ton emploi du temps de la journée, ça va être de me soutenir d'accord ? Et si tu te débrouilles bien, on verra pour la suite du festival."
+    Ad normal b "Ca marche. Bon, ton emploi du temps de la journée, ça va être du soutien moral, Et la prochaine fois, on verra pour la suite du festival. Ca te va ?"
 
 # game/adine4.rpy:143
 translate french _call_skipcheck_30_c0cdabcc:
@@ -142,31 +142,31 @@ translate french _call_skipcheck_30_c0cdabcc:
 translate french _call_skipcheck_30_55c241e4:
 
     # Ad giggle b "Alright. Let's go then."
-    Ad giggle b "Génial ! Allez en route !"
+    Ad giggle b "Génial. Allez en route."
 
 # game/adine4.rpy:157
 translate french _call_skipcheck_30_9dc2fca5:
 
     # m "It took a while for us to arrive at the festival, which had already begun by this point. The last of the booths that lined the way were still being set up, but dragons of all shapes and sizes were already pouring in."
-    m "Il nous a fallu du temps avant d'arriver au festival qui avait déjà bien commencé. L'on voyait les derniers stands se monter, même si il y avait déjà beaucoup de monde venu assister aux festivités."
+    m "Il nous fallut du temps avant d'arriver au festival qui avait déjà bien commencé. L'on voyait les derniers stands longeant la rue se monter, mais il y avait déjà beaucoup de dragons de toutes les tailleset de toutes les formes venu assister aux festivités."
 
 # game/adine4.rpy:159
 translate french _call_skipcheck_30_029afb69:
 
     # m "Instead of walking directly through the festival, we stayed outside the established paths, heading towards the stage where the competition was going to be held."
-    m "Plutôt que de nous perdre au beau milieu de la foule, nous sommes restés à l'écart et nous sommes dirigés vers l'endroit où le concours d'aérobatie allait avoir lieu."
+    m "Plutôt que de nous perdre dans le festival, nous restâmes à l'écart et nous nous dirigâmes vers l'endroit où le concours d'aérobatie allait avoir lieu."
 
 # game/adine4.rpy:167
 translate french _call_skipcheck_30_df3ca2e6:
 
     # m "Eventually, we arrived at a rather large open air area near the facility that had been roped off. At one corner of the building, a few flyers had already gathered."
-    m "Finalement, nous sommes arrivés sur une grande place totallement réservée à l'occasion. Ce n'était rien de plus que la cour de l'usine de production. Près de l'une des entrées du complexe, quelques dragons aîlés étaient rassemblés."
+    m "Finalement, nous sommes arrivés sur une grande place totallement réservée à l'occasion. Ce n'était rien de plus que la cour du complexe de production. Au coin du bâtiment, quelques aviateurs étaient rassemblés."
 
 # game/adine4.rpy:171
 translate french _call_skipcheck_30_063136f1:
 
     # Ad "Maybe you should wait here while I get my number."
-    Ad "Tu devrais peut-être attendre là pendant que je prends mon numéro"
+    Ad "Tu devrais peut-être attendre là pendant que je prends mon numéro."
 
 # game/adine4.rpy:173
 translate french _call_skipcheck_30_4e5a4202:
@@ -178,13 +178,13 @@ translate french _call_skipcheck_30_4e5a4202:
 translate french _call_skipcheck_30_579bbff4:
 
     # Ad giggle b "People might get the wrong idea if you show up in the registration line."
-    Ad giggle b "Les gens pourraient se poser des questions s'ils te voient dans la file d'attente pour les inscriptions !"
+    Ad giggle b "Les gens pourraient se poser des questions s'ils te voient dans la file d'attente pour les inscriptions."
 
 # game/adine4.rpy:177
 translate french _call_skipcheck_30_a8366068:
 
     # Ad think b "Besides, they'd certainly stare and start asking all kinds of questions."
-    Ad think b "Et puis, ils viendraient certainement nous voir pour nous poser plein de questions, à toi surtout !"
+    Ad think b "Et puis, ils viendraient certainement nous voir pour poser plein de questions."
 
 # game/adine4.rpy:179
 translate french _call_skipcheck_30_9bc9068c:
@@ -196,43 +196,43 @@ translate french _call_skipcheck_30_9bc9068c:
 translate french _call_skipcheck_30_24b1c5b9:
 
     # Ad normal b "I'll be right back."
-    Ad normal b "Je reviens vite !"
+    Ad normal b "Je reviens vite."
 
 # game/adine4.rpy:185
 translate french _call_skipcheck_30_34635a29:
 
     # m "After Adine had waddled off to the other flyers, I surveyed my surroundings idly."
-    m "Après qu'Adine aie joyeusement rejoint les autres participants, j'ai observé les alentours en l'attendant."
+    m "Après qu'Adine ait joyeusement rejoint les autres participants, j'ai observé les alentours en l'attendant."
 
 # game/adine4.rpy:187
 translate french _call_skipcheck_30_350085b9:
 
     # m "Beyond the big open air area, seating had been provided, and I could already see a few people waiting for the competition to start. A few had even gathered on the roof of the building to watch from there. "
-    m "Autour de la grande place, des gradins avaient été installés, et certains spectateurs s'y installaient déjà. D'autres étaient rassemblés sur le toit du bâtiment."
+    m "Autour de la grande place, des gradins avaient été installés, et je pouvais déjà voir quelques personnes attendre le début de la compétition. D'autres s'étaient rassemblés sur le toit du bâtiment pour regarder de là."
 
 # game/adine4.rpy:191
 translate french _call_skipcheck_30_70ef8dbe:
 
     # Ad "I'm back!"
-    Ad "Je suis là !"
+    Ad "Je suis de retour !"
 
 # game/adine4.rpy:193
 translate french _call_skipcheck_30_392933aa:
 
     # c "Is that your number?"
-    c "Tu as ton numéro, c'est bon ?"
+    c "C'est ton numéro ?"
 
 # game/adine4.rpy:195
 translate french _call_skipcheck_30_e93337e5:
 
     # m "She held up a piece of cloth with a large number printed on it. A few straps were hanging from it."
-    m "Elle tenait en ses ailes un morceau de tissus sur lequel était imprimé un gros chiffre. Des sangles pendaient de chaque côté."
+    m "Elle tenait un morceau de tissus sur lequel était imprimé un gros nombre. Des sangles pendaient de chaque côté."
 
 # game/adine4.rpy:197
 translate french _call_skipcheck_30_075e02d8:
 
     # Ad giggle b "What, this? No, of course not. This is [adinestagename]'s number."
-    Ad giggle b "De quoi, ça ? Nan, pas du tout, c'est le numéro de [adinestagename] !"
+    Ad giggle b "De quoi, ça ? Nan, pas du tout, c'est le numéro d'une certaine [adinestagename]."
 
 # game/adine4.rpy:199
 translate french _call_skipcheck_30_6f25aa46:
@@ -244,25 +244,25 @@ translate french _call_skipcheck_30_6f25aa46:
 translate french _call_skipcheck_30_84b55115:
 
     # Ad normal b "I'm one of the last to start, actually."
-    Ad normal b "Je serais parmi les derniers au fait."
+    Ad normal b "Je serais parmi les derniers à partir, en fait."
 
 # game/adine4.rpy:203
 translate french _call_skipcheck_30_0a0cc2b9:
 
     # c "Are we late?"
-    c "On est arrivé trop tard ?"
+    c "On est arrivé en retard ?"
 
 # game/adine4.rpy:205
 translate french _call_skipcheck_30_fed35f46:
 
     # Ad "No, I guess the others just arrived earlier to have more time to get ready."
-    Ad "Non. En fait je pense que d'autres sont arrivés encore plus tôt, pour avoir encore plus le temps de se préparer."
+    Ad "Non. En fait je pense que d'autres sont arrivés encore plus tôt, pour avoir plus de temps de se préparer."
 
 # game/adine4.rpy:207
 translate french _call_skipcheck_30_1dbee2a3:
 
     # c "What do you think about the other competitors?"
-    c "Tu connais les autres participants ?"
+    c "Que penses-tu des autres participants ?"
 
 # game/adine4.rpy:209
 translate french _call_skipcheck_30_504e401e:
@@ -280,7 +280,7 @@ translate french _call_skipcheck_30_c8ada606:
 translate french _call_skipcheck_30_64f0f308:
 
     # c "Maybe you could use that to your advantage."
-    c "Tu pourrais peut-être en tirer partie."
+    c "Tu pourrais peut-être le tourner à ton avantage."
 
 # game/adine4.rpy:215
 translate french _call_skipcheck_30_cadca0e2:
@@ -292,43 +292,43 @@ translate french _call_skipcheck_30_cadca0e2:
 translate french _call_skipcheck_30_4fe39ca1:
 
     # c "Well, you know more about them than they do about you. Having a promising newcomer there might throw them off their game."
-    c "Je me dis que tu en sais plus sur eux, que eux n'en savent sur toi. Avoir un rooky prometteur pourrait les déstabiliser, tu ne crois pas ?"
+    c "Je me dis que tu en sais plus sur eux, que eux n'en savent sur toi. Avoir un débutant prometteur pourrait les déstabiliser."
 
 # game/adine4.rpy:219
 translate french _call_skipcheck_30_37150d93:
 
     # Ad normal b "I'm not so sure about that. After all, it's not as if any of our already choreographed performances would change based on what others do now. Each of us just tries to do their best."
-    Ad normal b "Je ne sais pas. En fait ce n'est pas la chorégraphie de l'un qui va changer quelque chose à celle d'un autre. On essaie tous de faire de notre mieux avec nos propres chorégraphies."
+    Ad normal b "Je ne crois pas. En fait ce n'est pas la chorégraphie de l'un qui va changer quelque chose à celle d'un autre. On essaie tous de faire de notre mieux."
 
 # game/adine4.rpy:221
 translate french _call_skipcheck_30_ceaf6f41:
 
     # Ad think b "Most of them are seasoned flyers, so they already know how to deal with that kind of pressure. If anything, I'm the one who might get nervous and mess up."
-    Ad think b "La plupart sont des cascadeurs chevronnés. Ils sont habitués à la pression, en fait c'est moi qui pourrait être destabilisée avec tout ça !"
+    Ad think b "La plupart sont des cascadeurs chevronnés. Ils sont habitués à faire avec la pression. En fait c'est moi qui pourrait être nerveuse et destabilisée."
 
 # game/adine4.rpy:223
 translate french _call_skipcheck_30_b416699b:
 
     # Ad normal b "I do have one advantage, though. I'm still pretty young, and this is a sport with a great amount of wear and tear."
-    Ad normal b "J'ai un autre avantage par contre. Je suis encore jeune, et c'est un sport usant à la longue."
+    Ad normal b "J'ai un autre avantage par contre. Je suis encore assez jeune, et c'est un sport usant à la longue."
 
 # game/adine4.rpy:225
 translate french _call_skipcheck_30_9ebff89e:
 
     # Ad think b "There comes a certain point in time when you just can't perform as well anymore as you used to."
-    Ad think b "Il arrive un jour où les jeunes dépassent les chevronnés, grâce à leur meilleure condition physique."
+    Ad think b "Il arrive un point où tu ne peux plus exercer aussi bien qu'à tes débuts."
 
 # game/adine4.rpy:227
 translate french _call_skipcheck_30_96b912cb:
 
     # Ad "Many complicated maneuvers can only be performed by younger athletes. The older ones can make up for it using their experience, and with better execution of easier moves."
-    Ad "Les manoeuvres compliquées ne peuvent être faites que par les plus jeunes. Les plus expérimentés compensent en général en usant de leurs expériences et en faisant des manoeuvres plus simples."
+    Ad "Les manoeuvres compliquées ne peuvent être faites que par les plus jeunes. Les plus expérimentés compensent en général en usant de leurs expériences et avec une meilleure exécution de manoeuvres plus simples."
 
 # game/adine4.rpy:229
 translate french _call_skipcheck_30_92eec963:
 
     # Ad normal b "In the end, a daring newcomer like me could surprise the audience and the judges with something new and unexpected, which is exactly what I plan to do."
-    Ad normal b "Au final, une rooky prometteuse comme moi peut surprendre le public et les juges, s'il montre quelque chose de nouveau et d'innatentu. Et c'est exactement ce que j'ai prévu de faire !"
+    Ad normal b "Au final, une débutante prometteuse comme moi peut surprendre le public et les juges, s'il montre quelque chose de nouveau et d'innatentu. Et c'est exactement ce que j'ai prévu de faire."
 
 # game/adine4.rpy:231
 translate french _call_skipcheck_30_85601413:
