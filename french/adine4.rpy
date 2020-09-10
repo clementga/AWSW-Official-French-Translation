@@ -334,31 +334,31 @@ translate french _call_skipcheck_30_92eec963:
 translate french _call_skipcheck_30_85601413:
 
     # c "How good do you think your chances are?"
-    c "À ton avis, quelles sont tes chances ?"
+    c "À ton avis, quelles sont tes perspectives ?"
 
 # game/adine4.rpy:233
 translate french _call_skipcheck_30_4650287c:
 
     # Ad think b "With a bit of luck, I might even be able to win. This is just a local competition, after all."
-    Ad think b "C'est justement la chance qui pourrait me faire gagner. Tu sais, ça reste un concours local après tout."
+    Ad think b "Avec un peu de chance, je pourrais même gagner. Tu sais, ça reste un concours local après tout."
 
 # game/adine4.rpy:235
 translate french _call_skipcheck_30_6c2ed789:
 
     # Ad normal b "But you know what? Just being here right now and performing in front of so many people is a win for me. People will know me, and I'll probably get a mention somewhere in a local paper."
-    Ad normal b "Mais tu sais c'est quoi le plus important pour moi ? D'être là, et d'avoir la chance de me montrer ! C'est ça ma victoire ! Je vais me faire connaître, peut-être même qu'un journal local parlera de moi !"
+    Ad normal b "Mais tu sais quoi ? D'être là, et d'avoir la chance de me montrer, c'est ça ma victoire. Je vais me faire connaître, peut-être même qu'un journal local parlera de moi."
 
 # game/adine4.rpy:237
 translate french _call_skipcheck_30_2c805365:
 
     # Ad "I've trained for years, and my application to compete finally got accepted. Now I just have to make the most of it, and I'll be happy."
-    Ad "Je me suis entraînée pendant des années, et aujourd'hui je vais leur montrer ce que je vaux ! Il ne me reste plus qu'à profiter de l'instant présent, et ça sera pour moi une journée merveilleuse !"
+    Ad "Je me suis entraînée pendant des années, et ma participation a enfin été acceptée. Il ne me reste plus qu'à me donner à fond, et je serais heureuse."
 
 # game/adine4.rpy:239
 translate french _call_skipcheck_30_1b32456d:
 
     # Ad "I still can hardly believe that I'm here. This is the moment I've worked so hard for."
-    Ad "Tu sais, j'ai encore du mal à croire que j'y suis enfin... C'est le jour pour lequel j'ai travaillé si dure, tu te rends compte ?"
+    Ad "Tu sais, j'ai encore du mal à croire que j'en suis arrivé là. C'est le jour pour lequel j'ai travaillé si dure."
 
 # game/adine4.rpy:241
 translate french _call_skipcheck_30_4962b228:
@@ -370,7 +370,7 @@ translate french _call_skipcheck_30_4962b228:
 translate french _call_skipcheck_30_0b89f59b:
 
     # Ad giggle b "Oh, stop it. You're making me nervous."
-    Ad giggle b "Oh nan arrête ! Tu vas me stresser !"
+    Ad giggle b "Oh, arrête. Tu vas me stresser."
 
 # game/adine4.rpy:245
 translate french _call_skipcheck_30_bc30dece:
@@ -382,25 +382,25 @@ translate french _call_skipcheck_30_bc30dece:
 translate french _call_skipcheck_30_0976511e:
 
     # Ad think b "Can you help me with this?"
-    Ad think b "Oh, tu peux m'aider avec ça ?"
+    Ad think b "Tu peux m'aider avec ça ?"
 
 # game/adine4.rpy:249
 translate french _call_skipcheck_30_b6b0581a:
 
     # m "She spread out her wing, and only then did I notice that her shoulder joint was tightly bandaged."
-    m "Elle a déployé son aile, ce n'est qu'à ce moment que j'ai remarqué le bandage sur l'articulation de son épaule."
+    m "Elle déploya son aile, ce n'est qu'à ce moment que je remarquai le bandage sur l'articulation de son épaule."
 
 # game/adine4.rpy:251
 translate french _call_skipcheck_30_be383434:
 
     # c "What's that for?"
-    c "Pourquoi tu as ce bandage ?"
+    c "C'est pour quoi faire ?"
 
 # game/adine4.rpy:253
 translate french _call_skipcheck_30_ca0ad645:
 
     # Ad normal b "It's just a training bandage to stabilize my shoulder after that little blunder you witnessed last time. We can't fly with these in the competition though, so I'll have to take it off."
-    Ad normal b "C'est plus une atelle pour stabiliser mon épaule, tu sais avec ce qui s'est passé l'autre jour... Mais je dois l'enlever pour la compétition."
+    Ad normal b "C'est plus une atelle pour stabiliser mon épaule, après la bourde que tu as vu l'autre jour. On ne peut pas voler avec durant la compétition, donc je dois l'enlever."
 
 # game/adine4.rpy:255
 translate french _call_skipcheck_30_fe5f3366:
@@ -412,7 +412,7 @@ translate french _call_skipcheck_30_fe5f3366:
 translate french _call_skipcheck_30_630b8dee:
 
     # m "I opened the bandage, carefully unwrapping her wing."
-    m "J'ai retiré la bande, libérant prudemment son aile de cet atelle."
+    m "Je retirai la bande, libérant prudemment son aile."
 
 # game/adine4.rpy:263
 translate french _call_skipcheck_30_39fda16a:
@@ -430,91 +430,91 @@ translate french _call_skipcheck_30_0da14851:
 translate french _call_skipcheck_30_977d9843:
 
     # m "She spread both of her wings, beating them a few times. I couldn't help noticing that the previously bandaged wing was sagging noticeably compared to its counterpart, as if it were misaligned."
-    m "Elle a déployé ses deux ailes et les a battu doucement à plusieurs reprises probablement pour tester son épaule meurtrie. Je n'ai pas pu m'empêcher que celle ci n'avait pas le même mouvement que l'autre, comme si elle n'étais pas bien positionnée."
+    m "Elle déploya ses deux ailes et les battit doucement à plusieurs reprises. Je ne pouvais m'empêcher de remarquer que celle ci s'affaissait coparé à l'autre, comme si elle n'étais pas bien positionnée."
 
 # game/adine4.rpy:273
 translate french _call_skipcheck_30_a1b5b231:
 
     # m "She seemed to be examining her shoulder, somewhat lost in thought when I spoke up."
-    m "Elle échauffait ses articulations, quelque peu perdue dans ses pensées lorsque je l'ai interrompue."
+    m "Elle échauffait ses articulations, quelque peu perdue dans ses pensées lorsque je l'interrompis."
 
 # game/adine4.rpy:275
 translate french _call_skipcheck_30_bd3b9cdf:
 
     # c "Are you sure you want to do this?"
-    c "Tu es sûre que ça va aller ?"
+    c "Tu es sûre que tu veux le faire ?"
 
 # game/adine4.rpy:277
 translate french _call_skipcheck_30_b17e7bef:
 
     # Ad giggle b "Yes, of course. Why wouldn't I?"
-    Ad giggle b "Oui oui, bien sûr ! Pourquoi ça n'irait pas ?"
+    Ad giggle b "Oui, bien sûr ! Pourquoi je ne le ferais pas ?"
 
 # game/adine4.rpy:279
 translate french _call_skipcheck_30_e83a0228:
 
     # c "I can see you're straining without the bandage."
-    c "Ton épaule. Sans le bandage, on dirait qu'il y a -"
+    c "Je peux voir que tu es tendu sans le bandage."
 
 # game/adine4.rpy:281
 translate french _call_skipcheck_30_2aec46a2:
 
     # Ad normal b "I'm fine, really. Don't worry about it."
-    Ad normal b "Je vais bien, t'inquiète ! Ça va aller."
+    Ad normal b "Je vais bien, t'inquiète. Ça va aller."
 
 # game/adine4.rpy:283
 translate french _call_skipcheck_30_be6031ed:
 
     # c "If you're fine without the bandage, how come you were wearing it up to just now? Did you need it for practice, too? If you couldn't practice without it, maybe you aren't ready to compete without it yet."
-    c "Si tu vas bien sans bandage, pourquoi tu as attendu autant pour l'enlever ? Tu l'avais pour t'entraîner, non ? Si tu ne peux pas voler sans lui, alors tu ne devrais pas concourir sans lui."
+    c "Si tu vas bien sans le bandage, pourquoi tu as attendu autant pour l'enlever ? Tu en avais besoin pour t'entraîner, aussi ? Si tu ne pouvais pas t'entraîner sans lui, alors tu ne devrais pas concourir sans lui non plus."
 
 # game/adine4.rpy:285
 translate french _call_skipcheck_30_96ea69a8:
 
     # Ad annoyed b "Since when are you suddenly an expert on flying? I'm the one who has been doing this for years, not you. This is my dream we're talking about."
-    Ad annoyed b "Depuis quand t'es expert en blessure ? C'est moi qui m'entraîne depuis des années, c'est moi qui suis dans les airs, pas toi ! Tu es conscient que tu me demande de faire une croix sur mon rêve là ?"
+    Ad annoyed b "Depuis quand t'es expert en matière de vol ? C'est moi qui m'entraîne depuis des années, pas toi. C'est de mon rêve dont on parle là."
 
 # game/adine4.rpy:287
 translate french _call_skipcheck_30_70584b62:
 
     # c "Do you want them to see you in this condition and judge you based on that rather than when you're at your best?"
-    c "Justement, tu veux qu'on te vois voler avec une épaule blessée ? Tu ne pourras pas donner le meilleure de toi même Adine, tu le sais, non ?"
+    c "Justement, tu veux qu'on te voit voler avec une épaule blessée et qu'on te juge sur ça plutôt que quand tu donnes le meilleure de toi même ?"
 
 # game/adine4.rpy:289
 translate french _call_skipcheck_30_44b42e11:
 
     # Ad disappoint b "I.. just have to try, you know?"
-    Ad disappoint b "Mais... Je dois essayer, je dois le faire, tu comprends ?"
+    Ad disappoint b "Je... Je dois essayer, je dois le faire, tu comprends ?"
 
 # game/adine4.rpy:291
 translate french _call_skipcheck_30_0e18ac17:
 
     # c "What if something goes wrong, though? You don't want to be in that position."
-    c "Mais s'il t'arrive un truc ? Tu ne tout de même pas risquer tes écailles pour ce concours, si ?"
+    c "Mais s'il t'arrive un truc ? Tu ne veux pas de retrouver dans cette situation."
 
 # game/adine4.rpy:293
 translate french _call_skipcheck_30_8f90f4fd:
 
     # Ad "If I start making excuses now, maybe I'll never stop. I'll always be too nervous, or too injured, or didn't eat right the day before. I feel bad enough as it is."
-    Ad "Mais [player_name], si je commence déjà à trouver des excuses aujourd'hui, la prochaine fois ça sera quoi ? Je serai encore blessé, je serais trop stressée ? Je n'aurais pas bien mangé la veille ?... Je me sens assez mal comme ça, pas la peine d'en rajouter."
+    Ad "Si je commence déjà à trouver des excuses aujourd'hui, la prochaine fois ça sera quoi ? Je serai encore blessé, ou trop stressée ou je n'aurais pas bien mangé la veille. Je me sens assez mal comme ça."
 
 # game/adine4.rpy:295
 translate french _call_skipcheck_30_fb8f8319:
 
     # Ad "Right now, I have the chance to do this. And if I don't take it, maybe I never will."
-    Ad "Aujourd'hui, j'ai l'occasion de réaliser mon rêve. Si je ne saisis pas cette occasion maintenant, peut-être que jamais plus je ne l'aurais."
+    Ad "Aujourd'hui, j'ai l'occasion de le faire. Si je ne saisis pas cette occasion maintenant, peut-être que jamais plus je ne l'aurais."
 
 # game/adine4.rpy:297
 translate french _call_skipcheck_30_10dc1d98:
 
     # Ad "I'll always just be a server and delivery girl making minimum wage."
-    Ad "Je resterai Adine la serveuse du café, ou Adine la livreuse de pizza... Avec mon p'tit salaire minable."
+    Ad "Je resterai une serveuse ou une livreuse au salaire minimum."
 
 # game/adine4.rpy:299
 translate french _call_skipcheck_30_14c70f0e:
 
     # Ad "Is this one chance really too much to ask for?"
-    Ad "C'est vraiment trop demandé pour toi de comprendre ça ?"
+    Ad "Est-ce que cette opportunité est trop demandé ?"
 
 # game/adine4.rpy:301
 translate french _call_skipcheck_30_2d31e64d:
