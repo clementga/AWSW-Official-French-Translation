@@ -520,123 +520,121 @@ translate french _call_skipcheck_30_14c70f0e:
 translate french _call_skipcheck_30_2d31e64d:
 
     # c "No, but it doesn't have to be right now. There will always be another year."
-    c "Bien sûr que non Adine. Mais si tu n'impressionnes pas le public aujourd'hui, tu pourras toujours le faire l'année prochaine, non ?"
+    c "Non, mais ça n'a pas à être maintenant. Tu pourras toujours le faire l'année prochaine."
 
 # game/adine4.rpy:303
 translate french _call_skipcheck_30_e8097404:
 
     # c "They've never seen you compete before. If you fly now, they'll judge you based on this performance. You only have one chance at making a first impression, and you know it won't be your best if you fly right now."
-    c "Ils ne te connaissent pas encore, ils ne t'ont jamais vu avant. Si tu ne leur montre que la moitié de ce que tu vaux à cause de cette blessure, peu importe pourquoi tu auras raté tel ou tel figure, c'est sur ce qu'ils auront vu qu'ils te jugerons."
+    c "Ils ne t'ont jamais vu concourir avant. Si tu participes maintenant, ils te jugeront sur cette performance. Tu n'as qu'une occasion de faire une première impression, et tu sais que ça ne sera pas ta meilleure si tu voles maintenant."
 
 # game/adine4.rpy:305
 translate french _call_skipcheck_30_c2e2f46d:
 
     # c "If it's not good enough, maybe they won't invite you again next year. If you fly now, they won't accept any excuses. But if you tell them you're injured, they might let you fly another time."
-    c "Tu n'auras qu'une chance dans toute ta vie de faire ta première entrée dans la compétion. Tu sais comme moi que si tu le fais aujourd'hui, tu ne seras pas au meilleur de ta forme et ça va se voir."
-    c "Si tu fais mauvaise impression, s'ils ont l'impression de perdre leur temps en te regardant voler, ce n'est pas dit qu'ils t'accèptent l'anne prochaine, peu importe tes excuses."
-
+    c "Si ce n'est pas satisfaisant, peut être qu'ils ne t'inviteront pas l'année prochaine. Si tu essayes maintenant, ils n'accepteront aucune excuses. Mais si tu leur expliques que tu t'es blessée, ils peuvent te laisser participer une autre fois."
+    
 # game/adine4.rpy:307
 translate french _call_skipcheck_30_0b775fd0:
 
     # Ad "But I don't want to wait another year. I want to do it now. I trained so much, even with this injury, and you tell me I should just let it go?"
-    Ad "Mais je ne veux pas attendre l'an prochain ! Je veux y aller maintenant ! J'ai passé les derniers jours à m'entraîner avec cette blessure, et tu me dis que je devrais abandonner ?"
+    Ad "Mais je ne veux pas attendre l'an prochain. Je veux y aller maintenant. J'ai passé les derniers jours à m'entraîner avec cette blessure, et tu me dis que je devrais abandonner ?"
 
 # game/adine4.rpy:309
 translate french _call_skipcheck_30_18130646:
 
     # c "I just can't help thinking about last time. If you crash like that again, there's no sand here to cushion your fall. It would be much worse."
-    c "Je n'arrête pas de repenser à l'autre jour à la plage ! Si tu rates un truc et que tu t'écrases comme la dernière fois, il n'y aura pas de sable pour amortir ta chute, tu pourrais te faire bien plus mal !"
+    c "Je n'arrête pas de repenser à l'autre jour. Si tu t'écrases comme la dernière fois, il n'y aura pas de sable pour amortir ta chute. Tu pourrais te faire bien plus mal."
 
 # game/adine4.rpy:311
 translate french _call_skipcheck_30_d7634421:
 
     # Ad annoyed b b "You think I don't know that? That I'm not already worrying about this more than I ever have for anything else? I just don't want to make excuses anymore."
-    Ad annoyed b b "Tu crois que je ne le sais pas ça ? Tu crois que je fais comme si tout allait bien ? J'angoisse à mort à cause de ça, mais j'en ai marre de me trouver des excuses !"
+    Ad annoyed b b "Tu crois que je ne le sais pas ça ? Que je ne suis pas en train d'angoisser à mort là dessus plus que jamais ? J'en ai marre de me trouver des excuses."
 
 # game/adine4.rpy:313
 translate french _call_skipcheck_30_09924f41:
 
     # Ad disappoint b "I don't want to wonder if I'll ever amount to anything more than a waitress. I want to be able to follow my dream, and I don't want to wait another year to find out."
-    Ad disappoint b "J'en ai marre de simplement vouloir être autre chose qu'une serveuse ! Je suis sur le point de vivre mon rêve,, je veux le faire aujourd'hui, et pas dans un an !"
+    Ad disappoint b "Je ne veux plus me demander si je serais rien de plus qu'une simple serveuse. Je veux pouvoir vivre mon rêve, et je ne veux pas attendre une autre année pour le découvrir."
 
 # game/adine4.rpy:315
 translate french _call_skipcheck_30_10b4da99:
 
     # c "What about Amely? If something happened to you, how do you think they would explain to her that you just suddenly stopped showing up, huh?"
-    c "Et tu penses à Amely ? Qu'est-ce qu'ils lui diront à l'orphelinat si du jours au lendemain tu n'es plus là pour t'occuper d'elle ?"
+    c "Et pour Amely ? S'il t'arrive quelque chose, qu'est-ce qu'ils lui diront à l'orphelinat si du jour au lendemain tu ne viens plus, hein ?"
 
 # game/adine4.rpy:317
 translate french _call_skipcheck_30_763042fc:
 
     # Ad frustrated b "Don't you dare bring her into this! She has nothing to do with it."
-    Ad frustrated b "Tu ne parle pas d'elle ! Elle n'a rien à voir avec tout ça alors ferme là !"
+    Ad frustrated b "N'essayes pas de l'impliquer là dedans ! Elle n'a rien à voir avec tout ça."
 
 # game/adine4.rpy:319
 translate french _call_skipcheck_30_49943373:
 
     # c "Like it or not, what you are doing could have consequences, and there are others besides you who will be affected if something goes wrong."
-    c "Nan ! Que tu le veuilles ou nan tu prends de gros risques ! Et s'il t'arrive un truc, d'autres en subiront les conséquences !"
+    c "Que tu le veuilles ou non, ce que tu fais pourrait avoir des conséquences, Et s'il t'arrive un truc, d'autres que toi seront aussi affectés. "
 
 # game/adine4.rpy:321
 translate french _call_skipcheck_30_186264ff:
 
     # Ad "You know what? I will fly and do the best damn job I've ever done, and there's nothing you can do to stop me."
-    Ad "Tu sais quoi ? Je vais voler, je vais y aller, et tu ne pourras rien faire pour m'en empêcher ! Maintenant lâche moi !"
+    Ad "Tu sais quoi ? Je vais voleret faire la meilleure performance que j'ai jamais exécutée, et tu ne pourras rien faire pour m'en empêcher."
 
 # game/adine4.rpy:325
 translate french _call_skipcheck_30_1bee9df9:
 
     # m "Before I could reply, she angrily stomped off towards the building, where by now a number of contestants had arrived."
-    m "Avant que je ne puisse répondre quoi que ce soit, elle est partie en colère et s'est dirigé vers le bâtiment où plusieurs participants se trouvaient."
+    m "Avant que je ne puisse répondre quoi que ce soit, elle partit en colère, se dirigant vers le bâtiment où plusieurs participants se trouvaient."
 
 # game/adine4.rpy:327
 translate french _call_skipcheck_30_7930f2a2:
 
     # m "While I had failed to convince her, at least I could say that I had tried my hardest to stop her."
-    m "Même si je n'ai pas réussi à la convaincre, je me peux me consoler en me disait que j'ai fait de mon mieux."
+    m "Même si je n'avais pas réussi à la convaincre, je pouvais me consoler en me disant que j'avais fait de mon mieux pour l'arrêter."
 
 # game/adine4.rpy:329
 translate french _call_skipcheck_30_09a2b00d:
 
     # m "I asked myself whether I even wanted to watch the competition at that point. It was possible that she'd do even better than expected, but if my experience was any indication, her performance would not turn out well."
-    m "Je me suis demandé si j'allais même assister à la compétition. Peut-être qu'elle allait faire mieux que ce que je pensais, ou alors j'avais vu juste et elle allait se rater."
+    m "Je me demandais même si j'allais assister à la compétition. Peut-être qu'elle allait faire mieux que ce que je pensais, mais si mon expérience était une indication pertinente, sa performance allait mal finir."
 
 # game/adine4.rpy:331
 translate french _call_skipcheck_30_b529e5e9:
 
     # m "In the end, I decided to stay and watch from the sidelines. I didn't want to join the rest of the audience, as I was sure it would get me unwanted attention."
-    m "Au final, je suis quand même resté pour regarder, mais me suis mis à l'écart afin de ne pas être dérangé."
+    m "Au final, je décidai quand même de rester pour regarder du bord des gradins. Je ne voulais pas rejoindre le reste du public, car j'étais sûre d'attirer sur moi une attention qu je ne voulais en rien."
 
 # game/adine4.rpy:333
 translate french _call_skipcheck_30_a09871d5:
 
     # m "After the competition started, I lost myself in thought, thinking over the conversation I had with Adine while watching the other contestants halfheartedly."
-    m "Alors que la compétition avait débuté, je me suis perdu dans mes pensées, ne cessant de repenser à la dernière fois que j'avais vu Adine. J'avais les yeux sur les autres concurents, mais manquait cruellement d'enthousiasme pour profiter du spectacle qu'ils offraients."
+    m "Alors que la compétition avait débuté, je me suis perdu dans mes pensées, ne cessant de repenser à la conversation que j'ai eu avec Adine tout en regardant les autres concurants, sans enthousiasme."
 
 # game/adine4.rpy:335
 translate french _call_skipcheck_30_dbeb7d2e:
 
     # m "Adine had been right. Some of them really were very good, but based on what I had seen at her practice session, she did have a shot at winning if everything went well for her."
-    m "La petite vouivre jaune avait raison, certains d'entre eux étaient très bon. Tout de même, me souvenant de ce que j'avais vu à la plage avant qu'elle ne chute, j'étais persuadé qu'elle avait une chance de gagner, elle était au moins aussi bonne qu'eux."
+    m "Adine avait raison. Certains d'entre eux étaient très bon, mais en me souvenant de ce que j'avais vu à sa session d'entraînement, elle avait une chance de gagner si tout se passait bien pour elle."
 
 # game/adine4.rpy:337
 translate french _call_skipcheck_30_93a336df:
 
     # m "Even though my rational mind doubted that would happen, for her own sake I hoped it would."
-    m "Même si je ne pouvais m'empêcher de penser que sa blessure était un handicap bien trop sérieux pour une telle prouesse, pour elle je l'espérais."
+    m "Même si my côté rationnel doutait que ça puisse arriver, j'avais envie que ça se passe bien pour elle."
 
 # game/adine4.rpy:339
 translate french _call_skipcheck_30_470e192b:
 
     # m "One by one, the contestants showed off their skills in a variety of moves, usually followed by the applause of the audience. Eventually, it was time for Adine's turn."
-    m "Les uns après les autres, les dragons cascadeurs se sont donnés dans de spectaculaires prouesses aériennes, généralements très félicités par le public, que ce soit par des aplaudissements ou des rugissements."
-    m "Puis vint le tour d'Adine."
+    m "Les uns après les autres, les participants se donnèrent à de spectaculaires prouesses aériennes, généralements suivies par les applaudissenments du public. Finalement, ce fut au tour d'Adine."
 
 # game/adine4.rpy:341
 translate french _call_skipcheck_30_35916995:
 
     # "Announcer" "Next on the stage is number 11. A promising newcomer who will show her skills to the public here for the very first time in her debut performance. Please welcome [adinestagename]!"
-    "Annonceur" "Le prochain participant est le numéro 11 : Une rooky prometteuse qui s'apprête à montrer ses prouesses au public pour la première fois durant cette représentation, je vous demande d'accueillir [adinestagename] !"
+    "Annonceur" "La prochaine participante est le numéro 11 : Une nouvelle prometteuse qui s'apprête à montrer ses prouesses au public pour la première fois durant cette représentation, je vous demande d'accueillir [adinestagename] !"
 
 # game/adine4.rpy:343
 translate french _call_skipcheck_30_64d1b8e7:
