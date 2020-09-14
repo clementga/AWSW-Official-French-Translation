@@ -640,7 +640,7 @@ translate french _call_skipcheck_30_35916995:
 translate french _call_skipcheck_30_64d1b8e7:
 
     # m "There was an excited bout of clapping. The audience was always curious to see a newcomer on the stage."
-    m "Il y a eut une série d'encouragements draconiques enthousiastes. Visiblement le public avait réservé un excellent accueil à la nouvelle venue."
+    m "Il y eut une série d'applaudissement enthousiastes. Visiblement le public était curieux de voir une nouvelle venue sur scène."
 
 # game/adine4.rpy:345
 translate french _call_skipcheck_30_4871e671:
@@ -652,37 +652,37 @@ translate french _call_skipcheck_30_4871e671:
 translate french _call_skipcheck_30_adcd1b0c:
 
     # m "An awkward silence set in as the audience's applause stopped and everyone sat anxiously, waiting for her to show up."
-    m "Les encouragements ont laissé place à un silence gênant, tous semblaient inquiets alors qu'ils l'attendaient."
+    m "Les encouragements ont laissé place à un silence gênant, et tous se rasseièrent inquiets, alors qu'ils l'attendaient."
 
 # game/adine4.rpy:349
 translate french _call_skipcheck_30_0ceecfbd:
 
     # m "She never did. After half a minute or so had passed, the announcer's voice once more echoed across the area."
-    m "Elle ne s'est jamais présentée. Au bout d'une trentaine de secondes, l'annonceur a reppris le micro."
+    m "Elle ne se présenta pas. Au bout d'une trentaine de secondes, la voix de l'annonceur résonna une fois de plus dans la cour."
 
 # game/adine4.rpy:351
 translate french _call_skipcheck_30_370bcf34:
 
     # "Announcer" "My apologies. It looks like number 11 will not be flying today. Next up is number 12, a certain veteran you may know for his somewhat unusual technique..."
-    "Annonceur" "Mes excuses, mais il semblerait que le numéro 11 ne volera pas aujourd'hui. Laissons alors la place au numéro 12, ce vétéran que tous connaissent à cause de sa figure aussi originale qu'impressionnante..."
+    "Annonceur" "Mes excuses. Il semblerait que le numéro 11 ne volera pas aujourd'hui. Laissons alors la place au numéro 12, ce vétéran que tous connaissent à cause de sa technique inhabituel."
 
 # game/adine4.rpy:353
 translate french _call_skipcheck_30_06357b21:
 
     # m "Before I could even ask myself what had happened, I saw Adine walking out of the building and coming towards me."
-    m "Avant même que je n'ai le loisir de comprendre ce qui venait de se produire, j'ai vu la petite vouivre sortir du bâtiment et venir vers moi."
+    m "Avant même que je ne puisse me demander ce qui venait de se produire, j'ai vu Adine sortir du bâtiment et venir vers moi."
 
 # game/adine4.rpy:357
 translate french _call_skipcheck_30_fb22a094:
 
     # c "Adine! What did you do?"
-    c "Adine ! Qu'est-ce qui s'est passé ?"
+    c "Adine ! Qu'est-ce que tu as fait ?"
 
 # game/adine4.rpy:359
 translate french _call_skipcheck_30_b9784e8c:
 
     # Ad "Let's just go somewhere else."
-    Ad "On s'en va."
+    Ad "Allons ailleurs."
 
 # game/adine4.rpy:361
 translate french _call_skipcheck_30_fe5f3366_1:
@@ -694,7 +694,7 @@ translate french _call_skipcheck_30_fe5f3366_1:
 translate french _call_skipcheck_30_4052a713:
 
     # m "We walked away from the festival and sat down under a tree in the outskirts of town. As the competition was already nearly over, the darkness had already set in."
-    m "Nous nous sommes éloignés du festival et nous nous sommes assis sous un arbre en dehors de la ville. La compétition avait duré une bonne partie de la journée, et maintenant qu'elle se terminait, l'obscurité s'était déjà installée."
+    m "Nous nous éloignâmes du festival et nous allâmes nous asseoir sous un arbre en bordure de la ville. La compétition était presque terminée, l'obscurité s'était déjà installée."
 
 # game/adine4.rpy:381
 translate french _call_skipcheck_30_87988039:
@@ -718,7 +718,7 @@ translate french _call_skipcheck_30_00495487:
 translate french _call_skipcheck_30_e94c70c8:
 
     # Ad "When I was inside and had a bit of time to cool off, I realized I didn't want to do it like this, even if I'd have to wait another year."
-    Ad "Quand j'étais avec les autres à attendre, et après que je me sois calmée, j'ai réalisé que je ne voulais pas que mon jour de rêve se passe comme ça. Même si pour ça je devais attendre encore un an."
+    Ad "Quand j'étais à l'intérieur et après que je me sois calmée, j'ai réalisé que je ne voulais pas que ça se passe comme ça, même si pour ça je devais attendre encore un an."
 
 # game/adine4.rpy:389
 translate french _call_skipcheck_30_cef17680:
@@ -730,13 +730,13 @@ translate french _call_skipcheck_30_cef17680:
 translate french _call_skipcheck_30_b603415f:
 
     # Ad "I know it was the right thing to do, but I can't help thinking that I just came so close. That I could've done it if it hadn't been for that stupid accident."
-    Ad "Je sais que c'était la décision à prendre. Mais je ne peux pas m'empêcher de croire que je suis passée si près du but. Si il n'y avait pas eut cet accident à la plage, j'aurai pu réaliser mon rêve..."
+    Ad "Je sais que c'était la décision à prendre. Mais je ne peux pas m'empêcher de croire que je suis passée si près du but. Si il n'y avait pas eu cet accident, j'aurai pu le faire."
 
 # game/adine4.rpy:393
 translate french _call_skipcheck_30_05bb43e0:
 
     # c "You'll have another chance, I promise."
-    c "L'année prochaine ça ira mieux, je te le promet."
+    c "Tu auras une autre opportunité, je te le promets."
 
 # game/adine4.rpy:395
 translate french _call_skipcheck_30_75fa9c8a:
@@ -754,25 +754,25 @@ translate french _call_skipcheck_30_d19f855d:
 translate french _call_skipcheck_30_51014a62:
 
     # Ad normal b "Hey, [player_name]. Look at the sky. Can you see that light? The one that looks a bit brighter than all the others?"
-    Ad normal b "Hé, [player_name]. Regarde dans le ciel. Tu vois cette lumière qui brille plus que les autres ?"
+    Ad normal b "Hé, [player_name]. Regarde dans le ciel. Tu vois cette lumière ? Celle qui brille plus que les autres ?"
 
 # game/adine4.rpy:406
 translate french _call_skipcheck_30_b61ab949:
 
     # m "I looked up and saw many celestial bodies lighting up the sky. One of them was noticeably brighter than all the other stars."
-    m "J'ai levé les yeux au ciel, de nombreuses étoiles nous contemplaient. Parmis elles s'en démarquait une légèrement plus grosse et plus brillante que les autres."
+    m "Levant les yeux au ciel, je pus voir de nombreuses étoiles qui éclairaient le ciel. Parmis elles s'en démarquait une légèrement plus grosse et plus brillante que les autres."
 
 # game/adine4.rpy:408
 translate french _call_skipcheck_30_9f85b645:
 
     # c "Yeah."
-    c "Je la vois oui."
+    c "Oui."
 
 # game/adine4.rpy:415
 translate french _call_skipcheck_30_05313beb:
 
     # Ad "I usually practice in the evening and stay until it's dark, so I see the stars pretty often. I noticed something about that one. It moves."
-    Ad "Je m'entraîne le soir en général, je ne rentre jamais avant la nuit. Ça me permet de voir les étoiles assez souvent ! Mais tu vois celle là, j'ai l'impression qu'elle se déplace."
+    Ad "Je m'entraîne le soir en général, je ne rentre jamais avant la nuit, donc je vois les étoiles assez souvent. J'ai remarqué quelque chose au sujet de celle là. Elle se déplace."
 
 # game/adine4.rpy:417
 translate french _call_skipcheck_30_927a52bd:
@@ -784,19 +784,19 @@ translate french _call_skipcheck_30_927a52bd:
 translate french _call_skipcheck_30_2cf374d0:
 
     # Ad "You won't notice it just by looking at it, but over the last couple of weeks I have noticed that it has changed positions when comparing it to other stars."
-    Ad "Tu ne peux pas le voir comme ça. En fait, au cour des deux dernières semaines, c'est quelque chose que j'ai remarqué en regardant sa position par rapport aux étoiles qui l'enrourent."
+    Ad "Tu ne peux pas le voir comme ça, mais au cour des deux dernières semaines, c'est quelque chose que j'ai remarqué en regardant sa position par rapport aux étoiles qui l'entourent."
 
 # game/adine4.rpy:421
 translate french _call_skipcheck_30_b5b8a169:
 
     # c "It can't be a star, then. Stars don't move."
-    c "Ça ne peut pas être une étoile alors, les étoiles ne bougent pas."
+    c "Ça ne peut pas être une étoile alors. Les étoiles ne bougent pas."
 
 # game/adine4.rpy:423
 translate french _call_skipcheck_30_a366770f:
 
     # Ad think b "They have an office in one of the cities that watches these kinds of things. I called them about it a while ago."
-    Ad think b "Ils y a un bureau d'astronome en ville qui surveille ce genre de truc. Je les ai appelé pour leur en parler il y a un moment."
+    Ad think b "Ils y a un bureau d'astronomie en ville qui surveille ce genre de choses. Je les ai appelé pour leur en parler il y a un moment."
 
 # game/adine4.rpy:425
 translate french _call_skipcheck_30_88afc390:
@@ -808,7 +808,7 @@ translate french _call_skipcheck_30_88afc390:
 translate french _call_skipcheck_30_63bb24f6:
 
     # Ad normal b "It's just an asteroid passing by. It's even been on the news a few times."
-    Ad normal b "C'est juste un astéroïde de passage dans notre système. Il y a même eut des repportages à son sujet."
+    Ad normal b "C'est juste un astéroïde de passage. C'est même passé aux infos quelques fois."
 
 # game/adine4.rpy:429
 translate french _call_skipcheck_30_e59d277c:
@@ -820,19 +820,19 @@ translate french _call_skipcheck_30_e59d277c:
 translate french _call_skipcheck_30_141af201:
 
     # Ad giggle b "Yeah. It's a big one, apparently. Otherwise we wouldn't even be able to see it without a telescope."
-    Ad giggle b "Oui, il est énorme apparement ! En temps normal il faut un téléscope pour voir ce genre de truc."
+    Ad giggle b "Oui, il est énorme apparement. Sinon on ne serait pas capable de le voir sans télescope."
 
 # game/adine4.rpy:433
 translate french _call_skipcheck_30_64696fc1:
 
     # c "Do they think it's dangerous?"
-    c "Il représente un danger à leur yeux ?"
+    c "Tu penses que c'est dangereux ?"
 
 # game/adine4.rpy:435
 translate french _call_skipcheck_30_860568ba:
 
     # Ad think b "Why would it be?"
-    Ad think b "Pourquoi serait-il dangereux ?"
+    Ad think b "Pourquoi le serait-il ?"
 
 # game/adine4.rpy:437
 translate french _call_skipcheck_30_d31f7f37:
@@ -910,7 +910,7 @@ translate french _call_skipcheck_30_f7a7fe59:
 translate french _call_skipcheck_30_4472f108:
 
     # Ad normal b "What exactly do you mean?"
-    Ad normal b "Qu'est-ce que tu veux dire au juste ?"
+    Ad normal b "Qu'est-ce que tu veux dire par là ?"
 
 # game/adine4.rpy:463
 translate french _call_skipcheck_30_610a3901:
@@ -922,7 +922,7 @@ translate french _call_skipcheck_30_610a3901:
 translate french _call_skipcheck_30_cb4778c3:
 
     # Ad giggle b "Oh, I believe all of it. I just love reading all the stories, theories, and all that."
-    Ad giggle b "Oh, je crois à tous, à peu près. J'adore lire toute les histoires sur les humains, les théories, tout ça."
+    Ad giggle b "Oh, je les crois tous, à peu près. J'adore lire toute les histoires sur les humains, les théories, tout ça."
 
 # game/adine4.rpy:467
 translate french _call_skipcheck_30_1bc47770:
@@ -934,7 +934,7 @@ translate french _call_skipcheck_30_1bc47770:
 translate french _call_skipcheck_30_9b1a0282:
 
     # Ad normal b "Well, I think there's a lot we can learn from it. Much of our society is based on it, including our laws and traditions."
-    Ad normal b "Je pense qu'il y a beaucoup de choses à apprendre du passé. Une grande partie de la société est basée sur ces histoires humaines, y compris nos lois et nos traditions."
+    Ad normal b "Je pense qu'il y a beaucoup de choses à en apprendre. Une grande partie de la société est basée sur ça, y compris nos lois et nos traditions."
 
 # game/adine4.rpy:471
 translate french _call_skipcheck_30_89aefe22_1:
@@ -946,7 +946,7 @@ translate french _call_skipcheck_30_89aefe22_1:
 translate french _call_skipcheck_30_970a8d3a:
 
     # c "Can I ask you a question?"
-    c "Adine, je peux te poser une question ?"
+    c "Je peux te poser une question ?"
 
 # game/adine4.rpy:475
 translate french _call_skipcheck_30_b537b091:
@@ -976,13 +976,13 @@ translate french _call_skipcheck_30_73c2fcc2:
 translate french _call_skipcheck_30_850f9ae3:
 
     # Ad normal b "Because I'd believe you."
-    Ad normal b "Parce que je suis capable de te croire."
+    Ad normal b "Parce que je pourrais te croire."
 
 # game/adine4.rpy:485
 translate french _call_skipcheck_30_28356462:
 
     # Ad think b "Besides, if you were really a time traveller, I'd think you'd come from the past. Like the time when we were created."
-    Ad think b "Par contre, si tu as vraiment voyagé dans le temps, je dirais plutôt que tu viens du passé. De l'époque où vous nous avez créé entre autre."
+    Ad think b "De plus, si tu as vraiment voyagé dans le temps, je dirais plutôt que tu viens du passé. De l'époque où vous nous avez créé entre autre."
 
 # game/adine4.rpy:487
 translate french _call_skipcheck_30_02f23168:
@@ -994,20 +994,19 @@ translate french _call_skipcheck_30_02f23168:
 translate french _call_skipcheck_30_5286308c:
 
     # Ad "Because that's the only time in our history where we know of humans ever being here. If you came from the future, that would mean humans were to show up at some point in our future history, and I'm not sure how or why that would happen."
-    Ad "Parce que c'est la seule fois dans notre histoire où nous avons eut des contacts avec des humains. C'est le seul moment où ils ont été présents pour nous."
-    Ad "Si tu venais vraiment du futur, ça voudrait dire que les humains vont réapparaître dans notre avenir, et je ne sais pas comment où pourquoi ça arriverait."
+    Ad "Parce que c'est la seule fois dans notre histoire où nous avons eut des contacts avec des humains. Si tu venais du futur, ça signifirait que les humains devraient apparaître à un moment dans notre futur, et je ne sais pas comment cela arriverait."
 
 # game/adine4.rpy:491
 translate french _call_skipcheck_30_e4e8acc9:
 
     # c "Wouldn't that mean that I was your creator?"
-    c "Ça voudrait dire que je ne suis pas votre créateurs alors ?"
+    c "Ca voudrait dire que je ne suis pas votre créateurs alors ?"
 
 # game/adine4.rpy:493
 translate french _call_skipcheck_30_28aab4be:
 
     # Ad normal b "Well, not necessarily. There could've been other humans around, right?"
-    Ad normal b "Eh bien, pas obligatoirement non. Il aurait pu y avoir d'autres humains en plus de notre créateur, non ?"
+    Ad normal b "Eh bien, pas obligatoirement non. Il aurait pu y avoir d'autres humains dans les parages, non ?"
 
 # game/adine4.rpy:495
 translate french _call_skipcheck_30_259c38e8:
@@ -1019,8 +1018,7 @@ translate french _call_skipcheck_30_259c38e8:
 translate french _call_skipcheck_30_607a0b5c:
 
     # Ad think b "Yeah, but people speculate, trying to find explanations for those old myths. Maybe, there were more humans around, and they just died. Or their creation rebelled and killed them. Others say they fled across the ocean. We just don't know."
-    Ad think b "Oui, mais il y a de nombreuses théories pour expliquer ces vieux mythes. Il y avait peut-être plusieurs humains, mais les autres seraient morts ? Peut-être que leurs créations, nos ancêtres, se sont rebellés contre eux et les ont tués ?"
-    Ad "Il y en a même qui disent que les humains ont fuit par l'océan, mais personne ne le sait en fait."
+    Ad think b "Il y a de nombreuses théories qui tentent de trouver des réponses dans ces vieux mythes. Il y avait peut-être plus d'humains, mais les autres seraient morts. Peut-être que leurs créations se sont retournés contre eux et les ont tués. D'autres disent qu'ils ont fui par la mer. On n'en sait rien."
 
 # game/adine4.rpy:499
 translate french _call_skipcheck_30_1c7d5fe8:
@@ -1995,7 +1993,7 @@ translate french a4shower_39aa074b:
 translate french a4shower_c7fe4d0e:
 
     # c "I guess so..."
-    c "Je pense aussi, mais... Tu as ce qu'il faut pour que je dorme ?"
+    c "Je pense aussi..."
 
 translate french strings:
 
@@ -2017,7 +2015,7 @@ translate french strings:
 
     # adine4.rpy:713
     old "I'll do it."
-    new "Je vais t'aider, pas de soucis."
+    new "Je vais le faire."
 
     # adine4.rpy:713
     old "I won't do that."
