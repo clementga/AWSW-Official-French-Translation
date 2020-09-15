@@ -1042,7 +1042,7 @@ translate french _call_skipcheck_30_efe0e8c3:
 translate french _call_skipcheck_30_f148f8c2:
 
     # Ad think b "For example, one says that humans are really aliens who came from a different planet. They created us for some reason, and then just vanished again."
-    Ad think b "Il y en a une qui dit que les humains sont des extraterrestres venu d'une autre planète. Ils auraient été créés pour une raison inconnu, et auraient disparus sans explication."
+    Ad think b "Il y en a une qui dit que les humains sont des extraterrestres venu d'une autre planète. Ils nous auraient créé pour une raison inconnu, et auraient disparus sans explication."
 
 # game/adine4.rpy:507
 translate french _call_skipcheck_30_88913a93:
@@ -1054,37 +1054,37 @@ translate french _call_skipcheck_30_88913a93:
 translate french _call_skipcheck_30_3c766831:
 
     # Ad "Maybe it's an experiment and they're testing us. Some say they're always watching us from up there somewhere with a giant mothership and that maybe, one day, they'll return when we're ready to join them."
-    Ad "On est peut-être l'une de leurs expériences ? Peut-être qu'ils sont dans l'espace, à bord d'un immence vaisseau-mère et qu'ils nous observent ? Peut-être qu'ils attendent quelque chose de nous pour nous rejoindre ?..."
+    Ad "On est peut-être l'une de leurs expériences. Certains disent qu'ils nous observent toujours à bord d'un immence vaisseau-mère et que peut-être, un jour, ils reviendront quand nous serons prêts à les rejoindre."
 
 # game/adine4.rpy:511
 translate french _call_skipcheck_30_9b85bb82:
 
     # c "That is pretty out there, I'll say."
-    c "On a une très jolie vu de la-haut."
+    c "Je dirais que ça part loin là."
 
 # game/adine4.rpy:513
 translate french _call_skipcheck_30_149b1d6e:
 
     # Ad giggle b "Told you so."
-    Ad giggle b "Hé, qu'est-ce que je disais !"
+    Ad giggle b "Qu'est-ce que je disais."
 
 # game/adine4.rpy:515
 translate french _call_skipcheck_30_f15958c1:
 
     # Ad normal b "What about the humanity you come from, though? Why don't you tell me more about your world?"
-    Ad normal b "Et l'humanité dont tu viens ? Pourquoi ne pas m'en dire plus sur ton monde ?"
+    Ad normal b "Et à propos de l'humanité dont tu viens ? Pourquoi ne pas m'en dire plus sur ton monde ?"
 
 # game/adine4.rpy:517
 translate french _call_skipcheck_30_3c741217:
 
     # c "I don't like talking about that. It's much prettier here."
-    c "Je n'aime pas me souvenir de mon monde. Le vôtre est bien plus agréable."
+    c "Je n'aime pas en parler. Le vôtre est bien plus agréable."
 
 # game/adine4.rpy:519
 translate french _call_skipcheck_30_0a5eae12:
 
     # Ad annoyed b "I don't believe you."
-    Ad annoyed b "Je n'arrive pas à te croire."
+    Ad annoyed b "Je ne te crois pas."
 
 # game/adine4.rpy:521
 translate french _call_skipcheck_30_67d47e29:
@@ -1102,7 +1102,7 @@ translate french _call_skipcheck_30_52c81955:
 translate french _call_skipcheck_30_c876e2bc:
 
     # c "I don't think it would be a good idea to visit us right now."
-    c "Eh bien... Je ne crois pas que ce soit une bonne idée de nous rendre visite en ce moment."
+    c "Je ne crois pas que ce soit une bonne idée de nous rendre visite en ce moment."
 
 # game/adine4.rpy:527
 translate french _call_skipcheck_30_3edcdd32:
@@ -1120,7 +1120,7 @@ translate french _call_skipcheck_30_ff7034f0:
 translate french _call_skipcheck_30_7f2d4a0b:
 
     # Ad normal b "Not really. There hasn't been much speculation about that yet. Of course we're curious, though. Next time, we want to send one of our ambassadors into your world, to make it even and all that."
-    Ad normal b "Pas vraiment. Il n'y a pas beaucoup de théories là dessus en fait. Mais on est curieux, tu sais qu'on a prévu d'envoyer un ambassadeur dans ton monde ? On a l'intention de faire comme vous."
+    Ad normal b "Pas vraiment. Il n'y a pas beaucoup de théories là dessus en fait. Bien sûr on est curieux. La prochaine fois, on veut envoyer un ambassadeur dans ton monde, histoire d'être quittes."
 
 # game/adine4.rpy:533
 translate french _call_skipcheck_30_efec4af5:
@@ -1132,19 +1132,19 @@ translate french _call_skipcheck_30_efec4af5:
 translate french _call_skipcheck_30_7ce78170:
 
     # Ad annoyed b "Don't be so negative."
-    Ad annoyed b "Ne sois pas si négatif [player_name]."
+    Ad annoyed b "Ne sois pas si négatif."
 
 # game/adine4.rpy:537
 translate french _call_skipcheck_30_526f6108:
 
     # c "I'm sorry. It's not up to me to determine the best course of action. I'm just a lowly ambassador, after all."
-    c "Désolé. Après tout ce n'est pas à moi de dire ce qui doit être fait. Je ne reste qu'un humble ambassadeur."
+    c "Désolé. Après tout, ce n'est pas à moi de décider quel est la meilleure décision. Je ne reste qu'un modeste ambassadeur."
 
 # game/adine4.rpy:539
 translate french _call_skipcheck_30_ce78f4e3:
 
     # Ad giggle b "Not quite as lowly as a waitress with nothing more than high aspirations."
-    Ad giggle b "C'est pas pire qu'être une petite serveuse avec de grands rêves plein les yeux !"
+    Ad giggle b "Pas aussi modeste qu'une serveuse avec rien de plus que des rêves plein les yeux."
 
 # game/adine4.rpy:541
 translate french _call_skipcheck_30_74514b1c:
@@ -1156,7 +1156,7 @@ translate french _call_skipcheck_30_74514b1c:
 translate french _call_skipcheck_30_fc027a7d:
 
     # c "I would walk you, but I guess you'd be faster if you flew."
-    c "Je te raccompagnerai volontier, mais tu perdras moins de temps en volant."
+    c "Je te raccompagnerai volontier, mais je pense que tu perdras moins de temps en volant."
 
 # game/adine4.rpy:545
 translate french _call_skipcheck_30_28c9cec7:
@@ -1168,31 +1168,31 @@ translate french _call_skipcheck_30_28c9cec7:
 translate french _call_skipcheck_30_af46281e:
 
     # c "Are you serious? And you were going to do your performance like that?"
-    c "T'es sérieuse ? Tu voulais quand même participer à un concours d'aérobatie pas plus tard que ce matin."
+    c "T'es sérieuse ? Et tu voulais quand même participer à un concours d'acrobaties aériennes comme ça."
 
 # game/adine4.rpy:549
 translate french _call_skipcheck_30_c2b28a95:
 
     # Ad disappoint b "I know, I shouldn't have tried. You don't have to bring that up again."
-    Ad disappoint b "Je sais, je sais aussi que c'était stupide de ma part. Pas besoin de revenir là dessus."
+    Ad disappoint b "Je sais, je n'aurais pas dû essayer. Pas besoin de revenir là dessus."
 
 # game/adine4.rpy:551
 translate french _call_skipcheck_30_976c2a4a:
 
     # c "I'm sorry. For what it's worth, I think you made the right decision in the end."
-    c "Excuse-moi. Tu sais, pour ce que ça vaut, je reste persuadé que tu as pris la bonne décision."
+    c "Excuse-moi. Tu sais, pour ce que ça vaut, je pense que tu as pris la bonne décision."
 
 # game/adine4.rpy:553
 translate french _call_skipcheck_30_91e5a9c9:
 
     # Ad normal b "Thank you."
-    Ad normal b "Merci [player_name]."
+    Ad normal b "Merci."
 
 # game/adine4.rpy:555
 translate french _call_skipcheck_30_eecff543:
 
     # c "Shall we go, then?"
-    c "De rien. Bon, on rentre ?"
+    c "On rentre ?"
 
 # game/adine4.rpy:557
 translate french _call_skipcheck_30_a5f80d66:
@@ -1210,7 +1210,7 @@ translate french _call_skipcheck_30_fd94623d:
 translate french _call_skipcheck_30_9403eb88:
 
     # Ad giggle b "Do you want to come in for a bit? Would be a shame for you to have come all this way for nothing."
-    Ad giggle b "Tu veux rester un peu ? Ça serait dommage que tu aies fait la route pour rien !"
+    Ad giggle b "Tu veux rester un peu ? Ça serait dommage que tu aies fait la route pour rien."
 
 # game/adine4.rpy:579
 translate french _call_skipcheck_30_c48dc32f:
