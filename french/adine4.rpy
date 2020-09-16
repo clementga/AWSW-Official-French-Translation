@@ -1222,7 +1222,7 @@ translate french _call_skipcheck_30_c48dc32f:
 translate french _call_skipcheck_30_a7dc1212:
 
     # m "She opened the door, wiping her feet on the doormat before she went inside."
-    m "Elle a ouvert la porte, et s'est essuyé les pieds sur le paillason avant de rentrer. J'ai jugé bon d'en faire autant."
+    m "Elle ouvrit la porte, et s'essuya les pieds sur le paillason avant de rentrer."
 
 # game/adine4.rpy:595
 translate french _call_skipcheck_30_a580672d:
@@ -1240,7 +1240,7 @@ translate french _call_skipcheck_30_75e525b7:
 translate french _call_skipcheck_30_bf15184e:
 
     # Ad "How about some TV?"
-    Ad "Ça ne te gêne pas si j'allume la télé ?"
+    Ad "Ca ne te gêne pas si j'allume la télé ?"
 
 # game/adine4.rpy:601
 translate french _call_skipcheck_30_b060d89f:
@@ -1252,37 +1252,37 @@ translate french _call_skipcheck_30_b060d89f:
 translate french _call_skipcheck_30_cc74570c:
 
     # Ad think b "You're right. You've got a pretty decent apartment, but they didn't provide a TV. I wonder why."
-    Ad think b "C'est vrai, ton apparement est sympa, mais il n'ont même pas pensé à la télé ! Je me demande pourquoi."
+    Ad think b "C'est vrai. Ton apparement est sympa, mais il n'ont même pas fourni de télé. Je me demande pourquoi."
 
 # game/adine4.rpy:605
 translate french _call_skipcheck_30_17196c8f:
 
     # c "Maybe they wanted to avoid culture shock, or something like that."
-    c "Ils ont peut-être peur du choc culturel, ou un truc du genre."
+    c "Ils voulaient peut-être éviter un choc culturel, ou un truc du genre."
 
 # game/adine4.rpy:607
 translate french _call_skipcheck_30_a7bca2b2:
 
     # Ad "You got a shelf full of books, though. Why would books be fine, but not a TV?"
-    Ad "Tu as une étagère pleine de livre par contre... Pourquoi les livres seraient mieux que la télé ?"
+    Ad "Tu as une étagère pleine de livre par contre. Pourquoi les livres seraient mieux que la télé ?"
 
 # game/adine4.rpy:609
 translate french _call_skipcheck_30_56409d3e:
 
     # c "I suppose when they give me books, they know what I'm going to read, but on TV they can't really regulate the content I'm going to see. At least if TV works the same way as ours used to."
-    c "Je suppose que c'est plus simple pour eux de me confier des livres qu'une télé. C'est plus facile de prévoir mes lectures que les programmes sur lesquels je risque de tomber. Du moins, si la télé fonctionne comme chez nous auparavant."
+    c "Je suppose que c'est plus simple pour eux de me confier des livres qu'une télé. C'est plus facile de prévoir mes lectures que les programmes sur lesquels je risque de tomber. Du moins, si la télé fonctionne comme ce qu'elle fut chez nous."
 
 # game/adine4.rpy:611
 translate french _call_skipcheck_30_5c20ef0f:
 
     # Ad normal b "That's true. Maybe they just thought your time would be better spent elsewhere."
-    Ad normal b "Pas bête. Et puis ils ont peut être pensé que tu n'aurais pas eut le temps d'allumer la télé."
+    Ad normal b "Pas bête. Et puis ils ont peut être pensé que tu n'aurais pas le temps d'allumer la télé."
 
 # game/adine4.rpy:613
 translate french _call_skipcheck_30_674727e5:
 
     # c "I guess. If they didn't want me to watch TV, they certainly never told me."
-    c "Possible oui. Et puis s'ils ne voulaient pas que je regarde la télé, ils me l'auraient peut-être simplement demandé."
+    c "Possible oui. Et puis s'ils ne voulaient pas que je regarde la télé, ils ne m'en aurait jamais parlé."
 
 # game/adine4.rpy:615
 translate french _call_skipcheck_30_5de0efcb:
@@ -1300,7 +1300,7 @@ translate french _call_skipcheck_30_0f173ebb:
 translate french _call_skipcheck_30_8badefcc:
 
     # Ad giggle b "Well, I'm not going to tell you. Do you want me to put it on or not?"
-    Ad giggle b "Je préfère te faire la surprise ! Je peux la mettre si tu veux."
+    Ad giggle b "Je préfère te faire la surprise ? Veux-tu que je la mette. A moins que tu n'en aies pas envie"
 
 # game/adine4.rpy:621
 translate french _call_skipcheck_30_5145c461:
@@ -1312,13 +1312,13 @@ translate french _call_skipcheck_30_5145c461:
 translate french _call_skipcheck_30_476617c6:
 
     # m "Adine turned on the TV and a brief flicker appeared on the screen before it was filled with the image of a house from the outside."
-    m "Adine a allumé son écran plat, un flash est apparu à l'écran, suivi d'un plan sur l'extérieur d'une maison."
+    m "Adine alluma la télé, un flash apparut à l'écran, suivi d'un plan sur l'extérieur d'une maison."
 
 # game/adine4.rpy:629
 translate french _call_skipcheck_30_144da182:
 
     # c "Well, that doesn't look unusual."
-    c "Comme chez moi à première vue..."
+    c "Eh bien, ça m'a l'air familier."
 
 # game/adine4.rpy:631
 translate french _call_skipcheck_30_25ee6891:
@@ -1330,13 +1330,13 @@ translate french _call_skipcheck_30_25ee6891:
 translate french _call_skipcheck_30_e01bf2e4:
 
     # m "The camera cut to the inside of the home while the chattering of small talk could be heard."
-    m "La caméra a zoomé sur l'une des fenêtres de la maison, alors que l'on commençait à entendre une conversation."
+    m "La caméra zooma sur l'une des fenêtres de la maison, alors que l'on commençait à entendre une conversation."
 
 # game/adine4.rpy:635
 translate french _call_skipcheck_30_f4748bb5:
 
     # m "Then, some figures entered the living room on the screen. They were grotesque, malformed creatures with rather cartoony proportions, covered in odd lumps all over their body. They all shared the same, odd skin tone."
-    m "Ensuite, les personnages sont entrés dans le salon. C'était des créatures grotesques, semblant malformées, aux allures de toons, et couverts de bosses bizarres sur tout le corps. Ils avaient tous cette couleur de peau bizarre."
+    m "Ensuite, les personnages firent leur entrée dans le salon. C'était des créatures grotesques, malformées, aux allures de personnage de cartoons, et couverts de bosses bizarres sur tout le corps. Ils avaient tous cette couleur de peau bizarre."
 
 # game/adine4.rpy:637
 translate french _call_skipcheck_30_9f6ef34a:
@@ -1348,7 +1348,7 @@ translate french _call_skipcheck_30_9f6ef34a:
 translate french _call_skipcheck_30_a653a412:
 
     # c "What are those?"
-    c "Euh... Qu'est-ce qu'ils sont censés représenter ?"
+    c "Qu'est-ce qu'ils sont censés représenter ?"
 
 # game/adine4.rpy:641
 translate french _call_skipcheck_30_743e79b4:
@@ -1360,25 +1360,25 @@ translate french _call_skipcheck_30_743e79b4:
 translate french _call_skipcheck_30_baeaf211:
 
     # c "Humans?"
-    c "Des humains..."
+    c "Des humains ?"
 
 # game/adine4.rpy:645
 translate french _call_skipcheck_30_169caaa4:
 
     # Ad normal b "That's the name of the series. It's a typical sitcom about a contemporary family as we would expect it, but the twist is that everyone is human."
-    Ad normal b "\"Humain\" est même le nom de cette série. C'est la série type qui mets en scène une famille lambda, comme on peut s'y attendre. Sauf que tous les personnages sont des humains."
+    Ad normal b "\"Humain\" est même le nom de cette série. C'est la série type qui mets en scène une famille lambda, comme on peut s'y attendre. Mais le twist c'est que ce sont des humains."
 
 # game/adine4.rpy:647
 translate french _call_skipcheck_30_eff5852f:
 
     # m "And then I realized why I hadn't been able to identify the creatures on the screen as humans. They were all naked."
-    m "J'ai finalement réalisé pourquoi je n'avais pas reconnu ces {i}humains{/i} plus tôt, ils étaient tous nus."
+    m "J'ai finalement réalisé pourquoi je n'avais pas identifié ces créatures comme étant humaines, ils étaient tous nus."
 
 # game/adine4.rpy:649
 translate french _call_skipcheck_30_ce0da94f:
 
     # m "Since the dragons' concept of clothing was different, they had applied their own principles when creating this series."
-    m "Comme les dragons n'avaient pas le même concept des vêtement que nous, c'est un détail auquel ils n'avaient tout simplement pas pensé pour cette série."
+    m "Comme les dragons n'avaient pas le même concept des vêtement que nous, ils avaient appliqué leur propres codes en créant cette série."
 
 # game/adine4.rpy:651
 translate french _call_skipcheck_30_df34c9d2:
@@ -1414,13 +1414,13 @@ translate french _call_skipcheck_30_c1c67faf:
 translate french _call_skipcheck_30_565adb5f:
 
     # Ad "True."
-    Ad "Ouais, dommage."
+    Ad "c'est vrai."
 
 # game/adine4.rpy:665
 translate french _call_skipcheck_30_68a5a602:
 
     # m "By this point, the credits were already rolling, and Adine turned off the TV again."
-    m "Au moment où Adine a coupé, le générique de fin commençait à défiler à l'écran."
+    m "Au moment où Adine éteint la télé, le générique de fin commençait à défiler à l'écran."
 
 # game/adine4.rpy:667
 translate french _call_skipcheck_30_7a395875:
@@ -1438,13 +1438,13 @@ translate french _call_skipcheck_30_95af9435:
 translate french _call_skipcheck_30_fd92093d:
 
     # Ad giggle b "They don't look that bad."
-    Ad giggle b "Allons, ils ne sont pas si mal !"
+    Ad giggle b "Allons, ils ne sont pas si horribles."
 
 # game/adine4.rpy:673
 translate french _call_skipcheck_30_a8475080:
 
     # c "Sure, it's impressive if we consider what they had to work with, but there's a few things they got wrong."
-    c "Bien sûr, j'imagine le travail derrière ces costumes. Mais il y a quelques points qu'ils devraient retravailler."
+    c "Bien sûr, c'est impressionant si on considère le peu d'éléments avec lesquels ils ont dû travailler. Mais il y a quelques points qu'ils devraient retravailler."
 
 # game/adine4.rpy:675
 translate french _call_skipcheck_30_f20a8d2b:
@@ -1462,7 +1462,7 @@ translate french _call_skipcheck_30_c58cd189:
 translate french _call_skipcheck_30_3b19d1aa:
 
     # Ad giggle b "Those are just small details. The series is still good, though."
-    Ad giggle b "Mais nan, c'est juste des détails ça ! La série est très bonne, tu sais."
+    Ad giggle b "C'est juste des points de détails ça. La série est très bonne, tu sais."
 
 # game/adine4.rpy:681
 translate french _call_skipcheck_30_af6eb7e4:
@@ -1480,25 +1480,25 @@ translate french _call_skipcheck_30_a202fad0:
 translate french _call_skipcheck_30_ef751427:
 
     # c "I see. I hope they aren't too scared of me when they see how different I am, though."
-    c "J'imagine. Dans ce cas... J'espère que les fans n'auront pas peur de moi s'ils me voient un jour."
+    c "J'imagine. J'espère que ces gens n'auront pas peur de moi s'ils me voient un jour."
 
 # game/adine4.rpy:687
 translate french _call_skipcheck_30_612cb0a3:
 
     # Ad giggle b "I didn't run away screaming when I first met you, did I?"
-    Ad giggle b "Je ne me suis pas enfuie la première que je t'ai vu, tu te rappelles ?"
+    Ad giggle b "Je ne me suis pas enfuie en hurlant la première fois que je t'ai rencontré, n'est-ce pas ?"
 
 # game/adine4.rpy:689
 translate french _call_skipcheck_30_7079b2e8_1:
 
     # c "True."
-    c "Je m'en rappelle oui."
+    c "C'est vrai."
 
 # game/adine4.rpy:693
 translate french adine4skip_7bf20005:
 
     # Ad think b "Now that you're already here, there's something you could help me with."
-    Ad think b "Dit, je pensais à un truc... Puisque tu es là, tu pourrais m'aider..."
+    Ad think b "Dit, maintenant que tu es là, il y a quelque chose pour lequel tu pourrais m'aider."
 
 # game/adine4.rpy:695
 translate french adine4skip_0f173ebb:
@@ -1510,37 +1510,37 @@ translate french adine4skip_0f173ebb:
 translate french adine4skip_23f18e2d:
 
     # Ad giggle b "Well, it'd be a huge favor to ask, and it's kinda embarrassing..."
-    Ad giggle b "En fait, c'est un sacré service que je vais te demander... Et c'est un peu gênant pour être sincère !"
+    Ad giggle b "En fait, c'est un sacré service que je vais te demander. Et c'est un peu gênant..."
 
 # game/adine4.rpy:699
 translate french adine4skip_f3a3c074:
 
     # c "Just say it. The worst I can do is say no."
-    c "Je t'en prie. Au pire tout ce que je peux faire, c'est de ne pas pouvoir accepter."
+    c "Demande moi tout simplement. Au pire tout ce que je peux faire, c'est de ne pas accepter."
 
 # game/adine4.rpy:701
 translate french adine4skip_e969b72a:
 
     # Ad think b "How should I say this... It's about my shower."
-    Ad think b "Bon. C'est à dire que... J'ai un soucis avec ma douche."
+    Ad think b "Bon. C'est à dire que... c'est à propos de ma douche."
 
 # game/adine4.rpy:703
 translate french adine4skip_26f0be65:
 
     # Ad giggle b "I get pretty dirty from practice sometimes, especially from the bad landings. And recently, the detachable shower head broke."
-    Ad giggle b "Dernièrement j'ai eut un peu de mal avec mon épaule. Et en plus hier soir en me lavant... J'ai cassé le support de la pomme de douche."
+    Ad giggle b "Je peux vite devenir sale avec l'entraînement parfois, particulièrement avec mon aterrissage foireux. Et récemment, j'ai cassé le support de la pomme de douche."
 
 # game/adine4.rpy:705
 translate french adine4skip_a23cac18:
 
     # Ad "That usually wouldn't be much of a problem, but with this injury I can't quite reach a few places on my own."
-    Ad "En temps normal ça ne m'aurait pas gêné, mais avec cette fichu douleur, j'ai un mal fou à me laver comme je le veux !"
+    Ad "En temps normal ça ne m'aurait pas gêné, mais avec cette blessure, j'arrive pas à atteindre certains endroits toute seule."
 
 # game/adine4.rpy:707
 translate french adine4skip_e1f46e3a:
 
     # Ad disappoint b "It's already not ideal having to manage everything with my wings, but now it's even harder."
-    Ad disappoint b "Déjà qu'en temps normal c'est pas facile avec mes ailes, mais là..."
+    Ad disappoint b "Déjà qu'en temps normal c'est pas facile avec mes ailes, mais là c'est d'autant plus dur."
 
 # game/adine4.rpy:709
 translate french adine4skip_612cd7a6:
@@ -1552,33 +1552,31 @@ translate french adine4skip_612cd7a6:
 translate french adine4skip_9486e804:
 
     # Ad giggle b "I guess you could put it that way. Told you it was embarrassing."
-    Ad giggle b "On peut dire ça comme ça..."
-    Ad "Oh nan mais je sais plus où me mettre là !"
+    Ad giggle b "On peut dire ça comme ça. Je t'avais dit que c'était embarassant."
 
 # game/adine4.rpy:717
 translate french adine4skip_203027b9:
 
     # c "Don't worry about it. I'm glad to help."
-    c "Si ça peut t'éviter d'avoir mal, c'est avec plaisir."
-    Ad "Et si ça peut m'éviter de casser d'autres trucs aussi !"
+    c "Ne t'inquiète pas. Je vais t'aider avec plaisir."
 
 # game/adine4.rpy:719
 translate french adine4skip_b6eab6c5:
 
     # Ad normal b "Thanks!"
-    Ad normal b "Merci [player_name]."
+    Ad normal b "Merci !"
 
 # game/adine4.rpy:729
 translate french adine4skip_cad25449:
 
     # c "I'm sorry, but I don't think I'm comfortable with doing that."
-    c "Je m'excuse, mais je ne suis pas à l'aise d'un coup"
+    c "Je m'excuse, mais je ne suis pas à l'aise à l'idée de faire ça."
 
 # game/adine4.rpy:731
 translate french adine4skip_684be4d0:
 
     # Ad normal b "Yeah, I figured as much. Since you were already here, I thought it was worth a shot. Guess I'll just have to manage on my own. Sorry for asking."
-    Ad normal b "Je m'en doute. Je ne pouvais pas ne pas te demander, mais désolé de l'avoir fait. Je vais me débrouiller."
+    Ad normal b "Ouais, je m'en doutais. Comme tu étais là, ça vallait le coup d'essayer. Mais désolé de t'avoir demandé. Je vais me débrouiller."
 
 # game/adine4.rpy:733
 translate french adine4skip_2cfb4b1f:
@@ -1590,13 +1588,13 @@ translate french adine4skip_2cfb4b1f:
 translate french adine4skip_3a7673d0:
 
     # Ad think b "Do you still want to watch the fireworks, though?"
-    Ad think b "Tu viendras assister au feu d'artifice ?"
+    Ad think b "Mais, tu vas toujours assister au feu d'artifice ?"
 
 # game/adine4.rpy:737
 translate french adine4skip_46ae1e02:
 
     # c "Sure, I'll keep you posted."
-    c "Bien sûr. Je te tiendrais au courant."
+    c "Bien sûr. Je te tiens au courant."
 
 # game/adine4.rpy:739
 translate french adine4skip_489f6bad:
@@ -1614,67 +1612,67 @@ translate french a4shower_f8c0c1ea:
 translate french a4shower_1a139ccc:
 
     # m "I followed her, entering the rather large bathroom."
-    m "Je l'ai suivie, et nous nous sommes retrouvés dans une grande salle de bain."
+    m "Je la suivit, entrant dans une grande salle de bain."
 
 # game/adine4.rpy:781
 translate french a4shower_854b2f37:
 
     # c "This shower is huge. I wouldn't mind having one of these."
-    c "Wahou, ça c'est de la douche ! J'aimerai bien avoir la même."
+    c "Cette douche est énorme. J'aimerais bien avoir la même."
 
 # game/adine4.rpy:783
 translate french a4shower_d9eaf701:
 
     # Ad "This isn't just your regular dragon-sized shower. It's made specifically for a flyer like me. We need enough room to stretch our wings."
-    Ad "C'est pas juste une douche faite pour un dragon. Elle est si grande simplement pour que je puisse déployer mes ailes."
+    Ad "C'est pas juste une douche faite pour un dragon. Elle a été conçue spécifiquement pour un aviateur comme moi. On a besoin d'assez de place pour déployer nos ailes."
 
 # game/adine4.rpy:785
 translate french a4shower_3872395b:
 
     # c "Just think of the possibilities."
-    c "Il fallait y penser, oui."
+    c "Tellement de possibilités."
 
 # game/adine4.rpy:787
 translate french a4shower_a366f1a0:
 
     # m "She took off her goggles and stepped into the roomy walk-in shower. After pressing a button on the wall, water started flowing from the shower head mounted on the wall."
-    m "Elle a retiré ses lunettes qu'elle a posé à côté, puis est entrée dans la cabine de douche. Après avoir appuyé sur un bouton sur le mur, l'eau a commencé à couler de la pomme de douche."
+    m "Elle a retira ses lunettes puis entra dans la cabine de douche. Après avoir pressé un bouton sur le mur, l'eau commença à couler de la pomme de douche."
 
 # game/adine4.rpy:791
 translate french a4shower_445c3050:
 
     # m "She moved around a bit, stretching this and that way in order to cover her whole body in the water. Soon afterwards, she pressed the button on the wall again, and the water flow stopped."
-    m "Elle a bougé pour que le jet d'eau arrose la totalité de son corps. Peu après, une fois ses écailles trempées, elle a de nouveau appuyé sur le bouton, et l'eau a cessé de couler."
+    m "Elle bouga pour que le jet d'eau arrose la totalité de son corps. Peu après, une fois ses écailles trempées, elle appuya de nouveau sur le bouton, et l'eau cessa de couler."
 
 # game/adine4.rpy:795
 translate french a4shower_8619da62:
 
     # m "She turned to show me her back, wings splayed."
-    m "Elle m'a tourné le dos, et a déployé ses ailes."
+    m "Elle me tourna le dos, et déploya ses ailes."
 
 # game/adine4.rpy:811
 translate french a4shower_e5f0f915:
 
     # Ad "The soap and sponge should be right there."
-    Ad "Voilà... L'éponge et le savon sont ici."
+    Ad "L'éponge et le savon devraient être ici."
 
 # game/adine4.rpy:813
 translate french a4shower_907b9656:
 
     # m "I took a sponge that wasn't unlike the ones I knew from back home and added some soap from a rather big bowl."
-    m "J'ai pris une éponge qui m'a fait pensé à celles utilisé pour laver la carosserie des voitures, et y ai mis un peu de savon liquide."
+    m "Je pris une éponge qui me fait pensé à celles utilisé pour laver la carosserie des voitures, et y ai mis un peu de savon venant d'un grand bol."
 
 # game/adine4.rpy:815
 translate french a4shower_6da9e191:
 
     # m "It seemed to me that each species had their own challenges that needed to be overcome when it came to daily tasks like this one, emphasized by all the different design choices when it came to everyday items. "
-    m "J'ai alors songé au fait que chaque espèce a au moins un défis du genre à relever au quotidien, l'ergonomie du matériel n'étant manifestement pas au centre de leur priorité."
+    m "Je songeai alors au fait que chaque espèce a au moins un défi du genre à relever au quotidien, souligné par tous les différents choix de conception quand on en viens aux ustensiles de la vie de tous les jours."
 
 # game/adine4.rpy:817
 translate french a4shower_1a1222e0:
 
     # Ad "You can start with the wings and work your way down from there."
-    Ad "Tu peux commencer par les ailes, et descendre là..."
+    Ad "Tu peux commencer par les ailes, et descendre à partir de là."
 
 # game/adine4.rpy:819
 translate french a4shower_e631bc97:
@@ -1686,13 +1684,13 @@ translate french a4shower_e631bc97:
 translate french a4shower_86eea3f9:
 
     # m "I couldn't help making a joke to ease the tension a bit when I put the sponge on her muzzle."
-    m "Je n'ai pas pu m'empêcher de lui faire une blague pous la mettre plus à l'aise, et lui ai mis un coup d'éponge sur le museau."
+    m "Je ne pus m'empêcher de lui faire une blague pous la mettre plus à l'aise, et lui mis un coup d'éponge sur le museau."
 
 # game/adine4.rpy:825
 translate french a4shower_7cc20b78:
 
     # c "Hey, it looks like you've got something here. Oh, wait. That's just your stripes."
-    c "Hé, on dirait que t'as un truc là... Oh pardon, c'est juste une de tes rayures !"
+    c "Hé, on dirait que t'as un truc là. Oh pardon, ce sont juste tes rayures."
 
 # game/adine4.rpy:827
 translate french a4shower_3b76aa65:
@@ -1704,31 +1702,31 @@ translate french a4shower_3b76aa65:
 translate french a4shower_ccdb4373:
 
     # c "Sorry, I couldn't resist."
-    c "Désolé, j'ai pas pu résister !"
+    c "Désolé, je n'ai pas pu résister."
 
 # game/adine4.rpy:831
 translate french a4shower_eb6e85e5:
 
     # Ad "Good job. Now I've got soap in my nose."
-    Ad "Bravo, maintenant j'ai du savon plein le museau !"
+    Ad "Bravo. Maintenant j'ai du savon plein le museau."
 
 # game/adine4.rpy:837
 translate french a4shower_4bb7de3f:
 
     # m "I started scrubbing her wings. Now that I could see them up-close and fully extended, I found them to be quite impressive."
-    m "J'ai commencé à frotter ses écailles, en commançant par ses ailes. De près, et surtout déployées comme elle les tenait, je les trouvais vraiment impressionnantes."
+    m "Je commencais à frotter ses ailes. De près, et surtout déployées comme elle les tenait, je les trouvais vraiment impressionnantes."
 
 # game/adine4.rpy:841
 translate french a4shower_2355e57c:
 
     # Ad "..."
-    Ad ".."
+    Ad "..."
 
 # game/adine4.rpy:845
 translate french a4shower_4fc6ccf0:
 
     # Ad "You know, I actually tried to do that before."
-    Ad "Tu sais, j'ai déjà essayé bien des fois."
+    Ad "Tu sais, j'ai déjà essayé de faire ça avant."
 
 # game/adine4.rpy:847
 translate french a4shower_bb00a52c:
@@ -1746,7 +1744,7 @@ translate french a4shower_30d7d6ef:
 translate french a4shower_4e5a4202:
 
     # c "Why?"
-    c "Comment ça ?"
+    c "Pourquoi ?"
 
 # game/adine4.rpy:855
 translate french a4shower_2355e57c_1:
@@ -1758,7 +1756,7 @@ translate french a4shower_2355e57c_1:
 translate french a4shower_40b08c73:
 
     # Ad "Well, I was just a child back then. You know how kids are. They make fun of everything. Though, I don't know if human children are the same way."
-    Ad "J'étais encore petite. Tu sais comment sont les gosses, ils ne font pas attention. Je ne sais pas si les petits humains sont comme les dragonnets."
+    Ad "J'étais encore enfant à l'époque. Tu sais comment sont les gosses. Ils s'amusent d'un rien. Je ne sais pas si les enfants humains sont pareils."
 
 # game/adine4.rpy:865
 translate french a4shower_f74e637e:
@@ -1770,19 +1768,19 @@ translate french a4shower_f74e637e:
 translate french a4shower_9868a4c6:
 
     # Ad "Don't press too hard there. That's the injured shoulder."
-    Ad "Fais attention là, c'est l'épaule qui me fait mal..."
+    Ad "N'y vas pastrop fort là, c'est mon épaule blessée."
 
 # game/adine4.rpy:871
 translate french a4shower_f44013ec:
 
     # c "I'll be careful."
-    c "Pas de soucis, je fais attention."
+    c "Je ferai attention."
 
 # game/adine4.rpy:877
 translate french a4shower_3c8b0420:
 
     # m "Eventually, I reached her lower back, and while I was washing a particular spot on her left side, I could see her leg twitching slightly."
-    m "J'ai continué jusqu'à être au bas de son dos. C'est en lavant un point en particulier que j'ai vu sa jambe bouger un peu."
+    m "Je continuais jusqu'à être finalement au bas de son dos. C'est en lavant un point en particulier que j'ai vu sa jambe bouger un peu."
 
 # game/adine4.rpy:879
 translate french a4shower_b6f9c6cd:
@@ -1794,7 +1792,7 @@ translate french a4shower_b6f9c6cd:
 translate french a4shower_76054168:
 
     # Ad "I guess you noticed."
-    Ad "Tu l'as certainement remarqué..."
+    Ad "Tu l'as remarqué."
 
 # game/adine4.rpy:883
 translate french a4shower_adb54e86:
@@ -1806,19 +1804,19 @@ translate french a4shower_adb54e86:
 translate french a4shower_f81787ef:
 
     # m "I repeated my ministrations, moving the sponge in circles over that particular spot."
-    m "Je me suis remis à frotter, insistant sur ce point en particulier."
+    m "Je me remis à frotter,faisant des mouvements circulaires avec l'éponge, insistant sur ce point en particulier."
 
 # game/adine4.rpy:887
 translate french a4shower_d16ff304:
 
     # Ad "Hey, stop that!"
-    Ad "Hé, nan arrête !"
+    Ad "Hé, non arrête !"
 
 # game/adine4.rpy:895
 translate french a4shower_d3ede89a:
 
     # m "She started squirming, and suddenly, her tail whacked around and hit me in the face, causing me to stumble and fall over backwards." with vpunch
-    m "Elle s'est mise à remuer par réflexes, jusqu'à ce que sa queue me frappe soudainement le visage, me faisant tomber à la renverse." with vpunch
+    m "Elle se mit à remuer par réflexes, jusqu'à ce que sa queue me frappe soudainement le visage, me faisant tomber à la renverse." with vpunch
 
 # game/adine4.rpy:897
 translate french a4shower_7a288825:
@@ -1836,25 +1834,25 @@ translate french a4shower_f5d1df0e:
 translate french a4shower_87a63a63:
 
     # Ad "Well, you tickle the dragon you get the..."
-    Ad "Ah ! Tu vois ce qui arrive quand tu chatouilles un dragon !"
+    Ad "Eh bien, quand tu chatouilles le dragon, tu te prends..."
 
 # game/adine4.rpy:905
 translate french a4shower_e7e86b90:
 
     # c "...tail, apparently."
-    c "Ouaip, sa queue dans ma figure."
+    c "... la queue dans la figure, apparement."
 
 # game/adine4.rpy:907
 translate french a4shower_076354c1:
 
     # m "The forked tip of her tail was still hovering inches in front of my face. Its peculiar shape reminded me of something, and I couldn't help but grab it and hold it like a telephone."
-    m "La pointe de sa queue était encore à quelques centimètres de mon visage. Sa forme particulière m'a donné envie de faire une autre blague. Je l'ai alors prise pour la tenir comme un téléphone."
+    m "La pointe de sa queue était encore à quelques centimètres de mon visage. Sa forme particulière me donnait envie de faire une autre blague. Je la pris alors pour la tenir comme un téléphone."
 
 # game/adine4.rpy:909
 translate french a4shower_f2d7c91f:
 
     # c "Hello? Hello?"
-    c "Allô ? Allô !"
+    c "Allô ? Allô ?"
 
 # game/adine4.rpy:911
 translate french a4shower_6dff7d6a:
@@ -1872,7 +1870,7 @@ translate french a4shower_490f47d7:
 translate french a4shower_88cb7824:
 
     # Ad "Stop being silly."
-    Ad "T'es vraiment débile quand tu t'y mets !"
+    Ad "T'es vraiment débile quand tu t'y met."
 
 # game/adine4.rpy:917
 translate french a4shower_b96ad752:
@@ -1884,56 +1882,55 @@ translate french a4shower_b96ad752:
 translate french a4shower_1b351c66:
 
     # m "I resumed my scrubbing. By now, only her tail was left."
-    m "Je me suis remis à frotter ses écailles. Il ne restait plus que sa queue."
+    m "Je me remis à frotter ses écailles. Il ne restait plus que sa queue."
 
 # game/adine4.rpy:925
 translate french a4shower_0d4b28e7:
 
     # m "Not being entirely sure about my technique, I moved the sponge over the tail's whole length in small circles."
-    m "J'ai continué en donnant de petits cercles dans mes mouvements, tout en déplaçant l'éponge le long de sa queue."
+    m "Plutôt incertain de ma technique, je bougeais l'éponge en faisant des petits cercles sur toute la longueur."
 
 # game/adine4.rpy:929
 translate french a4shower_ea5637c7:
 
     # m "When I was nearly done, I noticed a low rumble emanating from her, reminding me of what an oversized cat's purr might sound like."
-    m "Alors que j'avais persque terminé, j'ai commencé à entendre un grondement apaisant, long et régulier, me faisant penser au ronronnement d'un chat."
+    m "Alors que j'avais persque terminé, je commencais à entendre un grondement apaisant, long et régulier, me faisant penser au ronronnement d'un chat."
 
 # game/adine4.rpy:931
 translate french a4shower_9cc4f7b6:
 
     # c "Is that... are you purring?"
-    c "C'est... Tu ronronnes..."
+    c "C'est... Est-ce que tu ronronnes ?"
 
 # game/adine4.rpy:939
 translate french a4shower_c6dc6aa9:
 
     # m "Suddenly, her expression changed as she looked over her shoulder."
-    m "D'un coup, l'expression sur son visage a changé tandis qu'elle me regardait encore par dessus son épaule."
-    c "Et voilà."
+    m "D'un coup, l'expression sur son visage changa tandis qu'elle me regardait encore par dessus son épaule."
 
 # game/adine4.rpy:941
 translate french a4shower_2e207f3f:
 
     # Ad "Oh, are you done? You should take a step back if you don't want to get hit by the water."
-    Ad "Oh, c'est fini ? Tu devrais t'écarter pendant que je me rince."
+    Ad "Oh, tu as terminé ? Tu devrais t'écarter si tu ne veux pass te retrouver mouillé."
 
 # game/adine4.rpy:950
 translate french a4shower_146047d8:
 
     # m "After I left the shower again, she pressed a button on the wall, and the water resumed once more. She only stood under it briefly and moved around a bit until the water had completely washed off the suds."
-    m "Une fois sorti de la cabine de douche, elle a de nouveau mis l'eau à couler, et l'a faite couler pour faire partir la mousse de ses écailles. Elle n'a pas mis de temps à se rincer et a très vite coupé l'eau."
+    m "Une fois sorti de la cabine de douche, elle fit couler l'eau de nouveau en appuyant sur le bouton. Elle ne resta que brièvement et bougea un peu jusqu'à ce que l'eau ait complètement nettoyé la mousse."
 
 # game/adine4.rpy:953
 translate french a4shower_0731b1a6:
 
     # m "When she turned off the water again, I realized that it didn't cling to her much at all. After she shook herself for a bit, she stepped out again, nearly dry."
-    m "Après qu'elle se soit rincée, je me suis rendu compte que l'eau glissait littéralement sur ses écailles. Elle s'est secouée un peu, puis est sortie à son tour de la cabine, presque sèche."
+    m "Après avoir fermé l'eau, je me suis rendu compte que l'eau glissait littéralement sur ses écailles. Elle se secoua un peu, puis sortit à son tour de la cabine, presque sèche."
 
 # game/adine4.rpy:957
 translate french a4shower_8d5e3baa:
 
     # Ad "Thanks, I really needed that."
-    Ad "Merci. J'en avait vraiment besoin."
+    Ad "Merci. J'en avais vraiment besoin."
 
 # game/adine4.rpy:959
 translate french a4shower_fafa9709:
@@ -1945,7 +1942,7 @@ translate french a4shower_fafa9709:
 translate french a4shower_a9eae600:
 
     # Ad think b "It's probably getting late for you, and I already held you up this long."
-    Ad think b "Oh, il était déjà tard quand on est rentré tout à l'heure, maintenant il doit faire nuit..."
+    Ad think b "Il était déjà tard quand on est rentré tout à l'heure, et je t'ai retenu tout ce temps."
 
 # game/adine4.rpy:963
 translate french a4shower_5101fbef:
@@ -1957,13 +1954,13 @@ translate french a4shower_5101fbef:
 translate french a4shower_eddc18b7:
 
     # c "Oh, it's already dark outside."
-    c "Et oui, il fait nuit noire dehors."
+    c "Oh, il fait déjà nuit noire dehors."
 
 # game/adine4.rpy:967
 translate french a4shower_a1975401:
 
     # Ad normal b "I guess that took longer than I thought."
-    Ad normal b "Ça a pris plus de temps que ce que je pensais !"
+    Ad normal b "Ca a pris plus de temps que ce que je pensais."
 
 # game/adine4.rpy:969
 translate french a4shower_4a717066:
@@ -1975,13 +1972,13 @@ translate french a4shower_4a717066:
 translate french a4shower_7847749c:
 
     # Ad think b "You're right. We were advised by the police to stay inside after nightfall because of everything that's going on."
-    Ad think b "Oui, c'est vrai qu'avec tout ce qui se passe en ce moment, il faut mieux rester à l'abri."
+    Ad think b "Tu as raison. La police nous a recommandé de rester chez soi après la tombée de la nuit à cause de tout ce que ce passe."
 
 # game/adine4.rpy:973
 translate french a4shower_e7838a34:
 
     # c "For me, this is even more important. We don't know if there's anyone out there who might want to target me."
-    c "C'est pire pour moi, qui me dit que quelqu'un ne va pas profiter de la nuit pour s'en prendre à moi ?"
+    c "C'est encore plus important pour moi. On ne sait pas si quelqu'un va profiter de la nuit pour s'en prendre à moi."
 
 # game/adine4.rpy:975
 translate french a4shower_39aa074b:
