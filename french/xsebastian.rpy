@@ -29,19 +29,19 @@ translate french sebastian_5fd3b20a:
 translate french _call_skiptut_14_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
 
 # game/xsebastian.rpy:71
 translate french _call_skiptut_14_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la fin de cette scène ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la sélection des scènes ?"
 
 # game/xsebastian.rpy:79
 translate french _call_skiptut_14_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la fin de cette scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des scènes."
 
 # game/xsebastian.rpy:93
 translate french _call_skiptut_14_0054b77b:
@@ -179,7 +179,7 @@ translate french _call_skipcheck_14_af1e0a44:
 translate french _call_skipcheck_14_e4381406:
 
     # Sb "Sure. Let me just grab a few things."
-    Sb "Hah. Laisse-moi juste prendre quelques affaires."
+    Sb "Haha. Laisse-moi juste prendre quelques affaires."
     # Sure traduit en haha en lien avec la traduction du choix à la ligne 1588
 
 # game/xsebastian.rpy:212
@@ -348,7 +348,8 @@ translate french _call_skipcheck_14_441b8230:
 translate french _call_skipcheck_14_5068faf0:
 
     # Sb normal b "Actually, no. Everything about your visit is clouded in secrecy, so I didn't get to hear much about Reza from Maverick before I met you."
-    Sb normal b "En fait, non. Tout ce qui concerne votre visite est gardé confidentiel, je n'ai donc pas pu en entendre beaucoup sur Reza de la bouche de Maverick avant de t'avoir rencontré."
+    Sb normal b "En fait, non. Tout ce qui concerne votre visite est gardé confidentiel, je n'ai donc pas pu en apprendre beaucoup sur Reza venant de Maverick, avant de t'avoir rencontré."
+    # Originel En fait, non. Tout ce qui concerne votre visite est gardé confidentiel, je n'ai donc pas pu en entendre beaucoup sur Reza de la bouche de Maverick avant de t'avoir rencontré.
 
 # game/xsebastian.rpy:332
 translate french _call_skipcheck_14_89aefe22:
@@ -372,7 +373,8 @@ translate french _call_skipcheck_14_eba66d5c:
 translate french _call_skipcheck_14_c46ff51e:
 
     # Sb "I also happen to be the newest guy on the force, so I didn't exactly want this to turn into a career-ender right there."
-    Sb "Il se trouve aussi que je suis la dernière recrue de la police, je ne souhaitais donc pas vraiment que cela se finisse mal pour ma carrière."
+    Sb "Il se trouve aussi que je suis la dernière recrue de la police, je ne souhaitais pas vraiment que ma carrière s'achève si vite."
+    #Il se trouve aussi que je suis la dernière recrue de la police, je ne souhaitais donc pas vraiment que cela se finisse mal pour ma carrière.
 
 # game/xsebastian.rpy:346
 translate french _call_skipcheck_14_fbcc765b:
@@ -438,7 +440,7 @@ translate french _call_skipcheck_14_5be5aa63:
 translate french _call_skipcheck_14_73980b4f:
 
     # Sb "I live here now, but I actually grew up in a small farming village that mostly consisted of runners like me."
-    Sb "Je vis ici maintenant, mais j'ai grandi dans un petit village agricole qui était habité majoritairement par des coureurs comme moi."
+    Sb "Je vis ici maintenant, mais j'ai grandi dans un petit village agricole qui était habité majoritairement par des coureurs, comme moi."
 
 # game/xsebastian.rpy:384
 translate french _call_skipcheck_14_bd99f667:
@@ -600,7 +602,7 @@ translate french sebastianquestions_9515f14d:
 translate french sebastianquestions_6c768088:
 
     # Sb "On the other hand, it also creates all kinds of new problems that I never would have expected. I won't forget the first time I had to follow a shoplifter who also happened to be a flyer."
-    Sb "De l'autre, cela crée un tas de nouveaux problèmes auxquels je n'aurais jamais pensé. Je n'oublierai jamais la première fois où j'ai un pourchasser un voleur qui se trouvait aussi être un volant."
+    Sb "De l'autre, cela crée un tas de nouveaux problèmes auxquels je n'aurais jamais pensé. Je n'oublierai jamais la première fois où j'ai un pourchasser un voleur qui se trouvait aussi être un aviateur."
 
 # game/xsebastian.rpy:522
 translate french sebastianquestions_fe4fce32:
@@ -823,7 +825,7 @@ translate french sebgameexplanation_718c24c0:
 translate french sebgameexplanation_39ba47ec:
 
     # Sb "Once we have both played a card, we flip them over. The highest card wins the round, and whoever played it gets a point."
-    Sb "Une fois que l'on a tous les deux joué une carte, nous la retournons. La carte la plus haute remporte le tour, et quiconque l'a jouée obtient le point."
+    Sb "Une fois que l'on a tous les deux joué une carte, nous la retournons. La carte avec la plus haute valeure remporte le tour, et quiconque l'a jouée obtient le point."
 
 # game/xsebastian.rpy:749
 translate french sebgameexplanation_8bf06079:
@@ -841,7 +843,7 @@ translate french sebgameexplanation_09fa8238:
 translate french sebgameexplanation_d93d316b:
 
     # Sb "If there is a tie, no clear winner between the three cards, or the middle row has the highest card, no player will get a point for that round. However, the next round will give the winner an extra point to make up for it."
-    Sb "S'il y a une égalité, une absence de gagnant évident entre les trois cartes ou que la ligne centrale a la carte la plus haute, aucun joueur n'aura de point pour ce tour. Cependant, le tour suivant donnera au gagnant un point supplémentaire pour compenser."
+    Sb "S'il y a une égalité, une absence de gagnant évident entre les trois cartes, ou que la ligne centrale a la carte avec la plus haute valeure, aucun joueur n'aura de point pour ce tour. Cependant, le tour suivant donnera au gagnant un point supplémentaire pour compenser."
 
 # game/xsebastian.rpy:755
 translate french sebgameexplanation_57c20a01:
@@ -901,7 +903,8 @@ translate french sebgamestart_0470e52e:
 translate french sebgamestart_da4cc757:
 
     # Sb "Alternatively, you could count on me trying to beat a higher card and play a low one instead, thus making me waste mine."
-    Sb "Sinon, tu pourrais parier sur ma décision de jouer une carte plus haute et en jouer une plus basse à la place, me faisant gâcher la mienne."
+    Sb "Sinon, tu pourrais parier sur ma décision de jouer une carte de plus haute valeure et en jouer une plus basse à la place, me faisant gâcher la mienne."
+    #Quelques modifications sur les lignes précédentes, modifier carte la plus haute à crte de plus haute valeure....peut encore être modifié.
 
 # game/xsebastian.rpy:849
 translate french sebgamestart_40ac4eec:
@@ -913,7 +916,7 @@ translate french sebgamestart_40ac4eec:
 translate french sebgamestart_82ea7abf:
 
     # Sb "As you can see, I played a lowly 2 just to see what would happen."
-    Sb "Comme tu peux le voir, j'ai joué un bas 2 pour voir ce qui se passerait."
+    Sb "Comme tu peux le voir, j'ai joué un petit 2 pour voir ce qui se passerait."
 
 # game/xsebastian.rpy:1073
 translate french sebgamestart_e99f54b7:
@@ -1165,7 +1168,8 @@ translate french sebgamestart_cdc29143:
 translate french sebgamestart_e29b805c:
 
     # c "Or maybe I'm just that good."
-    c "Ou peut-être que je suis simplement aussi bon que ça."
+    c "Ou peut-être que je suis juste trop fort."
+    #Original Ou peut-être que je suis simplement aussi bon que ça.
 
 # game/xsebastian.rpy:4412
 translate french sebgamestart_d930b097:
@@ -1183,7 +1187,7 @@ translate french sebgamestart_c06c9c26:
 translate french sebgamestart_82c4aa76:
 
     # Sb smile b "Wow, just look at that. I totally eradicated you."
-    Sb smile b "Ouah, regarde ça. Je t'ai complètement éradiqué."
+    Sb smile b "Ouah, regarde ça. Je t'ai complètement écrasé."
 
 # game/xsebastian.rpy:4430
 translate french sebgamestart_ebb1d8b3:
@@ -1249,7 +1253,7 @@ translate french sebgamestart_2db8b498:
 translate french sebgamestart_5f7ec2a9:
 
     # Sb "Only when my opponent gets completely {cps=10}{i}eradicated{/i}{/cps} like you just did."
-    Sb "Seulement quand mon adversaire se fait complètement {cps=10}{i}éradiquer{/i}{/cps} comme ça a été ton cas."
+    Sb "Seulement quand mon adversaire se fait complètement {cps=10}{i}écraser{/i}{/cps} comme ça a été ton cas."
 
 # game/xsebastian.rpy:4452
 translate french sebgamestart_89aefe22:
@@ -1387,7 +1391,7 @@ translate french _call_syscheck_61_369b5aac:
 translate french _call_syscheck_61_56c1af78:
 
     # Sb "This doesn't happen often. How peculiar."
-    Sb "Ça n'arrive pas souvent. Comment c'est étrange."
+    Sb "Ça n'arrive pas souvent. Comme c'est étrange."
 
 # game/xsebastian.rpy:4542
 translate french _call_syscheck_61_b125cb40:
@@ -1405,7 +1409,7 @@ translate french _call_syscheck_61_dd20ffbf:
 translate french _call_syscheck_61_b696c231:
 
     # Sb normal b "I'll just put these away."
-    Sb normal b "Je vais ranger ces cartes."
+    Sb normal b "Je vais ranger les cartes."
 
 # game/xsebastian.rpy:4556
 translate french _call_syscheck_61_8a686739:
@@ -1459,7 +1463,7 @@ translate french sebastianskip_352dd762:
 translate french sebastianskip_3a1a3b40:
 
     # Sb "You wish."
-    Sb "Tu penses."
+    Sb "Tu rêve."
 
 # game/xsebastian.rpy:4598
 translate french sebastianskip_d3bc72b4:
@@ -1591,7 +1595,7 @@ translate french strings:
 
     # xsebastian.rpy:201
     old "I think I'd rather just stay here."
-    new "Je pense que je préfére rester ici."
+    new "Je pense que je préfère rester ici."
 
     # xsebastian.rpy:270
     old "So I'm supposed to just sleep on the ground?"
