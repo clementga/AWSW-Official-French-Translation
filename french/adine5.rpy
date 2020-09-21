@@ -10,13 +10,13 @@ translate french adine5_33a035e1:
 translate french adine5_6f5bf235:
 
     # Ad "Are you ready?"
-    Ad "Alors, prêt pour le show ?"
+    Ad "Alors, tout est prêt ?"
 
 # game/adine5.rpy:22
 translate french adine5_53e71928:
 
     # c "Ready for what?"
-    c "Quel show ?"
+    c "Prêt pour quoi ?"
 
 # game/adine5.rpy:24
 translate french adine5_fc99fe32:
@@ -28,13 +28,13 @@ translate french adine5_fc99fe32:
 translate french adine5_8dbb23ae:
 
     # c "Oh, of course. Let's go."
-    c "Oh ! Oui bien sûr, on peut y aller."
+    c "Oh, oui bien sûr. On peut y aller."
 
 # game/adine5.rpy:34
 translate french adine5_8aa8fa3e:
 
     # m "After a few minutes of walking, we arrived at a rather empty looking area near the edge of town."
-    m "Après avoir marché quelques minutes, nous nous sommes retrouvés dans un endroit plutôt désert en périphérie de la ville."
+    m "Après avoir marché quelques minutes, nous arrivâmes dans un endroit plutôt désert en périphérie de la ville."
 
 # game/adine5.rpy:38
 translate french adine5_2f763075:
@@ -46,13 +46,13 @@ translate french adine5_2f763075:
 translate french adine5_045cea44:
 
     # c "If this is everyone, I'm disappointed. I thought it would be crowded here."
-    c "Oh, tout le monde est déjà là ? Je suis déçu, je pensais qu'on verrait toute la ville dehors."
+    c "Oh, tout le monde est déjà là ? Je suis déçu, je pensais qu'on verrait tout le monde dehors."
 
 # game/adine5.rpy:42
 translate french adine5_4940f35f:
 
     # Ad giggle b "This is actually one of my training spots, and it turns out you can see the fireworks pretty well from here too."
-    Ad giggle b "Mais non nounouille ! En fait c'est un endroit que j'aime bien pour venir m'entraîner. Et on a une belle vue sur les feu d'artifices."
+    Ad giggle b "En fait c'est un endroit où j'aime bien venir m'entraîner. Et il s'avère qu'on a aussi une belle vue sur les feu d'artifices d'ici."
 
 # game/adine5.rpy:44
 translate french adine5_d1711577:
@@ -76,55 +76,55 @@ translate french adine5_b68a0f71:
 translate french adine5_041059dc:
 
     # Ad normal b "Not if you keep it to yourself. We could make it {i}our{/i} secret."
-    Ad normal b "Sauf si tu le gardes pour toi. Ça pourrait devenir {i}notre{/i} petit coin secret."
+    Ad normal b "Sauf si tu le gardes pour toi. Ça pourrait devenir {i}notre{/i} secret."
 
 # game/adine5.rpy:52
 translate french adine5_8fc66374:
 
     # c "If you say so."
-    c "Une idée intéressante."
+    c "Si tu y tiens."
 
 # game/adine5.rpy:54
 translate french adine5_2359c96e:
 
     # Ad giggle b "Hey, looks like it's starting. Now, take a good look."
-    Ad giggle b "Oh, on dirait que c'est parti !"
+    Ad giggle b "Oh, regarde. on dirait que ça commence."
 
 # game/adine5.rpy:60
 translate french adine5_b786e88a:
 
     # m "We waited quietly as the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "On a attendu tranquillement, alors que le silence de la nuit nous enveloppais agréablement. Et pusi j'ai entendu le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle a éclaté dans un motif aux couleurs vives."
+    m "On attendit tranquillement, alors que le silence de la nuit nous enveloppait. Et puis j'entendit le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle explosa dans un motif de couleurs."
 
 # game/adine5.rpy:62
 translate french adine5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "D'autres fusées ont suivies, leurs déflagrations résonnant tout autour de nous."
+    m "D'autres fusées suivirent, leurs explosions résonnant à travers les plaines."
 
 # game/adine5.rpy:75
 translate french adine5_3de6ab5e:
 
     # m "Suddenly, a terrible realization hit me."
-    m "Alors que les explosions tonnaient à mes oreilles, j'ai été frappé par une terrible prise de conscience."
+    m "Soudain, une réalisation terrible me frappa."
 
 # game/adine5.rpy:79
 translate french adine5_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Étant donné le symbole que ce feu d'artifice représentait au yeux des habitants, et me souvenant avoir entendu à plusieurs reprise que tout le monde y assistait, c'était une opportunité de choix pour Reza pour accomplir sa mission."
+    m "En considérant que cet évènement était public et le nombre de fois où on m'a dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il a planifié."
 
 # game/adine5.rpy:81
 translate french adine5_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m "Non seulement la ville était quasiment déserte, mais il pouvait couvrir le son de ses tirs par les explosions des feux d'artifices. Il pouvait agir en toute sécurité."
+    m "Non seulement le village était simplement déserté, mais le bruit des feux d'artifice couvrirait également les tirs d'armes à feu, lui donnant toute la sécurité dont il aurait besoin."
 
 # game/adine5.rpy:83
 translate french adine5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Comme le portail avait été réparé par le mystérieux humain masqué que j'avais rencontré, c'était le moment idéal pour que Reza s'enfuie. Et j'étais le seul à le savoir."
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 # game/adine5.rpy:85
 translate french adine5_39daf733:
@@ -136,13 +136,13 @@ translate french adine5_39daf733:
 translate french adine5_dc1c9312:
 
     # Ad giggle b "Stop joking around, [player_name]. You still haven't seen the best part."
-    Ad giggle b "Attends d'avoir vu le meilleur avant de jouer les nounouilles, [player_name]."
+    Ad giggle b "Arrête de faire l'idiot [player_name]. Tu n'as pas encore vu la meilleure partie."
 
 # game/adine5.rpy:89
 translate french adine5_78b2c8cd:
 
     # c "I know where Reza is. We need to stop him."
-    c "Non Adine. Je sais où se trouve Reza en ce moment même, et il faut qu'on l'arrête."
+    c "Je sais où se trouve Reza en ce moment même. Il faut qu'on l'arrête."
 
 # game/adine5.rpy:91
 translate french adine5_3245c5e4:
@@ -160,7 +160,7 @@ translate french adine5_36391c9b:
 translate french adine5_fd1afa90:
 
     # Ad disappoint b "What should we do, then?"
-    Ad disappoint b "Alors, qu'est-ce qu'on fait ?"
+    Ad disappoint b "Alors, qu'est-ce qu'on devrait fait ?"
 
 # game/adine5.rpy:97
 translate french adine5_3e479f76:
@@ -178,9 +178,7 @@ translate french adine5_bdc8c2dc:
 translate french adine5_6bed83a3:
 
     # c "Somewhere near the portal. He'll be there. Let's go!"
-    c "Au portail, c'est là bas qu'il est. Ça va aller ton aile ?"
-    Ad "J'ai remis un bandage, t'inquiète pas pour moi."
-    Ad "[player_name], sois prudent surtout."
+    c "Près du portail. Il sera là bas. Dépêchons nous."
 
 # game/adine5.rpy:117
 translate french _call_endingjustafewminuteslater_4_5233b371:
@@ -192,103 +190,103 @@ translate french _call_endingjustafewminuteslater_4_5233b371:
 translate french _call_endingjustafewminuteslater_4_f141fff3:
 
     # m "Suddenly, Maverick and Adine appeared next to me."
-    m "C'est alors que j'ai vu Adine et Maverick arriver à mes côtés."
+    m "C'est alors que je vis Adine et Maverick arriver à mes côtés."
 
 # game/adine5.rpy:130
 translate french _call_endingjustafewminuteslater_4_40a50c3c:
 
     # Rz angry "You planned this, didn't you, [player_name]?"
-    Rz angry "Tu avais tout prévu depuis le début, hein [player_name] ?"
+    Rz angry "C'est toi qui a prévu ça, n'est-ce pas, [player_name] ?"
 
 # game/adine5.rpy:132
 translate french _call_endingjustafewminuteslater_4_0599b8cd:
 
     # Rz "Traitor!" with hpunch
-    Rz "Traitre !" with hpunch
+    Rz "Sale traître !" with hpunch
 
 # game/adine5.rpy:134
 translate french _call_endingjustafewminuteslater_4_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Et dire que je t'ai laissé m'embobiner avec ton petit numéro. Juste parce que je pensais qu'il te restait une part d'humanité..."
+    Rz "Et dire que je t'ai laissé m'embobiner avec ton petit numéro ! Juste parce que je pensais qu'il restait une once d'humanité en toi..."
 
 # game/adine5.rpy:142
 translate french _call_endingjustafewminuteslater_4_bdbf243c:
 
     # m "He pulled out his gun, not sure which one of us he should be aiming at."
-    m "Il a dégainé son arme, manifestement sans savoir lequel d'entre nous viser."
+    m "Il dégaina son arme, sans savoir lequel d'entre nous viser."
 
 # game/adine5.rpy:144
 translate french _call_endingjustafewminuteslater_4_561cf27e:
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz "Laissez moi partir, et j'oublie tout ce qui s'est passé, okay ?"
+    Rz "Laissez moi partir, et j'oublierai tout ce qui vient de se passer."
 
 # game/adine5.rpy:146
 translate french _call_endingjustafewminuteslater_4_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c "Tu as six balles et on est trois. Tu crois pouvoir nous vaincre, Reza ? Tu crois vraiment que ça vaut le coup de risquer ta peau pour ça ?"
+    c "Tu as six balles pour trois personnes. Penses-tu vraiment que tu vas y arriver, Reza ? Tu penses que ça vaut le coup de risquer ta vie pour ça ?"
 
 # game/adine5.rpy:148
 translate french _call_endingjustafewminuteslater_4_6281e04a:
 
     # Rz angry "I've been risking my life for this every day for the last two weeks. What did you do during that time? Sip champagne in your nice apartment?"
-    Rz angry "Je risque ma peau chaque jour depuis deux semaines ! Et qu'est-ce que t'as foutu pendant tout ce temps, hein ? À part te la couler douce dans ton superbe appartement !"
+    Rz angry "J'ai risqué ma vie chaque jour durant les deux dernières semaines pour ça. Qu'est-ce que tu as fait pendant ce temps ? Siroter du champagne dans ton superbe appartement ?"
 
 # game/adine5.rpy:150
 translate french _call_endingjustafewminuteslater_4_892229f8:
 
     # Rz "Besides, this generator and the whole building came from our time."
-    Rz "Et puis ce générateur et ce complexe nous appartiennent, ils sont de notre époque !"
+    Rz "De plus, ce générateur et tout le bâtiment viennent de notre époque."
 
 # game/adine5.rpy:153
 translate french _call_endingjustafewminuteslater_4_40d6a19a:
 
     # Rz "They belong to humanity!" with Shake((0, 0, 0, 0), 2, dist=10)
-    Rz "Tout ça appartient à l'humanité !!!" with Shake((0, 0, 0, 0), 2, dist=10)
+    Rz "De plus, ce générateur et tout le bâtiment viennent de notre époque.
 
 # game/adine5.rpy:162
 translate french _call_endingjustafewminuteslater_4_d0af508a:
 
     # m "Suddenly, the Administrator came out of the shadows in the hallway behind Reza."
-    m "Soudain, ce fut au tour de l'Administrateur de faire son entrée, surgissant de l'ombre du couloir juste derrière Reza."
+    m "Soudain, ce fut au tour de l'administrateur de sortir de l'ombre, dans le couloir derrière Reza."
 
 # game/adine5.rpy:167
 translate french _call_endingjustafewminuteslater_4_0f4307a5:
 
     # As "No, they belong to me."
-    As "Non, tout ça n'appartient qu'à moi."
+    As "Non, tout ça m'appartient à moi."
 
 # game/adine5.rpy:175
 translate french _call_endingjustafewminuteslater_4_5de0f92a:
 
     # m "Confused, Reza spun around, aiming his gun at the newcomer who was slowly walking towards him."
-    m "Désemparé, Reza s'est tourné et a pointé son arme sur l'individu qui ne cessait de lentement s'approcher de lui."
+    m "Désemparé, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
 
 # game/adine5.rpy:177
 translate french _call_endingjustafewminuteslater_4_6380d90f:
 
     # Rz "Who the fuck are you? Freeze! I said freeze!"
-    Rz "Bordel vous êtes qui vous ? Ne bougez plus ! J'vous ai dit de n'plus bouger !"
+    Rz "Bordel t'es qui ? Bouge pas ! J'ai dit bouge pas !"
 
 # game/adine5.rpy:181
 translate french _call_endingjustafewminuteslater_4_c13acdb0:
 
     # As "Want to waste your bullets on me? Feel free. You can't stop all of us."
-    As "Tu veux gaspiller tes balles sur moi ? N'hésite pas, tu ne pourras pas tous nous arrêter."
+    As "Envie de gâcher tes balles sur moi ? Fais toi plaisir. Tu ne peux pas tous nous arrêter."
 
 # game/adine5.rpy:185
 translate french _call_endingjustafewminuteslater_4_45e01706:
 
     # Rz gunpoint flip "If you say so."
-    Rz gunpoint flip ""
+    Rz gunpoint flip "Si tu insistes."
 
 # game/adine5.rpy:199
 translate french _call_endingjustafewminuteslater_4_48e40cdb:
 
     # m "He pulled the trigger, and the Administrator fell to the ground with a dull thud that knocked her mask off."
-    m "Il a appuyé sur la détente, et dans une déflagration assourdissant, l'administrateur est tombé. Son corps a touché le sol dans un bruit sourd, et son masque se détachant de son visage."
+    m "Il appuya sur la détente, et l'administrateur s'effondra au sol dans un choc sourd qui éjecta son masque."
 
 # game/adine5.rpy:221
 translate french _call_endingjustafewminuteslater_4_81e65529:
