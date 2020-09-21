@@ -76,7 +76,7 @@ translate frenchtl remy5_6a31016d:
 translate frenchtl remy5_f705c1cd:
 
     # m "We were quiet as we waited and the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "On attendit tranquillement, alors que le silence de la nuit nous enveloppait. Et puis j'entendit le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle éxplosa dans un motif de couleurs."
+    m "On attendit tranquillement, alors que le silence de la nuit nous enveloppait. Et puis j'entendit le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle explosa dans un motif de couleurs."
 
 # game/remy5.rpy:54
 translate frenchtl remy5_07037632:
