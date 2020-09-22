@@ -292,19 +292,19 @@ translate french _call_endingjustafewminuteslater_4_48e40cdb:
 translate french _call_endingjustafewminuteslater_4_81e65529:
 
     # m "Reza was quick with his gun and shot Adine once before Maverick even had a chance to charge."
-    m "Reza a aussitôt tiré sur Adine, ne laissant même pas le temps à Maverick de le charger."
+    m "Reza tira aussitôt sur Adine, ne laissant même pas le temps à Maverick de le charger."
 
 # game/adine5.rpy:237
 translate french _call_endingjustafewminuteslater_4_33f1ed09:
 
     # m "As Maverick ran towards him, Reza adjusted his aim before shooting at Maverick multiple times."
-    m "Alors que le dragon se jetait maintenant sur lui, Reza l'a visé avant de tirer à plusieurs reprises."
+    m "Tandis que Maverick se jetait sur lui, Reza le visa avant de lui tirer dessus à plusieurs reprises."
 
 # game/adine5.rpy:244
 translate french _call_endingjustafewminuteslater_4_3aa60d2f:
 
     # m "Maverick stumbled and fell before Reza walked up to him and shot him in the head."
-    m "Maverick a trébuché et est tombé, Reza s'est alors approché de lui, l'achevant froidement d'une balle dans la tête."
+    m "Maverick trébucha et tomba avant que Reza ne s'approchât de lui pour lui tirer une balle dans la tête."
 
 # game/adine5.rpy:246
 translate french _call_endingjustafewminuteslater_4_a43d1497:
@@ -322,7 +322,7 @@ translate french _call_endingjustafewminuteslater_4_7b6abfff:
 translate french _call_endingjustafewminuteslater_4_b9a4a5af:
 
     # m "I looked over to Maverick and the Administrator. Both lay dead in a pool of their own blood."
-    m "J'ai regardé Maverick et l'Administrateur, tous les deux gisaient dans vie dans une mare de leur propre sang."
+    m "J'ai regardé Maverick et l'Administrateur, tous les deux gisaient sans vie dans une mare de leur propre sang."
 
 # game/adine5.rpy:273
 translate french _call_endingjustafewminuteslater_4_c026ff29:
@@ -340,31 +340,31 @@ translate french _call_endingjustafewminuteslater_4_84cb213c:
 translate french _call_endingjustafewminuteslater_4_626579d6:
 
     # Ad "Please..."
-    Ad "S'te plaît..."
+    Ad "Je t'en prie..."
 
 # game/adine5.rpy:281
 translate french _call_endingjustafewminuteslater_4_d504eac8:
 
     # c "Just... go."
-    c "Juste... dégage."
+    c "Juste... va-t'en."
 
 # game/adine5.rpy:283
 translate french _call_endingjustafewminuteslater_4_8f76d9b9:
 
     # Rz angry "If you told me that just a few minutes ago, I wouldn't have had to do all this. Heck, you could've come with me, you stupid idiot. But if you want to die here with everyone else, feel free."
-    Rz angry "Si tu m'avais dit ça avant, je n'aurais pas eut à faire ce carnage. Pauvre con, tu aurais pu venir avec moi... Mais si tu préfère rester et mourir avec tes copains sacs à mains, c'est ton choix."
+    Rz angry "Si tu m'avais dit ça il y a quelques minutes, je n'aurais pas eu à faire tout ça. Putain, tu aurais pu venir avec moi, espèce d'abruti. Mais si tu préfères mourir avec tous les autres, c'est ton choix."
 
 # game/adine5.rpy:285
 translate french _call_endingjustafewminuteslater_4_85f53f1c:
 
     # Rz annoyed "Alright, step over there and lie on the ground. If I see either of you moving before I'm gone, I'll shoot."
-    Rz annoyed "Okay, tu t'allonges et tu ne bouges plus. Si je vois un mouvement, je dire, pigé ?"
+    Rz annoyed "Ok, tu t'allonges ici et tu ne bouges plus. Si je vois l'un d'entre vous bouger avant que je ne sois parti, je tire."
 
 # game/adine5.rpy:287
 translate french _call_endingjustafewminuteslater_4_0c1bf746:
 
     # m "I did as he said and could only watch as he took the generator and left."
-    m "Je me suis exécuté, et l'ai regardé prendre le générateur avant de partir."
+    m "Je m'exécutai, ne pouvant que le regarder prendre le générateur avant de partir."
 
 # game/adine5.rpy:317
 translate french _call_endingjustafewminuteslater_4_76b2fe88:
@@ -376,25 +376,25 @@ translate french _call_endingjustafewminuteslater_4_76b2fe88:
 translate french _call_endingjustafewminuteslater_4_47c1d45e:
 
     # n "While both Maverick and the Administrator were dead, it turned out that Adine's injury was fairly minor and she soon got the medical attention she needed."
-    n "Il n'y avait plus rien à faire pour Maverick et l'Administrateur, tandis que la blessure d'Adine n'était que mineure. Elle a très vite reçu les soins dont elle avait besoin."
+    n "Il n'y avait plus rien à faire pour Maverick et l'Administrateur, tandis que la blessure d'Adine n'était que mineure. Elle eut très vite reçu les soins dont elle avait besoin."
 
 # game/adine5.rpy:323
 translate french _call_endingjustafewminuteslater_4_76466fa9:
 
     # n "When I attempted to use the portal to follow Reza, however, I had to realize that humanity's portal was not accessible."
-    n "Seulement, en cherchant à emprunter le portail pour suivre Reza, je me suis rendu compte que je ne pouvais joindre l'humanité."
+    n "Seulement, en cherchant à emprunter le portail pour suivre Reza, je me rendis compte que je ne pouvais joindre l'humanité."
 
 # game/adine5.rpy:325
 translate french _call_endingjustafewminuteslater_4_777c2a34:
 
     # n "After Reza had arrived on the other side, he or humanity must have quickly deactivated the portal in order to prevent anyone from connecting with it again."
-    n "Reza avait probablement fait desactiver le portail après être arrivé afin que ses plans ne soient pas compromis par un nouveau contact entre eux et le monde des dragons."
+    n "Reza ou l'humanité avait probablement fait désactiver le portail après son arrivée afin d'empêcher qui que ce soit de s'y connecter à nouveau."
 
 # game/adine5.rpy:327
 translate french _call_endingjustafewminuteslater_4_50822352:
 
     # n "I warned the dragons about the comet, but without the generators from the underground building, they failed at diverting the comet enough to make a difference."
-    n "J'ai averti ces derniers au sujet de la comète. Mais sans le générateur du bâtiment souterrain, leur plan s'est soldé par un échec, la comète se dirigeait toujours vers la Terre."
+    n "J'avais averti les dragons au sujet de la comète, mais sans le générateur du bâtiment souterrain, ils échouèrent à dévier la comète suffisament pour faire la différence."
 
 # game/adine5.rpy:330
 translate french _call_endingjustafewminuteslater_4_76b2fe88_1:
@@ -406,13 +406,13 @@ translate french _call_endingjustafewminuteslater_4_76b2fe88_1:
 translate french _call_endingjustafewminuteslater_4_8d761ee7:
 
     # n "As such, the only remaining option for me was to use the portal with the Administrator's coordinates, which would enable me to travel back in time to the day of my arrival in this world."
-    n "Ne me restait que la possibilité d'utiliser les coordonnées enregistrées par l'Administrateur pour remonter le temps jusqu'au jour de mon arrivé."
+    n "Ne me restait que la possibilité d'utiliser les coordonnées enregistrées par l'Administrateur qui me permetteraient de remonter dans le temps jusqu'au jour de mon arrivé dans ce monde."
 
 # game/adine5.rpy:335
 translate french _call_endingjustafewminuteslater_4_c1fda0a6:
 
     # n "I met with Adine for one last time to tell her about my plan: I would use the portal to try again, hoping for a better outcome."
-    n "J'ai été voir Adine une dernière fois avant de mettre mon plan à exécution : j'allais me servir du portail pour remonter le temps, en espérant un meilleur résultat."
+    n "J'allai voir Adine une dernière fois pour lui parler de mon plan : j'allais me servir du portail pour remonter le temps, en espérant un meilleur résultat."
 
 # game/adine5.rpy:341
 translate french _call_endingjustafewminuteslater_4_76b2fe88_2:
@@ -424,31 +424,31 @@ translate french _call_endingjustafewminuteslater_4_76b2fe88_2:
 translate french _call_endingjustafewminuteslater_4_bc79cc31:
 
     # Ad "There will always be another year, huh?"
-    Ad "Il y aura toujours une autre année, n'est-ce pas ?"
+    Ad "Il y aura toujours une autre année, hein ?"
 
 # game/adine5.rpy:361
 translate french _call_endingjustafewminuteslater_4_3070bc42:
 
     # c "What are you talking about?"
-    c "Comment ça ?"
+    c "De quoi est-ce que tu parles ?"
 
 # game/adine5.rpy:363
 translate french _call_endingjustafewminuteslater_4_c61b55e2:
 
     # Ad disappoint b "That's what you told me during the summer festival when you talked me out of flying in the contest. There will always be another year, so I didn't have to fly in this one."
-    Ad disappoint b "C'est ce que tu m'as dit pour le concours d'aérobatie, si ce n'est pas cette année, il y en aura une autre..."
+    Ad disappoint b "C'est ce que tu m'as dit au festival d'été quand tu m'as dissuadé de voler au concours. Il y aura une autre année, donc que je n'étais pas obligé de voler à à celui ci en particulier."
 
 # game/adine5.rpy:365
 translate french _call_endingjustafewminuteslater_4_17469289:
 
     # c "I'm sorry."
-    c "Non, je suis désolé Adine."
+    c "Je suis désolé."
 
 # game/adine5.rpy:367
 translate french _call_endingjustafewminuteslater_4_23811ecf:
 
     # Ad normal b "Don't be. You did what you could. Even if it has to end like this, I enjoyed my time with you. Let's not have any regrets now."
-    Ad normal b "Ne le sois pas [player_name]. Tu as fait ce que tu pouvais, même si c'est comme ça que ça doit se finir. J'ai apprécié le temps que j'ai passé avec toi, je ne regrette rien tu sais."
+    Ad normal b "Ne le sois pas. Tu as fait ce que tu pouvais, même si c'est comme ça que ça doit se finir. J'ai apprécié le temps que j'ai passé avec toi, je ne regrette rien tu sais."
 
 # game/adine5.rpy:369
 translate french _call_endingjustafewminuteslater_4_e897fbb0:
@@ -466,7 +466,7 @@ translate french _call_endingjustafewminuteslater_4_602dbfba:
 translate french _call_endingjustafewminuteslater_4_bda930f4:
 
     # Ad "You told me you would enjoy life to the fullest until the last moment. I guess you won't have to do that if you go back."
-    Ad "Tu m'as dit que tu profiterai de la vie jusqu'à la dernière seconde. Tu n'auras pas à le faire si tu recommence tout."
+    Ad "Tu m'as dit que tu profiterais de la vie jusqu'à la dernière seconde. Tu n'auras pas à le faire si tu recommences tout."
 
 # game/adine5.rpy:377
 translate french _call_endingjustafewminuteslater_4_ad4d06fe:
@@ -478,7 +478,7 @@ translate french _call_endingjustafewminuteslater_4_ad4d06fe:
 translate french _call_endingjustafewminuteslater_4_1551100e:
 
     # Ad "You told me you would say your last goodbyes and hope for the best. Is that what this is, your last goodbyes?"
-    Ad "Tu m'as dit que tu ferais tes derniers adieux, et que tu espèrerai le meilleur. C'est ça tes derniers adieux ?"
+    Ad "Tu m'as dit que tu ferais tes derniers adieux, et que tu espèrerais le meilleur. C'est ça tes derniers adieux ?"
 
 # game/adine5.rpy:383
 translate french _call_endingjustafewminuteslater_4_7e52c087:
@@ -490,13 +490,13 @@ translate french _call_endingjustafewminuteslater_4_7e52c087:
 translate french _call_endingjustafewminuteslater_4_16367ba1:
 
     # Ad normal b "You told me you would stay outside and watch it all unfold before your eyes. Maybe that's what I'll do."
-    Ad normal b "Tu m'as dit que tu resterai dehors pour voir les choses se dérouler. C'est peut-être ce que je ferais."
+    Ad normal b "Tu m'as dit que tu resterais dehors pour voir les choses se dérouler. C'est peut-être ce que je ferais."
 
 # game/adine5.rpy:389
 translate french _call_endingjustafewminuteslater_4_3f513a97:
 
     # c "You won't have to see it. Not if I get to have any say in this."
-    c "Tu n'auras pas à voir tout ça, pas si je peux faire la différence."
+    c "Tu n'auras pas à voir tout ça. Pas si je peux faire la différence."
 
 # game/adine5.rpy:393
 translate french _call_endingjustafewminuteslater_4_c56ac232:
@@ -514,7 +514,7 @@ translate french _call_endingjustafewminuteslater_4_3f513a97_1:
 translate french _call_endingjustafewminuteslater_4_e64367db:
 
     # Ad sad b "Can't I just come with you?"
-    Ad sad b "[player_name], je peux venir avec toi ?"
+    Ad sad b "Je ne pourrais pas juste venir avec toi ?"
 
 # game/adine5.rpy:400
 translate french _call_endingjustafewminuteslater_4_c70d6beb:
@@ -532,19 +532,19 @@ translate french _call_endingjustafewminuteslater_4_3a48fa0a:
 translate french _call_endingjustafewminuteslater_4_35472d36:
 
     # c "Don't worry, I'll be back before you realize it and nothing will have happened."
-    c "Ne t'inquiète pas, je serai de retour avant même que tu ne te rendes compte de quoi que ce soit. Rien de tout ça ne se sera produit pour toi."
+    c "Ne t'inquiète pas, je serai de retour avant même que tu ne te rendes compte de quoi que ce soit et rien de tout ça ne se sera produit."
 
 # game/adine5.rpy:406
 translate french _call_endingjustafewminuteslater_4_054b3100:
 
     # Ad normal b "I'll wait for you."
-    Ad normal b "Alors je t'attendrai de l'autre côté, [player_name]."
+    Ad normal b "Je t'attendrai."
 
 # game/adine5.rpy:545
 translate french _call_syscheck_92_7d7e9e55:
 
     # s "You have seen Adine's bad ending!"
-    s "Vous avez vu la mauvaise fin d'Adine."
+    s "Vous avez vu la mauvaise fin d'Adine !"
 
 # game/adine5.rpy:562
 translate french adinegoodending_7342b0c0:
