@@ -550,19 +550,19 @@ translate french _call_syscheck_92_7d7e9e55:
 translate french adinegoodending_7342b0c0:
 
     # Rz "I mean, what are you going to do? You can't stop me now, anyway."
-    Rz "Je veux dire, qu'est-ce que t'as en tête, hein ? Tu ne peux plus m'arrêter de toute façon !"
+    Rz "Je veux dire, qu'est-ce que tu vas faire ? Tu ne peux plus m'arrêter de toute façon !"
 
 # game/adine5.rpy:568
 translate french adinegoodending_da4aabc0:
 
     # m "He pulled out his gun and pointed it at me."
-    m "Il a sorti son arme et l'a pointé dans ma direction."
+    m "Il sortit son arme et la pointa dans sur moi."
 
 # game/adine5.rpy:570
 translate french adinegoodending_3f17b170:
 
     # c "Reza, wait! Why can't we just talk about this?"
-    c "Reza, attends ! Pourquoi on ne peut pas just en parler ?"
+    c "Reza, attends ! On ne pourrait pas juste en parler ?"
 
 # game/adine5.rpy:572
 translate french adinegoodending_e29c2e4d:
@@ -598,55 +598,55 @@ translate french adinegoodending_e73fb62c:
 translate french adinegoodending_65b3222c:
 
     # Rz annoyed "They're probably already on their way."
-    Rz annoyed "Ils sont probablement déjà en route..."
+    Rz annoyed "Ils sont probablement déjà en route."
 
 # game/adine5.rpy:598
 translate french adinegoodending_4ebd8ca6:
 
     # m "Suddenly, Reza shot me in the leg, causing me to fall over and squirm in pain." with vpunch
-    m "Brusquement, j'ai senti une douleur atroce dans la jambe et me suis effondré. Reza venait de me tirer dessus." with vpunch
+    m "Soudainement, Reza me tira dans la jambe, me faisant m'effondrer au sol et me tordre de douleur." with vpunch
 
 # game/adine5.rpy:624
 translate french adinegoodending_2f14a3e7:
 
     # m "I saw Reza running to the box containing the generator. He lifted it up using both of his hands before making his way towards the exit as fast as he could."
-    m "Je l'ai vu se précipiter vers la boite contenant le générateur, il l'a prise à deux main avant de rejoindre la sortie aussi vite que possible."
+    m "Je le vit se précipiter vers la boîte contenant le générateur, il la prit à deux main avant de rejoindre la sortie aussi vite que possible."
 
 # game/adine5.rpy:630
 translate french adinegoodending_34815cf8:
 
     # m "When Reza got close to the entrance, I saw a flurry of grey zipping past me with a thunderous gallop."
-    m "Alors que Reza était proche de l'entrée, j'ai vu une masse grise passer devant moi à toute allure."
+    m "Alors que Reza était proche de l'entrée, je vis une masse grise passer devant moi à toute allure."
 
 # game/adine5.rpy:646
 translate french adinegoodending_dc9adf37:
 
     # m "I looked towards Reza who turned around, dropped the box, and grabbed his pistol."
-    m "J'ai regardé Reza, il s'est alors retourné, a lâché la boite pour s'emparer de son arme."
+    m "Je regardais en direction de Reza, qui se retourna, lâcha la boite et s'empara de son arme."
 
 # game/adine5.rpy:674
 translate french adinegoodending_c262cf28:
 
     # m "It was Maverick, who pounced immediately. Reza fell to the ground, and before he could so much as react, Maverick buried his teeth in Reza's neck and bit down."
-    m "C'était Maverick qui foncait droit sur lui. Reza a trébuché, et avant qu'il n'ai le temps de faire quoi que ce soit, le dragon l'avait attrapé à la gorge de sa solide mâchoire."
+    m "C'était Maverick qui foncait droit sur lui. Reza trébucha, et avant qu'il n'eut le temps de faire quoi que ce soit, le dragon l'avait attrapé à la gorge pour le mordre."
 
 # game/adine5.rpy:676
 translate french adinegoodending_b338360e:
 
     # m "Reza slumped instantly and didn't move again."
-    m "Avant même que je ne comprenne, Reza s'est affaissé, et n'a plus bougé."
+    m "Avant même que je ne comprenne, Reza s'affaissa, et ne bougeait déjà plus."
 
 # game/adine5.rpy:686
 translate french adinegoodending_ac835e18:
 
     # m "Then, Adine appeared and called out to Maverick."
-    m "Puis, Adine est arrivée, elle a appelé Maverick."
+    m "Puis, Adine arriva et interpella Maverick."
 
 # game/adine5.rpy:690
 translate french adinegoodending_4b1c5c8c:
 
     # Ad "Why did you have to kill him?"
-    Ad "Pourquoi l'avez-vous tué ?"
+    Ad "Pourquoi vous étiez obligé de le tuer ?"
 
 # game/adine5.rpy:698
 translate french adinegoodending_922474af:
@@ -664,19 +664,19 @@ translate french adinegoodending_cfdce6cd:
 translate french adinegoodending_9354b068:
 
     # Ad "[player_name]! Are you alright?"
-    Ad "[player_name] ! Comment tu te sens ?"
+    Ad "[player_name] ! Tu vas bien ?"
 
 # game/adine5.rpy:704
 translate french adinegoodending_7d0b35bd:
 
     # c "He got me in the leg. Maybe there's a first aid kit in one of these rooms."
-    c "Il m'a blessé à la jambe. Je ne serais pas surpris qu'il y ai une trousse de secours dans une de ces pièces."
+    c "Il m'a blessé à la jambe. Peut être qu'il y a une trousse de secours dans une de ces pièces."
 
 # game/adine5.rpy:710
 translate french adinegoodending_56341089:
 
     # m "Adine went into one of the adjoining rooms, only to reappear with a first aid kit shortly afterwards."
-    m "Adine a alors cherché dans les salles alentours, puis est très vite revenue à moi avec un nécessaire de soin."
+    m "Adine alla alors chercher dans les salles alentours, puis revint très vite vers moi avec un nécessaire de soin."
 
 # game/adine5.rpy:714
 translate french adinegoodending_46ac73c9:
@@ -688,32 +688,31 @@ translate french adinegoodending_46ac73c9:
 translate french adinegoodending_aa5d2b2e:
 
     # c "You could tell me what took you so long."
-    c "Je pensais que tu n'avais trouvé personne... Pourquoi vous avez mis tant de temps ?"
+    c "Vous pourriez me dire ce qui vous a pris tant de temps."
 
 # game/adine5.rpy:718
 translate french adinegoodending_c15dbd2d:
 
     # Ad normal b "Well, at first, Maverick wanted to storm the place head-on, but then I remembered the map you gave me and the other entrance. We heard you two talking and figured we could surprise him if we went in the other way."
-    Ad normal b "Je suis désolée, c'est de ma faute. Maverick voulait arriver par la même entrée que toi, mais je me suis souvenu de l'autre entrée indiquée sur la carte."
-    Ad "On vous a entendu parler, alors on s'est dit qu'on pouvait profiter de l'effet de surprise pour attraper Reza."
+    Ad normal b "Eh bien au début Maverick voulait arriver par la même entrée que toi, mais je me suis souvenu de l'autre entrée indiquée sur la carte. On vous a entendu parler, alors on s'est dit qu'on pouvait profiter de l'effet de surprise pour attraper Reza."
 
 # game/adine5.rpy:720
 translate french adinegoodending_feb7e810:
 
     # c "I guess I shouldn't be complaining then, because this could have turned out so much worse. Well done, Adine."
-    c "Je suppose que je n'ai rien à te repprocher alors, ça aurait être bien pire. Excellent travail Adine."
+    c "Je suppose que je n'ai rien à te reprocher alors, ça aurait pu être bien pire. Excellent travail Adine."
 
 # game/adine5.rpy:722
 translate french adinegoodending_499b29db:
 
     # Ad disappoint b "We probably should be getting you some real help."
-    Ad disappoint b "Merci, mais on doit quand même te soigner ça."
+    Ad disappoint b "Merci, mais on devrait quand même aller te chercher de l'aide."
 
 # game/adine5.rpy:734
 translate french adinegoodending_38aecece:
 
     # m "She turned to Maverick."
-    m "Elle s'est avancé vers la sortie, mais Maverick n'a pas bougé."
+    m "Elle se tourna vers Maverick."
 
 # game/adine5.rpy:736
 translate french adinegoodending_804f14af:
@@ -725,7 +724,7 @@ translate french adinegoodending_804f14af:
 translate french adinegoodending_3a6c9bd8:
 
     # c "Maybe he thinks I'm going to take the generator while you're gone."
-    c "Il croit peut-être que je vais prendre le générateur quand vous aurez le dos tourné."
+    c "Il croit peut-être que je vais prendre le générateur dès que vous serez partis."
 
 # game/adine5.rpy:740
 translate french adinegoodending_432b057c:
@@ -737,19 +736,19 @@ translate french adinegoodending_432b057c:
 translate french adinegoodending_a8f40d53:
 
     # Mv "Guess you really wanted to stop Reza. My apologies."
-    Mv "Je suppose que tu cherchais vraiment à arrêter Reza depuis le début. Dans ce cas, je suis désolé [player_name]."
+    Mv "Je suppose que tu cherchais vraiment à arrêter Reza depuis le début. Je suis désolé."
 
 # game/adine5.rpy:762
 translate french adinegoodending_fe130623:
 
     # m "He turned and they both left."
-    m "Il s'est retourné, et ils sont partis tout les deux."
+    m "Il se retourna, et ils partirent tout les deux."
 
 # game/adine5.rpy:764
 translate french adinegoodending_35993393:
 
     # m "Shortly thereafter, the Administrator appeared and came towards me."
-    m "Peu de temps après, l'Administrateur est arrivé et est venu me voir."
+    m "Peu de temps après, l'Administrateur apparut et vint me voir."
 
 # game/adine5.rpy:770
 translate french adinegoodending_d98ff4fc:
@@ -761,37 +760,37 @@ translate french adinegoodending_d98ff4fc:
 translate french adinegoodending_9b8e3f85:
 
     # As "How ironic that you would remember her name now."
-    As "Quelle ironie, maintenant tu te souviens de ce nom."
+    As "Quelle ironie que tu te souviennes de son nom que maintenant."
 
 # game/adine5.rpy:774
 translate french adinegoodending_25a5cde4:
 
     # As "Besides, it didn't seem like you really needed me. Good job."
-    As "Mais le plus important, c'est que tu n'as pas eu besoin de moi ce coup-ci."
+    As "Mais le plus important, c'est que tu n'as pas eu besoin de moi ce coup-ci. Beau boulot."
 
 # game/adine5.rpy:776
 translate french adinegoodending_4440f173:
 
     # c "Her name? What are you talking about?"
-    c "Attendez, \"ce nom\" ? Qu'est-ce que ça veux dire ? Ce n'est pas votre vrai nom ? Et votre voix ?..."
+    c "Son nom ? Qu'est-ce que ça veux dire ?"
 
 # game/adine5.rpy:778
 translate french adinegoodending_18903a05:
 
     # As "I'm not Izumi."
-    As "Non, je ne suis pas Izumi."
+    As "Je ne suis pas Izumi."
 
 # game/adine5.rpy:786
 translate french adinegoodending_aa885828:
 
     # m "The person I thought was the Administrator took off the mask, only to reveal a strangely familiar face underneath."
-    m "L'individu a retiré son masque, révélant un visage qui m'était étrangement familier."
+    m "L'individu que je pensais être l'administrateur retira son masque, révélant un visage qui m'était étrangement familier."
 
 # game/adine5.rpy:788
 translate french adinegoodending_25cb0b08:
 
     # m "The person before me had a face that looked exactly like mine, down to the tiniest detail. It was like looking into a mirror or at a twin. It was me."
-    m "Celui qui se trouvait devant moi avant un visage parfaitement identique au mien. J'eux l'impression de voir mon reflet sous cette cape, c'était exactement moi."
+    m "Celui qui se trouvait devant moi avait un visage parfaitement identique au mien. J'eus l'impression de voir mon reflet ou un jumeau. C'était moi."
 
 # game/adine5.rpy:796
 translate french adinegoodending_6eb90be3:
@@ -803,19 +802,19 @@ translate french adinegoodending_6eb90be3:
 translate french adinegoodending_e62f400f:
 
     # c "How is this possible?"
-    c "Que... Mais comment c'est possible ?"
+    c "Comment est-ce possible ?"
 
 # game/adine5.rpy:800
 translate french adinegoodending_2a15b403:
 
     # As "It's complicated. By now, I guess you know that this always ends with you travelling back in time when something goes wrong."
-    As "C'est très compliqué, et ça me prendrait des lustres à t'expliquer. Mais tu as dû comprendre que, lorsque ça ne se termine pas comme on le veux vraiment, ça se fini toujours pas un voyage dans le temps. N'est-ce pas ?"
+    As "C'est compliqué. Mais tu as dû comprendre que ça se fini toujours par nous qui un voyageons dans le temps quand quelque chose se passe mal."
 
 # game/adine5.rpy:802
 translate french adinegoodending_1586b2d9:
 
     # As "When I was in your position, Izumi died during our confrontation with Reza, and as all the experience from all the different attempts vanished with her, I decided I had to become the person who would oversee the next one."
-    As "Quand j'étais à ta place, dans cette chronologie, Izumi est morte pendant notre confrontation avec Reza. Comme tout ce qu'on avait accompli jusqu'à maintenant s'était évanoui avec elle, j'ai décidé que je serais l'Administrateur."
+    As "Quand j'étais à ta place, Izumi est morte pendant notre confrontation avec Reza, et comme toute l'expérience accumulé des différentes tentatives s'était évanoui avec elle, j'ai décidé que je serais l'Administrateur."
 
 # game/adine5.rpy:804
 translate french adinegoodending_e34c1126:
@@ -827,7 +826,7 @@ translate french adinegoodending_e34c1126:
 translate french adinegoodending_a7671126:
 
     # As "Luckily, she left a lot behind to help me, and I executed her plan just as she would."
-    As "Heureusement, elle a laissé beaucoup de trucs derrière elle pour m'aider, et j'ai exécuté son plan comme elle l'aurait fait."
+    As "Heureusement, elle a laissé beaucoup de choses derrière elle pour m'aider, et j'ai exécuté son plan comme elle l'aurait fait."
 
 # game/adine5.rpy:810
 translate french adinegoodending_2fc1d6c7:
@@ -839,7 +838,7 @@ translate french adinegoodending_2fc1d6c7:
 translate french adinegoodending_f85ecedc:
 
     # As "Well, with the generators still intact, we will have no trouble diverting the comet and saving this world, but I also know that you feel very strongly about executing the mission you were sent here for."
-    As "Eh bien, avec les générateurs encore intacts, on n'aura pas de soucis pour détourner la comète si les dragons exécutent parfaitement leurs plans. Mais je sais que tu tiens aussi à réussir ta mission de base, à savoir, sauver les humains."
+    As "Eh bien, avec les générateurs encore intacts, on n'aura pas de soucis pour détourner la comète et sauver ce monde. Mais je sais que tu tiens aussi à réussir la mission pour laquelle on t'a envoyé ici."
 
 # game/adine5.rpy:814
 translate french adinegoodending_592747cc:
@@ -857,7 +856,7 @@ translate french adinegoodending_3070bc42:
 translate french adinegoodending_ab7edf21:
 
     # As "As outlined in Izumi's plan, I deleted the coordinates that would lead back to humanity's portal when I repaired this one, replacing them with coordinates to travel back in time to the day of your arrival in this world."
-    As "Comme indiqué dans le plan d'Izumi, j'ai effacé les coordonnées de notre monde lorsque j'ai réparé le portail l'autre jour. Je les ai remplacées par les coordonnées du portail de ce monde, mais à une époque différente : le jour où tu es arrivé ici."
+    As "Comme indiqué dans le plan d'Izumi, j'ai effacé les coordonnées de notre monde lorsque j'ai réparé ce portail. Je les ai remplacées par les coordonnées servant à remonter dans le temps au jour de ton arrivée dans ce monde."
 
 # game/adine5.rpy:820
 translate french adinegoodending_64686105:
@@ -869,13 +868,13 @@ translate french adinegoodending_64686105:
 translate french adinegoodending_90f66186:
 
     # c "Are you saying we could've saved humanity if you just didn't remove those coordinates?"
-    c "Tu veux dire que si tu n'avais pas fait ça, on aurait encore pu contacter l'humanité ?"
+    c "Es-tu en train de me dire qu'on aurait pu sauver l'humanité si tu n'avais pas juste effacer les coordonnées ?"
 
 # game/adine5.rpy:824
 translate french adinegoodending_548f005e:
 
     # As "I'm afraid so."
-    As "J'assume mes conneries. Oui, si je n'avais pas supprimé les coordonés, on aurait pu."
+    As "J'en ai bien peur."
 
 # game/adine5.rpy:826
 translate french adinegoodending_1554684f:
@@ -887,25 +886,25 @@ translate french adinegoodending_1554684f:
 translate french adinegoodending_d599bd66:
 
     # As "I didn't realize it would come to this. I just executed her plan as she would have. I can understand her reasoning for it, though."
-    As "Je n'avais pas réalisé qu'on en arriverait jusqu'à là. J'ai exécuté son plan en prenant toute les précautions qu'elle y indiquait. Je peux comprendre maintenant pourquoi son raisonnement."
+    As "Je n'avais pas réalisé qu'on en arriverait jusque là. J'ai exécuté son plan comme elle l'indiquait. Je peux comprendre maintenant son raisonnement, en revanche."
 
 # game/adine5.rpy:830
 translate french adinegoodending_b85d5ecc:
 
     # As "It presents an extraordinary risk. Eliminating these coordinates also eliminates the possibility of Reza getting away through the portal and taking the generator we need with him."
-    As "En fait, elle avait prévu cette précaution de peur que Reza puisse rejoindre l'humanité en emportant le générateur avec lui, et priver ce monde de son unique chance d'éviter le cataclsyme qui l'attends."
+    As "Cela présente un risque extraordinaire. Supprimer ces coordonnées élimine également la possibilité pour Reza de s'enfuir à travers le portail en prenant nos générateurs avec lui."
 
 # game/adine5.rpy:832
 translate french adinegoodending_67778994:
 
     # c "Why not just tie them to my biometric data like the coordinates we need to travel back in time?"
-    c "Pourquoi ne pas avoir bloqué les coorconnées de notre monde sur nos propres données biométriques, comme pour les coordonnées du jour où on est arrivé ici ? On aurait été les seuls à pouvoir rejoindre l'humanité."
+    c "Pourquoi ne pas juste les lier à mes données biométriques comme les coordonnées pour remonter dans le temps ?"
 
 # game/adine5.rpy:834
 translate french adinegoodending_f8021a84:
 
     # As "That wouldn't be much help, because in scenarios where Reza escapes with the generator, he wouldn't hesitate to kill you to take what he needs to bypass the biometrics scan and use the portal anyway."
-    As "Non, trop risqué. Dans un scénario où Reza parvient à s'échapper, il n'hésite pas à faire tout ce qu'il faut pour arriver à ses fins. Te tuer pour contourner le scan y compris."
+    As "Ca n'aidera pas, car dans un scénario où Reza parvient à s'échapper, il n'hésite pas à faire tout ce qu'il faut pour arriver à ses fins. Te tuer pour contourner le scan biométrique y compris."
 
 # game/adine5.rpy:836
 translate french adinegoodending_78b89aba:
@@ -917,31 +916,31 @@ translate french adinegoodending_78b89aba:
 translate french adinegoodending_640c0e24:
 
     # As "Can we really take that risk? You know that if we fail badly enough even once - if the portal gets destroyed, or if both the Administrator and you die - there won't be any more chances."
-    As "Tu crois qu'on doit prendre ce risque ? Tu sais que si on échoue complètement, même juste une fois, si l'Administrateur, ou toi êtes tués, si le portail est détruit, c'en est fini de notre mission."
+    As "Tu crois qu'on peut prendre ce risque ? Tu sais que si on échoue complètement, même juste une fois - si l'Administrateur, et toi êtes tués tous les deux ou si le portail est détruit - Il n'y aura plus de prochaine fois."
 
 # game/adine5.rpy:840
 translate french adinegoodending_7f22713c:
 
     # c "If you have seen what goes on from the Administrator's side during my stay here, I suppose you should be the one to decide that."
-    c "Je comprends. Si en assumant le rôle de l'Administrateur, tu as vu et subit tout ce qu'à vu et subit Izumi, alors c'est probablement à toi de décider."
+    c "Si en assumant le rôle de l'Administrateur, tu as vu et subit tout ce qu'à vu et subit Izumi durant mon séjour ici, alors c'est probablement à toi de décider."
 
 # game/adine5.rpy:842
 translate french adinegoodending_edf25754:
 
     # c "That still doesn't address the question of what we should do now, though."
-    c "Mais ça ne nous dit pas ce qu'on doit faire. On est deux [player_name] dans une seule et même chronologie."
+    c "Mais en revanche, ça ne nous dit pas ce qu'on devrait faire maintenant."
 
 # game/adine5.rpy:844
 translate french adinegoodending_080e140d:
 
     # As "If we want to make this happen, one of us will have to go back and do this all over again."
-    As "Si on veux saisir la chance de réussir nos missions, l'un d'entre nous doit y retourner."
+    As "Si on veux saisir la chance de réussir complètement, l'un d'entre nous doit y retourner et tout recommencer."
 
 # game/adine5.rpy:846
 translate french adinegoodending_2050d780:
 
     # c "And what happens to the other?"
-    c "Et qu'est-ce qui va arriver aux autres ?"
+    c "Et qu'est-ce qui va arriver à l'autre ?"
 
 # game/adine5.rpy:848
 translate french adinegoodending_11e3141d:
@@ -959,32 +958,31 @@ translate french adinegoodending_07134479:
 translate french adinegoodending_1e24506d:
 
     # As "I wish I could stay with her. All she does for the orphans... I wish I could be part of that."
-    As "J'aimerai rester à ses côtés. Je n'ai pas envie de la laisser seul avec les petits orphelins, j'aimerai l'aider."
+    As "J'aimerai rester à ses côtés. Tout ce qu'elle fait pour les orphelins... J'aimerais faire partie de ça."
 
 # game/adine5.rpy:854
 translate french adinegoodending_ae6bff74:
 
     # As "I wish I could be done with this already and settle down, but someone has to go back and ensure we can reach the outcome both of us want. No matter if it's you or me, one of us has to do it."
-    As "J'aimerai avoir terminé tout ça et me poser tu sais. Mais quelqu'un doit finir le boulot qu'on a commencé, on ne peux pas se contenter d'une demi victoire et du sort des nôtres."
-    As "Peu importe que ce soit toi ou moi, l'un de nous doit s'y coller."
+    As "J'aimerais en finir avec tout ça et me poser, mais quelqu'un doit repartir et s'assurer qu'on puisse atteindre la meilleure issue. Peu importe si c'est toi ou moi l'un de nous doit le faire."
 
 # game/adine5.rpy:856
 translate french adinegoodending_4fd5e1db:
 
     # As "Otherwise, all those we know back home, they... I don't think I need to tell you."
-    As "Tu sais ce qui attends les nôtres n'est-ce pas ? Inutile que je te fasse un dessin."
+    As "Autrement, tout ceux qui nous attendent à la maison ils... Inutile que je te fasse un dessin."
 
 # game/adine5.rpy:858
 translate french adinegoodending_0fb1d618:
 
     # c "Why are you making me think of those who suffer?"
-    c "Pourquoi tu me fais justement penser à eux ?"
+    c "Pourquoi tu me fais justement penser à ceux qui souffrent ?"
 
 # game/adine5.rpy:860
 translate french adinegoodending_ae4d1d1e:
 
     # As "You'll never forget them, and if you don't do this, it will haunt you. I know."
-    As "Parce que tu ne les oublieras jamais. Si tu acceptes leur sort, tu finiras par le regretter crois moi."
+    As "Tu ne les oublieras jamais et si tu ne le fais pas, ça te hantera. Je le sais."
 
 # game/adine5.rpy:862
 translate french adinegoodending_02446e04:
@@ -1002,7 +1000,7 @@ translate french adinegoodending_7ddc9e4e:
 translate french adinegoodending_15093913:
 
     # c "And of course you want me to do it so you can stay here, huh?"
-    c "Et bien sûr, tu veux que je me cogne le sale boulot pendant que tu restes ici ?"
+    c "Et bien sûr, tu veux que je m'en charge pendant que tu restes ici ?"
 
 # game/adine5.rpy:868
 translate french adinegoodending_a8cb0d66:
@@ -1014,7 +1012,7 @@ translate french adinegoodending_a8cb0d66:
 translate french adinegoodending_de1501fb:
 
     # c "Don't we both?"
-    c "On pense la même chose, tu n'en a pas l'impression ?"
+    c "On pense la même chose ?"
 
 # game/adine5.rpy:872
 translate french adinegoodending_95c10cd4:
@@ -1050,7 +1048,7 @@ translate french adinegoodending_679f6963:
 translate french adinegoodending_f8ae7d42:
 
     # As "I don't know."
-    As "J'en ai absolument aucune idée."
+    As "Aucune idée."
 
 # game/adine5.rpy:1004
 translate french adinegoodending_3b8e9f61:
@@ -1068,13 +1066,13 @@ translate french adinegoodending_6a74dade:
 translate french adinegoodending_4f38b038:
 
     # Ad disappoint b "Just losing the connection to humanity's portal... How is that even possible?"
-    Ad disappoint b "Perdre la connection avec l'humanité, comment c'est possible ?"
+    Ad disappoint b "Perdre la connection avec l'humanité... Comment c'est possible ?"
 
 # game/adine5.rpy:1010
 translate french adinegoodending_2b866170:
 
     # c "I don't know. Maybe we'll never be able to re-establish contact."
-    c "Je ne sais pas. Et malheureusement, il est possible qu'on ne puisse jamais réétablir le contact avec eux."
+    c "Je ne sais pas. Et il est possible qu'on ne puisse jamais réétablir le contact avec eux."
 
 # game/adine5.rpy:1012
 translate french adinegoodending_6d6f3159:
@@ -1128,7 +1126,7 @@ translate french adinegoodending_3079022a:
 translate french adinegoodending_9d43b089:
 
     # Ad "I'm sure of it! The people from the orphanage should be here any minute now."
-    Ad "J'en suis sûre ! D'ailleurs, tout ceux de l'orphelinat devraient arriver d'une minute à l'autre."
+    Ad "J'en suis sûre ! D'ailleurs, les gens de l'orphelinat devraient arriver d'une minute à l'autre."
 
 # game/adine5.rpy:1030
 translate french adinegoodending_da51e021:
@@ -1146,13 +1144,13 @@ translate french adinegoodending_ae56a84f:
 translate french adinegoodending_255f2038:
 
     # c "Not a dragon, that's for sure."
-    c "Pas pour surveiller des dragonnets !"
+    c "Pas pour surveiller des dragonnets, ça c'est sûr."
 
 # game/adine5.rpy:1036
 translate french adinegoodending_b8ea7ec5:
 
     # Ad normal b "Don't worry, I'll be here with you the whole time. But you'll have to be very careful, alright?"
-    Ad normal b "Ne t'inquiète pas, je reste avec toi. Quand même il faudra que tu fasses attention, d'accord ?"
+    Ad normal b "Ne t'inquiète pas, je serai avec toi tout le temps. Quand même il faudra que tu fasses attention, d'accord ?"
 
 # game/adine5.rpy:1038
 translate french adinegoodending_4e8c7062:
@@ -1164,7 +1162,7 @@ translate french adinegoodending_4e8c7062:
 translate french adinegoodending_ffa22710:
 
     # Ad "I guess it's time. Are you ready?"
-    Ad "Bon, c'est parti alors ?"
+    Ad "Bon, c'est parti alors. Tu es prêt ?"
 
 # game/adine5.rpy:1045
 translate french adinegoodending_d19f855d:
@@ -1172,42 +1170,11 @@ translate french adinegoodending_d19f855d:
     # c "..."
     c "..."
 
-# Mod de Many
-
-    if adinestatus == "good":
-
-        hide adine with dissolve
-
-        m "J'étais un peu perdu dans mes pensées, à me demander comment je devais réagir, quand Adine s'est approchée pour me déposer une petite lèche sur la joue. Elle est restée quelques secondes près de moi, me caressant agréablement la joue du bout de son museau."
-
-        play sound "fx/purr.ogg"
-
-        m "J'ai alors entendu son doux ronronnement. Sa proximité, ce son apaisant et ses douces écailles m'ont littéralement fait frissonner de plaisir."
-
-        Ad giggle b "Ça devrait te motiver un peu..."
-
-        show adine giggle b with dissolve
-
-        stop sound fadeout 0.5
-
-        m "Elle s'est finalement écartée, elle avait sur moi un regard confiant."
-
-        Ad normal b "Tu as sauvé notre monde d'un monstrueux caillou de l'espace, tu devrais t'en sortir avec des petites terreurs pleine d'écailles, tu ne crois pas ?"
-
-        c "Tu as raison. Merci ma puce."
-
-    else:
-
-        m "J'étais un peu perdu dans mes pensées, à me demander comment je devais réagir. Finalement, j'ai pris une grande inspiration, et ai posé ma main sur la poignée de la porte."
-
-# fin mod
-
-
 # game/adine5.rpy:1047
 translate french adinegoodending_3275e9ef:
 
     # c "I think so."
-    c "C'est parti, je suis paré."
+    c "Je crois."
 
 # game/adine5.rpy:1079
 translate french _call_syscheck_93_d2f60f9d:
