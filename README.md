@@ -20,7 +20,7 @@ help ✔✔<br/>
 images ✔<br/>
 script ✔<br/>
 chapter1 ✔<br/>
-adine1 ✔<br/>
+adine1 ✔✔<br/>
 lorem1 ✔✔<br/>
 anna1 ✔✔<br/>
 bryce1 ✔<br/>
@@ -44,7 +44,7 @@ lorem3 ✔<br/>
 remy3 ✔<br/>
 xkatsu ✔<br/>
 chapter4 ✔<br/>
-adine4 ✔<br/>
+adine4 ✔✔<br/>
 anna4 ✔✔<br/>
 bryce4 ✔<br/>
 lorem4 ✔<br/>
@@ -52,7 +52,7 @@ remy4 ✔<br/>
 xkevin ✔<br/>
 chapter5 ✔✔<br/>
 chapter5evilending ✔<br/>
-adine5 ✔<br/>
+adine5 ✔✔<br/>
 anna5 ✔✔<br/>
 bryce5 ✔<br/>
 lorem5 ✔<br/>
