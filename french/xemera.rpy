@@ -198,31 +198,31 @@ translate frenchtl _call_skipcheck_19_64f5f24a:
 translate frenchtl _call_skipcheck_19_6bd9d3ac:
 
     # Em ques "One term of being stuck behind a desk with my paperwork. At least I get to do something where I can make a difference, even if that doesn't happen very often. {i}Culture & Arts{/i} don't exactly give me much room for doing what I'd want to, you know."
-    Em ques "Un mandat coincé derrière ce bureau avec mes dossiers. Au moins je fait quelque chose ou je peux faire la différence, même si c'est peu courant. {i}La Culture et les Arts{/i} ne me donne pas vraiment la palce de faire ce que je veux, vous savez. "
+    Em ques "Un mandat coincé derrière ce bureau avec mes dossiers. Au moins je fais quelque chose ou je peux faire la différence, même si c'est peu courant. {i}La Culture et les Arts{/i} ne me donne pas vraiment la place de faire ce que je veux, vous savez. "
 
 # game/xemera.rpy:210
 translate frenchtl _call_skipcheck_19_74365a57:
 
     # Em normal "Still, I prefer stacks of papers and meetings to working in a mine and pulling carts or logs, or whatever else they would have us earth dragons typically do."
-    Em normal "Toujours est il que je préfére les piles de papiers et les rendez-vous plutôt que de travailler dans une mine a pousser des chariots, ou toute activité typique des dragons terrestre."
+    Em normal "Toujours est-il que je préfère les piles de papiers et les rendez-vous plutôt que de travailler dans une mine a pousser des chariots, ou toute activité typique des dragons terrestre."
 
 # game/xemera.rpy:212
 translate frenchtl _call_skipcheck_19_6889a854:
 
     # Em ques "When I look at those who have to do hard manual labor, I can't help but feel empathy towards them. I'm impressed by their tenacity to work in conditions that I would never want to. I wish to help them."
-    Em ques "Lorsque je vois les travailleurs manuel, je ne peux rien faire d'autre que de ressentir de l'empathie a leur égard. Je suis impressionné par leur tenacité dans de tels conditions. J'aimerais pouvoir les aidés."
+    Em ques "Lorsque je vois les travailleurs manuel, je ne peux m'empêcher de ressentir de l'empathie a leur égard. Je suis impressionné par leur tenacité dans de telless conditions. J'aimerais pouvoir les aider."
 
 # game/xemera.rpy:214
 translate frenchtl _call_skipcheck_19_84395b9f:
 
     # c "What about those who enjoy that kind of work?"
-    c "Et pour ceux qui aiment ce genre de travail?"
+    c "Et pour ceux qui aiment ce genre de travail ?"
 
 # game/xemera.rpy:216
 translate frenchtl _call_skipcheck_19_07da6f38:
 
     # Em normal "Sure, but I'm not talking about them. I'm talking about those like myself who are just not cut out for that kind of job."
-    Em normal "Oui, mais je ne parle pas d'eux. Je parle de ceux qui comme moi ne sont fait pour ce type de tâches."
+    Em normal "Oui, mais je ne parle pas d'eux. Je parle de ceux qui comme moi ne sont pas fait pour ce type de tâches."
 
 # game/xemera.rpy:218
 translate frenchtl _call_skipcheck_19_e6c0f7d6:
@@ -234,13 +234,13 @@ translate frenchtl _call_skipcheck_19_e6c0f7d6:
 translate frenchtl _call_skipcheck_19_79b218c0:
 
     # c "Was it just that - an opportunity?"
-    c "Seulement une opportunité?"
+    c "Seulement une opportunité ?"
 
 # game/xemera.rpy:222
 translate frenchtl _call_skipcheck_19_49c3b5d5:
 
     # Em ques "Of course not. I have been a staunch believer in {i}humanism{/i} for a long time."
-    Em ques "Bien sûr que non. Je suis depuis longtemps une fervante croyante en l'{i}humanisme{/i}."
+    Em ques "Bien sûr que non. Je suis depuis longtemps une fervante croyante de l'{i}humanisme{/i}."
 
 # game/xemera.rpy:224
 translate frenchtl _call_skipcheck_19_5c937951:
@@ -264,49 +264,49 @@ translate frenchtl _call_skipcheck_19_89aefe22_1:
 translate frenchtl _call_skipcheck_19_2036f6ad:
 
     # Em ques "Some people say I only took this matter into my hands as just another publicity stunt, but I can assure you my feelings on the matter are genuine regardless."
-    Em ques "Certaines personnes disent que je fait cela pour un nouveau coup  de pub, mais je peux vous assure que mes sentiments sont véritables."
+    Em ques "Certaines personnes disent que je fais cela pour un nouveau coup de pub, mais je peux vous assure que mes sentiments sont désintéressés."
 
 # game/xemera.rpy:232
 translate frenchtl _call_skipcheck_19_57cbe900:
 
     # c "(Pun intended?)"
-    c "(Jeu de mots intentionnels?)"
+    c "(Elle est sérieuse ?)"
 
 # game/xemera.rpy:234
 translate frenchtl _call_skipcheck_19_fb298966:
 
     # Em normal "I would argue that making it a public spectacle only confirms my position on the matter."
-    Em normal "Je souhaite ajouté que le fait d'en faire un spectacle publique ne fait que confirmer ma position sur le sujet."
+    Em normal "Je souhaite ajouter que le fait d'en faire un spectacle publique ne fait que confirmer ma position sur le sujet."
 
 # game/xemera.rpy:236
 translate frenchtl _call_skipcheck_19_453262a4:
 
     # Em frown "In the end, I don't have any hard feelings, because I know the critics are only another part of the job I have to deal with."
-    Em frown "A la fin, je ne fait pas de sentiments car je sais que les critiques sont une autre partie de mon travail."
+    Em frown "A la fin, je ne fais pas de sentiments car je sais que les critiques sont une autre partie de mon travail avec lesquelles je dois traiter."
 
 # game/xemera.rpy:238
 translate frenchtl _call_skipcheck_19_c91d6871:
 
     # Em "You should see how quick they are to jump at my throat and second guess every decision I've ever made. How ironic it is for people like that to have a platform where they can spout their opinions when I'm the one making all the hard decisions."
-    Em "Vous devriez voir comment ils me sautent a la gorge et mettent en question chacune de mes décisions. Quel ironie d'avoir l'opinions de ce genre de média quand c'est a moi que revient les grandes décisions."
+    Em "Vous devriez voir comment ils me sautent a la gorge et remettent en question chacune de mes décisions. Quel ironie d'avoir l'opinion de ce genre de média quand c'est à moi que revient les grandes décisions."
 
 # game/xemera.rpy:240
 translate frenchtl _call_skipcheck_19_a2a70497:
 
     # Em normal "It doesn't matter, though. I know that I will never please everyone, but my numbers do speak for themselves. In the end, it is all just a great self-sacrifice to make a difference."
-    Em normal "Cela ne change rien cependant. Je sais que je ne plairais jamais a tout le monde mais les nombres parle pour moi. C'est se sacrifié pour faire la différence."
+    Em normal "Cela ne change rien cependant. Je sais que je ne plairais jamais à tout le monde mais les nombres parlent pour moi. Au final, c'est juste un grand sacrifice pour faire la différence."
 
 # game/xemera.rpy:242
 translate frenchtl _call_skipcheck_19_8772892c:
 
     # c "Is that why you became a politican?"
-    c "C'est pourquoi vous êtes entrez dans la politique?"
+    c "C'est pourquoi vous êtes entrée en politique ?"
 
 # game/xemera.rpy:244
 translate frenchtl _call_skipcheck_19_bcdbbf24:
 
     # Em ques "I'd like to think it was all preordained. My parents were the vehicle so I could get this far."
-    Em ques "J'aime a penser que cela m'était pré-destiné. Mes parents ont était le facteur qui ma propulsé aussi loin."
+    Em ques "J'aime à penser que cela était pré-destiné. Mes parents ont été le facteur qui m'a propulsé aussi loin."
 
 # game/xemera.rpy:248
 translate frenchtl _call_skipcheck_19_3c5fedb0:
@@ -318,13 +318,13 @@ translate frenchtl _call_skipcheck_19_3c5fedb0:
 translate frenchtl _call_skipcheck_19_ded4e182:
 
     # Em normal "How very perceptive of you. Indeed, I happen to have quite a fondness for it, since Avdon's experience is not unlike my own."
-    Em normal "Quelle perspicacité. J'ai quelques fondements en lui, depuis que l'experience d'Avdon n'est pas sans rappeler la mienne."
+    Em normal "Quelle perspicacité. J'ai quelques fondements en lui, Comme l'experience d'Avdon n'est pas sans rappeler la mienne."
 
 # game/xemera.rpy:256
 translate frenchtl _call_skipcheck_19_8aab4b02:
 
     # Em frown "I always knew I was destined for greatness, just like my parents before me."
-    Em frown "J'ai toujours su que j'étais destiné à la grandeur, comme mes parents avant moi."
+    Em frown "J'ai toujours su que j'étais destinée à la grandeur, comme mes parents avant moi."
 
 # game/xemera.rpy:258
 translate frenchtl _call_skipcheck_19_2c8b9913:
@@ -336,97 +336,97 @@ translate frenchtl _call_skipcheck_19_2c8b9913:
 translate frenchtl _call_skipcheck_19_f0fdbb7b:
 
     # Em frown "I grew up as an only child in a village mostly known for its mining industry. My father was a very business-minded individual. He worked hard to provide for us and advance his career, whereas my mother was more of a... spiritual person."
-    Em frown "J'ai grandi en enfant unique dans un village principalement connu pour son industrue miniére. Mon père avait une idéologie très commercial. Il travaillais dur pour survenir a nos besoins et avancer dans sa carrière, là où ma mère étais plus...spirituel."
+    Em frown "J'ai grandi en enfant unique dans un village principalement connu pour son industrie minière. Mon père étit très commercial. Il travaillait dur pour survenir a nos besoins et avancer dans sa carrière, là où ma mère étais plus...spirituel."
 
 # game/xemera.rpy:262
 translate frenchtl _call_skipcheck_19_596c8cf3:
 
     # Em normal "After years of saving up, they combined their interests and created a new business out of nothing, a gamble that paid off handsomely."
-    Em normal "Après des années à économiser, ils combinerent leurs intérêts et créerent un nouveau buisness à partir de rien, un pari qui a payé."
+    Em normal "Après des années à économiser, ils combinèrent leurs intérêts et créerent un nouveau buisness à partir de rien, un pari qui a payé."
 
 # game/xemera.rpy:264
 translate frenchtl _call_skipcheck_19_374465ec:
 
     # Em frown "I did what was expected of me. I studied and worked hard until I came to resent it. By that point I was at crossroads in regards to my future career."
-    Em frown "J'ai fait ce que l'on attendais de moi. J'ai étudié et travaillé durement jusqu'à arrivé là. De ce point, j'étais au croisement pour choisir ma future carrière."
+    Em frown "J'ai fait ce que l'on attendait de moi. J'ai étudié et travaillé durement jusqu'à le regretter. De ce point, j'étais à la croisée des chemins pour choisir ma future carrière."
 
 # game/xemera.rpy:266
 translate frenchtl _call_skipcheck_19_e7d1f7ca:
 
     # Em ques "My parents wanted me to continue my studies, but I decided against doing that. Studying and working hard so that I may study and work hard ad infinitum wasn't something that was particularly appealing to me."
-    Em ques "Mes parents voulaient que je continue mes études, mais j'en ai décidé autrement. Travailler dur pour travailler dur ne m'interesse pas."
+    Em ques "Mes parents voulaient que je continue mes études, mais j'en ai décidé autrement. Etudier et travailler dur pour étudier et travailler dur ad vitam aeternam ne m'interessait pas des masses."
 
 # game/xemera.rpy:268
 translate frenchtl _call_skipcheck_19_80687a79:
 
     # Em frown "In the end, I didn't see the difference between working hard in the mines and studying perpetually. Instead, I started to look for alternative options."
-    Em frown "A la fin, je ne voyais aps la différence entre travailler dur dans les mines et étudier perpetuellement. C'est là que j'ai commencé a chercher des options alternatives."
+    Em frown "A la fin, je ne voyais pas la différence entre travailler dur dans les mines et étudier perpetuellement. C'est là que j'ai commencé a chercher des options alternatives."
 
 # game/xemera.rpy:270
 translate frenchtl _call_skipcheck_19_9c98c143:
 
     # Em normal "There was an opening for a political position, and I decided to seize the opportunity and applied for it. At the time, I wasn't sure whether to be surprised at the fact that I got the position, but if I look back at it now, it certainly shouldn't have."
-    Em normal "Une position politique c'était libéré, j'ai décidé de saisir l'opportunité et de postuler. Plus tard, je n'ai pas su si je devais m'étonner d'avoir était accepté, mais si j'y prête attention maintenant, je n'aurais pas du l'être."
+    Em normal "Une position politique s'était libéré, j'ai décidé alors de saisir l'opportunité et de postuler. Sur le moment, je ne savais pas si je devais m'étonner d'avoir était accepté, mais en y regardant maintenant, je n'aurais pas dû l'être."
 
 # game/xemera.rpy:272
 translate frenchtl _call_skipcheck_19_69a42678:
 
     # Em frown "I was very qualified for the job, but I also have a feeling that my parents might have persuaded those in power, because they knew this would be another step up for our family."
-    Em frown "J'étais très qualifiée pour le travail, mais j'ai le sentiment que mes parents on peut être persuadé ceux au pouvoir, parcequ'ils savaient que ce serait une nouvelle étape pour notre famille."
+    Em frown "J'étais très qualifiée pour le travail, mais j'ai le sentiment que mes parents ont peut être persuadé ceux au pouvoir, parce qu'ils savaient que ce serait une nouvelle étape pour notre famille."
 
 # game/xemera.rpy:274
 translate frenchtl _call_skipcheck_19_7995a85b:
 
     # c "Persuaded them? How?"
-    c "Les persuader? Comment?"
+    c "Les persuader ? Comment ?"
 
 # game/xemera.rpy:276
 translate frenchtl _call_skipcheck_19_01fa88a8:
 
     # Em normal "This is only speculation, of course, but I wouldnt put it past them to do something like that - no matter if it was with words, gifts or something else."
-    Em normal "Ce ne sont que des speculations, bien sur, mais ce serait leur genre de faire cela - que ce soit avec des paroles, des cadeaux ou autre chose."
+    Em normal "Ce ne sont que des speculations, bien sûr, mais ce serait leur genre de faire cela - que ce soit avec des paroles, des cadeaux ou autre chose."
 
 # game/xemera.rpy:278
 translate frenchtl _call_skipcheck_19_ebf26242:
 
     # c "How has that worked out for you?"
-    c "comment cela a-t-il fonctionné pour vous?"
+    c "Comment cela a-t-il fonctionné pour vous ?"
 
 # game/xemera.rpy:280
 translate frenchtl _call_skipcheck_19_2bd43806:
 
     # Em frown "Now that I am here, the stacks of books have merely been replaced by stacks of paperwork. At least I am popular, though."
-    Em frown "Maintenant que je suis ici, les piles de livres ont simplement était remplacé par des piles de formalités administratives. Au moins je suis populaire, quoique."
+    Em frown "Maintenant que je suis ici, les piles de livres ont simplement été remplacées par des piles de formalités administratives. Au moins je suis populaire, en attendant."
 
 # game/xemera.rpy:282
 translate frenchtl _call_skipcheck_19_4d283eec:
 
     # c "Are you, really?"
-    c "vous l'êtes vraiment?"
+    c "Vous l'êtes vraiment ?"
 
 # game/xemera.rpy:284
 translate frenchtl _call_skipcheck_19_c3000ec8:
 
     # Em mean "I know I am polarizing, but why try to please everyone and accomplish nothing when I know it's impossible to please everyone in the first place?"
-    Em mean "Je sais que je polarise, mais pourquoi essayer de faire plaisir a tout le monde sans rien accomplir quand je sais que c'est impossible de plaire a tout le monde en premier lieu?"
+    Em mean "Je sais que je fait polémique, mais pourquoi essayer de faire plaisir à tout le monde sans rien accomplir quand je sais que c'est impossible de plaire à tout le monde en premier lieu ?"
 
 # game/xemera.rpy:286
 translate frenchtl _call_skipcheck_19_470a4ba3:
 
     # Em normal "It is a departure from the usual way of thinking, and while not liked by everyone, some of my moves have been lauded by a great majority."
-    Em normal "C'est le départ de ma façon de penser habituelle, et même si cela ne réjouis pas tout le monde, certaines de mes décisions ont était loué par une grande majorité."
+    Em normal "C'est le point de départ typique de ma façon de penser, et même si cela ne réjouit pas tout le monde, certaines de mes décisions ont été louées par une grande majorité."
 
 # game/xemera.rpy:288
 translate frenchtl _call_skipcheck_19_bf602990:
 
     # Em frown "My strategy is to take risks that may or may not pay off when I know I have nothing to lose rather than playing it safe and just perpetuating the status quo."
-    Em frown "Ma stratégie est de prendre des risques qui pourrait payer ou ne pas payer lorsque je sais que je n'ai rien a perdre plutôt que de perpetuer le status quo."
+    Em frown "Ma stratégie est de prendre des risques qui pourraient payer ou ne pas payer lorsque je sais que je n'ai rien à perdre plutôt que de perpétuer le status quo."
 
 # game/xemera.rpy:290
 translate frenchtl _call_skipcheck_19_d5f5e4ce:
 
     # c "You have nothing to lose?"
-    c "Vous n'avez rien a perdre?"
+    c "Vous n'avez rien à perdre ?"
 
 # game/xemera.rpy:292
 translate frenchtl _call_skipcheck_19_c140a222:
