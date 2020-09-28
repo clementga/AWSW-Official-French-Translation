@@ -6,7 +6,7 @@
 translate frenchtl emera_e8b28693:
 
     # c "(This should be the right place.)"
-    c "﻿Ce doit être ici."
+    c "Ce doit être ici."
 
 # game/xemera.rpy:31
 translate frenchtl emera_907caeaa:
@@ -24,19 +24,19 @@ translate frenchtl emera_7df80a4a:
 translate frenchtl _call_skiptut_19_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indique que vous avez déjà completé cette scène de manière satisfaisante. Voulez vous avancez jusqu'à la fin?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/xemera.rpy:71
 translate frenchtl _call_skiptut_19_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semblerait que vous ayez déjà vu cela. Passer la scène?"
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/xemera.rpy:79
 translate frenchtl _call_skiptut_19_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Il semblerait que vous ayez déjà vu cela. Vous pouvez regarder à nouveau ou passez la scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passez cette scène."
 
 # game/xemera.rpy:93
 translate frenchtl _call_skiptut_19_0054b77b:
@@ -48,43 +48,43 @@ translate frenchtl _call_skiptut_19_0054b77b:
 translate frenchtl _call_skipcheck_19_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xemera.rpy:121
 translate frenchtl _call_skipcheck_19_22e69623:
 
     # Em "What a pleasant surprise. I didn't expect you to take me up on my offer. I'm sure you are a very busy person."
-    Em "Quelle plaisante surprise. Je ne pensé pas que vous accepteriez mon offre. Je suis sûr que vous êtes une personne très occupé."
+    Em "Quelle plaisante surprise. Je ne pensais pas que vous accepteriez mon offre. Je suis sûre que vous êtes une personne très occupée."
 
 # game/xemera.rpy:140
 translate frenchtl _call_skipcheck_19_cf5584d8:
 
     # Em frown "I'm sorry I have to say this, but I won't have much time for you today. As edifying as your visit is no doubt going to be, I have a meeting to attend shortly. However, I'm still grateful you came to visit."
-    Em frown "Je suis désolée, mais je n'ai pas beaucoup de temps devant moi. Aussi édifiante soit votre visite, elle sera aussi de courte durée. Cependant, je vous suis reconnaisante de votre venu."
+    Em frown "Je suis désolée, mais je n'ai pas beaucoup de temps pour vous aujourd'hui. Aussi édifiante sera votre visite, je dois aller à une réunion sous peu. Cependant, je vous suis reconnaisante pour votre venue."
 
 # game/xemera.rpy:142
 translate frenchtl _call_skipcheck_19_2e655479:
 
     # c "I'm sure someone of your standing is always busy. Thank you for taking the time to meet me."
-    c "Je suis sûr que quelqu'un de votre stature est toujours occupé. Merci d'avoir pris le temps de me recevoir."
+    c "Je suis sûr que quelqu'un de votre rang est toujours occupé. Merci d'avoir pris le temps de me recevoir."
 
 # game/xemera.rpy:144
 translate frenchtl _call_skipcheck_19_555b16c8:
 
     # Em mean "Charming as always, aren't you?"
-    Em mean "Charmeur comme toujours, n'est ce pas?"
+    Em mean "Charmant comme toujours, n'est ce pas ?"
 
 # game/xemera.rpy:146
 translate frenchtl _call_skipcheck_19_042eca2e:
 
     # c "So, what exactly is this? An official meeting? A trade negotiation?"
-    c "hum, que faisons nous exactement? Est ce une visite officiel? Une negociation d'accord?"
+    c "Hum, que faisons nous exactement ? Est ce une visite officiel ? Une negociation d'accord ?"
 
 # game/xemera.rpy:148
 translate frenchtl _call_skipcheck_19_6f035164:
 
     # Em normal "Oh, please. This is just two people having a conversation. After all, we still owe you for the PDA devices you gave us, so until we deliver our part, there is nothing to negotiate."
-    Em normal "Oh, S'il vous plaît, c'est juste deux personnes qui ont une conversation. Après tout nous vous devont toujours votre part du marché, il n y'a rien a negocié."
+    Em normal "Oh, S'il vous plaît, c'est juste deux personnes qui ont une conversation. Après tout nous vous sommes redevables pour les PDA que vous nous avez donné, donc jusqu'à ce que nous vous donnions notre contrepartie, il n y'a rien à negocier."
 
 # game/xemera.rpy:150
 translate frenchtl _call_skipcheck_19_89aefe22:
@@ -96,13 +96,13 @@ translate frenchtl _call_skipcheck_19_89aefe22:
 translate frenchtl _call_skipcheck_19_3cfc1671:
 
     # Em mean "If it was up to me, though, I'd rather listen to you all day than having to work through this stack of paperwork."
-    Em mean "Si cela ne tenez qu'à moi, je vous écouterais toute la journée plutôt que de travailler sur cette pile de documents."
+    Em mean "Si cela ne tenait qu'à moi, je vous écouterais toute la journée plutôt que de travailler sur cette pile de documents."
 
 # game/xemera.rpy:154
 translate frenchtl _call_skipcheck_19_f25b2a3a:
 
     # c "Is it really all that boring?"
-    c "C'est vraiment si ennuyeux?"
+    c "C'est vraiment si ennuyeux ?"
 
 # game/xemera.rpy:156
 translate frenchtl _call_skipcheck_19_d67911c9:
@@ -114,37 +114,37 @@ translate frenchtl _call_skipcheck_19_d67911c9:
 translate frenchtl _call_skipcheck_19_e0a27428:
 
     # Em frown "It's just an unpleasant part of the job, I suppose. In the end, working as the {i}Minister of Culture & Arts{/i} involves just as much paperwork as any other bureaucratic position."
-    Em frown "C'est juste une tâche ingrate du travail, je suppose. Au final, travailler au {i}Ministre de la Culture et des Arts{/i} implique autant de paperasse que n'importe quelle autre travail."
+    Em frown "C'est juste une partie ingrate du travail, je suppose. Au final, travailler au {i}Ministère de la Culture et des Arts{/i} implique autant de paperasse que n'importe quel autre position bureaucratique."
 
 # game/xemera.rpy:160
 translate frenchtl _call_skipcheck_19_59ba786a:
 
     # Em normal "On some days, I have to keep reminding myself that there are actual people and problems behind those numbers, and those are the people I'm responsible for."
-    Em normal "Parfois, j'ai besoin de me rapellé qu'il y'a des personnes derrière ces nombres, et j'en suis responsable."
+    Em normal "Parfois, j'ai besoin de me rapeller qu'il y'a des personnes et des problèmes derrière ces nombres, et ce sont des gens dont j'ai la responsabilité."
 
 # game/xemera.rpy:162
 translate frenchtl _call_skipcheck_19_addf01aa:
 
     # Em frown "One mistake, and those people turn against you faster than... something that is very fast. That's why I prefer to go where the people are rather than being stuck back here. It makes things much clearer than the abstraction of words and numbers."
-    Em frown "Une erreur est tout le monde se retourne contre toi plus vite que... quelque chose de très rapide. C'est pour cela que je préfére allez auprès des gens plutôt que de rester ici. Cela rend les choses beaucoup plus clair que de simples chiffres."
+    Em frown "Une erreur et ces gens se retourne contre vous plus vite que... quelque chose de très rapide. C'est pour cela que je préfère allez auprès des gens plutôt que de rester coincée ici. Cela rend les choses beaucoup plus clair que de simples chiffres."
 
 # game/xemera.rpy:164
 translate frenchtl _call_skipcheck_19_887a31b9:
 
     # c "Is that what this is for you? A game, or a popularity contest?"
-    c "C'est ce que c'est pour vous? Un jeu, un concours de popularité?"
+    c "C'est ce que c'est pour vous ? Un jeu, un concours de popularité ?"
 
 # game/xemera.rpy:166
 translate frenchtl _call_skipcheck_19_3996a589:
 
     # Em ques "I may use the law, [player_name], but I don't break it."
-    Em ques "Je pourrais utiliser la loi, [player_name], mais je ne l'enfreint pas."
+    Em ques "J'utilise peut être la loi, [player_name], mais je ne l'enfreint pas."
 
 # game/xemera.rpy:168
 translate frenchtl _call_skipcheck_19_9ddfe7c9:
 
     # Em normal "As much as I may dislike it, a game is certainly what this is. When I came into office, it didn't take long for me to realize that you can't win if you don't play."
-    Em normal "Aussi déplaisant que cela puisse paraître, c'est certainement un jeu. Quand je suis arrivée ici, j'ai rapidement compris que l'on ne pouvait pas gagné si on ne joué pas."
+    Em normal "Aussi déplaisant que cela puisse être, c'est certainement un jeu. Quand je suis arrivée ici, j'ai rapidement compris que l'on ne pouvait pas gagner si on ne jouait pas le jeu."
 
 # game/xemera.rpy:170
 translate frenchtl _call_skipcheck_19_d19f855d:
@@ -156,25 +156,25 @@ translate frenchtl _call_skipcheck_19_d19f855d:
 translate frenchtl _call_skipcheck_19_3f40cdb2:
 
     # Em frown "Let me ask you one thing, [player_name]: Do you enjoy your work as ambassador?"
-    Em frown "Laissez moi vous demandé une chose, [player_name]: Appréciez-vous votre rôle d'ambassadeur?"
+    Em frown "Laissez moi vous demander une chose, [player_name]: Appréciez-vous votre rôle d'ambassadeur ?"
 
 # game/xemera.rpy:180
 translate frenchtl _call_skipcheck_19_35fdeb62:
 
     # Em normal "Lucky are those whose purpose is enjoyable. Too bad not all of us are."
-    Em normal "Chanceux sont les gens qui aime leur travail. Dommage que cela ne soit aps le cas de tous."
+    Em normal "Chanceux sont les gens qui aime leur travail. Dommage que cela ne soit pas le cas de tous."
 
 # game/xemera.rpy:189
 translate frenchtl _call_skipcheck_19_e1588bb1:
 
     # Em ques "Such is the burden we have to bear, [player_name]."
-    Em ques "Tel est la charge que je dois supporter, [player_name]."
+    Em ques "Tel est notre fardeau, [player_name]."
 
 # game/xemera.rpy:196
 translate frenchtl _call_skipcheck_19_257c6ed0:
 
     # c "Work doesn't have to be enjoyable, but it can still be fulfilling. That is especially true for what I'm doing right now."
-    c "Le travail n'as pas a être amusant, mais il peux toujours être gratifiant. C'est particulièrement vrai pour ce que je fait actuellement."
+    c "Le travail n'a pas à être amusant, mais il peut toujours être gratifiant. C'est particulièrement vrai pour ce que je fais actuellement."
 
 # game/xemera.rpy:198
 translate frenchtl _call_skipcheck_19_2836fb46:
@@ -186,13 +186,13 @@ translate frenchtl _call_skipcheck_19_2836fb46:
 translate frenchtl _call_skipcheck_19_6138ecef:
 
     # c "That doesn't sound like you enjoy your job very much, though."
-    c "Il ne me semble pas que aimiez beaucoup votre travail, cependant."
+    c "On dirait que vous n'aimez beaucoup votre travail, cependant."
 
 # game/xemera.rpy:206
 translate frenchtl _call_skipcheck_19_64f5f24a:
 
     # Em frown "Well, I look at it this way: Just one term of having been on the council and I'll have left my mark."
-    Em frown "Je vois cela comme ça: Un seul mandat au conseil et je laisse ma marque."
+    Em frown "Je vois cela comme ça : Un seul mandat au conseil et j'aurai laissé ma marque."
 
 # game/xemera.rpy:208
 translate frenchtl _call_skipcheck_19_6bd9d3ac:
