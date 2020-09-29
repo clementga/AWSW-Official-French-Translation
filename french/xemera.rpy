@@ -432,85 +432,85 @@ translate frenchtl _call_skipcheck_19_d5f5e4ce:
 translate frenchtl _call_skipcheck_19_c140a222:
 
     # Em ques "I am not afraid of political suicide, because I don't value the position itself. I only value the opportunities I am given while having this power, so as long as I have it, I shall use it until I can no longer do so."
-    Em ques "Je n'ai pas peur du suicide politique, parceque je n'estime pas ma position en elle même. Je ne donne de valeur uniquement aux opportunités qui me sont donné avec ce pouvoir, aussi longtemps"
+    Em ques "Je n'ai pas peur du suicide politique, parce que je n'estime pas ma position en elle même. Je ne donne de valeur uniquement qu'aux opportunités qui me sont données avec ce pouvoir, donc aussi longtemps que j'en suis investie, je dois l'utiliser jusqu'à la fin."
 
 # game/xemera.rpy:294
 translate frenchtl _call_skipcheck_19_c566db72:
 
     # Em frown "My approach has been called {i}daring{/i} or {i}brave{/i} just as much as it has been derided by others who don't like what I am doing."
-    Em frown "Mon approche fut appelé {i}osez{/i} ou {i}bravez{/i} jusqu'au moment ou elle a était tourner en dérision par ceux qui n'apprécie pas ce que je fait. "
+    Em frown "Mon approche fut appelé {i}osée{/i} ou {i}audacieuse{/i} jusqu'au moment où elle fut tournée en dérision par ceux qui n'apprécient pas ce que je fais. "
 
 # game/xemera.rpy:296
 translate frenchtl _call_skipcheck_19_0ab13fd2:
 
     # Em normal "I'm not sure if this will start a trend or if there will be others who will follow suit, but either way I'll be glad once my term is over."
-    Em normal "Je ne sais pas si cela va démarrer une tendance ou si d'autres me suivront, mais dans tout les cas je serais contente quand mon mandat sera terminé."
+    Em normal "Je ne sais pas si cela va démarrer une mode ou si d'autres me suivront, mais dans tous les cas je serai contente une fois mon mandat terminé."
 
 # game/xemera.rpy:298
 translate frenchtl _call_skipcheck_19_edc19894:
 
     # c "What are you going to do then?"
-    c "Qu'allez vous faire alors?"
+    c "Qu'allez-vous faire alors ?"
 
 # game/xemera.rpy:300
 translate frenchtl _call_skipcheck_19_7e931a50:
 
     # Em "People who have been on the council usually don't have trouble finding a job to their liking, but I wouldn't even need to do that. I am settled for life and could retire now if I wanted to."
-    Em "Ceux qui ont fait parti du conseil n'on généralement pas de problèmes pour trouvez un travail a leur goût, mais je n'en aurais pas besoin. Je sous établi pour toute ma vie et je pourrais prendre ma retraite immédiatement si je le veux."
+    Em "Ceux qui ont fait parti du conseil n'ont généralement pas de problèmes pour trouver un travail a leur goût, mais je n'en aurais pas besoin. Je suis installée et je pourrais prendre ma retraite immédiatement si je le voulais."
 
 # game/xemera.rpy:302
 translate frenchtl _call_skipcheck_19_70286b80:
 
     # c "Retire? Is that what you would like to do?"
-    c "Partir en retraite? C'est ce que vous aimeriez faire?"
+    c "Partir à la retraite ? C'est ce que vous aimeriez faire ?"
 
 # game/xemera.rpy:304
 translate frenchtl _call_skipcheck_19_87c5ff64:
 
     # Em "I already feel like I have left my mark and seen everything there is to see in the political landscape, so once this is over, I'd like to settle down for good and start a family."
-    Em "Je l'impression d'avoir déjà laissé ma trace et d'avoir vu tout ce qu'il y'avait a voir sur la scène politique, dés que ce sera terminé, je voudrais m'installez pour de bon et fonder une famille."
+    Em "J'ai l'impression d'avoir déjà laissé ma trace et d'avoir vu tout ce qu'il y'avait à voir sur la scène politique, dès que ce sera terminé, je voudrais m'installez pour de bon et fonder une famille."
 
 # game/xemera.rpy:306
 translate frenchtl _call_skipcheck_19_4e24c2ca:
 
     # c "Really?"
-    c "Vraiment?"
+    c "Vraiment ?"
 
 # game/xemera.rpy:308
 translate frenchtl _call_skipcheck_19_117ae2d0:
 
     # Em frown "I'm an only child. My parents want me to make them some grandchildren and to continue the lineage, so all that responsibility rests on me now that I've proven my worth."
-    Em frown "Je suis enfant unique. Mes parents veulent que je leur fassent des petits enfants et que je continue la lignée, toute ses responsabilités m'incombe maintenant que j'ai prouvé ce dont j'étais capable."
+    Em frown "Je suis enfant unique. Mes parents veulent que je leur fasse des petits enfants et que je continue la lignée, toute ses responsabilités m'incombent maintenant que j'ai prouvé ce dont j'étais capable."
 
 # game/xemera.rpy:310
 translate frenchtl _call_skipcheck_19_43dfdaf1:
 
     # c "Is that what you would like to do as well?"
-    c "C'est ce que vous voulez faire?"
+    c "C'est ce que vous voulez faire ?"
 
 # game/xemera.rpy:312
 translate frenchtl _call_skipcheck_19_c311af48:
 
     # Em normal "In this case, I'll have to agree with them. Frankly, I am tired of all the work. More so than ever before."
-    Em normal "Dans cette situation, je ne peux qu'être d'accord avec eux. Sincérement, je suis fatigué de tout ce travail. Plus que je ne l'ai jamais étais."
+    Em normal "Dans cette situation, je ne peux qu'être d'accord avec eux. Sincèrement, je suis fatiguée de tout ce travail. Plus que je ne l'ai jamais été."
 
 # game/xemera.rpy:314
 translate frenchtl _call_skipcheck_19_ffbe2a30:
 
     # Em "Besides, it would be a shame to let everything they built go to waste, don't you think?"
-    Em "De plus, ce serait une honte de laisser tout ce qu'ils ont construit, vous ne croyez pas?"
+    Em "De plus, ce serait une honte de laisser périr tout ce qu'ils ont construits, vous ne croyez pas ?"
 
 # game/xemera.rpy:316
 translate frenchtl _call_skipcheck_19_6022c472:
 
     # c "What is that supposed to mean?"
-    c "Qu'est ce que cela signifie?"
+    c "Qu'est ce que cela signifie ?"
 
 # game/xemera.rpy:318
 translate frenchtl _call_skipcheck_19_7594a7cb:
 
     # Em ques "I'm talking about our family fortune, of course. And what would a family fortune be without a family?"
-    Em ques "Je parle de notre fortune familiale, bien sur. Et que serais une fortune familiale sans famille?"
+    Em ques "Je parle de notre fortune familiale, bien sûr. Et que serais une fortune familiale sans famille ?"
 
 # game/xemera.rpy:320
 translate frenchtl _call_skipcheck_19_89aefe22_2:
@@ -522,67 +522,67 @@ translate frenchtl _call_skipcheck_19_89aefe22_2:
 translate frenchtl _call_skipcheck_19_d699ce2d:
 
     # Em normal "The funny thing is, they were never like this when I was growing up. It was only after they had made it big that they started getting all self-important about it. Illusions of grandeur included."
-    Em normal "Ce qui est amusant, c'est qu'ils n'ont jamais été comme ça quand je grandissais. C'est seulement quand ils sont devenu puissant qu'ils ont commencé a donner de l'importance sur le sujet. Illusions de grandeur incluse."
+    Em normal "Ce qui est amusant, c'est qu'ils n'ont jamais été comme ça quand je grandissais. C'est seulement quand ils sont devenus puissants qu'ils ont commencé à donner de l'importance au sujet. Illusions de grandeur incluse."
 
 # game/xemera.rpy:324
 translate frenchtl _call_skipcheck_19_fbb4ddbf:
 
     # Em frown "Now that I'm getting older, I'm sad to say that it's not exactly getting easier. I probably would have had better chances if I started a family first and tried to have a career afterwards."
-    Em frown "Miantenant que je commence a être agé, je suis triste de dire que cela ne deviens pas vraiment plus facile. J'aurais surement eu plus de chances en fondant une famille d'abord puis en essayant d'avoir une carrière après."
+    Em frown "Miantenant que je commence a être âgé, je suis triste de dire que cela ne devient pas vraiment plus facile. J'aurais sûrement eu plus de chances en fondant une famille d'abord puis en essayant d'avoir une carrière après."
 
 # game/xemera.rpy:326
 translate frenchtl _call_skipcheck_19_1bc47770:
 
     # c "Why is that?"
-    c "Pourquoi cela?"
+    c "Pourquoi cela ?"
 
 # game/xemera.rpy:328
 translate frenchtl _call_skipcheck_19_6b2def86:
 
     # Em normal "Being known like I am has made me popular, but it's making things complicated on the relationship front."
-    Em normal "Être connu comme je le suis ma rendu populaire, mais cela rend les choses plus compliquées côté relations."
+    Em normal "Être connu comme je le suis m'a rendu populaire, mais cela rend les choses plus compliquées côté relations."
 
 # game/xemera.rpy:330
 translate frenchtl _call_skipcheck_19_6d13fe76:
 
     # Em frown "On one hand, there are those that immediately disregard me due to my public image or my politics. On the other, we have those that are only interested in me because of being well-known."
-    Em frown "D'un côté, il y'a ceux qui m'ignorent immédiatement à cause de mon image public et de ma politique. De l'autre, il y'a ceux qui ne sont intéressé par moi parceque je suis connu."
+    Em frown "D'un côté, il y'a ceux qui m'ignorent immédiatement à cause de mon image public et de ma politique. De l'autre, il y'a ceux qui ne sont intéressé par moi que parce que je suis connue."
 
 # game/xemera.rpy:332
 translate frenchtl _call_skipcheck_19_6aef676d:
 
     # Em "In a way, I'm getting evaluated before I even have a chance of getting to know someone, or before they get to know the person behind the politics."
-    Em "dans un sens, je suis jugé avant même d'avoir eu la chance de connaitre quelqu'un, ou qu'il rencontre la personne derriere la politique."
+    Em "Dans un sens, je suis jugée avant même d'avoir eu la chance de connaître quelqu'un, ou qu'ils rencontrent la personne derrière la politicienne."
 
 # game/xemera.rpy:334
 translate frenchtl _call_skipcheck_19_2302884c:
 
     # Em "No matter if positive or negative, these snap judgments create a sort of proto-relationship that I had no input in and causes them to have certain expectations or opinions about me."
-    Em "Cela ne chage rien que ce soit en positif ou négatif, ces pré-jugés créées une sorte de proto-relations qui causais certaines attentes ou opinions sur moi."
+    Em "Cela ne change rien que ce soit en positif ou négatif, ces pré-jugés créent une sorte de proto-relation que je ne contrôlais pas et qui causais d'avoir certaines attentes ou opinions sur moi."
 
 # game/xemera.rpy:336
 translate frenchtl _call_skipcheck_19_9b41695a:
 
     # c "I suppose you can't change someone's mind if they have already made it up."
-    c "Je suppose que vous ne pouvez pas changer l'avis de quelqu'un si il est déjà tout fait."
+    c "Je suppose que vous ne pouvez pas changer l'avis de quelqu'un s'il est déjà tout fait."
 
 # game/xemera.rpy:338
 translate frenchtl _call_skipcheck_19_e1dbab6c:
 
     # Em normal "Oh, you can. It's just not an easy thing to do. Not that dating isn't already complicated enough as is."
-    Em normal "Oh, vous pouvez. Ce n'est juste pas simple à faire. Comme si les rencards n'était pas déjà assez difficile ainsi."
+    Em normal "Oh, vous pouvez. Ce n'est juste pas simple à faire. Comme si les rencards n'était pas déjà assez difficile comme ça."
 
 # game/xemera.rpy:340
 translate frenchtl _call_skipcheck_19_bcc1994b:
 
     # c "Maybe it'll be easier once your term is over. People may not recognize you as much."
-    c "Peut être que cela sera plus facile lorsque votre mandat sera terminé. Les gens ne vous reconnaitrons pas autant."
+    c "Peut être que cela sera plus facile lorsque votre mandat sera terminé. Les gens ne vous reconnaîtrons pas autant."
 
 # game/xemera.rpy:342
 translate frenchtl _call_skipcheck_19_77f0a3c9:
 
     # Em frown "Maybe. It also doesn't help that there is a rather limited selection for prospective fathers in this town."
-    Em frown "Peut-être. Le fait qu'il y'ai un nombre limité de pères potables dans cette ville n'aide pas."
+    Em frown "Peut-être. Le fait qu'il y'ait un nombre limité de pères potables dans cette ville n'aide pas non plus."
 
 # game/xemera.rpy:344
 translate frenchtl _call_skipcheck_19_d540842f:
@@ -594,25 +594,25 @@ translate frenchtl _call_skipcheck_19_d540842f:
 translate frenchtl _call_skipcheck_19_a3f26634:
 
     # Em normal "Maybe I'll return to my home town once my term is over."
-    Em normal "Peut-être retournerais-je a ma ville natale à la fin de mon mandat."
+    Em normal "Peut-être retournerais-je dans ma ville natale à la fin de mon mandat."
 
 # game/xemera.rpy:348
 translate frenchtl _call_skipcheck_19_9653146f:
 
     # c "Can I ask you something?"
-    c "Puis-je vous demandez quelque chose?"
+    c "Puis-je vous demandez quelque chose ?"
 
 # game/xemera.rpy:350
 translate frenchtl _call_skipcheck_19_90909290:
 
     # Em frown "You have already asked me a lot of things since you came here. I'm sure one more won't hurt."
-    Em frown "Vous m'avais déjà posé beaucoup de questions depuis que vous êtes venu. Je suis sûr qu'une de plus ne peux pas faire de mal."
+    Em frown "Vous m'avez déjà posé beaucoup de questions depuis que vous êtes venu. Je suis sûr qu'une de plus ne peux pas faire de mal."
 
 # game/xemera.rpy:352
 translate frenchtl _call_skipcheck_19_5c09c871:
 
     # c "Why did you employ Remy?"
-    c "Pourquoi avoir engagé Remy?"
+    c "Pourquoi avoir engagé Remy ?"
 
 # game/xemera.rpy:354
 translate frenchtl _call_skipcheck_19_db5e9e34:
