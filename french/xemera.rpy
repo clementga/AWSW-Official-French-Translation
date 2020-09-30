@@ -630,79 +630,79 @@ translate frenchtl _call_skipcheck_19_c2d069db:
 translate frenchtl _call_skipcheck_19_bbbea091:
 
     # Em normal "However, the council members themselves are responsible for the workers they employ to help with their office's duties, and that is an area where certain standards and prejudices already start to seep in."
-    Em normal "Cependant, les membres du conseil eux-mêmes sont responsables de ceux qu'ils emploi pour les aidé dans leur travail, c'est une zone ou certains standards et prejudices ont déjà commencé a s'infiltrer."
+    Em normal "Cependant, les membres du conseil eux-mêmes sont responsables de ceux qu'ils emploient pour les aider dans leur travail, c'est une zone ou certains standards et prejudices ont déjà commencé à s'infiltrer."
 
 # game/xemera.rpy:360
 translate frenchtl _call_skipcheck_19_d0b691e6:
 
     # Em "The council members either employ members of their own species, or they pick members of a species that is stereotypically used in that area."
-    Em "Les membres du conseil soit emploi des membres de leur propre espèce, ou recrute des membres d'une espèce prédisposé à ce secteur."
+    Em "Les membres du conseil emploient soit des membres de leur propre espèce, soit recrute des membres d'une espèce prédisposée à ce secteur."
 
 # game/xemera.rpy:362
 translate frenchtl _call_skipcheck_19_4bec6f7f:
 
     # Em frown "Shortly after I came into office, I was faced with the question of who to employ to take care of the archives."
-    Em frown "Rapidement après s'etre installé dans mon bureau, j'ai du faire face à la question de qui j'allais employé pour s'occuper des archives."
+    Em frown "Rapidement après être arrivée en poste, j'ai dû faire face à la question de qui j'allais employer pour s'occuper des archives."
 
 # game/xemera.rpy:364
 translate frenchtl _call_skipcheck_19_49214f3f:
 
     # Em "I didn't really know of a suitable candidate that I wished to employ off the top of my head, so I had to make do with the applicants I received."
-    Em "Je n'avais pas de candidats en tête, j'ai donc du faire avec les demandeurs d'emplois que j'ai reçu."
+    Em "Je n'avais pas de candidat adéquate en tête, j'ai donc dû faire avec les demandeurs d'emplois que j'ai reçu."
 
 # game/xemera.rpy:366
 translate frenchtl _call_skipcheck_19_f4af1809:
 
     # Em normal "They were numerous. Among them was a number of hopefuls from my home town who now banked on the idea I would employ someone I already knew or of my own species."
-    Em normal "Ils étaient nombreux. Parmi eux des habitants de ma ville natale qui était fixé sur l'idée que je recruterais quelqu'un que je connaissais déjà ou de ma propre espèce."
+    Em normal "Ils étaient nombreux. Parmi eux des habitants de ma ville natale qui étaient fixés sur l'idée que je recruterais quelqu'un que je connaissais déjà ou de ma propre espèce."
 
 # game/xemera.rpy:368
 translate frenchtl _call_skipcheck_19_73dfe9ab:
 
     # Em "I could have hired one of them, but I had to realize that this decision - my first in the office - would already be under scrutiny."
-    Em "J'aurais pu recruté l'un d'eux, mais je devais prendre cette décision -ma première dans l'administratif- en prenant en compte le fait qu'elle serais déjà sujet à critique."
+    Em "J'aurais pu recruter l'un d'eux, mais je devais prendre cette décision -ma première dans l'administration- en prenant en compte le fait qu'elle serait déjà sujet à critique."
 
 # game/xemera.rpy:370
 translate frenchtl _call_skipcheck_19_a5807f95:
 
     # Em frown "It certainly would have been very unusual to hire an earth dragon to take care of the archives, but I was sure it would have been looked at from a certain angle, with a certain bias."
-    Em frown "Cela aurais certainement était inhabituel d'embaucher un dragon de terre pour s'occuper des archives, mais j'étais sûr que cela serai regarder sous un certain angle, avec un certain biais."
+    Em frown "Cela aurait certainement été inhabituel d'embaucher un dragon terrestre pour s'occuper des archives, mais j'étais sûre que cela serait regardé sous un certain angle, avec un certain biais."
 
 # game/xemera.rpy:372
 translate frenchtl _call_skipcheck_19_0c169b29:
 
     # Em "They would have claimed that I only employed another earth dragon because they belonged to the same species or came from the same town as me. They wouldn't even consider that I made the decision based on merit."
-    Em "Ils auraient avancé que j'avais employé un autre dragon de terre parceque nous appartenions à la même espèce ou que nous venions du même endroit. Ils n'auraient même pas pensé que j'avais pris cette décision basé sur le mérite."
+    Em "Ils auraient avancé que j'avais employé un autre dragon de terre parce que nous appartenions à la même espèce ou que nous venions du même endroit. Ils n'auraient même pas pensé que j'avais pris cette décision en me basant sur le mérite."
 
 # game/xemera.rpy:374
 translate frenchtl _call_skipcheck_19_b5cafee7:
 
     # Em normal "With the same biased thinking being present in the applicants, it would have been hard to find anyone among them who was actually suited to the position of working in the archives."
-    Em normal "Avec les mêmes pensées biaisé au sein des demandeurs, cela aurait étais difficile de trouvé quelqu'un d'adapté pour travailler aux archives."
+    Em normal "Avec les mêmes pensées biaisée au sein des demandeurs, cela aurait été difficile de trouver quelqu'un parmi eux qui soit qualifié pour travailler aux archives."
 
 # game/xemera.rpy:376
 translate frenchtl _call_skipcheck_19_5d8b7857:
 
     # Em "Typically, the position is held by a species with proper hands, as it is often necessary to handle small and precious objects in the archives, but since I typically don't do things the typical way, I wanted to do something different."
-    Em "Typiquement, la position est tenu par une espèce doté de mains, puisqu'il est courant de manipulé des objets petit ou precieux dans les archives, mais comme je ne fait rien typiquement,j'ai voulu faire quelque chose de différent."
+    Em "Typiquement, la position est tenu par une espèce doté de mains, puisqu'il est courant de manipuler des objets petits ou precieux dans les archives, mais comme je ne fait rien comme les zautres, j'ai voulu faire quelque chose de différent."
 
 # game/xemera.rpy:378
 translate frenchtl _call_skipcheck_19_380efd72:
 
     # Em frown "After I sorted out applicants that only seemed to want to be there to advance their career or to have something important to put on their resume, the remaining number was actually fairly small."
-    Em frown "Après n'avoir gardé que les postulants qui ne semblaient être là uniquement pour avancer leurs carrières ou pour avoir quelque chose d'important à mettre sur leurs CV, le nombre de candidats restants était faible."
+    Em frown "Après n'avoir gardé que les postulants qui ne semblaient être là que pour faire évoluer leurs carrières ou pour avoir quelque chose d'important à mettre sur leurs CV, le nombre de candidats restants était faible."
 
 # game/xemera.rpy:380
 translate frenchtl _call_skipcheck_19_c249c31a:
 
     # Em "Remy was one that stood out to me from the rest. I wondered about his rationale to even apply for the position, given that it was unheard of for a member of his species to be the caretaker of the archives."
-    Em "Remy est celui qui à résister au reste. Je me suis questionné à propos de sa rationnalité de postuler pour cette position, donné qu'aucun membres de son espèce n'as jamais tenu les archives. "
+    Em "Rémi est celui qui a résisté au reste. Je me suis questionné à propos de sa rationnalité de postuler à ce poste, étant donné qu'aucun membre de son espèce n'a jamais tenu les archives. "
 
 # game/xemera.rpy:382
 translate frenchtl _call_skipcheck_19_78cdfdaa:
 
     # Em normal "Either, he was incredibly naïve, or he knew that his chances were practically nil but was willing to try regardless."
-    Em normal "Ou, il étais incroyablement naïf, ou il savais que ses chances étais nul mais il souhaité essayé malgré tout."
+    Em normal "Ou, il était incroyablement naïf, ou il savait que ses chances étais nulles mais il souhaitait essayer malgré tout."
 
 # game/xemera.rpy:384
 translate frenchtl _call_skipcheck_19_d47fe162:
@@ -714,19 +714,19 @@ translate frenchtl _call_skipcheck_19_d47fe162:
 translate frenchtl _call_skipcheck_19_3a6d5f40:
 
     # Em frown "He seemed genuinely enthusiastic and had a passion for the subject, qualities I was looking for."
-    Em frown "Il semblais incroyablement enthousiaste et passionné pour le sujet, qualités que je recherchais. "
+    Em frown "Il semblait incroyablement enthousiaste et passionné pour le sujet, des qualités que je recherchais. "
 
 # game/xemera.rpy:388
 translate frenchtl _call_skipcheck_19_e6eb0b4f:
 
     # Em "He also had a background that actually made him well-qualified for the position, at least on paper."
-    Em "Il avais également un passé qui le rendais plus que qualifié pour ce travail, au moins sur le papier."
+    Em "Il avait également un passif qui le rendait plus que qualifié pour ce travail, du moins sur le papier."
 
 # game/xemera.rpy:390
 translate frenchtl _call_skipcheck_19_789260f8:
 
     # Em normal "Ultimately, he reminded me of my parents and how they managed to break out of their mold and made it big by doing their own thing."
-    Em normal "Finalement, il me rappelai mes parents et comment ils avaient réussi à sortir du moule et le rendre fort en faisant leurs propre entreprise."
+    Em normal "Finalement, il me rappelait mes parents et comment ils avaient réussi à sortir du moule et le rendre fort en faisant leur propre entreprise."
 
 # game/xemera.rpy:392
 translate frenchtl _call_skipcheck_19_0543ef1e:
@@ -738,37 +738,37 @@ translate frenchtl _call_skipcheck_19_0543ef1e:
 translate frenchtl _call_skipcheck_19_8ba11156:
 
     # Em frown "Of course, there were also practical considerations, but I thought with time and practice, and his tireless nature, any difficulties could be overcome."
-    Em frown "Bien sûr, il y'avait aussi les considerations pratiques, mais je pensais qu'avec le temps et la pratique, ainsi que sa nature infatiguable, nous pourrions venir a bout de toute difficulté."
+    Em frown "Bien sûr, il y avait aussi les considerations pratiques, mais je pensais qu'avec le temps et la pratique, ainsi que sa nature infatiguable, nous pourrions venir à bout de toute difficulté."
 
 # game/xemera.rpy:396
 translate frenchtl _call_skipcheck_19_d94fd976:
 
     # Em "Maybe he could rise above his peers just like my parents did. I only gave him the same chance. I knew I was making a gamble, but I thought with someone like him, it could very well pay off."
-    Em "Peut-être pourrais t'il se dresser au dessus de ses pairs comme mes parents l'ont fait. Je lui ai juste donné la même chance. Je savais que je fesais un paris, mais je pensais qu'avec quelqu'un comme lui, cela pourrait payé."
+    Em "Peut-être pourrait-il se dresser au dessus de ses pairs comme mes parents l'ont fait. Je lui ai juste donné la même chance. Je savais que je faisais un pari, mais je pensais qu'avec quelqu'un comme lui, cela pourrait payer."
 
 # game/xemera.rpy:398
 translate frenchtl _call_skipcheck_19_ec740d35:
 
     # Em normal "Going against every recommendation, guidance and advice I received, I ultimately decided to hire him - a decision that immediately made big headlines."
-    Em normal "Allant contre toutes recommandations, conseils et avertissements que je reçu, j'ai finalement décidé de l'embaucher - Décision qui fit immédiatement les gros titres."
+    Em normal "Allant contre toutes recommandations, conseils et avertissements que je reçus, j'ai finalement décidé de l'embaucher - décision qui fit immédiatement les gros titres."
 
 # game/xemera.rpy:400
 translate frenchtl _call_skipcheck_19_f3b71eb8:
 
     # Em "It was the beginning of the trend that would give me the image I have now. There was a lot of coverage about it, and I think it gave Remy a lot more attention than he wanted."
-    Em "Ce fut le début de la tendance qui donna l'image que j'ai maintenant. Cela fut très couvert, et je crois que cela donna plus d'attention à remy que ce qu'il souhaitais."
+    Em "Ce fut le début de la tendance qui donna l'image que j'ai maintenant. Cela fut très couvert, et je crois que cela donna plus d'attention à Rémi que ce qu'il souhaitait."
 
 # game/xemera.rpy:402
 translate frenchtl _call_skipcheck_19_de52bf86:
 
     # Em frown "This might have been a good thing if he did his job well, but this didn't turn out to be the case."
-    Em frown "Cela aurai pu devenir une bonne chose si il fesait correctement son travail, Mais ce n'est pas vraiment le cas."
+    Em frown "Cela aurait pu devenir une bonne chose s'il faisait correctement son travail, Mais ce n'est pas vraiment le cas."
 
 # game/xemera.rpy:404
 translate frenchtl _call_skipcheck_19_ed2143b1:
 
     # Em "The first time he messed up, I made a joke about it and told him that this happens to everyone a few times. If only it had stayed at just a few times."
-    Em "La première fois qu'il c'est raté, je l'ai tourné en dérision en lui disant que cela arrive à tout le monde quelques fois. Si seulement on en était resté aux quelques fois."
+    Em "La première fois qu'il s'est planté, je l'ai tourné en dérision en lui disant que cela arrive à tout le monde quelques fois. Si seulement on en était resté à quelques fois."
 
 # game/xemera.rpy:406
 translate frenchtl _call_skipcheck_19_4d914868:
