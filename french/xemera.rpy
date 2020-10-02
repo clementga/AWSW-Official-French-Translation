@@ -774,25 +774,25 @@ translate frenchtl _call_skipcheck_19_ed2143b1:
 translate frenchtl _call_skipcheck_19_4d914868:
 
     # Em normal "Soon enough, my decision made more headlines from my cynical critics who lambasted me, citing his shortcomings as evidence."
-    Em normal "Assez vite, ma décision a fait plus de titres des critiques ciniques qui me harcelé, citant son incompétence comme preuve."
+    Em normal "Assez vite, ma décision a fait plus l'objet de critiques ciniques qui m'ont fustigé, citant son incompétence comme preuve."
 
 # game/xemera.rpy:408
 translate frenchtl _call_skipcheck_19_db541a82:
 
     # Em "Of course I couldn't go easy on him during that time. He wanted the job, so I held him to the standards of the job. If I treated him any differently, it would've only gotten worse."
-    Em "Bien sûr je ne pouvais pas être indulgent avec lui. Il voulait le poste, alors je l'ai trainé jusqu'au standard du poste. Si je l'avais traité différement, la situation ce serai empiré."
+    Em "Bien sûr je ne pouvais pas être indulgent avec lui. Il voulait le poste, alors je l'ai maintenu à niveau sur le poste. Si je l'avais traité différement, la situation aurait empiré."
 
 # game/xemera.rpy:410
 translate frenchtl _call_skipcheck_19_af70ea33:
 
     # Em frown "He might have to work twice as hard, but if he can't do the job, maybe he isn't cut out to do it. But if he can, he'll have proven his worth to the whole town."
-    Em frown "Il pourrait avoir a travailler deux fois plus dur, si il ne peux pas faire le travail, peut être n'est il pas taillé pour le faire. Mais si il peux, il aura prouvé sa valeur a toute la ville."
+    Em frown "Il pourrait avoir à travailler deux fois plus dur, s'il ne peux pas faire le travail, peut être qu'il n'est pas taillé pour le faire. Mais s'il le peut, il aura prouvé sa valeur a toute la ville."
 
 # game/xemera.rpy:412
 translate frenchtl _call_skipcheck_19_412c6d37:
 
     # c "I heard that isn't working out so well for him."
-    c "J'ai entendu que cela ne marchai pas très bien pour lui."
+    c "J'ai entendu que cela ne marchait pas très bien pour lui."
 
 # game/xemera.rpy:414
 translate frenchtl _call_skipcheck_19_0eb974e7:
