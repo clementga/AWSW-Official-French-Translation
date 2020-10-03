@@ -34,7 +34,7 @@ anna2 ✔✔<br/>
 bryce2 ✔<br/>
 lorem2 ✔✔<br/>
 remy2 ✔✔<br/>
-xemera ✔<br/>
+xemera ✔✔<br/>
 xzhong ✔<br/>
 chapter3 ✔<br/>
 adine3 ✔✔<br/>
