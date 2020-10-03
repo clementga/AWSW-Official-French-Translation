@@ -798,43 +798,43 @@ translate frenchtl _call_skipcheck_19_412c6d37:
 translate frenchtl _call_skipcheck_19_0eb974e7:
 
     # Em normal "Tell me about it. It's one of my few decisions that haven't ended up working in my favor, even though many people were all for it when it was initially announced."
-    Em normal "Ne m'en parlez pas. C'est l'une des quelques décisions qui n'on pas terminé en ma faveur, même si de nombreuses personnes était pour lrosque je l'ai annoncé."
+    Em normal "Ne m'en parlez pas. C'est l'une des quelques décisions qui n'ont pas terminé en ma faveur, même si de nombreuses personnes étaient pour lorsque je l'ai annoncé."
 
 # game/xemera.rpy:416
 translate frenchtl _call_skipcheck_19_2affc37d:
 
     # c "Why don't you just replace him?"
-    c "Pourquoi ne pas juste le remplacer?"
+    c "Pourquoi ne pas juste le remplacer ?"
 
 # game/xemera.rpy:418
 translate frenchtl _call_skipcheck_19_aad0f212:
 
     # Em frown "That wouldn't be such a good idea. For one, it would only prove the people right who doubt that I made the right choice, and secondly, it would only draw attention to the whole issue all over again."
-    Em frown "Cela ne serai pas une bonne idée. D'une, cela donnerai raison aux personnes qui doute de mon choix, de deux, cela amenera de nouveau l'attetion sur le problème."
+    Em frown "Cela ne serait pas une bonne idée. D'une, cela donnerait raison aux personnes qui doutent de mon choix, et de deux, cela attirera de nouveau l'attention sur le problème."
 
 # game/xemera.rpy:420
 translate frenchtl _call_skipcheck_19_c70db99e:
 
     # c "That is unfortunate."
-    c "C'est embetant."
+    c "C'est embêtant."
 
 # game/xemera.rpy:422
 translate frenchtl _call_skipcheck_19_6863a082:
 
     # Em normal "Luckily, I make enough headlines these days for it to not matter much anymore."
-    Em normal "Heureusement, j'ai suffisament fait les gros titres ces jours pour que cela n'ai plus trop d'importance."
+    Em normal "Heureusement, j'ai fait suffisament les gros titres à ce sujet pour que cela n'ait plus d'importance."
 
 # game/xemera.rpy:424
 translate frenchtl _call_skipcheck_19_27472b7f:
 
     # Em frown "Oh, I'm going to be late for my meeting if I don't hurry up. Would you mind helping me with this?"
-    Em frown "Oh, je vais être en retard à mon rendez-vous si je ne me dépeche pas. Pouvez-vous m'aidez avec ça?"
+    Em frown "Oh, je vais être en retard à mon rendez-vous si je ne me dépêche pas. Pouvez-vous m'aidez avec ça ?"
 
 # game/xemera.rpy:428
 translate frenchtl _call_skipcheck_19_da2ad293:
 
     # c "{i}Horn Shine{/i}, what's that?"
-    c "{i}Brillant à corne{/i} Qu'est ce que c'est?"
+    c "{i}Brillant à corne{/i} Qu'est ce que c'est ?"
 
 # game/xemera.rpy:430
 translate frenchtl _call_skipcheck_19_638eb191:
@@ -846,25 +846,25 @@ translate frenchtl _call_skipcheck_19_638eb191:
 translate frenchtl _call_skipcheck_19_8c941582:
 
     # c "You're painting them? What for?"
-    c "vous les peignez? Pourquoi?"
+    c "Vous les peignez ? Pour quoi faire ?"
 
 # game/xemera.rpy:434
 translate frenchtl _call_skipcheck_19_ed43ab59:
 
     # Em frown "It's a public outing. Are you telling me you don't do things to make yourself look different?"
-    Em frown "C'est une sortie en public. Êtes vous entrain de me dire que vous ne faite rien pour semblez différent?"
+    Em frown "C'est une rencontre publique. Êtes vous en train de me dire que vous ne faite rien pour vous changer ?"
 
 # game/xemera.rpy:436
 translate frenchtl _call_skipcheck_19_d1bf56c0:
 
     # c "We do, I just didn't expect your horns would be one of those things."
-    c "Bien sûr que si, c'est juste que je ne m'attendais pas à ce que vos cornes soit l'une de ces choses."
+    c "Bien sûr que si, c'est juste que je ne m'attendais pas à ce que vos cornes soient l'une de ces choses."
 
 # game/xemera.rpy:438
 translate frenchtl _call_skipcheck_19_a02c2794:
 
     # Em normal "I see. Well, the brush is over there, so get it and get going."
-    Em normal "Je vois. La brosse est ici, prenez la et commencez."
+    Em normal "Je vois. La brosse est ici, prenez-la et commencez."
 
 # game/xemera.rpy:440
 translate frenchtl _call_skipcheck_19_86148265:
@@ -876,25 +876,25 @@ translate frenchtl _call_skipcheck_19_86148265:
 translate frenchtl _call_skipcheck_19_d103cdb4:
 
     # m "I walked over to her table where I saw the brush among a number of other tools I couldn't quite place and a few stacks of papers. She really hadn't been exaggerating when she had mentioned her workload."
-    m "J'ai marché jusqu'à la table ou j'avais vu la brosse parmi d'autres objets que je ne connaissais pas et quelques piles de documents. Elle n'exagerai pas sur sa charge de travail."
+    m "Je marchais jusqu'à la table ou j'avais vu la brosse parmi d'autres objets que je ne connaissais pas et quelques piles de documents. Elle n'avait pas exagéré quand elle avait parlé de sa charge de travail."
 
 # game/xemera.rpy:444
 translate frenchtl _call_skipcheck_19_d0743dbd:
 
     # c "Anything I need to know before I start?"
-    c "Quelque chose à savoir avant que je commence?"
+    c "Quelque chose à savoir avant que je ne commence ?"
 
 # game/xemera.rpy:446
 translate frenchtl _call_skipcheck_19_9d7c67cd:
 
     # Em frown "Not really. You know how a brush works, don't you?"
-    Em frown "Pas vraiment. Tu sais comment fonctionne une brosse, non?"
+    Em frown "Pas vraiment. Tu sais comment fonctionne une brosse, non ?"
 
 # game/xemera.rpy:459
 translate frenchtl _call_skipcheck_19_617b1289:
 
     # Em normal "Just so you know, I'll blame you in front of the whole council if you mess it up."
-    Em normal "Juste pour que tu saches, Je te blamerai devant tout le conseil si tu rate."
+    Em normal "Juste pour que tu saches, Je te blamerai devant tout le conseil si tu te rates."
 
 # game/xemera.rpy:461
 translate frenchtl _call_skipcheck_19_4e8c7062:
@@ -906,25 +906,25 @@ translate frenchtl _call_skipcheck_19_4e8c7062:
 translate frenchtl _call_skipcheck_19_bf03d395:
 
     # m "I removed the cork from the glass bottle that was filled with a red, somewhat viscous liquid. After dipping the brush into it, I started painting her horn in a bright red."
-    m "J'ai retiré le bouchon de la bouteille de verre qui était rempli d'un liquide rouge et visqueux. Après avoir trempé la brosse dedans, j'ai commencé à peindre sa corne en rouge clair."
+    m "Je retirai le bouchon de la bouteille en verre qui était remplie d'un liquide rouge et visqueux. Après avoir trempé la brosse dedans, je commencai à peindre sa corne en rouge clair."
 
 # game/xemera.rpy:471
 translate frenchtl _call_skipcheck_19_0d66af3d:
 
     # m "It only took a few applications for the horn to be covered completely."
-    m "Cela n'as pris que quelques passages pour que la corne soit entierement couverte."
+    m "Cela ne prit que quelques passages pour que la corne soit entierement recouverte."
 
 # game/xemera.rpy:473
 translate frenchtl _call_skipcheck_19_46f80d1f:
 
     # c "Is that good?"
-    c "C'est bien comme ça?"
+    c "C'est bien comme ça ?"
 
 # game/xemera.rpy:475
 translate frenchtl _call_skipcheck_19_f0dd9174:
 
     # Em "Oh, we're not done yet. Don't forget my elbow and those on my neck."
-    Em "Oh, nous n'avons pas encore fini. N'oubliez pas mes coudes et ceux sur mon cou."
+    Em "Oh, nous n'avons pas encore fini. N'oubliez pas mes coudes et celles sur mon cou."
 
 # game/xemera.rpy:477
 translate frenchtl _call_skipcheck_19_86148265_1:
@@ -936,7 +936,7 @@ translate frenchtl _call_skipcheck_19_86148265_1:
 translate frenchtl _call_skipcheck_19_0e3ab4e5:
 
     # c "Here, that should do it."
-    c "Voilà, cela devrait allez."
+    c "Voilà, cela devrait aller."
 
 # game/xemera.rpy:485
 translate frenchtl _call_skipcheck_19_21d19924:
@@ -948,37 +948,37 @@ translate frenchtl _call_skipcheck_19_21d19924:
 translate frenchtl _call_skipcheck_19_62bf6984:
 
     # m "She walked up to a mirror and turned her head a few times so she could see herself from every angle."
-    m "Elle a marché jusqu'à un mirroir et à tourné sa tête quelques fois pour se voir sous tout les angles."
+    m "Elle s'avança jusqu'à un mirroir et tourna sa tête quelques fois pour se voir sous tout les angles."
 
 # game/xemera.rpy:491
 translate frenchtl _call_skipcheck_19_77cb0172:
 
     # Em "Not too shabby, [player_name]. Maybe you would make a good assistant."
-    Em "Pas si mal, [player_name]. Peut être feriez vous un bon assistant."
+    Em "Pas si mal, [player_name]. Peut être feriez-vous un bon assistant."
 
 # game/xemera.rpy:506
 translate frenchtl _call_skipcheck_19_180e8523:
 
     # Em mean b "Wouldn't that be nice."
-    Em mean b "ce ne serait pas bien."
+    Em mean b "Ca serait chouette, non ?"
 
 # game/xemera.rpy:515
 translate frenchtl _call_skipcheck_19_cc98aafb:
 
     # Em normal b "You should have a bit more confidence in yourself, [player_name]."
-    Em normal b "VOus devirez avoir plus de confiance en vous, [player_name]"
+    Em normal b "Vous devriez avoir plus confiance en vous, [player_name]"
 
 # game/xemera.rpy:521
 translate frenchtl _call_skipcheck_19_1374b8c5:
 
     # Em ques b "Anyway, how does it look? What do you think about the color?"
-    Em ques b "D'ailleurs, de quoi ai je l'air? Que pensez vous de la couleur?"
+    Em ques b "Enfin bon, de quoi ai-je l'air ? Que pensez-vous de la couleur ?"
 
 # game/xemera.rpy:529
 translate frenchtl _call_skipcheck_19_536e8f0a:
 
     # Em laugh b "Oh, thank you. That's exactly what I was going for."
-    Em laugh b "Oh, Merci. C'est exactement ce que je cherché."
+    Em laugh b "Oh, Merci. C'est exactement ce que je cherchais."
 
 # game/xemera.rpy:536
 translate frenchtl _call_skipcheck_19_4f50e7c1:
@@ -990,7 +990,7 @@ translate frenchtl _call_skipcheck_19_4f50e7c1:
 translate frenchtl _call_skipcheck_19_c0025578:
 
     # Em normal b "Is that so?"
-    Em normal b "Vraiment?"
+    Em normal b "Vraiment ?"
 
 # game/xemera.rpy:545
 translate frenchtl _call_skipcheck_19_5ac872d6:
@@ -1002,13 +1002,13 @@ translate frenchtl _call_skipcheck_19_5ac872d6:
 translate frenchtl _call_skipcheck_19_09a98617:
 
     # Em mean b "Funny you would say that. Actually, they aren't naturally white, either."
-    Em mean b "C'est drôle que vous disiez cela. En vérité, elle ne sont pas naturellement blanche non plus."
+    Em mean b "C'est drôle que vous dites ça. En vérité, elle ne sont pas naturellement blanche non plus."
 
 # game/xemera.rpy:549
 translate frenchtl _call_skipcheck_19_f0b69231:
 
     # c "Oh, really?"
-    c "Oh, vraiment?"
+    c "Oh, vraiment ?"
 
 # game/xemera.rpy:551
 translate frenchtl _call_skipcheck_19_d67c60a5:
@@ -1020,13 +1020,13 @@ translate frenchtl _call_skipcheck_19_d67c60a5:
 translate frenchtl emeraskip_353755f2:
 
     # Em ques b "You know what? All that sitting around is making my back so horribly stiff. Would you mind giving me a massage? I could certainly use one right now."
-    Em ques b "Vous savez quoi? Restez assis tout ce temps à rendu mon dos horriblement raide. Pourriez vous me faire un massage? J'en aurai bien besoin."
+    Em ques b "Vous savez quoi ? Rester assis tout ce temps a rendu mon dos horriblement raide. Pourriez-vous me faire un massage ? J'en aurais bien besoin."
 
 # game/xemera.rpy:568
 translate frenchtl emeramenu_dbd2b6f8:
 
     # Em normal b "Oh, don't you worry about that. I'll guide you through it."
-    Em normal b "Oh, ne vous inquietez pas à propos de cela. Je vais vous guidez."
+    Em normal b "Oh, ne vous inquietez pas pour ça. Je vais vous guider."
 
 # game/xemera.rpy:581
 translate frenchtl emeramenu_73f2dc3c:
@@ -1038,13 +1038,13 @@ translate frenchtl emeramenu_73f2dc3c:
 translate frenchtl emeramenu_28b4daf6:
 
     # Em frown b "I know it's a strange request, but having to sit in this office for hours on end working through all these papers takes its toll on my body."
-    Em frown b "Je sais que c'est une requête un peu étrange, mais restez assis dans ce bureau pour des heures à remplir tout ces papiers fait son effet sur mon corps."
+    Em frown b "Je sais que c'est une requête un peu étrange, mais rester assis dans ce bureau pour des heures à remplir tout ces papiers laisse des traces sur mon corps."
 
 # game/xemera.rpy:585
 translate frenchtl emeramenu_2fb5aab9:
 
     # Em "You know, my kind tends to be very physical and I haven't quite gotten used to this office lifestyle yet."
-    Em "Vous savez, mon espèce à tebdabce à etre très physique et je ne me suis toujours pas habitué à la vie de bureau."
+    Em "Vous savez, mon espèce a tendance à être très physique et je ne me suis toujours pas habituée à la vie de bureau."
 
 # game/xemera.rpy:595
 translate frenchtl emeramenu_77bfd3b9:
@@ -1056,7 +1056,7 @@ translate frenchtl emeramenu_77bfd3b9:
 translate frenchtl emeramenu_9c7ed899:
 
     # Em frown b "Is that so?"
-    Em frown b "Vraiment?"
+    Em frown b "Vraiment ?"
 
 # game/xemera.rpy:599
 translate frenchtl emeramenu_e7239443:
@@ -1074,13 +1074,13 @@ translate frenchtl emeramenu_d578607b:
 translate frenchtl emeramenu_2db8ab95:
 
     # c "Thank you for having me."
-    c "Merci de m'avoir reçu"
+    c "Merci de m'avoir reçu."
 
 # game/xemera.rpy:619
 translate frenchtl _call_syscheck_69_188d7042:
 
     # s "You just met with Emera!"
-    s "Vous avez rencontré Emera!"
+    s "Vous avez rencontré Emera !"
 
 # game/xemera.rpy:623
 translate frenchtl _call_syscheck_69_14d763e9:
@@ -1098,31 +1098,31 @@ translate frenchtl _call_syscheck_69_8a4bfca5:
 translate frenchtl _call_syscheck_69_019cbd4c:
 
     # m "She lay down on a mat and pillow she had quickly produced from somewhere and presented her back to me. I briefly wondered if she kept these items in the office for occasions just like this one."
-    m "Elle c'est couché sur un tapis et un oreiller qu'elle avait tiré de je ne sais où puis ma présenté son dos. Je me suis briévement demandé si elle gardé ces objets pour des occasions comme celle-ci."
+    m "Elle se coucha sur un tapis et un oreiller qu'elle avait tiré de je ne sais où puis me présenta son dos. Je me demandai sur le moment si elle gardait ces objets pour des occasions comme celle-ci."
 
 # game/xemera.rpy:661
 translate frenchtl _call_syscheck_69_a243e5ed:
 
     # c "So, what should I do?"
-    c "Bon, Que dois-je faire?"
+    c "Bon, Que dois-je faire ?"
 
 # game/xemera.rpy:663
 translate frenchtl _call_syscheck_69_3f211e10:
 
     # Em "You can start at the neck and work your way down."
-    Em "Commencer par le cou puis descender progressivement."
+    Em "Commencez par le cou puis descendez progressivement."
 
 # game/xemera.rpy:665
 translate frenchtl _call_syscheck_69_bd8676bf:
 
     # c "Well, I don't know much about massaging an earth dragon. What kind of... movements are we talking about here?"
-    c "Et bien, Je ne sais pas grand chose sur le massage des dragons de terre. quel genre de... mouvements parlons nous ici?"
+    c "Eh bien, Je ne sais pas grand chose sur le massage des dragons de terre. quel genre de... mouvements parlons-nous ici ?"
 
 # game/xemera.rpy:667
 translate frenchtl _call_syscheck_69_dcdc0807:
 
     # Em "Just put your palms on it and start rubbing in circles. And don't hold back. I assure you we earth dragons can take anything you dish out."
-    Em "Mettez juste vos paumes dessus et commencer a frotter en faisant des cercles. Et ne te retiens pas. Je t'assure que nous, les dragons de terre, pouvons résister a tout ce que tu peux nous faire."
+    Em "Mettez juste vos paumes dessus et commencer a frotter en faisant des cercles. Et ne vous retenez pas. Je puis vous assurer que nous, les dragons de terre, pouvons résister a tout ce que vous pouvez nous infliger."
 
 # game/xemera.rpy:669
 translate frenchtl _call_syscheck_69_86148265:
@@ -1134,13 +1134,13 @@ translate frenchtl _call_syscheck_69_86148265:
 translate frenchtl _call_syscheck_69_62ca6922:
 
     # m "I put my hands on her rather girthy neck and did as she told me, rubbing my palms on it in a circular motion."
-    m "Je mit mes mains sur son large cou et fit comme elle me l'avais dit, frottant mes paumes en un mouvement circulaire."
+    m "Je mis mes mains sur son large cou et fis comme elle me l'avait dit, frottant mes paumes en un mouvement circulaire."
 
 # game/xemera.rpy:675
 translate frenchtl _call_syscheck_69_8d26ca41:
 
     # m "I was about to ask her if I was doing it right when I heard her voice."
-    m "J'allais lui demander si ce que je faisais étais bien lorsque j'ai entendu sa voix."
+    m "J'allais lui demander si ce que je le faisais correctement lorsque j'entendis sa voix."
 
 # game/xemera.rpy:677
 translate frenchtl _call_syscheck_69_84923071:
@@ -1152,19 +1152,19 @@ translate frenchtl _call_syscheck_69_84923071:
 translate frenchtl _call_syscheck_69_4859a5ed:
 
     # Em "Just be careful around the spines. I think we both don't want this to end with an impaled hand."
-    Em "Fait attention autour des épines. JE pense que nous voulons tout les deux évité que cela finissent sur une main empalé."
+    Em "Faites attention autour des épines. Je pense que nous voulons tout les deux éviter que cela finisse sur une main empalé."
 
 # game/xemera.rpy:681
 translate frenchtl _call_syscheck_69_84346aa1:
 
     # m "After she had mentioned them, I couldn't help but watch her spines a bit more closely while I continued my ministrations."
-    m "Après qu'elle l'ai mentionné, je ne pouvais pas m'empécher d'observer ses épines de plus près en continuant mes soins."
+    m "Après qu'elle l'eut mentionné, je ne pus m'empécher d'observer ses épines de plus près tout en continuant mes soins."
 
 # game/xemera.rpy:683
 translate frenchtl _call_syscheck_69_52efd1ad:
 
     # m "They seemed to be made from the same material as the horn on her muzzle. Even though they were not as girthy, they still started out with a rather wide base, ultimately culminating in a point that didn't seem sharp enough to cause any damage by accident."
-    m "Ils semblaient fait du même matériau que sa corne sur son museau. Même si ils n'etaient pas de la même circonférence, ils commençaient avec une base plutôt large, pour finalement culminé en une pointe qui ne semblait pas assez aiguisé pour provoqué des dégats par accident."
+    m "Ils semblaient faits du même matériau que la corne sur son museau. Même s'ils n'étaient pas de la même circonférence, ils commençaient avec une base plutôt large, pour finalement culminer en une pointe qui ne semblait pas assez aiguisée pour provoquer des dégâts par accident."
 
 # game/xemera.rpy:685
 translate frenchtl _call_syscheck_69_55e42644:
@@ -1176,19 +1176,19 @@ translate frenchtl _call_syscheck_69_55e42644:
 translate frenchtl _call_syscheck_69_afb14ef0:
 
     # m "When I resumed my treatment, she suddenly bucked, her spines only missing me by inches when she suddenly threw her head up."
-    m "Lorsque j'ai repris mes attentions, elle s'est soudain ébranlé, ses épines ne me manquant de quelques centimètres seulement lorsque elle a soudainement relevé sa tête."
+    m "Lorsque je repris mes attentions, elle s'ébranla soudainement, ses épines ne me manquant de quelques centimètres seulement lorsque elle releva soudainement sa tête."
 
 # game/xemera.rpy:691
 translate frenchtl _call_syscheck_69_a8819877:
 
     # c "(I guess she wasn't kidding about watching out for the spines.)"
-    c "(Je crois qu'elle ne plaisantai pas lorsqu'elle me disait de faire attention à ses épnies.)"
+    c "(Je crois qu'elle ne plaisantait pas lorsqu'elle me disait de faire attention à ses épnies.)"
 
 # game/xemera.rpy:695
 translate frenchtl _call_syscheck_69_5b0f3cd3:
 
     # m "Fearing a bit for my safety, I moved down to her shoulders."
-    m "Craignant pour ma sécurité, je suis descendu jusqu'à ses épaules."
+    m "Craignant pour ma sécurité, je descendis jusqu'à ses épaules."
 
 # game/xemera.rpy:697
 translate frenchtl _call_syscheck_69_993ce268:
@@ -1200,61 +1200,61 @@ translate frenchtl _call_syscheck_69_993ce268:
 translate frenchtl _call_syscheck_69_d0ae06d2:
 
     # c "Is that so?"
-    c "Vraiment?"
+    c "Vraiment ?"
 
 # game/xemera.rpy:701
 translate frenchtl _call_syscheck_69_4ea0f725:
 
     # Em "Mmmm-hmmm. The movements, the incomparably soft skin on your hands..."
-    Em "Mmmm-hmmm. Kes mouvements, la peau incomparablement douce de tes mains..."
+    Em "Mmmm-hmmm. Les mouvements, la peau incomparablement douce de tes mains..."
 
 # game/xemera.rpy:703
 translate frenchtl _call_syscheck_69_ad14bda3:
 
     # c "I'll take it as a compliment."
-    c "Je prend cela pour un compliment."
+    c "Je prend ça pour un compliment."
 
 # game/xemera.rpy:705
 translate frenchtl _call_syscheck_69_ad6c8f6a:
 
     # Em "It most certainly is."
-    Em "Ça en est un."
+    Em "C'en est un."
 
 # game/xemera.rpy:709
 translate frenchtl _call_syscheck_69_0140e243:
 
     # m "I moved further down to her back, noticing the increased roughness and armor that covered her there."
-    m "Je suis descendu plus bas dans son dos, remarquant l'augmentation de la rugosité et de l'épaisseur qui la couvrait ici."
+    m "Je descendis plus bas dans son dos, remarquant l'augmentation de la rugosité et de l'épaisseur qui la couvrait ici."
 
 # game/xemera.rpy:711
 translate frenchtl _call_syscheck_69_d254a831:
 
     # Em "Don't hold back now, [player_name]. Put your strength into it, or I won't even feel a thing."
-    Em "Ne t'arrête pas maintenant, [player_name]. Met y de la force, ou je ne sentirai rien."
+    Em "Ne t'arrête pas maintenant, [player_name]. Mets y de la force, ou je ne sentirai rien."
 
 # game/xemera.rpy:713
 translate frenchtl _call_syscheck_69_717777da:
 
     # m "Following her guidance, I increased the pressure from my palms more and more."
-    m "Suivant ses instructions, J'ai augmenté la pression sur mes paumes encore et encore."
+    m "Suivant ses instructions, J'augmentai la pression sur mes paumes encore et encore."
 
 # game/xemera.rpy:715
 translate frenchtl _call_syscheck_69_5d094afe:
 
     # Em "Harder!"
-    Em "Plus fort!"
+    Em "Plus fort !"
 
 # game/xemera.rpy:717
 translate frenchtl _call_syscheck_69_19969578:
 
     # m "I gave it everything I could, and as I kept going at her, I noticed the muscles beneath her armor softening noticably."
-    m "J'ai donné tout ce que j'avais, et tandis que je continué, j'ai observé ses muscles se détendre derrière ses écailles."
+    m "Je donnais tout ce que j'avais, et tandis que je continuais, j'observais ses muscles se détendre derrière ses écailles."
 
 # game/xemera.rpy:719
 translate frenchtl _call_syscheck_69_6faed94e:
 
     # Em "You know how to please, dont you?"
-    Em "VOus savez comment faire plaisir, n'est ce pas?"
+    Em "Tu sais comment faire plaisir, n'est ce pas ?"
 
 # game/xemera.rpy:725
 translate frenchtl _call_syscheck_69_58b34d46:
@@ -1272,7 +1272,7 @@ translate frenchtl _call_syscheck_69_586959d7:
 translate frenchtl _call_syscheck_69_a73a936e:
 
     # m "By this point I had moved down to her hips, giving them the same treatment as with the rest of her body."
-    m "A ce moment j'etais descendu à ses hanches, leurs donnant le même traitement qu'au reste de son corps."
+    m "A ce moment j'étais descendu sur ses hanches, leurs donnant le même traitement qu'au reste de son corps."
 
 # game/xemera.rpy:736
 translate frenchtl _call_syscheck_69_a4fcacad:
@@ -1284,49 +1284,49 @@ translate frenchtl _call_syscheck_69_a4fcacad:
 translate frenchtl _call_syscheck_69_ccc73e23:
 
     # Em "You dont know what having to sit in an office all day does to my hips, [player_name]."
-    Em "Vous ne savez pas ce que restez assis dans un bureau toute la journée fait à mes hanches, [player_name]."
+    Em "Vous ne savez pas ce que rester assis dans un bureau toute la journée fait à mes hanches, [player_name]."
 
 # game/xemera.rpy:740
 translate frenchtl _call_syscheck_69_7b788246:
 
     # m "Unrelentingly I continued, vowing not to stop until every last knot in her muscles was gone."
-    m "sans relâche, j'ai continué, essayant de ne pas m'arreter avant que le dernier noeu dans ses muscles est disparu."
+    m "Sans relâche, je continuais, essayant de ne pas m'arrêter avant que le dernier noeud dans ses muscles ait disparu."
 
 # game/xemera.rpy:742
 translate frenchtl _call_syscheck_69_dd5cb305:
 
     # Em "Don't stop now, [player_name]. Give it all you got!"
-    Em "Ne t'arrête pas maintenant, [player_name]. Donne tout ce que tu as!"
+    Em "Ne t'arrête pas maintenant, [player_name]. Donne tout ce que tu as !"
 
 # game/xemera.rpy:750
 translate frenchtl _call_syscheck_69_a55f3f4c:
 
     # m "I went faster, tenderizing her like a rump steak."
-    m "J'ai accélérer, l'attendrissant comme un steak."
+    m "J'accélérais, l'attendrissant comme un steak."
 
 # game/xemera.rpy:753
 translate frenchtl _call_syscheck_69_cc4ec645:
 
     # Em "Just like that!"
-    Em "Comme ça!"
+    Em "Comme ça !"
 
 # game/xemera.rpy:757
 translate frenchtl _call_syscheck_69_fce4ed1b:
 
     # Em "Yes!"
-    Em "Oui!"
+    Em "Oui! "
 
 # game/xemera.rpy:761
 translate frenchtl _call_syscheck_69_78a9ba37:
 
     # Em "YES!"
-    Em "OUI!"
+    Em "OUI !"
 
 # game/xemera.rpy:765
 translate frenchtl _call_syscheck_69_4f8fd330:
 
     # m "And with that, my treatment was done, her hips now as soft and supple as a jello-filled beanbag."
-    m "Est ainsi, mes soins furent terminés, ses hanches aussi tendre et souple qu'un pouf rempli de gelée."
+    m "Et ainsi, mes soins furent terminés, ses hanches à présent aussi tendre et souple qu'un pouf rempli de gelée."
 
 # game/xemera.rpy:767
 translate frenchtl _call_syscheck_69_db5e9e34:
@@ -1386,7 +1386,7 @@ translate frenchtl _call_syscheck_69_794a89e8:
 translate frenchtl _call_syscheck_69_d0ae06d2_1:
 
     # c "Is that so?"
-    c "Vraiment?"
+    c "Vraiment ?"
 
 # game/xemera.rpy:793
 translate frenchtl _call_syscheck_69_be39873e:
@@ -1398,13 +1398,13 @@ translate frenchtl _call_syscheck_69_be39873e:
 translate frenchtl _call_syscheck_69_59e810c4:
 
     # c "I'll keep that in mind."
-    c "Je garde ça en tête."
+    c "Je garderai ça en tête."
 
 # game/xemera.rpy:797
 translate frenchtl _call_syscheck_69_907998b1:
 
     # Em frown b "Anyway, I should probably head off to my meeting, and I'm sure you also have places to be, [player_name]."
-    Em frown b "Je devrais allez à mon rendez-vous, et je suis sur que tu est réclamé ailleurs, [player_name]."
+    Em frown b "Je devrais aller à mon rendez-vous, et je suis sûre que tu es réclamé ailleurs, [player_name]."
 
 # game/xemera.rpy:799
 translate frenchtl _call_syscheck_69_e3672f05:
@@ -1416,13 +1416,13 @@ translate frenchtl _call_syscheck_69_e3672f05:
 translate frenchtl _call_syscheck_69_e4d1823d:
 
     # Em mean b "I'm sure of it."
-    Em mean b "Je suis sûre de cela."
+    Em mean b "J'en suis certaine."
 
 # game/xemera.rpy:820
 translate frenchtl _call_syscheck_70_188d7042:
 
     # s "You just met with Emera!"
-    s "Vous avez recontré Emera!"
+    s "Vous avez recontré Emera !"
 
 # game/xemera.rpy:824
 translate frenchtl _call_syscheck_70_14d763e9:
@@ -1434,7 +1434,7 @@ translate frenchtl _call_syscheck_70_14d763e9:
 translate frenchtl _call_syscheck_70_8a4bfca5:
 
     # s "You just met with Emera. What an interesting lady..."
-    s "Vous avez rencontré Emera. Quelle jeune dragonne interessante..."
+    s "Vous avez rencontré Emera. Quelle dame interessante..."
 
 translate frenchtl strings:
 
@@ -1456,15 +1456,19 @@ translate frenchtl strings:
 
     # xemera.rpy:123
     old "That I am."
-    new "Je suis."
+    new "Je le suis."
 
     # xemera.rpy:123
     old "I have no doubt the same is true for you."
-    new "Pas de doute que c'est la même chose pour vous."
+    new "Je me doute que ça doit être la même chose pour vous."
 
     # xemera.rpy:123
     old "Not too busy for a visit like this one."
     new "Pas assez occupé pour une visite comme celle-ci."
+
+    # xemera.rpy:174
+    old "I do."
+    new "Je l'apprécie oui."
 
     # xemera.rpy:174
     old "I don't."
@@ -1472,19 +1476,23 @@ translate frenchtl strings:
 
     # xemera.rpy:174
     old "Work doesn't have to be enjoyable."
-    new "Le travail n'as pas a être amusant."
+    new "Le travail n'a pas à être amusant."
 
     # xemera.rpy:448
     old "Sure do."
-    new "Bien sûr"
+    new "Bien sûr."
 
     # xemera.rpy:448
     old "In theory, at the very least."
     new "En théorie, du moins."
 
     # xemera.rpy:493
+    old "Maybe."
+    new "Peut être."
+
+    # xemera.rpy:493
     old "For you? Anytime."
-    new "Pour vous? Quand vous voulez."
+    new "Pour vous ? Quand vous voulez."
 
     # xemera.rpy:493
     old "Maybe not."
@@ -1492,23 +1500,27 @@ translate frenchtl strings:
 
     # xemera.rpy:523
     old "It goes well with your make-up and jewelry."
-    new "Cela va bien avec vos parures."
+    new "Cela va bien avec votre maquillage et vos bijoux."
 
     # xemera.rpy:523
     old "It contrasts nicely with your natural color."
-    new "Cela contraste avec votre couleur naturel."
+    new "Cela contraste bien avec votre couleur naturel."
 
     # xemera.rpy:523
     old "I thought they already looked nice before."
-    new "Je pense qu'il semblait déjà bien au départ."
+    new "Je pense que c'était déjà bien au départ."
 
     # xemera.rpy:562
     old "I don't know how."
     new "Je ne sais pas."
+    
+     # xemera.rpy:562
+    old "Not at all."
+    new "Pas du tout."
 
     # xemera.rpy:562
     old "Actually, I should probably get going."
-    new "Je devrait y'allez."
+    new "En fait, je crois que je devrais y'allez."
 
     # xemera.rpy:721
     old "Apparently, I do..."
