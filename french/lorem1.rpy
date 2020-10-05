@@ -6,7 +6,7 @@
 translate french lorem1_3d89afe3:
 
     # m "I went to the bar Lorem had suggested as our meeting place. When I looked around, I saw Bryce sitting at a table, talking to someone I couldn’t see. I lingered on him for a second, but soon spotted Lorem in the corner of my eye."
-    m "﻿J'allai au bar que Lorem avait suggéré pour notre rendez-vous. Quand je regardai autour de moi, j'aperçus Bryce assis a une table, parlant à une personne que je ne pouvais voir. Je m'attardai sur lui le temps d'une seconde, mais remarquai bientôt Lorem du coin de l'œil."
+    m "J'allai au bar que Lorem avait suggéré pour notre rendez-vous. En regardant autour de moi, j'aperçus Bryce assis à une table, parlant à une personne que je ne pouvais voir. Je m'étais attardé sur lui le temps d'une seconde, mais remarquai très vite Lorem du coin de l'œil."
 
 # game/lorem1.rpy:40
 translate french lorem1_fb5ec58c:
@@ -54,13 +54,13 @@ translate french _call_skipcheck_16_0054b77b:
 translate french _call_skipcheck_16_165776d4:
 
     # Lo relieved "It's good to see you! I thought you might not show up."
-    Lo relieved "Il est bon de te voir ! Je pensais que tu ne viendrais pas."
+    Lo relieved "C'est bon de te voir ! Je pensais que tu ne viendrais pas."
 
 # game/lorem1.rpy:124
 translate french _call_skipcheck_16_c7d509db:
 
     # Lo normal "Not at all! I got here early."
-    Lo normal "Pas du tout! Je suis venu en avance."
+    Lo normal "Pas du tout ! Je suis venu en avance."
 
 # game/lorem1.rpy:130
 translate french _call_skipcheck_16_694b8196:
@@ -72,7 +72,7 @@ translate french _call_skipcheck_16_694b8196:
 translate french _call_skipcheck_16_13dd88b5:
 
     # Lo "I'm glad you came anyway."
-    Lo "Je suis content que tu sois venu finalement."
+    Lo "Je suis content que tu aies décidé de venir finalement."
 
 # game/lorem1.rpy:145
 translate french _call_skipcheck_16_2e0eeda6:
@@ -102,7 +102,7 @@ translate french _call_skipcheck_16_e802b109:
 translate french _call_skipcheck_16_649fddf0:
 
     # Lo happy "Speaking of which, are you fully grown yet? How big do humans usually get and how do you stack up, comparatively speaking?"
-    Lo happy "En parlant de ça, ta propre croissance est-elle terminée ? Jusqu'à quel point les humains peuvent-ils grandir, et comment est ta propre taille en comparaison ?"
+    Lo happy "En parlant de ça, ta propre croissance est-elle terminée ? Jusqu'à quel point les humains peuvent-ils grandir, et où se situe ta propre taille en comparaison ?"
 
 # game/lorem1.rpy:155
 translate french _call_skipcheck_16_dd38c1dc:
