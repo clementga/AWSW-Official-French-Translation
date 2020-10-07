@@ -168,7 +168,7 @@ translate french _call_skipcheck_16_f52dcfe5:
 translate french _call_skipcheck_16_d8bc587f:
 
     # Lo normal "Living in the city can be very expensive. I can always move later when I get a job there. I've got other plans right now, though."
-    Lo normal "Vivre dans une grande ville peut revenir très cher. Je peux toujours déménager plus tard si j'obtiens un travail là-bas. J'ai d'autres plans pour l'instant, cependant."
+    Lo normal "Vivre dans une grande ville peut devenir très cher. Je peux toujours déménager plus tard si j'obtiens un travail là-bas. J'ai d'autres plans pour l'instant, cependant."
 
 # game/lorem1.rpy:194
 translate french _call_skipcheck_16_3ad10c5b:
@@ -198,7 +198,7 @@ translate french _call_skipcheck_16_1db2bc1a:
 translate french _call_skipcheck_16_2d0c2152:
 
     # Lo "Video games and computers are just starting to catch on in places like this town. Making good content will be very important to give a good first impression."
-    Lo "Les jeux vidéo et les ordinateurs ont tout juste commencé a devenir populaires dans les endroits comme cette ville. Créer du bon contenu sera très important pour faire une bonne première impression."
+    Lo "Les jeux vidéo et les ordinateurs ont tout juste commencé à devenir populaires dans des lieux comme cette ville. Créer du bon contenu sera très important pour faire une bonne première impression."
 
 # game/lorem1.rpy:227
 translate french _call_skipcheck_16_b7b18181:
@@ -276,13 +276,13 @@ translate french _call_skipcheck_16_6e20b877:
 translate french _call_skipcheck_16_1b74c6ae:
 
     # c "At least I won't have to be so careful now. With a reporter, I'd have to worry about things being misinterpreted or being taken out of context."
-    c "Au moins je n'aurai plus à être aussi prudent maintenant. Avec un journaliste, j'aurais eu peur que mes propos soient mal interprétés ou sortis du contexte."
+    c "Au moins je n'aurai plus à être aussi prudent maintenant. Avec un journaliste, j'aurais eu peur que mes propos soient mal interprétés ou sortis de leur contexte."
 
 # game/lorem1.rpy:301
 translate french _call_skipcheck_16_8062b0e2:
 
     # Lo normal "You should still be careful. What you tell me now will influence how your entire species will be represented in my game."
-    Lo normal "Tu devrais malgré tout être prudent. Ce que tu vas me dire influencera la manière dont toute ton espèce sera représentée dans mon jeu"
+    Lo normal "Tu devrais malgré tout être prudent. Ce que tu vas me dire influencera la manière dont toute ton espèce sera représentée dans mon jeu."
 
 # game/lorem1.rpy:303
 translate french _call_skipcheck_16_5fef0849:
@@ -294,7 +294,7 @@ translate french _call_skipcheck_16_5fef0849:
 translate french _call_skipcheck_16_fc346745:
 
     # Lo think "How should we do this? Let me think..."
-    Lo think "Comment devrait on s'y prendre ? Laisse-moi réfléchir..."
+    Lo think "Comment devrait-on s'y prendre ? Laisse-moi réfléchir..."
 
 # game/lorem1.rpy:324
 translate french _call_skipcheck_16_7e729438:
@@ -306,19 +306,19 @@ translate french _call_skipcheck_16_7e729438:
 translate french _call_skipcheck_16_3097ad9e:
 
     # Lo happy "I've always wanted to make a video game. I've had this idea for a while, and it seems now is the right time to do it. It's almost as if you arrived at the perfect moment."
-    Lo happy "J'ai toujours voulu développer un jeu vidéo. J'ai cette idée en tête depuis un moment, et il semble que maintenant soit le meilleur moment pour le faire. C'est presque comme si tu étais arrivé au moment parfait."
+    Lo happy "J'ai toujours voulu développer un jeu vidéo. J'ai cette idée en tête depuis un moment, et il me semble que maintenant soit le meilleur moment pour le faire. C'est presque comme si tu étais arrivé au moment parfait."
 
 # game/lorem1.rpy:328
 translate french _call_skipcheck_16_51a478e0:
 
     # c "I don't know. Don't you think my visit will overshadow your efforts? People may not be so interested in playing a game about humans anymore if they had a real one show up."
-    c "Je ne sais pas. Ne penses-tu pas que ma visite éclipsera tes efforts ? Les gens ne seront peut-être plus aussi intéressés par un jeu sur des humains si le vrai modèle apparaît."
+    c "Je ne sais pas. Ne penses-tu pas que ma visite éclipsera tes efforts ? Les gens ne seront peut-être plus aussi intéressés par un jeu sur des humains si le vrai modèle se montre."
 
 # game/lorem1.rpy:330
 translate french _call_skipcheck_16_390e2221:
 
     # Lo normal "Good point, but the vast majority won't get to meet you personally, anyway. If I say I did and modeled the humans in the game after you, people will flock to it to get a similar experience."
-    Lo normal "Bonne remarque, mais la vaste majorité de la population ne te verra pas personnellement de toute façon. Si je dis que j'ai créé et modelé les humains après le vrai toi, les gens afflueront en masse pour vivre une expérience similaire."
+    Lo normal "Bonne remarque, mais la vaste majorité de la population ne te verra pas personnellement de toute façon. Si je dis que j'ai créé et modelé les humains en me basant sur toi, les gens afflueront en masse pour vivre une expérience similaire."
 
 # game/lorem1.rpy:338
 translate french _call_skipcheck_16_adcb0d58:
@@ -330,7 +330,7 @@ translate french _call_skipcheck_16_adcb0d58:
 translate french _call_skipcheck_16_349dd55e:
 
     # Lo relieved "That's just a necessary evil, I think. They have to know somehow."
-    Lo relieved "C'est un mal nécessaire, je suppose. Il faut bien qu'ils le savent, d'une manière ou d'une autre."
+    Lo relieved "C'est un mal nécessaire, je suppose. Il faut bien qu'ils le sachent, d'une manière ou d'une autre."
 
 # game/lorem1.rpy:352
 translate french _call_skipcheck_16_140ef85b:
@@ -378,7 +378,7 @@ translate french _call_skipcheck_16_3ee17091:
 translate french _call_skipcheck_16_1c08cd7f:
 
     # c "Besides, what if I turn out to be a horrible person? What would you think about humans then?"
-    c "Et si en verité j'étais une horrible personne ? Que penserais-tu des humains alors ?"
+    c "Et si en verité j'étais une personne horrible ? Que penserais-tu des humains alors ?"
 
 # game/lorem1.rpy:389
 translate french _call_skipcheck_16_9bf80b9c:
