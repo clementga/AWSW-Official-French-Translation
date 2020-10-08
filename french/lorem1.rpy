@@ -384,13 +384,13 @@ translate french _call_skipcheck_16_1c08cd7f:
 translate french _call_skipcheck_16_9bf80b9c:
 
     # Lo think "It wouldn't change anything, because I wouldn't base my opinion of an entire species on interactions with a single individual."
-    Lo think "Ça ne changerait rien je pense, car je ne baserais pas mon opinion sur une espèce entière sur mes interactions avec une personne."
+    Lo think "Ça ne changerait rien je pense, car je ne baserais pas mon opinion d'une espèce entière sur mes interactions avec une personne."
 
 # game/lorem1.rpy:391
 translate french _call_skipcheck_16_054e3918:
 
     # c "Then what is your current opinion of us based on?"
-    c "Sur quoi est basée ton opinion actuelle sur nous alors ?"
+    c "Sur quoi est basée ton opinion actuelle de nous alors ?"
 
 # game/lorem1.rpy:393
 translate french _call_skipcheck_16_9420a168:
@@ -414,7 +414,7 @@ translate french _call_skipcheck_16_ef14dde8:
 translate french _call_skipcheck_16_620bc3d3:
 
     # c "Anyway, what's the actual game about? What do you do?"
-    c "Bref, sur quoi sera le jeu lui-même ? Que fait-on dedans ?"
+    c "Bref, sur quoi portera le jeu en lui-même ? Que fait-on dedans ?"
 
 # game/lorem1.rpy:401
 translate french _call_skipcheck_16_579745a7:
@@ -450,7 +450,7 @@ translate french _call_skipcheck_16_fafe2bd6:
 translate french _call_skipcheck_16_491774d2:
 
     # Lo normal "It is! At least, I hope others feel the same way about it."
-    Lo normal "Ça l'ai ! Enfin, j'espère que les autres en pensent la même chose."
+    Lo normal "Ça l'est ! Enfin, j'espère que les autres en pensent la même chose."
 
 # game/lorem1.rpy:429
 translate french _call_skipcheck_16_c4bbdf67:
@@ -462,13 +462,13 @@ translate french _call_skipcheck_16_c4bbdf67:
 translate french _call_skipcheck_16_343057fe:
 
     # Lo happy "I couldn't ask for a better compliment than that!"
-    Lo happy "Je ne pouvais pas demander meilleur compliment que ça !"
+    Lo happy "Je ne pouvais pas demander un meilleur compliment !"
 
 # game/lorem1.rpy:436
 translate french _call_skipcheck_16_40ad1523:
 
     # c "What other mythical creatures are there besides humans?"
-    c "Quels autres créatures mythiques y-a-t'il dans le le jeu à part les humains ?"
+    c "Quelles autres créatures mythiques y a-t-il dans le le jeu à part les humains ?"
 
 # game/lorem1.rpy:438
 translate french _call_skipcheck_16_fca12b73:
@@ -516,7 +516,7 @@ translate french _call_skipcheck_16_12a75e24:
 translate french _call_skipcheck_16_c28061a0:
 
     # Lo think "I can see you don't have wings, but most of us are able to create fire in some way, or at least have a breath weapon. How about you?"
-    Lo think "Je peux voir que tu n'as pas d'ailes, mais la plupart d'entre nous sont capables de créer du feu d'une manière ou d'une autre, ou au moins possèdent la capacité d'attaquer avec leurs souffles draconique. Qu'en est-t'il de toi ?"
+    Lo think "Je peux voir que tu n'as pas d'ailes, mais la plupart d'entre nous sont capables de créer du feu d'une manière ou d'une autre, ou au moins ont leurs souffles draconique. Qu'en est-il de toi ?"
 
 # game/lorem1.rpy:459
 translate french _call_skipcheck_16_d275ced1:
@@ -570,7 +570,7 @@ translate french _call_skipcheck_16_c5aed8d5:
 translate french _call_skipcheck_16_0cef7eef:
 
     # Lo happy "Maybe it’s meant to be taken literally – meaning that when that ability was given to us, you lost it."
-    Lo happy "Peut-être que c'est à prendre littéralement - c'est-à-dire qu'en nous ayant donné cette aptitude, vous l'avez perdu."
+    Lo happy "Peut-être que c'est à prendre littéralement - c'est-à-dire qu'en nous donnant cette aptitude, vous l'avez perdu."
 
 # game/lorem1.rpy:494
 translate french _call_skipcheck_16_8054cb2a:
@@ -588,7 +588,7 @@ translate french _call_skipcheck_16_efda574e:
 translate french _call_skipcheck_16_177d8150:
 
     # c "We have a proverb that sums this up pretty well."
-    c "Nous avons un proverbe qui colle parfaitement."
+    c "Nous avons un proverbe qui colle parfaitement à ça."
 
 # game/lorem1.rpy:500
 translate french _call_skipcheck_16_0bfb9c67:
@@ -600,13 +600,13 @@ translate french _call_skipcheck_16_0bfb9c67:
 translate french _call_skipcheck_16_4a5b7618:
 
     # c "Necessity is the mother of invention."
-    c "Nécessité est mère de l'invention."
+    c "La nécessité est mère de l'invention."
 
 # game/lorem1.rpy:504
 translate french _call_skipcheck_16_c3d29a7c:
 
     # Lo think "So a lack of natural abilities drove innovation forward. What an interesting thought."
-    Lo think "Alors, l'absence d'une aptitude naturelle fit avancer l'innovation. Quelle idée intéressante."
+    Lo think "Alors, l'absence d'une aptitude naturelle fait avancer l'innovation. Quelle idée intéressante."
 
 # game/lorem1.rpy:506
 translate french _call_skipcheck_16_acf8adb4:
