@@ -612,7 +612,7 @@ translate french _call_skipcheck_16_c3d29a7c:
 translate french _call_skipcheck_16_acf8adb4:
 
     # c "Here's another thing: You may have many different images of humans, but in the end, only one can be right."
-    c "Une autre chose : Vous avez de nombreuses images différentes des humains, mais au final, il n'y en a qu'une qui peut être bonne."
+    c "Autre chose : Vous avez de nombreuses perceptions différentes des humains, mais au final, il n'y en a qu'une qui peut être bonne."
 
 # game/lorem1.rpy:508
 translate french _call_skipcheck_16_6cfa7aeb:
@@ -678,7 +678,7 @@ translate french _call_skipcheck_16_7f1295b3:
 translate french _call_skipcheck_16_6bb06f89:
 
     # Lo think "Honestly, the definitions get a bit muddled here. Going by conventional belief, a ghost could be a human who has died and thus changed into a different form. We would call this a spiritual human."
-    Lo think "Honnêtement, les définitions sont assez confuses à ce point. D'après la croyance populaire, un fantôme pourrait être un humain décédé et ayant ainsi changé de forme. Nous appelerions cela un humain spirituel."
+    Lo think "Honnêtement, les définitions sont assez confuses à ce point. D'après la croyance populaire, un fantôme pourrait être un humain décédé et ayant ainsi changé de forme. Nous appellerions cela un humain spirituel."
 
 # game/lorem1.rpy:530
 translate french _call_skipcheck_16_5b7b2cac:
