@@ -732,7 +732,7 @@ translate french _call_skipcheck_16_b57cf12b:
 translate french _call_skipcheck_16_cd5dac38:
 
     # Lo normal "Right. With that we'd go into the realm of creatures that just don't make much sense at all."
-    Lo normal "Ah, oui. Avec ça, on rejoindrait le domaine des créatures qui n'ont, à ce point, plus vraiment aucun sens."
+    Lo normal "Ah, oui. Avec ça, on irait dans le domaine des créatures qui n'ont, à ce point, plus vraiment aucun sens."
 
 # game/lorem1.rpy:548
 translate french _call_skipcheck_16_62c174e9:
@@ -774,7 +774,7 @@ translate french _call_skipcheck_16_223625a4:
 translate french _call_skipcheck_16_d21ff05e:
 
     # c "We are mammals, though."
-    c "Nous sommes des mammifères malgrè tout."
+    c "Nous sommes des mammifères malgré tout."
 
 # game/lorem1.rpy:562
 translate french _call_skipcheck_16_1097c581:
@@ -798,7 +798,7 @@ translate french _call_skipcheck_16_6dae6f38:
 translate french _call_skipcheck_16_3a0f9dbc:
 
     # Lo happy "Oh, do tell!"
-    Lo happy "Oh, raconte !"
+    Lo happy "Oh, racontes !"
 
 # game/lorem1.rpy:570
 translate french _call_skipcheck_16_84b644db:
@@ -888,7 +888,7 @@ translate french _call_skipcheck_16_6b37c29e:
 translate french _call_skipcheck_16_2752c6e4:
 
     # Lo happy "To be fair, I never tried. Hang on."
-    Lo happy "Pour être honnête, je n'ai jamais essayé. Attend."
+    Lo happy "Pour être honnête, je n'ai jamais essayé. Attends."
 
 # game/lorem1.rpy:629
 translate french _call_skipcheck_16_8ee9d226:
@@ -936,7 +936,7 @@ translate french _call_skipcheck_16_0b33fa04:
 translate french _call_skipcheck_16_9d229f6a:
 
     # c "You're going to put all of that into the game?"
-    c "Tu va mettre tous ça dans le jeu ?"
+    c "Tu vas mettre tous ça dans le jeu ?"
 
 # game/lorem1.rpy:646
 translate french _call_skipcheck_16_23818b09:
@@ -1308,7 +1308,7 @@ translate french _call_skipcheck_16_c9537556:
 translate french _call_skipcheck_16_1883cb8f:
 
     # Lo happy "Of course, being able to fly is a big plus. My size means I can't deliver any big packages, but I often get assigned to urgent letters that have to be delivered as soon as possible."
-    Lo happy "Bien sûr, être capable de voler est un grand plus. Ma taille m'empêche de délivrer des gros paquet, mais on m'assigne souvent des lettres urgentes qui doivent être délivrées au plus vite."
+    Lo happy "Bien sûr, être capable de voler est un grand plus. Ma taille m'empêche de livrer des gros paquet, mais on m'assigne souvent des lettres urgentes qui doivent être délivrées au plus vite."
 
 # game/lorem1.rpy:812
 translate french _call_skipcheck_16_03042aef:
@@ -1320,13 +1320,13 @@ translate french _call_skipcheck_16_03042aef:
 translate french _call_skipcheck_16_a2b55cc8:
 
     # c "Yeah, I should probably head back to my apartment before it gets too dark."
-    c "Oui, je devrais probablement rentrer à mon appartement avant qu'il fasse trop sombre dehors."
+    c "Oui, je devrais probablement rentrer chez moi avant qu'il fasse trop sombre dehors."
 
 # game/lorem1.rpy:816
 translate french _call_skipcheck_16_260f4bd1:
 
     # Lo happy "I got more than enough material to work with. Thanks a lot!"
-    Lo happy "J'ai plus qu'assez de matériel avec lequel travailler. Merci beaucoup !"
+    Lo happy "J'ai plus qu'assez de matière avec lequel travailler. Merci beaucoup !"
 
 # game/lorem1.rpy:821
 translate french _call_skipcheck_16_d4b333ad:
@@ -1344,13 +1344,13 @@ translate french _call_skipcheck_16_0fe8ac00:
 translate french _call_skipcheck_16_2631e6bd:
 
     # c "Alright, sure. Here's my number."
-    c "D'accord. Voici mon numéro."
+    c "D'accord. Voilà mon numéro."
 
 # game/lorem1.rpy:829
 translate french _call_skipcheck_16_bdefd922:
 
     # Lo happy "I can't thank you enough for doing this. You've been a huge help!"
-    Lo happy "Je ne peux pas te remercier assez pour ça. Tu as été d'une immense aide !"
+    Lo happy "Je ne peux pas te remercier assez pour ça. Tu as été d'une grande aide !"
 
 # game/lorem1.rpy:831
 translate french _call_skipcheck_16_5101fbef:
@@ -1380,13 +1380,13 @@ translate french _call_skipcheck_16_77d9b866:
 translate french lorem1skip_0816df93:
 
     # c "Don't worry about it. I'll just consider it a public service."
-    c "Ne t'en fais pas pour ça. Je vais simplement le considèrer comme un service publique."
+    c "Ne t'en fais pas pour ça. Je vais simplement le considérer comme un service publique."
 
 # game/lorem1.rpy:871
 translate french lorem1skip_1847224a:
 
     # Lo normal "Honestly, I'm incredibly grateful for the opportunity, especially after nearly getting denied by Sebastian when I met you."
-    Lo normal "Honnêtement, je t'en suis incroyablement reconnnaisant pour cette opportunité, tout particulièrement après m'être presque fait jeté dehors par Sébastien quand je t'ai rencontré."
+    Lo normal "Honnêtement, je te suis incroyablement reconnnaisant pour cette opportunité, tout particulièrement après m'être presque fait jeté dehors par Sébastien quand je t'ai rencontré."
 
 # game/lorem1.rpy:873
 translate french lorem1skip_40b41860:
@@ -1548,7 +1548,7 @@ translate french strings:
 
     # lorem1.rpy:305
     old "Don't get ahead of yourself. We haven't even started yet."
-    new "Ne va pas plus vite que la lumière. Nous n'avons même pas encore commencé."
+    new "Ne t'emballes pas. Nous n'avons même pas encore commencé."
 
     # lorem1.rpy:305
     old "I'm sure of it."
@@ -1584,7 +1584,7 @@ translate french strings:
 
     # lorem1.rpy:409
     old "Sounds boring."
-    new "Ça a l'air ennuyant."
+    new "Ça a l'air ennuyeux."
 
     # lorem1.rpy:409
     old "That sounds interesting."
@@ -1629,7 +1629,7 @@ translate french strings:
 
     # lorem1.rpy:740
     old "Seems like you know what you're doing."
-    new "J'ai l'impression que tu sais ce que tu fait."
+    new "On dirait que tu sais ce que tu fait."
 
     # lorem1.rpy:740
     old "Deadlines are a good way to ensure something gets done, though."
