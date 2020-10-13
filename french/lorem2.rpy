@@ -6,7 +6,7 @@
 translate french lorem2_9837792f:
 
     # Lo "There you are. Come in!"
-    Lo "﻿Te voilà. Entre !"
+    Lo "Te voilà. Entre !"
 
 # game/lorem2.rpy:51
 translate french _call_skiptut_33_0ff5f677:
@@ -48,7 +48,7 @@ translate french _call_skipcheck_33_c48dc32f:
 translate french _call_skipcheck_33_3cf7a22b:
 
     # Lo "Honestly, I can't believe you agreed to do this again."
-    Lo "Honnêtement, je n'arrive pas à y croire que tu aies accepté de venir de nouveau."
+    Lo "Honnêtement, je n'arrive pas à croire que tu aies accepté de remettre ça."
 
 # game/lorem2.rpy:130
 translate french _call_skipcheck_33_afc2b966:
@@ -120,7 +120,7 @@ translate french _call_skipcheck_33_694805d0:
 translate french _call_skipcheck_33_2025d514:
 
     # Lo normal "You remember the myth about our creator turning into a dragon, right?"
-    Lo normal "Tu te rappeles du mythe qui disait que notre créateur s'était changé en dragon, pas vrai ?"
+    Lo normal "Tu te rappelles du mythe qui disait que notre créateur s'était changé en dragon, pas vrai ?"
 
 # game/lorem2.rpy:210
 translate french _call_skipcheck_33_c0d6d907:
@@ -156,7 +156,7 @@ translate french _call_skipcheck_33_e9687f73:
 translate french _call_skipcheck_33_e88a36b6:
 
     # Lo normal "If human DNA was involved in some way, this might explain how our different species came to be."
-    Lo normal "Si de l'ADN humain a été impliqué de quelque manière que ce soit, cela pourrait expliquer comment nos différentes espèces vinrent à être."
+    Lo normal "Si de l'ADN humain a été impliqué de quelque manière que ce soit, cela pourrait expliquer comment nos espèces devinrent si différentes."
 
 # game/lorem2.rpy:228
 translate french _call_skipcheck_33_e854af10:
@@ -204,7 +204,7 @@ translate french _call_skipcheck_33_a6b27b25:
 translate french _call_skipcheck_33_1db19130:
 
     # Lo think "Here, look at this one."
-    Lo think "Tiens, regarde celui-là."
+    Lo think "Tiens, regardes celui-là."
 
 ##
 # game/lorem2.rpy:304
