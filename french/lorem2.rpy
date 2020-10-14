@@ -253,19 +253,19 @@ translate french _call_skipcheck_33_c5aed8d5:
 translate french _call_skipcheck_33_657a392a:
 
     # Lo think "There are some that don't think humans are friendly at all, though."
-    Lo think "Il y en a qui pensent que les humains ne sont amicaux du tout cependant."
+    Lo think "Il y en a qui pensent que les humains ne sont pas amicaux du tout cependant."
 
 # game/lorem2.rpy:333
 translate french _call_skipcheck_33_7a84a84d:
 
     # c "Really? So far I've only heard positive things about us."
-    c "Vraiment ? Jusqu'à présent, je n'ai entendu que des bonnes choses sur nous."
+    c "Vraiment ? Jusqu'à présent, je n'ai entendu que des choses positives sur nous."
 
 # game/lorem2.rpy:335
 translate french _call_skipcheck_33_4d30e1e8:
 
     # Lo relieved "Some interpretations of our myths don't exactly paint you in the best light."
-    Lo relieved "Certaines interprétations de nos mythes ne vous peignent pas exactement sous votre meilleur jour."
+    Lo relieved "Certaines interprétations de nos mythes ne vous dépeignent pas exactement sous votre meilleur jour."
 
 # game/lorem2.rpy:337
 translate french _call_skipcheck_33_33467dca:
@@ -355,7 +355,7 @@ translate french _call_skipcheck_33_cc598d87:
 translate french _call_skipcheck_33_d5426c4b:
 
     # c "Alright, what do you need me to do?"
-    c "Très bien, que veux-tu de moi ?"
+    c "Très bien, qu'attends-tu de moi ?"
 
 # game/lorem2.rpy:385
 translate french _call_skipcheck_33_8f80dab6:
@@ -469,7 +469,7 @@ translate french _call_skipcheck_33_71527314:
 translate french _call_skipcheck_33_3e6b13bd:
 
     # "???" "Like you aren't doing that right now. Besides, this room is mine as much as it is yours. I'll just watch and be quiet."
-    "???" "Comme si ce n'était pas ce que tu faisais en ce moment même. En outre, cette pièce m'appartient autant à moi qu'à toi. Je vais juste regarder et rester silencieux."
+    "???" "Comme si ce n'était pas ce que tu faisais en ce moment même. En outre, cette pièce m'appartient autant qu'à toi. Je vais juste regarder et rester silencieux."
 
 # game/lorem2.rpy:472
 translate french _call_skipcheck_33_694dd263:
@@ -529,7 +529,7 @@ translate french _call_skipcheck_33_71527314_1:
 translate french _call_skipcheck_33_9d921148:
 
     # Ip happy "Like you aren't doing that already. Besides, this room is mine as much as it is yours. I'll just watch and be quiet."
-    Ip happy "Comme si ce n'était pas ce que tu faisais en ce moment même. En outre, cette pièce m'appartient autant à moi qu'à toi. Je vais juste regarder et rester silencieux."
+    Ip happy "Comme si ce n'était pas ce que tu faisais en ce moment même. En outre, cette pièce m'appartient autant qu'à toi. Je vais juste regarder et rester silencieux."
 
 # game/lorem2.rpy:500
 translate french _call_skipcheck_33_694dd263_1:
@@ -607,7 +607,7 @@ translate french _call_skipcheck_33_e7ea9bec:
 translate french _call_skipcheck_33_50dc3bee:
 
     # Ip happy "No. They'll never catch me."
-    Ip happy "Non. Ils ne m'auront jamais."
+    Ip happy "Non. Ils ne m'attraperont jamais."
 
 # game/lorem2.rpy:534
 translate french _call_skipcheck_33_b8ca0add:
