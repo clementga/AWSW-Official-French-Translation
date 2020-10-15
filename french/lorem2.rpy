@@ -913,7 +913,7 @@ translate french _call_skipcheck_33_b3470ca8:
 translate french _call_skipcheck_33_5087feff:
 
     # c "I hope this doesn't take much longer, because my arms went numb a while ago."
-    c "J'espère que ça ne prendra pas beaucoup plus longtemps, car mes bras se sont engourdis il y a déjà un moment."
+    c "J'espère que ça ne prendra pas trop longtemps, car mes bras se sont engourdis il y a déjà un moment."
 
 # game/lorem2.rpy:664
 translate french _call_skipcheck_33_1625f8eb:
@@ -949,7 +949,7 @@ translate french _call_skipcheck_33_53ae6636:
 translate french _call_skipcheck_33_1e1e61cb:
 
     # Ip think "So that's what this is all about."
-    Ip think "Alors c'est ça dont il s'agit."
+    Ip think "Alors c'est de ça dont il s'agit."
 
 # game/lorem2.rpy:678
 translate french _call_skipcheck_33_b48e8a0f:
@@ -967,7 +967,7 @@ translate french _call_skipcheck_33_fd3703eb:
 translate french _call_skipcheck_33_ae895e6a:
 
     # c "Isn't it my turn to draw you now?"
-    c "N'est-ce pas à mon tour de te dessiner maintenant ?"
+    c "Ce ne serait pas à mon tour de te dessiner maintenant ?"
 
 # game/lorem2.rpy:684
 translate french _call_skipcheck_33_d421f50d:
@@ -1033,7 +1033,7 @@ translate french _call_skipcheck_33_6fe70916:
 translate french _call_skipcheck_33_99d837a0:
 
     # Lo normal flip "If humans wear clothes like this, it's only appropriate to depict them as such."
-    Lo normal flip "Si les humains portent des vétements de cette manière, il est tout simplement approprié de les représenter comme tels."
+    Lo normal flip "Si les humains portent des vêtements de cette manière, il est tout simplement approprié de les représenter comme tels."
 
 # game/lorem2.rpy:728
 translate french _call_skipcheck_33_8d211617:
@@ -1081,7 +1081,7 @@ translate french _call_skipcheck_33_686d2308:
 translate french _call_skipcheck_33_993a577b:
 
     # Ip "I work in the facility as a biologist with a minor in physics."
-    Ip "Je travaille dans le complexe en tant que biologiste avec une mineure en physique."
+    Ip "Je travaille dans le complexe en tant que biologiste avec une option en physique."
 
 # game/lorem2.rpy:752
 translate french _call_skipcheck_33_a8d44cb3:
@@ -1261,7 +1261,7 @@ translate french _call_skipcheck_33_09b9649e:
 translate french _call_skipcheck_33_944db8ef:
 
     # c "But you, Ipsum, also have hair. That's certainly new."
-    c "Mais toi, Ipsum, tu à des cheveux. C'est nouveau pour moi."
+    c "Mais toi, Ipsum, tu as des cheveux. C'est nouveau pour moi."
 
 # game/lorem2.rpy:831
 translate french _call_skipcheck_33_927f0ae9:
