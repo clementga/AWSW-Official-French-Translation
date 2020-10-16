@@ -1489,7 +1489,7 @@ translate french _call_skipcheck_33_54271145:
 translate french _call_skipcheck_33_34cbf629:
 
     # Lo normal flip "Actually, Ipsum is deeply in love with his home laboratory."
-    Lo normal flip "En fait, Ipsum est fou amoureux de son laboratoire maison."
+    Lo normal flip "En fait, Ipsum est fou amoureux de son laboratoire perso."
 
 # game/lorem2.rpy:965
 translate french _call_skipcheck_33_f0b69231:
@@ -1549,13 +1549,13 @@ translate french _call_skipcheck_33_fe5f3366:
 translate french _call_skipcheck_33_8787e448:
 
     # Ip think "Are you aware that using the portal could be incredibly dangerous?"
-    Ip think "Sait-tu que l'utilisation du portail pourrait être incroyablement dangereuse ?"
+    Ip think "Sais-tu que l'utilisation du portail pourrait être incroyablement dangereuse ?"
 
 # game/lorem2.rpy:987
 translate french _call_skipcheck_33_d28306a3:
 
     # c "I'm not sure what you're talking about."
-    c "Je ne suis pas sûr de quoi tu parles."
+    c "Je ne suis pas sûrde savoir de quoi tu parles."
 
 # game/lorem2.rpy:989
 translate french _call_skipcheck_33_e1a44da2:
@@ -1711,13 +1711,13 @@ translate french _call_skipcheck_33_fe5f3366_1:
 translate french _call_skipcheck_33_d117d501:
 
     # Ip happy "This doesn't actually make the game world a sphere, but rather a torus."
-    Ip happy "Cela fait de la carte du jeu non pas une sphère, mais plutôt un torus."
+    Ip happy "Cela fait de la carte du jeu non pas une sphère, mais plutôt un tore."
 
 # game/lorem2.rpy:1041
 translate french _call_skipcheck_33_2d91fdcf:
 
     # c "A torus?"
-    c "Un torus ?"
+    c "Un tore ?"
 
 # game/lorem2.rpy:1043
 translate french _call_skipcheck_33_108f7aa2:
@@ -1747,7 +1747,7 @@ translate french _call_skipcheck_33_e8fbec7d:
 translate french _call_skipcheck_33_1ed43b97:
 
     # Ip think "Are you familiar with the many-worlds interpretation of quantum mechanics?"
-    Ip think "Es-tu familier avec la théorie des mondes multiples dans la physique quantique ?"
+    Ip think "Es-tu familier avec la théorie des mondes multiples de la mécanique quantique ?"
 
 # game/lorem2.rpy:1057
 translate french _call_skipcheck_33_fc81985c:
@@ -1813,7 +1813,7 @@ translate french _call_skipcheck_33_1a2591b3:
 translate french _call_skipcheck_33_8808f25b:
 
     # Ip "It is very similar to the torus world model that is used in games. As we approach the edge of our own world, the barrier causes us to end up on the other side instead."
-    Ip "C'est très similaire au modèle du monde en torus utilisé dans les jeux. Au fur et à mesure que nous approchons du bord de notre monde, la barrière nous fait finir de l'autre côté."
+    Ip "C'est très similaire au modèle du monde en tore utilisé dans les jeux. Au fur et à mesure que nous approchons du bord de notre monde, la barrière nous fait finir de l'autre côté."
 
 # game/lorem2.rpy:1079
 translate french _call_skipcheck_33_3fc2c534:
@@ -2011,7 +2011,7 @@ translate french _call_skipcheck_33_069bd9b9:
 translate french _call_skipcheck_33_3373dcd6:
 
     # Lo relieved flip "Now you'll get him started. Don't say I didn't warn you."
-    Lo relieved flip "Maintenant tu vas le lancer. Ne me dis pas que je ne t'ai pas prévenu."
+    Lo relieved flip "Maintenant tu vas le lancer. Ne me dis pas que je ne t'avais pas prévenu."
 
 # game/lorem2.rpy:1151
 translate french _call_skipcheck_33_ab11cd06:
@@ -2053,7 +2053,7 @@ translate french _call_skipcheck_33_c2803e71:
 translate french _call_skipcheck_33_7671faae:
 
     # c "Are you talking about colonies?"
-    c "Veux-tu parler de colonies ?"
+    c "Es-tu en train de parler de colonies ?"
 
 # game/lorem2.rpy:1165
 translate french _call_skipcheck_33_16d121fd:
@@ -2197,7 +2197,7 @@ translate french _call_skipcheck_33_532a4295:
 translate french _call_skipcheck_33_ed00f046:
 
     # Ip normal "You were happy about it when you forgot to set your alarm that one time."
-    Ip normal "Tu en étais content cette fois où tu avais oublié de régler ton alarme."
+    Ip normal "Tu étais content cette fois où tu avais oublié de régler ton réveil."
 
 # game/lorem2.rpy:1221
 translate french _call_skipcheck_33_3e935236:
@@ -2293,7 +2293,7 @@ translate french _call_skipcheck_33_a37a2dc1:
 translate french _call_skipcheck_33_bf3e1df1:
 
     # c "It was my pleasure. Minus having to stay still for the whole time, this was actually quite fun."
-    c "Tout le plaisir était pour moi. Sauf pour le fait d'avoir eu à rester immobile pendant toute ma visite, c'était plutôt amusant."
+    c "Tout le plaisir était pour moi. Excluant le fait d'avoir eu à rester immobile pendant toute ma visite, c'était plutôt amusant."
 
 # game/lorem2.rpy:1294
 translate french _call_skipcheck_33_686bc732:
@@ -2501,7 +2501,7 @@ translate french strings:
 
     # lorem2.rpy:298
     old "I’m not sure if this is much closer than the previous one."
-    new "Je ne sais pas qu'il soit plus proche que le précédent."
+    new "Je ne pense pas que ça soit plus proche que le précédent."
 
     # lorem2.rpy:298
     old "What's with the little horns?"
