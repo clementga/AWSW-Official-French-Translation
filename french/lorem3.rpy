@@ -6,7 +6,7 @@
 translate french _call_skiptut_13_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "﻿Mes données indiquent que vous avez déjà expérimenté cette scène d'une manière satisfaisante. Souhaitez vous passer à la fin?"
+    s "Mes données indiquent que vous avez déjà expérimenté cette scène d'une manière satisfaisante. Souhaitez vous passer à la fin?"
 
 # game/lorem3.rpy:60
 translate french _call_skiptut_13_eee83226:
@@ -24,13 +24,13 @@ translate french _call_skiptut_13_e7709aa0:
 translate french _call_skiptut_13_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/lorem3.rpy:105
 translate french _call_skipcheck_13_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/lorem3.rpy:111
 translate french _call_skipcheck_13_e53ec95c:
@@ -48,7 +48,7 @@ translate french _call_skipcheck_13_a0dcdc50:
 translate french _call_skipcheck_13_f89664c9:
 
     # c "So, where exactly are we going? You mentioned something about treasure hunting, but don't tell me we're actually trying to unearth some ancient human artifacts."
-    c "Donc, où allons-nous exactement ? Tu à mentionné quelque chose sur une chasse au trésor, mais ne me dit pas que nous essayons réellement de déterrer des artefact humain."
+    c "Donc, où allons-nous exactement ? Tu as mentionné quelque chose sur une chasse au trésor, mais ne me dis pas que nous essayons réellement de déterrer des artefact humain."
 
 # game/lorem3.rpy:117
 translate french _call_skipcheck_13_a49c8091:
@@ -66,7 +66,7 @@ translate french _call_skipcheck_13_c841a82d:
 translate french _call_skipcheck_13_69b9b9c2:
 
     # Lo normal "I'm not sure who came up with it, but someone gave this kit to me as a present a few months ago."
-    Lo normal "Je ne suis pas sûr de qui est venu avec, mais quelqu'un m'a donné ce kit comme cadeau il y a quelques mois."
+    Lo normal "Je ne sais pas qui a eu cette idée, mais quelqu'un m'a donné ce kit comme cadeau il y a quelques mois."
 
 # game/lorem3.rpy:123
 translate french _call_skipcheck_13_d7ff0ef8:
@@ -78,25 +78,25 @@ translate french _call_skipcheck_13_d7ff0ef8:
 translate french _call_skipcheck_13_dbcb91b0:
 
     # Lo think "Well, it's a map and instructions. What more do you need?"
-    Lo think "Eh bien, c'est une carte avec des instructions. De quoi d'autre as tu besoin?"
+    Lo think "Eh bien, c'est une carte avec des instructions. De quoi d'autre as-tu besoin ?"
 
 # game/lorem3.rpy:137
 translate french _call_skipcheck_13_467dce4e:
 
     # Lo happy "I'm glad you agree."
-    Lo happy "Je suis content que tu accepte."
+    Lo happy "Je suis content que tu acceptes."
 
 # game/lorem3.rpy:140
 translate french _call_skipcheck_13_78cd28bc:
 
     # c "I’m not sure if I can be of much assistance though. I don’t exactly know much about the area."
-    c "Je ne suis pas sûr d'être d'une grand assistance. Je ne connais pas exactement beaucoup à propos."
+    c "Je ne suis pas sûr d'être d'une grand assistance. Je n'en connais pas des masses à propos des environs."
 
 # game/lorem3.rpy:142
 translate french _call_skipcheck_13_849ee50c:
 
     # Lo normal "But you're big and strong!"
-    Lo normal "Mais tu est grand et fort !"
+    Lo normal "Mais tu es grand et fort !"
 
 # game/lorem3.rpy:144
 translate french _call_skipcheck_13_d3252663:
@@ -108,7 +108,7 @@ translate french _call_skipcheck_13_d3252663:
 translate french _call_skipcheck_13_3c185b4a:
 
     # Lo happy "You can do the digging."
-    Lo happy "Tu peut creuser."
+    Lo happy "Tu peux creuser."
 
 # game/lorem3.rpy:148
 translate french _call_skipcheck_13_b164b3ab:
@@ -120,13 +120,13 @@ translate french _call_skipcheck_13_b164b3ab:
 translate french _call_skipcheck_13_8bbfa6c9:
 
     # Lo normal "Besides, I've wanted to do this for a while now and Ipsum is always busy, so I figured this would be as good a time as any."
-    Lo normal "Après tous, je voulais faire ça depuis un moment maintenant et Ipsum est toujours occupé, alors j'ai pensé que ce serait aussi bon que n'importe quel autre moment."
+    Lo normal "Après tous, je voulais faire ça depuis un moment maintenant et Ipsum est toujours occupé, alors j'ai pensé que ce serait le bon moment."
 
 # game/lorem3.rpy:152
 translate french _call_skipcheck_13_8eae7832:
 
     # c "Do we need to bring a shovel, or do you expect me to dig with my bare hands?"
-    c "Avons nous besoin d'une pelle, ou veux-tu que je creuse à mains nues?"
+    c "Avons-nous besoin d'une pelle, ou veux-tu que je creuse à mains nues ?"
 
 # game/lorem3.rpy:154
 translate french _call_skipcheck_13_c4b75d05:
@@ -144,7 +144,7 @@ translate french _call_skipcheck_13_ca14c86c:
 translate french _call_skipcheck_13_8d56d574:
 
     # Lo happy "Great, then we're all set."
-    Lo happy "Super, nous sommes prêt alors."
+    Lo happy "Super, nous sommes prêts alors."
 
 # game/lorem3.rpy:177
 translate french _call_skipcheck_13_8d9ac006:
@@ -156,7 +156,7 @@ translate french _call_skipcheck_13_8d9ac006:
 translate french _call_skipcheck_13_995afdff:
 
     # Lo think "If this is the facility, then the place indicated is... the school. Or, rather, somewhere between the school and the administrative building."
-    Lo think "Si ceci est le centre de recherche, alors l'endroit indiqué est ... l'école. Ou, plus exactement, quelque part entre l'école et le batiment administratif."
+    Lo think "Si ceci est le complexe de recherche, alors l'endroit indiqué est ... l'école. Ou, plus exactement, quelque part entre l'école et le batiment administratif."
 
 # game/lorem3.rpy:181
 translate french _call_skipcheck_13_4f3507cf:
@@ -186,7 +186,7 @@ translate french _call_skipcheck_13_8fb7ccf0:
 translate french _call_skipcheck_13_687a0206:
 
     # Lo happy "Which is a good thing, because we really wouldn't want you to get swarmed by all the children. They would go crazy if they saw you."
-    Lo happy "Ce qui est une bonne chose, Parce que nous ne voulons pas être entouré par tous les enfants. Ils serait surexcité si ils te voyais."
+    Lo happy "Ce qui est une bonne chose, Parce que nous ne voulons pas être entouré par tous les enfants. Ils seraient surexcités si ils te voyaient."
 
 # game/lorem3.rpy:203
 translate french _call_skipcheck_13_4ffa9f24:
@@ -198,7 +198,7 @@ translate french _call_skipcheck_13_4ffa9f24:
 translate french _call_skipcheck_13_48f4b01a:
 
     # Lo think "Are you talking about this one, or schools in general?"
-    Lo think "Parle tu de celle-là, ou de l'école en général ?"
+    Lo think "Parles-tu de celle-là, ou de l'école en général ?"
 
 # game/lorem3.rpy:207
 translate french _call_skipcheck_13_c69fb81e:
@@ -210,13 +210,13 @@ translate french _call_skipcheck_13_c69fb81e:
 translate french _call_skipcheck_13_6caf900a:
 
     # Lo normal "I see you won't let a learning opportunity go by."
-    Lo normal "Je vois que tu ne laisse passer aucune opportunité d'en apprendre un peu plus."
+    Lo normal "Je vois que tu ne laisses passer aucune opportunité d'en apprendre un peu plus."
 
 # game/lorem3.rpy:211
 translate french _call_skipcheck_13_e1f5f3bc:
 
     # c "I'm just doing my job."
-    c "Je fait juste mon travail."
+    c "Je fais juste mon travail."
 
 # game/lorem3.rpy:213
 translate french _call_skipcheck_13_22715c5a:
@@ -234,13 +234,13 @@ translate french _call_skipcheck_13_c48dc32f:
 translate french _call_skipcheck_13_be958b38:
 
     # m "While I looked for hints as to the treasure’s whereabouts, Lorem started talking."
-    m "Pendant que je regarder les indices sur l'emplacement du trésor, Lorem commença a parler."
+    m "Pendant que je regardais les indices sur l'emplacement du trésor, Lorem commença à parler."
 
 # game/lorem3.rpy:219
 translate french _call_skipcheck_13_abe9e310:
 
     # Lo think "Right. We do have quite the education system. Different schools and districts run on their own, so when looking at details, things can vary a lot. However, there are a few things that are true no matter which region you are in."
-    Lo think "D'accord. Nous avons un bon système d'éducation. Les différentes écoles et quartiers sont indépendantes, donc quand on regardes en détail, les choses peuvent énormément varier, Cependant, il y à quelques trucs qui ne change pas, quelques soit la région où tu est."
+    Lo think "D'accord. Nous avons un bon système d'éducation. Les différentes écoles et quartiers sont autonome, donc quand on regarde en détail, les choses peuvent énormément varier, Cependant, il y à quelques trucs qui ne change pas, quelque soit la région où tu habites."
 
 # game/lorem3.rpy:221
 translate french _call_skipcheck_13_66509b3b:
@@ -252,19 +252,19 @@ translate french _call_skipcheck_13_66509b3b:
 translate french _call_skipcheck_13_ab7c2dfc:
 
     # Lo happy "Choice is an important factor here. We recognize that there isn't one system that works best for everyone, so there are many options depending on what path you want to take."
-    Lo happy "Le choix est un facteur important ici. Nous reconnaissons qu'il n'y a pas un système qui fonctionne mieux pour tout le monde, donc il y a donc beaucoup d'options en fonction du chemin que tu veut prendre."
+    Lo happy "Le choix est un facteur important ici. Nous reconnaissons qu'il n'y a pas un système qui fonctionne au mieux pour tout le monde, donc il y a donc beaucoup d'options en fonction du chemin que tu veux prendre."
 
 # game/lorem3.rpy:225
 translate french _call_skipcheck_13_74f2b90a:
 
     # c "That doesn't sound too different from what it used to be like in my world, but nowadays things are a bit more chaotic."
-    c "Ça ne semble pas trop différent de ce que nous avons dans notre monde, mais de nos jours les chose sont devenu plus chaotique."
+    c "Ça ne semble pas trop différent de ce que nous avons dans notre monde, mais de nos jours les choses sont devenues plus chaotique."
 
 # game/lorem3.rpy:227
 translate french _call_skipcheck_13_1fbfb5f4:
 
     # c "Practical skills are valued most in our city, and you aren't really given a choice to do anything else. Sure, people can learn other things on their own, but it's not as if school is mandatory anymore."
-    c "Les compétences pratiques sont les plus appréciées dans notre ville, et tu n'a pas vraiment le choix de faire autre chose. Bien sûr, les gens peuvent apprendre de leur propre moyens, mais ce n'est pas commet si l'école était obligatoire maintenant."
+    c "Les compétences pratiques sont les plus appréciées dans notre ville, et tu n'as pas vraiment le choix de faire autre chose. Bien sûr, les gens peuvent apprendre par leur propre moyens, mais ce n'est pas comme si l'école était obligatoire maintenant."
 
 # game/lorem3.rpy:229
 translate french _call_skipcheck_13_6f7763a4:
@@ -282,13 +282,13 @@ translate french _call_skipcheck_13_f0814646:
 translate french _call_skipcheck_13_9a642443:
 
     # c "No, I still got to experience our old education system - college included."
-    c "Non, j'ai toujours l'expérience de notre ancien système éducatif - université inclut."
+    c "Non, j'ai toujours l'expérience de notre ancien système éducatif - université inclue."
 
 # game/lorem3.rpy:235
 translate french _call_skipcheck_13_dc522763:
 
     # Lo normal "What was your favorite subject?"
-    Lo normal "Quelle était ta matière préféré ?"
+    Lo normal "Quelle était ta matière préférée ?"
 
 # game/lorem3.rpy:243
 translate french _call_skipcheck_13_9e6b730c:
@@ -300,7 +300,7 @@ translate french _call_skipcheck_13_9e6b730c:
 translate french _call_skipcheck_13_bbdbad30:
 
     # Lo normal "My favorite was art class."
-    Lo normal "Ma préféré était l'art."
+    Lo normal "Ma préférée était l'art."
 
 # game/lorem3.rpy:247
 translate french _call_skipcheck_13_7374b16a:
@@ -336,7 +336,7 @@ translate french _call_skipcheck_13_7374b16a_1:
 translate french _call_skipcheck_13_2f534149:
 
     # Lo normal "I tried sculpting again recently."
-    Lo normal "J'ai réessayé de sculpter a nouveau."
+    Lo normal "Je me suis remis à la sculpture récemment."
 
 # game/lorem3.rpy:269
 translate french _call_skipcheck_13_93aba9db:
@@ -366,7 +366,7 @@ translate french _call_skipcheck_13_52f2b08c:
 translate french _call_skipcheck_13_efb73f9a:
 
     # Lo "Sure, but working with a physical medium makes things easier for me. Instead of working with an interface, there's only my hands and a lump of clay. No technological gadgets required."
-    Lo "Si, mais travailler avec un support physique rend les choses plus simple pour moi. Au lieu de travailler avec une interface, ici il n'y à que mes mains et un peu d'argile. Aucun gadget technologique requis."
+    Lo "Si, mais travailler avec un support physique rend les choses plus simple pour moi. Au lieu de travailler avec une interface, ici il n'y a que mes mains et un peu d'argile. Aucun gadget technologique requis."
 
 # game/lorem3.rpy:279
 translate french _call_skipcheck_13_89aefe22:
@@ -390,7 +390,7 @@ translate french _call_skipcheck_13_bd007d11:
 translate french _call_skipcheck_13_a875718e:
 
     # Lo "Maybe, but the map clearly marked this place. You can see it for yourself."
-    Lo "Peut être, mais la carte indique clairement cette endroit. Tu peut le voir pas toi même."
+    Lo "Peut être, mais la carte indique clairement cet endroit. Tu peux le voir pas toi même."
 
 # game/lorem3.rpy:287
 translate french _call_skipcheck_13_51d935bd:
@@ -414,7 +414,7 @@ translate french lorem3searchmenu_88d1c0e8:
 translate french lorem3searchmenu_f640b941:
 
     # Lo think "You think so?"
-    Lo think "Tu pense ?"
+    Lo think "Tu penses ?"
 
 # game/lorem3.rpy:304
 translate french lorem3searchmenu_7f824948:
@@ -444,7 +444,7 @@ translate french lorem3searchmenu_8989f5b7:
 translate french lorem3searchmenu_4fcf3a1c:
 
     # c "Okay, you check out the windows on the left. You should get a better view inside if you fly up to them."
-    c "D'accord, vérifié les fenêtres sur la gauche. Tu devrait avoir une meilleure vision de dedans si tu vole à leurs niveau."
+    c "D'accord, vérifies les fenêtres sur la gauche. Tu devrais avoir une meilleure vision de dedans si tu voles à leurs niveau."
 
 # game/lorem3.rpy:314
 translate french lorem3searchmenu_9f99be3a:
@@ -480,7 +480,7 @@ translate french lorem3searchmenu_5c0f7c7c:
 translate french lorem3searchmenu_58c9ceac:
 
     # m "In an instant, her expression changed to one of shock and surprise. Before anything else could happen, I quickly stepped away from the window and outside her view."
-    m "En un instant, son expression changea en un mélange de choque et de surprise. Avant que quoi que ce soit d'autre arrive, je me suis rapidement reculé de la fenêtre et de sa vue."
+    m "En un instant, son expression changea en un mélange de choque et de surprise. Avant que quoi que ce soit d'autre arrive, je reculai rapidement de la fenêtre et de sa vue."
 
 # game/lorem3.rpy:332
 translate french lorem3searchmenu_66bf543d:
@@ -516,7 +516,7 @@ translate french lorem3searchmenu_4d10521c:
 translate french lorem3searchmenu_1afe052c:
 
     # m "We walked over and looked inside the water trough. Inside, the dirt was already a few inches high - a clear indicator that it hadn't been cleaned for a while."
-    m "Nous avons marché et regardé à l'intérieur du bac à eau. À l'intérieur, la saleté mesurait déjà quelques pouces de hauteur - clairement un signe qu'elle n'avait pas été nettoyée depuis un moment."
+    m "Nous marchâmes et regardâmes à l'intérieur du bac à eau. À l'intérieur, la saleté mesurait déjà quelques pouces de hauteur - clairement un signe qu'elle n'avait pas été nettoyée depuis un moment."
 
 # game/lorem3.rpy:352
 translate french lorem3searchmenu_80928363:
@@ -528,7 +528,7 @@ translate french lorem3searchmenu_80928363:
 translate french lorem3searchmenu_276a3849:
 
     # c "Or maybe they left it here on purpose because our treasure is inside."
-    c "Ou peut être que ça à était laissé ici parce-que le trésor est à l'intérieur."
+    c "Ou peut être que ça a été laissé ici parce-que le trésor est à l'intérieur."
 
 # game/lorem3.rpy:356
 translate french lorem3searchmenu_3c79de31:
@@ -546,13 +546,13 @@ translate french lorem3searchmenu_5acef62e:
 translate french lorem3searchmenu_c881b83a:
 
     # Lo normal "If you say so."
-    Lo normal "Si tu le dit."
+    Lo normal "Si tu le dis."
 
 # game/lorem3.rpy:366
 translate french lorem3searchmenu_dcb3f47a:
 
     # m "We turned on the faucets and watched as the trough slowly filled with water."
-    m "Nous avons allumé les robinets et regardé le creux lentement se remplir d'eau."
+    m "On ouvrit les robinets et regarda le creux lentement se remplir d'eau."
 
 # game/lorem3.rpy:370
 translate french lorem3searchmenu_984fb043:
@@ -582,13 +582,13 @@ translate french lorem3searchmenu_d19f855d:
 translate french lorem3searchmenu_72946d2f:
 
     # Lo happy "Come on, what kind of treasure hunters would we be if we didn't get our hands dirty?"
-    Lo happy "Allez, quelle type de chasse au trésor c'est si nous n'avons pas nos mains sales ?"
+    Lo happy "Allez, quelle type de chasse au trésor ça serait si nous n'avions pas les mains sales ?"
 
 # game/lorem3.rpy:382
 translate french lorem3searchmenu_d07c2ce2:
 
     # m "I immersed my hands in the sludge."
-    m "J'ai immergé mes mains dans la boue."
+    m "J'immergai mes mains dans la boue."
 
 # game/lorem3.rpy:384
 translate french lorem3searchmenu_8e1e13bf:
@@ -606,7 +606,7 @@ translate french lorem3searchmenu_6041c340:
 translate french lorem3searchmenu_355e3068:
 
     # m "Lorem joined me. Both of us dug around in the sludge, which slowly became clearer as more water filled the trough."
-    m "Lorem m'a rejoin. Nous avons tous les deux creusé dans la boue, qui s'est lentement éclaircie au fur et à mesure que l'eau remplissait le creux."
+    m "Lorem me rejoignit. Nous creusions tous les deux dans la boue, qui s'est lentement éclaircie au fur et à mesure que l'eau remplissait le creux."
 
 # game/lorem3.rpy:398
 translate french lorem3searchmenu_52d81c0a:
@@ -624,7 +624,7 @@ translate french lorem3searchmenu_4e24c2ca:
 translate french lorem3searchmenu_e254fc4b:
 
     # Lo think "Yeah, I think it's stuck to the bottom."
-    Lo think "Ouai, je crois que c'est bloqué en bas."
+    Lo think "Ouais, je crois que c'est bloqué en bas."
 
 # game/lorem3.rpy:404
 translate french lorem3searchmenu_2112f234:
@@ -648,7 +648,7 @@ translate french lorem3searchmenu_f20a7207:
 translate french lorem3searchmenu_e5a69d52:
 
     # m "Suddenly, his hands reappeared from beneath the murky water, holding a small, shiny object in their grasp."
-    m "Soudainement, ses mains sont réapparues sous l'eau trouble, tenant un petit objet brillant en son emprise."
+    m "Soudainement, ses mains réapparurent sous l'eau trouble, tenant un petit objet brillant en son emprise."
 
 # game/lorem3.rpy:414
 translate french lorem3searchmenu_378613fc:
@@ -690,13 +690,13 @@ translate french lorem3searchmenu_4a4835b5:
 translate french lorem3searchmenu_c17df37d:
 
     # m "By now the water had become clear enough that we could see where the screw originally was."
-    m "Maintenant, l'eau est devenu assez clair pour que nous puissions voir où était la vis à l'origine."
+    m "Maintenant, l'eau était devenue assez claire pour que nous puissions voir où était la vis à l'origine."
 
 # game/lorem3.rpy:428
 translate french lorem3searchmenu_26dcb61a:
 
     # m "After Lorem replaced it, we noticed that – besides the water – the trough was completely empty."
-    m "Après que Lorem l'ait remplacé, nous remarquons que - outre l'eau - le creux était complétement vide."
+    m "Après que Lorem l'ait replacé, nous remarquons que - outre l'eau - le creux était complétement vide."
 
 # game/lorem3.rpy:432
 translate french lorem3searchmenu_8c2df24f:
@@ -738,19 +738,19 @@ translate french lorem3searchmenu_d75db9db:
 translate french lorem3searchmenu_bc1ff44b:
 
     # c "Something that wouldn't be obvious to anyone else who came through here."
-    c "Quelque chose qui ne serait pas évident pour la première personne qui viendrais ici."
+    c "Quelque chose qui ne serait pas évident pour la première personne qui viendrait ici."
 
 # game/lorem3.rpy:456
 translate french lorem3searchmenu_333bbf08:
 
     # Lo "I have no idea what you're talking about. These walls don't really look special to me."
-    Lo "Je n'ai pas la moindre idée que ce que tu veux dire. Ses murs ne semble avoir rien de spécial pour moi."
+    Lo "Je n'ai pas la moindre idée de ce que tu veux dire. Ses murs ne semble avoir rien de spécial pour moi."
 
 # game/lorem3.rpy:458
 translate french lorem3searchmenu_a9857d00:
 
     # m "My gaze slowly went along the walls, trying to find something, anything that could have a hidden meaning."
-    m "Mon regard passant lentement le long des murs, essayant de trouver quelque chose, n'importe quoi qui aurait une signification cachée."
+    m "Mon regard passa lentement le long des murs, essayant de trouver quelque chose, n'importe quoi qui aurait une signification cachée."
 
 # game/lorem3.rpy:460
 translate french lorem3searchmenu_4d11e461:
@@ -762,7 +762,7 @@ translate french lorem3searchmenu_4d11e461:
 translate french lorem3searchmenu_bbf04c56:
 
     # Lo normal "What do you mean?"
-    Lo normal "Que veut tu dire ?"
+    Lo normal "Que veux-tu dire ?"
 
 # game/lorem3.rpy:464
 translate french lorem3searchmenu_9095851d:
@@ -810,13 +810,13 @@ translate french lorem3searchmenu_0f173ebb_1:
 translate french lorem3searchmenu_a15fe7d4:
 
     # m "He pulled out a cylindrical, shiny object and held it up to me."
-    m "Il tira un objet cylindrique brillant, il le tendait à moi."
+    m "Il tira un objet cylindrique brillant, qu'il me tendait."
 
 # game/lorem3.rpy:484
 translate french lorem3searchmenu_3ef4eff5:
 
     # Lo normal "It looks like some sort of capsule. Maybe there's something inside."
-    Lo normal "Ça ressemble à une sorte de capsule. Peut être qu'il y à quelque chose a l'interieur."
+    Lo normal "Ça ressemble à une sorte de capsule. Peut être qu'il y a quelque chose à l'interieur."
 
 # game/lorem3.rpy:486
 translate french lorem3searchmenu_6513d609:
