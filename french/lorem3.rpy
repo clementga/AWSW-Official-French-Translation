@@ -834,7 +834,7 @@ translate french lorem3searchmenu_399fb6d7:
 translate french lorem3searchmenu_203017b0:
 
     # m "Instead, the inside of the two halves were engraved."
-    m "Au lieu de cela, l'intérieur des deux moitiés ont été gravés."
+    m "Au lieu de cela, l'intérieur des deux moitiés était gravés."
 
 # game/lorem3.rpy:494
 translate french lorem3searchmenu_a2fb7961:
@@ -894,7 +894,7 @@ translate french lorem3searchmenu_7c41958c:
 translate french lorem3searchmenu_667ca88a:
 
     # c "Finding our spot might be a bit more difficult from here on out."
-    c "Trouver notre endroit risque d'être un peu plus difficile qu'ici."
+    c "Trouver notre lieu risque d'être un peu plus difficile qu'ici."
 
 # game/lorem3.rpy:526
 translate french lorem3searchmenu_fe151070:
@@ -906,7 +906,7 @@ translate french lorem3searchmenu_fe151070:
 translate french lorem3searchmenu_69b5965a:
 
     # c "We don't really have buildings and addresses as reference anymore. Here we only have a spot in the middle of a forest."
-    c "Nous n'avons plus vraiment de batiment et d'adresse comme référence maintenant. Ici nous avons seulement un endroit au milieu de la forêt."
+    c "Nous n'avons plus vraiment de bâtiment et d'adresse comme référence maintenant. Ici nous avons seulement un endroit au milieu de la forêt."
 
 # game/lorem3.rpy:530
 translate french lorem3searchmenu_aef32d88:
@@ -930,7 +930,7 @@ translate french lorem3searchmenu_89305cb2:
 translate french lorem3searchmenu_29277c53:
 
     # Lo normal "You won't have to worry about anything. If there are any predators in the area, they'll see me as a better target than you."
-    Lo normal "Tu n'a pas à te soucier de quoi que ce soit. Si il y a des prédateurs dans cette zone, ils me verront comme une meilleure cible que toi."
+    Lo normal "Tu n'as pas à te soucier de quoi que ce soit. S'il y a des prédateurs dans cette zone, ils me verront comme une cible de meilleur choix que toi."
 
 # game/lorem3.rpy:538
 translate french lorem3searchmenu_9f5f85cd:
@@ -942,13 +942,13 @@ translate french lorem3searchmenu_9f5f85cd:
 translate french lorem3searchmenu_c865e7df:
 
     # Lo happy "Not really. There might be a stray or two, but that should be it. These woods are considered to be very safe."
-    Lo happy "Pas vraiment. Il doit en avoir un ou deux érrants, mais ça devrait être tout. Ces bois sont considéré comme étant très sécurisé."
+    Lo happy "Pas vraiment. Il doit en avoir un ou deux errants, mais ça devrait être tout. Ces bois sont considéré comme étant très sécurisés."
 
 # game/lorem3.rpy:542
 translate french lorem3searchmenu_ddec2ba5:
 
     # c "Even if that's true and if worse comes to worst, you can just fly away."
-    c "Même si c'est vrai et que le pire devait arrivé, tu peut juste t'envoler."
+    c "Même si c'est vrai et que le pire devait arriver, tu peux juste t'envoler."
 
 # game/lorem3.rpy:544
 translate french lorem3searchmenu_a3ea2a36:
@@ -960,25 +960,25 @@ translate french lorem3searchmenu_a3ea2a36:
 translate french lorem3searchmenu_e52b373d:
 
     # Lo think "You kinda sound like you don't like the woods, though."
-    Lo think "Tu semble ne pas aimé la forêt, n'est-ce pas ?"
+    Lo think "Tu sembles ne pas aimer la forêt, on dirait."
 
 # game/lorem3.rpy:554
 translate french lorem3searchmenu_707a7111:
 
     # Lo happy "Then you don't have anything to worry about here."
-    Lo happy "Alors tu n'a rien à craindre ici."
+    Lo happy "Alors tu n'as rien à craindre ici."
 
 # game/lorem3.rpy:560
 translate french lorem3searchmenu_6dc88a07:
 
     # Lo relieved "You don't have anything to worry about."
-    Lo relieved "Tu n'a rien à craindre ici."
+    Lo relieved "Tu n'as rien à craindre ici."
 
 # game/lorem3.rpy:564
 translate french lorem3searchmenu_37a8cb28:
 
     # Lo normal "I already told you, there shouldn't really be any predators in these parts."
-    Lo normal "Je te l'ai déjà dit, il ne devrait vraiment pas avoir de prédateur dans ces régions."
+    Lo normal "Je te l'ai déjà dit, il ne devrait vraiment pas y avoir de prédateur dans ces régions."
 
 # game/lorem3.rpy:566
 translate french lorem3searchmenu_73b670fa:
@@ -1002,25 +1002,25 @@ translate french lorem3searchmenu_11d2a947:
 translate french lorem3searchmenu_7631eb55:
 
     # c "Maybe you'll be interested in this. In our world, there is a forest that was notorious for the many suicides that took place there. It was said to be haunted by angry spirits."
-    c "Peut être que tu sera intéressé par ça. Dans notre monde, il existe une forêt qui est connu pour le nombre de suicide qu'il s'y est passé. Il est dit qu'elle est hanté par des mauvais esprits."
+    c "Peut être que tu seras intéressé par ça. Dans notre monde, il existe une forêt qui est connu pour le nombre de suicide qu'il s'y est passé. Il est dit qu'elle est hanté par des mauvais esprits."
 
 # game/lorem3.rpy:574
 translate french lorem3searchmenu_91626932:
 
     # Lo relieved "That sounds horrible."
-    Lo relieved "Ça semble horrible."
+    Lo relieved "Ça a l'air horrible."
 
 # game/lorem3.rpy:576
 translate french lorem3searchmenu_e40d7c38:
 
     # Lo think "But why are there so many suicides there? And why are the spirits so angry?"
-    Lo think "Mais pourquoi il y à tant de suicide là-bas ? Et pourquoi les esprtis serait si mauvais ?"
+    Lo think "Mais pourquoi il y a tant de suicides là-bas ? Et pourquoi les esprtis serait-il si mauvais ?"
 
 # game/lorem3.rpy:578
 translate french lorem3searchmenu_61a52057:
 
     # c "Well, in Japanese folklore, people have a soul or spirit that is called {i}reikon{/i}."
-    c "Et bien, dans le folklore Japonais, les gens possède une âme ou esprit appelé {i}reikon{/i}."
+    c "Eh bien, dans le folklore Japonais, les gens possède une âme ou esprit appelé {i}reikon{/i}."
 
 # game/lorem3.rpy:580
 translate french lorem3searchmenu_4a523ac2:
@@ -1032,13 +1032,13 @@ translate french lorem3searchmenu_4a523ac2:
 translate french lorem3searchmenu_8bc43cf9:
 
     # c "After certain rites have been performed, the reikon then goes on to join its ancestors and becomes a protector of the living family."
-    c "Après que certains rites soit effectué, le reikon va alors rejoindre ces ancêtres et deviens le protecteur de la famille."
+    c "Après que certains rites soientt effectués, le reikon va alors rejoindre ses ancêtres pour devenir le protecteur de la famille."
 
 # game/lorem3.rpy:584
 translate french lorem3searchmenu_14c59c7a:
 
     # c "However, under certain circumstances - like the rites not being performed correctly or dying in a sudden or violent manner - the reikon transforms into a {i}yūrei{/i} instead."
-    c "Cependant, sous certaine circonstance - comme quand les rites ne sont pas bien exécuté ou la mort est survenu d'une manière brutal ou violente - le reikon se tranforme en {i}yūrei{/i} à la place."
+    c "Cependant, sous certaine circonstances - comme quand les rites ne sont pas bien exécutés ou que la mort est survenu de façon soudaine ou violente - le reikon se tranforme en {i}yūrei{/i} à la place."
 
 # game/lorem3.rpy:586
 translate french lorem3searchmenu_8baf7b06:
