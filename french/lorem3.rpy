@@ -1044,19 +1044,19 @@ translate french lorem3searchmenu_14c59c7a:
 translate french lorem3searchmenu_8baf7b06:
 
     # c "The yūrei can return to the physical world and haunts it until it has been laid to rest."
-    c "Le yūrei peut retourner dans le monde physique et le hanter jusqu'à ce qu'il soit enterré."
+    c "Le yūrei peut retourner dans le monde physique et le hanter jusqu'à ce qu'il trouve le repos."
 
 # game/lorem3.rpy:588
 translate french lorem3searchmenu_a8b250df:
 
     # c "So, there you go. Another myth for your collection."
-    c "Donc, nous y voilà. Un autre mythe pour ta collection."
+    c "Donc, voilà. Un autre mythe pour ta collection."
 
 # game/lorem3.rpy:590
 translate french lorem3searchmenu_98d46353:
 
     # Lo relieved "Well, I know where not to go for my next vacation now."
-    Lo relieved "Et bien, je sais où je ne doit pas aller pour mes prochaines vacances maintenant."
+    Lo relieved "Et bien, je sais où je ne dois pas aller pour mes prochaines vacances maintenant."
 
 # game/lorem3.rpy:598
 translate french lorem3searchmenu_ee83d434_1:
@@ -1074,37 +1074,37 @@ translate french lorem3searchmenu_dcb963a8:
 translate french lorem3searchmenu_66c480ef:
 
     # c "What do you think about stuff like that?"
-    c "Que pense tu de choses comme ça ?"
+    c "Que penses-tu de choses comme ça ?"
 
 # game/lorem3.rpy:610
 translate french lorem3searchmenu_a4fc2716:
 
     # Lo think "Paranormal stuff?"
-    Lo think "De choses paranormale ?"
+    Lo think "Du paranormal ?"
 
 # game/lorem3.rpy:612
 translate french lorem3searchmenu_df4f0e13:
 
     # Lo normal "You know, until a few weeks ago, humans were still just a myth."
-    Lo normal "Tu sais, jusqu'à il y a quelques semaines, les humains était encore un mythe pour nous."
+    Lo normal "Tu sais, jusqu'à il y a quelques semaines, les humains étaient encore un mythe pour nous."
 
 # game/lorem3.rpy:614
 translate french lorem3searchmenu_29a9a4f8:
 
     # Lo think "And if we look at the portal, it's like... something that came out of science fiction."
-    Lo think "Et si nous regardons le portail, c'est comme ... quelque chose qui sort d'une oeuvre de science fiction."
+    Lo think "Et si nous regardons le portail, c'est comme ... quelque chose qui sort d'une œuvre de science fiction."
 
 # game/lorem3.rpy:616
 translate french lorem3searchmenu_f3472844:
 
     # c "Ipsum certainly seemed interested in it."
-    c "Ipsum serait certainement intérresé par ça."
+    c "Ipsum serait certainement intéressé par ça."
 
 # game/lorem3.rpy:618
 translate french lorem3searchmenu_3ac6dd75:
 
     # Lo normal "He is. He actually read up on some new theories about it."
-    Lo normal "Il l'est. Il lis actuellement de nouvelle théorie à propos de ça."
+    Lo normal "Il l'est. Il lit actuellement de nouvelles théories à propos de ça."
 
 # game/lorem3.rpy:620
 translate french lorem3searchmenu_efe0e8c3:
@@ -1116,31 +1116,31 @@ translate french lorem3searchmenu_efe0e8c3:
 translate french lorem3searchmenu_fa464d1b:
 
     # Lo think "You remember him telling you about the different branches and how the barrier separates them, right?"
-    Lo think "Tu te souviens de ce qu'il ta dit à propos des différentes branches et comment la barrière les séparés, n'est-ce pas ?"
+    Lo think "Tu te souviens de ce qu'il t'a dit à propos des différentes branches temporelles et comment la barrière les séparaient, n'est-ce pas ?"
 
 # game/lorem3.rpy:624
 translate french lorem3searchmenu_9f85b645:
 
     # c "Yeah."
-    c "Ouai"
+    c "Ouais"
 
 # game/lorem3.rpy:626
 translate french lorem3searchmenu_4406035d:
 
     # Lo normal "So, since the barrier is made up of wormholes and using the portal displaces them, it leaves gaps in the barrier."
-    Lo normal "Donc, puisque la barrière est fait de trou de ver et utiliser le portail les déplaces, cela laisse des failles dans la barrière."
+    Lo normal "Donc, puisque la barrière est fait de trous de ver et qu'utiliser le portail les déplace, cela laisse des failles dans la barrière."
 
 # game/lorem3.rpy:628
 translate french lorem3searchmenu_b48098ac:
 
     # c "I distinctly remember him talking about something like that."
-    c "Je pense me souvenir qu'il disait quelque chose à propos d'un truc comme ça."
+    c "Je me souviens qu'il a dit quelque chose à propos de ça."
 
 # game/lorem3.rpy:630
 translate french lorem3searchmenu_da541833:
 
     # Lo "Through these gaps, he thinks we can communicate with our alternate selves in the other timelines."
-    Lo "Grâces à ces failles, il pense que nous pouvons communiquer avec nos être alternatif qui sont dans d'autre ligne temporelle."
+    Lo "Grâce à ces failles, il pense que nous pouvons communiquer avec nos nous alternatif dans d'autres lignes temporelles."
 
 # game/lorem3.rpy:632
 translate french lorem3searchmenu_1a2591b3:
@@ -1158,25 +1158,25 @@ translate french lorem3searchmenu_176332b4:
 translate french lorem3searchmenu_d6d27d68:
 
     # Lo think "Who are you as a person? Do you think you are just the [player_name] from this branch? What about the ones from all the other timelines who have made other decisions?"
-    Lo think "Qui es-tu en tant que personne ? Pense tu que tu est juste le [player_name] de cette branche ? Qu'en est-il de ceux de toutes les autres lignes temporelle qui ont pris d'autres décisions ?"
+    Lo think "Qui es-tu en tant que personne ? Penses-tu que tu es juste le [player_name] de cette branche ? Qu'en est-il de ceux de toutes les autres lignes temporelles qui ont pris d'autres décisions ?"
 
 # game/lorem3.rpy:638
 translate french lorem3searchmenu_2c244404:
 
     # Lo "Would you consider yourself to be the same person as them? The only difference between you and the [player_name] from another branch may be that you decided to skip breakfast this morning."
-    Lo "Te considère tu comme la même personne qu'eux ? La seul différence entre toi et le [player_name] d'une autre branche est peut être juste que tu à décidé de passer le petit déjeuner ce matin."
+    Lo "Te considères-tu comme la même personne qu'eux ? La seul différence entre toi et le [player_name] d'une autre branche est peut être juste que tu a décidé de sauter le petit déjeuner ce matin."
 
 # game/lorem3.rpy:640
 translate french lorem3searchmenu_d1dba797:
 
     # Lo normal "Maybe you are all of them."
-    Lo normal "Peut être que tu identique aux autres."
+    Lo normal "Peut être que tu es identique aux autres."
 
 # game/lorem3.rpy:642
 translate french lorem3searchmenu_c3a010fe:
 
     # c "How is that possible?"
-    c "Comment cela est possible ?"
+    c "Comment cela peut être possible ?"
 
 # game/lorem3.rpy:644
 translate french lorem3searchmenu_4bc4bb51:
