@@ -1182,19 +1182,19 @@ translate french lorem3searchmenu_c3a010fe:
 translate french lorem3searchmenu_4bc4bb51:
 
     # Lo happy "Like a seed from which many roots can sprout, or a tree and its branches, there may be a uniting factor that branched off into these different timelines - your fundamental nature."
-    Lo happy "Comme une graine à partir de laquelle de nombreuses racines peuvent germer, ou un arbre avec ces branches, il peut y avoir un facteur commun qui s'est séparé dans différente ligne temporelle - ta nature fondamentale."
+    Lo happy "Comme une graine à partir de laquelle de nombreuses racines peuvent germer, ou un arbre avec ces branches, il peut y avoir un facteur commun qui s'est séparé dans différentes lignes temporelles - ta nature fondamentale."
 
 # game/lorem3.rpy:646
 translate french lorem3searchmenu_20d96476:
 
     # Lo normal "You might call it a soul or something similar, but the idea is that even though there are many different versions of you, there is an aspect that unites all of you."
-    Lo normal "Tu peut appeler ça une âme ou quelque chose similaire, mais l'idée est que même si il existe plusieurs version de toi-même, il y aura toujours un aspect qui vous unit tous."
+    Lo normal "Tu peux appeler ça une âme ou quelque chose similaire, mais l'idée est que même si il existe plusieurs version de toi-même, il y aura toujours un aspect qui vous unit tous."
 
 # game/lorem3.rpy:648
 translate french lorem3searchmenu_1d55f833:
 
     # c "A part of myself that stands over me? Kinda like a super-ego?"
-    c "Une partie de moi-même qui se dresse sur moi ? Comme un genre de super-ego ?"
+    c "Une partie de moi-même qui me dépasse ? Comme un genre de surmoi ?"
 
 # game/lorem3.rpy:650
 translate french lorem3searchmenu_535bbd87:
@@ -1206,109 +1206,109 @@ translate french lorem3searchmenu_535bbd87:
 translate french lorem3searchmenu_cc497a2a:
 
     # Lo normal "If we use a similar model here, then we can say that you are also made up of three distinct parts."
-    Lo normal "Si nous utilisont un modèle similaire, alors nous pouvons dire que nous somme fait de 3 parties distinctes."
+    Lo normal "Si nous utilisons un modèle similaire, alors nous pouvons dire que nous sommes faits de 3 parties distinctes."
 
 # game/lorem3.rpy:654
 translate french lorem3searchmenu_721a8ff0:
 
     # Lo "In each timeline, you have a physical body which is driven by its own base desires that it seeks to fulfill. All physical needs like hunger, thirst and even breathing fall under this category."
-    Lo "Dans chaque ligne temporelle, tu à un corps physique qui est conduit par ces propres désire de base a remplir. Tous les besoins physique comme la faim, la soif et même respirer rentre dans cette catégorie."
+    Lo "Dans chaque ligne temporelle, tu as un corps physique qui est conduit par ces propres désirs de base à remplir. Tous les besoins physique comme la faim, la soif et même respirer rentrent dans cette catégorie."
 
 # game/lorem3.rpy:656
 translate french lorem3searchmenu_b94a9753:
 
     # Lo "However, as a being with free will you are also capable of making your own decisions. That includes being able to act contrary to what your body is telling you."
-    Lo "Cependant, en tant qu'être possédant un libre arbitre, tu est aussi capable de faire tes propres décisions. Cela inclut être capable d'agir en contradiction avec ce que ton corps te dit."
+    Lo "Cependant, en tant qu'être possédant un libre arbitre, tu es aussi capable de prendre tes propres décisions. Cela inclut être capable d'agir en contradiction avec ce que ton corps te dit."
 
 # game/lorem3.rpy:658
 translate french lorem3searchmenu_b2ffb4a3:
 
     # Lo think "This ability to think and make decisions on your own is your rational mind - the self."
-    Lo think "Cette capacité à penser et à prendre des décisions par toi-même est ton esprit rationnel - le soi"
+    Lo think "Cette capacité à penser et à prendre des décisions par toi-même est ton esprit rationnel - le moi"
 
 # game/lorem3.rpy:660
 translate french lorem3searchmenu_8244b24f:
 
     # Lo normal "And lastly, there is the third part I just talked about. The one that stands above all of you and unites you in some way. Let's call this your {i}higher self{/i}."
-    Lo normal "Et pour finir, voici la troisième part dont je te parler. La partie qui surpasse tous les autres toi et qui t'uni d'une certaine manière. Appelons cela ton {i}toi supérieur{/i}"
+    Lo normal "Et pour finir, voici la troisième partie dont je te parlais. La partie qui surpasse tous les autres toi et qui vous'unit d'une certaine façon. Appelons cela ton {i}toi supérieur{/i}"
 
 # game/lorem3.rpy:662
 translate french lorem3searchmenu_37375033:
 
     # Lo "Through this higher self, you may be able to communicate with your alternate selves in some way."
-    Lo "Grâce à ce soi supérieur, tu pourrais peut-être communiquer avec tes alter-égo d'une manière ou d'une autre."
+    Lo "Grâce à ce moi supérieur, tu pourrais peut-être communiquer avec tes alter-égo d'une manière ou d'une autre."
 
 # game/lorem3.rpy:664
 translate french lorem3searchmenu_bff86699:
 
     # Lo "Usually the barrier would prevent this, but through the gaps, communication becomes a possibility. The more gaps there are, the easier this should be."
-    Lo "Habituellement, la barrière empêcherait cela, mais à cause des failles, la communication deviens une possibilitée. Plus le nombre de faille est importante, plus facile ce sera."
+    Lo "Habituellement, la barrière empêcherait cela, mais à cause des failles, la communication devient une possibilitée. Plus le nombre de faille est importante, plus ça devrait être facile."
 
 # game/lorem3.rpy:666
 translate french lorem3searchmenu_fb17646b:
 
     # c "And how would I go about doing that?"
-    c "Et comment j'irais faire ça ?"
+    c "Et comment je m'y prends pour faire ça ?"
 
 # game/lorem3.rpy:668
 translate french lorem3searchmenu_027a7c85:
 
     # Lo think "I suppose that would be the job of the higher self."
-    Lo think "Je suppose que ça serais le travail de ton toi supérieur."
+    Lo think "Je suppose que ça serait le travail de ton toi supérieur."
 
 # game/lorem3.rpy:670
 translate french lorem3searchmenu_e5c5c01c:
 
     # c "So I can't control it?"
-    c "Donc je ne peut pas le contrôler ?"
+    c "Donc je ne peux pas le contrôler ?"
 
 # game/lorem3.rpy:672
 translate french lorem3searchmenu_6ff387a5:
 
     # Lo normal "These are all just theories. We wouldn’t really know until it happened. Only then could we study it."
-    Lo normal "Ce ne sont juste que des théories. Nous ne le saurions pas avant que ça n'arrive. Et ce n'est qu'à ce moment que nous pourrons l'étudier."
+    Lo normal "Ce ne sont que des théories. Nous ne le saurions pas avant que ça n'arrive. Et ce n'est qu'à ce moment que nous pourrons l'étudier."
 
 # game/lorem3.rpy:674
 translate french lorem3searchmenu_28cfe710:
 
     # c "If it was to happen, how would I know?"
-    c "Et si cela arriver, comment je le saurais ?"
+    c "Et si cela devait arriver, comment le saurais-je ?"
 
 # game/lorem3.rpy:676
 translate french lorem3searchmenu_b2ca4f46:
 
     # Lo happy "If someone else's experience gets relayed through this connection to you, it could manifest in a number of ways."
-    Lo happy "Si quelqu'un d'autre expérimente ça et qu'il est relayée par cette connexion à toi, elle peut se manifester de plusieurs façons."
+    Lo happy "Si quelqu'un d'autre expérimente ça et qu'il est relié à toi par cette connexion, elle peut se manifester de plusieurs façons."
 
 # game/lorem3.rpy:678
 translate french lorem3searchmenu_c3eaff6f:
 
     # Lo think "Maybe it could be something like a déjà vu, or a false memory. Maybe even dreams."
-    Lo think "Cela pourrais survenir comme des déjà vu, ou de faux souvenir. Même peut être des rêves."
+    Lo think "Cela pourrait survenir comme des déjà-vu, ou de faux souvenir. Même peut être des rêves."
 
 # game/lorem3.rpy:680
 translate french lorem3searchmenu_a1ecad75:
 
     # Lo normal "But the biggest difficulty would be to recognize that this phenomenon is happening in the first place."
-    Lo normal "Mais la plus grande difficulté serait de reconnaitre que ce phénomène est survenu dans un premier temps."
+    Lo normal "Mais la plus grande difficulté serait de reconnaître que ce phénomène est survenu dans un premier temps."
 
 # game/lorem3.rpy:682
 translate french lorem3searchmenu_b3e101af:
 
     # c "It's certainly quite out there, you have to admit."
-    c "C'est certainement tout à fait possible, avoue le."
+    c "C'est certainement perché comme théorie, tu dois l'avouer."
 
 # game/lorem3.rpy:684
 translate french lorem3searchmenu_0f4d7633:
 
     # Lo happy "Sure, but quantum mechanics are already complicated enough. Once you look at what lies beyond, it's just crazy territory."
-    Lo happy "Bien sûr, mais la méchanique quantique est déjà assez compliqué. Une fois que tu à regarder au-dela des mensonges, tu t'aventure en territoire inconnu."
+    Lo happy "Bien sûr, mais la mécanique quantique est déjà assez compliquée. Une fois que tu regardes au-delà de ça, tu t'aventures en territoire inconnu."
 
 # game/lorem3.rpy:686
 translate french lorem3searchmenu_841c19af:
 
     # c "What do you think about all this?"
-    c "Que pense tu de tous cela ?"
+    c "Que penses-tu de tous ça ?"
 
 # game/lorem3.rpy:688
 translate french lorem3searchmenu_ded23f22:
@@ -1326,13 +1326,13 @@ translate french lorem3searchmenu_4e24c2ca_1:
 translate french lorem3searchmenu_97a5a776:
 
     # Lo "Just think about it. If the possibility of it ever happening is there, then it's more than likely that it already has."
-    Lo "Pense juste à ça. Si les possibilités que cela arrive sont là, alors il est plus que sûr que cela soit déjà survenue."
+    Lo "Penses juste à ça. Si les possibilités pour que cela arrive sont là, alors il est plus que sûr que cela soit déjà arrivé."
 
 # game/lorem3.rpy:694
 translate french lorem3searchmenu_e518038f:
 
     # c "I'm not sure I follow."
-    c "Je ne suis pas sûr de suivre."
+    c "Je n'arrive pas à te suivre."
 
 # game/lorem3.rpy:696
 translate french lorem3searchmenu_907d076e:
