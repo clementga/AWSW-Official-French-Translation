@@ -1118,7 +1118,7 @@ translate french _call_syscheck_41_7480d039:
 translate french _call_syscheck_41_2cee51b3:
 
     # Br "Now, let me ask you a question: I know you wanted to tell me all the stuff about Reza, but was that the only reason you wanted to meet with me?"
-    Br "Maintenant, laisse moi te poser une question : Je sais que tu voulais me parler de Reza, mais c'est la seule raison qui t'a fait venir à moi ?"
+    Br "Maintenant, laisse-moi te poser une question : Je sais que tu voulais me parler de Reza, mais c'est la seule raison qui t'a fait venir à moi ?"
 
 # game/bryce1.rpy:900
 translate french _call_syscheck_41_1343658b:
@@ -1136,7 +1136,7 @@ translate french _call_syscheck_41_8ae23095:
 translate french _call_syscheck_41_110a5d5b:
 
     # Br "Thought so. I won't disagree with that."
-    Br "C'est ce que je pensais, et je suis d'accord là dessus."
+    Br "C'est ce que je pensais, et je suis d'accord là-dessus."
 
 # game/bryce1.rpy:916
 translate french _call_syscheck_41_948c0f54:
@@ -1463,7 +1463,7 @@ translate french _call_syscheck_41_fdd3ae60:
 translate french _call_syscheck_41_9c03c7d6:
 
     # Wr "You know, it was fun watching you and all, but you've both had enough for the evening. I think you'd better leave now. After you've come out from under the table, that is."
-    Wr "Vous savez, c'était amusant de vous regarder lutter contre Bryce. Mais vous en avez certainement assez eut pour ce soir. Vous devriez rentrer pour vous reposer, mais d'abord, il serait sage de sortir de dessous cette table, vous ne pensez pas ?"
+    Wr "Vous savez, c'était amusant de vous regarder lutter contre Bryce. Mais vous en avez certainement assez eu pour ce soir. Vous devriez rentrer pour vous reposer, mais d'abord, il serait sage de sortir de dessous cette table, vous ne pensez pas ?"
 
 # game/bryce1.rpy:1163
 translate french _call_syscheck_41_e4584ec6:
@@ -1505,13 +1505,13 @@ translate french _call_syscheck_41_1f6d21c9:
 translate french _call_syscheck_41_3572097d:
 
     # Wr "You'll be doing yourself a favor, too."
-    Wr "Vous aussi, ça peut vous aider je pense."
+    Wr "Vous aussi, ça peut vous aider, je pense."
 
 # game/bryce1.rpy:1178
 translate french _call_syscheck_41_0fcb5e2a:
 
     # c "Heck, no."
-    c "Hein ? Nan, 'y s'démmerde."
+    c "Hein ? Nan, 'y s'démerde."
 
 # game/bryce1.rpy:1179
 translate french _call_syscheck_41_f5524811:
@@ -1577,7 +1577,7 @@ translate french _call_syscheck_41_5f8e6fc1:
 translate french _call_syscheck_41_49835fc5:
 
     # c "Still in the bar. Come on, let's get you home."
-    c "Toujours au bar. Allez viens, j'te rammène chez toi."
+    c "Toujours au bar. Allez viens, j'te ramène chez toi."
 
 # game/bryce1.rpy:1227
 translate french _call_syscheck_41_073b0378:
@@ -1625,7 +1625,7 @@ translate french _call_syscheck_41_e3d2aa39:
 translate french _call_syscheck_41_25c5b01b:
 
     # c "Come on. Let's get you home, you big wuss."
-    c "Allez, je te rammène chez toi, gros bébé."
+    c "Allez, je te ramène chez toi, gros bébé."
 
 # game/bryce1.rpy:1244
 translate french _call_syscheck_41_d59f28e4:
@@ -1679,26 +1679,26 @@ translate french _call_syscheck_41_d7f0d77a:
 translate french _call_syscheck_41_25c5b01b_1:
 
     # c "Come on. Let's get you home, you big wuss."
-    c "Allez, je te rammène chez toi, gros bébé."
+    c "Allez, je te ramène chez toi, gros bébé."
 
 # game/bryce1.rpy:1265
 translate french _call_syscheck_41_803a507c:
 
     # m "I awoke looking at an unfamiliar ceiling. For a moment, I wondered where I was before the events of last night all came back to me. As I got up and looked around, I realized that I'd apparently slept on the floor."
-    m "En ouvrant les yeux, je suis tombé sur un plafond qui ne me disait rien. Pendant un instant, je me suis demandé où j'étais avant que la soirée de la veille ne me revienne en tête."
+    m "En ouvrant les yeux, je suis tombé sur un plafond qui ne me disait rien. Pendant un instant, je me suis demandé où j'étais, avant que la soirée de la veille ne me revienne en tête."
     m "En me relevant, et en regardant autour de moi, je me suis rendu compte que j'avais visiblement dormi par terre."
 
 # game/bryce1.rpy:1266
 translate french _call_syscheck_41_82181d98:
 
     # c "(Where am I? This isn't my apartment.)"
-    c "(Où suis-je ? Ce n'est pas mon appartement ça...)"
+    c "(Où suis-je ? Ce n'est pas mon appartement, ça...)"
 
 # game/bryce1.rpy:1273
 translate french _call_syscheck_41_da6837de:
 
     # c "(Guess I must have passed out after I got Bryce home.)"
-    c "(Je suppose que je suis tombé dans les pommes après avoir rammené Bryce chez lui.)"
+    c "(Je suppose que je suis tombé dans les pommes après avoir ramené Bryce chez lui.)"
 
 # game/bryce1.rpy:1274
 translate french _call_syscheck_41_d710dd54:
@@ -1782,7 +1782,7 @@ translate french _call_syscheck_41_472d8355:
 translate french _call_syscheck_41_dcc4839f:
 
     # m "The dragon rose from the couch with a nice morning stretch, rubbed his eyes, then held his head high as he let out a grunt and a big yawn."
-    m "Le dragon s'est levé du divan, et s'est ensuite donné dans un bel étirement matinal. Il s'est frotté les yeux, a laissé échapé un petit grognement, suivi d'un grand bâillement."
+    m "Le dragon s'est levé du divan, et s'est ensuite adonné à un bel étirement matinal. Il s'est frotté les yeux, a laissé échapé un petit grognement, suivi d'un grand bâillement."
 
 # game/bryce1.rpy:1327
 translate french _call_syscheck_41_9a1e394a:
@@ -1848,7 +1848,7 @@ translate french _call_syscheck_41_e7cca4c5:
 translate french _call_syscheck_41_5b5c16d4:
 
     # c "Yeah, I guess I should."
-    c "Ouais, c'est mieux je pense."
+    c "Ouais, c'est mieux, je pense."
 
 # game/bryce1.rpy:1369
 translate french bryce1skip_97c9b7f4:
