@@ -2107,7 +2107,7 @@ translate french strings:
 
     # bryce2.rpy:267
     old "Just show me. We're both adults here."
-    new "Tu peux me montrer hein, on est entre adultes après tout."
+    new "Tu peux me montrer, hein, on est entre adultes après tout."
 
     # bryce2.rpy:304
     old "Who's the Parkinson's-afflicted gent who did this?"
@@ -2123,7 +2123,7 @@ translate french strings:
 
     # bryce2.rpy:389
     old "Don't worry, fat floats on water."
-    new "Oh tu sais, en général les gros ont tendance à flotter."
+    new "Oh tu sais, en général, les gros ont tendance à flotter."
 
     # bryce2.rpy:389
     old "You're the pinnacle of masculinity."
@@ -2135,7 +2135,7 @@ translate french strings:
 
     # bryce2.rpy:432
     old "Not that I'd mind grabbing your thigh."
-    new "Ça ne me dérangerai pas d'avoir à poser ma main sur ta cuisse."
+    new "Ça ne me dérangerait pas d'avoir à poser ma main sur ta cuisse."
 
     # bryce2.rpy:432
     old "Haha, right."
@@ -2171,7 +2171,7 @@ translate french strings:
 
     # bryce2.rpy:594
     old "Thank you."
-    new "Merci Bryce."
+    new "Merci, Bryce."
 
     # bryce2.rpy:594
     old "Watch your own back first."
@@ -2215,7 +2215,7 @@ translate french strings:
 
     # bryce2.rpy:921
     old "[[Show him.]"
-    new "[[Montre lui.]"
+    new "[[Lui montrer]"
 
     # bryce2.rpy:921
     old "Maybe another time."
@@ -2243,7 +2243,7 @@ translate french strings:
 
     # bryce2.rpy:1043
     old "Ask him if he should really have another."
-    new "Demande lui s'il en veux vraiment une autre."
+    new "Demande lui s'il en veut vraiment une autre."
 
     # bryce2.rpy:1219
     old "It can't be that bad."
