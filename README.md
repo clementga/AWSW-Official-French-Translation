@@ -13,12 +13,12 @@ Composition du git :<br/>
 Fichiers traduits (✘ = non fait, ✔ = fait, ✔✔ = relu, ✔✔✔ = version définitive) :
 
 common ✔<br/>
-dv ✔<br/>
-screens ✔✔<br/>
-status ✔<br/>
-help ✔✔<br/>
-images ✔<br/>
-script ✔<br/>
+dv ✔✔✔<br/>
+screens ✔✔✔<br/>
+status ✔✔✔<br/>
+help ✔✔✔<br/>
+images ✔✔✔<br/>
+script ✔✔✔<br/>
 chapter1 ✔<br/>
 adine1 ✔✔<br/>
 lorem1 ✔✔<br/>
@@ -40,7 +40,7 @@ chapter3 ✔<br/>
 adine3 ✔✔<br/>
 anna3 ✔✔<br/>
 bryce3 ✔<br/>
-lorem3 ✔<br/>
+lorem3 ✔✔<br/>
 remy3 ✔<br/>
 xkatsu ✔<br/>
 chapter4 ✔<br/>
