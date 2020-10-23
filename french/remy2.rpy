@@ -292,7 +292,7 @@ translate frenchtl _call_syscheck_114_77554175:
 translate frenchtl _call_syscheck_114_e49e42fa:
 
     # s "You looked at Remy's pictures. Creep.{image=image/ui/status/c2pictures.png}"
-    s "Tu as regardé les photos de Rémi. Pervers.{image=image/ui/status/c2pictures.png}"
+    s "Tu as regardé les photos de Rémi. Pervers. {image=image/ui/status/c2pictures.png}"
 
 # game/remy2.rpy:368
 translate frenchtl _call_syscheck_114_a27820b1:
@@ -322,13 +322,13 @@ translate frenchtl _call_syscheck_114_0788b0be:
 translate frenchtl _call_syscheck_114_63678003:
 
     # c "(Looks like Remy still isn't back.)"
-    c "(Il semblerait que Rémi n'est toujours pas revenu.)"
+    c "(Il semblerait que Rémi ne soit toujours pas revenu.)"
 
 # game/remy2.rpy:403
 translate frenchtl _call_syscheck_114_15a8f30b:
 
     # m "My choice was an easy one. I had to get out of here. In order to avoid an awkward goodbye, I hurried to leave before he had a chance to come back."
-    m "Mon choix était facile. Je devais dégager d'ici. Afin d'éviter un au revoir malaisant, je me dépêchais de partir avant qu'il ne revînt."
+    m "Mon choix était facile. Je devais sortir d'ici. Afin d'éviter un aurevoir malaisant, je me dépêchais de partir avant qu'il ne revînt."
 
 # game/remy2.rpy:440
 translate frenchtl remy2cont_f3bc5b96:
@@ -376,7 +376,7 @@ translate frenchtl remy2cont_c04a4c03:
 translate frenchtl remy2cont_d0fd436a:
 
     # c "Do you think that's a lot of hair? Or just a little peach fuzz?"
-    c "Penses tu que ça fait beaucoup de poils ? Ou est-ce juste un duvet de pêche ?"
+    c "Penses-tu que ça fait beaucoup de poils ? Ou est-ce juste un duvet de pêche ?"
 
 # game/remy2.rpy:480
 translate frenchtl remy2cont_0edb3f5d:
@@ -448,7 +448,7 @@ translate frenchtl remy2cont_0edb3f5d_5:
 translate frenchtl remy2cont_baf0be68:
 
     # Ry "I'm afraid you need to leave."
-    Ry "Je crains que tu doives partir."
+    Ry "Je crains que tu ne doives partir."
 
 # game/remy2.rpy:492
 translate frenchtl remy2cont_d19f855d_1:
@@ -520,7 +520,7 @@ translate frenchtl remy2cont_e86abad5:
 translate frenchtl remy2cont_453c3f35:
 
     # Ry smile "Well, the food is ready. Enjoy."
-    Ry smile "Bref, le repas est prêt. Régale toi."
+    Ry smile "Bref, le repas est prêt. Régale-toi."
 
 # game/remy2.rpy:561
 translate frenchtl remy2cont_d6d4994f:
