@@ -76,19 +76,19 @@ translate french bryce2_21e8e36c:
 translate french _call_skiptut_6_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indiquent que tu as déjà passé cette scène en ayant obtenu une fin satisfaisante. Souhaitez-vous tout de même la revoir ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
 
 # game/bryce2.rpy:108
 translate french _call_skiptut_6_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semble que tu aies déjà vu cette scène. Je la repasse tout de même ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la fin de cette scène ?"
 
 # game/bryce2.rpy:116
 translate french _call_skiptut_6_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Il s'avère que tu as déjà vu cela auparavant. Soit tu peux le revoir, soit nous pouvons gagner du temps et passer directement à la sélection des personnages."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des scènes."
 
 # game/bryce2.rpy:131
 translate french _call_skiptut_6_0054b77b:
