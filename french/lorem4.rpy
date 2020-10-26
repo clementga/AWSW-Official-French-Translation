@@ -6,43 +6,43 @@
 translate french lorem4_0124e426:
 
     # Lo happy "Hey!"
-    Lo happy "﻿Hé !"
+    Lo happy "Hey !"
 
 # game/lorem4.rpy:40
 translate french lorem4_e53ec95c:
 
     # c "Hey, Lorem."
-    c "Hé, Lorem !"
+    c "Hey, Lorem."
 
 # game/lorem4.rpy:42
 translate french lorem4_89537f5e:
 
     # Lo think "So this is where you live."
-    Lo think "Donc c'est ici que tu vis"
+    Lo think "Donc c'est ici que tu vis."
 
 # game/lorem4.rpy:44
 translate french lorem4_ec391943:
 
     # c "You already got a glimpse when you delivered Reza's letter, remember?"
-    c "Tu à déjà eu un aperçu quand tu m'a remis la lettre de Reza, tu t'en souviens ?"
+    c "Tu as déjà eu un aperçu quand tu m'as remis la lettre de Reza, tu te souviens ?"
 
 # game/lorem4.rpy:46
 translate french lorem4_0116bc3e:
 
     # Lo shy "Yeah, but back then, I didn't really notice anything. I was nervous."
-    Lo shy "Ouais, mais de retour ici, je n'ai pas vraiment fait attention. J'étais nerveux."
+    Lo shy "Ouais, mais cette fois là, je n'ai pas vraiment fait attention. J'étais nerveux."
 
 # game/lorem4.rpy:48
 translate french lorem4_fdd46e3d:
 
     # c "Why were you nervous?"
-    c "Pourquoi était tu nerveux ?"
+    c "Pourquoi étais-tu nerveux ?"
 
 # game/lorem4.rpy:50
 translate french lorem4_adbe5a02:
 
     # Lo "Well, there was the fact that I was going to speak to a human. Plus, I didn’t know if you’d actually listen to what I had to say."
-    Lo "Et bien, il y avait le fait que j'allais parler à un humain. Et puis, je n'était pas sûr de savoir si tu aurait écouté ce que j'avais a dire."
+    Lo "Et bien, il y avait le fait que j'allais parler à un humain. Et puis, je n'étais pas sûr de savoir si tu écouterais ce que j'avais à dire."
 
 # game/lorem4.rpy:52
 translate french lorem4_7d9b9aaf:
@@ -54,19 +54,19 @@ translate french lorem4_7d9b9aaf:
 translate french lorem4_e0913d67:
 
     # c "You actually talked to Reza?"
-    c "Tu a parlé à Reza ?"
+    c "Tu as parlé à Reza ?"
 
 # game/lorem4.rpy:56
 translate french lorem4_a1cb3a80:
 
     # Lo think "Well, not really. He just took the letter I had for him and closed the door. But that was before you arrived here."
-    Lo think "Et bien, pas vraiment. Il a juste prit la letrre que j'avais pour lui et il a fermé la porte. Mais c'était avant que tu arrive ici."
+    Lo think "Eh bien, pas vraiment. Il a juste pris la letre que j'avais pour lui et il a fermé la porte. Mais c'était avant que tu n'arrives ici."
 
 # game/lorem4.rpy:58
 translate french lorem4_d73246ba:
 
     # c "Do you know who sent the letter?"
-    c "Sait tu qui a envoyé la lettre ?"
+    c "Sais-tu qui a envoyé la lettre ?"
 
 # game/lorem4.rpy:60
 translate french lorem4_8251ef92:
@@ -96,7 +96,7 @@ translate french lorem4_0a80d73c:
 translate french lorem4_da52ff80:
 
     # c "Yeah. Maybe you can help me find out if it's actually Ipsum's or not."
-    c "Ouai. Peut être que tu peut m'aider à trouver si cela appartient actuellement à Ipsum ou pas."
+    c "Ouais. Peut être que tu peux m'aider à découvrir si cela appartient vraiment à Ipsum ou pas."
 
 # game/lorem4.rpy:79
 translate french lorem4_8b3fe1d3:
@@ -114,49 +114,49 @@ translate french lorem4_bc2cd1a6:
 translate french lorem4_5f00dd91:
 
     # m "He turned the sphere a few times, then placed it on the base and plugged it in."
-    m "Il a tourné la sphère plusieurs fois, puis l'a placé sur la base et l'a branché."
+    m "Il tourna la sphère plusieurs fois, puis la plaça sur la base et l'a brancha."
 
 # game/lorem4.rpy:102
 translate french _call_syscheck_29_c0d89991:
 
     # s "You have assembled the Ixomen Sphere!"
-    s "Vous avez assemblés la Sphere Ixomen!"
+    s "Vous avez assemblé la Sphere Ixomen !"
 
 # game/lorem4.rpy:106
 translate french _call_syscheck_29_c5d98d6c:
 
     # s "You have assembled the Ixomen Sphere. Hy-spherical!"
-    s "Vous avez assemblés la Sphere Ixomen. Il y a de quoi en devenir hispherique!"
+    s "Vous avez assemblé la Sphere Ixomen. Il y a de quoi devenir hy-sphérique !"
 
 # game/lorem4.rpy:110
 translate french _call_syscheck_29_696b18e0:
 
     # s "You have assembled the Ixomen Sphere. Actually, it was Lorem. This should be his achievement."
-    s "Vous avez assemblés la Sphere Ixomen. à vrai dire, c'était Lorem. Ça devrait être son succès."
+    s "Vous avez assemblé la Sphere Ixomen. A vrai dire, c'était Lorem. Ça devrait être son succès."
 
 # game/lorem4.rpy:127
 translate french _call_syscheck_29_2bdd5bd9:
 
     # m "He touched the base in a peculiar way. In response, writing appeared on the sphere’s surface."
-    m "Il toucha la base d'une manière particulière. En réponse, une écriture apparue sur la surface de la sphère."
+    m "Il toucha la base d'une manière particulière. En réponse, une écriture apparut sur la surface de la sphère."
 
 # game/lorem4.rpy:135
 translate french _call_syscheck_29_6949ea4c:
 
     # Lo happy "Looks like this really is Ipsum's sphere. He'll be relieved to know that it was found."
-    Lo happy "On dirait que c'est vraiment la sphère d'Ipsum. Il sera soulagé de savoir qu'elle a été retrouvé."
+    Lo happy "On dirait bien que c'est la sphère d'Ipsum. Il sera soulagé de savoir qu'elle a été retrouvé."
 
 # game/lorem4.rpy:137
 translate french _call_syscheck_29_b666800c:
 
     # c "So, what can we actually do with it now?"
-    c "Donc, qu'est-ce qu'on peut actuellement faire avec maintenant ?"
+    c "Donc, qu'est-ce qu'on peut faire avec maintenant ?"
 
 # game/lorem4.rpy:139
 translate french _call_syscheck_29_2da780bb:
 
     # Lo think "Nothing, really. Unless you know the password, that is."
-    Lo think "Pas grand chose, vraiment. Sauf si tu connait le mot de passe, c'est tout."
+    Lo think "Pas vraiment grand chose. A moins que tu ne connaisses le mot de passe."
 
 # game/lorem4.rpy:141
 translate french _call_syscheck_29_69ad2eb0:
@@ -180,7 +180,7 @@ translate french _call_syscheck_29_850467af:
 translate french _call_syscheck_29_f9056e57:
 
     # Lo think "By the way, did you hear about Ipsum? Apparently, he's become a witness for a murder case."
-    Lo think "Au fait, as-tu entendu parler à propos d'Ipsum? Apparemment, il est devenu un témoin pour une affaire de meurtre."
+    Lo think "Au fait, as-tu entendu parler à propos d'Ipsum ? Apparemment, il est devenu un témoin pour une affaire de meurtre."
 
 # game/lorem4.rpy:183
 translate french _call_skiptut_5_0ff5f677:
@@ -204,13 +204,13 @@ translate french _call_skiptut_5_e7709aa0:
 translate french _call_skiptut_5_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous voudrez .{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez .{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/lorem4.rpy:236
 translate french _call_skipcheck_5_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous voudrez .{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez .{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/lorem4.rpy:243
 translate french _call_skipcheck_5_2a382289:
@@ -222,55 +222,55 @@ translate french _call_skipcheck_5_2a382289:
 translate french _call_skipcheck_5_dc1b6f7f:
 
     # c "Oh, I heard about that. Didn't know the witness was Ipsum, though. Small world."
-    c "Oh, j'ai entendu ça. Je ne savais pas que le témoin était Ipsum. Que le monde est petit."
+    c "Oh, j'ai entendu ça. Je ne savais pas que le témoin était Ipsum. Le monde est petit."
 
 # game/lorem4.rpy:249
 translate french _call_skipcheck_5_a19f7a1b:
 
     # Lo "How could you know about something like that?"
-    Lo "Comment peut tu savoir quelque chose comme ça?"
+    Lo "Comment peux-tu savoir quelque chose comme ça ?"
 
 # game/lorem4.rpy:251
 translate french _call_skipcheck_5_82adab6b:
 
     # c "I've been helping your police for some time now."
-    c "J'ai aidé votre police depuis quelques temps maintenant."
+    c "J'ai aidé la Police locale depuis quelques temps maintenant."
 
 # game/lorem4.rpy:254
 translate french _call_skipcheck_5_a1d6b4c8:
 
     # Lo shy "Really? Oh, does that mean this has something to do with Reza's disappearance?"
-    Lo shy "Vraiment? Oh, est-ce que ça à quelque chose a voir avec la disparition de Reza?"
+    Lo shy "Vraiment ? Oh, est-ce que ça à quelque chose a voir avec la disparition de Reza ?"
 
 # game/lorem4.rpy:256
 translate french _call_skipcheck_5_4c1100a6:
 
     # c "There's really no use denying it by this point."
-    c "Il n'y a plus besoin de le cacher a ce niveau là."
+    c "Il n'y a plus d'intérêt de le cacher a ce niveau là."
 
 # game/lorem4.rpy:258
 translate french _call_skipcheck_5_fa7001a6:
 
     # Lo think "How long have you been helping the police, anyway?"
-    Lo think "Depuis combiens de temps aide tu la police?"
+    Lo think "Depuis combien de temps aides-tu la police ?"
 
 # game/lorem4.rpy:260
 translate french _call_skipcheck_5_0250cd35:
 
     # c "Since the day of my arrival, really."
-    c "Depuis le jour de mon arrivé, en faite."
+    c "Depuis le jour de mon arrivé, en fait."
 
 # game/lorem4.rpy:262
 translate french _call_skipcheck_5_abfc4851:
 
     # Lo normal "Oh, wow. I guess that explains why you've been so busy."
-    Lo normal "Oh, woaw. Je pense que ça explique pourquoi tu était si occupé."
+    Lo normal "Oh, woah. Je pense que ça explique pourquoi tu étais si occupé."
 
 # game/lorem4.rpy:264
 translate french _call_skipcheck_5_302d0aae:
 
     # Lo think "I imagine you can't talk about it, though."
-    Lo think "J'imagine que tu ne peut pas en parler, n'est-ce pas?"
+    Lo think "J'imagine que tu ne peux pas en parler, cependant."
 
 # game/lorem4.rpy:266
 translate french _call_skipcheck_5_bda77da7:
@@ -282,25 +282,25 @@ translate french _call_skipcheck_5_bda77da7:
 translate french _call_skipcheck_5_8ecdaf40:
 
     # c "Besides, I think it has become common knowledge by this point."
-    c "Et puis, je pense que tous le sais maintenant."
+    c "Et puis, je pense que tout le monde le sais maintenant."
 
 # game/lorem4.rpy:270
 translate french _call_skipcheck_5_12c2c49a:
 
     # Lo "You're trying to find Reza, right? Wasn't he your friend?"
-    Lo "Tu essaye de trouver Reza, exacte? N'était-il pas t'on ami?"
+    Lo "Tu essayes de trouver Reza, c'est ça ? N'était-il pas t'on ami ?"
 
 # game/lorem4.rpy:272
 translate french _call_skipcheck_5_9d2d7e47:
 
     # c "Not sure I'd call him that."
-    c "Je ne suis pas sûr de pouvoir l'appeler comme ça."
+    c "Je ne sais pas si je peux le désigner comme tel."
 
 # game/lorem4.rpy:274
 translate french _call_skipcheck_5_6e380ef9:
 
     # Lo sad "Still, he was supposed to be your partner in this. And now he's just... gone."
-    Lo sad "Pourtant, il était supposé être ton partenaire dans tous ça. Et maintenant il est juste... parti."
+    Lo sad "Pourtant, il était supposé être ton partenaire dans tous ça. Et maintenant il a juste... disparu."
 
 # game/lorem4.rpy:276
 translate french _call_skipcheck_5_a88efb1f:
@@ -312,7 +312,7 @@ translate french _call_skipcheck_5_a88efb1f:
 translate french _call_skipcheck_5_1500730a:
 
     # c "Even if we find him, this may put our diplomatic relationship in peril."
-    c "Même si nous le trouvons, cela mettra notre relation diplomatique en péril"
+    c "Même si nous le trouvons, cela mettra notre relation diplomatique en péril."
 
 # game/lorem4.rpy:280
 translate french _call_skipcheck_5_939579fb:
@@ -330,43 +330,43 @@ translate french _call_skipcheck_5_89a5dade:
 translate french _call_skipcheck_5_55a7a561:
 
     # Lo think "Why not?"
-    Lo think "Pourquoi pas ?"
+    Lo think "Pourquoi donc ?"
 
 # game/lorem4.rpy:286
 translate french _call_skipcheck_5_0a2a428d:
 
     # c "It's no use worrying about things that I can't change."
-    c "Ça ne sert à rien de s'inquiéter de chose qui ne peuvent être changé."
+    c "Ça ne sert à rien de s'inquiéter de choses qui ne peuvent être changées."
 
 # game/lorem4.rpy:288
 translate french _call_skipcheck_5_942ccb3f:
 
     # Lo happy "Right. Just focus on the things you can. That's my philosophy."
-    Lo happy "Exactement. Concentre toi sur les choses que tu peut faire. C'est ma philosophie."
+    Lo happy "Exactement. Concentre toi sur les choses que tu peux changer. C'est ma philosophie."
 
 # game/lorem4.rpy:290
 translate french _call_skipcheck_5_4c885e3c:
 
     # Lo think "You know, it's a bit of a shame you didn't want to go to the festival."
-    Lo think "Tu sais, c'est dommage que tu ne veuille pas venir au festival."
+    Lo think "Tu sais, c'est dommage que tu ne veuilles pas venir au festival."
 
 # game/lorem4.rpy:292
 translate french _call_skipcheck_5_b24a636c:
 
     # c "I already had my fair share of adventure the last time we met. Besides, I should probably lay low for now."
-    c "J'ai déjà eu ma dose d'aventure la dernière fois qu'on s'est vu. Et puis, je devrais faire profile bas pour le moment."
+    c "J'ai déjà eu ma dose d'aventure la dernière fois qu'on s'est vu. Et puis, je devrais faire profil bas pour le moment."
 
 # game/lorem4.rpy:294
 translate french _call_skipcheck_5_cdae783a:
 
     # Lo normal "You're right. The crowds would probably go crazy if they saw you."
-    Lo normal "Ta raison. La foule deviendrais probablement folle si ils te verraient."
+    Lo normal "Tu as raison. La foule deviendrais probablement folle si elle te voyait."
 
 # game/lorem4.rpy:296
 translate french _call_skipcheck_5_5e5efff7:
 
     # Lo "We could still watch the big fireworks show together, though. We wouldn't even need to go to the festival grounds to do that."
-    Lo "Nous pouvons toujours regarder le grand spectacle de feu d'artifice ensemble. Nous n'avons même pas besoin d'aller vers le festival pour ça."
+    Lo "Nous pouvons toujours regarder le grand feu d'artifice ensemble. Nous n'avons même pas besoin d'aller vers le festival pour ça."
 
 # game/lorem4.rpy:298
 translate french _call_skipcheck_5_3f5d2730:
@@ -384,7 +384,7 @@ translate french _call_skipcheck_5_53fa32d4:
 translate french _call_skipcheck_5_e7963b4a:
 
     # c "When's that?"
-    c "Et c'est quand ça ?"
+    c "Et c'est quand ?"
 
 # game/lorem4.rpy:304
 translate french _call_skipcheck_5_d753d874:
@@ -408,7 +408,7 @@ translate french _call_skipcheck_5_337eef86:
 translate french _call_skipcheck_5_dbbe1f17:
 
     # c "Would you prefer if I called it a date?"
-    c "Tu préfère qie j'appel ça un rencard ?"
+    c "Tu préfères que j'appelle ça un rencard ?"
 
 # game/lorem4.rpy:312
 translate french _call_skipcheck_5_b0da2044:
@@ -420,7 +420,7 @@ translate french _call_skipcheck_5_b0da2044:
 translate french _call_skipcheck_5_75d7b717:
 
     # Lo happy "It just seems a bit odd to me, considering this all started with me begging you to meet me so I could draw pictures of you."
-    Lo happy "C'est juste un peu étrange pour moi, considérant que tous ceci à commencer avec moi te suppliant de te rencontrer pour dessiner des dessins de toi."
+    Lo happy "C'est juste un peu étrange pour moi, considérant que tous ceci a commencé avec moi te suppliant de te rencontrer pour faire des dessins de toi."
 
 # game/lorem4.rpy:316
 translate french _call_skipcheck_5_a7384d0b:
@@ -432,7 +432,7 @@ translate french _call_skipcheck_5_a7384d0b:
 translate french _call_skipcheck_5_79fbac11:
 
     # Lo normal "What would you call what we are doing here now, then?"
-    Lo normal "Comment appelle tu ce que nous faisons ici maintenant alors ?"
+    Lo normal "Comment appelles-tu ce que nous faisons ici et maintenant, alors ?"
 
 # game/lorem4.rpy:320
 translate french _call_skipcheck_5_d9659792:
@@ -456,13 +456,13 @@ translate french _call_skipcheck_5_2436aaed:
 translate french _call_skipcheck_5_b171e508:
 
     # c "I also don't know what you like, so let's just order something."
-    c "Et je ne sais pas ce que tu aime aussi, alors commandons juste quelque chose."
+    c "Et je ne sais pas ce que tu aimes également, alors commandons juste quelque chose."
 
 # game/lorem4.rpy:328
 translate french _call_skipcheck_5_75811386:
 
     # Lo normal "There are a few places nearby. Do you have anything in mind?"
-    Lo normal "Il y a quelques endroit vers ici. Tu à quelque chose en tête ?"
+    Lo normal "Il y a quelques endroits vers ici. Tu as quelque chose en tête ?"
 
 # game/lorem4.rpy:330
 translate french _call_skipcheck_5_fa67b133:
@@ -474,7 +474,7 @@ translate french _call_skipcheck_5_fa67b133:
 translate french _call_skipcheck_5_5890a936:
 
     # Lo think "Sure. How about pizza?"
-    Lo think "D'accord. Que dirait tu d'une pizza ?"
+    Lo think "D'accord. Que dirais-tu d'une pizza ?"
 
 # game/lorem4.rpy:334
 translate french _call_skipcheck_5_993ba4d9:
@@ -486,25 +486,25 @@ translate french _call_skipcheck_5_993ba4d9:
 translate french _call_skipcheck_5_c168b71c:
 
     # Lo happy "Alright, let's just call Pantoli's, then."
-    Lo happy "Très bien, appelons Pantoli alors."
+    Lo happy "Très bien, appelons chez Pantoli alors."
 
 # game/lorem4.rpy:338
 translate french _call_skipcheck_5_1cee8216:
 
     # c "They already let us down with the treasure hunt. Why do you think this will be different?"
-    c "Ils nous ont déjà déçu avec la chasse au trésor. Pourquoi pense tu que ça serait différent ?"
+    c "Ils nous ont déjà laissé tomber avec la chasse au trésor. Pourquoi penses-tu que ça sera différent ?"
 
 # game/lorem4.rpy:340
 translate french _call_skipcheck_5_f4975d28:
 
     # Lo normal "They're the closest, and I haven't ordered from them in ages."
-    Lo normal "Ils sont les plus proche, et je n'ai pas commandé chez eux depuis des lustres."
+    Lo normal "Ils sont les plus proches, et je n'ai pas commandé chez eux depuis des lustres."
 
 # game/lorem4.rpy:342
 translate french _call_skipcheck_5_96dfbcc0:
 
     # c "Maybe for good reason. If they can't even get the treasure hunt right, I don't want to know what they do to their pizzas."
-    c "Peut être pour une bonne raison. Si ils ne peuvent pas faire correctement une chasse au trésor, je ne sais pas ce qu'ils font de leurs pizzas."
+    c "Peut être pour une bonne raison. S'ils ne peuvent pas faire correctement une chasse au trésor, je ne sais pas ce qu'ils font de leurs pizzas."
 
 # game/lorem4.rpy:344
 translate french _call_skipcheck_5_6f9d588a:
@@ -522,13 +522,13 @@ translate french _call_skipcheck_5_4437c524:
 translate french _call_skipcheck_5_0eb188ed:
 
     # m "Lorem took the sphere from its base and started to manipulate its interface with his fingers."
-    m "Lorem a pris la sphère de sa base et a commencé à manipuler son interface avec ses doigts."
+    m "Lorem prit la sphère de sa base et commença à manipuler son interface avec ses doigts."
 
 # game/lorem4.rpy:361
 translate french _call_skipcheck_5_506c11b1:
 
     # c "What are you doing?"
-    c "Qu'est-ce que tu fait ?"
+    c "Qu'est-ce que tu fais ?"
 
 # game/lorem4.rpy:363
 translate french _call_skipcheck_5_a4ee7ca0:
@@ -540,7 +540,7 @@ translate french _call_skipcheck_5_a4ee7ca0:
 translate french _call_skipcheck_5_e5041651:
 
     # c "I thought using Ipsum's sphere was only for emergencies."
-    c "Je pensais que utiliser la pshere d'Ipsum était uniquement pour les urgences."
+    c "Je pensais qu'utiliser la sphère d'Ipsum était uniquement pour les urgences."
 
 # game/lorem4.rpy:367
 translate french _call_skipcheck_5_3b967682:
@@ -552,7 +552,7 @@ translate french _call_skipcheck_5_3b967682:
 translate french _call_skipcheck_5_8019707d:
 
     # Lo happy "It's the least he can do, considering you found it for him."
-    Lo happy "C'est le moins qu'il puisse faire, vu que tu l'a trouver pour lui."
+    Lo happy "C'est le moins qu'il puisse faire, vu que tu l'as trouvé pour lui."
 
 # game/lorem4.rpy:371
 translate french _call_skipcheck_5_86148265:
@@ -564,25 +564,25 @@ translate french _call_skipcheck_5_86148265:
 translate french _call_skipcheck_5_8f23ff78:
 
     # Lo think "If you don't want pizza, I can just put it back and we can order something else."
-    Lo think "Si tu ne veut pas de pizza, je peut juste la ranger et commander autre chose."
+    Lo think "Si tu ne veux pas de pizza, je peux juste la ranger et commander autre chose."
 
 # game/lorem4.rpy:375
 translate french _call_skipcheck_5_f54b8609:
 
     # c "You already touched the sphere. It's too late to put it back now."
-    c "Tu a déjà touché la sphere. C'es trop tard pour la ranger maintenant."
+    c "Tu as déjà touché la sphere. C'est trop tard pour la ranger maintenant."
 
 # game/lorem4.rpy:377
 translate french _call_skipcheck_5_c881b83a:
 
     # Lo normal "If you say so."
-    Lo normal "Si tu le dit."
+    Lo normal "Si tu le dis."
 
 # game/lorem4.rpy:381
 translate french _call_skipcheck_5_63f58e0c:
 
     # c "Actually, I think I've got one of their menus here."
-    c "En faite, je pense que j'ai un de leurs menu quelque part."
+    c "En fait, je pense que j'ai un de leurs menu quelque part."
 
 # game/lorem4.rpy:385
 translate french _call_skipcheck_5_095cb113:
@@ -594,7 +594,7 @@ translate french _call_skipcheck_5_095cb113:
 translate french _call_skipcheck_5_1de7fe13:
 
     # Lo think "Let's see, even their smallest pizza is going to be pretty big for me..."
-    Lo think "Voyons voir, même leurs plus petite pizza risque d'être trop grande pour moi..."
+    Lo think "Voyons voir, même leur plus petite pizza risque d'être trop grande pour moi..."
 
 # game/lorem4.rpy:389
 translate french _call_skipcheck_5_ad46cd75:
