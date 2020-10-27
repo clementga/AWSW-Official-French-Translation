@@ -106,7 +106,7 @@ translate french _call_skipcheck_6_0054b77b:
 translate french _call_skipcheck_6_ba1e39e0:
 
     # m "He led me inside and motioned to the couch. When I took a seat and looked around, I realized that his apartment was obviously designed with only a single person in mind."
-    m "Il m'a fait entrer et m'a invité à m'asseoir dans le divan. En regardant autour de moi, je me suis rendu compte que cet appartement était prévu pour une seule personne."
+    m "Il me fit entrer et m'invita à m'asseoir dans le divan. En regardant autour de moi, je me rendis compte que cet appartement n'était prévu que pour une seule personne."
 
 # game/bryce2.rpy:159
 translate french _call_skipcheck_6_bf4da10d:
@@ -268,7 +268,7 @@ translate french _call_skipcheck_6_7bd0dea6:
 translate french _call_skipcheck_6_7e45cf95:
 
     # m "He went to a shelf on the far side of the room and picked up a long object, carrying it in his maw as he returned to the table before me and gently set it down."
-    m "Il a été jusqu'à l'étagère située à l'autre bout de la pièce et a pris de sa gueule un long objet. Il l'a emporté jusqu'à la table devant moi et l'a doucement posé."
+    m "Il alla jusqu'à l'étagère située à l'autre bout de la pièce et prit dans sa gueule un long objet. Il l'apporta jusqu'à la table devant moi et le posa doucement."
 
 # game/bryce2.rpy:300
 translate french _call_skipcheck_6_5a1ba1ae:
@@ -280,7 +280,7 @@ translate french _call_skipcheck_6_5a1ba1ae:
 translate french _call_skipcheck_6_4c182947:
 
     # m "From first appearances, I guessed it was a child's first attempt at assembling a model. While the shape was recognizable, there were odd pieces jutting out or not fitting together properly. In some places, globs of dried glue remained from excessive use."
-    m "À première vue, je me suis dit que ce modèle résultait de la première tentative d'un enfant à faire de la maquette. La forme était reconnaissable, mais certaines pièces ne semblaient pas vraiment à leur place."
+    m "À première vue, je me dis que ce modèle résultait de la première tentative d'un enfant à faire de la maquette. La forme était reconnaissable, mais certaines pièces ne semblaient pas vraiment à leur place."
     m "Les emboîtements étaient hasardeux, certains morceaux dépassaient, d'autres étaient de travers... À certains endroits, de petits monticules de colle séchée indiquaient un dosage excessif."
 
 # game/bryce2.rpy:310
@@ -546,7 +546,7 @@ translate french _call_skipcheck_6_4b2ae396:
 translate french _call_skipcheck_6_6ef9a62e:
 
     # m "I placed my hand on the upper part of his foreleg, somewhat surprised at the warmth radiating from his scales."
-    m "J'ai posé ma main sur la partie supérieure de sa jambe avant, j'ai été surpris de la chaleur qui se dégageait de ses écailles."
+    m "Je posai ma main sur la partie supérieure de sa jambe avant, je fus surpris de la chaleur qui se dégageait de ses écailles."
 
 # game/bryce2.rpy:467
 translate french _call_skipcheck_6_4cb247e4:
@@ -558,14 +558,14 @@ translate french _call_skipcheck_6_4cb247e4:
 translate french _call_skipcheck_6_5abc3a68:
 
     # m "His forearm shifted, the shape of his muscles changing as they became more defined. In a moment, they were firm and bulging, his scales flaring under the stress and looking as though they might pop off at any moment. It reminded me of a flexing body builder in a skin-tight lycra suit."
-    m "Son avant bras s'est mis à bouger, la forme de ses muscles changeant au fur et à mesure qu'il forçait. En peu de temps, ils sont devenu fermes et bombés, ses écailles se dilataient sous l'effet de la pression, et semblaient prête à se détacher à tout moment."
-    m "J'ai eut l'impression d'être face à un culturiste en plein effort dans une combinaison en lycra moulante."
+    m "Son avant bras se mit à bouger, la forme de ses muscles changeant au fur et à mesure qu'il forçait. En peu de temps, ils devinrent fermes et bombés, ses écailles se dilatèrent sous l'effet de la pression, et semblaient prête à se détacher à tout moment."
+    m "J'eus l'impression d'être face à un culturiste en plein effort dans une combinaison en Lycra moulante."
 
 # game/bryce2.rpy:471
 translate french _call_skipcheck_6_5e4e6a9f:
 
     # m "After a few seconds, his muscles relaxed and regained their former shape."
-    m "Après quelques secondes, ses muscles se sont détendus et ont repris leur forme initiale."
+    m "Après quelques secondes, ses muscles se détendirent et reprirent leur forme initiale."
 
 # game/bryce2.rpy:473
 translate french _call_skipcheck_6_7e9fffa2:
@@ -589,7 +589,7 @@ translate french _call_skipcheck_6_9c8dc950:
 translate french _call_skipcheck_6_02c7945b:
 
     # m "I rolled up my sleeves and flexed my arms, showing them off from the best angle as I struck a pose."
-    m "J'ai retroussé mes manches et ai fléchi mes bras, montrant mes muscles sous leurs meilleurs angles tout en prenant une pose d'athlète."
+    m "Je retroussai mes manches et fléchis mes bras, montrant mes muscles sous leurs meilleurs angles tout en prenant une pose d'athlète."
 
 # game/bryce2.rpy:490
 translate french _call_skipcheck_6_3ea5cc95:
@@ -860,7 +860,7 @@ translate french _call_skipcheck_6_eba2c75c_1:
 translate french _call_skipcheck_6_89ce4d2f:
 
     # m "Bryce got up and left through one of the doors to fetch his beer, leaving me alone in the room."
-    m "Bryce s'est levé puis s'est dirigé vers l'une des pièces voisines pour aller chercher sa bière."
+    m "Bryce se leva puis se dirigea vers l'une des pièces voisines pour aller chercher sa bière."
 
 # game/bryce2.rpy:677
 translate french _call_skipcheck_6_e90dbfcf:

@@ -178,7 +178,7 @@ translate french _call_skipcheck_26_cf7d82bd:
 translate french _call_skipcheck_26_28486d71:
 
   # m "As we walked a few paces, I saw some familiar faces."
-  m "En m'approchant, j'ai reconnu des visages familiers."
+  m "En m'approchant, je reconnus des visages familiers."
 
 # game/bryce3.rpy:207
 translate french _call_skipcheck_26_52722f49:
@@ -472,7 +472,7 @@ translate french _call_skipcheck_26_ccc39dc0:
 translate french _call_skipcheck_26_f1e8a8e2:
 
   # m "Suddenly, they all looked at me, clearly expecting me to light the fire for them."
-  m "C'est alors que tous m'ont regardé, s'attendant visiblement à ce que j'allume le feu pour eux."
+  m "C'est alors que tous me regardèrent, s'attendant visiblement à ce que j'allume le feu pour eux."
 
 # game/bryce3.rpy:378
 translate french _call_skipcheck_26_833cc401:
@@ -502,7 +502,7 @@ translate french _call_skipcheck_26_432b057c_2:
 translate french _call_skipcheck_26_f2f255f7:
 
   # m "They were all still watching me, not moving or batting an eye, when suddenly, laughter erupted."
-  m "Ils me fixaient, sans sourciller, sans bouger. Quand soudain un rire à éclaté."
+  m "Ils me fixaient, sans bouger ni ciller, quand soudain un rire éclata."
 
 # game/bryce3.rpy:388
 translate french _call_skipcheck_26_da637fd5:
@@ -664,7 +664,7 @@ translate french _call_skipcheck_26_7d206358:
 translate french _call_skipcheck_26_b49c5e0f:
 
   # m "Sebastian went up to the small bed of stones they had prepared. Since his back was turned towards me, I couldn't exactly see what he did, but a few seconds later, a fire started burning among the stones."
-  m "Sébastien s'est mis devant le petit tas de pierres qu'ils avaient préparé. Comme il me tournait le dos, je ne pouvais pas voir ce qu'il faisait. Mais quelques secondes après, il y avait un feu dans les pierres."
+  m "Sébastien se plaça devant le petit tas de pierres qu'ils avaient préparé. Comme il me tournait le dos, je ne pus pas voir ce qu'il faisait. Mais quelques secondes après, un feu commença à brûler devant nous.
 
 # game/bryce3.rpy:448
 translate french _call_skipcheck_26_933d0018:
@@ -778,7 +778,7 @@ translate french _call_skipcheck_26_1a57efc6:
 translate french _call_skipcheck_26_1e04f53b:
 
   # m "After all of us had made our selection and put it on the fire, we sat down in a circle around it. Of course, Bryce made sure that Maverick and I were not sitting next to each other."
-  m "Après que chacun s'est servi et a tout mis à griller, on s'est assis en cercle autour du feu. Évidemment, Bryce s'est assuré que je n'étais pas à côté de Maverick."
+  m "Après que chacun se fut servi et eut tout mis à griller, nous nous assîmes en cercle autour du feu. Évidemment, Bryce s'assura que je ne sois pas à côté de Maverick."
 
 # game/bryce3.rpy:509
 translate french _call_skipcheck_26_64e0345e:
@@ -1769,14 +1769,14 @@ translate french bryce3pass_601f9712:
 translate french bryce3pass_4e3e75dd:
 
   # m "Slowly, everyone shuffled towards the fire, which by now had become nothing more than an eerily glowing pile that illuminated the area. One by one, everyone took their hot food from the stone bed and placed it onto the provided paper plates and bowls."
-  m "Tranquillement, chacun s'est servi, le chouette brasier d'avant avait laissé la place à de ridicules petites flammèches qui illuminait la zone."
-  m "Un par un, chacun a pris sa part grillée sur le lit de pierres, et l'a déposée dans les assiettes en carton et les bols fournis."
+  m "Tranquillement, chacun se servit, le chouette brasier d'avant avait laissé la place à de ridicules petites flammèches qui illuminait la zone."
+  m "Un par un, chacun prit sa part grillée sur le lit de pierres, et la déposa dans les assiettes en carton et les bols fournis."
 
 # game/bryce3.rpy:979
 translate french bryce3pass_dfa6997f:
 
   # m "When it was my turn, I hesitated, since I could still feel the heat radiating from the stones."
-  m "Quand ce fut à mon tour de me servir, j'ai hésité car je sentais la chaleur ardente qui se dégageait encore des pierres."
+  m "Quand ce fut à mon tour de me servir, j'hésitai car je sentais la chaleur ardente qui se dégageait encore des pierres."
 
 # game/bryce3.rpy:983
 translate french bryce3pass_61d31c04:
@@ -1812,7 +1812,7 @@ translate french bryce3pass_dd20ffbf:
 translate french bryce3pass_162eda4d:
 
   # m "We resumed our positions in a circle around the glowing stones, and I waited for my meal to cool down while the others started eating."
-  m "Nous avons repris nos places en cercle autour des pierres rougeoyantes. J'attendais que mon repas refroidisse alors que les autres s'étaient mis à manger."
+  m "Nous reprîmes nos places en cercle autour des pierres rougeoyantes. J'attendis que mon repas refroidisse, tandis que les autres s'étaient mis à manger."
 
 # game/bryce3.rpy:1003
 translate french bryce3pass_21b813c1:
@@ -1884,7 +1884,7 @@ translate french bryce3pass_58d4c2a4:
 translate french bryce3pass_430e8aa7:
 
   # m "The food remaining on the stones slowly disappeared as everyone got their additional helpings. Soon, even the last piece was gone and silence started to set in as the banter slowly died down."
-  m "Le reste des plats se trouvant sur les pierres incandescentes a doucement disparu au fur et à mesure que chacun se resservait. Bientôt, il n'y avait plus rien à manger, alors que petit feu s'est lentement éteint."
+  m "Le reste des plats se trouvant sur les pierres incandescentes disparut doucement au fur et à mesure que chacun se resservait. Bientôt, il n'y eut plus rien à manger, alors que le petit feu s'éteignait lentement."
 
 # game/bryce3.rpy:1029
 translate french bryce3pass_f2cb53df:
@@ -2010,7 +2010,7 @@ translate french bryce3pass_4e8c7062:
 translate french bryce3pass_c9d53571:
 
   # m "We started to clean up together, but with the amount of trash left by five people, it was clear it would take a while."
-  m "On a commencé à nettoyer et à ranger. On était cinq à avoir mangé ici, et nettoyer tout ce qu'on avait laissé allait prendre du temps."
+  m "Nous commençâmes nettoyer et à ranger. On était cinq à avoir mangé ici, et nettoyer tout ce qu'on avait laissé allait prendre du temps."
 
 # game/bryce3.rpy:1089
 translate french bryce3pass_1ca03a49:
