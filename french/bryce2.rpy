@@ -920,7 +920,7 @@ translate french _call_syscheck_32_71566561:
 translate french _call_syscheck_32_04c4eff5:
 
     # m "Curiosity got the best of me and I found myself staring at the first double page, which profiled their {i}Athlete of the Month{/i}. It was accompanied by a range of pictures showing off the athlete's body from different angles in a number of poses."
-    m "J'ai laissé aller ma curiosité et me suis retrouvé à regarder les premières pages. Elles présentaient le profil de {i}L'athlète du mois{/i}. Sur les pages suivantes, une série de photos montrant le corps du dragon sous différents angles dans plusieurs poses."
+    m "Je laissai aller ma curiosité et me retrouvai à regarder les premières pages. Elles présentaient le profil de {i}L'athlète du mois{/i}. Sur les pages suivantes, une série de photos montrant le corps du dragon sous différents angles dans plusieurs poses."
 
 # game/bryce2.rpy:741
 translate french _call_syscheck_33_fc079ab9:
@@ -944,13 +944,13 @@ translate french _call_syscheck_33_5291ee3d:
 translate french _call_syscheck_33_c71988bc:
 
     # m "When I heard the door creak open, I quickly put the magazine back on the table before Bryce lumbered back into sight. He had the handle of a beer-filled basket clamped in his maw."
-    m "J'ai très vite remis le magazine à sa place après avoir entendu Bryce revenir. Il tenait dans sa gueule la poignée d'un pack de bière visiblement bien rempli."
+    m "Je remis très vite le magazine à sa place après avoir entendu Bryce revenir. Il tenait dans sa gueule la poignée d'un pack de bière visiblement bien rempli."
 
 # game/bryce2.rpy:761
 translate french _call_syscheck_33_6df51de1:
 
     # m "Not wanting to just sit around and wait, I did some simple stretching exercises to pass the time."
-    m "Je ne voulait pas rester assis à rien faire, alors je me suis levé pour faire quelques étirements en attendant."
+    m "Je ne voulais pas rester assis à ne rien faire, alors je me levai pour faire quelques étirements en attendant."
 
 # game/bryce2.rpy:777
 translate french _call_syscheck_34_02b46077:
@@ -968,19 +968,19 @@ translate french _call_syscheck_34_a90f12a6:
 translate french _call_syscheck_34_e3663701:
 
     # s "You stretched your legs for a bit. Apparently, this is worthy of an achievement."
-    s "Vous avez étiré vos jambes. Eh bien, c'est digne d'un Succès, apparement."
+    s "Vous avez étiré vos jambes. Eh bien, c'est digne d'un Succès, apparemment."
 
 # game/bryce2.rpy:795
 translate french _call_syscheck_34_a89f6ecf:
 
     # m "Bryce lumbered back through the door, the handle of a beer-filled basket clamped in his maw."
-    m "Bryce est revenu à moi, tenant en sa gueule la poignée d'un pack de bière."
+    m "Bryce revint, tenant dans sa gueule la poignée d'un pack de bière."
 
 # game/bryce2.rpy:807
 translate french bryce2cont2_7a9a4748:
 
     # m "He carefully set the basket on the coffee table and took out the beers one-by-one. Once he was done, he swatted the empty basket into a far corner."
-    m "Il a alors doucement posé le pack sur la table basse et en a sorti toutes les bières, une par une. Après avoir vidé le pack, il l'a jeté dans un coin de la pièce."
+    m "Il posa alors doucement le pack sur la table basse et en sortit toutes les bières, une par une. Après avoir vidé le pack, il le jeta dans un coin de la pièce."
 
 # game/bryce2.rpy:809
 translate french bryce2cont2_230b2278:
@@ -998,7 +998,7 @@ translate french bryce2cont2_4f8449a3:
 translate french bryce2cont2_1175063f:
 
     # m "He broke the seal on one of the containers with his claw and proceeded to drink it noisily."
-    m "Il a déchiré l'opercule d'un des récipients avec sa griffe et s'est mis à boire bruyamment."
+    m "Il déchira l'opercule d'un des récipients avec sa griffe et se mit à boire bruyamment."
 
 # game/bryce2.rpy:819
 translate french bryce2cont2_d950189d:
@@ -1382,7 +1382,7 @@ translate french bryce2cont2_7cb34463:
 translate french bryce2cont2_4c6bc207:
 
     # m "Bryce got up on all fours, grounding his body in preparation for what was to come."
-    m "Bryce s'est mis en position, il semblait forcer tout en se concentrant sur ce qu'il demandait à son corps."
+    m "Bryce se mit en position, il semblait forcer tout en se concentrant sur ce qu'il demandait à son corps."
 
 # game/bryce2.rpy:998
 translate french bryce2cont2_0723b5d7:
@@ -1394,37 +1394,37 @@ translate french bryce2cont2_0723b5d7:
 translate french bryce2cont2_14de990e:
 
     # m "His face contorted into a grimace as his upper body strained."
-    m "Une grimace s'est dessinée sur son visage crispé, tandis que le haut de son corps s'étirait."
+    m "Une grimace se dessina sur son visage crispé, tandis que le haut de son corps s'étirait."
 
 # game/bryce2.rpy:1002
 translate french bryce2cont2_6803513e:
 
     # m "He held the pose for a few seconds, but nothing happened except for his continuous groan of effort."
-    m "Il s'est tenu ainsi pendant quelques secondes, mais rien ne s'est produit, hormis son râle continu."
+    m "Il se tint ainsi pendant quelques secondes, mais rien ne se produisit, hormis son râle continu."
 
 # game/bryce2.rpy:1004
 translate french bryce2cont2_b7be1173:
 
     # m "Then, suddenly, his wings started to move. Slowly at first, they swayed up and down."
-    m "Puis, d'un coup, ses ailes se sont mises à bouger. Lentement, elles se sont balancées de haut en bas."
+    m "Puis, d'un coup, ses ailes se mirent à bouger. Lentement, elles se balancèrent de haut en bas."
 
 # game/bryce2.rpy:1006
 translate french bryce2cont2_95c76ef7:
 
     # m "They gradually picked up speed and moved with a rhythm that could rightfully be called \"flapping\". It reminded me of the pigeons I often saw back home."
-    m "Elles ont progressivement pris de la vitesse et se sont agitées au point que leurs mouvement ressemblait à un \"battement\". Ça m'a rappelé les pigeons que je voyais souvent chez moi."
+    m "Elles prirent progressivement de la vitesse et s'agitèrent au point que leurs mouvement ressemblait à un \"battement\". Ça me rappelai les pigeons que je voyais souvent chez moi."
 
 # game/bryce2.rpy:1008
 translate french bryce2cont2_8ac06971:
 
     # m "After holding it for a few seconds, he breathed a sigh of relief as he relaxed and the flapping motion stopped again."
-    m "Après avoir tenu ce mouvement quelques secondes, il a poussé un soupir de soulagement tout en se détendant, et le battement a cessé."
+    m "Après avoir tenu ce mouvement quelques secondes, il poussa un soupir de soulagement tout en se détendant, et le battement cessa."
 
 # game/bryce2.rpy:1010
 translate french bryce2cont2_dadd5c9c:
 
     # m "A single bead of sweat rolled down the side of his face as he looked at me, panting."
-    m "Une belle goutte de sueur roulait sur le côté de son visage alors qu'il me regardait, haletant."
+    m "Une belle goutte de sueur roulait sur le côté de son visage alors qu'il me regarda, haletant."
 
 # game/bryce2.rpy:1018
 translate french bryce2cont2_92467694:
@@ -1460,7 +1460,7 @@ translate french bryce2cont2_503fe0b3:
 translate french bryce2cont2_c7f776d5:
 
     # m "I snatched the beer out of his reach at the last moment."
-    m "J'ai écarté la bière de sa portée au dernier moment."
+    m "J'écartai la bière de sa portée au dernier moment."
 
 # game/bryce2.rpy:1049
 translate french bryce2cont2_6da1d204:
@@ -1538,7 +1538,7 @@ translate french bryce2cont2_e69e42b8:
 translate french bryce2cont2_ee1cfc91:
 
     # m "He lunged for it, but I was quick enough to leap away and position the sofa between us, matching his movements as he tried to get around it."
-    m "Il s'est précipité, mais je l'ai pris de vitesse et ai sauté derrière le divan."
+    m "Il se précipita, mais je le pris de vitesse et sauté derrière le canapé."
 
 # game/bryce2.rpy:1075
 translate french bryce2cont2_d2329908:
@@ -1604,7 +1604,7 @@ translate french bryce2cont2_f698ff9f:
 translate french bryce2cont2_538fa634:
 
     # m "I took the flap of the seal between two fingers and pulled on it just enough so the seal broke and the hissing sound indicated to both of us that the vacuum was gone."
-    m "J'ai pris le rabat et ai doucement retiré l'opercule. Le sifflement nous a indiqué que le vide s'étair retiré du bol."
+    m "Je pris le rabat et retirai doucement l'opercule. Le sifflement nous indiqua que le vide s'était retiré du bol."
 
 # game/bryce2.rpy:1099
 translate french bryce2cont2_c39ea2f3:
@@ -1616,14 +1616,14 @@ translate french bryce2cont2_c39ea2f3:
 translate french bryce2cont2_3a3072b2:
 
     # m "We ran a few more circles around the furniture, but his heavy stomps weren't enough to catch me."
-    m "Il m'a couru après alors qu'on faisait le tour des meubles, mais mon agilité a eu raison de ses jambes musclées."
+    m "Il me courut après alors qu'on faisait le tour des meubles, mais mon agilité eut raison de ses jambes musclées."
 
 # game/bryce2.rpy:1107
 translate french bryce2cont2_eff63e06:
 
     # m "He tried to clamber over the couch, but his weight knocked it to the floor, and he spilled over the back of it and onto the floor. The apartment rattled with the force and the model ship, still on the table, fell and burst into splinters."
-    m "J'étais devant le divan, et il a tenté de grimper dessus pour m'attraper. Mais il a lourdement basculé, et s'est renversé sur l'assise avant de rouler sur le sol, percutant la table basse."
-    m "L'appartement à tremblé, et la maquette de bateau est tombé de la table et a volé en morceau en touchant le sol."
+    m "J'étais devant le divan, et il tenta de grimper dessus pour m'attraper. Mais il bascula lourdement, et se renversa sur l'assise avant de rouler sur le sol, percutant la table basse."
+    m "L'appartement trembla, et la maquette de bateau tomba de la table et vola en morceaux en touchant le sol."
 
 # game/bryce2.rpy:1109
 translate french bryce2cont2_a975f039:
@@ -1635,19 +1635,19 @@ translate french bryce2cont2_a975f039:
 translate french bryce2cont2_1a3c8116:
 
     # m "While he was still flailing around on the ground, I dashed through the front door."
-    m "Alors qu'il tentait encore de se remettre sur ses pattes, je me suis précipité vers la porte pour m'échapper."
+    m "Alors qu'il tentait encore de se remettre sur ses pattes, je me précipitai vers la porte pour m'échapper."
 
 # game/bryce2.rpy:1117
 translate french bryce2cont2_35c2ec86:
 
     # m "Once outside, I dumped out the beer and rushed back to my own apartment."
-    m "Une fois dehors, j'ai jeté la bière et me suis précipité à mon appartement."
+    m "Une fois dehors, je jetai la bière et me carapattai à mon appartement."
 
 # game/bryce2.rpy:1144
 translate french bryce2cont2_e4525ba7:
 
     # m "I sat back and watched as Bryce took the last beer, opened it, and took his first sip with a slurp."
-    m "Je me suis assis et ai regardé Bryce prendre la dernière bière, l'ouvrir et boire une première gorgée."
+    m "Je m'assis et regardai Bryce prendre la dernière bière, l'ouvrir et boire une première gorgée."
 
 # game/bryce2.rpy:1149
 translate french bryce2cont2_ed9abeeb:
