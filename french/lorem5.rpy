@@ -6,7 +6,7 @@
 translate french lorem5_160faa57:
 
     # c "(It's time to go.)"
-    c "﻿(C'est l'heure de partir.)"
+    c "(C'est l'heure de partir.)"
 
 # game/lorem5.rpy:14
 translate french lorem5_453e49d0:
@@ -18,13 +18,13 @@ translate french lorem5_453e49d0:
 translate french lorem5_bbb7baf9:
 
     # c "(The sooner Ipsum gets it, the better.)"
-    c "(Le plus tôt Ipsum l'a, mieux ça sera.)"
+    c "(Le plus tôt Ipsum l'aura, mieux ce sera.)"
 
 # game/lorem5.rpy:22
 translate french lorem5_9365f413:
 
     # m "I took the sphere and put it in one of my pockets before I headed out to meet Lorem."
-    m "Je pris la sphère et la range dans l'une de mes poches avant de me diriger au rendez vous de Lorem."
+    m "Je pris la sphère et la rangea dans l'une de mes poches avant de partir retrouver Lorem."
 
 # game/lorem5.rpy:28
 translate french lorem5_cfddec83:
@@ -36,19 +36,19 @@ translate french lorem5_cfddec83:
 translate french lorem5_ed892e4e:
 
     # m "Having gathered my things, I headed out to meet Lorem."
-    m "Après avoir préparé mes affaires, je me dirigé au rendez vous de Lorem."
+    m "Après avoir préparé mes affaires, je partis retrouver Lorem."
 
 # game/lorem5.rpy:42
 translate french lorem5_fb2eb8b5:
 
     # m "After a few minutes of walking, I arrived at a rather empty looking area near the edge of town."
-    m "Après quelques minutes de marche, j'arrivais a une zone plutôt isolé près du bord de la ville."
+    m "Après quelques minutes de marche, j'arrivai a une zone plutôt isolé aux abords de la ville."
 
 # game/lorem5.rpy:46
 translate french lorem5_ab03b487:
 
     # c "Hey, Lorem!"
-    c "Hé, Lorem!"
+    c "Hé, Lorem !"
 
 # game/lorem5.rpy:48
 translate french lorem5_18d0dd63:
@@ -60,7 +60,7 @@ translate french lorem5_18d0dd63:
 translate french lorem5_3f0150c8:
 
     # c "You were right. This will be much better than mingling with the crowds. I can do without all the extra noise and screaming."
-    c "Tu avais raison. Ça sera beaucoup mieux que de se mélanger avec la foule. Je préfèrerais sans les bruits et les cris."
+    c "Tu avais raison. Ca sera beaucoup mieux que de se mélanger avec la foule. Je me sens mieux sans les bruits et les cris."
 
 # game/lorem5.rpy:52
 translate french lorem5_2899058b:
@@ -72,13 +72,13 @@ translate french lorem5_2899058b:
 translate french lorem5_103f262c:
 
     # Lo relieved "Listen, after what happened last time, why'd you decide to come and meet me again?"
-    Lo relieved "Ecoute, après ce qui s'est passé la dernière fois, pourquoi à tu décidé de revenir et de se rencontrer à nouveau ?"
+    Lo relieved "Ecoute, après ce qui s'est passé la dernière fois, pourquoi as-tu voulu que l'on se revoit ?"
 
 # game/lorem5.rpy:58
 translate french lorem5_b5801129:
 
     # c "You know, I had some time to think things over. When you first told me, that came as a shock - but now, I don't think it's that big of a deal anymore. At least, it's not enough to just ignore everything else that's happened."
-    c "Tu sais, j'ai eu un peu de temps pour y penser. Quand tu me la dit, c'était comme un choque - mais maintenant, je ne pense plus que ce soit un problème. Enfin, ce n'est pas assez pour juste ignoré tous ce qui c'était passé."
+    c "Tu sais, j'ai eu un peu de temps pour y penser. Quand tu me l'as dit, c'était comme un choc - mais maintenant, je ne pense plus que ce soit un problème. Enfin, ce n'est pas assez pour juste ignorer tous ce qui s'était passé."
 
 # game/lorem5.rpy:60
 translate french lorem5_bcd2eec3:
@@ -96,25 +96,25 @@ translate french lorem5_5101fbef:
 translate french lorem5_cd6dce01:
 
     # c "So, what are we going to do now?"
-    c "Donc, on fait quoi maintenant?"
+    c "Donc, on fait quoi maintenant ?"
 
 # game/lorem5.rpy:67
 translate french lorem5_60d1c2b6:
 
     # Lo "Wait."
-    Lo "Attend."
+    Lo "On attend."
 
 # game/lorem5.rpy:71
 translate french lorem5_717d1828:
 
     # c "Oh, I also brought Ipsum's sphere. Maybe it can finally find its way home."
-    c "Oh, j'ai aussi pris la sphère d'Ipsum. Peut être qu'il pourra rentrer chez lui."
+    c "Oh, j'ai aussi pris la sphère d'Ipsum. Peut être que tu pourras la ramener chez toi."
 
 # game/lorem5.rpy:73
 translate french lorem5_fa30b21e:
 
     # Lo happy "Great! Would you mind holding on to it, though? I don't really have a bag or anything to put it in right now."
-    Lo happy "Super! Ça ne te dérangerais pas de la tenir pour le moment ? Je n'ai pas vraiment de sac ou là mettre pour l'instant"
+    Lo happy "Super! Ça ne te dérangerais pas de la garder pour le moment ? Je n'ai pas vraiment de sac où la mettre pour l'instant."
 
 # game/lorem5.rpy:75
 translate french lorem5_e8553cda:
@@ -132,55 +132,55 @@ translate french lorem5_8b3fe1d3:
 translate french lorem5_7bfc442d:
 
     # Lo think "I think it's starting. Look!"
-    Lo think "Je pense que ça commence. Regarde!"
+    Lo think "Je crois que ça commence. Regarde !"
 
 # game/lorem5.rpy:84
 translate french lorem5_f705c1cd:
 
     # m "We were quiet as we waited and the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "Nous étions silencieux pendant que nous attendions, le calme de la nuit nous enveloppait. Bientôt, j'entendis le son de la première fusée montant dans le ciel noir qui explosa dans une multitude de couleur."
+    m "On attendit tranquillement, alors que le silence de la nuit nous enveloppait. Et puis j'entendit le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle explosa dans un motif de couleurs."
 
 # game/lorem5.rpy:86
 translate french lorem5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "Plusieurs fusée suivirent, leurs bruit résonant dans toute la plaine."
+    m "D'autres fusées suivirent, leurs explosions résonnant à travers les plaines."
 
 # game/lorem5.rpy:101
 translate french lorem5_3de6ab5e:
 
     # m "Suddenly, a terrible realization hit me."
-    m "Soudainement, je fis une terrible réalisation."
+    m "Soudain, une réalisation terrible me frappa"
 
 # game/lorem5.rpy:105
 translate french lorem5_8a6266e6:
 
     # m "Considering how public of an event this was and how I was told multiple times that everyone would be watching the fireworks, now would be the best time for Reza to do anything he planned to do."
-    m "Considérant la popularité d'un t'elle événement et comment on m'a dit à plusieurs reprises que tout le monde regarderait les feux d'artifice, ce serait le meilleur moment pour Reza de faire tout ce qu'il comptait faire."
+    m "En considérant que cet évènement était public et le nombre de fois où on m'a dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il a planifié."
 
 # game/lorem5.rpy:107
 translate french lorem5_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m "Non seulement le village avait été déserté, mais le son des feux d'artifice pourraient couvrir n'importe quel tir d'arme, lui donnant une sécurité qui ne se représenterais pas."
+    m "Non seulement le village était simplement déserté, mais le bruit des feux d'artifice couvrirait également les tirs d'armes à feu, lui donnant toute la sécurité dont il aurait besoin."
 
 # game/lorem5.rpy:109
 translate french lorem5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Maintenant que le portail avait été réparé par le mystérieux personnage que j'ai rencontré, c'était le moment parfait pour Reza et sa fuite, et j'étais le seul à savoir."
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 # game/lorem5.rpy:111
 translate french lorem5_5dc48f2c:
 
     # c "Lorem, I think we need to go. Now."
-    c "Lorem, je pense qu'on doit y aller. Maintenant."
+    c "Lorem, je crois qu'on doit y aller. Maintenant."
 
 # game/lorem5.rpy:113
 translate french lorem5_62dc4c78:
 
     # Lo relieved "What's going on?"
-    Lo relieved "Que se passe t'il?"
+    Lo relieved "Que se passe t'il ?"
 
 # game/lorem5.rpy:115
 translate french lorem5_7051290d:
@@ -192,7 +192,7 @@ translate french lorem5_7051290d:
 translate french lorem5_1dc41c00:
 
     # Lo think "Really?"
-    Lo think "Vraiment?"
+    Lo think "Vraiment ?"
 
 # game/lorem5.rpy:119
 translate french lorem5_c4b15f29:
@@ -204,13 +204,13 @@ translate french lorem5_c4b15f29:
 translate french lorem5_6bc14ac6:
 
     # Lo relieved "We? What do you think I can do? He's twice as big as I am, and let's not forget about his weapon."
-    Lo relieved "Nous? Que pense tu que je peut faire? Il est deux fois plus grand que moi, et n'oublions pas son arme."
+    Lo relieved "Nous ? Que crois-tu que je puisse faire? Il est deux fois plus grand que moi, et sans oublier pas son arme."
 
 # game/lorem5.rpy:123
 translate french lorem5_0efb5710:
 
     # c "I can try to hold him off. You go and get help."
-    c "Je peut essayer de l'occuper. Va chercher de l'aide."
+    c "Je peux essayer de le retenir. Vas chercher de l'aide."
 
 # game/lorem5.rpy:125
 translate french lorem5_6b5b5e19:
@@ -222,25 +222,25 @@ translate french lorem5_6b5b5e19:
 translate french lorem5_e3e599e8:
 
     # Lo "Wait a minute. Give me the sphere."
-    Lo "Attend un peu. Donne moi la sphère."
+    Lo "Attends. Donne moi la sphère."
 
 # game/lorem5.rpy:131
 translate french lorem5_39fda16a:
 
     # c "There you go."
-    c "La voilà."
+    c "Tiens. La voilà."
 
 # game/lorem5.rpy:142
 translate french lorem5_cb55842b:
 
     # m "I watched as Lorem took the sphere from my hands and slid their fingers over its interface in a peculiar way. After a few seconds, they were done and the sphere was back in my hands."
-    m "J'ai regardé Lorem prendre la sphère de mes mains et glissa ces doigt sur l'interface d'une façon particulière. Après quelques secondes, tout étaient terminé et la sphère fut de retour dans mes mains."
+    m "Je regardais tandis que Lorem prit la sphère de mes mains et glissa ses doigt sur l'interface d'une façon particulière. Après quelques secondes, tout était terminé et la sphère fut de retour dans mes mains."
 
 # game/lorem5.rpy:144
 translate french lorem5_62b8077a:
 
     # Lo "It might not help you much, but if something goes wrong, just throw it at him."
-    Lo "ça ne devrait pas beaucoup t'aider, mais si quelque chose ne va pas, jette lui dessus."
+    Lo "Ca ne devrait pas beaucoup t'aider, mais si quelque chose ne va pas, jettes la lui dessus."
 
 # game/lorem5.rpy:146
 translate french lorem5_86148265:
@@ -252,7 +252,7 @@ translate french lorem5_86148265:
 translate french lorem5_5ec02e53:
 
     # Lo "Where is he, anyway?"
-    Lo "Au faite, Où est t'il?"
+    Lo "Au faite, Où est t'il ?"
 
 # game/lorem5.rpy:152
 translate french lorem5_9fb08834:
@@ -264,115 +264,115 @@ translate french lorem5_9fb08834:
 translate french lorem5_43aa0082:
 
     # c "Let's go!"
-    c "C'est parti!"
+    c "C'est parti !"
 
 # game/lorem5.rpy:168
 translate french _call_endingjustafewminuteslater_3_5233b371:
 
     # Mv "Maybe I can."
-    Mv "Peut-être que je peut."
+    Mv "Peut-être que moi je peux."
 
 # game/lorem5.rpy:174
 translate french loremgoodending2_e90ddd85:
 
     # m "Suddenly, Maverick and Lorem appeared next to me."
-    m "Soudainement, Maverick et Lorem apparurent à côté de moi."
+    m "Soudain, Maverick et Lorem apparurent à côté de moi."
 
 # game/lorem5.rpy:182
 translate french loremgoodending2_40a50c3c:
 
     # Rz angry "You planned this, didn't you, [player_name]?"
-    Rz angry "Tout était prévu, n'est-ce pas, [player_name]?"
+    Rz angry "C'est toi qui a prévu ça, n'est-ce pas, [player_name] ?"
 
 # game/lorem5.rpy:186
 translate french loremgoodending2_0599b8cd:
 
     # Rz "Traitor!" with hpunch
-    Rz "Traître !" with hpunch
+    Rz "Sale traître !" with hpunch
 
 # game/lorem5.rpy:190
 translate french loremgoodending2_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Et de penser que je t'ai laissé me distraire de cette façon! Juste parce que je pensais qu'il restais une once d'humanité en toi..."
+    Rz "Et dire que je t'ai laissé m'embobiner avec ton petit numéro ! Juste parce que je pensais qu'il restait une once d'humanité en toi..."
 
 # game/lorem5.rpy:198
 translate french loremgoodending2_bdbf243c:
 
     # m "He pulled out his gun, not sure which one of us he should be aiming at."
-    m "Il prit son arme, sans être sûr de savoir lequel d'entre nous il visait."
+    m "Il dégaina son pistolet, incertain sur lequel d'entre nous il devrait viser."
 
 # game/lorem5.rpy:200
 translate french loremgoodending2_561cf27e:
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz "Juste laisse moi partir, et j'oublierais que tous ceci c'est produit."
+    Rz "Laissez moi juste partir, et j'oublierai tout ce qui vient de se passer."
 
 # game/lorem5.rpy:202
 translate french loremgoodending2_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c "Tu possède 6 balles pour trois personne. Pense tu vraiment que tu peut le faire, Reza? Pense tu que ça vaut vraiment le coup de risquer ta vie pour ça?"
+    c "Tu as six balles pour trois personnes. Penses-tu vraiment que tu vas y arriver, Reza ? Tu penses que ça vaut le coup de risquer ta vie pour ça ?"
 
 # game/lorem5.rpy:204
 translate french loremgoodending2_6281e04a:
 
     # Rz angry "I've been risking my life for this every day for the last two weeks. What did you do during that time? Sip champagne in your nice apartment?"
-    Rz angry "J'ai risqué ma vie tous les jours depuis ces deux dernières semaine. Qu'à tu fais pendant ce temps? Siroter ton champagne dans ton superbe appartement?"
+    Rz angry "J'ai risqué ma vie chaque jour durant les deux dernières semaines pour ça. Qu'est-ce que tu as fait pendant ce temps ? Siroter du champagne dans ton superbe appartement ?"
 
 # game/lorem5.rpy:206
 translate french loremgoodending2_892229f8:
 
     # Rz "Besides, this generator and the whole building came from our time."
-    Rz "Et puis, ce générateur et tout ce bâtiment viennent de notre temps."
+    Rz "De plus, ce générateur et tout le bâtiment viennent de notre époque."
 
 # game/lorem5.rpy:209
 translate french loremgoodending2_40d6a19a:
 
     # Rz "They belong to humanity!" with Shake((0, 0, 0, 0), 2, dist=10)
-    Rz "Ils appartiennent à l'humanité!" with Shake((0, 0, 0, 0), 2, dist=10)
+    Rz "Tout ça appartient à l'humanité !" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/lorem5.rpy:218
 translate french loremgoodending2_d0af508a:
 
     # m "Suddenly, the Administrator came out of the shadows in the hallway behind Reza."
-    m "Soudainement, l'administrateur apparu de l'ombre dans le couloir derrière Reza."
+    m "Soudain, l'administrateur sortit de l'ombre, dans le couloir derrière Reza."
 
 # game/lorem5.rpy:223
 translate french loremgoodending2_0f4307a5:
 
     # As "No, they belong to me."
-    As "Non, ils m'appartiennent."
+    As "Non, tout ça n'appartient qu'à moi."
 
 # game/lorem5.rpy:231
 translate french loremgoodending2_5de0f92a:
 
     # m "Confused, Reza spun around, aiming his gun at the newcomer who was slowly walking towards him."
-    m "Confus, Reza se tourna, visant le nouvelle arrivant avec sont arme qui s'avancer doucement vers lui."
+    m "Désemparé, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
 
 # game/lorem5.rpy:233
 translate french loremgoodending2_6380d90f:
 
     # Rz "Who the fuck are you? Freeze! I said freeze!"
-    Rz "Bordel t'es qui toi? Bouge pas! J'ai dit bouge pas!"
+    Rz "Bordel t'es qui ? Bouge pas ! J'ai dit bouge pas !"
 
 # game/lorem5.rpy:237
 translate french loremgoodending2_c13acdb0:
 
     # As "Want to waste your bullets on me? Feel free. You can't stop all of us."
-    As "Tu veux gaspiller tes balles sur moi? Vas-y. Tu ne peut pas tous nous arrêter."
+    As "Envie de gâcher tes balles sur moi ? Fais toi plaisir. Tu ne peux pas tous nous arrêter."
 
 # game/lorem5.rpy:241
 translate french loremgoodending2_45e01706:
 
     # Rz gunpoint flip "If you say so."
-    Rz gunpoint flip "Si tu le dit."
+    Rz gunpoint flip "Si tu insistes."
 
 # game/lorem5.rpy:255
 translate french loremgoodending2_48e40cdb:
 
     # m "He pulled the trigger, and the Administrator fell to the ground with a dull thud that knocked her mask off."
-    m "Il appuya sur la gâchette, et l'administrateur tomba au sol avec un bruit sourd qui enleva sont masque."
+    m "Il appuya sur la détente, et l'administrateur s'effondra au sol dans un choc sourd qui éjecta son masque."
 
 # game/lorem5.rpy:269
 translate french loremgoodending2_cc6068d5:
