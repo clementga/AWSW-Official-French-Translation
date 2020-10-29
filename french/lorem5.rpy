@@ -378,85 +378,85 @@ translate french loremgoodending2_48e40cdb:
 translate french loremgoodending2_cc6068d5:
 
     # m "My first instinct was to run away, but as Maverick and Lorem started charging, so did I."
-    m "Mon premier réflexe fû de m'enfuir, mais comme Maverick et Lorem commença à charger, je le fis aussi."
+    m "Mon premier réflexe fût de m'enfuir, mais comme Maverick et Lorem commencèrent à charger, je le fis également."
 
 # game/lorem5.rpy:287
 translate french loremgoodending2_c918df99:
 
     # m "Reza was quick with his aim and shot at Maverick until he went down."
-    m "Reza était rapide avec sa visé et tira sur Maverick jusqu'à ce qu'il tombe a terre."
+    m "Reza fut rapide et précis et tira sur Maverick jusqu'à ce qu'il tombe à terre."
 
 # game/lorem5.rpy:309
 translate french loremgoodending2_f663fbea:
 
     # m "Lorem took flight with a few beats of their wings and was about to collide with Reza, but at the last moment, Reza got out of the way and hit Lorem with a well-aimed kick."
-    m "Lorem vola avec quelques battement de ces ailes et étais sur le point d'entrer en collision avec Reza, mais au dernier moment, Reza l'enleva de sont chemin avec un coup de pied bien placé."
+    m "Lorem vola avec quelques battement d'ailes et était sur le point d'entrer en collision avec Reza, mais au dernier moment, Reza le dégagea de son chemin avec un coup de pied bien placé."
 
 # game/lorem5.rpy:330
 translate french loremgoodending2_1d9f3f9b:
 
     # m "In an instant, Reza was aiming at me. I quickly dove behind the box with the generator for cover - just before he pulled the trigger."
-    m "En un instant, Reza me visait. Rapidement, je me mis à couvert derrière une des boîtes contenant le générateur - juste avant qu'il appuie sur la gâchette."
+    m "En un instant, Reza me visait. Rapidement, je me mis à couvert derrière une des boîtes contenant le générateur - juste avant qu'il appuie sur la détente."
 
 # game/lorem5.rpy:348
 translate french loremgoodending2_6b07414f:
 
     # m "While I was unharmed, a loud hiss suddenly started emanating from the box."
-    m "Toujours étant désarmé, un fort sifflement émanant d'une des boîtes se fit entendre."
+    m "Tandis que j'étais indemne, un fort sifflement émanant de la boîtes se fit soudainement entendre."
 
 # game/lorem5.rpy:350
 translate french loremgoodending2_e8479b56:
 
     # m "I knew what was going to happen and quickly started running towards the exit."
-    m "Je savais ce qui allait se passer et j'ai rapidement commencé à courir vers la sortie."
+    m "Je savais ce qui allait se passer et rapidement je commençai à courir vers la sortie."
 
 # game/lorem5.rpy:364
 translate french loremgoodending2_8cc74e6b:
 
     # m "Just as I reached the outside, the explosion battered my ears. The shockwave sent me flying briefly before I roughly collided with the ground." with Shake((0, 0, 0, 0), 3.0, dist=30)
-    m "Juste au moment où j'atteignais l'extérieur, l'explosion m'a fait mal aux oreilles. L'onde de choc m'a envoyé voler brièvement avant que je ne frappe brutalement le sol." with Shake((0, 0, 0, 0), 3.0, dist=30)
+    m "Juste au moment où j'atteignais l'extérieur, l'explosion résonna dans mes oreilles. L'onde de choc m'envoya voler brièvement avant que je ne frappe brutalement le sol." with Shake((0, 0, 0, 0), 3.0, dist=30)
 
 # game/lorem5.rpy:368
 translate french loremgoodending2_1e7d989b:
 
     # m "My vision blurred instantly and all control left my body as I slowly closed my eyes."
-    m "Ma vision s'est instantanément brouillée et tout contrôle a quitté mon corps alors que je fermais lentement les yeux."
+    m "Ma vision s'était instantanément brouillée et tout contrôle avait quitté mon corps alors que je fermais lentement les yeux."
 
 # game/lorem5.rpy:384
 translate french loremgoodending2_6967436f:
 
     # m "I awoke to the sight of Reza aiming his gun at me."
-    m "Je me suis réveillé à la vue de Reza me visant avec son arme à feu."
+    m "Je m'étais réveillé à la vue de Reza me visant avec son arme à feu."
 
 # game/lorem5.rpy:386
 translate french loremgoodending2_933de12a:
 
     # Rz "What the heck did you do to the portal?"
-    Rz "Qu'à tu fais au portail?"
+    Rz "Qu'as-tu fais au portail ?"
 
 # game/lorem5.rpy:388
 translate french loremgoodending2_9610c2a8:
 
     # c "What are you talking about? I didn't do anything."
-    c "De quoi tu parle? Je n'ai rien fais."
+    c "De quoi tu parles ? Je n'ai rien fait."
 
 # game/lorem5.rpy:390
 translate french loremgoodending2_380692ef:
 
     # Rz angry "Why can't I use it then? And what happened to the coordinates?"
-    Rz angry "Pourquoi je ne peut pas l'utiliser alors? Et que sont devenue les coordonnés?"
+    Rz angry "Pourquoi je ne peut pas l'utiliser alors ? Et que sont devenues les coordonnés ?"
 
 # game/lorem5.rpy:392
 translate french loremgoodending2_6a82f08b:
 
     # Rz annoyed "The dragons don't know that much about the portal, so it must've been you or that girl."
-    Rz annoyed "Les dragons n'en savent pas beaucoup sur le portail, alors ça devait être toi ou cette fille."
+    Rz annoyed "Les dragons n'en savent pas beaucoup sur le portail, alors ça doit être toi ou cette fille."
 
 # game/lorem5.rpy:396
 translate french loremgoodending2_663def22:
 
     # Rz gunself "You better give me something, or else I have no reason to let you live."
-    Rz gunself "Tu ferais mieux de me donner quelque chose, sinon je n'ai aucune raison de te laisser vivre."
+    Rz gunself "Tu ferais mieux de me donner quelque chose, sinon je n'ai aucune raison de te laisser en vie."
 
 # game/lorem5.rpy:398
 translate french loremgoodending2_5dd381b6:
@@ -468,7 +468,7 @@ translate french loremgoodending2_5dd381b6:
 translate french loremgoodending2_f5ae937b:
 
     # Rz angry "Who is she?"
-    Rz angry "Qui elle est ?"
+    Rz angry "Qui est-elle ?"
 
 # game/lorem5.rpy:402
 translate french loremgoodending2_a9f34c76:
@@ -486,13 +486,13 @@ translate french loremgoodending2_f810dacb:
 translate french loremgoodending2_be9a6aa1:
 
     # c "You were the one who suddenly vanished. Maybe that's why they sent her."
-    c "tu es celui qui a soudainement disparu. C'est peut-être pour ça qu'ils l'ont envoyée."
+    c "Tu es celui qui a soudainement disparu. C'est peut-être pour ça qu'ils l'ont envoyé."
 
 # game/lorem5.rpy:408
 translate french loremgoodending2_4374cfb0:
 
     # Rz angry "I had my plan and humanity was fine with it. You must have told them something that changed their minds."
-    Rz angry "J'avais mon plan et l'humanité était d'accord avec ça. tu doit leur avoir dit quelque chose qui leur a fait changer d'avis."
+    Rz angry "J'avais mon plan et l'humanité était d'accord avec ça. tu dois leur avoir dit quelque chose qui les a fait changer d'avis."
 
 # game/lorem5.rpy:410
 translate french loremgoodending2_bf1a49aa:
@@ -516,19 +516,19 @@ translate french loremgoodending2_0537a381:
 translate french loremgoodending2_92ed25e4:
 
     # c "If humanity knew, why would they send her, then?"
-    c "Si l'humanité savait, pourquoi l'ont ils envoyé alors?"
+    c "Si l'humanité savait, pourquoi l'ont-ils envoyé alors?"
 
 # game/lorem5.rpy:418
 translate french loremgoodending2_e4f2c00a:
 
     # Rz "That's what I've been asking myself. It doesn't make any sense."
-    Rz "C'est ce que je me suis demandé. Cela n'a aucun sens."
+    Rz "C'est ce que je me suis demandé. Ca n'a aucun sens."
 
 # game/lorem5.rpy:420
 translate french loremgoodending2_f7380a92:
 
     # c "It doesn't really matter, anyway. She is the only one who knows how to use the portal again, and now that you've killed her, we're both stuck here."
-    c "De toute façon, ça n'a pas d'importance. Elle est la seule à pouvoir réutiliser le portail, et maintenant que tu l'a tuée, nous sommes tous les deux coincés ici."
+    c "De toute façon, ça n'a plus d'importance. Elle est la seule à pouvoir utiliser le portail, et maintenant que tu l'as tué, nous sommes tous les deux coincés ici."
 
 # game/lorem5.rpy:422
 translate french loremgoodending2_9bcda5be:
@@ -540,7 +540,7 @@ translate french loremgoodending2_9bcda5be:
 translate french loremgoodending2_880c95ac:
 
     # Rz "You've got something to do with this, or else you wouldn't be so fucking smug about it."
-    Rz "Tu à quelque chose à voir avec cela, sinon tu ne serait pas si putain de calme à ce sujet."
+    Rz "Tu as quelque chose à voir avec cela, sinon tu ne serais pas si putain de calme à ce sujet."
 
 # game/lorem5.rpy:426
 translate french loremgoodending2_5f1ce691:
@@ -552,25 +552,25 @@ translate french loremgoodending2_5f1ce691:
 translate french loremgoodending2_2755a44d:
 
     # Rz angry "Stop denying it!" with hpunch
-    Rz angry "Arrête de nier!" with hpunch
+    Rz angry "Arrête de nier !" with hpunch
 
 # game/lorem5.rpy:430
 translate french loremgoodending2_6db30ef5:
 
     # Rz "You're going to fix this right now, or I'll find ways to make you talk."
-    Rz "Tu va arranger ça tout de suite, ou je vais trouver un moyen de te faire parler."
+    Rz "Tu vas arranger ça tout de suite, ou je vais trouver un moyen de te faire parler."
 
 # game/lorem5.rpy:432
 translate french loremgoodending2_11f4d705:
 
     # c "Nothing you can do or say will change what's coming now."
-    c "Rien de ce que tu va faire ou dire ne changera ce qui va arriver maintenant."
+    c "Rien de ce que tu vas faire ou dire ne changera ce qui va arriver maintenant."
 
 # game/lorem5.rpy:434
 translate french loremgoodending2_0b7da9ca:
 
     # Rz annoyed "What's that?"
-    Rz annoyed "Comment ça?"
+    Rz annoyed "Comment ça ?"
 
 # game/lorem5.rpy:436
 translate french loremgoodending2_1213736c:
@@ -594,7 +594,7 @@ translate french loremgoodending2_b2f6bd02:
 translate french loremgoodending2_a10af37d:
 
     # m "Before he could fire, I grabbed his hand in an attempt to disarm him, but in the scuffle, a shot went off and I suddenly found myself in a world of pain. I collapsed to the ground still holding the gun."
-    m "Avant qu'il ne puisse tirer, j'ai attrapé sa main pour tenter de le désarmer, mais dans la bagarre, un coup de feu a sonné et je me suis soudain retrouvé dans un monde de douleur. Je me suis effondré au sol en tenant toujours le pistolet."
+    m "Avant qu'il ne puisse tirer, j'avais attrapé sa main pour tenter de le désarmer, mais dans la bagarre, un coup de feu sonna et je me retrouvai soudain dans un monde de douleur. Je m'étais effondré au sol en tenant toujours le pistolet."
 
 # game/lorem5.rpy:468
 translate french loremgoodending2_692f6281:
@@ -606,31 +606,31 @@ translate french loremgoodending2_692f6281:
 translate french loremgoodending2_4db0ed1b:
 
     # Mv "What are you going to do now, Reza?"
-    Mv "Que va tu faire maintenant, Reza?"
+    Mv "Que vas-tu faire maintenant, Reza ?"
 
 # game/lorem5.rpy:474
 translate french loremgoodending2_08e1b8bb:
 
     # Mv angry "Not so strong anymore without your weapon, huh?"
-    Mv angry "Tu n'est plus aussi fort sans ton arme, hein?"
+    Mv angry "Tu n'es plus aussi fort sans ton arme, hein ?"
 
 # game/lorem5.rpy:485
 translate french loremgoodending2_664eb897:
 
     # m "The voices faded as I watched the sky."
-    m "Les voix se sont estompées alors que je regardais le ciel."
+    m "Les voix s'estompèrent alors que je regardais le ciel."
 
 # game/lorem5.rpy:489
 translate french loremgoodending2_832fc3e0:
 
     # m "My vision turned red, making it look as if the stars were bathing in a sea of blood."
-    m "Ma vision a viré au rouge, donnant l'impression que les étoiles se baignaient dans une mer de sang."
+    m "Ma vision vira au rouge, donnant l'impression que les étoiles se baignaient dans une mer de sang."
 
 # game/lorem5.rpy:493
 translate french loremgoodending2_e77e3094:
 
     # m "I resigned to my fate as I closed my eyes."
-    m "Je me suis résigné à mon destin en fermant les yeux."
+    m "Je me résignais à mon destin alors que je fermais les yeux."
 
 # game/lorem5.rpy:506
 translate french loremgoodending2_76b2fe88:
@@ -642,49 +642,49 @@ translate french loremgoodending2_76b2fe88:
 translate french loremgoodending2_5e0ab5e8:
 
     # n "Reza was apprehended and taken to jail."
-    n "Reza a été appréhendé et emmené en prison."
+    n "Reza fut appréhendé et emprisonné."
 
 # game/lorem5.rpy:512
 translate french loremgoodending2_43a23307:
 
     # n "As communication between our worlds was no longer possible, humanity never learned of our fate in this timeline."
-    n "Comme la communication entre nos deux mondes n’était plus possible, l’humanité n’a jamais appris notre destin dans cette ligne temporelle."
+    n "Comme la communication entre nos deux mondes n’était plus possible, l’humanité n’appris jamais notre destin dans cette ligne temporelle."
 
 # game/lorem5.rpy:514
 translate french loremgoodending2_afe67cd9:
 
     # n "They had decided that if our visit did not yield any results, they would no longer try their luck with the portal and instead use their remaining energy to hold on as long as they still could."
-    n "Ils avaient décidé que si notre visite ne donnait aucun résultat, ils ne tenteraient plus leur chance avec le portail mais utiliseraient leur énergie restante pour s'accrocher aussi longtemps qu'ils le pourraient encore."
+    n "Ils avaient décidé que si notre visite ne donnait aucun résultat, ils ne tenteraient plus leur chance avec le portail mais utiliseraient l'énergie restante pour s'accrocher aussi longtemps qu'ils le pourraient."
 
 # game/lorem5.rpy:516
 translate french loremgoodending2_6b6bfa91:
 
     # n "It was an uphill battle that was eventually lost when the city ran out of resources and fell."
-    n "Ce fut un combat difficile qui a finalement été perdue lorsque la ville a manqué de ressources et sombra."
+    n "Ce fut un combat difficile qui fut finalement perdu lorsque la ville commença à manquer de ressources et sombra."
 
 # game/lorem5.rpy:518
 translate french loremgoodending2_3ebaa05b:
 
     # n "Reza warned the dragons of the comet and its danger, but without the generators from the underground building, their plan to redirect it ultimately failed."
-    n "Reza a averti les dragons de la comète et de son danger, mais sans les générateurs du bâtiment souterrain, leur plan pour le réorienter a finalement échoué."
+    n "Reza avertit les dragons de la comète et de son danger, mais sans les générateurs du bâtiment souterrain, leur plan pour la réorienter fut finalement un échec."
 
 # game/lorem5.rpy:663
 translate french _call_syscheck_90_a31fd18b:
 
     # s "You have seen Lorem's bad ending!"
-    s "Vous avez vu la mauvaise fin de Lorem!"
+    s "Vous avez vu la mauvaise fin de Lorem !"
 
 # game/lorem5.rpy:679
 translate french loremgoodending_db07fa05:
 
     # c "You know what? I'm not having this conversation with you again."
-    c "Tu sais quoi? Je ne vais pas avoir cette conversation avec toi encore."
+    c "Tu sais quoi ? Je ne vais pas encore avoir cette conversation avec toi."
 
 # game/lorem5.rpy:681
 translate french loremgoodending_cfaac05f:
 
     # Rz annoyed "What are you talking about?"
-    Rz annoyed "De quoi tu parle ?"
+    Rz annoyed "De quoi tu parles ?"
 
 # game/lorem5.rpy:683
 translate french loremgoodending_10e008a6:
@@ -702,49 +702,49 @@ translate french loremgoodending_659939ae:
 translate french loremgoodending_55e802ec:
 
     # c "I'm not here to help you. This is where it ends."
-    c "Je ne suis pas ici pour t'aider. C'est ici que tous se termine."
+    c "Je ne suis pas ici pour t'aider. C'est ici que tout se termine."
 
 # game/lorem5.rpy:689
 translate french loremgoodending_22401a1c:
 
     # Rz annoyed "What is your problem, [player_name]? You know about the comet, so we can't stay here."
-    Rz annoyed "C'est quoi ton problème, [player_name]? Tu sais à propos de la comette, donc on ne peut pas rester ici."
+    Rz annoyed "C'est quoi ton problème, [player_name] ? Tu sais à propos de la comette, donc on ne peut pas rester ici."
 
 # game/lorem5.rpy:691
 translate french loremgoodending_b2b01095:
 
     # c "Just shut up, Reza. I'm not in the mood to talk with you anymore."
-    c "Ferme la, Reza. Je ne suis pas d'humeur pour te parler encore."
+    c "Ferme la, Reza. Je ne suis plus d'humeur à te parler."
 
 # game/lorem5.rpy:695
 translate french loremgoodending_43da2aa1:
 
     # c "I don't need to, because your friend has just arrived."
-    c "Je n'ai pas besoin, parce que tes amis viennent d'arriver."
+    c "Je n'en ai pas besoin, parce que ton petit copain vient tout juste d'arriver."
 
 # game/lorem5.rpy:703
 translate french loremgoodending3_af82c933:
 
     # m "Lorem collided roughly with the wall and fell to the ground. Remembering Lorem's words, I took the sphere and threw it towards Reza as hard as I could."
-    m "Lorem percuta fortement le mur et tomba au sol. Me rappelant les mots de Lorem, je pris la sphere et la lança en direction de Reza aussi fort que je pouvais."
+    m "Lorem percuta fortement le mur et tomba au sol. Me rappelant les mots de Lorem, je pris la sphère et la lançai en direction de Reza aussi fort que je le pus."
 
 # game/lorem5.rpy:707
 translate french loremgoodending3_630d5a4b:
 
     # m "At first it looked as though it was going to miss, but the sphere adjusted its path and flew straight towards him."
-    m "Au début, cela semblait manquer, mais la sphère ajusta son chemin et vola directement vers lui."
+    m "Au début, cela semblait manquer sa cible, mais la sphère ajusta sa trajectoire et vola directement vers lui."
 
 # game/lorem5.rpy:723
 translate french loremgoodending3_7306f938:
 
     # m "Reza aimed at me, but the sphere hit him before he could pull the trigger. He lost his balance and stumbled backwards before he fell to the ground."
-    m "Reza m'a visé, mais la sphère l'a frappé avant qu'il ne puisse appuyer sur la gâchette. Il a perdu son équilibre et a trébuché en arrière avant de tomber au sol."
+    m "Reza me visa, mais la sphère le frappa avant qu'il ne puisse appuyer sur la détente. Il perdit son équilibre et trébucha en arrière avant de tomber au sol."
 
 # game/lorem5.rpy:727
 translate french loremgoodending3_625c3f0f:
 
     # m "As he got up, I saw that the barrel of his gun was now bent out of shape."
-    m "En se levant, j'ai vu que le canon de son arme était maintenant déformé."
+    m "En se relevant, je vis que le canon de son arme était maintenant déformé."
 
 # game/lorem5.rpy:729
 translate french loremgoodending3_db777428:
@@ -756,37 +756,37 @@ translate french loremgoodending3_db777428:
 translate french loremgoodending3_0e56364b:
 
     # m "I tried to stop him, but he hit me in the face with the gun's blunt end and ran past me." with vpunch
-    m "J'ai essayé de l'arrêter, mais il m'a frappée au visage avec la poignée de l'arme et me dépassa." with vpunch
+    m "J'essayai de l'arrêter, mais il me frappa au visage avec la crosse de l'arme et me dépassa." with vpunch
 
 # game/lorem5.rpy:742
 translate french loremgoodending3_a44edf7d:
 
     # m "It took a few seconds until I composed myself and ran after him."
-    m "Il a fallu quelques secondes avant que je me reprenne et que je coure après lui."
+    m "Il me fallut quelques secondes avant que je me reprenne et que je me lance."
 
 # game/lorem5.rpy:771
 translate french loremgoodending3_29b75127:
 
     # m "As I went up the hill, I saw that Reza was already taking his place while the Portal did its starting routine."
-    m "En montant la colline, j'ai vu que Reza prenait déjà sa place pendant que le portail faisait sa routine de départ."
+    m "En montant la colline, je vis que Reza prenait déjà sa place pendant que le portail faisait sa routine de démarrage."
 
 # game/lorem5.rpy:777
 translate french loremgoodending3_1d8b1d4a:
 
     # m "I ran up to the console and entered a few commands. Reza turned around and saw me."
-    m "J'ai couru jusqu'à la console et j'ai entré quelques commandes. Reza s'est retourné et m'a vu."
+    m "Je courus jusqu'à la console et entrai quelques commandes. Reza me vit en se retournant."
 
 # game/lorem5.rpy:781
 translate french loremgoodending3_329ada6c:
 
     # Rz "What are you doing?" with vpunch
-    Rz "Que fais tu ?" with vpunch
+    Rz "Qu'est-ce que tu fais ?" with vpunch
 
 # game/lorem5.rpy:793
 translate french loremgoodending3_e3ed1fee:
 
     # m "Reza walked off the platform, but I quickly ran around the console and threw my weight against him, just in time for the portal to start teleporting us."
-    m "Reza a quitté la plate-forme, mais j'ai rapidement contourné la console et jeté mon poids contre lui, juste à temps pour que le portail commence à nous téléporter."
+    m "Reza quitta la plate-forme, mais j'avais rapidement contourné la console et jeté mon poids contre lui, juste à temps pour que le portail commence à nous téléporter."
 
 # game/lorem5.rpy:807
 translate french loremgoodending3_76b2fe88:
@@ -798,79 +798,79 @@ translate french loremgoodending3_76b2fe88:
 translate french loremgoodending3_11dd5dd2:
 
     # n "Lorem lived to tell the police what had transpired in the underground building."
-    n "Lorem survécu et raconta à la police ce qui s'était passé dans le bâtiment souterrain."
+    n "Lorem survécut et raconta à la police ce qui s'était passé dans le bâtiment souterrain."
 
 # game/lorem5.rpy:813
 translate french loremgoodending3_8cc57f7f:
 
     # n "The conversation they had overheard was enough for the dragons to find out about the comet, and with the help of the portal's power source, they were able to divert it."
-    n "La conversation qu'ils avaient surprise était suffisante pour que les dragons découvrent la comète et, avec l'aide de la source d'alimentation du portail, ont été en mesure de la détourner."
+    n "La conversation qu'ils avaient surprise était suffisante pour que les dragons découvrent la comète et, avec l'aide de la source d'alimentation du portail, furent en mesure de la détourner."
 
 # game/lorem5.rpy:815
 translate french loremgoodending3_3d679fda:
 
     # n "As neither humanity nor the dragons knew where Reza and I ended up, our visit was considered a failure."
-    n "Comme ni l'humanité ni les dragons ne savaient où Reza et moi avions abouti, notre visite a été considérée comme un échec."
+    n "Comme ni l'humanité ni les dragons ne savaient où Reza et moi avions abouti, notre visite fut considérée comme un échec."
 
 # game/lorem5.rpy:817
 translate french loremgoodending3_b852a1d8:
 
     # n "Humanity had decided that if our visit did not yield any results, they would no longer try their luck with the portal and instead use their remaining energy to hold on as long as they still could."
-    n "L’humanité avait décidé que si notre visite n’aboutissait à aucun résultat, elle ne tenterait plus sa chance avec le portail mais utiliserait son énergie restante pour tenir aussi longtemps qu’elle le pourrait."
+    n "L’humanité avait décidé que si notre visite n’aboutissait à aucun résultat, elle ne tenterait plus sa chance avec le portail mais utiliserait l'énergie restante pour tenir aussi longtemps qu’elle le pourrait."
 
 # game/lorem5.rpy:819
 translate french loremgoodending3_18f0c358:
 
     # n "For the dragons, life went on as usual - but for our city, this outcome meant they had to continue their fight on their own."
-    n "Pour les dragons, la vie a continué comme d'habitude - mais pour notre ville, ce résultat leur a obligé à poursuivre leur combat seul."
+    n "Pour les dragons, la vie continua comme à son habitude - mais pour notre ville, ce résultat les obligea à poursuivre leur combat seul."
 
 # game/lorem5.rpy:821
 translate french loremgoodending3_6b6bfa91:
 
     # n "It was an uphill battle that was eventually lost when the city ran out of resources and fell."
-    n "Ce fut une bataille difficile qui a finalement été perdue lorsque la ville a manqué de ressources et est tombée."
+    n "Ce fut une bataille difficile qui fut finalement perdue lorsque la ville commença à manquer de ressources et sombra."
 
 # game/lorem5.rpy:952
 translate french loremgoodending3_bc2721a0:
 
     # m "We reappeared on the other side and collapsed to the ground. It was the day of my arrival in the dragons' world, just as I had planned."
-    m "Nous avons réapparu de l'autre côté et nous nous sommes effondrés. C'était le jour de mon arrivée dans le monde des dragons, comme je l'avais prévu."
+    m "Nous étions réapparus de l'autre côté et nous nous effondrâmes au sol. C'était le jour de mon arrivée dans le monde des dragons, comme je l'avais prévu."
 
 # game/lorem5.rpy:956
 translate french loremgoodending3_b9d83453:
 
     # Rz "What the fuck is going on here?"
-    Rz "C'est quoi ce bordel? Il se passe quoi?"
+    Rz "C'est quoi ce bordel ? Il se passe quoi ?"
 
 # game/lorem5.rpy:960
 translate french loremgoodending3_e090932e:
 
     # Iz "Oh, look at what the cat dragged in."
-    Iz "Oh, regarder ce que le chat à ramener."
+    Iz "Oh, regardez ce que le chat à ramener."
 
 # game/lorem5.rpy:962
 translate french loremgoodending3_c70bec44:
 
     # Rz angry flip "You're supposed to be dead."
-    Rz angry flip "Tu est supposé d'être mort."
+    Rz angry flip "Tu es supposé d'être morte."
 
 # game/lorem5.rpy:964
 translate french loremgoodending3_281fae35:
 
     # Iz "Am I, now?"
-    Iz "Je le suis, maintenant?"
+    Iz "Le suis-je, maintenant ?"
 
 # game/lorem5.rpy:966
 translate french loremgoodending3_dc259170:
 
     # Iz "You're right. But today is not the day."
-    Iz "Tu à raison. Mais aujourd'hui n'est pas le jour."
+    Iz "Tu as raison. Mais aujourd'hui n'est pas le jour J."
 
 # game/lorem5.rpy:986
 translate french loremgoodending3_b3ddbc17:
 
     # m "She held up Reza's head and punched him. His body instantly went limp as he fell unconscious."
-    m "Elle leva la tête de Reza et le frappa. Son corps s'est immédiatement écroulé lorsqu'il est tombé inconscient."
+    m "Elle leva la tête de Reza et le frappa. Son corps s'écroula immédiatement lorsqu'il tomba inconscient."
 
 # game/lorem5.rpy:994
 translate french loremgoodending3_60bbd535:
@@ -882,7 +882,7 @@ translate french loremgoodending3_60bbd535:
 translate french loremgoodending3_953de383:
 
     # Iz "Oh, is that yours?"
-    Iz "Oh, c'est à toi?"
+    Iz "Oh, est-ce que c'est à toi ?"
 
 # game/lorem5.rpy:998
 translate french loremgoodending3_04c5bf3f:
@@ -894,7 +894,7 @@ translate french loremgoodending3_04c5bf3f:
 translate french loremgoodending3_6caa3778:
 
     # m "When I turned around, I realized that it was the Ixomen Sphere. Whatever setting Lorem activated had apparently prompted it to follow us, even through the portal."
-    m "Quand je me suis retourné, j'ai réalisé que c'était la sphère Ixomen. Quel que soit le réglage activé, Lorem l'avait apparemment amené à nous suivre, même à travers le portail."
+    m "En me retournant, je réalisai que c'était la sphère Ixomen. Quel que soit le réglage activé, Lorem l'avait apparemment programmé pour nous suivre, même à travers le portail."
 
 # game/lorem5.rpy:1002
 translate french loremgoodending3_20b97949:
@@ -906,7 +906,7 @@ translate french loremgoodending3_20b97949:
 translate french loremgoodending3_bec40310:
 
     # Iz "You better hold on to it regardless. Those things are expensive."
-    Iz "Tu ferais mieux de la garder malgré tout. Ces choses sont chères."
+    Iz "Tu ferais mieux de la garder malgré tout. Ces choses coûtent cher."
 
 # game/lorem5.rpy:1016
 translate french loremgoodending3_725a3cc3:
@@ -918,13 +918,13 @@ translate french loremgoodending3_725a3cc3:
 translate french loremgoodending3_c2500af3:
 
     # Iz "Come on and help me with this. We've got a long night ahead of us."
-    Iz "Viens et aide-moi avec ça. Nous avons une longue nuit devant nous."
+    Iz "Viens et aides-moi avec ça. Nous avons une longue nuit devant nous."
 
 # game/lorem5.rpy:1053
 translate french _call_syscheck_91_e6156e57:
 
     # s "You have seen Lorem's good ending!"
-    s "Vous avez vu la bonne fin de Lorem!"
+    s "Vous avez vu la bonne fin de Lorem !"
 
 translate french strings:
 
@@ -935,4 +935,8 @@ translate french strings:
     # lorem5.rpy:16
     old "Take the sphere. {image=image/ui/status/base_taken.png}{image=image/ui/status/orb_taken2.png}"
     new "Prendre la sphère. {image=image/ui/status/base_taken.png}{image=image/ui/status/orb_taken2.png}"
+
+    # lorem5.rpy:16
+    old "Leave it."
+    new "La laisser."
 
