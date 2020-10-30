@@ -430,7 +430,7 @@ translate french _call_skipcheck_1_7f1acbd6:
 translate french _call_skipcheck_1_693128c9:
 
     # Br laugh "C'mon. Where's your sense of funness?"
-    Br laugh "Allez, qu'est-ce que t'as foutu de ton sens de l'humour ?"
+    Br laugh "Allez, qu'est-ce que t'as foutu de ton sens de l'humourissime ?"
 
 # game/bryce4.rpy:272
 translate french _call_skipcheck_1_3462ef65:
@@ -1386,7 +1386,7 @@ translate french bryce4skip_6a644b5a:
 translate french bryce4skip_f75f655f:
 
     # c "I suppose you could say so."
-    c "On peut dire ça oui."
+    c "On peut dire ça, oui."
 
 # game/bryce4.rpy:625
 translate french bryce4skip_ffc758e0:
@@ -1404,13 +1404,13 @@ translate french bryce4skip_aaec59ad:
 translate french bryce4skip_9ea031cb:
 
     # Br brow "Seriously, don't worry about him. Don't base your opinion of him solely on that incident at the portal."
-    Br brow "Nan sérieux, ne t'inquiète pas pour lui. Ne t'arrêtes pas sur ce qui s'est passé au portail pour le juger."
+    Br brow "Nan sérieux, ne t'inquiète pas pour lui. Ne t'arrête pas sur ce qui s'est passé au portail pour le juger."
 
 # game/bryce4.rpy:634
 translate french bryce4skip_b258cf58:
 
     # Br stern "Do you really think he was wrong to suspect Reza, when Reza went on to do the things he's done?"
-    Br stern "Tu penses toujours qu'il a eut tort de soupçonner Reza, quand tu vois ce que ce dernier a fait ?"
+    Br stern "Tu penses toujours qu'il a eu tort de soupçonner Reza, quand tu vois ce que ce dernier a fait ?"
 
 # game/bryce4.rpy:636
 translate french bryce4skip_2d0667f2:
@@ -1434,7 +1434,7 @@ translate french bryce4skip_a9f34c76:
 translate french bryce4skip_761eaf9f:
 
     # Br stern "This sucks for everyone involved, so let's just focus on getting things done when on the job and not let it consume us elsewhere."
-    Br stern "Ça craint pour chacun d'entre nous. Concentrons nous sur le travail qu'on peut et qu'on doit faire, et ne nous embrouillons pas pour de tels conneries."
+    Br stern "Ça craint pour chacun d'entre nous. Concentrons-nous sur le travail qu'on peut et qu'on doit faire, et ne nous embrouillons pas pour de telles conneries."
 
 # game/bryce4.rpy:644
 translate french bryce4skip_18dcf887:
@@ -1446,7 +1446,7 @@ translate french bryce4skip_18dcf887:
 translate french bryce4skip_042d5529:
 
     # c "What's that outside? Fireworks?"
-    c "Qu'est-ce que c'est dehors ? Des feux d'artifices ?"
+    c "Qu'est-ce que c'est dehors ? Des feux d'artifice ?"
 
 # game/bryce4.rpy:650
 translate french bryce4skip_7aab9c9d:
@@ -1464,7 +1464,7 @@ translate french bryce4skip_2dd28c6a:
 translate french bryce4skip_d78c9aa4:
 
     # Br laugh "The festival isn't really anything special for me anymore. Seen one, seen 'em all. Besides, it's usually more a thing for families, really."
-    Br laugh "Bof, tu sais le festival je le connais par coeur à force. Quand t'en a vu un tu les a tous vu, et puis c'est plus un truc pour les gosses en fait."
+    Br laugh "Bof, tu sais, le festival je le connais par coeur à force. Quand t'en a vu un, tu les a tous vus, et puis, c'est plus un truc pour les gosses, en fait."
 
 # game/bryce4.rpy:656
 translate french bryce4skip_89aefe22:
@@ -1476,25 +1476,25 @@ translate french bryce4skip_89aefe22:
 translate french bryce4skip_3ff56660:
 
     # c "Are those the fireworks people keep talking about?"
-    c "Ce sont les feux d'artifices dont tout le monde parle ça ?"
+    c "Ce sont les feux d'artifice dont tout le monde parle, ça ?"
 
 # game/bryce4.rpy:660
 translate french bryce4skip_d3f600c6:
 
     # Br normal "No. They have a fireworks show every evening. Nobody really even cares about the first couple of days. It's only on the last day when they bring out the big ones. I usually watch those."
-    Br normal "Nan, ils font de petits feux d'artifices tous les soirs. C'est pas ceux là les plus importants, nan c'est le dernier soir qu'ils mettent la sauce. D'habitude je les regarde."
+    Br normal "Nan, ils font de petits feux d'artifice tous les soirs. C'est pas ceux-là les plus importants, nan, c'est le dernier soir qu'ils mettent la sauce. D'habitude, je les regarde."
 
 # game/bryce4.rpy:662
 translate french bryce4skip_8514adf0:
 
     # c "Oh, so if there's big explosions, then you care?"
-    c "Oh, si il ya de gros \"boom\", ça t'intéresse ?"
+    c "Oh, si il ya de gros \"boum\", ça t'intéresse ?"
 
 # game/bryce4.rpy:664
 translate french bryce4skip_cb86b900:
 
     # Br "Well, yeah. But it's a big tradition here, maybe even an ideological one. Y'know, everyone in the whole town united under the stars, watching the beautiful fireworks. It's a thing."
-    Br "Ouais, mais tu sais c'est plus le côté tradition qui ressort, voir le côté idéologique. En fait, dit toi que toute la ville se retrouve sous les étoiles tous les ans pour assister à ce magnifique feu d'artifice. C'est quelque chose crois-moi."
+    Br "Ouais, mais tu sais, c'est plus le côté tradition qui ressort, voir le côté idéologique. En fait, dis-toi que toute la ville se retrouve sous les étoiles tous les ans pour assister à ce magnifique feu d'artifice. C'est quelque chose, crois-moi."
 
 # game/bryce4.rpy:666
 translate french bryce4skip_be68808f:
@@ -1518,13 +1518,13 @@ translate french bryce4skip_f5f7d88a:
 translate french bryce4skip_b47b51bf:
 
     # Br smirk "Wanna come with me? I know all the good viewing spots. Most of the popular ones are usually super crowded, and we probably want to avoid those."
-    Br smirk "Tu voudrais qu'on y ailles ensemble ? Je connais tous les bons coins pour y assister. Il y a pas mal de secteurs qui seront bondés de monde en plus, ça sera certainement mieux de les éviter."
+    Br smirk "Tu voudrais qu'on y aille ensemble ? Je connais tous les bons coins pour y assister. Il y a pas mal de secteurs qui seront bondés de monde en plus, ça sera certainement mieux de les éviter."
 
 # game/bryce4.rpy:674
 translate french bryce4skip_cc8f0f09:
 
     # c "I can't really promise anything right now, but I'll keep it in mind."
-    c "Je ne te promet rien pour le moment, mais je garde ça en tête."
+    c "Je ne te promets rien pour le moment, mais je garde ça en tête."
 
 # game/bryce4.rpy:676
 translate french bryce4skip_b0168af4:
@@ -1542,7 +1542,7 @@ translate french bryce4skip_e631bc97:
 translate french bryce4skip_1981621c:
 
     # Br laugh "You know, those fireworks are also often a couple thing."
-    Br laugh "Tu sais, ces feu d'artifices sont aussi un truc sympa pour les couples."
+    Br laugh "Tu sais, ces feux d'artifice sont aussi un truc sympa pour les couples."
 
 # game/bryce4.rpy:686
 translate french bryce4skip_623b3d0d:
@@ -1554,13 +1554,13 @@ translate french bryce4skip_623b3d0d:
 translate french bryce4skip_620565e5:
 
     # Br smirk "Well, they're still going on outside right now."
-    Br smirk "Ben, il y en a là maintenant tu sais."
+    Br smirk "Ben, il y en a là maintenant, tu sais."
 
 # game/bryce4.rpy:690
 translate french bryce4skip_5291ce90:
 
     # c "Are you saying you want to go outside and watch?"
-    c "Tu veux qu'on ailles les voir ?"
+    c "Tu veux qu'on aille les voir ?"
 
 # game/bryce4.rpy:692
 translate french bryce4skip_657b029a:
@@ -1584,7 +1584,7 @@ translate french bryce4skip_5e9eead7:
 translate french bryce4skip_af412cdf:
 
     # Br normal "You know, when you slept over last time and we shared the couch, I took it as a sign."
-    Br normal "Tu sais... Quand tu as dormi chez moi l'autre jour, et qu'on s'est partagé le canapé... J'ai prit ça comme un signe."
+    Br normal "Tu sais... Quand tu as dormi chez moi l'autre jour, et qu'on s'est partagé le canapé... J'ai pris ça comme un signe."
 
 # game/bryce4.rpy:700
 translate french bryce4skip_b1428823:
@@ -1596,7 +1596,7 @@ translate french bryce4skip_b1428823:
 translate french bryce4skip_38bea994:
 
     # Br laugh "That's my bad, then. Guess you humans don't do things the same way as far as that goes."
-    Br laugh "Bah, c'est de ma faute ! Je suppose que vous les humains vous faites les choses différement."
+    Br laugh "Bah, c'est de ma faute ! Je suppose que vous, les humains, vous faites les choses différement."
 
 # game/bryce4.rpy:719
 translate french bryce4skip_2d77a5af:
@@ -1620,13 +1620,13 @@ translate french bryce4skip_1ca16e81:
 translate french bryce4skip_51308029:
 
     # Br laugh "Guess you know now."
-    Br laugh "Maintenant tu le sais."
+    Br laugh "Maintenant, tu le sais."
 
 # game/bryce4.rpy:733
 translate french bryce4skip_41a9a03b:
 
     # c "So, what do you want to do?"
-    c "Qu'est-ce que tu proposes alors ?"
+    c "Qu'est-ce que tu proposes, alors ?"
 
 # game/bryce4.rpy:735
 translate french bryce4skip_8fabf97e:
@@ -1650,7 +1650,7 @@ translate french b4jump_05ab8903:
 translate french b4jump_db5824fb:
 
     # Br "Thank you for having me. Don't forget to call me about the fireworks."
-    Br "Merci de m'avoir invité [player_name]. N'oublie pas de m'appeler pour le feu d'artifice, d'accord ?"
+    Br "Merci de m'avoir invité, [player_name]. N'oublie pas de m'appeler pour le feu d'artifice, d'accord ?"
 
 # game/bryce4.rpy:750
 translate french b4jump_9633229f:
@@ -1668,31 +1668,31 @@ translate french b4romance_6926ef9a:
 translate french b4romance_def25f02:
 
     # Br laugh "Sure thing."
-    Br laugh "Vas-y, fait."
+    Br laugh "Vas-y, fais."
 
 # game/bryce4.rpy:791
 translate french b4romance_e4cd1f81:
 
     # m "I went into the kitchen to fetch a bottle of wine and two appropriate vessels, wondering how Bryce would manage a wine glass."
-    m "Je suis allé chercher la bouteille ainsi que deux verres à pied, tout en me demandant comment le dragon allait faire avec ça."
+    m "Je partis chercher la bouteille ainsi que deux verres à pied, tout en me demandant comment le dragon allait tenir un verre à pied."
 
 # game/bryce4.rpy:793
 translate french b4romance_3b86a8e9:
 
     # m "When I returned from the kitchen, however, I was met with an unexpected sight."
-    m "Mais en revenant de la cuisine, je suis tombé sur quelque chose de... surprenant."
+    m "Mais en revenant de la cuisine, je fus accueilli par quelque chose de... surprenant."
 
 # game/bryce4.rpy:805
 translate french b4romance_d04e48c8:
 
     # m "Shocked at the display before me, I let out an involuntary scream."
-    m "Choqué par cette vision, j'ai involontairement crié."
+    m "Choqué par cette vision, je laissai échapper un glapissement d'effroi."
 
 # game/bryce4.rpy:811
 translate french b4romance_c2ccf86f:
 
     # m "Immediately, Bryce sprang to his feet, a somewhat embarrassed look on his face."
-    m "Bryce s'est brusquement remis sur pattes, l'air un peu gêné."
+    m "Bryce se remit brusquement sur pattes, l'air un peu gêné."
 
 # game/bryce4.rpy:815
 translate french b4romance_c5c7a6e7:
@@ -1716,7 +1716,7 @@ translate french b4romance_4b02074c:
 translate french b4romance_ab8b1734:
 
     # c "You know what? Just get out."
-    c "Tu sais ce que je me dit moi ? Dégage."
+    c "Tu sais ce que je me dis, moi ? Dégage."
 
 # game/bryce4.rpy:823
 translate french b4romance_e1a90475:
@@ -1782,7 +1782,7 @@ translate french b4romance_5a7fabd8:
 translate french b4romance_0dd6eefb:
 
     # c "Okay, so you do, but that's not what you should've done."
-    c "D'accord, pour toi oui alors. Mais tu n'aurais pas dû aller si loin."
+    c "D'accord, pour toi oui, alors. Mais tu n'aurais pas dû aller si loin."
 
 # game/bryce4.rpy:883
 translate french b4romance_203e5a35:
@@ -1794,13 +1794,13 @@ translate french b4romance_203e5a35:
 translate french b4romance_646100a6:
 
     # c "But not like this. That's just... way too fast, and not what we agreed on."
-    c "Ouais mais... pas comme ça. Ça va beaucoup trop vite, je ne m'attendais pas à ça tu sais."
+    c "Ouais mais... pas comme ça. Ça va beaucoup trop vite, je ne m'attendais pas à ça, tu sais."
 
 # game/bryce4.rpy:887
 translate french b4romance_248708d1:
 
     # Br laugh "Sorry, I guess I messed that up. But you know how I am. I rush into things and don't always think things through. That's the Bryce way."
-    Br laugh "Désolé, je crois que j'ai tout foutu en l'air. Mais tu sais comment je suis, j'ai tendance à foncer avant de réflechir. C'est ma méthode Bryce."
+    Br laugh "Désolé, je crois que j'ai tout foutu en l'air. Mais tu sais comment je suis, j'ai tendance à foncer avant de réfléchir. C'est la méthode Bryce."
 
 # game/bryce4.rpy:889
 translate french b4romance_f22cc3d9:
@@ -1820,7 +1820,7 @@ translate french b4romance_c6082785:
     # Br normal "I should probably go now. It's getting late, anyway."
     Br normal "Enfin, de toute façon il est tard, je devrais filer."
     Br "Bonne soirée [player_name]."
-    c "Toi aussi Bryce."
+    c "Toi aussi, Bryce."
 
 # game/bryce4.rpy:927
 translate french b4romance_4205ca82:
@@ -1856,13 +1856,13 @@ translate french b4romance_1b6b348a:
 translate french b4romance_2655a818:
 
     # c "Not like that."
-    c "Pas comme ça nan."
+    c "Pas comme ça, nan."
 
 # game/bryce4.rpy:946
 translate french b4romance_edfb3c62:
 
     # Br smirk "And then, especially with my kind, they are... Well, I think you can see what I mean."
-    Br smirk "Et puis tu sais, chez les taurexs c'est... enfin t'as compris hein."
+    Br smirk "Et puis tu sais, chez les taurex c'est... enfin t'as compris hein."
 
 # game/bryce4.rpy:948
 translate french b4romance_3ed24225:
@@ -1922,7 +1922,7 @@ translate french strings:
 
     # bryce4.rpy:702
     old "It didn't mean what you thought it meant."
-    new "Juste deux potes, et ouais, le canapé était vraiment trop petit au final."
+    new "Juste deux potes, et ouais, le canapé était vraiment trop petit, au final."
 
     # bryce4.rpy:702
     old "It meant exactly what you thought it meant."
@@ -1934,12 +1934,12 @@ translate french strings:
 
     # bryce4.rpy:801
     old "Scream."
-    new "Crie."
+    new "Crier."
 
     # bryce4.rpy:801
     old "Reject."
-    new "Rejète-le."
+    new "Le rejeter."
 
     # bryce4.rpy:801
     old "Accept."
-    new "FONCE !!!!"
+    new "FONCER !!"
