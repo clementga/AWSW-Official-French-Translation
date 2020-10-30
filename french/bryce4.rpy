@@ -22,19 +22,19 @@ translate french bryce4_d710dd54:
 translate french _call_skiptut_1_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indiquent que vous avez déjà passé cette scène en ayant obtenu une fin satisfaisante. Souhaites-tu tout de même la revoir ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
 
 # game/bryce4.rpy:68
 translate french _call_skiptut_1_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semble que vous avez déjà vu cette scène. Je la repasse tout de même ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la sélection des scènes ?"
 
 # game/bryce4.rpy:76
 translate french _call_skiptut_1_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Il s'avère que vous avez déjà vu cette scène auparavant. Soit vous pouvez la revoir, soit nous pouvons gagner du temps et passer directement à la fin du rendez-vous."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des scènes."
 
 # game/bryce4.rpy:91
 translate french _call_skiptut_1_0054b77b:
@@ -70,7 +70,7 @@ translate french _call_skipcheck_1_670439dc:
 translate french _call_skipcheck_1_43ff890b:
 
     # Br normal "Whereas the Chief of Police has to make do with whatever he can get."
-    Br normal "Alors que le Chef de la police se débrouille avec ce qu'il a."
+    Br normal "Alors que le Chef de la Police se débrouille avec ce qu'il a."
 
 # game/bryce4.rpy:125
 translate french _call_skipcheck_1_2c877c0e:
@@ -82,7 +82,7 @@ translate french _call_skipcheck_1_2c877c0e:
 translate french _call_skipcheck_1_a29f4b29:
 
     # Br "It is, but I'm really getting sick of it, to be honest."
-    Br "Ouais, mais je commence à en avoir marre franchement."
+    Br "Ouais, mais je commence à en avoir marre, franchement."
 
 # game/bryce4.rpy:129
 translate french _call_skipcheck_1_0da57f1a:
@@ -118,13 +118,13 @@ translate french _call_skipcheck_1_e992d07d:
 translate french _call_skipcheck_1_c88e6a4f:
 
     # c "Here, {i}Sheridan and the Scepter of Sovereignty{/i} should be enough to last you a while."
-    c "Tiens, {i}Sheridan et le Sceptre de la Souverainetée{/i} ça pourrait t'occuper un moment."
+    c "Tiens, {i}Sheridan et le Sceptre de la Souveraineté{/i}, ça pourrait t'occuper un moment."
 
 # game/bryce4.rpy:141
 translate french _call_skipcheck_1_b7dc249d:
 
     # Br smirk "No, thanks. I have enough fiber in my diet already."
-    Br smirk "Nan, c'est bon. J'ai bien assez de fibre dans mon alimentation !"
+    Br smirk "Nan, c'est bon. J'ai bien assez de fibres dans mon alimentation !"
 
 # game/bryce4.rpy:143
 translate french _call_skipcheck_1_126fc530:
@@ -136,7 +136,7 @@ translate french _call_skipcheck_1_126fc530:
 translate french _call_skipcheck_1_42da92ae:
 
     # Br brow "Why would I visit you just to read some crummy book? And besides, I do read from time to time."
-    Br brow "Pourquoi je viendrais te voir si c'est juste pour lire un bouquin ? Et pour ta gouverne je lis régulièrement."
+    Br brow "Pourquoi je viendrais te voir si c'est juste pour lire un bouquin ? Et, pour ta gouverne, je lis régulièrement."
 
 # game/bryce4.rpy:147
 translate french _call_skipcheck_1_4286af4c:
@@ -148,7 +148,7 @@ translate french _call_skipcheck_1_4286af4c:
 translate french _call_skipcheck_1_b833b1bf:
 
     # Br laugh "Signs, menus, magazines..."
-    Br laugh "Les panneaux, les menus au resto, les magazines..."
+    Br laugh "Les panneaux, les menus au restau', les magazines..."
 
 # game/bryce4.rpy:151
 translate french _call_skipcheck_1_1297fce2:
@@ -160,7 +160,7 @@ translate french _call_skipcheck_1_1297fce2:
 translate french _call_skipcheck_1_aeb978db:
 
     # Br normal "Let me take a look around your apartment, then."
-    Br normal "Laisse moi faire le tour de ta piaule tiens."
+    Br normal "Laisse-moi faire le tour de ta piaule, tiens."
 
 # game/bryce4.rpy:155
 translate french _call_skipcheck_1_7c44f6fc:
@@ -220,7 +220,7 @@ translate french _call_skipcheck_1_1b2565b9:
 translate french _call_skipcheck_1_ccc4bb37:
 
     # c "I assume you don't mean emptying it into the sink."
-    c "Et par vider, tu ne veux pas dire la vider dans l'évier n'est-ce pas ?"
+    c "Et par vider, tu ne veux pas dire la vider dans l'évier, n'est-ce pas ?"
 
 # game/bryce4.rpy:179
 translate french _call_skipcheck_1_20677dcb:
@@ -232,13 +232,13 @@ translate french _call_skipcheck_1_20677dcb:
 translate french _call_skipcheck_1_2a455a9a:
 
     # c "A terrible waste of the second cheapest wine from the store."
-    c "Gâcher le deuxième vin le moins cher du magasin, m'ouais on a vu pire."
+    c "Gâcher le deuxième vin le moins cher du magasin... Mouais, on a vu pire."
 
 # game/bryce4.rpy:183
 translate french _call_skipcheck_1_4875a132:
 
     # Br normal "I don't know how you humans are with stuff like that, but here we don't throw away perfectly good things."
-    Br normal "Je ne sais pas comment vous fonctionnez vous les humains, mais ici on ne jette pas ce qui est bon."
+    Br normal "Je ne sais pas comment vous fonctionnez, vous, les humains, mais ici on ne jette pas ce qui est bon."
 
 # game/bryce4.rpy:185
 translate french _call_skipcheck_1_fb9ab23a:
@@ -250,19 +250,19 @@ translate french _call_skipcheck_1_fb9ab23a:
 translate french _call_skipcheck_1_e95ab5c0:
 
     # Br laugh "Hey, at least it's not the absolute bottom of the barrel."
-    Br laugh "Hé, au moins c'est pas le fond du tonneau hein !"
+    Br laugh "Hé, au moins, c'est pas le fond du tonneau, hein !"
 
 # game/bryce4.rpy:189
 translate french _call_skipcheck_1_440e89e2:
 
     # Br smirk "Now, are you going to help me with this or not?"
-    Br smirk "Bon, sinon t'as prévu de m'aider ou pas ?"
+    Br smirk "Bon, sinon, t'as prévu de m'aider ou pas ?"
 
 # game/bryce4.rpy:197
 translate french _call_skipcheck_1_fd86e2ca:
 
     # Br laugh "Well, you don't have to if you think the wine is that bad."
-    Br laugh "T'embête pas si tu n'aime pas le vin !"
+    Br laugh "T'embête pas si tu n'aimes pas le vin !"
 
 # game/bryce4.rpy:199
 translate french _call_skipcheck_1_304aa197:
@@ -274,7 +274,7 @@ translate french _call_skipcheck_1_304aa197:
 translate french _call_skipcheck_1_4de995be:
 
     # Br smirk "That's nothing for me. This bottle would be about... two beers, I think? Maybe even less than that."
-    Br smirk "Bah, c'est pas grand chose pour moi tu sais. Cette bouteille, elle doit représenter... ouais deux de mes bières, et encore."
+    Br smirk "Bah, c'est pas grand-chose pour moi tu sais. Cette bouteille, elle doit représenter... ouais, deux de mes bières, et encore."
 
 # game/bryce4.rpy:211
 translate french _call_skipcheck_1_1bd57fa3:
@@ -286,13 +286,13 @@ translate french _call_skipcheck_1_1bd57fa3:
 translate french _call_skipcheck_1_5e83dfc0:
 
     # c "You aren't planning on drinking it all at once, right?"
-    c "Tu ne vas pas tout boire d'un coup, rassure moi."
+    c "Tu ne vas pas tout boire d'un coup, rassure-moi."
 
 # game/bryce4.rpy:215
 translate french _call_skipcheck_1_4de995be_1:
 
     # Br smirk "That's nothing for me. This bottle would be about... two beers, I think? Maybe even less than that."
-    Br smirk "Bah, c'est pas grand chose pour moi tu sais. Cette bouteille, elle doit représenter... ouais deux de mes bières, et encore."
+    Br smirk "Bah, c'est pas grand chose pour moi tu sais. Cette bouteille, elle doit représenter... ouais, deux de mes bières, et encore."
 
 # game/bryce4.rpy:222
 translate french _call_skipcheck_1_0fe8d176:
@@ -328,7 +328,7 @@ translate french _call_skipcheck_1_9f7c9fe2:
 translate french _call_skipcheck_1_e63581bb:
 
     # c "I suppose that means I won't have to do any dishes."
-    c "Bon, au moins je n'aurais pas de vaisselle à faire."
+    c "Bon, au moins, je n'aurai pas de vaisselle à faire."
 
 # game/bryce4.rpy:238
 translate french _call_skipcheck_1_715002fb:
@@ -406,7 +406,7 @@ translate french _call_skipcheck_1_65f0766b:
 translate french _call_skipcheck_1_5eb0b7b7:
 
     # Br smirk "What? I would never do such a thing."
-    Br smirk "Quoi ? Nan je ne ferais jamais ça voyons."
+    Br smirk "Quoi ? Nan, je ne ferais jamais ça, voyons."
 
 # game/bryce4.rpy:264
 translate french _call_skipcheck_1_a59f8f81:
@@ -424,7 +424,7 @@ translate french _call_skipcheck_1_824d9ab8:
 translate french _call_skipcheck_1_7f1acbd6:
 
     # c "At that point we wouldn't even need the bottle anymore."
-    c "Du coup on n'aurait même plus besoin de la bouteille."
+    c "Du coup, on n'aurait même plus besoin de la bouteille."
 
 # game/bryce4.rpy:270
 translate french _call_skipcheck_1_693128c9:
@@ -436,37 +436,37 @@ translate french _call_skipcheck_1_693128c9:
 translate french _call_skipcheck_1_3462ef65:
 
     # c "Is that even a word?"
-    c ""
+    c "Est-ce seulement un mot ?"
 
 # game/bryce4.rpy:274
 translate french _call_skipcheck_1_24a906aa:
 
     # Br normal "We're here to relax. You should lighten up a bit."
-    Br normal "Hé, on est là pour se détendre nan ? Allez, relax [player_name]."
+    Br normal "Hé, on est là pour se détendre, nan ? Allez, relax, [player_name]."
 
 # game/bryce4.rpy:276
 translate french _call_skipcheck_1_526a03b4:
 
     # c "It's a bit hard to lighten up given everything that's been happening here. If anything, it's worse now than it's ever been."
-    c "C'est un peu difficile de se relaxer avec tout ce qui se passe. Au contraire, je crois qu'on touche le fond là."
+    c "C'est un peu difficile de se relaxer avec tout ce qui se passe. Au contraire, je crois que là, on touche le fond."
 
 # game/bryce4.rpy:278
 translate french _call_skipcheck_1_d0671c32:
 
     # c "Reza's actions are threatening our agreement and with it the survival of everyone I know back home."
-    c "Les conneries de Reza menacent notre relation, et avec ça la survie de tous ceux qui attendent notre retour."
+    c "Les conneries de Reza menacent notre relation, et avec ça, la survie de tous ceux qui attendent notre retour."
 
 # game/bryce4.rpy:280
 translate french _call_skipcheck_1_996a9848:
 
     # c "But what really takes the cake is that he may have it out for me because I'm helping all of you."
-    c "Mais pire encore, il risque de s'en prendre à moi étant donné que je vous ai toujours aidé."
+    c "Mais pire encore, il risque de s'en prendre à moi, étant donné que je vous ai toujours aidés."
 
 # game/bryce4.rpy:282
 translate french _call_skipcheck_1_33c0bb21:
 
     # Br stern "You want to have this conversation right now? Alright, let's have it. Just let it all out."
-    Br stern "Tu veux vraiment parler de ça maintenant ? Allez vas-y, débale."
+    Br stern "Tu veux vraiment parler de ça maintenant ? Allez, vas-y, déballe."
 
 # game/bryce4.rpy:284
 translate french _call_skipcheck_1_033b77e1:
@@ -478,7 +478,7 @@ translate french _call_skipcheck_1_033b77e1:
 translate french _call_skipcheck_1_56338d8d:
 
     # c "And me? I'm just here, right in the middle of this whole mess, just trying to make the best of it."
-    c "Et moi je suis là au milieu de tout ce merdier, à essayer de donner le meilleur de moi-même."
+    c "Et moi, je suis là au milieu de tout ce merdier, à essayer de donner le meilleur de moi-même."
 
 # game/bryce4.rpy:290
 translate french _call_skipcheck_1_c7e818c4:
@@ -490,13 +490,13 @@ translate french _call_skipcheck_1_c7e818c4:
 translate french _call_skipcheck_1_7dd44a71:
 
     # c "I know. And I'm doing what I can, but that doesn't mean it's making the situation any easier."
-    c "Je sais Bryce. Et je fais ce que je peux. Mais c'est pas ce qui rends les choses plus faciles."
+    c "Je sais, Bryce. Et je fais ce que je peux. Mais c'est pas ce qui rend les choses plus faciles."
 
 # game/bryce4.rpy:294
 translate french _call_skipcheck_1_b9f3001f:
 
     # Br stern "You think I don't know that? Me, the one responsible for every action our police is taking in this matter?"
-    Br stern "Tu crois que tu m'apprends un truc là ? C'est moi qui suis responsable des actions de la police dans cette affaire au cas où tu l'as oublié."
+    Br stern "Tu crois que tu m'apprends un truc, là ? C'est moi qui suis responsable des actions de la Police dans cette affaire, au cas où tu l'as oublié."
 
 # game/bryce4.rpy:296
 translate french _call_skipcheck_1_c2aa5cda:
@@ -508,7 +508,7 @@ translate french _call_skipcheck_1_c2aa5cda:
 translate french _call_skipcheck_1_2deb209e:
 
     # c "I'm not blaming you. I'm just saying this whole situation is something I'm not very comfortable with."
-    c "Je ne te blâme pas Bryce. Je dis juste que toute cette situation me mets mal à l'aise."
+    c "Je ne te blâme pas, Bryce. Je dis juste que toute cette situation me met mal à l'aise."
 
 # game/bryce4.rpy:300
 translate french _call_skipcheck_1_a22a29ec:
@@ -520,7 +520,7 @@ translate french _call_skipcheck_1_a22a29ec:
 translate french _call_skipcheck_1_40a73283:
 
     # Br stern "I was the one who didn't listen to Maverick back when he had his suspicions about Reza. If we had acted then, this whole thing might not have spiralled out of control like it did."
-    Br stern "C'est moi qui n'ai pas écouté Maverick quand il m'a parlé de Reza. Si on s'était mieux débrouillé, toute cette affaire n'aurais pas tourné au vinaigre comme elle l'a fait."
+    Br stern "C'est moi qui n'ai pas écouté Maverick quand il m'a parlé de Reza. Si on s'était mieux débrouillé, toute cette affaire n'aurait pas tourné au vinaigre comme elle l'a fait."
 
 # game/bryce4.rpy:304
 translate french _call_skipcheck_1_c891211e:
@@ -538,7 +538,7 @@ translate french _call_skipcheck_1_36e74905:
 translate french _call_skipcheck_1_16c29965:
 
     # Br "Let this be my official apology to you: I apologize for anything I might have done to wrong you."
-    Br "Laisse moi te présenter mes excuses officielles [player_name] : Je m'excuse pour tout ce que j'ai pu faire pour te nuire d'une manière directe ou indirecte."
+    Br "Laisse-moi te présenter mes excuses officielles [player_name] : Je m'excuse pour tout ce que j'ai pu faire pour te nuire d'une manière directe ou indirecte."
 
 # game/bryce4.rpy:310
 translate french _call_skipcheck_1_8ec45780:
@@ -556,7 +556,7 @@ translate french _call_skipcheck_1_8be3730a:
 translate french _call_skipcheck_1_7064d407:
 
     # m "He hurled the empty bottle against the wall on the other side of the room where it shattered into pieces."
-    m "Il a jeté la bouteille vide contre le mur d'en face, sur lequelle elle a littéralement explosé en morceau."
+    m "Il jeta la bouteille vide contre le mur d'en face, sur lequel elle explosa littéralement en morceaux."
 
 # game/bryce4.rpy:320
 translate french _call_skipcheck_1_d0bbd713:
@@ -580,7 +580,7 @@ translate french _call_skipcheck_1_d8d4bfc8:
 translate french _call_skipcheck_1_a9f34c76:
 
     # c "I don't know."
-    c "J'en sais rien Bryce."
+    c "J'en sais rien, Bryce."
 
 # game/bryce4.rpy:328
 translate french _call_skipcheck_1_5b26146d:
@@ -610,7 +610,7 @@ translate french _call_skipcheck_1_87d3969a:
 translate french _call_skipcheck_1_b5b56901:
 
     # Br "You'd think as Chief I'd be used to it by now, but I'm not."
-    Br "On pourrait croire qu'après des années passé à être le Chef de la police, je pourrais être habitué à tout ça. Mais nan [player_name], je ne suis pas habitué."
+    Br "On pourrait croire qu'après des années passées à être le Chef de la Police, je pourrais être habitué à tout ça. Mais nan, [player_name], je ne suis pas habitué."
 
 # game/bryce4.rpy:338
 translate french _call_skipcheck_1_6acd8a3e:
@@ -640,19 +640,19 @@ translate french _call_skipcheck_1_b2793108:
 translate french _call_skipcheck_1_28870498:
 
     # Br "You've been to more than enough crime scenes by now. How have you remained so calm? Do all those who have died not matter to you?"
-    Br "T'as vu tout ce merdier, toute ces scènes de crime... Comment t'as fait pour rester si calme toi ? Ça ne te gêne pas qu'ils soient tous mort ?..."
+    Br "T'as vu tout ce merdier, toute ces scènes de crime... Comment t'as fait pour rester si calme, toi ? Ça ne te gêne pas qu'ils soient tous morts ?..."
 
 # game/bryce4.rpy:359
 translate french _call_skipcheck_1_66515c0a:
 
     # Br "I'm sorry for making you look at a corpse on your very first day here, but you know I had to. Your help here has been invaluable, and it's not like I could ask anyone else."
-    Br "J'suis désolé de t'avoir montré un corps dès ton premier jour parmis nous. Mais tu savais qu'il fallait que je le fasse. Ton aide a été on-ne-peut plus précieuse, et personne d'autre n'aurait pu prendre ta place."
+    Br "J'suis désolé de t'avoir montré un corps dès ton premier jour parmi nous. Mais tu savais qu'il fallait que je le fasse. Ton aide a été on ne peut plus précieuse, et personne d'autre n'aurait pu prendre ta place."
 
 # game/bryce4.rpy:361
 translate french _call_skipcheck_1_3cd7e277:
 
     # Br "It's the same for me, really. Sure, they could ask someone else to be Chief, but If I'm the one who's best suited for the job, who am I to reject that? Otherwise, I'd have to blame myself for every mistake the other Chief made."
-    Br "C'est la même chose pour moi, personne ne peut me remplacer. Oh bien sûr, y a toujours moyen de trouver un autre chef, mais si j'ai tous les jours le cul posé dans ce fauteil, c'est parce que quelqu'un s'est dit un jour que c'était moi qui devait être là."
+    Br "C'est la même chose pour moi, personne ne peut me remplacer. Oh, bien sûr, y a toujours moyen de trouver un autre chef, mais si j'ai tous les jours le cul posé dans ce fauteil, c'est parce que quelqu'un s'est dit un jour que c'était moi qui devait être là."
     Br "Alors qui suis-je pour rejeter cette place, hein ? Si je la laisse à quelqu'un d'autre, et qu'il fait encore plus de conneries que moi, je m'en voudrais encore plus."
 
 # game/bryce4.rpy:363
@@ -665,13 +665,13 @@ translate french _call_skipcheck_1_d0adae6d:
 translate french _call_skipcheck_1_c5eab7ff:
 
     # Br "It might come as a surprise, but..."
-    Br "Ça devrait me surprendre que tu me demande ça... Mais..."
+    Br "Ça devrait me surprendre que tu me demandes ça... Mais..."
 
 # game/bryce4.rpy:367
 translate french _call_skipcheck_1_a14ba87c:
 
     # c "Actually, the alcoholic police chief used to be a huge stereotype in our world."
-    c "En fait, quand on imaginait un chef de police dans notre monde d'avant, on pensait aussitôt au type qui finissait son service au bar d'en face."
+    c "En fait, quand on imaginait un chef de Police dans notre monde d'avant, on pensait aussitôt au type qui finissait son service au bar d'en face."
 
 # game/bryce4.rpy:369
 translate french _call_skipcheck_1_9f039c0b:
@@ -695,7 +695,7 @@ translate french _call_skipcheck_1_07fe2340:
 translate french _call_skipcheck_1_a8eb7605:
 
     # Br "The research about alcoholism in the police force is out there, but the general populace doesn't know about it. It's all just internal documents."
-    Br "Les méthodes pour lutter contre l'alcoolisme au sein des services de police existent. Mais c'est pas le genre de truc qu'on avoue à la population ça. On garde tout ça pour nous."
+    Br "Les méthodes pour lutter contre l'alcoolisme au sein des services de police existent. Mais c'est pas le genre de truc qu'on avoue à la population, ça. On garde tout ça pour nous."
 
 # game/bryce4.rpy:377
 translate french _call_skipcheck_1_c98c0196:
@@ -707,7 +707,7 @@ translate french _call_skipcheck_1_c98c0196:
 translate french _call_skipcheck_1_ae87ed11:
 
     # Br "They don't want to know about unhappy things like that. Besides, they trust their Chief. If they knew about it, maybe they'd start to have their doubts."
-    Br "Ils n'ont pas besoin de savoir pour ce genre de connerie, ils ne le veulent pas. Et puis ils ont tellement confiance en leur chef, t'imagine si ils apprennent que le Chef Bryce noit ses soucis dans l'alcool ? Comment ils me regarderaient ?"
+    Br "Ils n'ont pas besoin de savoir pour ce genre de connerie, ils ne le veulent pas. Et puis ils ont tellement confiance en leur chef, t'imagine si ils apprennent que le Chef Bryce noie ses soucis dans l'alcool ? Comment ils me regarderaient ?"
 
 # game/bryce4.rpy:381
 translate french _call_skipcheck_1_cde529bf:
@@ -737,7 +737,7 @@ translate french _call_skipcheck_1_a5d49dad:
 translate french _call_skipcheck_1_f6242b16:
 
     # Br "I see. Well, alcoholism and suicide both are huge problems in law enforcement."
-    Br "Ouais. Tu sais, l'alcoolisme et le suicide sont de sacrés problèmes dans la police."
+    Br "Ouais. Tu sais, l'alcoolisme et le suicide sont de sacrés problèmes dans la Police."
 
 # game/bryce4.rpy:391
 translate french _call_skipcheck_1_a9d9e2fc:
@@ -761,7 +761,7 @@ translate french _call_skipcheck_1_892be656:
 translate french _call_skipcheck_1_80aa8b51:
 
     # Br "That's why I'm worried about Maverick right now, and why I wish you'd known him as long as I have."
-    Br "C'est pour ça que je m'inquiète pour Maver' en ce moment. Tu sais, j'aurais vraiment aimé que tu le connaisse aussi bien que moi je le connais."
+    Br "C'est pour ça que je m'inquiète pour Maver' en ce moment. Tu sais, j'aurais vraiment aimé que tu le connaisses aussi bien que moi je le connais."
 
 # game/bryce4.rpy:399
 translate french _call_skipcheck_1_ee9ec805:
@@ -779,7 +779,7 @@ translate french _call_skipcheck_1_8cd55c43:
 translate french _call_skipcheck_1_18a09175:
 
     # c "It's personal for me, too."
-    c "Pour moi aussi c'est personnel Bryce."
+    c "Pour moi aussi, c'est personnel, Bryce."
 
 # game/bryce4.rpy:405
 translate french _call_skipcheck_1_aa308fb2:
@@ -815,7 +815,7 @@ translate french _call_skipcheck_1_d8d4bfc8_1:
 translate french _call_skipcheck_1_48777fcf:
 
     # Br stern "What do you think? How many more have to die to stop Reza?"
-    Br stern "À ton avis, combien de mort est-ce qu'il va falloir encore pour arrêter Reza ?"
+    Br stern "À ton avis, combien de morts est-ce qu'il va falloir encore pour arrêter Reza ?"
 
 # game/bryce4.rpy:417
 translate french _call_skipcheck_1_600b79ce:
@@ -845,25 +845,25 @@ translate french _call_skipcheck_1_15fcaaff:
 translate french _call_skipcheck_1_bb8eeb88:
 
     # Br "I never told anyone else about that. As much as I like everyone at the department, it's just not something I can talk about with them. You saw us at the BBQ. I'd never hear the end of it."
-    Br "Je n'avais jamais parlé de ça avant. Même les gars du service, j'ai beau m'entendre à merveille avec eux, ils n'en savent rien. Tu as vu l'autre soir au barbeuc' ?... Si je leur disait, j'aurais ma dose de réflexions tous les ans."
+    Br "Je n'avais jamais parlé de ça avant. Même les gars du service, j'ai beau m'entendre à merveille avec eux, ils n'en savent rien. Tu as vu l'autre soir au barbeuc' ?... Si je leur disais, j'aurais ma dose de réflexions tous les ans."
 
 # game/bryce4.rpy:427
 translate french _call_skipcheck_1_949e6bbb:
 
     # Br sad "Sorry about the bottle, by the way. I'd clean it up, but..."
-    Br sad "Désolé pour la bouteille au fait. Je veux bien nettoyer, mais..."
+    Br sad "Désolé pour la bouteille, au fait. Je veux bien nettoyer, mais..."
 
 # game/bryce4.rpy:429
 translate french _call_skipcheck_1_0321b2e7:
 
     # c "Don't worry about it. It was empty, anyway."
-    c "T'inquiète Bryce. Et puis elle était vide, c'est pas si grave."
+    c "T'inquiète, Bryce. Et puis, elle était vide, c'est pas si grave."
 
 # game/bryce4.rpy:431
 translate french _call_skipcheck_1_5d6bff18:
 
     # Br normal "Heh, that's the [player_name] I like."
-    Br normal "Ah ! Ça c'est le [player_name] que j'aime !"
+    Br normal "Ah ! Ça, c'est le [player_name] que j'aime !"
 
 # game/bryce4.rpy:433
 translate french _call_skipcheck_1_f1a00d7b:
@@ -899,7 +899,7 @@ translate french _call_skipcheck_1_dd985ee2:
 translate french _call_skipcheck_1_f299348d:
 
     # Br "Honestly, I have no idea what I did. I don't know how to give a massage, so I just pressed and rubbed her here and there."
-    Br "Franchement, je ne sais pas si j'appellerai ça un massage ! J'ai juste frotté et pressé ici et là..."
+    Br "Franchement, je ne sais pas si j'appellerais ça un massage ! J'ai juste frotté et pressé ici et là..."
 
 # game/bryce4.rpy:448
 translate french _call_skipcheck_1_6a9ebe31:
@@ -911,7 +911,7 @@ translate french _call_skipcheck_1_6a9ebe31:
 translate french _call_skipcheck_1_27cc19c2:
 
     # Br "Well, she seemed to like it a lot. There was a lot of grunting and moaning. Plus, she gave me a lot of compliments."
-    Br "En fait, elle a beaucoup aimé je crois ! Tu l'aurais entendu grogner, gémir, ronronner... Sans parler des compliments qu'elle m'a fait."
+    Br "En fait, elle a beaucoup aimé, je crois ! Tu l'aurais entendu grogner, gémir, ronronner... Sans parler des compliments qu'elle m'a fait."
 
 # game/bryce4.rpy:452
 translate french _call_skipcheck_1_20d2c6e3:
@@ -935,7 +935,7 @@ translate french _call_skipcheck_1_4184c4dc:
 translate french _call_skipcheck_1_17555bb4:
 
     # Br smirk "Yeah, usually it's those who have better hands than I do. But then, she doesn't really want the massage anyway. She just wants me."
-    Br smirk "Ouais, c'est des pros, ils lui donneront un bien meilleurs massage sans aucun doute ! Nan, vraiment elle me veut."
+    Br smirk "Ouais, c'est des pros, ils lui donneront un bien meilleurs massage sans aucun doute ! Nan, vraiment, elle me veut."
 
 # game/bryce4.rpy:460
 translate french _call_skipcheck_1_329c2285:
@@ -959,7 +959,7 @@ translate french _call_skipcheck_1_96ed3ef3:
 translate french _call_skipcheck_1_0b1551f7:
 
     # Br "No, I didn't even bring it up. We just went on with our work as usual."
-    Br "Nan ! Je lui en ai même pas parlé. On a fait notre boulot, comme d'hab en fait."
+    Br "Nan ! Je lui en ai même pas parlé. On a fait notre boulot, comme d'hab' en fait."
 
 # game/bryce4.rpy:468
 translate french _call_skipcheck_1_b6ac0c74:
@@ -983,7 +983,7 @@ translate french _call_skipcheck_1_8e36b4d6:
 translate french _call_skipcheck_1_69f1a93a:
 
     # Br normal "I'll probably just do it again. If I can get the day off, I can at least go back to the department and work on the case a bit instead of doing nothing in her office all day."
-    Br normal "Je m'y collerai probablement. Si à chaque fois que je la masse j'ai droit à un jour de congé, ça me permet de retourner sur les affaires en cours au lieu de glander toute la journée dans son bureau."
+    Br normal "Je m'y collerai probablement. Si, à chaque fois que je la masse, j'ai droit à un jour de congé, ça me permet de retourner sur les affaires en cours au lieu de glander toute la journée dans son bureau."
 
 # game/bryce4.rpy:476
 translate french _call_skipcheck_1_feed6cdd:
@@ -1001,7 +1001,7 @@ translate french _call_skipcheck_1_c98c631e:
 translate french _call_skipcheck_1_7079b2e8:
 
     # c "True."
-    c "Intéressante ouais."
+    c "Intéressante, ouais."
 
 # game/bryce4.rpy:487
 translate french _call_skipcheck_1_4878a1e2:
@@ -1025,7 +1025,7 @@ translate french _call_skipcheck_1_fbb126fc:
 translate french _call_skipcheck_1_43a6e01a:
 
     # Br normal "At some point, I had enough and just told her outright that I'm not interested in her."
-    Br normal "Elle a un peu insisté, à un moment donné j'en ai eut marre et je lui ai dit qu'elle ne m'intéressait pas."
+    Br normal "Elle a un peu insisté, à un moment donné j'en ai eu marre et je lui ai dit qu'elle ne m'intéressait pas."
 
 # game/bryce4.rpy:495
 translate french _call_skipcheck_1_0509723d:
@@ -1055,7 +1055,7 @@ translate french _call_skipcheck_1_fd752952:
 translate french _call_skipcheck_1_b455e650:
 
     # c "And how did she react?"
-    c "Comment elle a réagit ?"
+    c "Comment elle a réagi ?"
 
 # game/bryce4.rpy:505
 translate french _call_skipcheck_1_04a7c9d9:
@@ -1097,7 +1097,7 @@ translate french _call_skipcheck_1_66d6ad29:
 translate french _call_skipcheck_1_10ab538f:
 
     # Br "The building has its own security, so it's pretty clear that she's just doing it to get back at me for rejecting her. She's really good at hiding it, though. I'd never be able to prove it."
-    Br "Son bâtiment est très bien protégé tu sais. Nan, elle fait ça pour se venger, mais elle fait ça bien, je ne pourrais jamais affirmer ce genre de truc."
+    Br "Son bâtiment est très bien protégé, tu sais. Nan, elle fait ça pour se venger, mais elle fait ça bien, je ne pourrais jamais affirmer ce genre de truc."
 
 # game/bryce4.rpy:519
 translate french _call_skipcheck_1_43607757:
@@ -1139,13 +1139,13 @@ translate french _call_skipcheck_1_d94f5e6f:
 translate french _call_skipcheck_1_f9de7890:
 
     # Br laugh "Well, we didn't go yet. She was just doing her usual thing with her comments again yesterday, so I told her I noticed and that it'd be easier if we just went on a date to find out if we're compatible."
-    Br laugh "On n'y a pas encore été, hé ! Elle a encore joué les charmeuses avec moi hier, je lui ai dit que j'avais remarqué sa manière d'être avec moi, et lui ai suggéré d'aller se faire un resto tous les deux pour savoir si on pouvait s'entendre."
+    Br laugh "On n'y a pas encore été, hé ! Elle a encore joué les charmeuses avec moi hier, je lui ai dit que j'avais remarqué sa manière d'être avec moi, et lui ai suggéré d'aller se faire un restau' tous les deux pour savoir si on pouvait s'entendre."
 
 # game/bryce4.rpy:536
 translate french _call_skipcheck_1_a1b73cbf:
 
     # c "And what was her reaction?"
-    c "Et comment elle a réagit ?"
+    c "Et comment elle a réagi ?"
 
 # game/bryce4.rpy:538
 translate french _call_skipcheck_1_2c985cea:
@@ -1157,7 +1157,7 @@ translate french _call_skipcheck_1_2c985cea:
 translate french _call_skipcheck_1_c856b896:
 
     # Br "She made it pretty clear that if it's just some sort of joke, there will be consequences. And of course I better be punctual."
-    Br "Elle m'a clairement mise en garde que si je faisais ça pour me foutre d'elle, il allait y avoir des conséquences. Et bien sûr j'ai intérêt d'être à l'heure !"
+    Br "Elle m'a clairement mis en garde que si je faisais ça pour me foutre d'elle, il allait y avoir des conséquences. Et bien sûr j'ai intérêt d'être à l'heure !"
 
 # game/bryce4.rpy:542
 translate french _call_skipcheck_1_4bfef2ce:
@@ -1193,7 +1193,7 @@ translate french _call_skipcheck_1_e4ec6fd8:
 translate french _call_skipcheck_1_999db824:
 
     # c "If I told you that I'm a time traveller from the future, what would you say?"
-    c "Si je te disais que j'ai fait un voyage dans le temps pour venir jusqu'à vous, et qu'en réalité je viens du futur, qu'est-ce que tu dirais ?"
+    c "Si je te disais que j'ai fait un voyage dans le temps pour venir jusqu'à vous, et qu'en réalité, je viens du futur, qu'est-ce que tu dirais ?"
 
 # game/bryce4.rpy:557
 translate french _call_skipcheck_1_b2517995:
@@ -1217,13 +1217,13 @@ translate french _call_skipcheck_1_73629a06:
 translate french _call_skipcheck_1_1237f4c9:
 
     # c "Huge generalization aside, what if we are in a science fiction story and time travellers are real?"
-    c "Mais sorti de cette généralisation, imagine qu'on est dans l'un de ces mauvais films, et que les voyageurs du futur sont réels..."
+    c "Mais, sorti de cette généralisation, imagine qu'on est dans l'un de ces mauvais films, et que les voyageurs du futur sont réels..."
 
 # game/bryce4.rpy:565
 translate french _call_skipcheck_1_c0acdc2e:
 
     # Br normal "I'd want to see some proof of it first. That's not something you come across everyday, after all."
-    Br normal "D'abord j'aimerai des preuves. C'est pas le genre de truc qu'on voit tous les jours après tout."
+    Br normal "D'abord, j'aimerais des preuves. C'est pas le genre de truc qu'on voit tous les jours, après tout."
 
 # game/bryce4.rpy:567
 translate french _call_skipcheck_1_a5cb4dcb:
@@ -1241,7 +1241,7 @@ translate french _call_skipcheck_1_e8dd5882:
 translate french _call_skipcheck_1_767dec0e:
 
     # c "What if I was serious?"
-    c "Et si j'étais on-ne-peut plus sérieux, Bryce ?"
+    c "Et si j'étais on ne peut plus sérieux, Bryce ?"
 
 # game/bryce4.rpy:573
 translate french _call_skipcheck_1_5a1324ba:
@@ -1259,7 +1259,7 @@ translate french _call_skipcheck_1_8fe2ba10:
 translate french _call_skipcheck_1_4a8b9283:
 
     # Br laugh "This is getting kinda weird, [player_name]."
-    Br laugh "Tu deviens bizarre là, [player_name] !"
+    Br laugh "Tu deviens bizarre, là, [player_name] !"
 
 # game/bryce4.rpy:579
 translate french _call_skipcheck_1_f44da6e0:
@@ -1307,7 +1307,7 @@ translate french _call_skipcheck_1_89aefe22_1:
 translate french bryce4skip_e6e4bb55:
 
     # c "By the way, when you and Sebastian went to the farmhouse to go after Reza, you just left me alone with Maverick in the same room."
-    c "Oh, j'y repense. Tu te rappelles quand tu es parti pour la ferme où s'était planqué Reza ? Maverick est resté un peu après que tu sois parti avec Sebastian."
+    c "Oh, j'y repense. Tu te rappelles quand tu es parti pour la ferme où s'était planqué Reza ? Maverick est resté un peu après que tu es parti avec Sebastian."
 
 # game/bryce4.rpy:597
 translate french bryce4skip_e4692167:
@@ -1319,13 +1319,13 @@ translate french bryce4skip_e4692167:
 translate french bryce4skip_6ac5d749:
 
     # c "Yeah. I was worried there for a few seconds."
-    c "Oui. Ça m'a inquiété un peu d'être tout suel avec lui pour être honnête."
+    c "Oui. Ça m'a inquiété un peu d'être tout seul avec lui pour être honnête."
 
 # game/bryce4.rpy:601
 translate french bryce4skip_156df2b4:
 
     # Br normal "Don't you worry about him. You mentioned that you had a talk with him about a week ago, and that didn't end badly for you either. He might be scary, but I don't think you need to be afraid of him."
-    Br normal "Ne t'inquiète pas pour lui. Tu m'as dit avoir déjà eut une discussion en tête à tête il y a une semaine à peu près, et il ne s'est rien passé de spécial."
+    Br normal "Ne t'inquiète pas pour lui. Tu m'as dit avoir déjà eu une discussion en tête-à-tête il y a une semaine à peu près, et il ne s'est rien passé de spécial."
     Br "Je sais qu'il peut paraître effrayant à première vue, mais tu n'as pas à avoir peur de lui."
 
 # game/bryce4.rpy:603
