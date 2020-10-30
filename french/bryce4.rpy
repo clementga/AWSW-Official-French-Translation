@@ -1862,7 +1862,7 @@ translate french b4romance_2655a818:
 translate french b4romance_edfb3c62:
 
     # Br smirk "And then, especially with my kind, they are... Well, I think you can see what I mean."
-    Br smirk "Et puis tu sais, chez les taurex c'est... enfin t'as compris hein."
+    Br smirk "Et puis tu sais, chez les taurex c'est... enfin, t'as compris, hein."
 
 # game/bryce4.rpy:948
 translate french b4romance_3ed24225:
@@ -1938,8 +1938,8 @@ translate french strings:
 
     # bryce4.rpy:801
     old "Reject."
-    new "Le rejeter."
+    new "Rejeter l'invitation."
 
     # bryce4.rpy:801
     old "Accept."
-    new "FONCER !!"
+    new "Accepter l'invitation."
