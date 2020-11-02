@@ -5,7 +5,7 @@
 translate frenchtl kevin_cb2b8cb1:
 
     # c "(That must be him.)"
-    c "﻿(Ça doit être lui.)"
+    c "(Ça doit être lui.)"
 
 # game/xkevin.rpy:40
 translate frenchtl kevin_36863d12:
