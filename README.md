@@ -23,7 +23,7 @@ chapter1 ✔<br/>
 adine1 ✔✔<br/>
 lorem1 ✔✔<br/>
 anna1 ✔✔<br/>
-bryce1 ✔<br/>
+bryce1 ✔✔<br/>
 lorem1 ✔✔<br/>
 remy1 ✔✔<br/>
 xsebastian ✔<br/>
@@ -31,7 +31,7 @@ xsebastian ✔<br/>
 chapter2 ✔✔<br/>
 adine2 ✔✔<br/>
 anna2 ✔✔<br/>
-bryce2 ✔<br/>
+bryce2 ✔✔<br/>
 lorem2 ✔✔<br/>
 remy2 ✔✔<br/>
 xemera ✔✔<br/>
@@ -39,14 +39,14 @@ xzhong ✔<br/>
 chapter3 ✔<br/>
 adine3 ✔✔<br/>
 anna3 ✔✔<br/>
-bryce3 ✔<br/>
+bryce3 ✔✔<br/>
 lorem3 ✔<br/>
 remy3 ✔<br/>
 xkatsu ✔<br/>
 chapter4 ✔<br/>
 adine4 ✔✔<br/>
 anna4 ✔✔<br/>
-bryce4 ✔<br/>
+bryce4 ✔✔<br/>
 lorem4 ✔<br/>
 remy4 ✔<br/>
 xkevin ✔<br/>
