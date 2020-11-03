@@ -23,7 +23,7 @@ translate frenchtl kevin_574c7a93:
 translate frenchtl kevin_162efce2:
 
     # Kv normal "This is where you live, huh?"
-    Kv normal "C'est ici que tu habites, n'est-ce pas ?"
+    Kv normal "C'est ici que tu habites, hein ?"
 
 # game/xkevin.rpy:46
 translate frenchtl kevin_9940f6bc:
@@ -35,31 +35,31 @@ translate frenchtl kevin_9940f6bc:
 translate frenchtl _call_skiptut_15_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indiquent que vous avez déjà expérimenté cette séquence de manière satisfaisante. Voulez-vous passer jusqu'à la fin ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
 
 # game/xkevin.rpy:74
 translate frenchtl _call_skiptut_15_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semblerait que vous avez déjà vu ça auparavant. Passer à la fin de cette scène ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/xkevin.rpy:82
 translate frenchtl _call_skiptut_15_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Donc, il s'avère que vous avez déjà vu ça auparavant. Soit vous pourriez regarder cela à nouveau, ou nous pouvons gagner un peu de temps et juste passer à la fin de la scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et juste passer cette scène."
 
 # game/xkevin.rpy:96
 translate frenchtl _call_skiptut_15_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous voudrez .{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xkevin.rpy:116
 translate frenchtl _call_skipcheck_15_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous voudrez .{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xkevin.rpy:121
 translate frenchtl _call_skipcheck_15_caee2ed3:
@@ -77,7 +77,7 @@ translate frenchtl _call_skipcheck_15_2b3eeb80:
 translate frenchtl _call_skipcheck_15_448f63bc:
 
     # Kv normal "No, I'm just here for the job until the next semester starts. Basically, I'm trying to drum up interest for the college and see if there's anyone around who'd like to apply for it."
-    Kv normal "Non, je suis ici pour mon travail jusqu'au début du semestre prochain. En fait, j'essaie de susciter l'intérêt des gens pour l'université et voir si quelqu'un aux alentours voudrait s'y inscrire."
+    Kv normal "Non, je suis ici pour mon travail jusqu'au début du semestre prochain. En fait, j'essaie de susciter de l'intérêt chez les gens pour l'université et voir si quelqu'un aux alentours voudrait s'y inscrire."
 
 # game/xkevin.rpy:127
 translate frenchtl _call_skipcheck_15_db84b8c4:
@@ -89,13 +89,13 @@ translate frenchtl _call_skipcheck_15_db84b8c4:
 translate frenchtl _call_skipcheck_15_e69a3c80:
 
     # Kv ramble "Well, I haven't actually met that many candidates out here so far."
-    Kv ramble "Et bien, je n'ai pas rencontré grand monde jusqu'ici."
+    Kv ramble "Eh bien, je n'ai pas rencontré beaucoup de candidats jusqu'ici."
 
 # game/xkevin.rpy:131
 translate frenchtl _call_skipcheck_15_43ec750c:
 
     # Kv brow "For a town like this one, it's typical for the young people to go into an apprenticeship to prepare for their future job rather than go to college, but if there's anyone willing, we want to find them."
-    Kv brow "Dans des villes comme celle-ci, c'est typique de voir les jeunes aller en apprentissage pour se préparer à leur futur travail plutôt que d'aller à l'université, mais si il y a des volontaires, on veut les trouver."
+    Kv brow "Dans des villes comme celle-ci, c'est typique de voir les jeunes aller en apprentissage pour se préparer à leur futur travail plutôt que d'aller à l'université, mais s'il y a des volontaires, on veut les trouver."
 
 # game/xkevin.rpy:133
 translate frenchtl _call_skipcheck_15_e1376890:
@@ -149,7 +149,7 @@ translate frenchtl _call_skipcheck_15_8daf1725:
 translate frenchtl _call_skipcheck_15_0bb8bb27:
 
     # Kv "If it ever got out, I don't think this town could face the ensuing torrent of tourists trying to catch a glimpse of you."
-    Kv "Si ça venait à s'ébruiter, je ne pense pas que ce village pourrait faire face au torrent de touristes essayant ne serait-ce que de t'apercevoir qui s'ensuivrait."
+    Kv "Si ça venait à s'ébruiter, je ne pense pas que ce village pourrait faire face au torrent de touristes arrivant en masse pour essayer ne serait-ce que de t'apercevoir."
 
 # game/xkevin.rpy:151
 translate frenchtl _call_skipcheck_15_53e9a320:
