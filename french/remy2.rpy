@@ -292,7 +292,7 @@ translate frenchtl _call_syscheck_114_77554175:
 translate frenchtl _call_syscheck_114_e49e42fa:
 
     # s "You looked at Remy's pictures. Creep.{image=image/ui/status/c2pictures.png}"
-    s "Tu as regardé les photos de Rémi. Pervers.{image=image/ui/status/c2pictures.png}"
+    s "Tu as regardé les photos de Rémi. Pervers. {image=image/ui/status/c2pictures.png}"
 
 # game/remy2.rpy:368
 translate frenchtl _call_syscheck_114_a27820b1:
@@ -322,13 +322,13 @@ translate frenchtl _call_syscheck_114_0788b0be:
 translate frenchtl _call_syscheck_114_63678003:
 
     # c "(Looks like Remy still isn't back.)"
-    c "(Il semblerait que Rémi n'est toujours pas revenu.)"
+    c "(Il semblerait que Rémi ne soit toujours pas revenu.)"
 
 # game/remy2.rpy:403
 translate frenchtl _call_syscheck_114_15a8f30b:
 
     # m "My choice was an easy one. I had to get out of here. In order to avoid an awkward goodbye, I hurried to leave before he had a chance to come back."
-    m "Mon choix était facile. Je devais dégager d'ici. Afin d'éviter un au revoir malaisant, je me dépêchais de partir avant qu'il ne revînt."
+    m "Mon choix était facile. Je devais sortir d'ici. Afin d'éviter un aurevoir malaisant, je me dépêchais de partir avant qu'il ne revînt."
 
 # game/remy2.rpy:440
 translate frenchtl remy2cont_f3bc5b96:
@@ -376,7 +376,7 @@ translate frenchtl remy2cont_c04a4c03:
 translate frenchtl remy2cont_d0fd436a:
 
     # c "Do you think that's a lot of hair? Or just a little peach fuzz?"
-    c "Penses tu que ça fait beaucoup de poils ? Ou est-ce juste un duvet de pêche ?"
+    c "Penses-tu que ça fait beaucoup de poils ? Ou est-ce juste un duvet de pêche ?"
 
 # game/remy2.rpy:480
 translate frenchtl remy2cont_0edb3f5d:
@@ -448,7 +448,7 @@ translate frenchtl remy2cont_0edb3f5d_5:
 translate frenchtl remy2cont_baf0be68:
 
     # Ry "I'm afraid you need to leave."
-    Ry "Je crains que tu doives partir."
+    Ry "Je crains que tu ne doives partir."
 
 # game/remy2.rpy:492
 translate frenchtl remy2cont_d19f855d_1:
@@ -520,7 +520,7 @@ translate frenchtl remy2cont_e86abad5:
 translate frenchtl remy2cont_453c3f35:
 
     # Ry smile "Well, the food is ready. Enjoy."
-    Ry smile "Bref, le repas est prêt. Régale toi."
+    Ry smile "Bref, le repas est prêt. Régale-toi."
 
 # game/remy2.rpy:561
 translate frenchtl remy2cont_d6d4994f:
@@ -1096,7 +1096,7 @@ translate frenchtl _call_skipcheck_35_90ad7a67:
 translate frenchtl _call_skipcheck_35_f71986c8:
 
     # Ry "Though this makes me wonder about you. Based on your fur, I'd guess that you are a mammal, but you're very different from other mammals we know."
-    Ry "Du coup je me posais une question à ton sujet. En me basant sur ta fourrure, j'aurais suggéré que tu étais un mammifère, mais tu es très différent des autres mammifères que l'on connais."
+    Ry "Du coup je me posais une question à ton sujet. En me basant sur ta fourrure, j'aurais suggéré que tu étais un mammifère, mais tu es très différent des autres mammifères que l'on connait."
 
 # game/remy2.rpy:964
 translate frenchtl _call_skipcheck_35_8c2ca9c7:
@@ -1126,7 +1126,7 @@ translate frenchtl _call_skipcheck_35_94526859:
 translate frenchtl _call_skipcheck_35_1ac3f4a6:
 
     # c "Fur has a set length it will grow, whereas hair will keep growing, so we regularly cut it."
-    c "La fourrure a une longueur prédéfinie jusqu'à laquelle celle-ci poussera, alors que les cheveux continuerons de croître, donc on doit les couper régulièrement."
+    c "La fourrure a une longueur prédéfinie jusqu'à laquelle celle-ci poussera, alors que les cheveux continueront de croître, donc on doit les couper régulièrement."
 
 # game/remy2.rpy:981
 translate frenchtl _call_skipcheck_35_3dfb0edd:
@@ -1408,7 +1408,7 @@ translate frenchtl _call_skipcheck_35_2575e4d1:
 translate frenchtl _call_skipcheck_35_a53f329f:
 
     # c "It wouldn't be that easy, I'm afraid. There was an extensive process involved for selecting who would go through the portal, and I was only one of many applicants. I'm still surprised that I ended up being chosen."
-    c "Ça ne serait pas si facile, j'en ai peur. Il y avait un vaste processus impliqué pour sélectionner qui irait à travers le portail, et j'étais seulement une personne parmi beaucoup de volontaires. Je suis toujours surpris d'avoir été retenu."
+    c "Ça ne serait pas si facile, j'en ai peur. Il y avait un processus extensif impliqué pour sélectionner qui irait à travers le portail, et j'étais seulement une personne parmi beaucoup de volontaires. Je suis toujours surpris d'avoir été retenu."
 
 # game/remy2.rpy:1161
 translate frenchtl _call_skipcheck_35_15c71ee8:
@@ -1540,7 +1540,7 @@ translate frenchtl _call_skipcheck_35_82aef714:
 translate frenchtl _call_skipcheck_35_b6cd2d3d:
 
     # m "Not wanting to upset him, I sat down again and waited."
-    m "Nous voulant pas le contrarier, je m'assis et attendis."
+    m "Nous voulant pas le contrarier, je m'assis de nouveau et attendis."
 
 # game/remy2.rpy:1276
 translate frenchtl _call_skipcheck_35_59bc1ef6:
