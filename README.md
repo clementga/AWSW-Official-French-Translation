@@ -47,7 +47,7 @@ chapter4 ✔<br/>
 adine4 ✔✔<br/>
 anna4 ✔✔<br/>
 bryce4 ✔<br/>
-lorem4 ✔<br/>
+lorem4 ✔✔<br/>
 remy4 ✔<br/>
 xkevin ✔<br/>
 chapter5 ✔✔<br/>
@@ -55,7 +55,7 @@ chapter5evilending ✔<br/>
 adine5 ✔✔<br/>
 anna5 ✔✔<br/>
 bryce5 ✔<br/>
-lorem5 ✔<br/>
+lorem5 ✔✔<br/>
 remy5 ✔<br/>
 chapter5trueending ✔<br/>
 achievements ✔✔<br/>
