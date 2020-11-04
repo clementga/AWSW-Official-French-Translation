@@ -42,20 +42,20 @@ Ce fichier contient à certain nombre de consignes à suivre afin d'assurer une 
 
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever need."
-    m "Non seulement le village était simplement déserté, mais le bruit des feux d'artifice couvrirait également les tirs d'armes à feu, lui donnant toute la sécurité dont il aurait besoin.""
+    m "Non seulement le village était simplement désert, mais le bruit des feux d'artifice couvrirait également les tirs d'armes à feu, lui donnant toute la sécurité dont il aurait besoin."
 
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontrée, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 
 Pour l'échange avec Reza:
 
     # Mv "Maybe I can."
-    Mv "Peut être que moi je peux."
+    Mv "Peut être que moi, je peux."
 
     # Rz angry "You planned this, didn't you, [player_name]?"
-    Rz angry "C'est toi qui a prévu ça, n'est-ce pas, [player_name] ?"
+    Rz angry "C'est toi qui as prévu ça, n'est-ce pas, [player_name] ?"
 
     # Rz "Traitor!" with hpunch
     Rz "Sale traître !" with hpunch
@@ -67,7 +67,7 @@ Pour l'échange avec Reza:
     m "Il dégaina son arme, sans savoir lequel d'entre nous viser."
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz "Laissez moi partir, et j'oublierai tout ce qui vient de se passer."
+    Rz "Laissez-moi partir, et j'oublierai tout ce qui vient de se passer."
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
     c "Tu as six balles pour trois personnes. Penses-tu vraiment que tu vas y arriver, Reza ? Tu penses que ça vaut le coup de risquer ta vie pour ça ?"
@@ -82,7 +82,7 @@ Pour l'échange avec Reza:
     Rz "Tout ça appartient à l'humanité !" with Shake((0, 0, 0, 0), 2, dist=10)
 
     # m "Suddenly, the Administrator came out of the shadows in the hallway behind Reza."
-    m "Soudain, ce fut au tour de l'administrateur de sortir de l'ombre, dans le couloir derrière Reza."
+    m "Soudain, ce fut au tour de l'Administrateur de sortir de l'ombre, dans le couloir derrière Reza."
 
     # As "No, they belong to me."
     As "Non, tout ça m'appartient à moi."
@@ -91,13 +91,13 @@ Pour l'échange avec Reza:
     m "Désemparé, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
 
     # Rz "Who the fuck are you? Freeze! I said freeze!"
-    Rz "Bordel t'es qui ? Bouge pas ! J'ai dit bouge pas !"
+    Rz "Bordel, t'es qui ? Bouge pas ! J'ai dit bouge pas !"
 
     # As "Want to waste your bullets on me? Feel free. You can't stop all of us."
-    As "Envie de gâcher tes balles sur moi ? Fais toi plaisir. Tu ne peux pas tous nous arrêter."
+    As "Envie de gâcher tes balles sur moi ? Fais-toi plaisir. Tu ne peux pas tous nous arrêter."
 
     # Rz gunpoint flip "If you say so."
     Rz gunpoint flip "Si tu insistes."
 
     # m "He pulled the trigger, and the Administrator fell to the ground with a dull thud that knocked her mask off."
-    m "Il appuya sur la détente, et l'administrateur s'effondra au sol dans un choc sourd qui éjecta son masque."
+    m "Il appuya sur la détente, et l'Administrateur s'effondra au sol dans un choc sourd qui éjecta son masque.
