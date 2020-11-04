@@ -38,7 +38,7 @@ Ce fichier contient à certain nombre de consignes à suivre afin d'assurer une 
     m "Soudain, une réalisation terrible me frappa."
 
     # m "Considering how public of an event this was and how I was told multiple times that everyone would be watching the fireworks, now would be the best time for Reza to do anything he planned to do."
-    m "En considérant que cet évènement était public et le nombre de fois où on m'a dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il a planifié."
+    m "En considérant que cet évènement était public et le nombre de fois où on m'avait dit que tout le monde serait en train de regarder les feux d'artifice, ce serait le meilleur moment pour Reza de faire tout ce qu'il avait planifié."
 
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever need."
@@ -46,7 +46,7 @@ Ce fichier contient à certain nombre de consignes à suivre afin d'assurer une 
 
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontrée, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 
 Pour l'échange avec Reza:
