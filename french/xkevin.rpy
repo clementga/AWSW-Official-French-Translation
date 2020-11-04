@@ -167,19 +167,19 @@ translate frenchtl _call_skipcheck_15_52903764:
 translate frenchtl _call_skipcheck_15_3f0f74b6:
 
     # c "Well, I'm glad they are taking this matter seriously."
-    c "Et bien, je suis heureux qu'ils prennent ce problème au sérieux."
+    c "Eh bien, C'est bon de savoir qu'ils prennent ce problème au sérieux."
 
 # game/xkevin.rpy:157
 translate frenchtl _call_skipcheck_15_517617db:
 
     # Kv ramble "They certainly are."
-    Kv ramble "Ils ont intérêt."
+    Kv ramble "Ah ça oui."
 
 # game/xkevin.rpy:159
 translate frenchtl _call_skipcheck_15_97369f3c:
 
     # c "I'd like to know more about these cities you talked about, though."
-    c "Aussi j'aimerais en savoir plus à propos de ces villes dont tu as parlé."
+    c "Aussi j'aimerais en savoir plus à propos de ces villes dont tu as parlées."
 
 # game/xkevin.rpy:161
 translate frenchtl _call_skipcheck_15_13bf66ae:
@@ -191,7 +191,7 @@ translate frenchtl _call_skipcheck_15_13bf66ae:
 translate frenchtl _call_skipcheck_15_563164b8:
 
     # c "I only really have this town as a point of reference, so why don't you tell me about what's different?"
-    c "Ma seule référence en terme de ville c'est ce village, donc pourquoi tu ne me dirais pas ce qui est différent ?"
+    c "Ma seule référence en terme de ville c'est ce village, donc pourquoi tu ne me parlerais pas ce qui est différent ?"
 
 # game/xkevin.rpy:165
 translate frenchtl _call_skipcheck_15_679d103e:
@@ -203,25 +203,25 @@ translate frenchtl _call_skipcheck_15_679d103e:
 translate frenchtl _call_skipcheck_15_6b13fff3:
 
     # Kv normal "Out here, living in general seems to be a lot cheaper than it is in the city, and there is much more room for everything."
-    Kv normal "Ici, la vie est plus simple comparé à la ville, et il y a aussi plus d'espace"
+    Kv normal "Ici, le coût de la vie semble être moindre comparé à ce que c'est en ville, et il y a aussi beaucoup plus d'espace pour tout."
 
 # game/xkevin.rpy:169
 translate frenchtl _call_skipcheck_15_42e198ef:
 
     # Kv ramble "There are green spaces, fields, parks and farms. You don't really see that in the city."
-    Kv ramble "Il y a des espaces verts, des champs, des parcs et des fermes"
+    Kv ramble "Il y a des espaces verts, des champs, des parcs et des fermes. Tu ne vois pas vraiment ça en ville."
 
 # game/xkevin.rpy:171
 translate frenchtl _call_skipcheck_15_f6bb908b:
 
     # Kv brow "People are more laid-back and there is a bigger sense of community as everybody knows everyone, which can be both good and bad."
-    Kv brow "Les gens sont plutôt relax et tout le monde se connaît ce qui fait une véritable communauté, ce qui peut être aussi bon que mauvais."
+    Kv brow "Les gens sont plutôt relax et tout le monde se connaît ce qui fait une véritable communauté où tout le monde se connaît, ce qui peut être aussi bon que mauvais."
 
 # game/xkevin.rpy:173
 translate frenchtl _call_skipcheck_15_61e9b1c0:
 
     # Kv "For example, rumors travel fast and survive well in areas like this one. In the city, you can just make new friends when that happens, but out here, a few well-placed stories could mean social death."
-    Kv "Par exemple, les rumeurs vont vite et se maintiennent dans des endroits comme ici. En ville, tu peux te faire des amis, mais là-bas, il suffit de quelques petites histoires pour nuire aux relations sociales."
+    Kv "Par exemple, les rumeurs vont vite et se maintiennent dans des endroits comme ici. En ville, tu peux te faire de nouveaux amis quand ça arrive, mais ici, quelques histoires bien placées peuvent signifier ta mort sociale."
 
 # game/xkevin.rpy:175
 translate frenchtl _call_skipcheck_15_ecc71545:
@@ -233,13 +233,13 @@ translate frenchtl _call_skipcheck_15_ecc71545:
 translate frenchtl _call_skipcheck_15_25f7299a:
 
     # Kv normal "But with the clubbing scene and opportunities for socializing, there's no shortage of potential friends."
-    Kv normal "Mais avec tous les clubs et les opportunités sociales, il y a toujours un moyen de se faire des amis."
+    Kv normal "Mais avec tous les clubs et les opportunités pour sociabiliser, il y a toujours un moyen de se faire des amis."
 
 # game/xkevin.rpy:179
 translate frenchtl _call_skipcheck_15_0cfa0eb8:
 
     # Kv ramble "There are also many different jobs and education opportunities that you wouldn't find out here."
-    Kv ramble "Il y a aussi beaucoup d'emplois différents et de formations éducatives qu'on ne trouve pas ici."
+    Kv ramble "Il y a aussi beaucoup d'emplois différents et de formations qu'on ne trouve pas ici."
 
 # game/xkevin.rpy:181
 translate frenchtl _call_skipcheck_15_efe0e8c3:
@@ -257,13 +257,13 @@ translate frenchtl _call_skipcheck_15_ca222335:
 translate frenchtl _call_skipcheck_15_81d6c677:
 
     # Kv ramble "The same goes for teaching positions in those areas as well."
-    Kv ramble "Aussi il en va de même pour l'enseignement."
+    Kv ramble "Et il en va de même pour l'enseignement dans ce zones là."
 
 # game/xkevin.rpy:187
 translate frenchtl _call_skipcheck_15_fbbaa2ba:
 
     # Kv brow "For example, if I wanted to learn how to write a romance novel, I can find a course for that easily. Out here this would be a lot more difficult. You know what I mean?"
-    Kv brow "Par exemple, si je veux apprendre à écrire une nouvelle romancière, je peux facilement trouver des cours pour ça. Mais ici ça serait très difficile à trouver. Tu vois ce que je veux dire ?"
+    Kv brow "Par exemple, si je veux apprendre à écrire une romance, je peux facilement trouver des cours pour ça. Mais ici ça serait très difficile à trouver. Tu vois ce que je veux dire ?"
 
 # game/xkevin.rpy:189
 translate frenchtl _call_skipcheck_15_c2bf53af:
