@@ -1780,7 +1780,7 @@ translate french _call_syscheck_86_897d19f8:
 translate french _call_syscheck_86_02249771:
 
     # Ry "Maybe, but the journey is its own reward."
-    Ry "Peut-être, mais l'important c'est le voyage pas la destination."
+    Ry "Peut-être, mais l'important c'est le voyage, pas la destination."
 
 # game/remy1.rpy:1617
 translate french _call_syscheck_86_2a6c1eb6:
@@ -1792,7 +1792,7 @@ translate french _call_syscheck_86_2a6c1eb6:
 translate french _call_syscheck_86_c329466f:
 
     # Ry "Well, at least my office is still standing."
-    Ry "Bon, au moins mon bureau est toujours en une seule pièce."
+    Ry "Bon, au moins, mon bureau est toujours en une seule pièce."
 
 # game/remy1.rpy:1620
 translate french _call_syscheck_86_ecfe1d62:
