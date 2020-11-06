@@ -641,7 +641,7 @@ translate frenchtl _call_skipcheck_15_2314ae72:
 translate frenchtl _call_skipcheck_15_53ee7cc7:
 
     # Kv normal "And don't forget about the dorms, so all these people are always within reach - which can also be both good and bad. You can be tempted to hang out with friends when you should really be studying."
-    Kv normal "Sans oublier les dortoirs, ce qui fait qu'ils sont toujours pas loin de toi - ce qui a aussi des bons et mauvais côtés. Tu peux être tenté de sortir avec tes amis alors que tu dois réviser."
+    Kv normal "Sans oublier les dortoirs, ce qui fait qu'ils sont toujours pas loin de toi - ce qui a à la fois des bons et des mauvais côtés. Tu peux être tenté de sortir avec tes amis alors que tu dois réviser."
 
 # game/xkevin.rpy:337
 translate frenchtl _call_skipcheck_15_f0bb618e:
@@ -653,13 +653,13 @@ translate frenchtl _call_skipcheck_15_f0bb618e:
 translate frenchtl _call_skipcheck_15_519dd35d:
 
     # Kv ramble "That can be a problem with team projects, for example. There's always someone who ends up never showing up and not doing any part of the work."
-    Kv ramble "Ça peut être un problème de groupes de projet, par exemple. Il y a toujours quelqu'un qui finit par ne plus revenir et qui ne fait pas sa partie du travail."
+    Kv ramble "Ça peut être un problème avec les projets de groupe, par exemple. Il y a toujours quelqu'un qui finit par ne plus se montrer et qui ne fait pas sa partie du travail."
 
 # game/xkevin.rpy:341
 translate frenchtl _call_skipcheck_15_a187cad5:
 
     # Kv normal "For me, it's not really a problem since I actually enjoy what I'm doing here. I don't mind the homework, and sometimes, I read up on subjects in advance so I don't get left behind."
-    Kv normal "Pour ma part, ce n'est pas un problème vu que j'adore ce que j'y fais. Les devoirs ne me dérangent pas, et parfois, je m'intéresse aux sujets étudiés en avance pour ne pas être à la traine."
+    Kv normal "Pour ma part, ce n'est pas un problème vu que j'adore ce que j'y fais. Les devoirs ne me dérangent pas, et parfois, je m'intéresse aux sujets étudiés en avance pour ne pas être à la traîne."
 
 # game/xkevin.rpy:343
 translate frenchtl _call_skipcheck_15_457f77b9:
@@ -677,19 +677,19 @@ translate frenchtl _call_skipcheck_15_db32c0e5:
 translate frenchtl _call_skipcheck_15_fb896d36:
 
     # Kv ramble "Well, with ours I was even allowed the privilege of giving a guest lecture for my own class once."
-    Kv ramble "Et bien, avec les nôtres j'ai même eu le privilège de donner une conférence à ma classe."
+    Kv ramble "Eh bien, avec les nôtres j'ai même eu le privilège de donner une conférence à ma classe."
 
 # game/xkevin.rpy:349
 translate frenchtl _call_skipcheck_15_c918c451:
 
     # c "Yeah, that's the kind of thing I was talking about."
-    c "Ouais, c'est de ce genre de chosee que je parlais."
+    c "Ouais, c'est de ce genre de chose dont je parlais."
 
 # game/xkevin.rpy:351
 translate frenchtl _call_skipcheck_15_5c1c8c49:
 
     # Kv normal "Come on, learning should be fun! It certainly is for me."
-    Kv normal "Allez, apprendre c'est amusant ! En tout cas ça l'est pour moi."
+    Kv normal "Allez, apprendre devrait être amusant ! En tout cas ça l'est pour moi."
 
 # game/xkevin.rpy:353
 translate frenchtl _call_skipcheck_15_e9ed22ed:
@@ -749,7 +749,7 @@ translate frenchtl _call_skipcheck_15_a82b2926:
 translate frenchtl _call_skipcheck_15_5301d960:
 
     # c "Now you're making me hungry."
-    c "Voilà maintenant j'ai faim."
+    c "Voilà maintenant tu me donnes faim."
 
 # game/xkevin.rpy:373
 translate frenchtl _call_skipcheck_15_c7b2f7ce:
@@ -767,7 +767,7 @@ translate frenchtl _call_skipcheck_15_a55132d7:
 translate frenchtl _call_skipcheck_15_efd2560a:
 
     # Kv brow "Yep. It's good to help our college, and I can also save up a bit in the process. It's certainly easier than trying to juggle a job and homework at the same time later on if things get tight."
-    Kv brow "Yep. C'est bien d'aider notre université, et je peux aussi me faire des économies. C'est certainement plus facile que de jongler entre travail et devoirs si ma situation devient compliquée."
+    Kv brow "Yep. C'est bien d'aider notre université, et je peux aussi me faire des économies. C'est certainement plus facile que de jongler entre un travail et des devoirs si ma situation devient compliquée."
 
 # game/xkevin.rpy:379
 translate frenchtl _call_skipcheck_15_b5a29541:
@@ -791,7 +791,7 @@ translate frenchtl _call_skipcheck_15_89aefe22_1:
 translate frenchtl _call_skipcheck_15_12475049:
 
     # c "Alright, go ahead and analyze me right now."
-    c "Ok, vas-y analyse-moi."
+    c "Ok, vas-y analyse-moi là tout de suite."
 
 # game/xkevin.rpy:387
 translate frenchtl _call_skipcheck_15_30f3e475:
@@ -803,7 +803,7 @@ translate frenchtl _call_skipcheck_15_30f3e475:
 translate frenchtl _call_skipcheck_15_090a20b3:
 
     # Kv face "It doesn't really work like that."
-    Kv face "Ça ne marche oas comme ça."
+    Kv face "Ça ne marche pas vraiment comme ça."
 
 # game/xkevin.rpy:391
 translate frenchtl _call_skipcheck_15_030674d3:
@@ -821,25 +821,25 @@ translate frenchtl _call_skipcheck_15_eb610c26:
 translate frenchtl _call_skipcheck_15_a446abcd:
 
     # Kv ramble "Maybe I'll steal that test from you, though. Might be worth trying it out on a few people I know."
-    Kv ramble "Peut-être que je vais reprendre ton idée. Ça peut valoir le coup de l'essayer sur quelqu'un d'autre."
+    Kv ramble "Peut-être que je vais reprendre ton idée. Ça peut valoir le coup de l'essayer sur quelques connaissances à moi."
 
 # game/xkevin.rpy:397
 translate frenchtl _call_skipcheck_15_163dccef:
 
     # c "Be my guest."
-    c ""
+    c "Fais-toi plaisir."
 
 # game/xkevin.rpy:399
 translate frenchtl _call_skipcheck_15_6301a05f:
 
     # c "On a more serious note, tell me something about what you're learning."
-    c "Plus sérieusement, parle-moi de ce que tu apprends."
+    c "Plus sérieusement, parles-moi de ce que tu apprends."
 
 # game/xkevin.rpy:401
 translate frenchtl _call_skipcheck_15_8e797dbc:
 
     # Kv brow "What, anything?"
-    Kv brow "Quoi, tout ?"
+    Kv brow "Quoi, n'importe quoi ?"
 
 # game/xkevin.rpy:403
 translate frenchtl _call_skipcheck_15_7d70f431:
@@ -857,7 +857,7 @@ translate frenchtl _call_skipcheck_15_0f6f27f2:
 translate frenchtl _call_skipcheck_15_3bbb47d6:
 
     # Kv ramble "Well, I could tell you about an old and very simplified model of our psyche that we got taught in introductory classes."
-    Kv ramble "Et bien, je peux te parler d'un vieux modèle de notre psyché simplifié qu'on nous a appris an cours d'introduction."
+    Kv ramble "Et bien, je peux te parler d'un vieux modèle simplifié de notre psyché qu'on nous a appris an cours d'introduction."
 
 # game/xkevin.rpy:409
 translate frenchtl _call_skipcheck_15_993ba4d9:
@@ -869,13 +869,13 @@ translate frenchtl _call_skipcheck_15_993ba4d9:
 translate frenchtl _call_skipcheck_15_732f8aba:
 
     # Kv normal "Okay, so this model divides our psychic apparatus into three distinct parts, called {i}id{/i}, {i}ego{/i} and {i}super-ego{/i}."
-    Kv normal "Ok, alors cette théorie divise notre esprit en 3 parties, appelées {i}paléocortex{/i}, {i}cortex{/i} et {i}néocortex{/i}."
+    Kv normal "Ok, alors cette théorie divise notre esprit en 3 parties, appelées {i}ça{/i}, {i}moi{/i} et {i}surmoi{/i}."
 
 # game/xkevin.rpy:413
 translate frenchtl _call_skipcheck_15_382da9f2:
 
     # Kv ramble "The {i}id{/i} represents our most basic desires and instinctual drives. That is, our physical needs and wants - like hunger and thirst - as well as desires and impulses."
-    Kv ramble "Le {i}paléocortex{/i} représente nos désirs les plus basiques et notre instinct. En gros, nos besoins physiques et nos envies - comme la faim et la soif - autant que nos désirs et nos impulsions."
+    Kv ramble "Le {i}ça{/i} représente nos désirs les plus basiques et notre instinct. En gros, nos besoins physiques et nos envies - comme la faim et la soif - autant que nos désirs et nos impulsions."
 
 # game/xkevin.rpy:415
 translate frenchtl _call_skipcheck_15_7f1295b3:
@@ -887,43 +887,43 @@ translate frenchtl _call_skipcheck_15_7f1295b3:
 translate frenchtl _call_skipcheck_15_6d06df55:
 
     # Kv normal "An impulse is more like wanting to lash out in anger, for example. The id seeks out immediate gratification for these urges."
-    Kv normal "Une impulsion c'est quelque chose comme extérioriser sa colère, par exemple. Le paléocortex cherche immédiatement à combler ces besoins."
+    Kv normal "Une impulsion c'est quelque chose comme extérioriser sa colère, par exemple. Le ça cherche immédiatement à combler ces besoins."
 
 # game/xkevin.rpy:419
 translate frenchtl _call_skipcheck_15_7f8cc703:
 
     # Kv brow "It is in conflict with the {i}super-ego{/i}, which represents learned behavior like cultural and moral rules, and societal standards. The kind of stuff we learn from our role models like parents, teachers or guardians."
-    Kv brow "Il est en conflit avec le {i}néocortex{/i}, qui représente le comportement appris comme la culture et les règles, ainsi que les standards de la société."
+    Kv brow "Il est en conflit avec le {i}surmoi{/i}, qui représente le comportement appris comme la culture et les règles, ainsi que les standards de la société. Ce genre de choses qu'on apprend par nos rôles modèles comme les parents, les professeurs ou les gardiens."
 
 # game/xkevin.rpy:421
 translate frenchtl _call_skipcheck_15_d4c94927:
 
     # Kv ramble "The super-ego is the part that forms our conscience and controls our sense of right and wrong. It seeks to uphold these standards to perfection, which most of the time goes against what the id wants at any given moment."
-    Kv ramble "Le néocortex est une partie qui forme notre conscience et contrôle notre sens du bon ou du mauvais. Il cherche à améliorer cette compréhension à la perfection, qui la plupart du temps est en contradiction avec le paléocortex."
+    Kv ramble "Le surmoi est une partie qui forme notre conscience et contrôle notre sens du bon ou du mauvais. Il cherche à améliorer cette compréhension à la perfection, qui la plupart du temps est en contradiction avec le ça."
 
 # game/xkevin.rpy:423
 translate frenchtl _call_skipcheck_15_0c2d12b5:
 
     # c "You sound like you had to rote-learn a lot of this."
-    c "On dirait que tu as eu à apprendre tout ça par coeur."
+    c "On dirait que tu as eu à apprendre tout ça par cœur."
 
 # game/xkevin.rpy:425
 translate frenchtl _call_skipcheck_15_48762f7c:
 
     # Kv normal "If those internalized rules are broken, this misbehavior is punished by the super-ego with feelings of guilt and shame. This way, we are compelled to behave in accordance to these rules even if the id tempts us to do otherwise."
-    Kv normal "Si ces règles internes sont brisées, ce mauvais comportement est puni par le néocortex avec des sentiments de culpabilité et de honte. De cette manière, nous sommes incités à nous comporter en accordance avec ces règles malgré toutes les envies du paléocortex."
+    Kv normal "Si ces règles internalisées viennent à être brisées, ce mauvais comportement est puni par le surmoi avec des sentiments de culpabilité et de honte. De cette manière, nous sommes incités à nous comporter en accordance avec ces règles malgré toutes les envies du ça."
 
 # game/xkevin.rpy:427
 translate frenchtl _call_skipcheck_15_af907cfe:
 
     # Kv ramble "And inbetween these two conflicting parts of us, there is the {i}ego{/i} who is trying to mediate."
-    Kv ramble "Et entre ces deux parties en conflit, il y a le {i}cortex{/i} qui joue un rôle de médiateur."
+    Kv ramble "Et entre ces deux parties en conflit, il y a le {i}moi{/i} qui joue un rôle de médiateur."
 
 # game/xkevin.rpy:429
 translate frenchtl _call_skipcheck_15_d4a6c59c:
 
     # Kv "It represents our rational mind that seeks to please the id's drives in a way that doesn't harm us or goes against the super-ego's goals."
-    Kv "Il représente notre esprit rationnel qui cherche à combler les envies de notre paléocortex de manière non dangereuse et qui ne va pas à l'encontre des envies du néocortex."
+    Kv "Il représente notre esprit rationnel qui cherche à combler les envies de notre ça de manière à ne pas nous nuire et sans aller à l'encontre des buts du surmoi."
 
 # game/xkevin.rpy:431
 translate frenchtl _call_skipcheck_15_71780187:
@@ -935,7 +935,7 @@ translate frenchtl _call_skipcheck_15_71780187:
 translate frenchtl _call_skipcheck_15_1cb350ee:
 
     # Kv "The ego includes all our decision-making and how we respond to external stimuli. Ultimately, it is the one calling the shots while trying to balance the needs of the id, the super-ego and the external world."
-    Kv "Le cortex inclus toutes nos prises de décision et nos façons de réagir aux stimulis externes. Et surtout, il essaie d'équilibrer les besoins du paléocortex, du néocortex et du monde extérieur."
+    Kv "Le moi inclus toutes nos prises de décision et nos façons de réagir aux stimulis externes. Et surtout,c'est celui qui tire la sonette d'alarme tandis qu'il essaie d'équilibrer les besoins du ça, du surmoi et du monde extérieur."
 
 # game/xkevin.rpy:435
 translate frenchtl _call_skipcheck_15_861465e2:
@@ -971,7 +971,7 @@ translate frenchtl _call_skipcheck_15_7baf32b1:
 translate frenchtl _call_skipcheck_15_828f388a:
 
     # Kv ramble "Just being able to understand people is such a huge factor in many fields, and the skills you learn can come in handy in all areas of life, really."
-    Kv ramble "Juste le fait d'être capable de comprendre les gens est un facteur très important dans plein de domaines, et les compétences que tu apprends sont très pratiques dans beaucoup de lieux de vie, vraiment."
+    Kv ramble "Juste le fait d'être capable de comprendre les gens est un facteur très important dans plein de domaines, et les compétences que tu apprends sont très pratiques dans tout le moments de la vie, vraiment."
 
 # game/xkevin.rpy:449
 translate frenchtl _call_skipcheck_15_bb42e64c:
