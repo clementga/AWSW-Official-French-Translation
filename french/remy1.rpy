@@ -1177,19 +1177,19 @@ translate french remystuff_f760c602:
 translate french remystuff_bd09f655:
 
     # c "You've mentioned that before. How does that work? Do you have some kind of organized religion based around it?"
-    c "Tu m'as parlé de cela avant. Comment ça marche ? Avez-vous une sorte d'institution religieuse basée sur ça ?"
+    c "Tu m'as parlé de cela avant. Comment ça marche ? Avez-vous une sorte d'institution religieuse fondée sur ça ?"
 
 # game/remy1.rpy:1180
 translate french remystuff_f40ccde5:
 
     # Ry "Not exactly. It is more like an adoration on a personal level. I'd count myself amongst them if it wasn't for the fact that I consider myself to have a more reasonable approach to it than others."
-    Ry "Pas exactement. Il s'agit plus d'une adoration à un niveau personnel. Je me competerais parmi eux, si ce n'était pour le fait que je considère avoir une approche plus raisonnable sur le sujet comparé à d'autres."
+    Ry "Pas exactement. Il s'agit plus d'une adoration à un niveau personnel. Je me compterais parmi eux, si ce n'était pour le fait que je considère avoir une approche plus raisonnable sur le sujet comparé à d'autres."
 
 # game/remy1.rpy:1181
 translate french remystuff_4892c9b9:
 
     # Ry "For example, there are those that believe there is much more to your sudden appearance than there really is. I think they expect some sort of miracle from you, similar to what was ascribed to humans in the past."
-    Ry "Par exemple, il y a ceux qui croient que que votre soudaine apparition en cache plus que ce qu'il n'y semble. Je pense qu'ils attendent une sorte de miracle de votre part, semblable à ce qui a été imputé aux humains par le passé."
+    Ry "Par exemple, il y a ceux qui croient que votre soudaine apparition en cache plus que ce qu'il n'y semble. Je pense qu'ils attendent une sorte de miracle de votre part, semblable à ce qui a été imputé aux humains par le passé."
 
 # game/remy1.rpy:1188
 translate french remystuff_1d8d2308:
@@ -1375,7 +1375,7 @@ translate french remystuff_a1dc5ba8:
 translate french remystuff_1c08a712:
 
     # Ry "Maybe it would be better if you didn't stay out in the open. At the end of the hallway, you can find my office towards the right. Wait for me there."
-    Ry "Peut-être serait-il mieux que tu ne restes pas dans le hall. Au fond du couloir, tu trouveras mon bureau sur ta droite. Attends moi là bas."
+    Ry "Peut-être serait-il mieux que tu ne restes pas dans le hall. Au fond du couloir, tu trouveras mon bureau sur ta droite. Attends-moi là bas."
 
 # game/remy1.rpy:1271
 translate french remystuff_86148265:
@@ -1594,13 +1594,13 @@ translate french _call_syscheck_86_3ad6c483:
 translate french _call_syscheck_86_1d5aad63:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Aidith: Oh, you pompous &%%*#+@.{/font}{/color}"
-    Al "{color=#FFFFF0}{font=Munro.ttf}Aidith : Espace de #@*&%%@ pretentieuse.{/font}{/color}"
+    Al "{color=#FFFFF0}{font=Munro.ttf}Aidith : Espece de #@*&%%@ pretentieuse.{/font}{/color}"
 
 # game/remy1.rpy:1447
 translate french _call_syscheck_86_afd189af:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar: Calm down, Aidith. Focus.{/font}{/color}"
-    Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar : Calme toi, Aidith. Reste concentree.{/font}{/color}"
+    Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar : Calme-toi, Aidith. Reste concentree.{/font}{/color}"
 
 # game/remy1.rpy:1454
 translate french _call_syscheck_86_4d78f3e8:
