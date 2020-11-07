@@ -10,13 +10,13 @@ translate french bryce5_cb2b8cb1:
 translate french bryce5_5a6b94bb:
 
     # Br smirk "I hope you're ready to see the fireworks, because I brought everything we need."
-    Br smirk "J'espère que t'es prêt pour le feu d'artifice, j'ai emmené tout ce dont pourrait avoir besoin, ou envie..."
+    Br smirk "J'espère que t'es prêt pour le feu d'artifice, j'ai emmené tout ce dont on pourrait avoir besoin, ou envie..."
 
 # game/bryce5.rpy:22
 translate french bryce5_c46ab4ca:
 
     # m "In front of him, there was a woven basket that was closed at the top. It reminded me a lot of a typical picnic basket."
-    m "Il avait posé devant lui, un panier tissé fermé. Le panier de pick-nique typique."
+    m "Il avait posé devant lui, un panier tissé fermé. Le panier de pique-nique typique."
 
 # game/bryce5.rpy:24
 translate french bryce5_3070bc42:
@@ -46,13 +46,13 @@ translate french bryce5_cdbbe70e:
 translate french bryce5_c989f8fc:
 
     # Br laugh "I'm glad you're even willing to see me again after what happened."
-    Br laugh "Je suis content que tu m'aies rappelé pour qu'on se revoit, après cette grosse mésaventure..."
+    Br laugh "Je suis content que tu m'aies rappelé pour qu'on se revoie, après cette grosse mésaventure..."
 
 # game/bryce5.rpy:36
 translate french bryce5_fb06a60b:
 
     # c "I'm serious. Let's just forget it and focus on today."
-    c "Nan vraiment, oublions tout ça et concentrons nous sur la soirée."
+    c "Nan, vraiment, oublions tout ça et concentrons nous sur la soirée."
 
 # game/bryce5.rpy:38
 translate french bryce5_467820d0:
@@ -64,13 +64,13 @@ translate french bryce5_467820d0:
 translate french bryce5_4f3507cf:
 
     # c "Let's go, then."
-    c "Allons-y alors."
+    c "Allons-y, alors."
 
 # game/bryce5.rpy:52
 translate french bryce5_8aa8fa3e:
 
     # m "After a few minutes of walking, we arrived at a rather empty looking area near the edge of town."
-    m "Après quelques minutes passées à marcher, on est arrivé dans un endroit semblant plutôt désert, près de la périphérie de la ville."
+    m "Après quelques minutes passées à marcher, nous arrivâmes dans un endroit semblant plutôt désert, près de la périphérie de la ville."
 
 # game/bryce5.rpy:54
 translate french bryce5_efa36252:
@@ -82,13 +82,13 @@ translate french bryce5_efa36252:
 translate french bryce5_13f66af5:
 
     # Br "Well, there are more public spaces, but someone like you would get pushed around a lot in the crowds. Besides, I think you'll appreciate the solitude."
-    Br "En fait, il y a beaucoup de coins sympa pour admirer le feu d'artifice. Mais une personne de ton genre se ferait bousculer si elle se retrouvait dans la foule. Et puis, je me dit que tu apprécierais le calme de la solitude."
+    Br "En fait, il y a beaucoup de coins sympas pour admirer le feu d'artifice. Mais une personne de ton genre se ferait bousculer si elle se retrouvait dans la foule. Et puis, je me dis que tu apprécierais le calme de la solitude."
 
 # game/bryce5.rpy:60
 translate french bryce5_8fc66374:
 
     # c "If you say so."
-    c "Je te fais confiance alors."
+    c "Je te fais confiance, alors."
 
 # game/bryce5.rpy:62
 translate french bryce5_b33babad:
@@ -106,7 +106,7 @@ translate french bryce5_240b85dd:
 translate french bryce5_ff994752:
 
     # c "Fun basket?"
-    c "Le panier à malice ?"
+    c "Le panier à malices ?"
 
 # game/bryce5.rpy:68
 translate french bryce5_dd4506a6:
@@ -118,13 +118,13 @@ translate french bryce5_dd4506a6:
 translate french bryce5_29025e13:
 
     # c "I didn't know snacks were that much fun for you."
-    c "Je ne savais pas que les casses croûte était aussi malicieux que ça pour toi."
+    c "Je ne savais pas que les casse-croûtes étaient aussi malicieux que ça pour toi."
 
 # game/bryce5.rpy:72
 translate french bryce5_a7236ed6:
 
     # Br smirk "They certainly can be. Besides, there are other things inside as well."
-    Br smirk "Ils peuvent le devenir, ouais. Mais c'est surtout ce qui y a avec les casses-croûte qui a quelque chose de malicieux..."
+    Br smirk "Ils peuvent le devenir, ouais. Mais c'est surtout ce qui y a avec les casse-croûtes qui a quelque chose de malicieux..."
 
 # game/bryce5.rpy:74
 translate french bryce5_9ca39f57:
@@ -136,37 +136,37 @@ translate french bryce5_9ca39f57:
 translate french bryce5_b786e88a:
 
     # m "We waited quietly as the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "On a attendu tranquillement, alors que le silence de la nuit nous enveloppais agréablement. Et puis j'ai entendu le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle a éclaté dans un motif aux couleurs vives."
+    m "Nous attendîmes tranquillement, alors que le silence de la nuit nous enveloppait agréablement. Et puis, j'entendis le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle éclata dans un motif aux couleurs vives."
 
 # game/bryce5.rpy:80
 translate french bryce5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "D'autres fusées ont suivies, leurs déflagrations résonnant tout autour de nous."
+    m "D'autres fusées suivirent, leurs déflagrations résonnant tout autour de nous."
 
 # game/bryce5.rpy:97
 translate french bryce5_3f4ba520:
 
     # Br flirty "You remember what happened last time there were fireworks?"
-    Br flirty "Tu te souviens de ce qui s'est passé la dernière fois qu'on a entendu les feux d'artifices ?"
+    Br flirty "Tu te souviens de ce qui s'est passé la dernière fois qu'on a entendu les feux d'artifice ?"
 
 # game/bryce5.rpy:99
 translate french bryce5_389831cb:
 
     # c "Is that what the fun basket is for?"
-    c "Oh, c'est pour ça le panier à malices ?"
+    c "Oh, c'est pour ça, le panier à malices ?"
 
 # game/bryce5.rpy:101
 translate french bryce5_b1c07c5a:
 
     # Br smirk "Actually, no. Not unless you feel adventurous."
-    Br smirk "En fait... Ça dépends si t'es d'humeur aventureuse."
+    Br smirk "En fait... Ça dépend si t'es d'humeur aventureuse."
 
 # game/bryce5.rpy:103
 translate french bryce5_f369e47c:
 
     # c "We're already outside. That's pretty adventurous, I'd say."
-    c "On est dehors là, c'est déjà pas mal niveau aventure, non ?"
+    c "On est dehors, là, c'est déjà pas mal, niveau aventure, non ?"
 
 # game/bryce5.rpy:105
 translate french bryce5_eeed68bd:
@@ -178,37 +178,37 @@ translate french bryce5_eeed68bd:
 translate french bryce5_1c7861d1:
 
     # m "Bryce opened the basket, feeling around in it with one of his claws. Meanwhile, my gaze wandered to the illuminated night sky."
-    m "Bryce a alors ouvert le panier, tâtant son contenu avec ses griffes alors que je regardait le ciel nocturne illuminé de couleurs vives."
+    m "Bryce ouvrit le panier, tâtant son contenu avec ses griffes alors que je regardais le ciel nocturne illuminé de couleurs vives."
 
 # game/bryce5.rpy:113
 translate french bryce5_3de6ab5e:
 
     # m "Suddenly, a terrible realization hit me."
-    m "Alors que les explosions tapaient à mes oreilles, j'ai été frappé par une terrible prise de conscience."
+    m "Soudain, une réalisation terrible me frappa."
 
 # game/bryce5.rpy:117
 translate french bryce5_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Étant donné le symbole que ce feu d'artifice représentait au yeux des habitants, et me souvenant avoir entendu à plusieurs reprise que tout le monde y assistait, c'était une opportunité de choix pour Reza pour accomplir sa mission."
+    m "En considérant que cet évènement était public et le nombre de fois où on m'avait dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il avait planifié."
 
 # game/bryce5.rpy:119
 translate french bryce5_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m "Non seulement la ville était quasiment déserte, mais il pouvait couvrir le son de ses tirs par les explosions des feux d'artifices. Il pouvait agir en toute sécurité."
+    m "Non seulement le village était simplement désert, mais le bruit des feux d'artifice couvrirait également les tirs d'armes à feu, lui donnant toute la sécurité dont il aurait besoin."
 
 # game/bryce5.rpy:121
 translate french bryce5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Comme le portail avait été réparé par le mystérieux humain masqué que j'avais rencontré, c'était le moment idéal pour que Reza s'enfuie. Et j'étais le seul à le savoir."
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 # game/bryce5.rpy:123
 translate french bryce5_ef75e771:
 
     # c "Bryce, I think we need to go. Now."
-    c "Bryce, il faut qu'on y ailles, maintenant !"
+    c "Bryce, il faut qu'on y aille, maintenant !"
 
 # game/bryce5.rpy:125
 translate french bryce5_95794fb8:
@@ -226,13 +226,13 @@ translate french bryce5_7051290d:
 translate french bryce5_8dec5814:
 
     # Br brow "What are you talking about? Are you sure?"
-    Br brow "De quoi tu me parles là ? T'es sûr de ce que tu dis ?"
+    Br brow "De quoi tu me parles, là ? T'es sûr de ce que tu dis ?"
 
 # game/bryce5.rpy:131
 translate french bryce5_8003bdb0:
 
     # c "I'd bet my life on it."
-    c "Je te parie ma vie Bryce !"
+    c "Je te parie ma vie, Bryce !"
 
 # game/bryce5.rpy:133
 translate french bryce5_8c1575f2:
@@ -244,7 +244,7 @@ translate french bryce5_8c1575f2:
 translate french bryce5_e0797c2e:
 
     # m "We arrived at the portal just a few minutes later. While I checked out the portal itself, Bryce looked around the area. I was glad to see it was still turned off. Had it been used recently, it would either still be running or in the process of recharging. Reza was still here, somewhere."
-    m "On a mis à peine quelques minutes à arriver jusqu'au portail. Pendant que je regardais ce dernier, Bryce a examiné la zone. J'étais content de voir que le portail n'avait pas été utilisé récemment, mais Reza était encore dans les parages."
+    m "Nous mîmes quelques minutes à arriver jusqu'au portail. Pendant que je regardais ce dernier, Bryce examina la zone. J'étais content de voir que le portail n'avait pas été utilisé récemment, mais Reza était encore dans les parages."
 
 # game/bryce5.rpy:149
 translate french bryce5_6dbcfbee:
@@ -262,13 +262,13 @@ translate french bryce5_b44663db:
 translate french bryce5_a5b4389d:
 
     # m "Hesitating, I drew nearer."
-    m "Hésitant, je me suis approché de lui."
+    m "Hésitant, je m'approchai de lui."
 
 # game/bryce5.rpy:159
 translate french bryce5_30ec1070:
 
     # Br "He's dead, but still warm."
-    Br "Sebastian est mort. Mais son corps est encore chaud."
+    Br "Sébastien est mort. Mais son corps est encore chaud."
 
 # game/bryce5.rpy:163
 translate french bryce5_34465bbf:
@@ -298,7 +298,7 @@ translate french bryce5_0f173ebb:
 translate french bryce5_b5cbd1bc:
 
     # Br stern "Eggs, a suitcase full of them."
-    Br stern "Des oeufs de dragonnes, une pleine valise."
+    Br stern "Des oeufs de dragonne, une pleine valise."
 
 # game/bryce5.rpy:179
 translate french bryce5_3bfed586:
@@ -310,7 +310,7 @@ translate french bryce5_3bfed586:
 translate french bryce5_86ae571a:
 
     # Br "Looks like it."
-    Br "On dirait oui."
+    Br "On dirait, oui."
 
 # game/bryce5.rpy:183
 translate french bryce5_1f23c127:
@@ -322,13 +322,13 @@ translate french bryce5_1f23c127:
 translate french bryce5_291c421d:
 
     # Br brow "How could he? Isn't it broken?"
-    Br brow "Comment il pourrait ? Il n'est pas cencé être hors service ?"
+    Br brow "Comment il pourrait ? Il n'est pas censé être hors service ?"
 
 # game/bryce5.rpy:188
 translate french bryce5_a799eff8:
 
     # c "Not anymore. Looks like someone repaired it."
-    c "Nan, quelqu'un l'a réparé visiblement."
+    c "Nan, quelqu'un l'a réparé, visiblement."
 
 # game/bryce5.rpy:190
 translate french bryce5_119742f0:
@@ -370,7 +370,7 @@ translate french bryce5_22380241:
 translate french bryce5_0f173ebb_1:
 
     # c "What is it?"
-    c "Dis moi."
+    c "Dis-moi."
 
 # game/bryce5.rpy:204
 translate french bryce5_ac4acbf8:
@@ -388,19 +388,19 @@ translate french bryce5_8da682e7:
 translate french bryce5_f4f01083:
 
     # m "Bryce led me to the dig site where they had unearthed the building's entry. Once we got nearer, he stayed behind and motioned for me to go forward."
-    m "Bryce m'a ammené sur le site de fouille, à l'endroit où ils avaient déterré l'entrée. Une fois assez proches, il m'a fait signe d'avancer et est restée en arrière."
+    m "Bryce m'emmena sur le site de fouille, à l'endroit où ils avaient déterré l'entrée. Une fois assez proches, il me fit signe d'avancer et resta en arrière."
 
 # game/bryce5.rpy:212
 translate french bryce5_506e336a:
 
     # m "He slowly followed me, trying to stay in cover as I entered the building."
-    m "Il m'a suivi lentement et d'assez loin, alors que je rentrais dans le bâtiment, tout en se faisant le plus discret possible."
+    m "Il me suivit lentement et d'assez loin, tout en se faisant le plus discret possible alors que je rentrais dans le bâtiment. "
 
 # game/bryce5.rpy:224
 translate french bryce5_c18f7e9b:
 
     # m "Inside, I was met with a long, illuminated hallway that was lined with doors on both sides."
-    m "En entrant dans le complexe, je me suis retrouvé dans un long couloir éclairé. De chaque côté, plusieurs portes."
+    m "En entrant dans le complexe, je me retrouvai dans un long couloir éclairé. De chaque côté, plusieurs portes."
 
 # game/bryce5.rpy:234
 translate french _call_sincethelightswerealreadyon_abca1806:
@@ -412,19 +412,19 @@ translate french _call_sincethelightswerealreadyon_abca1806:
 translate french _call_sincethelightswerealreadyon_f7220826:
 
     # m "Suddenly, Bryce was standing next to me."
-    m "Soudain, j'ai vu Bryce arriver à mes côtés."
+    m "Soudain, je vis Bryce arriver à mes côtés."
 
 # game/bryce5.rpy:244
 translate french _call_sincethelightswerealreadyon_4fc6d998:
 
     # Rz angry "Now you're showing your true colors, [player_name]."
-    Rz angry "Maintenant tu te montre sous ton vrai profil, [player_name]."
+    Rz angry "Maintenant, tu te montres sous ton vrai jour, [player_name]."
 
 # game/bryce5.rpy:246
 translate french _call_sincethelightswerealreadyon_3346b49e:
 
     # c "No, Reza. You did. I was willing to talk this out."
-    c "Non Reza. Mais toi oui, alors que j'étais encore prêt à négocier."
+    c "Non, Reza. Mais toi oui, alors que j'étais encore prêt à négocier."
 
 # game/bryce5.rpy:248
 translate french _call_sincethelightswerealreadyon_8d208814:
@@ -448,7 +448,7 @@ translate french _call_sincethelightswerealreadyon_587ed086:
 translate french _call_sincethelightswerealreadyon_02ae96ff:
 
     # Br "I wouldn't be so sure of that."
-    Br "J'en s'rais pas si sur à ta place, demi portion."
+    Br "J'en s'rais pas si sûr à ta place, demi-portion."
 
 # game/bryce5.rpy:262
 translate french _call_sincethelightswerealreadyon_32c0c4dc:
