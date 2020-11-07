@@ -28,19 +28,19 @@ translate french bryce2_cf7889cb:
 translate french bryce2_7dbf87ab:
 
     # c "Never mind. I thought something was off, but that's how you always look."
-    c "Nan, rien. Je pensais qu'il y avait un truc de travers mais nan, c'est toujours la même."
+    c "Non, rien. Je pensais qu'il y avait un truc de travers mais non, c'est toujours la même."
 
 # game/bryce2.rpy:63
 translate french bryce2_47b51bf7:
 
     # Br "Just come inside."
-    Br "Ouais... Entre."
+    Br "Mouais... Entre."
 
 # game/bryce2.rpy:70
 translate french bryce2_c87a0ae5:
 
     # c "Wait a minute, something seems different here..."
-    c "Attends, y a un truc qui a changé ici..."
+    c "Attends, il y a un truc qui a changé ici..."
 
 # game/bryce2.rpy:72
 translate french bryce2_84a6eb8a:
@@ -52,7 +52,7 @@ translate french bryce2_84a6eb8a:
 translate french bryce2_ad350fbf:
 
     # c "Oh, that's it; we're both sober."
-    c "Ah oui ! On est sobres, ce coup ci !"
+    c "Ah oui ! On est sobres, ce coup-ci !"
 
 # game/bryce2.rpy:76
 translate french bryce2_6d9b9885:
@@ -70,7 +70,7 @@ translate french bryce2_f5f7c27d:
 translate french bryce2_21e8e36c:
 
     # Br laugh "Don't mind the chaos, this is just a temporary arrangement."
-    Br laugh "Ne fais pas gaffe au bordel, c'est temporaire."
+    Br laugh "Fais pas attention au bazar, c'est temporaire."
 
 # game/bryce2.rpy:100
 translate french _call_skiptut_6_0ff5f677:
@@ -130,7 +130,7 @@ translate french _call_skipcheck_6_5cc157d3:
 translate french _call_skipcheck_6_eac74d5f:
 
     # Br normal "Heck, no. I could use some good company right now."
-    Br normal "Nan nan ! Au contraire, j'apprécie d'avoir un peu de bonne compagnie en ce moment."
+    Br normal "Non, non ! Au contraire, j'apprécie d'avoir un peu de bonne compagnie en ce moment."
 
 # game/bryce2.rpy:180
 translate french _call_skipcheck_6_e218c569:
@@ -148,7 +148,7 @@ translate french _call_skipcheck_6_697df9e4:
 translate french _call_skipcheck_6_de8c3cfa:
 
     # Br stern "Too many. Each one we find is one too many."
-    Br stern "Beaucoup trop. Et chaque fois qu'on trouve un corps, c'est un décès de trop à ajouter sur la liste."
+    Br stern "Beaucoup trop. Chaque corps qu'on trouve est un de trop."
 
 # game/bryce2.rpy:191
 translate french _call_skipcheck_6_d19f855d:
@@ -220,7 +220,7 @@ translate french _call_skipcheck_6_d2db338a:
 translate french _call_skipcheck_6_aac5d3f8:
 
     # Br laugh "Heh, guess not."
-    Br laugh "Ah ! Pas vraiment non."
+    Br laugh "Ah ! Pas vraiment, non."
 
 # game/bryce2.rpy:259
 translate french _call_skipcheck_6_22f73618:
@@ -244,7 +244,7 @@ translate french _call_skipcheck_6_03afa2cd:
 translate french _call_skipcheck_6_b01d5fdf:
 
     # Br brow "Alright, I'll show you something, but promise me you won't laugh, okay?"
-    Br brow "Hum... Bon okay, je vais te montrer un truc. Mais promets-moi de ne pas te foutre de moi, okay ?"
+    Br brow "Hum... Bon, okay, je vais te montrer un truc. Mais promets-moi de ne pas te moquer de moi, okay ?"
 
 # game/bryce2.rpy:273
 translate french _call_skipcheck_6_7446279f:
@@ -281,7 +281,7 @@ translate french _call_skipcheck_6_4c182947:
 
     # m "From first appearances, I guessed it was a child's first attempt at assembling a model. While the shape was recognizable, there were odd pieces jutting out or not fitting together properly. In some places, globs of dried glue remained from excessive use."
     m "À première vue, je me dis que ce modèle résultait de la première tentative d'un enfant à faire de la maquette. La forme était reconnaissable, mais certaines pièces ne semblaient pas vraiment à leur place."
-    m "Les emboîtements étaient hasardeux, certains morceaux dépassaient, d'autres étaient de travers... À certains endroits, de petits monticules de colle séchée indiquaient un dosage excessif."
+    m "À certains endroits, de petits monticules de colle séchée indiquaient un dosage excessif."
 
 # game/bryce2.rpy:310
 translate french _call_skipcheck_6_6449903f:
@@ -407,7 +407,7 @@ translate french _call_skipcheck_6_fa257366:
 translate french _call_skipcheck_6_20a44318:
 
     # Br normal "Well, some of us can fly, and some of us can run well, but none of us can swim beyond the seas."
-    Br normal "Eh bien, certains d'entre nous peuvent voler, d'autres sont de bons coureurs, mais aucun ne peut nager pas delà les mers."
+    Br normal "Eh bien, certains d'entre nous peuvent voler, d'autres sont de bons coureurs, mais aucun ne peut nager par-delà les mers."
 
 # game/bryce2.rpy:369
 translate french _call_skipcheck_6_8ac9160f:
@@ -510,7 +510,7 @@ translate french _call_skipcheck_6_1eeb503d:
 translate french _call_skipcheck_6_7e66a485:
 
     # c "Don't you technically have four legs?"
-    c "Euh... Tu n'as pas quatre jambes ? D'un point de vue morphologique je parle."
+    c "Euh... Tu n'as pas quatre jambes, techniquement ?"
 
 # game/bryce2.rpy:428
 translate french _call_skipcheck_6_273284ea:
@@ -558,7 +558,7 @@ translate french _call_skipcheck_6_4cb247e4:
 translate french _call_skipcheck_6_5abc3a68:
 
     # m "His forearm shifted, the shape of his muscles changing as they became more defined. In a moment, they were firm and bulging, his scales flaring under the stress and looking as though they might pop off at any moment. It reminded me of a flexing body builder in a skin-tight lycra suit."
-    m "Son avant bras se mit à bouger, la forme de ses muscles changeant au fur et à mesure qu'il forçait. En peu de temps, ils devinrent fermes et bombés, ses écailles se dilatèrent sous l'effet de la pression, et semblaient prête à se détacher à tout moment."
+    m "Son avant bras se mit à bouger, la forme de ses muscles changeant au fur et à mesure qu'il forçait. En peu de temps, ils devinrent fermes et bombés, ses écailles se dilatèrent sous l'effet de la pression, et semblaient prêtes à se détacher à tout moment."
     m "J'eus l'impression d'être face à un culturiste en plein effort dans une combinaison en Lycra moulante."
 
 # game/bryce2.rpy:471
@@ -619,7 +619,7 @@ translate french _call_skipcheck_6_a24a14e3:
 translate french _call_skipcheck_6_918495d2:
 
     # Br stern "Speaking of which, this whole case has been completely insane. Us always a step behind Reza, and Maverick running around trying to catch him himself..."
-    Br stern "D'ailleurs, toute cette affaire est un vrai bordel. Reza a toujours de l'avance et Maverick fait tout son possible pour l'attraper avant nous..."
+    Br stern "D'ailleurs, toute cette affaire est un vrai bazar. Reza a toujours de l'avance et Maverick fait tout son possible pour l'attraper avant nous..."
 
 # game/bryce2.rpy:513
 translate french _call_skipcheck_6_bb227c86:
@@ -643,7 +643,7 @@ translate french _call_skipcheck_6_8b7309d8:
 translate french _call_skipcheck_6_0874e70c:
 
     # c "We had an interesting conversation not too long ago."
-    c "On a eut une conversation intéressante il n'y a pas longtemps, lui et moi."
+    c "On a eu une conversation intéressante il n'y a pas longtemps, lui et moi."
 
 # game/bryce2.rpy:521
 translate french _call_skipcheck_6_607f6682:
@@ -1004,7 +1004,7 @@ translate french bryce2cont2_1175063f:
 translate french bryce2cont2_d950189d:
 
     # Br laugh "Sweet, sweet nectar. Always does its job."
-    Br laugh "Doux, doux nectar alcoolisé. Fait ce que tu as à faire..."
+    Br laugh "Doux, doux nectar alcoolisé. Fais ce que tu as à faire..."
 
 # game/bryce2.rpy:823
 translate french bryce2cont2_faad1838:
@@ -1022,7 +1022,7 @@ translate french bryce2cont2_a6be0acd:
 translate french bryce2cont2_3bb43d93:
 
     # Br laugh "You didn't mind looking when you had the opportunity. It's nothing to be ashamed of."
-    Br laugh "Tu ne t'es pas empêché de le regarder quand j'étais dans la cuisine. T'inquiète, il n'y a pas de quoi avoir honte !"
+    Br laugh "Tu ne t'es pas empêché de le regarder quand j'étais dans la cuisine. Il n'y a pas de quoi avoir honte !"
 
 # game/bryce2.rpy:829
 translate french bryce2cont2_b8271804:
@@ -1034,7 +1034,7 @@ translate french bryce2cont2_b8271804:
 translate french bryce2cont2_244c10ab:
 
     # Br smirk "Believe it or not, but their fitness tips are actually pretty good. The pictures are just a bonus."
-    Br smirk "Crois le ou non, mais leurs conseils sont bons à prendre. Les photos, c'est juste un bonus..."
+    Br smirk "Crois-le ou non, mais leurs conseils sont bons à prendre. Les photos, c'est juste un bonus !"
 
 # game/bryce2.rpy:838
 translate french bryce2cont2_9653146f:
@@ -1124,7 +1124,7 @@ translate french bryce2cont2_245cc382:
 translate french bryce2cont2_d2a44655:
 
     # Br laugh "It's not really my kind of thing."
-    Br laugh "Nan, c'est pas mon genre."
+    Br laugh "Non, c'est pas mon genre."
 
 # game/bryce2.rpy:868
 translate french bryce2cont2_5cce87e1:
@@ -1154,7 +1154,7 @@ translate french bryce2cont2_3f16f074:
 translate french bryce2cont2_8ff0b4c3:
 
     # Br "We get to do strength-based stuff, the flyers get to fly, the runners get to run, and so on."
-    Br "Il y a des épreuves fondées sur la force physique, les ailés ont des épreuves de vol, les véloces ont des épreuves de courses..."
+    Br "Il y a des épreuves fondées sur la force physique, les ailés ont des épreuves de vol, les véloces ont des épreuves de course..."
 
 # game/bryce2.rpy:878
 translate french bryce2cont2_43ae2aa2:
@@ -1268,7 +1268,7 @@ translate french bryce2cont2_254632ef:
 translate french bryce2cont2_4c34f1c4:
 
     # c "(Alright, here goes nothing.)"
-    c "(D'accord, cette fois ça part en cacahuète...)"
+    c "(Allez, ça passe ou ça casse...)"
 
 # game/bryce2.rpy:954
 translate french bryce2cont2_a9da53c2:
@@ -1280,7 +1280,7 @@ translate french bryce2cont2_a9da53c2:
 translate french bryce2cont2_5c730655:
 
     # c "Told you so."
-    c "Qu'est-ce que je te disais."
+    c "Qu'est-ce que je te disais..."
 
 # game/bryce2.rpy:958
 translate french bryce2cont2_2cc96b43:
@@ -1304,7 +1304,7 @@ translate french bryce2cont2_ed78f42a:
 translate french bryce2cont2_164832a6:
 
     # c "That would be an unusual friendship. Let's just say that displaying that area would usually imply more."
-    c "Ben... à un certain type d'ami alors. Se montrer à quelqu'un implique quelque chose de plus intime."
+    c "A un certain type d'ami, alors. Se montrer à quelqu'un implique quelque chose de plus intime."
 
 # game/bryce2.rpy:966
 translate french bryce2cont2_e9d761e3:
@@ -1484,7 +1484,7 @@ translate french bryce2cont2_4e011412:
 translate french bryce2cont2_d84d6bcf:
 
     # c "No, you've had enough."
-    c "Non, t'en a bu assez."
+    c "Non, t'en as bu assez."
 
 # game/bryce2.rpy:1057
 translate french bryce2cont2_6f771cec:
@@ -1502,7 +1502,7 @@ translate french bryce2cont2_fdc2df57:
 translate french bryce2cont2_3ca32e40:
 
     # Br laugh "I can easily drink another beer without it affecting me."
-    Br laugh "Je peux boire une autre bière sans que ça ne me saoûle, tu sais ?"
+    Br laugh "Je peux boire une autre bière sans que ça ne me saoule, tu sais ?"
 
 # game/bryce2.rpy:1063
 translate french bryce2cont2_09322123:
@@ -1520,7 +1520,7 @@ translate french bryce2cont2_469fd670:
 translate french bryce2cont2_b3d7ee3b:
 
     # c "That's your own fault."
-    c "C'est pour ton bien."
+    c "C'est de ta propre faute."
 
 # game/bryce2.rpy:1069
 translate french bryce2cont2_173e7c36:
@@ -1538,7 +1538,7 @@ translate french bryce2cont2_e69e42b8:
 translate french bryce2cont2_ee1cfc91:
 
     # m "He lunged for it, but I was quick enough to leap away and position the sofa between us, matching his movements as he tried to get around it."
-    m "Il se précipita, mais je le pris de vitesse et sauté derrière le canapé."
+    m "Il se précipita, mais je le pris de vitesse et sautai derrière le canapé."
 
 # game/bryce2.rpy:1075
 translate french bryce2cont2_d2329908:
@@ -1574,7 +1574,7 @@ translate french bryce2cont2_fcaf0fee:
 translate french bryce2cont2_21be6936:
 
     # c "No, the fact that you are getting so worked up about this proves to me that you are the one who is overreacting and that I'm right. You have a drinking problem."
-    c "Nan, au contraire. C'est toi qui t'énerves tout seul là, c'est toi qui a un problème ! T'es alcoolique, Bryce !"
+    c "Non, au contraire. Le fait que tu t'énerves tout seul prouve que [i]tu[/i] as un problème. Tu es alcoolique !"
 
 # game/bryce2.rpy:1087
 translate french bryce2cont2_0e69b7ca:
@@ -1641,7 +1641,7 @@ translate french bryce2cont2_1a3c8116:
 translate french bryce2cont2_35c2ec86:
 
     # m "Once outside, I dumped out the beer and rushed back to my own apartment."
-    m "Une fois dehors, je jetai la bière et me carapattai à mon appartement."
+    m "Une fois dehors, je jetai la bière et me carapatai à mon appartement."
 
 # game/bryce2.rpy:1144
 translate french bryce2cont2_e4525ba7:
@@ -1701,19 +1701,19 @@ translate french bryce2cont2_1b120d85:
 translate french bryce2cont2_d5a6f787:
 
     # c "Actually, I was none of those things. Reza, maybe - but certainly not me."
-    c "C'est à dire que... je n'étais rien de tout ça en fait. Reza avait peut-être un poste du genre, mais pas moi non."
+    c "C'est à dire que... je n'étais rien de tout ça en fait. Reza avait peut-être un poste du genre, mais moi, non."
 
 # game/bryce2.rpy:1171
 translate french bryce2cont2_0401c90e:
 
     # Br "I guess it's not like you needed ambassadors to represent humanity before, right? That makes this whole process a first, unless you had aliens show up at your place before."
-    Br "En fait, c'est pas comme si vous aviez déjà eu besoin d'ambassadeur avant n'est-ce pas ? Tout ça est une première pour vous aussi, sauf si vous avez déjà eu faire avec des aliens."
+    Br "En fait, c'est pas comme si vous aviez déjà eu besoin d'ambassadeur avant,n'est-ce pas ? Tout ça est une première pour vous aussi, sauf si vous avez déjà eu faire avec des aliens."
 
 # game/bryce2.rpy:1173
 translate french bryce2cont2_23bbf6b1:
 
     # c "It's funny that you say that, because for a while there actually was speculation that you were aliens."
-    c "C'est marrant que tu dises ça, parce qu'on s'est dit durant un certain temps que vous en étiez, des extraterrestres."
+    c "C'est marrant que tu dises ça, parce qu'on s'est dit durant un certain temps que vous [i]étiez[/i] des extraterrestres."
 
 # game/bryce2.rpy:1175
 translate french bryce2cont2_2e42d7f3:
@@ -1821,13 +1821,13 @@ translate french bryce2cont2_feed6cdd:
 translate french bryce2cont2_e50d187e:
 
     # Br "You work with the police long enough, you learn not to have any preconceived notions about such things. Take things as they are and do what's necessary."
-    Br "Quand tu travailles avec la police depuis aussi longtemps que moi, tu apprends à rester neutre sur ce genre d'affaire. Tu prends les choses comme elles sont, et tu fais ce qu'il y a à faire."
+    Br "Quand tu travailles avec la Police depuis aussi longtemps que moi, tu apprends à rester neutre sur ce genre d'affaire. Tu prends les choses comme elles sont, et tu fais ce qu'il y a à faire."
 
 # game/bryce2.rpy:1211
 translate french bryce2cont2_a881910f:
 
     # c "I imagine you've seen many things as chief."
-    c "J'imagine que tu en a vu beaucoup depuis que tu es dans la police."
+    c "J'imagine que tu en a vu beaucoup depuis que tu es dans la Police."
 
 # game/bryce2.rpy:1213
 translate french bryce2cont2_54870d37:
@@ -1863,7 +1863,7 @@ translate french bryce2cont2_93ad5deb:
 translate french bryce2cont2_ff80205a:
 
     # c "Not really."
-    c "Euh... nan."
+    c "Euh... non, pas vraiment."
 
 # game/bryce2.rpy:1236
 translate french bryce2cont2_0f5eb9e8:
@@ -1989,13 +1989,13 @@ translate french bryce2skip_3ce641a1:
 translate french bryce2skip_119405cf:
 
     # c "Two can play that game."
-    c "Okay, alors on va jouer."
+    c "Si tu veux jouer à ce jeu-là, c'est parti."
 
 # game/bryce2.rpy:1355
 translate french bryce2skip_61e275bd:
 
     # c "No offense, but the only problem worse than your weight is your alcoholism."
-    c "Sans t'offenser, chef, non seulement t'es gros, mais le pire c'est que t'es alcolo."
+    c "Sans t'offenser, chef, non seulement t'es gros, mais le pire c'est que t'es alcoolo."
 
 # game/bryce2.rpy:1357
 translate french bryce2skip_b4168310:
@@ -2013,13 +2013,13 @@ translate french bryce2skip_72c88b3c:
 translate french bryce2skip_d819a5c6:
 
     # Br brow "After saying something like that, you still don't think you're a jerk?"
-    Br brow "Et maintenant que t'as dit ça, t'as toujours pas l'impression d'être une tête de con ?"
+    Br brow "Et maintenant que t'as dit ça, t'as toujours pas l'impression d'être casse-queue ?"
 
 # game/bryce2.rpy:1363
 translate french bryce2skip_64e78033:
 
     # c "Maybe you should just stick to your chief of police thing."
-    c "Okay, tu sais quoi, tu sera pas mon pote, nan. Tu va rester le \"chef de la police\", okay ?"
+    c "Tu sais quoi, reste le \"Chef de la Police\", ce sera mieux."
 
 # game/bryce2.rpy:1365
 translate french bryce2skip_7bce1b65:
@@ -2147,11 +2147,11 @@ translate french strings:
 
     # bryce2.rpy:475
     old "Color me impressed."
-    new "Impressionnant comme tes muscles bougent."
+    new "Je suis impressionné !"
 
     # bryce2.rpy:475
-    old "[[Lui montrer tes muscles.]"
-    new ""
+    old "[[Flex your own puny muscles.]"
+    new "Bander vos muscles chétifs."
 
     # bryce2.rpy:475
     old "What a waste of time."
