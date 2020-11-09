@@ -1001,19 +1001,19 @@ translate frenchtl _call_skipcheck_15_8fdb0c31:
 translate frenchtl _call_skipcheck_15_0bf6edf6:
 
     # Kv ramble "That's why you'll also find this kind of knowledge to be incredibly helpful even when you are a manager or in sales, because those jobs require empathy and an understanding of your client's needs."
-    Kv ramble "C'est pourquoi ce genre de savoir est incroyablement utile même quand tu es manager ou dans le domaine de la vente, parce que ces métiers nécessitent de l'empathie et la compréhension des besoins du client."
+    Kv ramble "C'est pourquoi ce genre de connaissances est incroyablement utile même quand tu es manager ou dans le domaine de la vente, parce que ces métiers nécessitent de l'empathie et la compréhension des besoins du client."
 
 # game/xkevin.rpy:459
 translate frenchtl _call_skipcheck_15_5853defd:
 
     # Kv normal "Understanding people is just something that can come in handy pretty much wherever you go, and that's what psychology is all about."
-    Kv normal "Comprendre les gens c'est quelque chose qui peut se révéler utile presque partout où tu vas, c'est ça la psychologie"
+    Kv normal "Comprendre les gens c'est quelque chose qui peut se révéler utile presque partout où tu vas, c'est ça la psychologie."
 
 # game/xkevin.rpy:461
 translate frenchtl _call_skipcheck_15_bf57769b:
 
     # Kv ramble "Even in video games, psychology is a factor. Horror games are an obvious example, but also with tutorials or UI design and how people interact with your game, psychology and player expectations are always going to be a factor."
-    Kv ramble "Même dans les jeux-vidéos, la psychologie est un facteur. Les jeux d'horreur sont un exemple évident, mais il y a aussi les tutoriels ou le style d'interface et comment les gens interagissent avec le jeu, la psychologie et les attentes du joueur seront toujours un facteur."
+    Kv ramble "Même dans les jeux-vidéos, la psychologie est un facteur. Les jeux d'horreur en sont un exemple évident, mais il y a aussi les tutoriels ou le style d'interface et comment les gens interagissent avec ton jeu, la psychologie et les attentes du joueur seront toujours un facteur."
 
 # game/xkevin.rpy:463
 translate frenchtl _call_skipcheck_15_35d0da92:
@@ -1025,7 +1025,7 @@ translate frenchtl _call_skipcheck_15_35d0da92:
 translate frenchtl _call_skipcheck_15_05e756d7:
 
     # Kv normal "Out here, I think a lot could still be done to improve the image of the field, you know."
-    Kv normal "Par ici, j'ai l'impression qu'il y a encore beaucoup à faire, tu sais."
+    Kv normal "Par ici, j'ai l'impression qu'il y a encore beaucoup à faire pour améliorer l'image de cette discipline, tu sais."
 
 # game/xkevin.rpy:467
 translate frenchtl _call_skipcheck_15_bb00a52c:
@@ -1055,7 +1055,7 @@ translate frenchtl _call_skipcheck_15_b9283861:
 translate frenchtl _call_skipcheck_15_bd9132ce:
 
     # Kv face "Me? Honestly, I don't know if I could tackle a big issue like that. It's good for me that psychology is such a diverse field, because I'm not quite sure where I'm going with it yet, or what particular job I'd like to have after I'm done with my studies."
-    Kv face "Moi ? Honnêtement, je ne sais pas si j'arriverais à résoudre un si gros problème. Je trouve que c'est une bonne chose que la psychologie soit un domaine si varié, car je ne sais pas vraiment vers quel domaine m'orienter, ou quel métier particulier je voudrais faire après mes études."
+    Kv face "Moi ? Honnêtement, je ne sais pas si j'arriverais à résoudre un si gros problème. Je trouve que c'est une bonne chose que la psychologie soit un domaine si varié, car je ne sais pas vraiment vers quel domaine m'orienter, ou quel métier je voudrais faire après mes études."
 
 # game/xkevin.rpy:477
 translate frenchtl _call_skipcheck_15_c143c549:
@@ -1067,13 +1067,13 @@ translate frenchtl _call_skipcheck_15_c143c549:
 translate frenchtl _call_skipcheck_15_62eb7645:
 
     # Kv brow "Yep. Before I came here for my summer job, I was interning at a psychotherapist's office for a month. I got to hear about some very interesting and also tragic cases."
-    Kv brow "Yep. Avant de venir ici pour mon travail d'été, j'étais en stage avec un psychothérapeute pendant un mois. J'ai eu connaissances de cas très intéressants et d'autres tragiques."
+    Kv brow "Yep. Avant de venir ici pour mon job d'été, j'étais en stage avec un psychothérapeute pendant un mois. J'ai eu connaissances de cas très intéressants et d'autres tragiques."
 
 # game/xkevin.rpy:481
 translate frenchtl _call_skipcheck_15_5cd3c871:
 
     # Kv "I thought I wanted to help people with issues like that, but sometimes it's pretty hard not to be affected too much by those stories, so I'm not sure if that's the right job for me."
-    Kv "Je pensais que je voulais aider les gens avec ce genre de problèmes, mais parfois c'est plutôt dur de ne pas être affecté soi-même par ces histoires, donc je ne suis pas sûr que ce soit le bon métier pour moi."
+    Kv "Je pensais que je voulais aider les gens avec ce genre de problèmes, mais parfois c'est plutôt dur de ne pas être affecté soi-même par ces histoires, du coup je ne suis pas sûr que ce soit le bon métier pour moi."
 
 # game/xkevin.rpy:483
 translate frenchtl _call_skipcheck_15_125ed73b:
@@ -1121,13 +1121,13 @@ translate frenchtl _call_skipcheck_15_fa8c463f:
 translate frenchtl _call_skipcheck_15_7306a3ef:
 
     # c "Who knows, maybe one of those people you handed a flier will one day turn out to be famous for their work."
-    c "Qui sait, peut-être que l'une de ces personnes auxquelles tu as donné un prospectus deviendra célèbre par par travail."
+    c "Qui sait, peut-être que l'une de ces personnes auxquelles tu as donné un prospectus deviendra célèbre pour son travail."
 
 # game/xkevin.rpy:499
 translate frenchtl _call_skipcheck_15_f8ef3ffa:
 
     # Kv normal "Now, I think that's a little too idealistic, but I get your point."
-    Kv normal "Et bien, je trouve ça un peu trop idéaliste, mais je vois ce que tu veux dire."
+    Kv normal "Eh bien, je trouve ça un peu trop idéaliste, mais je vois ce que tu veux dire."
 
 # game/xkevin.rpy:501
 translate frenchtl _call_skipcheck_15_eba9e4b0:
@@ -1157,7 +1157,7 @@ translate frenchtl _call_skipcheck_15_7da8d073:
 translate frenchtl _call_skipcheck_15_bb00a52c_1:
 
     # c "What do you mean?"
-    c "C'est-à-dire ?"
+    c "Que veux-tu dire ?"
 
 # game/xkevin.rpy:511
 translate frenchtl _call_skipcheck_15_170fea27:
@@ -1175,7 +1175,7 @@ translate frenchtl _call_skipcheck_15_ca753718:
 translate frenchtl _call_skipcheck_15_5a192223:
 
     # c "Well, I don't like talking about myself all that much, and I think there are some things that are better left unsaid."
-    c "Et bien, je n'aime pas vraiment parler de moi-même, et je pense qu'il-y-a quelques trucs qu'il ne vaut mieux pas raconter."
+    c "Eh bien, je n'aime pas vraiment parler de moi-même, et je pense qu'il y a quelques trucs qu'il ne vaut mieux pas raconter."
 
 # game/xkevin.rpy:517
 translate frenchtl _call_skipcheck_15_0f6f27f2_1:
@@ -1223,13 +1223,13 @@ translate frenchtl _call_skipcheck_15_ba9a9d2a:
 translate frenchtl _call_skipcheck_15_fb5f6d40:
 
     # c "If I consider all the good and bad that's happened here since my arrival, it's been a vacation compared to home, and it looks like the vacation might come to an end soon."
-    c "En considérant les bonnes et mauvaises choses qui sont arrivées ici depuis mon arrivée, c'était plûtot des vacances comparé à là où je vis, et on dirait bien que ces vacances prendront bientôt fin."
+    c "En considérant les bonnes et mauvaises choses qui sont arrivées ici depuis mon arrivée, c'était plûtot des vacances comparées à là où je vis, et on dirait bien que ces vacances prendront bientôt fin."
 
 # game/xkevin.rpy:533
 translate frenchtl _call_skipcheck_15_278b2d50:
 
     # c "I dont know whats going to happen after that. I can only hope my visit here will have started something that will mean change for our world, but I'm not sure if that's going to happen."
-    c "Je ne sais pas ce qu'il se passera après ça. Je peux juste espérer que ma visite ici aura déclenché quelque chose qui aura un changement significatif pour notre monde, mais je ne suis pas sûr que ça arrivera."
+    c "Je ne sais pas ce qu'il se passera après ça. Je peux juste espérer que ma visite ici aura déclenché quelque chose qui aura un changement significatif pour notre monde, mais je n'ai pas la certitude que ça arrivera."
 
 # game/xkevin.rpy:535
 translate frenchtl _call_skipcheck_15_4e7ac8ae:
@@ -1265,7 +1265,7 @@ translate frenchtl _call_skipcheck_15_3e56191d:
 translate frenchtl _call_skipcheck_15_f107e073:
 
     # Kv "I hope things can be better for you in the future. I don't think I can do anything to help with that, though."
-    Kv "J'espère que les choses vont s'arranger pour toi dans le futur. par contre, je ne pense pas pouvoir t'aider avec ça."
+    Kv "J'espère que les choses vont s'arranger pour toi dans le futur. Par contre, je ne pense pas pouvoir t'aider avec ça."
 
 # game/xkevin.rpy:567
 translate frenchtl _call_skipcheck_15_b4cd5f81:
@@ -1289,7 +1289,7 @@ translate frenchtl kevinskip_3070bc42:
 translate frenchtl kevinskip_52908f6a:
 
     # Kv normal "Well, it seems like all the hostels are already full. Despite the vetting process for visitors, enough people got in to take all available short-term lodging spots in this town."
-    Kv normal "Et bien, il semble que tous les hôtels soient pleins. Malgré le filtrage des visiteurs, il y a assez de gens pour remplir tous les endroits de logement à court-terme de ce village."
+    Kv normal "Eh bien, il semble que tous les hôtels soient pleins. Malgré le filtrage des visiteurs, il y a assez de gens pour remplir tous les endroits de logement à court-terme de ce village."
 
 # game/xkevin.rpy:581
 translate frenchtl kevinskip_f0b69231:
@@ -1301,7 +1301,7 @@ translate frenchtl kevinskip_f0b69231:
 translate frenchtl kevinskip_6315a73b:
 
     # Kv brow "Yep. Despite only a few people knowing your location, or that of the portal, journalists and tourists are flocking to the towns, hoping to catch a glimpse, or at least find a clue of your whereabouts."
-    Kv brow "Yep. En dépit de quelques gens qui connaissent ta position, ou celle du portail, les journalistes et touristes viennent en masse dans les villages, en espérant avoir un aperçu, ou au moins trouver un indice sur là où tu es."
+    Kv brow "Yep. En dépit de quelques gens qui connaissent ta position, ou celle du portail, les journalistes et touristes viennent en masse dans les villages, en espérant avoir un aperçu, ou au moins trouver un indice sur tes aller et venues."
 
 # game/xkevin.rpy:585
 translate frenchtl kevinskip_90be2249:
@@ -1313,7 +1313,7 @@ translate frenchtl kevinskip_90be2249:
 translate frenchtl kevinskip_6416bef8:
 
     # Kv ramble "Not that I'd mind sleeping in a cave, but for someone like me it's usually something for an adventurous weekend rather than a way of life. And rocks don't exactly make for the best bedding."
-    Kv ramble "Ça ne me dérangerait pas de dormir dans une cave, mais pour quelqu'un comme moi c'est plutôt quelque chose que je fais pendant des weekends aventures plutôt qu'un mode de vie. Et la pierre ne fait pas vraiment bon matelas."
+    Kv ramble "Non pas que ça me dérangerait de dormir dans une grotte, mais pour quelqu'un comme moi c'est plutôt quelque chose que je fais pendant des weekends aventures plutôt qu'un mode de vie. Et la pierre ne fait pas vraiment bon matelas."
 
 # game/xkevin.rpy:595
 translate frenchtl kevinskip_3b6e23e1:
@@ -1349,7 +1349,7 @@ translate frenchtl kevinskip_f125c570:
 translate frenchtl kevinskip_6382e958:
 
     # c "You're not helping your case there. Besides, you won't really find anything special here."
-    c "Tu ne joues pas en ta faveur là. En plus, il n'y à rien d'intéressant à trouver ici."
+    c "Tu ne joues pas en ta faveur là. En plus, il n'y a rien d'intéressant à trouver ici."
 
 # game/xkevin.rpy:607
 translate frenchtl kevinskip_8445c079:
@@ -1391,7 +1391,7 @@ translate frenchtl _call_syscheck_63_bd31438c:
 translate frenchtl _call_syscheck_63_c1c9e899:
 
     # Kv face "Yeah, I should head out before it gets too dark to see anything. This town doesn't really have the best lighting at night, either."
-    Kv face "Ouais, je devrais rentrer avant qu'on y voie plus rien du tout. En plus, ce village n'a pas vraiment les meilleurs éclairages nocturens."
+    Kv face "Ouais, je devrais rentrer avant qu'on y voit plus rien du tout. En plus, ce village n'a pas vraiment les meilleurs éclairages nocturnes."
 
 # game/xkevin.rpy:668
 translate frenchtl _call_syscheck_63_428b6f21:
@@ -1421,7 +1421,7 @@ translate frenchtl _call_syscheck_64_0eec7fa6:
 translate frenchtl _call_syscheck_64_51d63611:
 
     # s "You just met with Kevin and learned a lot about city and college life. I don't know what else to say about this."
-    s "Vous avez rencontré Kevin et appris beaucoup sur la ville ainsi que la vie universitaire. Je ne vois pas quoi ajouter."
+    s "Vous avez rencontré Kevin et appris beaucoup sur la ville ainsi que la vie universitaire. Je ne vois pas quoi ajouter d'autre."
 
 translate frenchtl strings:
 
