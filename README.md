@@ -49,7 +49,7 @@ anna4 ✔✔<br/>
 bryce4 ✔✔<br/>
 lorem4 ✔✔<br/>
 remy4 ✔<br/>
-xkevin ✔<br/>
+xkevin ✔✔<br/>
 chapter5 ✔✔<br/>
 chapter5evilending ✔<br/>
 adine5 ✔✔<br/>
