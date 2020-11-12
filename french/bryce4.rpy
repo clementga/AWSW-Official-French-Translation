@@ -1826,7 +1826,7 @@ translate french b4romance_c6082785:
 translate french b4romance_4205ca82:
 
     # c "Oh my."
-    c "Oh, putain..."
+    c "Oh là là..."
 
 # game/bryce4.rpy:934
 translate french b4romance_af190016_1:
