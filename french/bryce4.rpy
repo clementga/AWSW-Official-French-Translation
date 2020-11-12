@@ -1404,7 +1404,7 @@ translate french bryce4skip_aaec59ad:
 translate french bryce4skip_9ea031cb:
 
     # Br brow "Seriously, don't worry about him. Don't base your opinion of him solely on that incident at the portal."
-    Br brow "Nan sérieux, ne t'inquiète pas pour lui. Ne t'arrête pas sur ce qui s'est passé au portail pour le juger."
+    Br brow "Non, sérieux, ne t'inquiète pas pour lui. Ne t'arrête pas sur ce qui s'est passé au portail pour le juger."
 
 # game/bryce4.rpy:634
 translate french bryce4skip_b258cf58:
@@ -1422,7 +1422,7 @@ translate french bryce4skip_2d0667f2:
 translate french bryce4skip_25cfb626:
 
     # Br brow "No matter his reasons, do you really think you want to defend Reza's actions like that?"
-    Br brow "Peu importe ses raisons. Tu penses vraiment vouloir défendre les conneries de Reza de cette manière ?"
+    Br brow "Peu importe ses raisons. Tu penses vraiment vouloir défendre Reza de cette manière ?"
 
 # game/bryce4.rpy:640
 translate french bryce4skip_a9f34c76:
@@ -1458,7 +1458,7 @@ translate french bryce4skip_7aab9c9d:
 translate french bryce4skip_2dd28c6a:
 
     # c "You wanted to get out of your apartment, and rather than go to the festival, you came here?"
-    c "Tu voulais t'échapper de ta piaule, et au lieu d'aller au festival, tu viens ici ?"
+    c "Tu voulais t'échapper de ton taudis, et au lieu d'aller au festival, tu viens ici ?"
 
 # game/bryce4.rpy:654
 translate french bryce4skip_d78c9aa4:
@@ -1482,7 +1482,7 @@ translate french bryce4skip_3ff56660:
 translate french bryce4skip_d3f600c6:
 
     # Br normal "No. They have a fireworks show every evening. Nobody really even cares about the first couple of days. It's only on the last day when they bring out the big ones. I usually watch those."
-    Br normal "Nan, ils font de petits feux d'artifice tous les soirs. C'est pas ceux-là les plus importants, nan, c'est le dernier soir qu'ils mettent la sauce. D'habitude, je les regarde."
+    Br normal "Non, ils font de petits feux d'artifice tous les soirs. C'est pas ceux-là les plus importants, non, c'est le dernier soir qu'ils mettent la sauce. D'habitude, je les regarde."
 
 # game/bryce4.rpy:662
 translate french bryce4skip_8514adf0:
@@ -1844,7 +1844,7 @@ translate french b4romance_c5c7a6e7_2:
 translate french b4romance_eac23c37:
 
     # c "No, that was fine. Don't stop."
-    c "Nan, nan. Tout va bien même, tu peux continuer."
+    c "Non, non. Tout va bien même, tu peux continuer."
 
 # game/bryce4.rpy:942
 translate french b4romance_1b6b348a:
@@ -1856,7 +1856,7 @@ translate french b4romance_1b6b348a:
 translate french b4romance_2655a818:
 
     # c "Not like that."
-    c "Pas comme ça, nan."
+    c "Pas comme ça, c'est sûr !"
 
 # game/bryce4.rpy:946
 translate french b4romance_edfb3c62:
