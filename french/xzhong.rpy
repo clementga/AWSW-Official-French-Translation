@@ -23,19 +23,19 @@ translate french zhong_6a6f7d2a:
 translate french _call_skiptut_31_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indiquent que vous avez déjà passé cette scène en ayant obtenu une fin satisfaisante. Souhaitez-vous tout de même la revoir ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
 
 # game/xzhong.rpy:61
 translate french _call_skiptut_31_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semble que vous avez déjà vu cette scène. Je la repasse tout de même ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la fin de cette scène ?"
 
 # game/xzhong.rpy:69
 translate french _call_skiptut_31_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Il s'avère que vous avez déjà vu cela auparavant. Soit vous pouvez le revoir, soit nous pouvons gagner du temps et passer directement à la fin du rendez-vous."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et passer cette scène."
 
 # game/xzhong.rpy:83
 translate french _call_skiptut_31_0054b77b:
@@ -53,7 +53,7 @@ translate french _call_skipcheck_31_0054b77b:
 translate french _call_skipcheck_31_2cc1d0e9:
 
     # m "Suddenly, he grabbed my hand and bowed to plant a wet kiss on it with his snout."
-    m "Il était à peine à ma hauteur, qu'il s'est incliné tout en me prenant la main, approchant son museau pour y déposer un baiser humide."
+    m "Il était à peine à ma hauteur, qu'il s'inclina tout en me prenant la main, pour y déposer de son museau un baiser humide."
 
 # game/xzhong.rpy:117
 translate french _call_skipcheck_31_0b0daba2:
@@ -83,13 +83,13 @@ translate french _call_skipcheck_31_371533e6:
 translate french _call_skipcheck_31_846f4d22:
 
     # c "Where is everyone?"
-    c "Il n'y a personne d'autre que nous ?"
+    c "Il n'y a personne à part nous ?"
 
 # game/xzhong.rpy:130
 translate french _call_skipcheck_31_ebdf485b:
 
     # Zh "Well, the bar is already closed and everybody's gone home, so it's just us."
-    Zh "Vous savez, le bar est fermé, tout le monde est rentré chez lui. Il n'y a que nous."
+    Zh "Eh bien, le bar est déjà fermé, tout le monde est rentré chez soi, donc il n'y a que nous."
 
 # game/xzhong.rpy:132
 translate french _call_skipcheck_31_89aefe22:
@@ -107,7 +107,7 @@ translate french _call_skipcheck_31_ee0aacf5:
 translate french _call_skipcheck_31_ba6d127d:
 
     # Zh smile b "Oh, you're right. Guess we're not alone, then."
-    Zh smile b "Oh, oui en effet. Nous ne sommes pas si seuls visiblement."
+    Zh smile b "Oh, oui en effet. Nous ne sommes pas si seuls que ça on dirait."
 
 # game/xzhong.rpy:138
 translate french _call_skipcheck_31_52471970:
@@ -131,7 +131,7 @@ translate french _call_skipcheck_31_7addedeb:
 translate french _call_skipcheck_31_6f436e31:
 
     # Zh smile b "That's an idea. Maybe then I wouldn't have to work two jobs."
-    Zh smile b "C'est une idée intéressante. Je n'aurais peut-être plus à cumuler deux emplois alors."
+    Zh smile b "C'est une idée intéressante. Je n'aurais peut-être plus à cumuler deux emplois dans ce cas."
 
 # game/xzhong.rpy:146
 translate french _call_skipcheck_31_2c16533e:
@@ -173,7 +173,7 @@ translate french _call_skipcheck_31_8c4f4a51:
 translate french _call_skipcheck_31_6d9b3f2f:
 
     # Zh "The store uniform is just a chore to get on. The hat, the apron - it all feels a bit constricting."
-    Zh "La tenue pour travailler à l'épicerie, c'est plus une corvée de la porter. Le chapeau, le tablier, tout ça, c'est une contrainte pour moi."
+    Zh "La tenue pour travailler à l'épicerie est une vraie corvée à porter. Le chapeau, le tablier, tout ça, c'est contraignant pour moi."
 
 # game/xzhong.rpy:170
 translate french _call_skipcheck_31_62bb089e:
@@ -191,13 +191,13 @@ translate french _call_skipcheck_31_2a7bd759:
 translate french _call_skipcheck_31_86c9ae80:
 
     # m "He was interrupted by a loud snore that came from under the table. When I looked down, I saw it was Bryce turning over in his sleep."
-    m "Nous avons été interompus par un puissant ronflement venant de sous cette table. En y regardant, je me suis rendu compte que Bryce se retournait, il dormait encore."
+    m "Il fut interompus par un ronflement bruyant venant de dessous la table. En y jetant un œil, je me suis rendu compte que c'était Bryce qui se retournait dans son sommeil."
 
 # game/xzhong.rpy:176
 translate french _call_skipcheck_31_c868976d:
 
     # Zh serv b "What, Bryce? You want another beer? Sorry, mate, but the bar's already closed."
-    Zh serv b "Comment ça Bryce, tu veux encore une bière ? Désolé mon pote, mais on est fermés, tu le sais bien."
+    Zh serv b "Comment ça Bryce, tu veux encore une bière ? Désolé mon pote, mais on est fermé, tu le sais bien."
 
 # game/xzhong.rpy:178
 translate french _call_skipcheck_31_fc063967:
@@ -239,7 +239,7 @@ translate french _call_skipcheck_31_3faebf51:
 translate french _call_skipcheck_31_ec6e3488:
 
     # Zh normal b "Since childhood, really. We both grew up here."
-    Zh normal b "Depuis qu'on est gosses en fait. On a grandit ici tous les deux."
+    Zh normal b "Depuis qu'on est gosses en fait. On a grandi ici tous les deux."
 
 # game/xzhong.rpy:203
 translate french _call_skipcheck_31_392c8ea9:
@@ -251,7 +251,7 @@ translate french _call_skipcheck_31_392c8ea9:
 translate french _call_skipcheck_31_2346ca12:
 
     # Zh normal b "But you can rely on him for anything. I'd trust him with my life."
-    Zh normal b "Malgré ça c'est quelqu'un en qui on peut réellement compter. Je lui confierais ma vie s'il le fallait."
+    Zh normal b "Malgré ça c'est quelqu'un sur qui on peut réellement compter. Je lui confierais ma vie s'il le fallait."
 
 # game/xzhong.rpy:207
 translate french _call_skipcheck_31_b8b32ad9:
@@ -269,13 +269,13 @@ translate french _call_skipcheck_31_7b1cc9c3:
 translate french _call_skipcheck_31_e0cb7d1b:
 
     # Zh normal b "The things he's done for me personally were way beyond his duties. The mark of a true friend."
-    Zh normal b "Tout ce qu'il a fait pour moi a été bien au delà de son devoir en tant qu'agent. Un véritable ami en tout point."
+    Zh normal b "Tout ce qu'il a fait pour moi a été bien au delà de son devoir en tant qu'officier. Un véritable ami en tout point."
 
 # game/xzhong.rpy:213
 translate french _call_skipcheck_31_f5fc3600:
 
     # c "What did he do?"
-    c "Ah oui ? Je suis curieux."
+    c "Qu'est-ce qu'il a fait ?"
 
 # game/xzhong.rpy:215
 translate french _call_skipcheck_31_012f5987:
