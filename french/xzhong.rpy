@@ -305,19 +305,19 @@ translate french _call_skipcheck_31_76b2fe88:
 translate french _call_skipcheck_31_b74e5a55:
 
     # n "I was adopted when I was merely a hatchling. It's really not a big deal to me and never really came as a surprise to anyone, considering my parents aren't even the same species as me."
-    n "J'ai été adopté alors que j'étais encore bébé. Ça ne m'a jamais vraiment dérangé, et personne n'en a été surpris, étant donné que mes parents adoptifs ne sont pas de la même espèce que moi."
+    n "Je fus adopté alors que je n'étais encore qu'un bébé. Ça ne m'a jamais vraiment dérangé, et personne n'était surpris, étant donné que mes parents adoptifs n'était pas de la même espèce que moi."
 
 # game/xzhong.rpy:233
 translate french _call_skipcheck_31_6e347fe4:
 
     # n "My family isn't originally from around here. When I was eight years old, my father got a job here, so we relocated."
-    n "Ma famille n'est pas d'ici cependant. Quand j'avais huit ans, mon père a trouvé un travail dans cette ville, et nous nous y sommes installés."
+    n "Ma famille n'était pas d'ici cependant. Quand j'avais huit ans, mon père avait trouvé un travail dans cette ville, et nous nous y installâmes."
 
 # game/xzhong.rpy:235
 translate french _call_skipcheck_31_b958eb09:
 
     # n "Moving across the continent meant losing all my friends, and making new ones wasn't so easy for me. I was young, and new, and just a little scared."
-    n "J'ai perdu tous mes amis en démémageant. M'en faire de nouveau n'a pas été facile, j'étais jeune, et un peu effrayé par le fait que j'étais le petit nouveau."
+    n "Je perdis tous mes amis en démémageant. M'en faire de nouveau ne fut pas facile non plus, j'étais jeune, et un peu effrayé par le fait que j'étais le petit nouveau."
 
 # game/xzhong.rpy:239
 translate french _call_skipcheck_31_76b2fe88_1:
@@ -329,20 +329,19 @@ translate french _call_skipcheck_31_76b2fe88_1:
 translate french _call_skipcheck_31_a2734d1a:
 
     # n "Even back then, Bryce was a very curious fella, especially when other people were involved. He came up to me in school, introduced himself, and we've been friends ever since."
-    n "Déjà à l'époque, Bryce était quelqu'un de très curieux surtout lorsqu'il s'agissait des autres. Il a fait le premier pas, nous nous sommes présentés l'un à l'autre et nous sommes restés amis depuis."
+    n "Déjà à l'époque, Bryce était quelqu'un de très curieux surtout lorsqu'il s'agissait des autres. Il fit le premier pas, nous nous présentâmes l'un à l'autre et nous restâmes amis depuis."
 
 # game/xzhong.rpy:245
 translate french _call_skipcheck_31_5a498575:
 
     # n "Many years later, Bryce was already on the force and my desire to find my biological parents had grown so much that I made some efforts to find them."
-    n "Des années après, mon désir de retrouver mes parents biologique était devenu l'un de mes objectifs, et j'ai commencer à me pencher sérieusement sur la chose."
-    n "Quant à Bryce, à ce moment, cela faisait déjà quelques années qu'il était dans la police."
+    n "Des années après, Bryce était déjà officier et mon désir de trouver mes parents biologiques devint si viscéral que je me mis à les chercher activement."
 
 # game/xzhong.rpy:247
 translate french _call_skipcheck_31_19fba955:
 
     # n "Bryce pulled a few strings, and with his help, I was able to track them down. He even accompanied me on the trip."
-    n "Il s'est servi de ses relations et avec son aide, j'ai réussi à les retrouver. Il a été jusqu'à m'accompagner pour les retrouver."
+    n "Il se servis de ses relations et avec son aide, je réussis à les retrouver. Il prit même la route avec moi."
 
 # game/xzhong.rpy:251
 translate french _call_skipcheck_31_76b2fe88_2:
@@ -354,13 +353,13 @@ translate french _call_skipcheck_31_76b2fe88_2:
 translate french _call_skipcheck_31_664544d7:
 
     # Br "Do you want me to come inside as well?"
-    Br "Tu veux que je t'accompagne jusqu'à la porte ?"
+    Br "Tu veux que je rentre avec toi ?"
 
 # game/xzhong.rpy:257
 translate french _call_skipcheck_31_bba5d74b:
 
     # Zh "No, just stay here, alright?"
-    Zh "Non, je t'en prie reste à l'écart."
+    Zh "Non, Tu peux juste rester ici."
 
 # game/xzhong.rpy:259
 translate french _call_skipcheck_31_065c54b5:
@@ -372,7 +371,7 @@ translate french _call_skipcheck_31_065c54b5:
 translate french _call_skipcheck_31_5456f029:
 
     # m "I mustered all my courage and went up to the door of their run-down home."
-    m "J'ai réuni tout mon courage et suis allé jusqu'à la porte de leur taudis."
+    m "Je rassemblai tout mon courage et allai jusqu'à la porte de leur taudis."
 
 # game/xzhong.rpy:271
 translate french _call_skipcheck_31_b221b37d:
@@ -408,7 +407,7 @@ translate french _call_skipcheck_31_06613f18:
 translate french _call_skipcheck_31_56f87329:
 
     # "Resident" "You know what? I'm not dealing with this right now. We didn't give you away just so you could show up whenever you please."
-    "Résident" "Eh, t'sais quoi ? J'en ai rien à foutre aujourd'hui. On s'est pas débarassé de toi pour te laisser revenir ici quand bon te semble !"
+    "Résident" "Eh, t'sais quoi ? J'en ai plus rien à foutre aujourd'hui. On s'est pas débarassé de toi pour te laisser revenir ici quand bon te semble."
 
 # game/xzhong.rpy:283
 translate french _call_skipcheck_31_fb9a3bff:
@@ -426,7 +425,7 @@ translate french _call_skipcheck_31_f984fef8:
 translate french _call_skipcheck_31_9155ea50:
 
     # m "He turned around and went back inside. Just as he was about to close the door again, another person appeared next to him."
-    m "Sur ses mots, il est retourné à l'intérieur. Mais il n'a pas eut le loisir de fermer la porte cependant, quelqu'un d'autre l'en a empêché."
+    m "Sur ses mots, il est retourné à l'intérieur. Mais il n'eut pas le loisir de fermer la porte cependant, quelqu'un d'autre l'en empêcha."
 
 # game/xzhong.rpy:289
 translate french _call_skipcheck_31_dae933e9:
@@ -480,7 +479,7 @@ translate french _call_skipcheck_31_872c8419:
 translate french _call_skipcheck_31_70641ec9:
 
     # Xu "Maybe he's not ready yet."
-    Xu "Il n'est peut-être pas encore prêt..."
+    Xu "Il n'est peut-être pas encore prêt."
 
 # game/xzhong.rpy:331
 translate french _call_skipcheck_31_82fa358c:
@@ -498,7 +497,7 @@ translate french _call_skipcheck_31_9aa3069e:
 translate french _call_skipcheck_31_05081fac:
 
     # Zh "I guess 20 years isn't long enough."
-    Zh "Je suppose que vingt ans, ce n'est pas assez long pour lui pour être prêt à rencontrer son fils."
+    Zh "Je suppose que vingt ans, ce n'est pas assez de temps."
 
 # game/xzhong.rpy:339
 translate french _call_skipcheck_31_6bcd9523:
@@ -540,7 +539,7 @@ translate french _call_skipcheck_31_c8dc56bd:
 translate french _call_skipcheck_31_492e2714:
 
     # m "She got up, walked away from the table and vanished into a different room. Huang Fu was sitting on a couch nearby in front of the TV, his eyes glued to the screen."
-    m "Elle s'est levée, s'est éloigné jusqu'à disparaître dans une autre pièce. Huang Fu était assis dans le canapé non loin de moi, ses yeux rivés sur son écran de télé."
+    m "Elle se leva et s'éloigna jusqu'à disparaître dans une autre pièce. Huang Fu était assis dans le canapé non loin de moi, ses yeux rivés sur la télé."
 
 # game/xzhong.rpy:355
 translate french _call_skipcheck_31_af327d4e:
@@ -612,7 +611,7 @@ translate french _call_skipcheck_31_833cc401_2:
 translate french _call_skipcheck_31_585098ba:
 
     # Zh "I just brought enough for the trip back home. I don't think that..."
-    Zh "J'ai juste ce qu'il faut pour retourner chez moi. Je ne pense pas que -"
+    Zh "J'ai juste ce qu'il faut pour retourner chez moi. Je ne pense pas que..."
 
 # game/xzhong.rpy:381
 translate french _call_skipcheck_31_92b73a04:
@@ -648,25 +647,25 @@ translate french _call_skipcheck_31_9fc171d7:
 translate french _call_skipcheck_31_a3146be9:
 
     # Hu "And don't even think of coming back. How dare you come here and disturb us like that!" with Shake((0, 0, 0, 0), 2, dist=10)
-    Hu "Et ne pense pas à revenir ici ! Tu nous as déjà suffisament fait de mal comme ça !" with Shake((0, 0, 0, 0), 2, dist=10)
+    Hu "Et ne pense pas à revenir ici. Comment oses-tu te ramener et foutre le bordel comme ça !" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/xzhong.rpy:399
 translate french _call_skipcheck_31_c24f31c1:
 
     # Br "Is there a problem here, sir?"
-    Br "Hé, il y a un problème, monsieur ?"
+    Br "Il y a un problème, monsieur ?"
 
 # game/xzhong.rpy:401
 translate french _call_skipcheck_31_90a63059:
 
     # Hu "Who the heck are you?"
-    Hu "Mais vous êtes qui, vous ?"
+    Hu "Vous êtes qui, vous ?"
 
 # game/xzhong.rpy:403
 translate french _call_skipcheck_31_e1b01968:
 
     # Br "Police. It sounds like you might have some trouble here. Perhaps of a domestic nature?"
-    Br "Police. On dirait que quelque chose ne va pas ici ? Une altercation peut-être ?"
+    Br "Police. On dirait que quelque chose ne va pas ici. Violences conjugales peut-être ?"
 
 # game/xzhong.rpy:405
 translate french _call_skipcheck_31_4fe89483:
@@ -678,13 +677,13 @@ translate french _call_skipcheck_31_4fe89483:
 translate french _call_skipcheck_31_dd5e3cdf:
 
     # Xu "I'm sorry, Zhong. He doesn't know what he's doing."
-    Xu "Je suis désolée, Zhong. Il ne sait plus ce qu'il dit."
+    Xu "Je suis désolée, Zhong. Il ne sait pas ce qu'il fait."
 
 # game/xzhong.rpy:409
 translate french _call_skipcheck_31_56ee0791:
 
     # Zh "I can see that."
-    Zh "C'est ce que je vois, ouais."
+    Zh "Je peux voir ça."
 
 # game/xzhong.rpy:411
 translate french _call_skipcheck_31_9aa3069e_1:
@@ -696,31 +695,31 @@ translate french _call_skipcheck_31_9aa3069e_1:
 translate french _call_skipcheck_31_8fcbc1dc:
 
     # Zh "Come on, Bryce. Let's go."
-    Zh "C'est bon Bryce, on s'en va. J'en ai fini ici."
+    Zh "C'est bon Bryce, on s'en va."
 
 # game/xzhong.rpy:415
 translate french _call_skipcheck_31_621cb60f:
 
     # Br "You're done?"
-    Br "Hé, ça va ?"
+    Br "Tu as fini ?"
 
 # game/xzhong.rpy:417
 translate french _call_skipcheck_31_5454e280:
 
     # Zh "I think I've seen what I need to."
-    Zh "Ouais, j'en ai vu assez."
+    Zh "Ouais, j'en ai assez vu."
 
 # game/xzhong.rpy:419
 translate french _call_skipcheck_31_467820d0:
 
     # Br "Alright."
-    Br "Comme tu veux."
+    Br "D'accord."
 
 # game/xzhong.rpy:431
 translate french _call_skipcheck_31_089be10a:
 
     # Zh "I cried so much that day."
-    Zh "J'ai tellement pleuré ce jour là..."
+    Zh "J'ai tellement pleuré ce jour là."
 
 # game/xzhong.rpy:433
 translate french _call_skipcheck_31_8fd3f93b:
@@ -738,13 +737,13 @@ translate french _call_skipcheck_31_2c9a69e5:
 translate french _call_skipcheck_31_ad84d042:
 
     # Zh "But, Bryce... He's been there for me when I needed him then, and he's still there today."
-    Zh "Mais, Bryce... Il a toujours été là pour moi quand j'ai eut besoin de lui à l'époque, et même aujourd'hui je peux compter sur lui."
+    Zh "Mais, Bryce... Il a toujours été là pour moi quand j'ai eu besoin de lui à l'époque, et même encore aujourd'hui."
 
 # game/xzhong.rpy:439
 translate french _call_skipcheck_31_606f4300:
 
     # Zh normal b "Well, except for the part where, in a way, he's responsible for the whole town now."
-    Zh normal b "Enfin, ce n'est plus vraiment comme avant maintenant qu'il est responsable de toute la ville."
+    Zh normal b "Enfin, à part pour le fait que maintenant, il est responsable de toute la ville."
 
 # game/xzhong.rpy:441
 translate french _call_skipcheck_31_80355a36:
@@ -762,7 +761,7 @@ translate french _call_skipcheck_31_dbf6de84:
 translate french _call_skipcheck_31_d516f80b:
 
     # Zh serv b "Anyway, let's put on some music. Give the ol' jukebox a little whirl."
-    Zh serv b "Enfin bon, et si on mettais un peu de musique ? Allez mon vieux juke-box, à toi de jouer."
+    Zh serv b "Enfin bon, et si on mettais un peu de musique ? Histoire de faire tourner la vieille juke-box."
 
 # game/xzhong.rpy:447
 translate french _call_skipcheck_31_c48dc32f:
@@ -774,7 +773,7 @@ translate french _call_skipcheck_31_c48dc32f:
 translate french _call_skipcheck_31_3f237d6c:
 
     # m "He got up and walked over to the jukebox in the corner to look at the selection."
-    m "Il s'est levé et s'est dirigé vers le juke-box pour regarder ce qu'il pouvait mettre."
+    m "Il se leva et se diriga vers la juke-box pour regarder la sélection de morceaux."
 
 # game/xzhong.rpy:455
 translate french _call_skipcheck_31_4dd16606:
