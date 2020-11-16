@@ -791,7 +791,7 @@ translate french _call_skipcheck_31_35985209:
 translate french _call_skipcheck_31_484a7cda:
 
     # Zh "Actually, I'm not sure if your music is in any way similar to ours."
-    Zh "Quoi que, je ne suis même pas sûr que notre musique ressemble vraiment à la vôtre."
+    Zh "En fait, je ne suis même pas sûr que notre musique ressemble vraiment à la vôtre."
 
 # game/xzhong.rpy:463
 translate french _call_skipcheck_31_c7e0e48f:
@@ -809,25 +809,25 @@ translate french _call_skipcheck_31_c48dc32f_1:
 translate french _call_skipcheck_31_168f555e:
 
     # Zh normal b "Feel free to pick anything that strikes your fancy."
-    Zh normal b "Je vous laisse choisir."
+    Zh normal b "N'hésitez pas à choisir celle qui vous attire le plus."
 
 # game/xzhong.rpy:502
 translate french _call_syscheck_109_38384b6d:
 
     # s "You listened to a bunch of music!"
-    s "Vous avez écouté un tas de musique !"
+    s "Vous avez écouté un brin de musique !"
 
 # game/xzhong.rpy:506
 translate french _call_syscheck_109_8d68e2f5:
 
     # s "You listened to a bunch of music. Like a true connoisseur."
-    s "Vous avez écouté un tas de musique ! Tel un véritable audiophile."
+    s "Vous avez écouté un brin de musique. Tel un véritable audiophile."
 
 # game/xzhong.rpy:510
 translate french _call_syscheck_109_393f3015:
 
     # s "You listened to a bunch of music. Just for the achievement. Admit it."
-    s "Vous avez écouté un tas de musique ! Juste pour le succès, avouez !"
+    s "Vous avez écouté un brin de musique. Juste pour le succès. Avouez le."
 
 # game/xzhong.rpy:525
 translate french _call_syscheck_109_b0f97ae2:
@@ -845,7 +845,7 @@ translate french _call_syscheck_109_1479faf4:
 translate french _call_syscheck_109_a40d1eba:
 
     # Zh normal b "Not really. Not that many can, actually. There are many kinds of instruments that can only be played by certain species, you see."
-    Zh normal b "Pas vraiment. En fait certains instruments ne peuvent être joués que par certaines espèces, vous voyez ?"
+    Zh normal b "Pas vraiment. Très peu en sont capable en fait. Certains instruments ne peuvent être joués que par certaines espèces, vous voyez."
 
 # game/xzhong.rpy:531
 translate french _call_syscheck_109_3d635180:
@@ -881,7 +881,7 @@ translate french _call_syscheck_109_d72ad2af:
 translate french _call_syscheck_109_3be20588:
 
     # c "That's what makes it a taste."
-    c "En effet."
+    c "C'est pour ça qu'on parle de goût."
 
 # game/xzhong.rpy:594
 translate french zhongpianofinish_0588c4ea:
