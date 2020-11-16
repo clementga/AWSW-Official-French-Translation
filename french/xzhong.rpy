@@ -881,7 +881,7 @@ translate french _call_syscheck_109_d72ad2af:
 translate french _call_syscheck_109_3be20588:
 
     # c "That's what makes it a taste."
-    c "C'est pour ça qu'on parle de goût."
+    c "C'est ce qui en fait un goût."
 
 # game/xzhong.rpy:594
 translate french zhongpianofinish_0588c4ea:
