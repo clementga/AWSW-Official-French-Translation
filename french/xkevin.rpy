@@ -5,7 +5,7 @@
 translate frenchtl kevin_cb2b8cb1:
 
     # c "(That must be him.)"
-    c "﻿(Ça doit être lui.)"
+    c "(Ça doit être lui.)"
 
 # game/xkevin.rpy:40
 translate frenchtl kevin_36863d12:
@@ -23,7 +23,7 @@ translate frenchtl kevin_574c7a93:
 translate frenchtl kevin_162efce2:
 
     # Kv normal "This is where you live, huh?"
-    Kv normal "C'est ici que tu habites, n'est-ce pas ?"
+    Kv normal "C'est ici que tu habites, hein ?"
 
 # game/xkevin.rpy:46
 translate frenchtl kevin_9940f6bc:
@@ -35,31 +35,31 @@ translate frenchtl kevin_9940f6bc:
 translate frenchtl _call_skiptut_15_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indiquent que vous avez déjà expérimenté cette séquence de manière satisfaisante. Voulez-vous passer jusqu'à la fin ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
 
 # game/xkevin.rpy:74
 translate frenchtl _call_skiptut_15_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Il semblerait que vous avez déjà vu ça auparavant. Passer à la fin de cette scène ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/xkevin.rpy:82
 translate frenchtl _call_skiptut_15_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Donc, il s'avère que vous avez déjà vu ça auparavant. Soit vous pourriez regarder cela à nouveau, ou nous pouvons gagner un peu de temps et juste passer à la fin de la scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et juste passer cette scène."
 
 # game/xkevin.rpy:96
 translate frenchtl _call_skiptut_15_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous voudrez .{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xkevin.rpy:116
 translate frenchtl _call_skipcheck_15_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous voudrez .{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xkevin.rpy:121
 translate frenchtl _call_skipcheck_15_caee2ed3:
@@ -77,7 +77,7 @@ translate frenchtl _call_skipcheck_15_2b3eeb80:
 translate frenchtl _call_skipcheck_15_448f63bc:
 
     # Kv normal "No, I'm just here for the job until the next semester starts. Basically, I'm trying to drum up interest for the college and see if there's anyone around who'd like to apply for it."
-    Kv normal "Non, je suis ici pour mon travail jusqu'au début du semestre prochain. En fait, j'essaie de susciter l'intérêt des gens pour l'université et voir si quelqu'un aux alentours voudrait s'y inscrire."
+    Kv normal "Non, je suis ici pour mon travail jusqu'au début du semestre prochain. En fait, j'essaie de susciter de l'intérêt chez les gens pour l'université et voir si quelqu'un aux alentours voudrait s'y inscrire."
 
 # game/xkevin.rpy:127
 translate frenchtl _call_skipcheck_15_db84b8c4:
@@ -89,13 +89,13 @@ translate frenchtl _call_skipcheck_15_db84b8c4:
 translate frenchtl _call_skipcheck_15_e69a3c80:
 
     # Kv ramble "Well, I haven't actually met that many candidates out here so far."
-    Kv ramble "Et bien, je n'ai pas rencontré grand monde jusqu'ici."
+    Kv ramble "Eh bien, je n'ai pas rencontré beaucoup de candidats jusqu'ici."
 
 # game/xkevin.rpy:131
 translate frenchtl _call_skipcheck_15_43ec750c:
 
     # Kv brow "For a town like this one, it's typical for the young people to go into an apprenticeship to prepare for their future job rather than go to college, but if there's anyone willing, we want to find them."
-    Kv brow "Dans des villes comme celle-ci, c'est typique de voir les jeunes aller en apprentissage pour se préparer à leur futur travail plutôt que d'aller à l'université, mais si il y a des volontaires, on veut les trouver."
+    Kv brow "Dans des villes comme celle-ci, c'est typique de voir les jeunes aller en apprentissage pour se préparer à leur futur travail plutôt que d'aller à l'université, mais s'il y a des volontaires, on veut les trouver."
 
 # game/xkevin.rpy:133
 translate frenchtl _call_skipcheck_15_e1376890:
@@ -149,7 +149,7 @@ translate frenchtl _call_skipcheck_15_8daf1725:
 translate frenchtl _call_skipcheck_15_0bb8bb27:
 
     # Kv "If it ever got out, I don't think this town could face the ensuing torrent of tourists trying to catch a glimpse of you."
-    Kv "Si ça venait à s'ébruiter, je ne pense pas que ce village pourrait faire face au torrent de touristes essayant ne serait-ce que de t'apercevoir qui s'ensuivrait."
+    Kv "Si ça venait à s'ébruiter, je ne pense pas que ce village pourrait faire face au torrent de touristes arrivant en masse pour essayer ne serait-ce que de t'apercevoir."
 
 # game/xkevin.rpy:151
 translate frenchtl _call_skipcheck_15_53e9a320:
@@ -167,19 +167,19 @@ translate frenchtl _call_skipcheck_15_52903764:
 translate frenchtl _call_skipcheck_15_3f0f74b6:
 
     # c "Well, I'm glad they are taking this matter seriously."
-    c "Et bien, je suis heureux qu'ils prennent ce problème au sérieux."
+    c "Eh bien, C'est bon de savoir qu'ils prennent ce problème au sérieux."
 
 # game/xkevin.rpy:157
 translate frenchtl _call_skipcheck_15_517617db:
 
     # Kv ramble "They certainly are."
-    Kv ramble "Ils ont intérêt."
+    Kv ramble "Ah ça oui."
 
 # game/xkevin.rpy:159
 translate frenchtl _call_skipcheck_15_97369f3c:
 
     # c "I'd like to know more about these cities you talked about, though."
-    c "Aussi j'aimerais en savoir plus à propos de ces villes dont tu as parlé."
+    c "Aussi j'aimerais en savoir plus à propos de ces villes dont tu as parlées."
 
 # game/xkevin.rpy:161
 translate frenchtl _call_skipcheck_15_13bf66ae:
@@ -191,7 +191,7 @@ translate frenchtl _call_skipcheck_15_13bf66ae:
 translate frenchtl _call_skipcheck_15_563164b8:
 
     # c "I only really have this town as a point of reference, so why don't you tell me about what's different?"
-    c "Ma seule référence en terme de ville c'est ce village, donc pourquoi tu ne me dirais pas ce qui est différent ?"
+    c "Ma seule référence en terme de ville c'est ce village, donc pourquoi tu ne me parlerais pas ce qui est différent ?"
 
 # game/xkevin.rpy:165
 translate frenchtl _call_skipcheck_15_679d103e:
@@ -203,25 +203,25 @@ translate frenchtl _call_skipcheck_15_679d103e:
 translate frenchtl _call_skipcheck_15_6b13fff3:
 
     # Kv normal "Out here, living in general seems to be a lot cheaper than it is in the city, and there is much more room for everything."
-    Kv normal "Ici, la vie est plus simple comparé à la ville, et il y a aussi plus d'espace"
+    Kv normal "Ici, le coût de la vie semble être moindre comparé à ce que c'est en ville, et il y a aussi beaucoup plus d'espace pour tout."
 
 # game/xkevin.rpy:169
 translate frenchtl _call_skipcheck_15_42e198ef:
 
     # Kv ramble "There are green spaces, fields, parks and farms. You don't really see that in the city."
-    Kv ramble "Il y a des espaces verts, des champs, des parcs et des fermes"
+    Kv ramble "Il y a des espaces verts, des champs, des parcs et des fermes. Tu ne vois pas vraiment ça en ville."
 
 # game/xkevin.rpy:171
 translate frenchtl _call_skipcheck_15_f6bb908b:
 
     # Kv brow "People are more laid-back and there is a bigger sense of community as everybody knows everyone, which can be both good and bad."
-    Kv brow "Les gens sont plutôt relax et tout le monde se connaît ce qui fait une véritable communauté, ce qui peut être aussi bon que mauvais."
+    Kv brow "Les gens sont plutôt relax et tout le monde se connaît ce qui fait une véritable communauté où tout le monde se connaît, ce qui peut être aussi bon que mauvais."
 
 # game/xkevin.rpy:173
 translate frenchtl _call_skipcheck_15_61e9b1c0:
 
     # Kv "For example, rumors travel fast and survive well in areas like this one. In the city, you can just make new friends when that happens, but out here, a few well-placed stories could mean social death."
-    Kv "Par exemple, les rumeurs vont vite et se maintiennent dans des endroits comme ici. En ville, tu peux te faire des amis, mais là-bas, il suffit de quelques petites histoires pour nuire aux relations sociales."
+    Kv "Par exemple, les rumeurs vont vite et se maintiennent dans des endroits comme ici. En ville, tu peux te faire de nouveaux amis quand ça arrive, mais ici, quelques histoires bien placées peuvent signifier ta mort sociale."
 
 # game/xkevin.rpy:175
 translate frenchtl _call_skipcheck_15_ecc71545:
@@ -233,13 +233,13 @@ translate frenchtl _call_skipcheck_15_ecc71545:
 translate frenchtl _call_skipcheck_15_25f7299a:
 
     # Kv normal "But with the clubbing scene and opportunities for socializing, there's no shortage of potential friends."
-    Kv normal "Mais avec tous les clubs et les opportunités sociales, il y a toujours un moyen de se faire des amis."
+    Kv normal "Mais avec tous les clubs et les opportunités pour sociabiliser, il y a toujours un moyen de se faire des amis."
 
 # game/xkevin.rpy:179
 translate frenchtl _call_skipcheck_15_0cfa0eb8:
 
     # Kv ramble "There are also many different jobs and education opportunities that you wouldn't find out here."
-    Kv ramble "Il y a aussi beaucoup d'emplois différents et de formations éducatives qu'on ne trouve pas ici."
+    Kv ramble "Il y a aussi beaucoup d'emplois différents et de formations qu'on ne trouve pas ici."
 
 # game/xkevin.rpy:181
 translate frenchtl _call_skipcheck_15_efe0e8c3:
@@ -257,13 +257,13 @@ translate frenchtl _call_skipcheck_15_ca222335:
 translate frenchtl _call_skipcheck_15_81d6c677:
 
     # Kv ramble "The same goes for teaching positions in those areas as well."
-    Kv ramble "Aussi il en va de même pour l'enseignement."
+    Kv ramble "Et il en va de même pour l'enseignement dans ce zones là."
 
 # game/xkevin.rpy:187
 translate frenchtl _call_skipcheck_15_fbbaa2ba:
 
     # Kv brow "For example, if I wanted to learn how to write a romance novel, I can find a course for that easily. Out here this would be a lot more difficult. You know what I mean?"
-    Kv brow "Par exemple, si je veux apprendre à écrire une nouvelle romancière, je peux facilement trouver des cours pour ça. Mais ici ça serait très difficile à trouver. Tu vois ce que je veux dire ?"
+    Kv brow "Par exemple, si je veux apprendre à écrire une romance, je peux facilement trouver des cours pour ça. Mais ici ça serait très difficile à trouver. Tu vois ce que je veux dire ?"
 
 # game/xkevin.rpy:189
 translate frenchtl _call_skipcheck_15_c2bf53af:
@@ -293,7 +293,7 @@ translate frenchtl _call_skipcheck_15_291259ae:
 translate frenchtl _call_skipcheck_15_62d4e1fe:
 
     # Kv normal "In the end, I suppose I prefer the city. That's not to say that I think one is better than the other. Different strokes for different folks and all that."
-    Kv normal "En fin de compte, je préfère la ville. Ça ne veut pas dire que la ville est mieux. Ça dépend de l'avis de chacun."
+    Kv normal "En fin de compte, je préfère la ville. Ça ne veut pas dire que l'un est mieux que l'autre. Ça dépend de l'avis de chacun."
 
 # game/xkevin.rpy:199
 translate frenchtl _call_skipcheck_15_0a2e298c:
@@ -335,7 +335,7 @@ translate frenchtl _call_skipcheck_15_0f601bb6:
 translate frenchtl _call_skipcheck_15_843bac5b:
 
     # Kv face "Not like that. Well, I mean, there are cartoons like that, but that wasn't what I was talking about."
-    Kv face ""
+    Kv face "Pas de ce genre là. Enfin, je veux dire, il y a des cartoons comme ça, mais ce ne sont pas ceux dont je parlais."
 
 # game/xkevin.rpy:213
 translate frenchtl _call_skipcheck_15_f70d89f7:
@@ -377,13 +377,13 @@ translate frenchtl _call_skipcheck_15_e766b34b:
 translate frenchtl _call_skipcheck_15_907d613e:
 
     # Kv ramble "If you did that, you'd be like the coolest human I've ever met."
-    Kv ramble "Si tu fais ça pour moi, t'es l'humain le plus cool que j'ai jamais rencontré."
+    Kv ramble "Si tu fais ça pour moi, tu serais l'humain le plus cool que j'ai jamais rencontré."
 
 # game/xkevin.rpy:227
 translate frenchtl _call_skipcheck_15_85e88ed1:
 
     # Kv brow "I suppose you'd be that by default, since you're also the only human I've ever met, but you get the idea."
-    Kv brow "Enfin, tu es aussi le seul que j'ai rencontré, mais tu as compris l'idée."
+    Kv brow "Enfin je suppose que tu le serais par défaut, vu que tu es aussi le seul que j'ai rencontré, mais tu as compris l'idée."
 
 # game/xkevin.rpy:229
 translate frenchtl _call_skipcheck_15_13db491c:
@@ -401,7 +401,7 @@ translate frenchtl _call_skipcheck_15_c7b4f725:
 translate frenchtl _call_skipcheck_15_888ce2b1:
 
     # c "There it is in all its glory."
-    c "Le voilà, dans toute sa splendeur"
+    c "Le voilà, dans toute sa splendeur."
 
 # game/xkevin.rpy:245
 translate frenchtl _call_skipcheck_15_b91b1d82:
@@ -425,19 +425,19 @@ translate frenchtl _call_skipcheck_15_b4adf69d:
 translate frenchtl _call_skipcheck_15_3cf617e5:
 
     # Sb disapproval b flip "Well, \"Friend\", you can look, but don't touch anything. And no photos, either."
-    Sb disapproval b flip "Et bien, \"Ami\", tu peux regarder, mais ne touche à rien. Aussi, aucune photo."
+    Sb disapproval b flip "Et bien, \"l'Ami\", tu peux regarder, mais ne touche à rien. Aucune photo, non plus."
 
 # game/xkevin.rpy:257
 translate frenchtl _call_skipcheck_15_a530c667:
 
     # Kv brow "Do I look like I have a camera?"
-    Kv brow "Est-ce que j'ai l'air d'avoir une caméra ?"
+    Kv brow "Est-ce que j'ai l'air d'avoir un appareil ?"
 
 # game/xkevin.rpy:259
 translate frenchtl _call_skipcheck_15_eff3d0d8:
 
     # Sb normal b flip "Well, you could be hiding something in your fur."
-    Sb normal b flip "Et bien, tu pourrais cacher quelque chose dans ta fourrure."
+    Sb normal b flip "Eh bien, tu pourrais cacher quelque chose dans ta fourrure."
 
 # game/xkevin.rpy:261
 translate frenchtl _call_skipcheck_15_2a4af5c1:
@@ -461,7 +461,7 @@ translate frenchtl _call_skipcheck_15_e196d29e:
 translate frenchtl _call_skipcheck_15_b7708852:
 
     # Kv ramble "Fliers for our Midwest Institution. I could give you one if you're interested in going back to school."
-    Kv ramble "Des prospectus pour notre université. je peux vous en donner un si vous voulez reprendre les cours."
+    Kv ramble "Des prospectus pour notre université. je peux vous en donner un si vous voulez retourner sur les bancs de l'université."
 
 # game/xkevin.rpy:269
 translate frenchtl _call_skipcheck_15_2bd3846b:
@@ -473,7 +473,7 @@ translate frenchtl _call_skipcheck_15_2bd3846b:
 translate frenchtl _call_skipcheck_15_64b9afdc:
 
     # c "What's up with you, Sebastian?"
-    c "Quoi de neuf Sébastien ?"
+    c "Qu'est-ce qui t'arrive, Sébastien ?"
 
 # game/xkevin.rpy:273
 translate frenchtl _call_skipcheck_15_671fa38e:
@@ -491,19 +491,19 @@ translate frenchtl _call_skipcheck_15_4e24c2ca:
 translate frenchtl _call_skipcheck_15_afeddb0a:
 
     # Sb disapproval b flip "There has been a lot of interest in the portal from the cities. They have made us offers, but for now we're not doing anything until we see how your visit turns out."
-    Sb disapproval b flip "Il y a eu beaucoup d'intérêt pour le portail dans les villes. Ils nous ont fait des offres, mais pour l'instant nous ne prenons aucune décision avant que nous voyons comment ta visite se passe."
+    Sb disapproval b flip "Il y a eu beaucoup d'intérêt pour le portail dans les villes. Ils nous ont fait des offres, mais pour l'instant nous ne prenons aucune décision avant que nous n'ayons vu comment ta visite se passe."
 
 # game/xkevin.rpy:279
 translate frenchtl _call_skipcheck_15_c28c04f1:
 
     # Sb normal b flip "In the end, it's just a political power struggle. Small towns like us have to protect our interests."
-    Sb normal b flip "Au final, c'est juste un conflit de pouvoir politique. Les petits villages comme le notre doivent garder leur intérêts."
+    Sb normal b flip "Au final, c'est juste un conflit de pouvoir politique. Les petits villages comme le notre doivent défendre leur intérêts."
 
 # game/xkevin.rpy:281
 translate frenchtl _call_skipcheck_15_fc9c79fb:
 
     # Kv brow "And in the process, reinforce the stereotype of country bumpkins being conspiracy nuts."
-    Kv brow "Et au passage, ça renforce le cliché des pays qui complotent."
+    Kv brow "Et au passage, ça renforce le cliché des péquenauds adeptes des théories du complot."
 
 # game/xkevin.rpy:283
 translate frenchtl _call_skipcheck_15_036bd38c:
@@ -521,13 +521,13 @@ translate frenchtl _call_skipcheck_15_39d42c48:
 translate frenchtl _call_skipcheck_15_e7b78d54:
 
     # Sb normal b flip "Trust is good, but control is better. It's just a matter of perspective."
-    Sb normal b flip "Avoir confiance c'est bien, mais il faut savoir se contrôler. Tout dépend de la perspective."
+    Sb normal b flip "La confiance c'est bien, mais le contrôle c'est mieux. C'est une question de point de vue."
 
 # game/xkevin.rpy:289
 translate frenchtl _call_skipcheck_15_8198bef6:
 
     # Kv normal "Well, I think I've seen enough here, anyway. Let's head back, [player_name]."
-    Kv normal "Bref, j'en ai assez vu. Rentrons, [player_name]."
+    Kv normal "Bref, j'en ai assez vu de toute façon. Rentrons, [player_name]."
 
 # game/xkevin.rpy:291
 translate frenchtl _call_skipcheck_15_c48dc32f:
@@ -539,7 +539,7 @@ translate frenchtl _call_skipcheck_15_c48dc32f:
 translate frenchtl _call_skipcheck_15_a83510dd:
 
     # c "You're not going to leak anything, are you?"
-    c "Tu n'en diras rien à personne j'espère."
+    c "Tu n'en parleras à personne, hein ?"
 
 # game/xkevin.rpy:303
 translate frenchtl _call_skipcheck_15_17cb51ab:
@@ -551,7 +551,7 @@ translate frenchtl _call_skipcheck_15_17cb51ab:
 translate frenchtl _call_skipcheck_15_39d47dd3:
 
     # Kv brow "Now that I think about it, I totally could, though."
-    Kv brow "Maintenant que j'y repense, je pourrais totalement le faire."
+    Kv brow "Maintenant que j'y pense, je pourrais totalement le faire, en fait."
 
 # game/xkevin.rpy:307
 translate frenchtl _call_skipcheck_15_f0b69231:
@@ -563,7 +563,7 @@ translate frenchtl _call_skipcheck_15_f0b69231:
 translate frenchtl _call_skipcheck_15_8ca11fbe:
 
     # Kv ramble "I have some connections and a potential audience."
-    Kv ramble "J'ai quelques contacts et une potentielle audiende"
+    Kv ramble "J'ai quelques contacts et une potentielle audience."
 
 # game/xkevin.rpy:311
 translate frenchtl _call_skipcheck_15_b3b5c15f:
@@ -575,7 +575,7 @@ translate frenchtl _call_skipcheck_15_b3b5c15f:
 translate frenchtl _call_skipcheck_15_d02c8544:
 
     # Kv "Not really. I just know a few people from writing a column in our college magazine. It got popular enough that it was even featured in the local newspaper for a while."
-    Kv "Pas vraiment. Je connais juste quelques rédacteurs du magasine de notre université. Il est devenu assez populaire"
+    Kv "Pas vraiment. Je connais juste quelques rédacteurs du magasine de notre université. Il devint assez populaire au point d'avoir une page dédiée dans le journal local pour un temps."
 
 # game/xkevin.rpy:315
 translate frenchtl _call_skipcheck_15_ac080e1c:
@@ -587,7 +587,7 @@ translate frenchtl _call_skipcheck_15_ac080e1c:
 translate frenchtl _call_skipcheck_15_6a17e554:
 
     # Kv normal "Nothing special, really. It was just commentary about current events."
-    Kv normal "Rien de spécial, vraiment. C'était juste des commentaires sur l'actualité des évènements."
+    Kv normal "Rien de vraiment spécial. C'était juste des commentaires sur l'actualité des évènements."
 
 # game/xkevin.rpy:319
 translate frenchtl _call_skipcheck_15_85e7809e:
@@ -599,19 +599,19 @@ translate frenchtl _call_skipcheck_15_85e7809e:
 translate frenchtl _call_skipcheck_15_dde59d17:
 
     # Kv brow "Not more than anyone else, I think."
-    Kv brow "Pas plus que que les autres, je pense."
+    Kv brow "Pas plus que les autres, je pense."
 
 # game/xkevin.rpy:323
 translate frenchtl _call_skipcheck_15_f915eff8:
 
     # c "What's it like to actually live on campus?"
-    c "C'est comment de vivre en campus ?"
+    c "Comment c'est de vivre en campus ?"
 
 # game/xkevin.rpy:325
 translate frenchtl _call_skipcheck_15_2fb3cf45:
 
     # Kv normal "College in general is a pretty unique period of life, I'd say."
-    Kv normal "L'université en général c'est vraiment une période unique de la vie."
+    Kv normal "L'université en général, je dirais que c'est vraiment une période unique de la vie."
 
 # game/xkevin.rpy:327
 translate frenchtl _call_skipcheck_15_35f149f1:
@@ -629,7 +629,7 @@ translate frenchtl _call_skipcheck_15_d450c0dc:
 translate frenchtl _call_skipcheck_15_cdb75c0f:
 
     # Kv brow "With study buddies, roommates and classmates it's not really hard to make new friends."
-    Kv brow "Avec de potes étudiants, des colocataires et des camarades de classe c'est plutôt facile de se faire des amis."
+    Kv brow "Avec de potes étudiants, tes colocataires et des camarades de classe c'est plutôt facile de se faire des amis."
 
 # game/xkevin.rpy:333
 translate frenchtl _call_skipcheck_15_2314ae72:
@@ -641,7 +641,7 @@ translate frenchtl _call_skipcheck_15_2314ae72:
 translate frenchtl _call_skipcheck_15_53ee7cc7:
 
     # Kv normal "And don't forget about the dorms, so all these people are always within reach - which can also be both good and bad. You can be tempted to hang out with friends when you should really be studying."
-    Kv normal "Sans oublier les dortoirs, ce qui fait qu'ils sont toujours pas loin de toi - ce qui a aussi des bons et mauvais côtés. Tu peux être tenté de sortir avec tes amis alors que tu dois réviser."
+    Kv normal "Sans oublier les dortoirs, ce qui fait qu'ils sont toujours pas loin de toi - ce qui a à la fois des bons et des mauvais côtés. Tu peux être tenté de sortir avec tes amis alors que tu dois réviser."
 
 # game/xkevin.rpy:337
 translate frenchtl _call_skipcheck_15_f0bb618e:
@@ -653,13 +653,13 @@ translate frenchtl _call_skipcheck_15_f0bb618e:
 translate frenchtl _call_skipcheck_15_519dd35d:
 
     # Kv ramble "That can be a problem with team projects, for example. There's always someone who ends up never showing up and not doing any part of the work."
-    Kv ramble "Ça peut être un problème de groupes de projet, par exemple. Il y a toujours quelqu'un qui finit par ne plus revenir et qui ne fait pas sa partie du travail."
+    Kv ramble "Ça peut être un problème avec les projets de groupe, par exemple. Il y a toujours quelqu'un qui finit par ne plus se montrer et qui ne fait pas sa partie du travail."
 
 # game/xkevin.rpy:341
 translate frenchtl _call_skipcheck_15_a187cad5:
 
     # Kv normal "For me, it's not really a problem since I actually enjoy what I'm doing here. I don't mind the homework, and sometimes, I read up on subjects in advance so I don't get left behind."
-    Kv normal "Pour ma part, ce n'est pas un problème vu que j'adore ce que j'y fais. Les devoirs ne me dérangent pas, et parfois, je m'intéresse aux sujets étudiés en avance pour ne pas être à la traine."
+    Kv normal "Pour ma part, ce n'est pas un problème vu que j'adore ce que j'y fais. Les devoirs ne me dérangent pas, et parfois, je m'intéresse aux sujets étudiés en avance pour ne pas être à la traîne."
 
 # game/xkevin.rpy:343
 translate frenchtl _call_skipcheck_15_457f77b9:
@@ -677,19 +677,19 @@ translate frenchtl _call_skipcheck_15_db32c0e5:
 translate frenchtl _call_skipcheck_15_fb896d36:
 
     # Kv ramble "Well, with ours I was even allowed the privilege of giving a guest lecture for my own class once."
-    Kv ramble "Et bien, avec les nôtres j'ai même eu le privilège de donner une conférence à ma classe."
+    Kv ramble "Eh bien, avec les nôtres j'ai même eu le privilège de donner une conférence à ma classe."
 
 # game/xkevin.rpy:349
 translate frenchtl _call_skipcheck_15_c918c451:
 
     # c "Yeah, that's the kind of thing I was talking about."
-    c "Ouais, c'est de ce genre de chosee que je parlais."
+    c "Ouais, c'est de ce genre de chose dont je parlais."
 
 # game/xkevin.rpy:351
 translate frenchtl _call_skipcheck_15_5c1c8c49:
 
     # Kv normal "Come on, learning should be fun! It certainly is for me."
-    Kv normal "Allez, apprendre c'est amusant ! En tout cas ça l'est pour moi."
+    Kv normal "Allez, apprendre devrait être amusant ! En tout cas ça l'est pour moi."
 
 # game/xkevin.rpy:353
 translate frenchtl _call_skipcheck_15_e9ed22ed:
@@ -749,7 +749,7 @@ translate frenchtl _call_skipcheck_15_a82b2926:
 translate frenchtl _call_skipcheck_15_5301d960:
 
     # c "Now you're making me hungry."
-    c "Voilà maintenant j'ai faim."
+    c "Voilà maintenant tu me donnes faim."
 
 # game/xkevin.rpy:373
 translate frenchtl _call_skipcheck_15_c7b2f7ce:
@@ -767,7 +767,7 @@ translate frenchtl _call_skipcheck_15_a55132d7:
 translate frenchtl _call_skipcheck_15_efd2560a:
 
     # Kv brow "Yep. It's good to help our college, and I can also save up a bit in the process. It's certainly easier than trying to juggle a job and homework at the same time later on if things get tight."
-    Kv brow "Yep. C'est bien d'aider notre université, et je peux aussi me faire des économies. C'est certainement plus facile que de jongler entre travail et devoirs si ma situation devient compliquée."
+    Kv brow "Yep. C'est bien d'aider notre université, et je peux aussi me faire des économies. C'est certainement plus facile que de jongler entre un travail et des devoirs si ma situation devient compliquée."
 
 # game/xkevin.rpy:379
 translate frenchtl _call_skipcheck_15_b5a29541:
@@ -791,7 +791,7 @@ translate frenchtl _call_skipcheck_15_89aefe22_1:
 translate frenchtl _call_skipcheck_15_12475049:
 
     # c "Alright, go ahead and analyze me right now."
-    c "Ok, vas-y analyse-moi."
+    c "Ok, vas-y analyse-moi là tout de suite."
 
 # game/xkevin.rpy:387
 translate frenchtl _call_skipcheck_15_30f3e475:
@@ -803,7 +803,7 @@ translate frenchtl _call_skipcheck_15_30f3e475:
 translate frenchtl _call_skipcheck_15_090a20b3:
 
     # Kv face "It doesn't really work like that."
-    Kv face "Ça ne marche oas comme ça."
+    Kv face "Ça ne marche pas vraiment comme ça."
 
 # game/xkevin.rpy:391
 translate frenchtl _call_skipcheck_15_030674d3:
@@ -821,25 +821,25 @@ translate frenchtl _call_skipcheck_15_eb610c26:
 translate frenchtl _call_skipcheck_15_a446abcd:
 
     # Kv ramble "Maybe I'll steal that test from you, though. Might be worth trying it out on a few people I know."
-    Kv ramble "Peut-être que je vais reprendre ton idée. Ça peut valoir le coup de l'essayer sur quelqu'un d'autre."
+    Kv ramble "Peut-être que je vais reprendre ton idée. Ça peut valoir le coup de l'essayer sur quelques connaissances à moi."
 
 # game/xkevin.rpy:397
 translate frenchtl _call_skipcheck_15_163dccef:
 
     # c "Be my guest."
-    c ""
+    c "Fais-toi plaisir."
 
 # game/xkevin.rpy:399
 translate frenchtl _call_skipcheck_15_6301a05f:
 
     # c "On a more serious note, tell me something about what you're learning."
-    c "Plus sérieusement, parle-moi de ce que tu apprends."
+    c "Plus sérieusement, parles-moi de ce que tu apprends."
 
 # game/xkevin.rpy:401
 translate frenchtl _call_skipcheck_15_8e797dbc:
 
     # Kv brow "What, anything?"
-    Kv brow "Quoi, tout ?"
+    Kv brow "Quoi, n'importe quoi ?"
 
 # game/xkevin.rpy:403
 translate frenchtl _call_skipcheck_15_7d70f431:
@@ -857,7 +857,7 @@ translate frenchtl _call_skipcheck_15_0f6f27f2:
 translate frenchtl _call_skipcheck_15_3bbb47d6:
 
     # Kv ramble "Well, I could tell you about an old and very simplified model of our psyche that we got taught in introductory classes."
-    Kv ramble "Et bien, je peux te parler d'un vieux modèle de notre psyché simplifié qu'on nous a appris an cours d'introduction."
+    Kv ramble "Et bien, je peux te parler d'un vieux modèle simplifié de notre psyché qu'on nous a appris an cours d'introduction."
 
 # game/xkevin.rpy:409
 translate frenchtl _call_skipcheck_15_993ba4d9:
@@ -869,13 +869,13 @@ translate frenchtl _call_skipcheck_15_993ba4d9:
 translate frenchtl _call_skipcheck_15_732f8aba:
 
     # Kv normal "Okay, so this model divides our psychic apparatus into three distinct parts, called {i}id{/i}, {i}ego{/i} and {i}super-ego{/i}."
-    Kv normal "Ok, alors cette théorie divise notre esprit en 3 parties, appelées {i}paléocortex{/i}, {i}cortex{/i} et {i}néocortex{/i}."
+    Kv normal "Ok, alors cette théorie divise notre esprit en 3 parties, appelées {i}ça{/i}, {i}moi{/i} et {i}surmoi{/i}."
 
 # game/xkevin.rpy:413
 translate frenchtl _call_skipcheck_15_382da9f2:
 
     # Kv ramble "The {i}id{/i} represents our most basic desires and instinctual drives. That is, our physical needs and wants - like hunger and thirst - as well as desires and impulses."
-    Kv ramble "Le {i}paléocortex{/i} représente nos désirs les plus basiques et notre instinct. En gros, nos besoins physiques et nos envies - comme la faim et la soif - autant que nos désirs et nos impulsions."
+    Kv ramble "Le {i}ça{/i} représente nos désirs les plus basiques et notre instinct. En gros, nos besoins physiques et nos envies - comme la faim et la soif - autant que nos désirs et nos impulsions."
 
 # game/xkevin.rpy:415
 translate frenchtl _call_skipcheck_15_7f1295b3:
@@ -887,43 +887,43 @@ translate frenchtl _call_skipcheck_15_7f1295b3:
 translate frenchtl _call_skipcheck_15_6d06df55:
 
     # Kv normal "An impulse is more like wanting to lash out in anger, for example. The id seeks out immediate gratification for these urges."
-    Kv normal "Une impulsion c'est quelque chose comme extérioriser sa colère, par exemple. Le paléocortex cherche immédiatement à combler ces besoins."
+    Kv normal "Une impulsion c'est quelque chose comme extérioriser sa colère, par exemple. Le ça cherche immédiatement à combler ces besoins."
 
 # game/xkevin.rpy:419
 translate frenchtl _call_skipcheck_15_7f8cc703:
 
     # Kv brow "It is in conflict with the {i}super-ego{/i}, which represents learned behavior like cultural and moral rules, and societal standards. The kind of stuff we learn from our role models like parents, teachers or guardians."
-    Kv brow "Il est en conflit avec le {i}néocortex{/i}, qui représente le comportement appris comme la culture et les règles, ainsi que les standards de la société."
+    Kv brow "Il est en conflit avec le {i}surmoi{/i}, qui représente le comportement appris comme la culture et les règles, ainsi que les standards de la société. Ce genre de choses qu'on apprend par nos rôles modèles comme les parents, les professeurs ou les gardiens."
 
 # game/xkevin.rpy:421
 translate frenchtl _call_skipcheck_15_d4c94927:
 
     # Kv ramble "The super-ego is the part that forms our conscience and controls our sense of right and wrong. It seeks to uphold these standards to perfection, which most of the time goes against what the id wants at any given moment."
-    Kv ramble "Le néocortex est une partie qui forme notre conscience et contrôle notre sens du bon ou du mauvais. Il cherche à améliorer cette compréhension à la perfection, qui la plupart du temps est en contradiction avec le paléocortex."
+    Kv ramble "Le surmoi est une partie qui forme notre conscience et contrôle notre sens du bon ou du mauvais. Il cherche à améliorer cette compréhension à la perfection, qui la plupart du temps est en contradiction avec le ça."
 
 # game/xkevin.rpy:423
 translate frenchtl _call_skipcheck_15_0c2d12b5:
 
     # c "You sound like you had to rote-learn a lot of this."
-    c "On dirait que tu as eu à apprendre tout ça par coeur."
+    c "On dirait que tu as eu à apprendre tout ça par cœur."
 
 # game/xkevin.rpy:425
 translate frenchtl _call_skipcheck_15_48762f7c:
 
     # Kv normal "If those internalized rules are broken, this misbehavior is punished by the super-ego with feelings of guilt and shame. This way, we are compelled to behave in accordance to these rules even if the id tempts us to do otherwise."
-    Kv normal "Si ces règles internes sont brisées, ce mauvais comportement est puni par le néocortex avec des sentiments de culpabilité et de honte. De cette manière, nous sommes incités à nous comporter en accordance avec ces règles malgré toutes les envies du paléocortex."
+    Kv normal "Si ces règles internalisées viennent à être brisées, ce mauvais comportement est puni par le surmoi avec des sentiments de culpabilité et de honte. De cette manière, nous sommes incités à nous comporter en accordance avec ces règles malgré toutes les envies du ça."
 
 # game/xkevin.rpy:427
 translate frenchtl _call_skipcheck_15_af907cfe:
 
     # Kv ramble "And inbetween these two conflicting parts of us, there is the {i}ego{/i} who is trying to mediate."
-    Kv ramble "Et entre ces deux parties en conflit, il y a le {i}cortex{/i} qui joue un rôle de médiateur."
+    Kv ramble "Et entre ces deux parties en conflit, il y a le {i}moi{/i} qui joue un rôle de médiateur."
 
 # game/xkevin.rpy:429
 translate frenchtl _call_skipcheck_15_d4a6c59c:
 
     # Kv "It represents our rational mind that seeks to please the id's drives in a way that doesn't harm us or goes against the super-ego's goals."
-    Kv "Il représente notre esprit rationnel qui cherche à combler les envies de notre paléocortex de manière non dangereuse et qui ne va pas à l'encontre des envies du néocortex."
+    Kv "Il représente notre esprit rationnel qui cherche à combler les envies de notre ça de manière à ne pas nous nuire et sans aller à l'encontre des buts du surmoi."
 
 # game/xkevin.rpy:431
 translate frenchtl _call_skipcheck_15_71780187:
@@ -935,7 +935,7 @@ translate frenchtl _call_skipcheck_15_71780187:
 translate frenchtl _call_skipcheck_15_1cb350ee:
 
     # Kv "The ego includes all our decision-making and how we respond to external stimuli. Ultimately, it is the one calling the shots while trying to balance the needs of the id, the super-ego and the external world."
-    Kv "Le cortex inclus toutes nos prises de décision et nos façons de réagir aux stimulis externes. Et surtout, il essaie d'équilibrer les besoins du paléocortex, du néocortex et du monde extérieur."
+    Kv "Le moi inclus toutes nos prises de décision et nos façons de réagir aux stimulis externes. Et surtout,c'est celui qui tire la sonette d'alarme tandis qu'il essaie d'équilibrer les besoins du ça, du surmoi et du monde extérieur."
 
 # game/xkevin.rpy:435
 translate frenchtl _call_skipcheck_15_861465e2:
@@ -971,7 +971,7 @@ translate frenchtl _call_skipcheck_15_7baf32b1:
 translate frenchtl _call_skipcheck_15_828f388a:
 
     # Kv ramble "Just being able to understand people is such a huge factor in many fields, and the skills you learn can come in handy in all areas of life, really."
-    Kv ramble "Juste le fait d'être capable de comprendre les gens est un facteur très important dans plein de domaines, et les compétences que tu apprends sont très pratiques dans beaucoup de lieux de vie, vraiment."
+    Kv ramble "Juste le fait d'être capable de comprendre les gens est un facteur très important dans plein de domaines, et les compétences que tu apprends sont très pratiques dans tout le moments de la vie, vraiment."
 
 # game/xkevin.rpy:449
 translate frenchtl _call_skipcheck_15_bb42e64c:
@@ -1001,19 +1001,19 @@ translate frenchtl _call_skipcheck_15_8fdb0c31:
 translate frenchtl _call_skipcheck_15_0bf6edf6:
 
     # Kv ramble "That's why you'll also find this kind of knowledge to be incredibly helpful even when you are a manager or in sales, because those jobs require empathy and an understanding of your client's needs."
-    Kv ramble "C'est pourquoi ce genre de savoir est incroyablement utile même quand tu es manager ou dans le domaine de la vente, parce que ces métiers nécessitent de l'empathie et la compréhension des besoins du client."
+    Kv ramble "C'est pourquoi ce genre de connaissances est incroyablement utile même quand tu es manager ou dans le domaine de la vente, parce que ces métiers nécessitent de l'empathie et la compréhension des besoins du client."
 
 # game/xkevin.rpy:459
 translate frenchtl _call_skipcheck_15_5853defd:
 
     # Kv normal "Understanding people is just something that can come in handy pretty much wherever you go, and that's what psychology is all about."
-    Kv normal "Comprendre les gens c'est quelque chose qui peut se révéler utile presque partout où tu vas, c'est ça la psychologie"
+    Kv normal "Comprendre les gens c'est quelque chose qui peut se révéler utile presque partout où tu vas, c'est ça la psychologie."
 
 # game/xkevin.rpy:461
 translate frenchtl _call_skipcheck_15_bf57769b:
 
     # Kv ramble "Even in video games, psychology is a factor. Horror games are an obvious example, but also with tutorials or UI design and how people interact with your game, psychology and player expectations are always going to be a factor."
-    Kv ramble "Même dans les jeux-vidéos, la psychologie est un facteur. Les jeux d'horreur sont un exemple évident, mais il y a aussi les tutoriels ou le style d'interface et comment les gens interagissent avec le jeu, la psychologie et les attentes du joueur seront toujours un facteur."
+    Kv ramble "Même dans les jeux-vidéos, la psychologie est un facteur. Les jeux d'horreur en sont un exemple évident, mais il y a aussi les tutoriels ou le style d'interface et comment les gens interagissent avec ton jeu, la psychologie et les attentes du joueur seront toujours un facteur."
 
 # game/xkevin.rpy:463
 translate frenchtl _call_skipcheck_15_35d0da92:
@@ -1025,7 +1025,7 @@ translate frenchtl _call_skipcheck_15_35d0da92:
 translate frenchtl _call_skipcheck_15_05e756d7:
 
     # Kv normal "Out here, I think a lot could still be done to improve the image of the field, you know."
-    Kv normal "Par ici, j'ai l'impression qu'il y a encore beaucoup à faire, tu sais."
+    Kv normal "Par ici, j'ai l'impression qu'il y a encore beaucoup à faire pour améliorer l'image de cette discipline, tu sais."
 
 # game/xkevin.rpy:467
 translate frenchtl _call_skipcheck_15_bb00a52c:
@@ -1055,7 +1055,7 @@ translate frenchtl _call_skipcheck_15_b9283861:
 translate frenchtl _call_skipcheck_15_bd9132ce:
 
     # Kv face "Me? Honestly, I don't know if I could tackle a big issue like that. It's good for me that psychology is such a diverse field, because I'm not quite sure where I'm going with it yet, or what particular job I'd like to have after I'm done with my studies."
-    Kv face "Moi ? Honnêtement, je ne sais pas si j'arriverais à résoudre un si gros problème. Je trouve que c'est une bonne chose que la psychologie soit un domaine si varié, car je ne sais pas vraiment vers quel domaine m'orienter, ou quel métier particulier je voudrais faire après mes études."
+    Kv face "Moi ? Honnêtement, je ne sais pas si j'arriverais à résoudre un si gros problème. Je trouve que c'est une bonne chose que la psychologie soit un domaine si varié, car je ne sais pas vraiment vers quel domaine m'orienter, ou quel métier je voudrais faire après mes études."
 
 # game/xkevin.rpy:477
 translate frenchtl _call_skipcheck_15_c143c549:
@@ -1067,13 +1067,13 @@ translate frenchtl _call_skipcheck_15_c143c549:
 translate frenchtl _call_skipcheck_15_62eb7645:
 
     # Kv brow "Yep. Before I came here for my summer job, I was interning at a psychotherapist's office for a month. I got to hear about some very interesting and also tragic cases."
-    Kv brow "Yep. Avant de venir ici pour mon travail d'été, j'étais en stage avec un psychothérapeute pendant un mois. J'ai eu connaissances de cas très intéressants et d'autres tragiques."
+    Kv brow "Yep. Avant de venir ici pour mon job d'été, j'étais en stage avec un psychothérapeute pendant un mois. J'ai eu connaissances de cas très intéressants et d'autres tragiques."
 
 # game/xkevin.rpy:481
 translate frenchtl _call_skipcheck_15_5cd3c871:
 
     # Kv "I thought I wanted to help people with issues like that, but sometimes it's pretty hard not to be affected too much by those stories, so I'm not sure if that's the right job for me."
-    Kv "Je pensais que je voulais aider les gens avec ce genre de problèmes, mais parfois c'est plutôt dur de ne pas être affecté soi-même par ces histoires, donc je ne suis pas sûr que ce soit le bon métier pour moi."
+    Kv "Je pensais que je voulais aider les gens avec ce genre de problèmes, mais parfois c'est plutôt dur de ne pas être affecté soi-même par ces histoires, du coup je ne suis pas sûr que ce soit le bon métier pour moi."
 
 # game/xkevin.rpy:483
 translate frenchtl _call_skipcheck_15_125ed73b:
@@ -1121,13 +1121,13 @@ translate frenchtl _call_skipcheck_15_fa8c463f:
 translate frenchtl _call_skipcheck_15_7306a3ef:
 
     # c "Who knows, maybe one of those people you handed a flier will one day turn out to be famous for their work."
-    c "Qui sait, peut-être que l'une de ces personnes auxquelles tu as donné un prospectus deviendra célèbre par par travail."
+    c "Qui sait, peut-être que l'une de ces personnes auxquelles tu as donné un prospectus deviendra célèbre pour son travail."
 
 # game/xkevin.rpy:499
 translate frenchtl _call_skipcheck_15_f8ef3ffa:
 
     # Kv normal "Now, I think that's a little too idealistic, but I get your point."
-    Kv normal "Et bien, je trouve ça un peu trop idéaliste, mais je vois ce que tu veux dire."
+    Kv normal "Eh bien, je trouve ça un peu trop idéaliste, mais je vois ce que tu veux dire."
 
 # game/xkevin.rpy:501
 translate frenchtl _call_skipcheck_15_eba9e4b0:
@@ -1157,7 +1157,7 @@ translate frenchtl _call_skipcheck_15_7da8d073:
 translate frenchtl _call_skipcheck_15_bb00a52c_1:
 
     # c "What do you mean?"
-    c "C'est-à-dire ?"
+    c "Que veux-tu dire ?"
 
 # game/xkevin.rpy:511
 translate frenchtl _call_skipcheck_15_170fea27:
@@ -1175,7 +1175,7 @@ translate frenchtl _call_skipcheck_15_ca753718:
 translate frenchtl _call_skipcheck_15_5a192223:
 
     # c "Well, I don't like talking about myself all that much, and I think there are some things that are better left unsaid."
-    c "Et bien, je n'aime pas vraiment parler de moi-même, et je pense qu'il-y-a quelques trucs qu'il ne vaut mieux pas raconter."
+    c "Eh bien, je n'aime pas vraiment parler de moi-même, et je pense qu'il y a quelques trucs qu'il ne vaut mieux pas raconter."
 
 # game/xkevin.rpy:517
 translate frenchtl _call_skipcheck_15_0f6f27f2_1:
@@ -1223,13 +1223,13 @@ translate frenchtl _call_skipcheck_15_ba9a9d2a:
 translate frenchtl _call_skipcheck_15_fb5f6d40:
 
     # c "If I consider all the good and bad that's happened here since my arrival, it's been a vacation compared to home, and it looks like the vacation might come to an end soon."
-    c "En considérant les bonnes et mauvaises choses qui sont arrivées ici depuis mon arrivée, c'était plûtot des vacances comparé à là où je vis, et on dirait bien que ces vacances prendront bientôt fin."
+    c "En considérant les bonnes et mauvaises choses qui sont arrivées ici depuis mon arrivée, c'était plûtot des vacances comparées à là où je vis, et on dirait bien que ces vacances prendront bientôt fin."
 
 # game/xkevin.rpy:533
 translate frenchtl _call_skipcheck_15_278b2d50:
 
     # c "I dont know whats going to happen after that. I can only hope my visit here will have started something that will mean change for our world, but I'm not sure if that's going to happen."
-    c "Je ne sais pas ce qu'il se passera après ça. Je peux juste espérer que ma visite ici aura déclenché quelque chose qui aura un changement significatif pour notre monde, mais je ne suis pas sûr que ça arrivera."
+    c "Je ne sais pas ce qu'il se passera après ça. Je peux juste espérer que ma visite ici aura déclenché quelque chose qui aura un changement significatif pour notre monde, mais je n'ai pas la certitude que ça arrivera."
 
 # game/xkevin.rpy:535
 translate frenchtl _call_skipcheck_15_4e7ac8ae:
@@ -1265,7 +1265,7 @@ translate frenchtl _call_skipcheck_15_3e56191d:
 translate frenchtl _call_skipcheck_15_f107e073:
 
     # Kv "I hope things can be better for you in the future. I don't think I can do anything to help with that, though."
-    Kv "J'espère que les choses vont s'arranger pour toi dans le futur. par contre, je ne pense pas pouvoir t'aider avec ça."
+    Kv "J'espère que les choses vont s'arranger pour toi dans le futur. Par contre, je ne pense pas pouvoir t'aider avec ça."
 
 # game/xkevin.rpy:567
 translate frenchtl _call_skipcheck_15_b4cd5f81:
@@ -1289,7 +1289,7 @@ translate frenchtl kevinskip_3070bc42:
 translate frenchtl kevinskip_52908f6a:
 
     # Kv normal "Well, it seems like all the hostels are already full. Despite the vetting process for visitors, enough people got in to take all available short-term lodging spots in this town."
-    Kv normal "Et bien, il semble que tous les hôtels soient pleins. Malgré le filtrage des visiteurs, il y a assez de gens pour remplir tous les endroits de logement à court-terme de ce village."
+    Kv normal "Eh bien, il semble que tous les hôtels soient pleins. Malgré le filtrage des visiteurs, il y a assez de gens pour remplir tous les endroits de logement à court-terme de ce village."
 
 # game/xkevin.rpy:581
 translate frenchtl kevinskip_f0b69231:
@@ -1301,7 +1301,7 @@ translate frenchtl kevinskip_f0b69231:
 translate frenchtl kevinskip_6315a73b:
 
     # Kv brow "Yep. Despite only a few people knowing your location, or that of the portal, journalists and tourists are flocking to the towns, hoping to catch a glimpse, or at least find a clue of your whereabouts."
-    Kv brow "Yep. En dépit de quelques gens qui connaissent ta position, ou celle du portail, les journalistes et touristes viennent en masse dans les villages, en espérant avoir un aperçu, ou au moins trouver un indice sur là où tu es."
+    Kv brow "Yep. En dépit de quelques gens qui connaissent ta position, ou celle du portail, les journalistes et touristes viennent en masse dans les villages, en espérant avoir un aperçu, ou au moins trouver un indice sur tes aller et venues."
 
 # game/xkevin.rpy:585
 translate frenchtl kevinskip_90be2249:
@@ -1313,7 +1313,7 @@ translate frenchtl kevinskip_90be2249:
 translate frenchtl kevinskip_6416bef8:
 
     # Kv ramble "Not that I'd mind sleeping in a cave, but for someone like me it's usually something for an adventurous weekend rather than a way of life. And rocks don't exactly make for the best bedding."
-    Kv ramble "Ça ne me dérangerait pas de dormir dans une cave, mais pour quelqu'un comme moi c'est plutôt quelque chose que je fais pendant des weekends aventures plutôt qu'un mode de vie. Et la pierre ne fait pas vraiment bon matelas."
+    Kv ramble "Non pas que ça me dérangerait de dormir dans une grotte, mais pour quelqu'un comme moi c'est plutôt quelque chose que je fais pendant des weekends aventures plutôt qu'un mode de vie. Et la pierre ne fait pas vraiment bon matelas."
 
 # game/xkevin.rpy:595
 translate frenchtl kevinskip_3b6e23e1:
@@ -1349,7 +1349,7 @@ translate frenchtl kevinskip_f125c570:
 translate frenchtl kevinskip_6382e958:
 
     # c "You're not helping your case there. Besides, you won't really find anything special here."
-    c "Tu ne joues pas en ta faveur là. En plus, il n'y à rien d'intéressant à trouver ici."
+    c "Tu ne joues pas en ta faveur là. En plus, il n'y a rien d'intéressant à trouver ici."
 
 # game/xkevin.rpy:607
 translate frenchtl kevinskip_8445c079:
@@ -1391,7 +1391,7 @@ translate frenchtl _call_syscheck_63_bd31438c:
 translate frenchtl _call_syscheck_63_c1c9e899:
 
     # Kv face "Yeah, I should head out before it gets too dark to see anything. This town doesn't really have the best lighting at night, either."
-    Kv face "Ouais, je devrais rentrer avant qu'on y voie plus rien du tout. En plus, ce village n'a pas vraiment les meilleurs éclairages nocturens."
+    Kv face "Ouais, je devrais rentrer avant qu'on y voit plus rien du tout. En plus, ce village n'a pas vraiment les meilleurs éclairages nocturnes."
 
 # game/xkevin.rpy:668
 translate frenchtl _call_syscheck_63_428b6f21:
@@ -1421,7 +1421,7 @@ translate frenchtl _call_syscheck_64_0eec7fa6:
 translate frenchtl _call_syscheck_64_51d63611:
 
     # s "You just met with Kevin and learned a lot about city and college life. I don't know what else to say about this."
-    s "Vous avez rencontré Kevin et appris beaucoup sur la ville ainsi que la vie universitaire. Je ne vois pas quoi ajouter."
+    s "Vous avez rencontré Kevin et appris beaucoup sur la ville ainsi que la vie universitaire. Je ne vois pas quoi ajouter d'autre."
 
 translate frenchtl strings:
 
