@@ -4,7 +4,7 @@
 translate french bryce3_792d97d3:
 
   # Br "There you are, [player_name]."
-  Br "Tiens, il ne manquait plus que toi, [player_name] !"
+  Br "Ah, te voilà, [player_name] !"
 
 # game/bryce3.rpy:51
 translate french _call_skiptut_26_0ff5f677:
@@ -52,7 +52,7 @@ translate french _call_skipcheck_26_b50ff404:
 translate french _call_skipcheck_26_f0dffd63:
 
   # Br normal "Oh, you are. It's just that everyone always gets so excited about this that they come a little earlier."
-  Br normal "Oh, mais tu l'es ! C'est juste que c'est une habitude pour tout le monde d'arriver en avance. C'est une soirée détente qu'on attend tous avec impatience, tu comprends."
+  Br normal "Oh, mais tu l'es ! C'est juste que tout le monde est tellement impatient, qu'on arrive tous un peu en avance."
 
 # game/bryce3.rpy:117
 translate french _call_skipcheck_26_94a3cc11:
@@ -70,7 +70,7 @@ translate french _call_skipcheck_26_5bcbc928:
 translate french _call_skipcheck_26_594586e6:
 
   # Br brow "Before you go and meet the others, I should probably warn you."
-  Br brow "Bon, par contre, avant qu'on retrouve les autres, il faut que je te prévienne."
+  Br brow "Par contre, avant qu'on retrouve les autres, il faut que je te prévienne."
 
 # game/bryce3.rpy:123
 translate french _call_skipcheck_26_0f173ebb:
@@ -88,7 +88,7 @@ translate french _call_skipcheck_26_f6646abe:
 translate french _call_skipcheck_26_f930bbb0:
 
   # c "And who would that be?"
-  c "De qui tu parles ?"
+  c "Et de qui s'agit-il ?"
 
 # game/bryce3.rpy:129
 translate french _call_skipcheck_26_459212fa:
@@ -106,19 +106,19 @@ translate french _call_skipcheck_26_a6ab1f5b:
 translate french _call_skipcheck_26_21796c83:
 
   # Br "All things considered, I think it's better for him to be here where I can watch him than if he was out there doing who knows what. You know what I mean?"
-  Br "En fait, je préfère le savoir ici avec nous que dehors à faire je ne sais quoi, tu comprends ?"
+  Br "En fait, je préfère le savoir ici avec nous, que dehors à faire je ne sais quoi, tu comprends ?"
 
 # game/bryce3.rpy:135
 translate french _call_skipcheck_26_9a4a94cc:
 
   # Br brow "Besides, if I invited you and not him, I'm not sure how he would've reacted. He's always come to my BBQs before. Plus, maybe if I talk to him, I can find out what he's up to."
-  Br brow "Et puis, si je t'avais invité, mais que je l'avais zappé, va savoir comment il l'aurait pris. Il vient tous les ans à mes barbecues, et puis qui sait ? Si je lui parle un peu ce soir, je pourrai peut-être en apprendre plus sur ses plans ?"
+  Br brow "Et puis, si je t'avais invité, mais que je l'avais zappé, va savoir comment il l'aurait pris. Il vient tous les ans à mes barbecues, et puis qui sait ? Si je lui parle un peu ce soir, je pourrai peut-être en apprendre plus sur ses plans."
 
 # game/bryce3.rpy:137
 translate french _call_skipcheck_26_d32deb63:
 
   # c "Does he know that I'm here?"
-  c "Il sait que je suis là, au moins ?"
+  c "Il sait que je suis là ?"
 
 # game/bryce3.rpy:139
 translate french _call_skipcheck_26_76d56e53:
@@ -166,7 +166,7 @@ translate french _call_skipcheck_26_9c76eb26:
 translate french _call_skipcheck_26_c58e35f6:
 
   # c "Whatever, man."
-  c "Peu importe. Amusez vous bien."
+  c "Peu importe."
 
 # game/bryce3.rpy:203
 translate french _call_skipcheck_26_cf7d82bd:
@@ -196,7 +196,7 @@ translate french _call_skipcheck_26_ba2312a4:
 translate french _call_skipcheck_26_f6ae1743:
 
   # Br "You may remember Zhong, the waiter at that bar."
-  Br "Tu te souviens peut-être de Zhong ? Il travaille au bar, tu sais ?"
+  Br "Tu te souviens peut-être de Zhong ? Il travaille au bar."
 
 # game/bryce3.rpy:221
 translate french _call_skipcheck_26_0b0daba2:
@@ -268,13 +268,13 @@ translate french _call_skipcheck_26_ef4853a1:
 translate french _call_skipcheck_26_801982ee:
 
   # Mv "But you know what? This evening won't be very enjoyable if you decide to have an attitude."
-  Mv "Mais tu sais quoi ? Je vais avoir du mal à profiter de la soirée si tu m'fais chier."
+  Mv "Mais tu sais quoi ? Je vais avoir du mal à profiter de la soirée si tu te braques."
 
 # game/bryce3.rpy:272
 translate french _call_skipcheck_26_f7e5822c:
 
   # Mv "Because I can have an attitude too, and I doubt you want to see that."
-  Mv "Si tu commences, je vais m'énerver, et crois moi, t'as pas envie que je m'énerve."
+  Mv "Moi aussi, je peux me braquer, et crois-moi, tu ne veux pas voir ça."
 
 # game/bryce3.rpy:276
 translate french _call_skipcheck_26_9f918b05:
@@ -316,7 +316,7 @@ translate french _call_skipcheck_26_74a1c4c6:
 translate french _call_skipcheck_26_f3451469:
 
   # Br "You see that pile of stones over there? That's our grill."
-  Br "Tu vois ce tas de pierres là ? C'est ça, notre grill."
+  Br "Tu vois ce tas de pierres, là ? C'est ça, notre grill."
 
 # game/bryce3.rpy:305
 translate french _call_skipcheck_26_56141cb5:
@@ -352,8 +352,7 @@ translate french _call_skipcheck_26_c9a2f9cc:
 translate french _call_skipcheck_26_fee41e3f:
 
   # Br laugh "No need to be subtle about it. Zhong, your fire stunk up the whole area last year, and it made everything taste weird."
-  Br laugh "Dis, Zhong, je dois te rappeler le goût que ton feu a donné à la viande la dernière fois ? Sans parler de l'odeur !"
-
+  Br laugh "Subtil de rien du tout ! Zhong, la dernière fois, avec ton feu, ça puait dans tous les coins et ça a gâché le goût de tous les plats !"
 # game/bryce3.rpy:319
 translate french _call_skipcheck_26_7c44e1e5:
 
@@ -370,7 +369,7 @@ translate french _call_skipcheck_26_0570dac0:
 translate french _call_skipcheck_26_fe876ac2:
 
   # Zh "I told you, I had the flu."
-  Zh "Hé, j'y peux rien, j'avais la grippe !"
+  Zh "Je vous l'ai déjà dit, j'avais la grippe !"
 
 # game/bryce3.rpy:325
 translate french _call_skipcheck_26_41418e3f:
@@ -382,7 +381,7 @@ translate french _call_skipcheck_26_41418e3f:
 translate french _call_skipcheck_26_4f7016c1:
 
   # Zh "Yes, because of the flu. Everything was congested, so it was hard to get anything out at all."
-  Zh "Oui, mais bon à cause de cette fichue grippe, j'avoue que c'était un peu encombré là-dedans. C'était difficile de cracher une flamme digne de ce nom."
+  Zh "Oui, mais bon, c'est vraiment à cause de cette fichue grippe ! j'avoue que c'était un peu encombré là-dedans. C'était difficile de cracher une flamme digne de ce nom."
 
 # game/bryce3.rpy:331
 translate french _call_skipcheck_26_40ccf354:
@@ -424,13 +423,13 @@ translate french _call_skipcheck_26_9d98d212:
 translate french _call_skipcheck_26_bc41b308:
 
   # Br laugh "No, thanks. Last year was bad enough."
-  Br laugh "Nan, c'est bon ! On a déjà assez souffert l'an passé !"
+  Br laugh "Non, c'est bon ! On a déjà assez souffert l'an passé !"
 
 # game/bryce3.rpy:347
 translate french _call_skipcheck_26_b8f76218:
 
   # Mv "Why don't you do it, Bryce?"
-  Mv "Et toi Bryce, pourquoi tu ne t'en chargerais pas ?"
+  Mv "Et toi, Bryce, pourquoi tu ne t'en chargerais pas ?"
 
 # game/bryce3.rpy:349
 translate french _call_skipcheck_26_1be12521:
@@ -448,7 +447,7 @@ translate french _call_skipcheck_26_eef42808:
 translate french _call_skipcheck_26_57301c81:
 
   # Mv "I like that idea."
-  Mv "L'idée me plaît, ouais."
+  Mv "L'idée me plaît."
 
 # game/bryce3.rpy:355
 translate french _call_skipcheck_26_7652b763:
@@ -466,7 +465,7 @@ translate french _call_skipcheck_26_5935188e:
 translate french _call_skipcheck_26_ccc39dc0:
 
   # Br "Go ahead, [player_name]. Show us what you got."
-  Br "Vas-y, [player_name]. Montre nous de quoi tu es capable !"
+  Br "Vas-y, [player_name]. Montre-nous de quoi tu es capable !"
 
 # game/bryce3.rpy:361
 translate french _call_skipcheck_26_f1e8a8e2:
@@ -580,7 +579,7 @@ translate french _call_skipcheck_26_f37974db:
 translate french _call_skipcheck_26_fa5e4b78:
 
   # Br smirk "Just go ahead, then. We already agreed Zhong is not doing it."
-  Br smirk "Vas-y alors. Avant que Zhong ne prenne la décision de le faire !"
+  Br smirk "Vas-y alors. On s'est mis d'accord, cette fois, ce ne sera pas Zhong."
 
 # game/bryce3.rpy:416
 translate french _call_skipcheck_26_a3df16ad:
@@ -682,7 +681,7 @@ translate french _call_skipcheck_26_56740aa4:
 translate french _call_skipcheck_26_337ae358:
 
   # Br smirk "Alright, everyone. Pick your poison."
-  Br smirk "Okay, tout le monde. Je vous laisse choisir votre poison !"
+  Br smirk "Okay, tout le monde. Chacun sa bibine !"
 
 # game/bryce3.rpy:463
 translate french _call_skipcheck_26_aed49506:
@@ -694,7 +693,7 @@ translate french _call_skipcheck_26_aed49506:
 translate french _call_skipcheck_26_04aa86a6:
 
   # Br "Of course we have all varieties of meat, but we also have some vegetables and cheese, if you're into that sort of thing."
-  Br "Bien sûr, on a aussi pas mal de viande, mais on a aussi quelques légumes et même du fromage si ça te dit."
+  Br "Bien sûr, on a toutes sortes de viande, mais on a aussi quelques légumes et même du fromage si ça te dit."
 
 # game/bryce3.rpy:467
 translate french _call_skipcheck_26_426bef2c:
@@ -724,13 +723,13 @@ translate french _call_skipcheck_26_b9a36056:
 translate french _call_skipcheck_26_f3b546bd:
 
   # Zh "Oh, shut up. Or else I'll force feed you some of it."
-  Zh "Oh, s'te plaît, ne me donne pas envie de t'en faire manger de force !"
+  Zh "Oh, la ferme, ne me donne pas envie de t'en faire manger de force !"
 
 # game/bryce3.rpy:477
 translate french _call_skipcheck_26_7d51f10f:
 
   # Br laugh "No, thanks. Keep your cheese to yourself, please."
-  Br laugh "Nan, c'est bon, garde ton fromage qui pue pour toi !"
+  Br laugh "Non, c'est bon, garde ton fromage qui pue pour toi !"
 
 # game/bryce3.rpy:479
 translate french _call_skipcheck_26_56cf3634:
@@ -754,13 +753,13 @@ translate french _call_skipcheck_26_feae89c5:
 translate french _call_skipcheck_26_0916db2a:
 
   # Zh "A few years ago, a sandstone managed to hide between some slabs of meat he got. He didn't even notice and just kept on munching."
-  Zh "D'ailleurs, il y a trois ou quatre ans, une pierre de grès a réussi à se faufiler entre deux tranches de viande qu'il avait prise. Il les a mangé sans faire d'histoire !"
+  Zh "D'ailleurs, il y a trois ou quatre ans, une pierre de grès a réussi à se faufiler entre deux tranches de viande qu'il avait prises. Il a tout mangé, sans faire attention !"
 
 # game/bryce3.rpy:490
 translate french _call_skipcheck_26_9a763925:
 
   # Mv "Yeah, but that was with Bryce's cooking, so I couldn't tell the difference."
-  Mv "Ouais, mais bon avec le feu de Bryce tu sais, je ne pouvais pas faire la différence."
+  Mv "Ouais, mais bon, avec le feu de Bryce, tu sais, je ne pouvais pas faire la différence."
 
 # game/bryce3.rpy:492
 translate french _call_skipcheck_26_2a96a184:
@@ -784,7 +783,7 @@ translate french _call_skipcheck_26_1e04f53b:
 translate french _call_skipcheck_26_64e0345e:
 
   # Sb "So Bryce, how's that stint with Emera going for you?"
-  Sb "Au fait Bryce, ça se passe comment tes vacances avec Emera ?"
+  Sb "Au fait Bryce, ça se passe comment, ton boulot avec Emera ?"
 
 # game/bryce3.rpy:511
 translate french _call_skipcheck_26_51012eaa:
@@ -838,31 +837,31 @@ translate french _call_skipcheck_26_8757efbe:
 translate french _call_skipcheck_26_28e69f27:
 
   # Br laugh "You all know what she's like in public, right? But as soon as it's only us two in the room, she's like a totally different person. It's unreal."
-  Br laugh "Vous savez comment elle est en public, non ? Eh ben, quand on n'est plus que tous les deux, c'est plus du tout la même. Moi même, j'y crois pas !"
+  Br laugh "Vous savez comment elle est en public, non ? Eh ben, quand on n'est plus que tous les deux, c'est plus du tout la même. C'est même choquant !"
 
 # game/bryce3.rpy:531
 translate french _call_skipcheck_26_5d0ba434:
 
   # Sb "I mean, I believe that she's different in private, but still..."
-  Sb "O, allez, je veux bien croire qu'elle peut être différente en privé, mais quand même..."
+  Sb "Oh, allez, je veux bien croire qu'elle soit différente en privé, mais quand même..."
 
 # game/bryce3.rpy:533
 translate french _call_skipcheck_26_0b89dc64:
 
   # Zh "Of course, Bryce. When you make up a story, just going out with a high-ranking politician isn't enough. Obviously, she also can't resist your manly allure."
-  Zh "Bien sûr, Bryce. Madame la ministre qui a le béguin pour toi. C'est évident, elle ne résiste pas au mâle viril que tu es."
+  Zh "Bien sûr, Bryce. Madame la Ministre qui a le béguin pour toi. C'est évident, elle ne résiste pas au mâle viril que tu es."
 
 # game/bryce3.rpy:535
 translate french _call_skipcheck_26_d63c67d4:
 
   # Br laugh "But it's true. I'm not even interested in her. For one, she isn't really my type, and regardless if it's her public or private persona, her personality really sucks."
-  Br laugh "Mais c'est la vérité ! Le pire c'est que physiquement, elle ne m'attire pas plus que ça ! Déjà y a ça, et peu importe que ce soit en privé ou en publique, niveau personalité, je colle pas !"
+  Br laugh "Mais c'est la vérité ! Elle ne m'attire pas plus que ça, en plus ! Déjà, c'est pas mon genre, et peu importe que ce soit en privé ou en public, niveau personalité, ça ne colle pas !"
 
 # game/bryce3.rpy:537
 translate french _call_skipcheck_26_ef0b4fdd:
 
   # Sb smile flip "What was that about sucking?"
-  Sb smile flip "Hé, c'est quoi cette histoire d'essayer de te coller à elle ?"
+  Sb smile flip "Qu'est-ce qui ne colle pas à qui, exactement ?"
 
 # game/bryce3.rpy:539
 translate french _call_skipcheck_26_71a0ef03:
@@ -946,7 +945,7 @@ translate french _call_skipcheck_26_f83c1e51:
 translate french _call_skipcheck_26_0391cfcb:
 
   # Br "And then later, she was suddenly like: \"Oh, my back is so stiff! Would you mind giving me a massage? You look like you have the proper strength to give me a good one.\" It's like she's not even trying to hide it."
-  Br "Plus tard, elle a même dit : \"Oh, j'ai tellement de raideurs dans le dos, si vous pouviez me faire un massage, je suis sûr que vous avez la force de m'en faire un bon.\", comme ça sans pression ! Elle n'essaie même pas de se cacher !"
+  Br "Plus tard, elle a même dit : \"Oh, j'ai tellement de raideurs dans le dos, si vous pouviez me faire un massage, je suis sûr que vous avez la force de m'en faire un bon.\" ! Elle n'essaie même pas de se cacher !"
 
 # game/bryce3.rpy:577
 translate french _call_skipcheck_26_90b9c1a8:
@@ -970,7 +969,7 @@ translate french _call_skipcheck_26_320dc242:
 translate french _call_skipcheck_26_12f5b5b5:
 
   # Br brow "Whaat?"
-  Br brow "Bordel de m... ?"
+  Br brow "Attends, quoi !??"
 
 # game/bryce3.rpy:585
 translate french _call_skipcheck_26_dcf91048:
@@ -1030,7 +1029,7 @@ translate french bryce3pass_c2b36d6d:
 translate french bryce3pass_adc67f3b:
 
   # Br "Of course not! I told her I'm no good with massages. That's the truth."
-  Br "Nan, heureusement ! Je lui ai dit que j'étais pas terrible pour les massages, c'est la vérité !"
+  Br "Non, heureusement ! Je lui ai dit que j'étais pas terrible pour les massages, c'est la vérité !"
 
 # game/bryce3.rpy:616
 translate french bryce3pass_09addac1:
@@ -1078,7 +1077,7 @@ translate french bryce3pass_01f01318:
 translate french bryce3pass_5693fea0:
 
   # Sb "Actually, I don't think even Bryce could've come up with that one on his own."
-  Sb "Nan, là par contre, je ne crois pas que Bryce aurait pu trouver ça tout seul."
+  Sb "Mmh, là par contre, je ne crois pas que Bryce aurait pu trouver ça tout seul."
 
 # game/bryce3.rpy:632
 translate french bryce3pass_2e986e96:
@@ -1096,7 +1095,7 @@ translate french bryce3pass_13743d65:
 translate french bryce3pass_4f731751:
 
   # c "I do. I can totally picture Emera acting like that."
-  c "En fait, j'imagine bien Emera agir ainsi."
+  c "J'y crois, j'imagine bien Emera agir ainsi."
 
 # game/bryce3.rpy:642
 translate french bryce3pass_4a74f01f:
@@ -1156,7 +1155,7 @@ translate french bryce3pass_570e8480:
 translate french bryce3pass_cb52318b:
 
   # Br laugh "If I don't do anything, I'll probably end up having to marry her or something."
-  Br laugh "Mais si je la laisse faire, je vais me réveiller un matin et elle sera dans mon lit, ou une connerie du genre !"
+  Br laugh "Mais si je la laisse faire, elle va me demander en mariage, ou un truc du genre !"
 
 # game/bryce3.rpy:672
 translate french bryce3pass_c0ac7d7f:
@@ -1216,13 +1215,13 @@ translate french bryce3pass_38354092:
 translate french bryce3pass_cc8d7953:
 
   # Br "I'm not going to indulge her in any way, shape or form."
-  Br "Il est hors de question que je cède de toute façon, nan."
+  Br "Il est hors de question que je cède de toute façon !"
 
 # game/bryce3.rpy:692
 translate french bryce3pass_f70303b4:
 
   # Br brow "Ugh, this is the kind of situation that's going to cause a huge uproar if I include it in my memoir."
-  Br brow "Merde, c'est le genre de connerie qui va faire tâche si je l'inclus dans mes mémoires !"
+  Br brow "Tch, c'est le genre de bêtises qui va faire tâche si je l'inclus dans mes mémoires !"
 
 # game/bryce3.rpy:694
 translate french bryce3pass_b4e1b16c:
@@ -1294,7 +1293,7 @@ translate french bryce3pass_1924f39e:
 translate french bryce3pass_e20f6be9:
 
   # Br laugh "I kinda doubt that, but you never know."
-  Br laugh "J'en doute un peu, mais bon on sait jamais."
+  Br laugh "J'en doute un peu, mais bon, on sait jamais."
 
 # game/bryce3.rpy:749
 translate french bryce3pass_0877bf2d:
@@ -1342,13 +1341,13 @@ translate french bryce3pass_40bc9a18:
 translate french bryce3pass_41c5f45d:
 
   # c "And what happens if those couples want to have a child?"
-  c "Mais si ces couples veulent un enfant ?"
+  c "ET si ces couples veulent un enfant ?"
 
 # game/bryce3.rpy:767
 translate french bryce3pass_937a7587:
 
   # Zh "There are plenty of options, though usually it's either adoption, or a child where only one of the parents is biologically related."
-  Zh "Il existe plusieurs options pour ces couples. En général, quand ils n'adoptent pas, l'un des deux conçoit une progéniture que tout les deux élèvent. Pour le deuxième cas, ce ne sont pas les méthodes qui manquent."
+  Zh "Il existe de nombreuses options, bien que ce soit généralement de l'adoption, ou un enfant dont seulement l'un des deux parents est un parent biologique."
 
 # game/bryce3.rpy:769
 translate french bryce3pass_61881e5f:
@@ -1366,13 +1365,13 @@ translate french bryce3pass_f06e945d:
 translate french bryce3pass_46878a3b:
 
   # Br "Heck, no! I'm not ready for that. I wouldn't even know what to do with a hatchling. I'd prolly end up breaking its neck by accident or something like that."
-  Br "Ah, nan ! Je suis pas prêt pour ce genre de truc, en fait, je ne saurais même pas quoi faire d'un p'tit ! Me connaissant, je suis foutu de lui briser la nuque par accident le pauvre !"
+  Br "Ah, non et non ! Je suis pas prêt pour ce genre de truc, en fait, je ne saurais même pas quoi faire d'un p'tit ! Me connaissant, je suis fichu de lui briser la nuque par accident, le pauvre !"
 
 # game/bryce3.rpy:777
 translate french bryce3pass_0a839ea3:
 
   # Sb "What about you, [player_name]?"
-  Sb "Et toi [player_name] ?"
+  Sb "Et toi, [player_name] ?"
 
 # game/bryce3.rpy:779
 translate french bryce3pass_89580907:
@@ -1390,8 +1389,8 @@ translate french bryce3pass_e5ae2583:
 translate french bryce3pass_02a1d5e9:
 
   # c "To be honest, I have no idea how that kind of relationship would be viewed where I come from. Since we only have one sentient species, I'm not sure what sort of social norms we'd develop if that changed."
-  c "Ben, très franchement, je n'imagine pas revenir d'ici et dire à mes semblables \"je sors avec quelqu'un que j'ai rencontré dans le monde des dragons\"..."
-  c "Dans mon monde, il n'y a qu'une seule espèce douée de sensibilité. Je n'ai aucune idée de comment on interpréterait la relation entre un dragon et une femme par exemple."
+  c "Ben, très franchement, je n'imagine pas comment ce genre de relations serait considéré là d'où je viens..."
+  c "Dans mon monde, il n'y a qu'une seule espèce douée de sensibilité. Je n'ai aucune idée du genre de chemin qu'on prendrait si ces relations se développaient."
 
 # game/bryce3.rpy:785
 translate french bryce3pass_9e96ef3e:
@@ -1409,7 +1408,7 @@ translate french bryce3pass_32106b28:
 translate french bryce3pass_eab18ce4:
 
   # Br "If you ask me, you can do whatever you like as long as you're here. Knock yourself out."
-  Br "Si tu me demandes mon avis [player_name], t'es libre de faire ce que tu veux ici. Au contraire, fais-toi plaisir !"
+  Br "Si tu me demandes mon avis, [player_name], t'es libre de faire ce que tu veux ici. Au contraire, fais-toi plaisir !"
 
 # game/bryce3.rpy:793
 translate french bryce3pass_ceddac29:
@@ -1637,7 +1636,7 @@ translate french bryce3pass_33adf22d:
 translate french bryce3pass_b0648beb:
 
   # Br "You're playing with fire there, [player_name]."
-  Br "Tu joues avec le feu là, [player_name]."
+  Br "Tu joues avec le feu, là, [player_name]."
 
 # game/bryce3.rpy:915
 translate french bryce3pass_433a8aeb:
@@ -1709,7 +1708,7 @@ translate french bryce3pass_abf373af:
 translate french bryce3pass_a2a40ca8:
 
   # Br stern "There's no need to bring that up right now."
-  Br stern "Ouais nan, pas la peine de parler de ça maintenant."
+  Br stern "Ouais, non, pas la peine de parler de ça maintenant."
 
 # game/bryce3.rpy:949
 translate french bryce3pass_d0adb918:
@@ -1769,7 +1768,7 @@ translate french bryce3pass_601f9712:
 translate french bryce3pass_4e3e75dd:
 
   # m "Slowly, everyone shuffled towards the fire, which by now had become nothing more than an eerily glowing pile that illuminated the area. One by one, everyone took their hot food from the stone bed and placed it onto the provided paper plates and bowls."
-  m "Tranquillement, chacun se servit, le chouette brasier d'avant avait laissé la place à de ridicules petites flammèches qui illuminait la zone."
+  m "Tranquillement, chacun se servit, le chouette brasier d'avant avait laissé la place à de ridicules petites flammèches qui illuminaient la zone."
   m "Un par un, chacun prit sa part grillée sur le lit de pierres, et la déposa dans les assiettes en carton et les bols fournis."
 
 # game/bryce3.rpy:979
@@ -1962,7 +1961,7 @@ translate french bryce3pass_c90fb6a7:
 translate french bryce3pass_81d54e72:
 
   # Br brow "Oh no you don't."
-  Br brow "Oh nan, je ne crois pas."
+  Br brow "Oh non, je ne crois pas."
 
 # game/bryce3.rpy:1067
 translate french bryce3pass_3070bc42:
@@ -1986,7 +1985,7 @@ translate french bryce3pass_6f947559:
 translate french bryce3pass_5a3e36bf:
 
   # Br laugh "You can sleep over at my place."
-  Br laugh "Nan ! Mais tu peux dormir chez moi, par contre."
+  Br laugh "Non ! Mais tu peux dormir chez moi, par contre."
 
 # game/bryce3.rpy:1075
 translate french bryce3pass_03cedeb1:
@@ -2028,7 +2027,7 @@ translate french bryce3pass_82bfe30d:
 translate french bryce3pass_08c81ff2:
 
   # Br laugh "It's no trouble. Gotta pass the time somehow."
-  Br laugh "Nan, t'inquiète. Et puis on va pas ranger tout ça comme deux abrutis qui n'ont rien à se dire, hein."
+  Br laugh "Non, t'inquiète. Et puis on va pas ranger tout ça comme deux abrutis qui n'ont rien à se dire, hein."
 
 # game/bryce3.rpy:1109
 translate french bryce3pass_494eab75:
@@ -2076,13 +2075,13 @@ translate french bryce3pass_edd97bfe:
 translate french bryce3pass_acc0137a:
 
   # n "Then, one day, we heard from someone that there was a system of caves nearby. Caves! That was something completely new to us. Of course we went there as soon as we could."
-  n "Un jour, on a entendu parler d'un réseau de grottes tout proche. Des grottes, le truc qu'on n'avait jamais exploré ! On était curieux de ce truc tout nouveau pour nous, aussi on s'y est rendus à la première occaz'."
+  n "Un jour, on a entendu parler d'un réseau de grottes tout proche. Des grottes, le truc qu'on n'avait jamais exploré ! Bien sûr, on s'y est rendus à la première occaz'."
 
 # game/bryce3.rpy:1132
 translate french bryce3pass_f4969d34:
 
   # n "We were all very excited. It wasn't a big cave system - not big enough to get lost in - but we still had so much fun that day."
-  n "On était comme des dingues là dedans. C'était un petit réseau, mais quand même j'peux te dire qu'on s'est bien amusé ce jour là."
+  n "On était comme des fous là-dedans. C'était un petit réseau, pas de quoi se perdre, mais on s'est bien amusés ce jour-là !"
 
 # game/bryce3.rpy:1134
 translate french bryce3pass_3b81e1f3:
@@ -2112,7 +2111,7 @@ translate french bryce3pass_40aa9350:
 translate french bryce3pass_3b2582ce:
 
   # n "Maybe that was my mistake. When I was in one of the remote corners, the ground suddenly gave way and I fell about 5 metres into the cave below."
-  n "Mais c'était peut-être ça ma pire connerie ce jour là. J'étais dans l'un de ces recoins quand le sol s'est effondré sous mes pattes. J'a chuté de cinq mètres, et me suis retrouvé dans une grotte au dessous."
+  n "Mais c'était peut-être ça ma pire erreur ce jour-là. J'étais dans l'un de ces recoins quand le sol s'est effondré sous mes pattes, et j'ai chuté de cinq mètres, dans une grotte au-dessous."
 
 # game/bryce3.rpy:1146
 translate french bryce3pass_b477ced8:
@@ -2124,7 +2123,7 @@ translate french bryce3pass_b477ced8:
 translate french bryce3pass_525bcad9:
 
   # n "There were a few holes, but I could never fit through any of them or make them bigger in any way. Even if I could, I didn't know where they'd lead."
-  n "J'avais bien trouvé quelques creux, mais aucun n'étais assez large pour moi. Et impossible de creuser ou quoi, de toute façon je n'avais aucune idée d'où ils menaient."
+  n "J'avais bien trouvé quelques creux, mais aucun n'étais assez large pour moi. Et impossible de creuser ou quoi, de toute façon, je n'avais même aucune idée d'où ils menaient."
 
 # game/bryce3.rpy:1151
 translate french bryce3pass_76b2fe88_2:
@@ -2298,7 +2297,7 @@ translate french bryce3skip_a51acc44:
 translate french bryce3skip_529ddb3d:
 
   # Br "Oh, this is just a temporary arrangement. I wanted to be closer to work and the new apartment wasn't ready yet, so I have to stay here for a while."
-  Br "Oh, c'est temporaire, tu sais. Je voulais me rapprocher du poste, et mon nouvel appartement n'est pas encore prêt. Alors, en attendant, je crèche ici."
+  Br "Oh, c'est temporaire, tu sais. Je voulais me rapprocher du poste, et mon nouvel appartement n'est pas encore prêt. Alors, en attendant, je reste ici."
 
 # game/bryce3.rpy:1263
 translate french bryce3skip_89aefe22:
@@ -2310,7 +2309,7 @@ translate french bryce3skip_89aefe22:
 translate french bryce3skip_326beed0:
 
   # Br "With all this armor, I'll barely even feel anything, so it doesn't matter where I sleep."
-  Br "Avec ce cuir, je ne sentirai quasiment rien, peu importe ou je pionce."
+  Br "Avec ce cuir, je ne sentirai quasiment rien, peu importe ou je dors."
 
 # game/bryce3.rpy:1275
 translate french bryce3skip_84a6eb8a:
@@ -2406,7 +2405,7 @@ translate french bryce3skip_037084a2:
 translate french bryce3skip_240f7c23:
 
   # c "I'll sleep on the floor. You've already done enough with the BBQ and everything."
-  c "T'en as assez fait pour ce soir entre le barbecue et tout le reste."
+  c "Je vais dormir par terre. T'en as assez fait pour ce soir entre le barbecue et tout le reste."
 
 # game/bryce3.rpy:1352
 translate french bryce3skip_b546a4e4:
