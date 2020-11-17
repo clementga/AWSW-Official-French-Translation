@@ -5018,8 +5018,8 @@ translate french strings:
     new "Je pense que je vais bien."
     
     # chapter1.rpy:2960
-    #old "I'm not sure."
-    #new "Je n'en suis pas sûr."
+    old "I'm not sure."
+    new "Je n'en suis pas sûr."
 
     # chapter1.rpy:2960
     old "Reza shot Maverick and ran off."
