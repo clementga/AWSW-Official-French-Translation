@@ -1618,7 +1618,7 @@ translate french zhongcont_51228e14:
 translate french zhongcont_e3d4538d:
     
     # Zh "No, I don't want what he has, but I'm finding it hard to find just one prospective partner."
-    Zh "Non, pas à ce point. Mais j'ai du mal à trouver ne serait-ce une seule personne qui me plaise."
+    Zh "Non, pas à ce point. Mais j'ai du mal à trouver ne serait-ce qu'une seule personne qui me plaise."
 
 # game/xzhong.rpy:1128
 translate french zhongcont_59179214:
@@ -1642,13 +1642,13 @@ translate french zhongcont_3dff664f:
 translate french zhongcont_8773ce08:
     
     # Zh "That doesn't make things easier, you know. In a way, you're not just dating the person, you're also dating the kid, if you know what I mean."
-    Zh "Ça ne rends pas les choses plus faciles, vous savez ? D'une certaine manière, la personne qui sera prête à m'accepter, devra également accepter mon fils, vous comprenez ?"
+    Zh "Ça ne rends pas les choses plus faciles, vous savez. D'une certaine manière, vous ne sortez pas qu'avec la personne en question , vous devez aussi séduire le gamin, si vous voyez ce que je veux dire."
 
 # game/xzhong.rpy:1136
 translate french zhongcont_44785c0a:
     
     # c "Now that just sounds wrong."
-    c "Ça semble un peu bizarre comme relation, non ?"
+    c "Ouais, non ça a juste l'air bizarre."
 
 # game/xzhong.rpy:1138
 translate french zhongcont_ccc98776:
@@ -1661,123 +1661,179 @@ translate french zhongcont_723be07b:
     
     # Zh "It can make things rather difficult, that's all."
     Zh "C'est juste que ça peut rendre les choses plus difficiles, c'est tout."
+
 # game/xzhong.rpy:1142
 translate french zhongcont_0dd53709:
+    
     # c "Alright, maybe we'll have to work on your approach. What's the first thing you notice about a person?"
     c "D'accord, il faut peut-être travailler sur votre manière d'aborder les gens. Qu'est-ce que vous remarquez en premier chez une personne ?"
+
 # game/xzhong.rpy:1144
 translate french zhongcont_b7903570:
+    
     # Zh serv b "Their personality."
     Zh serv b "Sa personnalité."
+
 # game/xzhong.rpy:1146
 translate french zhongcont_4e24c2ca:
+    
     # c "Really?"
     c "Ah oui ?"
+
 # game/xzhong.rpy:1148
 translate french zhongcont_141b19f7:
+    
     # Zh normal b "I meet so many people here every day. When they're customers, the thing that always stands out about them most is how they treat their servers."
-    Zh normal b "Vous savez, chaque jours je rencontre beaucoup de monde ici. Et s'il y a une chose que l'on remarque le plus, c'est la manière dont ils nous traitent, nous les serveurs."
+    Zh normal b "Vous savez, chaque jour je rencontre beaucoup de monde ici. Et s'il y a une chose que l'on remarque le plus, c'est la manière dont ils nous traitent, nous les serveurs."
+
 # game/xzhong.rpy:1150
 translate french zhongcont_89aefe22_2:
+    
     # c "I see."
     c "Je vois."
+
 # game/xzhong.rpy:1152
 translate french zhongcont_e76afc30:
+    
     # Zh "Besides, I'm not interested in relationships based on looks. I like talking to people and getting to know them that way."
-    Zh "D'ailleurs, je ne suis pas tenté par une relation uniquement basée sur l'apparence. J'aime parler aux gens et les découvrir de cette façon."
+    Zh "De plus, je ne suis pas intéressé par une relation uniquement basée sur l'apparence. J'aime parler aux gens et les découvrir de cette façon."
+
 # game/xzhong.rpy:1154
 translate french zhongcont_8ef4052c:
+    
     # Zh serv b "This also makes the whole thing harder for me, because I have to invest a lot more time to find out if we're compatible."
     Zh serv b "Ça rends les choses encore plus difficiles pour moi, puisqu'il faut investir beaucoup plus de temps pour savoir si je m'entends bien avec quelqu'un ou pas."
+
 # game/xzhong.rpy:1156
 translate french zhongcont_654a08bb:
+    
     # Zh normal b "You know, if a relationship doesn't work out for Bryce, he can just find someone else the next day, but for me this process can take a few months."
     Zh normal b "Vous voyez, si une relation ne marche pas pour Bryce, il n'a aucun mal à trouver quelqu'un d'autre le lendemain. Pour moi, c'est quelque chose qui peut prendre des mois."
+
 # game/xzhong.rpy:1158
 translate french zhongcont_0da57f1a:
+    
     # c "I can imagine."
     c "J'imagine oui."
+
 # game/xzhong.rpy:1160
 translate french zhongcont_c8b927f4:
+    
     # c "I don't think there's a recipe for success I can give you, though."
     c "Mais vous savez, je ne pense pas connaître la recette du succès malheureusement."
+
 # game/xzhong.rpy:1162
 translate french zhongcont_892a5ba3:
+    
     # Zh "Why not?"
     Zh "Pourquoi ?"
+
 # game/xzhong.rpy:1164
 translate french zhongcont_0ea48d4e:
+    
     # c "You seem to be doing pretty well already. You're nice and polite. I don't think you need to do anything different."
-    c "Vous vous en sortez bien à mon sens. Vous êtes gentil, poli, et intéressant. Je ne pense pas que vous ayez besoin de changer quelque chose pour être honnête."
+    c "Vous vous en sortez bien à mon sens. Vous êtes gentil et poli. Je ne pense pas que vous ayez besoin de changer quelque chose pour être honnête."
+
 # game/xzhong.rpy:1166
 translate french zhongcont_696aee04:
+    
     # Zh serv b "Is that what you think?"
     Zh serv b "C'est vraiment ce que vous pensez ?"
+
 # game/xzhong.rpy:1168
 translate french zhongcont_40c4c5d3:
+    
     # c "Yeah. Sure, it may take awhile to find someone, but I don't think there are any shortcuts for what you're trying to do. Just keep going and it'll happen eventually."
-    c "Oui, bien sûr. Je sais que ça peut prendre du temps de trouver la bonne personne, et je ne crois pas qu'il y ai de conseils miracles pour y arriver. Restez naturel, continuez et vous y arriverez."
+    c "Oui, bien sûr. Je sais que ça peut prendre du temps de trouver la bonne personne, et je ne crois pas qu'il y ait de conseils miracles pour y arriver. Restez naturel, continuez et vous y arriverez."
+
 # game/xzhong.rpy:1170
 translate french zhongcont_bf9f58b2:
+    
     # c "Besides, you've got some time to figure things out for yourself with your vacation coming up, right?"
-    c "En plus, vous allez avoir le temps d'y penser avec vos vacances qui approchent, non ?"
+    c "En plus, vous allez avoir le temps pour y penser avec vos vacances qui approchent, non ?"
+
 # game/xzhong.rpy:1172
 translate french zhongcont_7ea19d57:
+    
     # Zh smile b "That's true. It'll be an eye-opening experience in a number of ways. Maybe the relationship front is going to be one of them."
     Zh smile b "C'est vrai oui. Ça devrait être une expérience intéressante sur bien des points. Peut-être que je vais rencontrer quelqu'un d'intéressant durant notre périple."
+
 # game/xzhong.rpy:1174
 translate french zhongcont_0b6df0ac:
+    
     # c "Now that's the right attitude."
     c "Voilà, c'est comme ça que vous devez voir les choses."
+
 # game/xzhong.rpy:1176
 translate french zhongcont_4b2c0688:
+    
     # Zh serv b "And on that note, maybe we should call it night. It's pretty late."
-    Zh serv b "Et c'est sur ces mots que nous devrions penser à nous séparer. Il commence à se faire tard."
+    Zh serv b "Et c'est sur ces mots que nous devrions finir cette soirée. Il commence à se faire tard."
+
 # game/xzhong.rpy:1178
 translate french zhongcont_a618835a:
+    
     # c "Yeah, you're right."
-    c "Oui, en effet."
+    c "Oui, vous avez raison."
+
 # game/xzhong.rpy:1182
 translate french zhongskip_6ea2dff1:
+    
     # Zh "Well, thank you for the wonderful evening."
     Zh "Eh bien, merci beaucoup pour cette merveilleuse soirée, ce fut un plaisir."
+
 # game/xzhong.rpy:1184
 translate french zhongskip_e085fae4:
+    
     # c "Likewise."
     c "Le plaisir est pour moi."
+
 # game/xzhong.rpy:1186
 translate french zhongskip_a4cb4984:
+    
     # Zh "Not to mention the advice, and for buying my stuff."
     Zh "Sans parler des conseils que vous m'avez donné, ni du fait que vous m'avez acheté mon matériel."
+
 # game/xzhong.rpy:1188
 translate french zhongskip_fafa9709:
+    
     # c "You're welcome."
     c "Il n'y a pas de quoi."
+
 # game/xzhong.rpy:1190
 translate french zhongskip_d701b553:
+    
     # Zh "Be safe, take care, and maybe I'll see you some other time."
     Zh "Faites attention à vous, et j'espère que nous auront l'occasion de nous revoir."
+
 # game/xzhong.rpy:1192
 translate french zhongskip_13251290:
+    
     # c "Maybe."
     c "Peut-être."
+
 translate french strings:
+    
     # xzhong.rpy:7
     old "Chapter 4 - Zhong"
     new "Chapitre 4 - Zhong"
+    
     # xzhong.rpy:11
     old "Chapter 3 - Zhong"
     new "Chapitre 3 - Zhong"
+    
     # xzhong.rpy:15
     old "Chapter 2 - Zhong"
     new "Chapitre 2 - Zhong"
+    
     # xzhong.rpy:19
     old "Chapter 1 - Zhong"
     new "Chapitre 1 - Zhong"
 
     # xzhong.rpy:160
     old "I can see that."
-    new "Je vois."
+    new "Je peux voir ça."
+    
     # xzhong.rpy:160
     old "You look kinda cute in it, though."
     new "Mais vous êtes plutôt mignon quand vous le portez."
@@ -1785,26 +1841,27 @@ translate french strings:
     # xzhong.rpy:180
     old "He's a bit rough around the edges, but he seems like a stand up guy."
     new "Il est rude au premier abords, mais ça a l'air d'être quelqu'un de droit."
+    
     # xzhong.rpy:180
     old "Let's hope his body doesn't start getting rid of any... liquids while he's passed out."
     new "Espèrons qu'il ne se vide pas de tout... liquide pendant son sommeil."
 
-
-
     # xzhong.rpy:550
     old "Let's try something else."
-    new "Essaye autre chose."
+    new "Essayons autre chose."
 
     # xzhong.rpy:564
     old "It's alright. I just want to try something else."
-    new "Si, mais je voulais essayer autre chose."
+    new "Si, mais je voulais juste essayer autre chose."
 
     # xzhong.rpy:596
     old "It's pretty good."
     new "C'était très beau."
+    
     # xzhong.rpy:596
     old "Not bad, but I've heard better."
     new "Pas mal, mais j'ai entendu mieux."
+    
     # xzhong.rpy:596
     old "It's pretty bad, to be honest."
     new "C'est mauvais, pour être franc."
@@ -1812,24 +1869,27 @@ translate french strings:
     # xzhong.rpy:777
     old "Not enough action for my taste."
     new "Pas assez rythmé pour moi."
+    
     # xzhong.rpy:777
     old "It makes for nice background music."
     new "Ça peut faire une belle musique de fond."
 
     # xzhong.rpy:843
     old "I don't like slow music."
-    new "Je n'aime pas les musiques trop lentes."
+    new "Je n'aime pas les musiques lentes."
+    
     # xzhong.rpy:843
     old "I don't like orchestral music."
     new "Je n'aime pas les musiques d'orchestre."
+    
     # xzhong.rpy:843
     old "That was pretty decent."
-    new "C'est assez beau."
-
+    new "C'était assez beau."
 
     # xzhong.rpy:899
     old "It's not really my kind of music."
     new "Ce n'est pas vraiment mon genre."
+    
     # xzhong.rpy:899
     old "I like it."
     new "J'aime beaucoup."
@@ -1837,13 +1897,14 @@ translate french strings:
     # xzhong.rpy:1014
     old "Try to give it back."
     new "Offre lui."
+    
     # xzhong.rpy:1014
     old "Keep it."
     new "Prends le tout."
     
     # xzhong.rpy:1068
     old "I prefer Bryce's approach."
-    new "J'aime bien la manière de faire de Bryce."
+    new "Je préfère la manière de faire de Bryce."
    
    # xzhong.rpy:1068
     old "I think both can be fun."
