@@ -35,7 +35,7 @@ translate frenchtl kevin_9940f6bc:
 translate frenchtl _call_skiptut_15_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/xkevin.rpy:74
 translate frenchtl _call_skiptut_15_eee83226:
