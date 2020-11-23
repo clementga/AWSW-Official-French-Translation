@@ -4,43 +4,43 @@
 translate frenchtl katsu_84a9f97b:
 
     # c "There you are. I wasn't sure if I was going to find you from the description you gave me."
-    c "Ah, vous voilà. Je n'étais pas sûr de réussir à vous retrouver avec les renseignements que vous m'avez donné."
+    c "Ah, vous voilà. Je n'étais pas sûr de réussir à vous retrouver avec les renseignements que vous m'aviez donné."
 
 # game/xkatsu.rpy:33
 translate frenchtl katsu_3e5a2405:
 
     # Ka "Well, this corner is where I do business. You could've asked anyone and they would've told you where to find me."
-    Ka "Disons que c'est dans ce secteur que je tiens mon commerce. Si vous aviez demandé à n'importe qui, il vous aurait renseigné."
+    Ka "Disons que c'est dans ce coin que je tiens mon commerce. Si vous aviez demandé à n'importe qui, il vous aurait renseigné."
 
 # game/xkatsu.rpy:53
 translate frenchtl _call_skiptut_27_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes enregistrements indiquent que vous avez déja vécu cette scène en ayant obtenu une fin satisfaisante. Souhaitez-vous de même la revoir ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/xkatsu.rpy:61
 translate frenchtl _call_skiptut_27_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "On dirait que vous avez déjà vécu cette scène. Passer directement à la fin ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène ?"
 
 # game/xkatsu.rpy:69
 translate frenchtl _call_skiptut_27_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Il s'avère que vous avez déjà vu cela auparavant. Soit vous pouvez le revoir, soit nous pouvons gagner du temps et passer directement à la fin de cette scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et juste passer cette scène."
 
 # game/xkatsu.rpy:83
 translate frenchtl _call_skiptut_27_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous voulez."
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xkatsu.rpy:103
 translate frenchtl _call_skipcheck_27_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous voulez."
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xkatsu.rpy:108
 translate frenchtl _call_skipcheck_27_89aefe22:
@@ -52,7 +52,7 @@ translate frenchtl _call_skipcheck_27_89aefe22:
 translate frenchtl _call_skipcheck_27_5574df77:
 
     # Ka smile "Now, what would you like for your ice cream?"
-    Ka smile "Alors, quel parfum voulez vous pour votre crème glacée ?"
+    Ka smile "Alors, quel parfum voulez vous pour votre glace ?"
 
 # game/xkatsu.rpy:112
 translate frenchtl _call_skipcheck_27_3f6459e2:
@@ -70,7 +70,7 @@ translate frenchtl _call_skipcheck_27_c92505a3:
 translate frenchtl _call_skipcheck_27_f5ef96df:
 
     # Ka excited "As for the main dish, I have ice cream, gelato, frozen yoghurt, frozen custard, soft serve, sorbet, sandwiches, popsicles, mellorine, sherbet, cold taffy, snow cones and haluhalo."
-    Ka excited "En ce qui concerne le nappage principal, j'ai de la crème glacée, de la glace, du yaourt glacé, de la crème anglaise, du sorbet, des sucettes glacées, de la mellorine, des cornets de neige et du haluhalo."
+    Ka excited "En ce qui concerne le principal, j'ai de la crème glacée, de la glace, du yaourt glacé, de la crème anglaise, du sorbet, des sucettes glacées, de la mellorine, des cornets de neige et du halo-halo."
 
 # game/xkatsu.rpy:118
 translate frenchtl _call_skipcheck_27_86148265:
@@ -106,7 +106,7 @@ translate frenchtl _call_skipcheck_27_3f970c7c:
 translate frenchtl _call_skipcheck_27_6ce4d008:
 
     # Ka normal "I'm sorry, but we're closed."
-    Ka normal "Désolé, mais je suis fermé."
+    Ka normal "Désolé, mais nous sommes fermés."
 
 # game/xkatsu.rpy:134
 translate frenchtl _call_skipcheck_27_34c45c80:
@@ -118,7 +118,7 @@ translate frenchtl _call_skipcheck_27_34c45c80:
 translate frenchtl _call_skipcheck_27_bb1eeeab:
 
     # Ka "But we are."
-    Ka "Et si, pourtant."
+    Ka "Et pourtant si."
 
 # game/xkatsu.rpy:138
 translate frenchtl _call_skipcheck_27_5372b7be:
@@ -136,7 +136,7 @@ translate frenchtl _call_skipcheck_27_32da668c:
 translate frenchtl _call_skipcheck_27_0f044a44:
 
     # Br "Can you at least tell me when you're going to be open?"
-    Br "Vous pouvez me dire au moins quand vous ouvrez ?"
+    Br "Vous pouvez me dire au moins quand vous ouvrirez ?"
 
 # game/xkatsu.rpy:144
 translate frenchtl _call_skipcheck_27_03ee1582:
@@ -154,7 +154,7 @@ translate frenchtl _call_skipcheck_27_a28eb104:
 translate frenchtl _call_skipcheck_27_516d708b:
 
     # m "Katsuharu waved a claw dismissively."
-    m "Katsuharu a agîté une griffe avec dédain."
+    m "Katsuharu agîta une griffe avec dédain."
 
 # game/xkatsu.rpy:150
 translate frenchtl _call_skipcheck_27_2e7684c8:
@@ -166,7 +166,7 @@ translate frenchtl _call_skipcheck_27_2e7684c8:
 translate frenchtl _call_skipcheck_27_eee7c435:
 
     # Br brow b flip "Sheesh, whatever. I'll just go and jump into a lake or something."
-    Br brow b flip "Tsh, peu importe. Je vais plutôt trouver un lac dans lequel me baigner..."
+    Br brow b flip "Tsh, peu importe. Je vais plutôt trouver un lac dans lequel me baigner."
 
 # game/xkatsu.rpy:166
 translate frenchtl _call_skipcheck_27_31d17e9e:
@@ -178,7 +178,7 @@ translate frenchtl _call_skipcheck_27_31d17e9e:
 translate frenchtl _call_skipcheck_27_93989e73:
 
     # Ka normal "This is just my spot. Has been for a long time. I'll open for those pesky customers later, but right now I have a guest to entertain."
-    Ka normal "C'est mon emplacement habituel, et depuis bien longtemps. J'ouvrirais plus tard pour ces clients grincheux, pour le moment j'ai un invité à divertir."
+    Ka normal "C'est mon emplacement habituel, et depuis bien longtemps. J'ouvrirais plus tard pour ces clients casse-pieds, pour le moment j'ai un invité à divertir."
 
 # game/xkatsu.rpy:170
 translate frenchtl _call_skipcheck_27_89aefe22_1:
@@ -196,13 +196,13 @@ translate frenchtl _call_skipcheck_27_c51b62f2:
 translate frenchtl _call_skipcheck_27_d5c6024a:
 
     # Ka "I've been in this business for over 40 years now."
-    Ka "Je suis dans le métier depuis plus de quarante ans maintenant."
+    Ka "Je suis dans le métier depuis plus de 40 ans maintenant."
 
 # game/xkatsu.rpy:176
 translate frenchtl _call_skipcheck_27_4a82553f:
 
     # c "Oh, wow."
-    c "Oh, waouw."
+    c "Oh, waouh."
 
 # game/xkatsu.rpy:178
 translate frenchtl _call_skipcheck_27_183a712a:
