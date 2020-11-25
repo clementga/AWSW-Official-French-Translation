@@ -358,13 +358,13 @@ translate frenchtl _call_skipcheck_27_de499e2c:
 translate frenchtl _call_skipcheck_27_6d730534:
 
     # n "Even as a small child, I could always taste the difference - even when my peers didn't care and proclaimed one ice cream as good as the next."
-    n "Déjà quand j'étais enfant, je faisait la différence entre une glace faite maison et une glace industrielle. Mes camarades eux s'en fichaient, les deux étaient bonnes pour eux de toute façon."
+    n "Déjà quand j'étais enfant, je faisais la différence entre une glace faite maison et une glace industrielle. Mes camarades eux s'en fichaient, les deux étaient bonnes pour eux de toute façon."
 
 # game/xkatsu.rpy:240
 translate frenchtl _call_skipcheck_27_6af849a9:
 
     # n "As I grew up, I came to a fundamental understanding about people. There are those who are content with the lowest common denominator, and those - like me - who could appreciate the finer details in expertly crafted things."
-    n "En grandissant, j'ai compris qu'il y avait deux types de personne. Il y a ceux qui n'en font pas de cas, et ceux qui, comme moi, s'attardent sur ce petit détail que seul le véritable expert connaît."
+    n "En grandissant, je compris une chose fondamentale sur les gens. Il y a ceux qui se contentaient du minimum acceptable, et ceux, comme moi, qui pouvaient apprécier ce petit détail propre aux créations artisanales raffinées."
 
 # game/xkatsu.rpy:243
 translate frenchtl _call_skipcheck_27_76b2fe88_1:
@@ -376,25 +376,25 @@ translate frenchtl _call_skipcheck_27_76b2fe88_1:
 translate frenchtl _call_skipcheck_27_f3779635:
 
     # n "I talked with her when I heard of her plans to retire, to see if someone else was to continue running the shop, or if she had taken in an apprentice. But, to my utter dismay, I learned that this was not the case."
-    n "J'ai demandé à cette adorable dragonne ce qu'il adviendrait de son commerce après son départ en retraite. Je me suis dit que peut-être elle avait trouvé un remplaçant, ou former un apprenti pour reprendre l'affaire. Mais, à ma grande consternation, il n'en était rien."
+    n "Je lui avais parlé après avoir entendu qu'elle allait prendre sa retraite, pour voir si quelqu'un allait reprendre la boutique, ou si elle avait pris un apprenti. Mais à mon grand désarroi, j'appris que ce n'était pas le cas."
 
 # game/xkatsu.rpy:248
 translate frenchtl _call_skipcheck_27_eefc4909:
 
     # n "You see, she was the kind of humble person who didn't think of herself or her wares as special in any way, so she never felt the need to preserve them."
-    n "Voyez vous, elle était si humble que ni elle ni son savoir n'avait de réelle importance à ses yeux. De ce fait, elle n'a jamais ressenti le besoin de transmettre ce savoir pourtant si précieux."
+    n "Voyez vous, elle était si humble que ni elle ni son savoir n'avait de rien de spécial à ses yeux. De ce fait, elle ne ressentit jamais le besoin de le faire perdurer."
 
 # game/xkatsu.rpy:250
 translate frenchtl _call_skipcheck_27_add6a901:
 
     # n "I realized that without my intervention, her art would be lost forever."
-    n "J'ai alors réalisé que, sans moi, son art était voué à se disparaître."
+    n "Je réalisai que, sans moi, son art était voué à se disparaître."
 
 # game/xkatsu.rpy:252
 translate frenchtl _call_skipcheck_27_b197aa8e:
 
     # n "I begged and pleaded with her not to let this happen, but she insisted that I had vastly overestimated her skill."
-    n "Je l'ai alors supplié de m'apprendre, de ne pas laisser son savoir se perdre sans le transmettre. Mais elle a insisté sur le fait que j'en faisait bien trop à son sens, que ses compétences n'étaient pas exeptionnelles."
+    n "Je la suppliai alors de m'apprendre, de ne pas laisser son savoir se perdre sans le transmettre. Mais elle insistait sur le fait que je surestimais ses compétences."
 
 # game/xkatsu.rpy:254
 translate frenchtl _call_skipcheck_27_492b3bb5:
