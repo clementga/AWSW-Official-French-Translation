@@ -268,7 +268,7 @@ translate frenchtl _call_skipcheck_27_90893c34:
 translate frenchtl _call_skipcheck_27_1e569efa:
 
     # Ka "If it keeps going like this for much longer, I might have to face the reality of bankruptcy. I was planning to retire in a few years... But I can't. Not like this."
-    Ka "Si ça continue à aller dans ce sens, je vais devoir mettre la clef sous la porte. Je prévoyais de prendre ma retraite d'ici quelques années encore... Mais je ne veux pas terminer de cette façon."
+    Ka "Si ça continue à aller dans ce sens, je vais devoir fondre les plombs. Je prévoyais de prendre ma retraite d'ici quelques années encore... Mais je ne veux pas terminer de cette façon."
 
 # game/xkatsu.rpy:200
 translate frenchtl _call_skipcheck_27_96db169b:
@@ -292,13 +292,13 @@ translate frenchtl _call_skipcheck_27_031d882e:
 translate frenchtl _call_skipcheck_27_ba3b9d48:
 
     # c "You lost all your life savings by gambling?"
-    c "Vous avez perdu toute vos économies au jeu ?"
+    c "Vous avez perdu toute vos économies au jeux ?"
 
 # game/xkatsu.rpy:208
 translate frenchtl _call_skipcheck_27_26794a18:
 
     # Ka smile "That's the funny thing about gambling - sometimes you win, and sometimes you don't."
-    Ka smile "C'est ce qui est si amusant dans les jeux de hasard. Des fois on gagne, des fois on perd."
+    Ka smile "C'est ce qui est si amusant dans les jeux de hasard. Des fois on gagne, des fois non."
 
 # game/xkatsu.rpy:210
 translate frenchtl _call_skipcheck_27_1f99c997:
@@ -322,7 +322,7 @@ translate frenchtl _call_skipcheck_27_2f384b1c:
 translate frenchtl _call_skipcheck_27_1a34c2ff:
 
     # Ka normal "I have quite a history, human, so I'd hope you're prepared."
-    Ka normal "Il y a une sacrée histoire derrière ce choix, humain. Alors j'espère que vous êtes prêt !"
+    Ka normal "C'est une sacrée histoire, humain. Alors j'espère que vous êtes prêt."
 
 # game/xkatsu.rpy:218
 translate frenchtl _call_skipcheck_27_22362d1c:
