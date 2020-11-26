@@ -400,7 +400,7 @@ translate frenchtl _call_skipcheck_27_b197aa8e:
 translate frenchtl _call_skipcheck_27_492b3bb5:
 
     # n "It was not until I ran out and brought her some of the store-bought pulp they dared to call ice cream that she gave in and agreed with me."
-    n "Ce n'est qu'en lui faisant goûter cette boite de purée achetée en magasin sur laquelle était inscrit \"glace\" qu'elle a compris la raison de mon insistance et qu'elle a cédé."
+    n "Ce n'est qu'en lui faisant goûter cette boite de purée achetée en magasin qu'il osaient appeler glace qu'elle finit par céder et fut d'accord avec moi."
 
 # game/xkatsu.rpy:257
 translate frenchtl _call_skipcheck_27_76b2fe88_2:
