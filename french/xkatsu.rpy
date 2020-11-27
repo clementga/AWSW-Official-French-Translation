@@ -718,19 +718,19 @@ translate frenchtl _call_skipcheck_27_5c3c4ba6:
 translate frenchtl _call_skipcheck_27_fb8fe845:
 
     # Ka "I don't need to do anything special. People always used to come to me. During my best times, they'd wait for my arrival in lines and I'd be sold out in minutes."
-    Ka "Je n'ai jamais eut à faire quoi que ce soit de particulier. Les gens sont toujours venus à moi, dans les meilleurs moments, ils étaient même là avant moi et attendaient que j'arrive."
+    Ka "Je n'ai jamais eu à faire quoi que ce soit de particulier. Les gens sont toujours venus à moi. Dans les meilleurs moments, ils attendaient en rang et je vendais tout en quelques minutes."
 
 # game/xkatsu.rpy:395
 translate frenchtl _call_skipcheck_27_be408664:
 
     # c "I see. That may have worked before, but these times call for different measures, I think."
-    c "J'imagine. Mais même si ça a marché avant, aujourd'hui je pense qu'il faut agir différement."
+    c "Je vois. Mais même si ça a marché avant, aujourd'hui je pense qu'il faut agir différement."
 
 # game/xkatsu.rpy:401
 translate frenchtl _call_skipcheck_27_b714129b:
 
     # m "We set up the cart at one of the busier corners. Once it was ready, we only needed to get the word out."
-    m "Nous avons installé le chariot dans l'une des allées les plus fréquentées. Une fois qu'il fut prêt, nous n'avions plus qu'à attirer les curieux."
+    m "Nous avions installé le chariot dans l'un des coins les plus fréquentées. Une fois prêt, nous n'avions plus qu'à attirer les curieux."
 
 # game/xkatsu.rpy:405
 translate frenchtl _call_skipcheck_27_5bc1f76a:
@@ -748,31 +748,31 @@ translate frenchtl _call_skipcheck_27_5846a320:
 translate frenchtl _call_skipcheck_27_cfbfd6a1:
 
     # c "Get some while supplies last!"
-    c "Achetez avant épuisement des stocks !"
+    c "Achetez tant qu'il y en a encore !"
 
 # game/xkatsu.rpy:411
 translate frenchtl _call_skipcheck_27_ac2018e1:
 
     # m "It didn't take much to make the people in the vicinity take notice."
-    m "Il n'a pas fallu plus de mots avant de voir venir les premiers curieux."
+    m "Il ne fallut pas plus de mots pour capter l'attention des gens dans les environs."
 
 # game/xkatsu.rpy:413
 translate frenchtl _call_skipcheck_27_9d98b1dc:
 
     # m "The first customers arrived quickly. Of course, everyone recognized Katsuharu and loved his ice cream, but they also commended him on this new location."
-    m "Bien sûr, la plupart ont reconnu Katsuharu et surtout son chariot de glace. Certains l'ont même félicité d'être venu jusqu'ici."
+    m "Les premiers clients arrivèrent vite. Bien sûr, Tout le monde avait reconnu Katsuharu et aimait ses glaces, mais ils firent aussi des commentaires sur son nouvel emplacement."
 
 # game/xkatsu.rpy:415
 translate frenchtl _call_skipcheck_27_37e9af9c:
 
     # m "Others, however, were attracted by me. The human that was generally under police protection openly selling ice cream gave people plenty of excuses to come over for a short chat."
-    m "D'autres, cependant, ont été attirés par ma présence. L'humain qui en général était placé sous protection policière était là à vendre des glaces, leur donnant l'occasion de discuter un peu."
+    m "D'autres, cependant, furent attirés par ma présence. L'humain qui en général était placé sous protection policière était là à vendre des glaces, leur donnant l'occasion de discuter un peu."
 
 # game/xkatsu.rpy:417
 translate frenchtl _call_skipcheck_27_86b7b13e:
 
     # m "Soon, people were flocking to the cart as word got around of the human selling Katsuharu's legendary ice cream in Tatsu Park."
-    m "Bientôt, les gens sont venu en masse vers le chariot du vieux marchand de glace après avoir apprit que l'humain légendaire vendait de la glace aux côté de Katsuharu dans une allée du Parc Tatsu."
+    m "Bientôt, les gens vinrent en masse vers le chariot après avoir appris que l'humain vendait les glace mythiques de Katsuharu au Parc Tatsu."
 
 # game/xkatsu.rpy:423
 translate frenchtl _call_skipcheck_27_b602a98e:
@@ -784,31 +784,31 @@ translate frenchtl _call_skipcheck_27_b602a98e:
 translate frenchtl _call_skipcheck_27_edbe49ac:
 
     # Ka smile flip "Of course! One ice cream for my favorite art student."
-    Ka smile flip "Bien sûr, un cornet de glace pour mon étudiante en art préférée !"
+    Ka smile flip "Bien sûr ! un cornet de glace pour mon étudiante d'art préférée."
 
 # game/xkatsu.rpy:427
 translate frenchtl _call_skipcheck_27_4fb7e1f1:
 
     # Gr "H-How did you know?"
-    Gr "Que... Comment savez-vous ?"
+    Gr "Que... Comment vous avez su ?"
 
 # game/xkatsu.rpy:429
 translate frenchtl _call_skipcheck_27_900ae6f3:
 
     # Ka normal flip "I've seen you around. Besides, your accessories kinda gave it away."
-    Ka normal flip "Tu es déjà venu m'acheter des glaces, et tes pinceaux ton trahit !"
+    Ka normal flip "Tu es déjà venu m'acheter des glaces, et tes pinceaux t'ont trahi !"
 
 # game/xkatsu.rpy:431
 translate frenchtl _call_skipcheck_27_23b12df1:
 
     # Gr "Oh, okay."
-    Gr "Oh, d'accord... Merci !"
+    Gr "Oh, d'accord."
 
 # game/xkatsu.rpy:445
 translate frenchtl _call_skipcheck_27_dbbb6ebe:
 
     # Le "I need some ice! My colleagues are dehydrated from working in the heat."
-    Le "Bonjour, on a beson de glace, mes collègues vont fondre si je ne leur ammène pas de quoi se rafraichir !"
+    Le "Bonjour, on a beson de glaces, mes collègues sont déshydratés à force de travailler par cette chaleur."
 
 # game/xkatsu.rpy:447
 translate frenchtl _call_skipcheck_27_5ce8a3db:
@@ -820,31 +820,31 @@ translate frenchtl _call_skipcheck_27_5ce8a3db:
 translate frenchtl _call_skipcheck_27_bbbda778:
 
     # Le "Let's make it ten."
-    Le "Faites m'en dix, s'il vous plaît."
+    Le "Faites m'en dix."
 
 # game/xkatsu.rpy:451
 translate frenchtl _call_skipcheck_27_f5fa2b93:
 
     # Ka smile flip "Alright, here you go. Ten cups, plus one extra. Just for you."
-    Ka smile flip "Très bien, voilà dix cornets, et un petit extra juste pour vous !"
+    Ka smile flip "Très bien, voilà dix cornets, et un petit extra. Juste pour vous."
 
 # game/xkatsu.rpy:453
 translate frenchtl _call_skipcheck_27_1bdedddc:
 
     # Le "Thank you! I'll make it count."
-    Le "Merci, je m'en souviendrais !"
+    Le "Merci ! Je m'en souviendrais."
 
 # game/xkatsu.rpy:469
 translate frenchtl _call_skipcheck_27_f4369565:
 
     # m "Business was booming, but it wasn't until a certain person showed up that things were about to get serious."
-    m "Les affaires étaient florissantes, mais c'est à l'arrivée d'une personne en particulier que les choses ont commencé à devenir sérieuses."
+    m "Les affaires étaient florissantes, mais c'est à l'arrivée d'une personne en particulier que les choses commencèrent à devenir sérieuses."
 
 # game/xkatsu.rpy:473
 translate frenchtl _call_skipcheck_27_faeaee29:
 
     # Em "Well, this is interesting."
-    Em "Eh bien, voilà qui est intéressant..."
+    Em "Eh bien, voilà qui est intéressant."
 
 # game/xkatsu.rpy:475
 translate frenchtl _call_skipcheck_27_3120a165:
@@ -856,7 +856,7 @@ translate frenchtl _call_skipcheck_27_3120a165:
 translate frenchtl _call_skipcheck_27_86f09a3e:
 
     # Em frown b "What do you think you're doing here?"
-    Em frown b "Je peux savoir ce qui se passe ici, [player_name] ?"
+    Em frown b "Je peux savoir ce qui se passe ici ?"
 
 # game/xkatsu.rpy:479
 translate frenchtl _call_skipcheck_27_7ec305ac:
@@ -868,7 +868,7 @@ translate frenchtl _call_skipcheck_27_7ec305ac:
 translate frenchtl _call_skipcheck_27_a9f58ca8:
 
     # Em ques b "It looks like you're selling ice cream, and since I personally know Katsuharu, I know that it's exquisite ice cream at that."
-    Em ques b "Je crois voir un humain vendre de la glace en compagnie de Katsuharu. Et connaissant ce dernier, c'est une excellente glace que vous avez là."
+    Em ques b "Je crois voir un humain vendre de la glace, et connaissant Katsuharu, c'est une excellente glace que vous avez là."
 
 # game/xkatsu.rpy:483
 translate frenchtl _call_skipcheck_27_3501bff1:
@@ -880,14 +880,13 @@ translate frenchtl _call_skipcheck_27_3501bff1:
 translate frenchtl _call_skipcheck_27_53246781:
 
     # Em normal b "I don't want to tell you what to do, but if the trade commissioner finds out about this, I won't hear the end of it. He'll probably be blathering about unfair competition and abuse of your status."
-    Em normal b "Je ne me permettrais pas de vos donner des ordres, mais si le responsable du magasin d'à côté vois ça, je n'ai pas fini d'entendre parler de lui."
-    Em "Il sera certainement question de concurence déloyale et d'abus de votre statut d'ambassadeur humain."
+    Em normal b "Je ne veux pas vous dire quoi faire, mais si le délégué commercial s'en rend compte, Je ne vais pas arrêter d'en entendre parler. Il sera probablement en train de débaltérer à propos de concurence déloyal et d'abus de votre statut."
 
 # game/xkatsu.rpy:487
 translate frenchtl _call_skipcheck_27_8b5ab208:
 
     # Em ques b "I wouldn't mind his complaints, you know, but since I am in charge of your visit, it's all going to come back to me, and he's going to want an explanation."
-    Em ques b "Je comprendrais tout à fait le motif de sa plainte, vous savez. Mais puisque je suis responsable de votre visite, tout va me revenir et il me demandera des explications."
+    Em ques b "Je comprendrais tout à fait le motif de sa plainte, vous savez. Mais puisque je suis responsable de votre visite, tout va me revenir sur le dos et il me demandera des explications."
 
 # game/xkatsu.rpy:489
 translate frenchtl _call_skipcheck_27_c6fbe5c3:
@@ -905,7 +904,7 @@ translate frenchtl _call_skipcheck_27_6eba29cd:
 translate frenchtl _call_skipcheck_27_e629d86c:
 
     # Ka exhausted flip "Alas, the human speaks the truth. Ever since the opening of Tatsu Park, my business has been plagued by drought and become forsakened like a desert."
-    Ka exhausted flip "Hélas, l'humain dit vrai Madame la Ministre. Depuis que le Parc Tatsu est ouvert, je vois de moins en moins de monde car justement, le magasin en face votre parc me fait de l'ombre."
+    Ka exhausted flip "Hélas, l'humain dit vrai. Depuis l'ouverture du Parc Tatsu, mon commerce a été déserté par beaucoup de monde."
 
 # game/xkatsu.rpy:499
 translate frenchtl _call_skipcheck_27_44601eba:
@@ -941,14 +940,13 @@ translate frenchtl _call_skipcheck_27_37024616:
 translate frenchtl _call_skipcheck_27_d2d6ac82:
 
     # Ka "I was sure you had more troubling issues yourself than taking care of a businessman who should be able to take care of himself."
-    Ka "Je suis conscient que vous avez vous même des problèmes bien plus importants que le commerce d'un vieux marchand de glace encore capable de prendre soin de lui-même."
+    Ka "Je suis conscient que vous avez vous même des problèmes bien plus importants que le commerce d'un marchand encore capable de prendre soin de lui-même."
 
 # game/xkatsu.rpy:511
 translate frenchtl _call_skipcheck_27_caf5fa07:
 
     # Em ques b "Well, I won't stand for this town's only ice cream vendor going out of business. With this new location, I don't think you'll have any more trouble, but in order to resolve this little situation here right now, I think I'll have to go with a different solution."
-    Em ques b "Je ne tolérerai pas que le seul véritable marchand de glace de la ville fasse faillite. Avec ce nouvel emplacement, tu ne devrais plus avoir de problème."
-    Em "Mais tout de même je dois anticiper la réaction de ton principal concurrent."
+    Em ques b "Je ne tolérerai pas que le seul véritable marchand de glace de la ville fasse faillite. Avec ce nouvel emplacement, tu ne devrais plus avoir de problème, mais pour résoudre ce petit désagrément, il me faudra une approche un peu différente."
 
 # game/xkatsu.rpy:513
 translate frenchtl _call_skipcheck_27_4a7abf6e:
@@ -960,7 +958,7 @@ translate frenchtl _call_skipcheck_27_4a7abf6e:
 translate frenchtl _call_skipcheck_27_62ff7542:
 
     # Ka excited flip "Minister must be very hungry then. Or very hot. Maybe both."
-    Ka excited flip "Madame la Ministre doit avoir très faim, ou très chaud !... Les deux peut-être ?"
+    Ka excited flip "Madame la Ministre doit avoir très faim. Ou très chaud. Les deux peut-être."
 
 # game/xkatsu.rpy:517
 translate frenchtl _call_skipcheck_27_7fcc04bd:
@@ -972,7 +970,7 @@ translate frenchtl _call_skipcheck_27_7fcc04bd:
 translate frenchtl _call_skipcheck_27_346424b9:
 
     # Em normal b "Would you mind if I borrowed this cart for a while? Otherwise, I'm not sure how I would go about transporting it all safely."
-    Em normal b "En revanche, puis-je emprunter ton chariot quelques minutes ? Il me sera difficile de tout emmener sinon."
+    Em normal b "En revanche, puis-je emprunter ton chariot quelques minutes ? Il me sera difficile de tranporter le tout en sécurité sinon."
 
 # game/xkatsu.rpy:521
 translate frenchtl _call_skipcheck_27_dfc993dd:
@@ -984,7 +982,7 @@ translate frenchtl _call_skipcheck_27_dfc993dd:
 translate frenchtl _call_skipcheck_27_59ff1fb1:
 
     # Em ques b "Of course."
-    Em ques b "Bien évidement, mon ami."
+    Em ques b "Bien sûr."
 
 # game/xkatsu.rpy:541
 translate frenchtl _call_skipcheck_27_ee80c080:
@@ -996,7 +994,7 @@ translate frenchtl _call_skipcheck_27_ee80c080:
 translate frenchtl _call_skipcheck_27_4b552259:
 
     # Ka "This could have hardly turned out better for me. I can already feel the excitement of my glory days returning to these old bones of mine."
-    Ka "Ça n'aurait guère pu mieux se passer ! Je sens déjà l'excitation de mes jeunes jours de gloire revenir à mes vieux os !"
+    Ka "Ça n'aurait guère pu mieux se passer. Je sens déjà l'excitation de mes jeunes jours de gloire revenir à mes vieux os."
 
 # game/xkatsu.rpy:545
 translate frenchtl _call_skipcheck_27_67bc93e8:
@@ -1020,8 +1018,7 @@ translate frenchtl _call_skipcheck_27_a49cb5be:
 translate frenchtl _call_skipcheck_27_85bceb79:
 
     # Ka smile flip "And a good one, too. I know she not only has enjoyed my ice cream out of tradition or necessity, but also due to an appreciation of the finer arts. She is a connoisseur, like me."
-    Ka smile flip "Et une bonne cliente également. Je sais qu'elle a toujours apprécié ma glace non seulement par habitude de m'en acheter ou simplement par envie."
-    Ka "Mais voyez-vous, c'est quelqu'un qui apprécie les détails d'un travail fait main. C'est une connaisseuse, tout comme moi."
+    Ka smile flip "En effet. Je sais qu'elle a toujours apprécié ma glace pas seulement par habitude de m'en acheter ou simplement par envie. Mais voyez-vous, c'est quelqu'un qui apprécie les détails d'un travail fait main. C'est une connaisseuse, comme moi."
 
 # game/xkatsu.rpy:553
 translate frenchtl _call_skipcheck_27_821eed15:
@@ -1033,31 +1030,31 @@ translate frenchtl _call_skipcheck_27_821eed15:
 translate frenchtl _call_skipcheck_27_921cbc6c:
 
     # Ka normal flip "Yes, but don't just see her as a big spender. She is a true patron of the arts."
-    Ka normal flip "En effet, mais ne la voyez pas simplement comme une dépensière. C'est une véritable mécène, elle aime particulièrement l'art et le travail fait main."
+    Ka normal flip "En effet, mais ne la voyez pas simplement comme une dépensière. C'est une véritable mécène de l'art."
 
 # game/xkatsu.rpy:557
 translate frenchtl _call_skipcheck_27_5db87c88:
 
     # c "Do you like her?"
-    c "Vous semblez l'apprécier."
+    c "Vous l'aimez ?"
 
 # game/xkatsu.rpy:559
 translate frenchtl _call_skipcheck_27_3df431b2:
 
     # Ka exhausted flip "How dare you say something like that about her? She is a muse, an inspiration. Her lifestyle embodies the philosophy of my art."
-    Ka exhausted flip "Comment pouvez vous dire une telle chose ? Elle est une muse, une source d'inspiration ! Son style de vie incarne la philosophie de mon art !"
+    Ka exhausted flip "Comment pouvez vous dire une telle chose ? Elle est une muse, une source d'inspiration. Son style de vie incarne la philosophie de mon art."
 
 # game/xkatsu.rpy:561
 translate frenchtl _call_skipcheck_27_1fc85ac5:
 
     # Ka normal flip "And you ask if I like her? Pah!"
-    Ka normal flip "Et vous dites que je \"l'apprécie\" ? Bah !"
+    Ka normal flip "Et vous me demandez si je l'aime ? Bah !"
 
 # game/xkatsu.rpy:563
 translate frenchtl _call_skipcheck_27_5aea6625:
 
     # c "I see how it is."
-    c "Je sais ce que ça veut dire."
+    c "Je vois ce que ça veut dire."
 
 # game/xkatsu.rpy:565
 translate frenchtl _call_skipcheck_27_c2d13232:
@@ -1069,19 +1066,19 @@ translate frenchtl _call_skipcheck_27_c2d13232:
 translate frenchtl _call_skipcheck_27_1b3c0d40:
 
     # c "There's no need for that."
-    c "Ce n'est pas nécessaire, vraiment."
+    c "Ca n'est pas nécessaire, vraiment."
 
 # game/xkatsu.rpy:569
 translate frenchtl _call_skipcheck_27_81a52711:
 
     # Ka smile flip "I'd offer you some more ice cream, but I'm afraid we're all out for the day."
-    Ka smile flip "Je vous offrirais bien encore un peu de glace, mais je craint de ne plus en avoir."
+    Ka smile flip "Je vous offrirais bien encore un peu de glace, mais je crains de ne plus en avoir."
 
 # game/xkatsu.rpy:571
 translate frenchtl _call_skipcheck_27_640fdc11:
 
     # c "Actually, I didn't even have one earlier."
-    c "En fait, je n'en ai même pas eu."
+    c "En fait, je n'en ai même pas eu une."
 
 # game/xkatsu.rpy:573
 translate frenchtl _call_skipcheck_27_18a6a2ac:
@@ -1093,19 +1090,19 @@ translate frenchtl _call_skipcheck_27_18a6a2ac:
 translate frenchtl _call_skipcheck_27_4802d05c:
 
     # c "Yeah, that customer you didn't want to serve interrupted us, and now Emera took the rest with her."
-    c "Oui, ce client grincheux dont vous ne vouliez pas nous a interrompu,, la foule n'a cessé de venir, et maintenant Madame la Ministre a emmené le reste avec elle."
+    c "Oui, ce client dont vous ne vouliez pas nous a interrompu, et maintenant Emera a emmené le reste avec elle."
 
 # game/xkatsu.rpy:577
 translate frenchtl _call_skipcheck_27_dc9382f5:
 
     # Ka "Oh, you're right."
-    Ka "Oh, c'est pourtant vrai."
+    Ka "Oh, vous avez raison."
 
 # game/xkatsu.rpy:581
 translate frenchtl katsuskip_74026c59:
 
     # Ka exhausted flip "What a great shame. You sold all my stock, yet didn't get a chance to indulge in the luxury yourself."
-    Ka exhausted flip "C'est vraiment dommage. Vous avez vendu tout mon stock, mais vous n'avez même pas pu profiter de ma glace."
+    Ka exhausted flip "C'est vraiment dommage. Vous avez vendu tout mon stock, mais vous n'avez même pas pu en profiter vous-même."
 
 # game/xkatsu.rpy:583
 translate frenchtl katsuskip_94a0f5a0:
@@ -1117,7 +1114,7 @@ translate frenchtl katsuskip_94a0f5a0:
 translate frenchtl katsuskip_0c24ec00:
 
     # Ka smile flip "You know, you could come by next time when I'm in town again. Now that you have saved my business, I'd let you eat all the ice cream you want."
-    Ka smile flip "Vous savez quoi, n'hésitez pas à repasser me voir dès que je serai de retour en ville. Puisque vous avez sauvé mon affaire, je vous laisserai manger toute les glaces que vous voulez !"
+    Ka smile flip "Vous savez, vous pourriez repasser me voir dès que je serai de retour en ville. Puisque vous avez sauvé mon affaire, je vous laisserai manger toute les glaces que vous voulez."
 
 # game/xkatsu.rpy:587
 translate frenchtl katsuskip_dd20ffbf:
@@ -1141,13 +1138,13 @@ translate frenchtl _call_syscheck_104_b3f0bc14:
 translate frenchtl _call_syscheck_104_7e36720b:
 
     # s "You met with Katsuharu and saved his business. Good job."
-    s "Vous avez rencontré Katsuharu et lui avez permis de sauver son commerce. Bon travail."
+    s "Vous avez rencontré Katsuharu sauvé son commerce. Bon travail."
 
 # game/xkatsu.rpy:619
 translate frenchtl _call_syscheck_104_764a6018:
 
     # s "You met with Katsuharu and saved his business. But who wouldn't at the prospect of free artisan ice cream?"
-    s "Vous avez rencontré Katsuharu et lui avez permis de sauver son commerce. Mais qui ne le ferait pas pour une glace maison gratuite ?"
+    s "Vous avez rencontré Katsuharu et sauvé son commerce. Mais qui ne le ferait pas pour une glace maison gratuite ?"
 
 translate frenchtl strings:
 
