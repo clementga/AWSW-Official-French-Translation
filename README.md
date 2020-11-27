@@ -35,14 +35,14 @@ bryce2 ✔✔<br/>
 lorem2 ✔✔<br/>
 remy2 ✔✔<br/>
 xemera ✔✔<br/>
-xzhong ✔<br/>
+xzhong ✔✔<br/>
 chapter3 ✔<br/>
 adine3 ✔✔<br/>
 anna3 ✔✔<br/>
 bryce3 ✔✔<br/>
 lorem3 ✔✔<br/>
 remy3 ✔<br/>
-xkatsu ✔<br/>
+xkatsu ✔✔<br/>
 chapter4 ✔<br/>
 adine4 ✔✔<br/>
 anna4 ✔✔<br/>
