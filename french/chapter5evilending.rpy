@@ -10,25 +10,25 @@ translate french evilending_c48dc32f:
 translate french evilending_ea284fca:
 
     # m "I approached Reza. Both of us took a side of the cardboard box and lifted it up. It wasn't heavy enough that he couldn't have carried it on his own, but I was sure he appreciated the help."
-    m "Je me suis approché de Reza, nous nous sommes mis chacun d'un côté de la boite et l'avons soulevé. Elle était lourde certes, mais il pouvait tout de même la porter seul. Toutefois, j'étais certain qu'il appréciait mon aide."
+    m "Je m'approchais de Reza, nous nous mîmes chacun d'un côté de la boîte et la soulevâmes. Elle était lourde certes, mais il pouvait tout de même la porter seul. Toutefois, j'étais certain qu'il appréciait mon aide."
 
 # game/chapter5evilending.rpy:9
 translate french evilending_7d88fe5d:
 
     # m "Slowly, we made our way through the long hallway towards the exit."
-    m "Lentement, nous avons traversé le couloirs en nous dirigeant vers la sortie."
+    m "Lentement, nous traversâmes le couloirs en nous dirigeant vers la sortie."
 
 # game/chapter5evilending.rpy:11
 translate french evilending_d141aba5:
 
     # Rz amused "We've made it, [player_name]. We really did. With this, we can save our city - and we can have something for ourselves too."
-    Rz amused "On a réussi [player_name]. On l'a fait. Grâce à ça, on va pouvoir sauver notre ville, et on aura aussi un petit quelque chose pour nous."
+    Rz amused "On a réussi, [player_name]. On l'a fait. Grâce à ça, on va pouvoir sauver notre ville, et on aura aussi un petit quelque chose pour nous."
 
 # game/chapter5evilending.rpy:13
 translate french evilending_da106dee:
 
     # c "Can you hold the box for a minute? I want to show you something."
-    c "Tu peux tenir la boite une minute ? J'ai quelque chose à te montrer."
+    c "Tu peux tenir la boîte une minute ? J'ai quelque chose à te montrer."
 
 # game/chapter5evilending.rpy:15
 translate french evilending_d6523162:
@@ -40,13 +40,13 @@ translate french evilending_d6523162:
 translate french evilending_dabbfd50:
 
     # m "I watched as Reza adjusted his grip on the box before I let it go. I dug into my pocket as he resumed talking."
-    m "J'ai regardé Reza ajuster sa prise sur la boite avant de la lâcher. J'ai fouillé dans ma poche tandis qu'il continuait de parler."
+    m "Je regardais Reza ajuster sa prise sur la boîte avant de la lâcher. Je fouillais dans ma poche tandis qu'il continuait de parler."
 
 # game/chapter5evilending.rpy:19
 translate french evilending_f530db90:
 
     # Rz laugh "All the glory and riches that come from this - they're ours. And we earned it."
-    Rz laugh "Toute cette gloire, toute ces richesses qui vont pleuvoir sur nous. Avoue qu'on l'aura bien mérité."
+    Rz laugh "Toute cette gloire, toutes ces richesses qui vont pleuvoir sur nous. Et on l'aura bien mérité."
 
 # game/chapter5evilending.rpy:21
 translate french evilending_89daf031:
@@ -70,19 +70,19 @@ translate french evilending_d3f8c098:
 translate french evilending_bfb60130:
 
     # m "Immediately, his expression changed to one of horror as he let the box fall to the ground and reached for his gun."
-    m "Immédiatement, son visage fut marqué d'une expression d'horreur alors qu'il laissait tomber la boite pour s'emparer de son arme."
+    m "Immédiatement, son visage fut marqué d'une expression d'horreur alors qu'il laissait tomber la boîte pour s'emparer de son arme."
 
 # game/chapter5evilending.rpy:33
 translate french evilending_32568256:
 
     # m "Having distracted him by letting him hold the box, I already had my finger on the trigger of my own gun - or rather, a copy of Reza's gun."
-    m "L'ayant distrait en lui laissant tenir la caisse, j'avais déjà un doigt paré posé sur la détente de mon revolver, ou plutôt de une copie de l'arme de Reza."
+    m "L'ayant distrait en lui laissant tenir la caisse, j'avais déjà un doigt paré posé sur la détente de mon revolver - ou plutôt d'une copie de l'arme de Reza."
 
 # game/chapter5evilending.rpy:35
 translate french evilending_36ce8cdb:
 
     # m "I had acquired it in a previous attempt. I wasn't sure how long ago that was, but I vaguely remembered taking it from Reza's corpse after he had tried to kill me one time."
-    m "Je l'avais acquis lors d'un de mes précédents voyages. Je ne savais plus quand exactement, mais je me souvenais l'avoir pris sur le corps de Reza après que ce dernier ai tenté de me tuer."
+    m "Je l'avais acquise lors d'un de mes précédents voyages. Je ne savais plus quand exactement, mais je me souvenais l'avoir prise sur le corps de Reza après que ce dernier ait tenté de me tuer."
 
 # game/chapter5evilending.rpy:45
 translate french evilending_b72c2187:
@@ -94,7 +94,7 @@ translate french evilending_b72c2187:
 translate french evilending_4d4e95ab:
 
     # m "When he realized I was still aiming at him, he threw up his other arm in defeat."
-    m "Quand il s'est rendu compte que je le pointais toujours, il a levé la main de son bras valide."
+    m "Quand il se rendit compte que je le pointais toujours, il leva la main de son bras valide."
 
 # game/chapter5evilending.rpy:49
 translate french evilending_c0069bc9:
@@ -106,19 +106,19 @@ translate french evilending_c0069bc9:
 translate french evilending_8bd704dd:
 
     # c "You were willing to kill to get here, so you shouldn't complain about me doing the same thing."
-    c "Tu étais prêt à tuer pour en arriver jusqu'à là. Tu ne devrais pas m'en vouloir si je t'emprunte l'idée."
+    c "Tu étais prêt à tuer pour en arriver jusque là. Tu ne devrais pas m'en vouloir si je t'emprunte l'idée."
 
 # game/chapter5evilending.rpy:53
 translate french evilending_b90201e3:
 
     # Rz "Can't we talk about this?"
-    Rz "On ne peux pas parler avant ?"
+    Rz "On ne pourrait pas en discuter ?"
 
 # game/chapter5evilending.rpy:55
 translate french evilending_0317ceea:
 
     # c "Do you think this was a spontaneous decision, Reza? You have no idea for how long I've been planning to do this."
-    c "Tu crois que c'est une décision prise à la dernière minute Reza ? Tu n'as pas idée du temps que j'ai eut pour plannifier tout ça."
+    c "Tu crois que c'est une décision prise à la dernière minute Reza ? Tu n'as pas idée du temps que j'ai eu pour plannifier tout ça."
 
 # game/chapter5evilending.rpy:57
 translate french evilending_94f76ec3:
@@ -130,13 +130,13 @@ translate french evilending_94f76ec3:
 translate french evilending_1c64755a:
 
     # c "You think so? Think again. We both know that humanity would have had so much more to gain if we actually cooperated with the dragons."
-    c "Tu crois ça ? Réfléchis bien. On sait tout les deux que l'humanité aurait eut bien plus à gagner en coopérant réellement avec les dragons."
+    c "Tu crois ça ? Réfléchis bien. On sait tout les deux que l'humanité aurait eu bien plus à gagner en coopérant réellement avec les dragons."
 
 # game/chapter5evilending.rpy:61
 translate french evilending_dab815b3:
 
     # c "Just look at all their technology. You were willing to waste it all, and for what? Just so you and I could profit most from this and be hailed as heroes when at large our world wouldn't change."
-    c "Tu n'as qu'à voir leur technologie. Tu étais prêt à gâcher tout ça, et pour quoi ? Juste que pour toi et moi puissions profiter de tout ça et être vu comme un héros quand notre monde serait toujours en déperdition."
+    c "Tu n'as qu'à voir leur technologie. Tu étais prêt à gâcher tout ça, et pour quoi ? Juste pour que toi et moi puissions profiter de tout ça et être vu comme des héros quand notre monde, lui, serait toujours en déperdition."
 
 # game/chapter5evilending.rpy:63
 translate french evilending_c60afc0e:
@@ -148,37 +148,37 @@ translate french evilending_c60afc0e:
 translate french evilending_7a6a2856:
 
     # Rz "That's not what this was about. It was the better plan. Better than taking the risk of cooperating with them and waiting for the comet to pass."
-    Rz "Ce n'est pas que pour l'argent et la gloire ! C'est la solution la plus sûre ! Bien plus sûre que d'espérer qu'ils s'en sortent avec la comète pour coopérer avec eux !"
+    Rz "Ce n'est pas à propos de ça. C'était la solution la plus sûre. Bien plus sûre que de prendre le risque de coopérer avec eux en attendant que la comète passe."
 
 # game/chapter5evilending.rpy:67
 translate french evilending_3a11d3e0:
 
     # c "You always hid behind your idealism, Reza, but it just so happens that it's always you who stands the most to gain in the end."
-    c "Tu t'es toujours caché derrière ton idéalisme, Reza, mais quand on y regarde de plus près, c'est toujours toi qui a le plus a gagner."
+    c "Tu t'es toujours caché derrière ton idéalisme, Reza, mais quand on y regarde de plus près, c'est toujours toi qui a le plus à gagner."
 
 # game/chapter5evilending.rpy:69
 translate french evilending_3fcd3628:
 
     # Rz "So what? I thought we had an agreement there."
-    Rz "Et alors ? Je croyais qu'on avait un accord !"
+    Rz "Et alors ? Je croyais qu'on avait un accord."
 
 # game/chapter5evilending.rpy:71
 translate french evilending_2dd81155:
 
     # c "We did - but in the end, someone like you just isn't trustworthy. We both know what we did, Reza."
-    c "En effet - mais au final, je n'ai pas confiance en toi Reza. On sait tout les deux ce qui s'est réellement passé, n'est-ce pas ?"
+    c "En effet - mais au final, quelqu'un comme toi n'est pas digne de confiance. On sait tout les deux ce qu'on a fait, Reza."
 
 # game/chapter5evilending.rpy:73
 translate french evilending_3bb85959:
 
     # c "If humanity found out we'd rather forego our trade agreement and just let a potential long-term trade partner be eradicated by the meteorite for our own profit, they surely would not be pleased."
-    c "Si les nôtres découvrent qu'on a craché sur un accord commercial à long terme tout en laissant notre potentiel associé être réduit en cendre par la comète, ça ne leur fera pas plaisir."
+    c "Si les nôtres découvrent qu'on a craché sur un accord commercial à long terme tout en laissant nos partenaires à long-terme être éradiqués par la comète pour notre seul profit, ça ne leur fera pas plaisir."
 
 # game/chapter5evilending.rpy:75
 translate french evilending_08c123a0:
 
     # c "I think we both know that it would fall under treason, the only crime heinous enough to our leaders to warrant immediate execution."
-    c "Nous savons tout les deux qui serait jugé pour trahison. Et qui serait immédiatement exécuté pour ça."
+    c "Nous savons tout les deux que ça tomberait sous le coup de la trahison, le seul crime assez hideux pour que nos dirigeants nous garrantissent une exécution immédiate."
 
 # game/chapter5evilending.rpy:77
 translate french evilending_a33aae66:
