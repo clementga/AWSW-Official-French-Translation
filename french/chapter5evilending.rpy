@@ -190,7 +190,7 @@ translate french evilending_a33aae66:
 translate french evilending_a004c533:
 
     # c "I know you don't shy away from murder, so I was sure that one day, you would try to silence me to eliminate the last risk of being found out."
-    c "Je sais que tu n'as pas peur de tuer, tu me l'a prouvé bien des fois. Tu n'aurais pas hésité à me faire taire un jour ou l'autre."
+    c "Je sais que tu n'as pas peur de tuer, donc je savais qu'un jour, tu essaierais de me tuer pour éliminer le dernier risque d'être découvert.."
 
 # game/chapter5evilending.rpy:81
 translate french evilending_a0e44aee:
@@ -202,13 +202,13 @@ translate french evilending_a0e44aee:
 translate french evilending_d642e0de:
 
     # Rz "I could've gotten rid of you a long time ago if I wanted."
-    Rz "J'aurai pu me débarasser de toi depuis bien longtemps si je l'avais voulu !"
+    Rz "J'aurai pu me débarasser de toi depuis bien longtemps si je l'avais voulu."
 
 # game/chapter5evilending.rpy:85
 translate french evilending_cc81ed0c:
 
     # Rz "I could've ditched you and left you behind, but I trusted you."
-    Rz "J'aurais pu te laisser tomber, mais j'avais confiance en toi !"
+    Rz "J'aurais pu te laisser tomber, mais j'avais confiance en toi."
 
 # game/chapter5evilending.rpy:87
 translate french evilending_b69213ba:
@@ -226,7 +226,7 @@ translate french evilending_d1ace9ca:
 translate french evilending_82b931ec:
 
     # Rz "It doesn't have to. I'd rather die trying to do what is right than sit around, living my life doing nothing and watching our world go down in ashes."
-    Rz "Peu importe. J'ai fait ce qui me semblait juste pour sauver notre monde. Quite à mourir pour ça, c'est toujours mieux que d'attendre à rien faire tout en voyant notre monde tomber en ruines !"
+    Rz "Peu importe. Je préfèrerais mourir en essayant de faire ce qui est juste que de m'asseoir, en vivant à rien faire tout en voyant notre monde tomber en ruines."
 
 # game/chapter5evilending.rpy:95
 translate french evilending_e15c9673:
@@ -238,31 +238,31 @@ translate french evilending_e15c9673:
 translate french evilending_a44b467e:
 
     # m "I pulled the trigger, firing the remaining bullets into him until no more were left."
-    m "J'ai appuyé sur la détente à plusieurs reprises jusqu'à ne plus avoir de balle."
+    m "J'appuyai sur la détente, tirant les balles restantes dans son corps jusqu'à ce qu'il n'en reste aucune."
 
 # game/chapter5evilending.rpy:123
 translate french evilending_76b81bf0:
 
     # m "His body sunk, like a puppet cut from its strings. He was dead."
-    m "Son corps s'est affaissé, comme une marionnette à laquelle on venait de couper les ficelles. Il était mort."
+    m "Son corps s'affaissa, comme une marionnette à laquelle on venait de couper les ficelles. Il était mort."
 
 # game/chapter5evilending.rpy:131
 translate french evilending_d537ba71:
 
     # m "I put away the gun and grabbed the box that contained the generator and a few other things Reza had taken from the lab."
-    m "J'ai rangé l'arme, et me suis emparé de la boite contenant le générateur et tout le butin de Reza."
+    m "Je rangeais l'arme, et m'emparai de la boîte contenant le générateur et tout ce que Reza avait pris du labo."
 
 # game/chapter5evilending.rpy:139
 translate french evilending_58a57c8b:
 
     # m "Soon, I was outside, and after a bit of walking while carrying the heavy box, I arrived at the portal."
-    m "Je me suis très vite retrouvé dehors, et peu de temps après, devant la portail, avec la lourde boite dans les bras."
+    m "Je m'étais très vite retrouvé dehors, et après un peu de marche avec la boîte dans les bras, j'arrivai devant la portail."
 
 # game/chapter5evilending.rpy:141
 translate french evilending_d13e9f16:
 
     # m "After activating the controls, I took my place, ready to return to humanity as a hero."
-    m "Après avoir mis le portail en marche, je me suis mis en position, prêt à voir mes semblables m'accueillir en héros."
+    m "Après avoir mis le portail en marche, je me mis en position, prêt à revenir chez moi en héros."
 
 # game/chapter5evilending.rpy:145
 translate french evilending_3cc2cda2:
@@ -274,7 +274,7 @@ translate french evilending_3cc2cda2:
 translate french _call_syscheck_96_2a06d2db:
 
     # s "You have seen the evil ending!"
-    s "Vous avez vu la fin du méchant !"
+    s "Vous avez vu la fin méchante !"
 
 # game/chapter5evilending.rpy:311
 translate french endingjustafewminuteslater_18f7c84a:
