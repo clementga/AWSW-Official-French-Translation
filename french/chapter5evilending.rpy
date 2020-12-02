@@ -280,55 +280,55 @@ translate french _call_syscheck_96_2a06d2db:
 translate french endingjustafewminuteslater_18f7c84a:
 
     # m "I arrived at the portal just a few minutes later. I couldn’t help but be glad that it was still turned off and didn’t appear to have been used recently... But it meant Reza was still here, somewhere."
-    m "Je suis finalement arrivé au portail, soulagé de ne pas le trouver en marche. Mais cela voulait dire que Reza était quelque part dans les parages."
+    m "Après quelques minutes, j'arrivais enfin au portail. Je ne pouvais m'empêcher d'être soulagé de ne pas le trouver en marche... Mais cela voulait dire que Reza était toujours ici, dans les parages."
 
 # game/chapter5evilending.rpy:316
 translate french endingjustafewminuteslaterx_e7f27982:
 
     # m "I looked around, thinking about where he could be or if it was worth waiting for him here when I saw something out of the corner of my eye."
-    m "J'ai regardé autour de moi, me demandant par où il pourrait arriver si je décidais de l'attendre ici. C'est alors que j'ai vu quelque chose du coin de l'oeil."
+    m "Je regardais autour de moi, me demandant par où il pourrait arriver si je décidais de l'attendre ici. C'est alors que je vis quelque chose du coin de l'œil."
 
 # game/chapter5evilending.rpy:320
 translate french endingjustafewminuteslaterx_a5b4389d:
 
     # m "Hesitating, I drew nearer."
-    m "Je m'en suis rapproché en hésitant."
+    m "Je m'étais rapproché en hésitant."
 
 # game/chapter5evilending.rpy:326
 translate french endingjustafewminuteslaterx_326876be:
 
     # m "I checked Sebastian for any signs of life and found nothing. However, his body was still warm."
-    m "J'ai cherché un quelconque signe de vie, mais Sebastian n'était plus de ce monde. Cependant, son corps était encore chaud."
+    m "J'ai cherché un quelconque signe de vie, mais Sébastien n'était plus de ce monde. Cependant, son corps était encore chaud."
 
 # game/chapter5evilending.rpy:330
 translate french endingjustafewminuteslaterx_03c1972b:
 
     # m "Reza was here very recently, but he hadn't used the portal just yet. Why?"
-    m "Reza était donc ici depuis très peu de temps, mais il n'avait pas encore utilisé le portail. Pourquoi ?"
+    m "Reza n'était donc ici que depuis très peu de temps, mais il n'avait pas encore utilisé le portail. Pourquoi ?"
 
 # game/chapter5evilending.rpy:332
 translate french endingjustafewminuteslaterx_dc91ba86:
 
     # m "Sebastian's guard post was not just for the portal itself, but also the surrounding area. Since Reza was already here, he probably had some unfinished business very close by."
-    m "Sebastian n'était pas juste censé garder le portail, mais toute la zone autour. Comme Reza était dans le secteur, cela voulait dire qu'il avait encore quelque chose à y faire avant de partir."
+    m "Sébastien n'était pas juste censé garder le portail, mais toute la zone autour. Comme Reza était dans le secteur, cela voulait dire qu'il avait encore quelque chose à y faire."
 
 # game/chapter5evilending.rpy:336
 translate french endingjustafewminuteslaterx_962f46a5:
 
     # m "There was a suitcase leaning against the portal."
-    m "J'ai trouvé une valise appuyée contre le portail."
+    m "Il y avait une valise appuyée contre le portail."
 
 # game/chapter5evilending.rpy:340
 translate french endingjustafewminuteslaterx_92c81424:
 
     # m "When I opened it to check on its contents, I was surprised to find a few eggs inside. I had no doubt that this was Reza's doing."
-    m "En l'ouvrant, surpris, je suis tombé sur quelques oeufs de dragonne. Aucun doute que c'était l'oeuvre de Reza."
+    m "En l'ouvrant pour vérifier son contenu, je fus surpris de tomber sur quelques oeufs. Aucun doute que c'était l'oeuvre de Reza."
 
 # game/chapter5evilending.rpy:342
 translate french endingjustafewminuteslaterx_dc3daea9:
 
     # m "Apparently, he had broken into the hatchery again, stashing the eggs here. But he hadn't used the portal just yet. Why?"
-    m "Apparement, il avait encore pillé le couvoir, mais n'avait pas utilisé le portail. Qu'est-ce qu'il pouvait avoir en tête ?"
+    m "Apparement, il avait encore pillé le couvoir et empiler les œufs ici. Mais il n'avait pas utilisé le portail. Pourquoi ?"
 
 # game/chapter5evilending.rpy:344
 translate french endingjustafewminuteslaterx_b34b2d28:
@@ -340,7 +340,7 @@ translate french endingjustafewminuteslaterx_b34b2d28:
 translate french endingjustafewminuteslaterx_e864a6f7:
 
     # m "The underground building. The Administrator had told me all about the prowess of the generators within. It probably hadn't been hard for Reza to guess the same, or to try stealing them from a place he knew would be even more deserted than the rest of the village was right now."
-    m "Le complexe souterrain. L'Administrateur m'avait bien parlé du précieux générateur qui s'y trouvait. Reza y avait certainement pensé, et s'introduire dans un endroit encore plus désert que la ville à l'heure actuelle était certainement la partie la plus facile."
+    m "Le complexe souterrain. L'Administrateur m'avait bien parlé de la capacité des générateurs qui s'y trouvaient. Reza y avait certainement pensé, ou de tenter de les voler dans un endroit qu'il saurait encore plus désert que le reste du village là tout de suite."
 
 # game/chapter5evilending.rpy:349
 translate french endingjustafewminuteslaterx_d7d0cce6:
