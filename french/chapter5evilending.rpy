@@ -352,7 +352,7 @@ translate french endingjustafewminuteslaterx_d7d0cce6:
 translate french endingjustafewminuteslaterx_fb7b0378:
 
     # m "I could've waited for Reza here, but in the end I decided it would be better to meet him underground. If there was going to be a confrontation, I was sure I would have the advantage in a more crowded space."
-    m "J'aurais pu me contenter de l'attendre à la sortie, mais j'ai jugé bon de le rencontrer sous terre. Si je devais me confronter à lui, je trouvai plus judicieux de le faire dans un espace clos."
+    m "J'aurais pu l'attendre à la sortie, mais au final je jugeais bon de le rencontrer sous terre. S'il devait y avoir une confrontation, j'étais sûr d'avoir un avantage dans un espace plus fermé."
 
 # game/chapter5evilending.rpy:357
 translate french endingjustafewminuteslaterx_d51db7e2:
@@ -364,37 +364,37 @@ translate french endingjustafewminuteslaterx_d51db7e2:
 translate french endingjustafewminuteslaterx_c1029fbb:
 
     # m "When I entered the building, I was met by a long, illuminated hallway that was lined with doors on both sides."
-    m "En entrant dans le complexe, je me suis retrouvé dans un long couloir éclairé. De chaque côté, plusieurs portes."
+    m "En entrant dans le complexe, je me retrouvai dans un long couloir éclairé, avec des rangées de portes de chaque côté."
 
 # game/chapter5evilending.rpy:371
 translate french sincethelightswerealreadyon_48903454:
 
     # m "Since the lights were already on, Reza had to be very close. I wasn't surprised at the building still having electricity, since its generators were also powering the portal."
-    m "Comme les lumières étaient allumées, je me suis dit que Reza devait vraiment être tout proche. Je n'ai pas été surpris de trouver de la lumière cependant, les générateurs du portail et du labo étant les mêmes."
+    m "Comme les lumières étaient déjà allumées, Reza devait encore être là. Je n'ai pas été surpris de trouver de la lumière cependant, les générateurs du portail et du labo étant les mêmes."
 
 # game/chapter5evilending.rpy:375
 translate french sincethelightswerealreadyon_d1e515a6:
 
     # m "Suddenly, one of the doors opened, and out came Reza, carrying a large cardboard box."
-    m "Soudain, l'une des portes s'est ouverte, et Reza en est sortie avec une grosse boite en carton."
+    m "Soudain, l'une des portes s'ouvrit, et Reza en sortit avec une grosse boîte en carton."
 
 # game/chapter5evilending.rpy:377
 translate french sincethelightswerealreadyon_ace552e3:
 
     # m "When he spotted me, he set it on the ground."
-    m "Après qu'il m'ai vu, il a reposé cette dernière au sol."
+    m "Après qu'il m'ait vu, il reposa cette dernière au sol."
 
 # game/chapter5evilending.rpy:403
 translate french sincethelightswerealreadyon_fb77eac2:
 
     # Rz "[player_name]! You're here? You don't know how glad I am to see you. I've wanted to talk with you for so long. I even tried to contact you, but I couldn't with someone tailing you the whole time."
-    Rz "[player_name] ! Tu es là ! Tu n'imagines pas comme je suis content de te voir. Ça fait depuis un moment que je veux te parler, mais avec tout ce qui s'est passé, plus le fait que tu n'étais jamais vraiment seul, tu te doutes que ça a été compliqué."
+    Rz "[player_name] ! Tu es là ? Tu n'imagines pas comme je suis content de te voir. Ça faisait un moment que je voulais te parler. J'ai même essayé de te contacter, mais c'était impossible avec quelqu'un collé à toi tout le temps."
 
 # game/chapter5evilending.rpy:405
 translate french sincethelightswerealreadyon_5a72fb9a:
 
     # Rz "But talking can wait. Now that you're here, we've got everything. Come on, help me with this and let's get out of here."
-    Rz "Mais ça peut attendre après tout. Maintenant que tu es là, il ne manque plus rien. Tu vas pouvoir m'aider à emmener tout ça et à quitter ce monde."
+    Rz "Mais ça peut attendre après tout. Maintenant que tu es là, on a tout. Tu vas pouvoir m'aider à emmener tout ça et on se casse d'ici."
 
 # game/chapter5evilending.rpy:443
 translate french no_e69e42b8:
@@ -418,31 +418,31 @@ translate french no_cbdcea1a:
 translate french no_687013f9:
 
     # Rz amused "You want to talk now? Sure, why not? We've probably got a few hours if we wanted to. None of them will disturb us here. We could even get the backup generator as well after we send this one over."
-    Rz amused "Tu veux parler maintenant ? D'accord, très bien. On a probablement quelques heures devant nous, ils sont tous à leur feu d'artifice, personne ne viendra nous déranger. On pourra même prendre le générateur de secours quand on aura envoyé celui-ci."
+    Rz amused "Tu veux en parler maintenant ? D'accord, pourquoi pas. On a probablement quelques heures devant nous. Aucun d'entre eux ne viendra nous déranger. On pourrait même prendre le générateur de secours après avoir envoyé celui-ci."
 
 # game/chapter5evilending.rpy:455
 translate french no_d1ad703c:
 
     # c "When did you realize we were in the past? How did you know about the comet?"
-    c "Depuis quand tu sais qu'on a voyagé dans le temps ? Comment tu as su pour la comète ?"
+    c "Quand as-tu réalisé qu'on était dans le passé ? Comment tu as su pour la comète ?"
 
 # game/chapter5evilending.rpy:457
 translate french no_5b2b6059:
 
     # Rz normal "I've known for a while. It's what I wanted to talk with you about when we met at the portal. How about you?"
-    Rz normal "Je le sais depuis un moment en fait. C'est de ça que je voulais te parler l'autre soir quand je t'ai donné rendez-vous au portail. Et toi ? Depuis quand tu sais tout ça ?"
+    Rz normal "Je le sais depuis un moment en fait. C'est de ça que je voulais te parler l'autre soir quand je t'ai donné rendez-vous au portail. Et toi ?"
 
 # game/chapter5evilending.rpy:459
 translate french no_91ed222d:
 
     # c "I only recently found out."
-    c "Depuis très peu de temps en fait."
+    c "Je ne l'a idécouvert que depuis très récemment."
 
 # game/chapter5evilending.rpy:461
 translate french no_7baa11a8:
 
     # Rz annoyed "Looking back, it just seems so obvious to me now. I'm not sure how exactly you figured it out, but there are so many damn clues when you think about it."
-    Rz annoyed "Avec le recul, tout ça semble pourtant si évident. Je ne sais pas comment tu as compris tout ça, mais il y a tellement de trucs pour nous mettre la puce à l'oreille quand on y pense."
+    Rz annoyed "Avec le recul, ça me semble pourtant si évident. Je ne sais pas comment tu as compris tout ça, mais il y a tellement d'indices pour nous mettre la puce à l'oreille quand on y pense."
 
 # game/chapter5evilending.rpy:463
 translate french no_f6c1a298:
@@ -454,13 +454,13 @@ translate french no_f6c1a298:
 translate french no_46ca0c65:
 
     # Rz annoyed "When was there ever anything resembling these ... creatures on Earth? It's not hard to make the jump from dragons to dinosaurs when some of them here look pretty damn near identical to dinosaurs we knew about."
-    Rz annoyed "À quelle époque notre Terre a-t-elle vu de telles... bestioles ? C'est pas difficile de faire le rapprochement entre les dragons et les dinosaures. Regarde, certains ressemblent comme deux gouttes d'eau aux vélociraptors !"
+    Rz annoyed "À quelle époque notre Terre a-t-elle vu de telles... créatures ? C'est pas difficile de faire le rapprochement entre les dragons et les dinosaures quand certains d'entre eux ressemblent comme deux gouttes d'eaux aux dinosaures qu'on connaissaient."
 
 # game/chapter5evilending.rpy:467
 translate french no_9ae497ad:
 
     # Rz "And then, there are also the prehistoric fruits, the plants and the fact that their technological level is nearly exactly the same as our own past society."
-    Rz "Et il y a cette végétation préhistorique. Plus le fait que leur technologie est très ressemblante à celle qu'on a connu dans le passé..."
+    Rz "Et il y a aussi les fruits préhistoriques, les plantes, plus le fait que leur technologie est très ressemblante à celle qu'on a connu dans le passé."
 
 # game/chapter5evilending.rpy:469
 translate french no_7b7df0a0:
@@ -472,25 +472,25 @@ translate french no_7b7df0a0:
 translate french no_2fa3d196:
 
     # Rz annoyed "The sun, the moon, even the stars are the same. Constellations change over time, of course, but you know we could account for that stuff."
-    Rz annoyed "Le soleil, la lune, même les étoiles sont pareils ! Les constellations changent avec le temps, évidemment. Mais tu sais pourquoi on est capable d'expliquer ça."
+    Rz annoyed "Le soleil, la lune, même les étoiles sont pareils. Les constellations changent avec le temps, évidemment. Mais tu sais qu'on pourrait les prendre en compte."
 
 # game/chapter5evilending.rpy:473
 translate french no_a0acb6cc:
 
     # Rz "You could've just pointed your PDA at the sky and it would've told you the time period - including the imminent threat of being eradicated."
-    Rz "Tu avais juste à pointer ton PDA vers le ciel et il t'aurait indiqué à quelle période la position des étoiles correspond. Il t'aurais également parlé de la comète qui va tout détruire."
+    Rz "Tu avais juste à pointer ton PDA vers le ciel et il t'aurait indiqué la période - incluant la menace d'éradication imminente."
 
 # game/chapter5evilending.rpy:475
 translate french no_9effc950:
 
     # Rz "You could even see the meteorite in the sky, and how it would change its position day after day."
-    Rz "D'ailleurs on la voit à l'oeil nue ! On la voit changer de position jours après jours !"
+    Rz "Tu pouvais même voir la météorite dans le ciel, et même la voir changer de position d'un jour sur l'autre."
 
 # game/chapter5evilending.rpy:477
 translate french no_1c60a47b:
 
     # c "Are you done being condescending?"
-    c "C'est bon ? Tu as fini de me prendre pour un demeuré ?"
+    c "C'est bon ? Tu as fini avec ton attitude condescendante ?"
 
 # game/chapter5evilending.rpy:479
 translate french no_25e15b6d:
@@ -514,7 +514,7 @@ translate french no_07aeb999:
 translate french no_6a44d004:
 
     # c "Why did you do it?"
-    c "Pourquoi tout ça ?"
+    c "Pourquoi tu as fait ça ?"
 
 # game/chapter5evilending.rpy:503
 translate french no_f1d480b3:
