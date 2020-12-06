@@ -3191,7 +3191,7 @@ translate french trueendings_01b273c5:
 translate french trueendings_ffe3b118:
 
     # Iz "You have only seen what I had to do, not what I wanted to. If we met in a different time, a different place, things could have been very different."
-    Iz "Tu n'as vu que ce que je devais faire, parce que je voulais faire. Si on s'était rencontré à une autre époque, dans un autre lieu, les choses auraient pu être très différentes."
+    Iz "Tu n'as vu que ce que je devais faire, pas ce que je voulais faire. Si on s'était rencontrés à une autre époque, dans un autre lieu, les choses auraient pu être très différentes."
 
 # game/chapter5trueendings.rpy:1671
 translate french trueendings_a28abb83:
@@ -3215,13 +3215,13 @@ translate french trueendings_e029ab97:
 translate french trueendings_8eb8cfe5:
 
     # Iz "Thank you."
-    Iz "Maerci."
+    Iz "Merci."
 
 # game/chapter5trueendings.rpy:1704
 translate french trueendings_3ba63ac7:
 
     # m "She closed her eyes as a single tear ran down her face. I moved to wipe it from her, and could already feel the warmth draining from Izumi's body. She was dead."
-    m "Elle a fermé les yeux alors qu'une seule larme coulait le long de son visage. Je me suis approché pour l'essuyer, je pouvais déjà sentir la chaleur quitter le corps d'Izumi. Elle n'était plus."
+    m "Elle ferma les yeux, tandis qu'une seule larme coulait le long de son visage. Je m'approchai pour l'essuyer, mais je pouvais déjà sentir la chaleur quitter le corps d'Izumi. Elle n'était plus."
 
 # game/chapter5trueendings.rpy:1718
 translate french trueendings_76b2fe88_14:
@@ -3233,7 +3233,7 @@ translate french trueendings_76b2fe88_14:
 translate french trueendings_8f4ab4de:
 
     # a "After being told of the comet and realizing that any of their attempts to stop or redirect it would fail without the lab's generator, the dragons' council agreed with my course of action, as did humanity.{p=3.3}{nw}\nWhile the repopulation of our city turned out very differently than humanity had initially hoped, all concerns were naught against the possibility of the vast amounts of technology and generators the dragons would bring to revive it.{p=3.3}{nw}\nSoon, the initiative to relocate the dragons through the portal was in full force, and I - still acting as an ambassador - helped as much as I could to make it go as smoothly as possible.{p=4.0}{nw}"
-    a "Après avoir appris l'existence de la comète et réalisé que toute tentative pour l'arrêter ou la rediriger échouerait sans le générateur du laboratoire, le Conseil des dragons a approuvé ma ligne de conduite, tout comme l'humanité.{p=3.3}{nw}\nBien que le repeuplement de notre ville se soit déroulé très différemment de ce que l'humanité avait espéré au départ, toutes les inquiétudes étaient nulles face à la possibilité de voir les énormes quantités de technologie et de générateurs que les dragons apporteraient pour la faire revivre.{p=4.0}{nw}"
+    a "Après avoir appris l'existence de la comète et réalisé que toute tentative pour l'arrêter ou la rediriger échouerait sans le générateur du laboratoire, le Conseil des dragons approuva ma ligne de conduite, tout comme l'humanité.{p=3.3}{nw}\nBien que le repeuplement de notre ville se fût déroulé très différemment de ce que l'humanité avait espéré au départ, toutes les inquiétudes furent réduites à zéro face à la possibilité de voir les énormes quantités de technologie et de générateurs que les dragons apporteraient pour la faire revivre.{p=3.3}{nw}\nTrès vite, le programme de relocalisation des Dragons au travers du portail battit son plein, et j'aidai du mieux que je le pus, en ma qualité d'Ambassadeur, afin que tout se déroulât de la manière la plus optimale possible"
 
 # game/chapter5trueendings.rpy:1751
 translate french trueendings_d0541220:
@@ -3241,7 +3241,7 @@ translate french trueendings_d0541220:
     # nvl clear
     # n "After being told of the comet and realizing that any of their attempts to stop or redirect it would fail without the lab's generator, the dragons' council agreed with my course of action, as did humanity.{p=3.3}{nw}\nWhile the repopulation of our city turned out very differently than humanity had initially hoped, all concerns were naught against the possibility of the vast amounts of technology and generators the dragons would bring to revive it.{p=3.3}{nw}\nSoon, the initiative to relocate the dragons through the portal was in full force, and I - still acting as an ambassador - helped as much as I could to make it go as smoothly as possible.{fast}{p=0.0}{nw}"
     nvl clear
-    n "Après avoir appris l'existence de la comète et réalisé que toute tentative pour l'arrêter ou la rediriger échouerait sans le générateur du laboratoire, le conseil des dragons a approuvé ma décision, tout comme l'humanité.{p=3.3}{nw}\nBien que le repeuplement de notre ville se soit déroulé très différemment de ce que l'humanité avait espéré au départ, toutes les inquiétudes étaient nulles face à la possibilité des vastes quantités de technologie et de générateurs que les dragons apporteraient pour la faire revivre.{p=3.3}{nw}\nBientôt, l'initiative de déplacer les dragons à travers le portail a été pleinement mise en œuvre, et j'ai - toujours en tant qu'ambassadeur - aidé autant que possible à faire en sorte que tout se passe pour le mieux.{fast}{p=0.0}{nw}"
+    a "Après avoir appris l'existence de la comète et réalisé que toute tentative pour l'arrêter ou la rediriger échouerait sans le générateur du laboratoire, le Conseil des dragons approuva ma ligne de conduite, tout comme l'humanité.{p=3.3}{nw}\nBien que le repeuplement de notre ville se fût déroulé très différemment de ce que l'humanité avait espéré au départ, toutes les inquiétudes furent réduites à zéro face à la possibilité de voir les énormes quantités de technologie et de générateurs que les dragons apporteraient pour la faire revivre.{p=3.3}{nw}\nTrès vite, le programme de relocalisation des Dragons au travers du portail battit son plein, et j'aidai du mieux que je le pus, en ma qualité d'Ambassadeur, afin que tout se déroulât de la manière la plus optimale possible"
 
 # game/chapter5trueendings.rpy:1758
 translate french trueendings_76b2fe88_15:
@@ -3253,7 +3253,7 @@ translate french trueendings_76b2fe88_15:
 translate french trueendings_8971f865:
 
     # a "After a few weeks, we had done it and as the last of the dragons from even the furthest regions had arrived at the other side, the time for me had come to walk through the portal for the very last time.{p=3.3}{nw}\nI looked back to their village and saw all the abandoned buildings, doomed to be destroyed when the comet would hit soon.{p=3.3}{nw}\nAs I walked up to the platform and waited for the portal to do its starting routine, I thought about what would happen now and what would come of this collaboration between humans and dragons.{p=4.0}{nw}"
-    a "Après quelques semaines, nous en avions terminé avec la relocalisation, et comme le dernier des dragons des régions les plus éloignées était arrivé de l'autre côté, le moment était venu pour moi de franchir le portail pour la toute dernière fois.{p=3.3}{nw}\nJe me suis retourné vers le village et j'ai vu tous les bâtiments abandonnés, condamnés à être détruits lorsque la comète frapperait.{p=3.3}{nw}\nEn m'approchant de la plateforme et en attendant que le portail fasse sa routine de démarrage, j'ai pensé à ce qui allait se passer maintenant et à ce qui allait résulter de cette collaboration entre les humains et les dragons.{p=4.0}{nw}"
+    a "Après quelques semaines, nous en avions terminé avec la relocalisation, et tandis que le dernier des Dragons des régions les plus reculées passait de l'autre côté, le moment vint pour moi de franchir le portail pour la toute dernière fois.{p=3.3}{nw}\nJe me retournai vers le village et je vis tous les bâtiments abandonnés, condamnés à être détruits lorsque la comète frapperait.{p=3.3}{nw}\nEn m'approchant de la plateforme et en attendant que le portail fasse sa routine de démarrage, je pensai à ce qui allait se passer maintenant et à ce qui allait résulter de cette collaboration entre les humains et les dragons.{p=4.0}{nw}"
 
 # game/chapter5trueendings.rpy:1764
 translate french trueendings_dd1b017d:
@@ -3261,8 +3261,8 @@ translate french trueendings_dd1b017d:
     # nvl clear
     # n "After a few weeks, we had done it and as the last of the dragons from even the furthest regions had arrived at the other side, the time for me had come to walk through the portal for the very last time.{p=3.3}{nw}\nI looked back to their village and saw all the abandoned buildings, doomed to be destroyed when the comet would hit soon.{p=3.3}{nw}\nAs I walked up to the platform and waited for the portal to do its starting routine, I thought about what would happen now and what would come of this collaboration between humans and dragons.{fast}{p=0.0}{nw}"
     nvl clear
-    n "Après quelques semaines, nous en avions terminé avec la relocalisation, et comme le dernier des dragons des régions les plus éloignées était arrivé de l'autre côté, le moment était venu pour moi de franchir le portail pour la toute dernière fois.{p=3.3}{nw}\nJe me suis retourné vers le village et j'ai vu tous les bâtiments abandonnés, condamnés à être détruits lorsque la comète frapperait.{p=3.3}{nw}\nEn m'approchant de la plateforme et en attendant que le portail fasse sa routine de démarrage, j'ai pensé à ce qui allait se passer maintenant et à ce qui allait résulter de cette collaboration entre les humains et les dragons.{p=4.0}{nw}"
-
+    a "Après quelques semaines, nous en avions terminé avec la relocalisation, et tandis que le dernier des Dragons des régions les plus reculées passait de l'autre côté, le moment vint pour moi de franchir le portail pour la toute dernière fois.{p=3.3}{nw}\nJe me retournai vers le village et je vis tous les bâtiments abandonnés, condamnés à être détruits lorsque la comète frapperait.{p=3.3}{nw}\nEn m'approchant de la plateforme et en attendant que le portail fasse sa routine de démarrage, je pensai à ce qui allait se passer maintenant et à ce qui allait résulter de cette collaboration entre les humains et les dragons.{p=4.0}{nw}"
+	
 # game/chapter5trueendings.rpy:1770
 translate french trueendings_76b2fe88_16:
 
@@ -3299,13 +3299,13 @@ translate french _call_syscheck_46_b415d88f:
 translate french _call_syscheck_46_5d350a64:
 
     # s "Well, who knows?"
-    s "Eh bien, vous savez quoi ?"
+    s "Eh bien, qui sait ?"
 
 # game/chapter5trueendings.rpy:2205
 translate french _call_syscheck_46_ef4d56cb:
 
     # s "Either way, it might be a good idea to keep your save file."
-    s "Je pense qu'il serait judicieux de conserver vos fichiers de sauvegarde."
+    s "Dans tous les cas, je pense qu'il serait judicieux de conserver vos fichiers de sauvegarde."
 
 # game/chapter5trueendings.rpy:2209
 translate french _call_syscheck_46_98c99835:
