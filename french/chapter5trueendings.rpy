@@ -4,13 +4,13 @@
 translate french trueendings_5780b4f3:
 
     # m "I thought about who I should bring to the show this time. Thinking about it set off a vivid image in my mind of the fireworks I had seen before, exploding in patterns and illuminating the night sky."
-    m "J'ai réfléchi à qui je devais emmener au feu d'artifice cette fois-ci. C'est alors que j'ai eut une vision très nette de ces derniers, explosant en motifs colorés et illuminant le paysage dans de multiples déflagrations."
+    m "Je réfléchis à qui je devais emmener au feu d'artifice cette fois-ci. C'est alors que j'eus une vision très nette de ces derniers, explosant en motifs colorés et illuminant le paysage dans de multiples déflagrations."
 
 # game/chapter5trueendings.rpy:7
 translate french trueendings_e7f07360:
 
     # m "Suddenly, memories of my many attempts burst forth like the fireworks themselves. All the different things that had happened, the people I met and also my many confrontations with Reza - I remembered everything."
-    m "Les nombreux souvenirs de mes précédentes tentatives ont éclaté en même temps que les feu d'artifices dont je me souvenais. Les dragons que j'avais rencontré, les décisions que j'avais prises, même mes face-à-face avec Reza, je me souvenais de tout."
+    m "Les nombreux souvenirs de mes précédentes tentatives me revinrent d'un coup en même temps que les feu d'artifices dont je me souvenais. Les dragons que j'avais rencontrés, les décisions que j'avais prises, même mes face-à-face avec Reza, je me souvins de tout."
 
 # game/chapter5trueendings.rpy:31
 translate french trueendings_ae02df19:
@@ -22,25 +22,25 @@ translate french trueendings_ae02df19:
 translate french trueendings_2666e2a6:
 
     # Ry normal "Well, the science behind the time travelling is actually sound and doesn't contradict anything we know about the portal."
-    Ry normal "En fait, d'un point de vue scientifique, rien ne contredit ce qu'on sait du portail. Les voyages dans le temps sont possibles, nous le savions, et maintenant nous en avons la preuve."
+    Ry normal "En fait, d'un point de vue scientifique, rien ne contredit ce qu'on sait du portail."
 
 # game/chapter5trueendings.rpy:35
 translate french trueendings_96f460cd:
 
     # Ry "I can't say the same about the theory with the worm holes and barriers, though."
-    Ry "Je ne peux rien dire de tel concernant les wormholes et la barrière que leur assemblage compose, par contre."
+    Ry "Je ne peux rien dire de tel concernant les trous de ver et la barrière que leur assemblage compose, cependant."
 
 # game/chapter5trueendings.rpy:37
 translate french trueendings_74a3c2d6:
 
     # Lo relieved "It does confirm what my roommate has been learning - and my own experience. I can't believe this all happened to you, [player_name]."
-    Lo relieved "En fait, ça confirme les dires de mon colocataire Ipsum, ainsi que mon propre point de vue. Je n'arrive pas à croire que tout ça te sois arrivé, [player_name]."
+    Lo relieved "En fait, ça confirme les dires de mon colocataire Ipsum, ainsi que mon propre point de vue. Je n'arrive pas à croire que tout ça te soit arrivé, [player_name]."
 
 # game/chapter5trueendings.rpy:41
 translate french trueendings_f0fbda48:
 
     # Ad "The proof speaks for itself, really."
-    Ad "La preuve parle d'elle même, vraiment."
+    Ad "La preuve parle d'ell- même, vraiment."
 
 # game/chapter5trueendings.rpy:43
 translate french trueendings_a77a0588:
@@ -52,7 +52,7 @@ translate french trueendings_a77a0588:
 translate french trueendings_56023334:
 
     # c "I know, Bryce. Time travelling is only something that happens in bad science fiction novels, right?"
-    c "Je sais Bryce, les voyages dans le temps n'arrivent que dans les mauvais films de science fiction, c'est ce que tu allais dire ?"
+    c "Je sais, Bryce, les voyages dans le temps n'arrivent que dans les mauvais films de science fiction, c'est ce que tu allais dire ?"
 
 # game/chapter5trueendings.rpy:47
 translate french trueendings_ae8dc711:
@@ -64,7 +64,7 @@ translate french trueendings_ae8dc711:
 translate french trueendings_5f27a5a5:
 
     # An "And I thought this was going to be some sort of intervention."
-    An "Moi qui pensait que ça allait être une sorte d'intervention."
+    An "Moi qui pensais que ça allait être une sorte d'intervention."
 
 # game/chapter5trueendings.rpy:51
 translate french trueendings_2c60f281:
@@ -88,13 +88,13 @@ translate french trueendings_bbf6a2cc:
 translate french trueendings_497cf5a1:
 
     # c "If you had memories of things that never happened or dreams that later turned out to be true, you have experienced it as well."
-    c "Si vous avez eut des sensations de déjà vu, des souvenirs de trucs qui ne vous sont jamais arrivé, si vous avez fait des rêves qui se sont réalisés, alors vous êtes dedans."
+    c "Si vous avez eu des sensations de déjà-vu, des souvenirs de trucs qui ne vous sont jamais arrivé, si vous avez fait des rêves qui se sont réalisés, alors vous êtes dedans."
 
 # game/chapter5trueendings.rpy:59
 translate french trueendings_53ea5423:
 
     # c "And some of those nightmares... Yeah, those have happened, too."
-    c "Et si vous avez fait des cauchemards semblants étrangement réalistes... Oui, ça s'est également passé."
+    c "Et si vous avez fait des cauchemars semblants étrangement réalistes... Oui, ça s'est également passé."
 
 # game/chapter5trueendings.rpy:63
 translate french trueendings_c0dfc826:
@@ -106,20 +106,19 @@ translate french trueendings_c0dfc826:
 translate french trueendings_43f5fd9c:
 
     # c "I remember things from timelines where I died. The same must be true for all of you. It's not just your imagination."
-    c "Très probable Adine. Je me souviens des choses qui durant d'autres chronologies m'ont mené à la mort. Moi et Adine ne devont pas être les seuls."
-    c "Vous devez tous avoir des impressions aussi désagréables. Mais je peux vous l'assurer, ce n'est pas seulement des impressions."
-
+    c "Je me suis souvenu de choses passées dans des lignes temporelles ou j'ai trouvé la mort. C'est aussi votre cas à tous, ce n'est pas simplement votre imagination."
+	
 # game/chapter5trueendings.rpy:71
 translate french trueendings_d5a1863a:
 
     # An "This is nice and all, but why did you call us here? I mean, what's the point of telling us all this?"
-    An "Okay, c'est sympa tout ce que tu dis là, mais tu nous a tous réunis juste pour nous parler de ça ?"
+    An "Okay, c'est sympa tout ce que tu dis là, mais tu nous as tous réunis juste pour nous parler de ça ?"
 
 # game/chapter5trueendings.rpy:75
 translate french trueendings_3ab32dc2:
 
     # c "I know where Reza is going to be in a few hours."
-    c "Pas seulement Anna. Je sais où sera Reza pendant le feu d'artifice. Je sais où nous pourrons l'attraper dans quelques heures."
+    c "Pas seulement, Anna. Je sais où sera Reza pendant le feu d'artifice. Je sais où nous pourrons l'attraper dans quelques heures."
 
 # game/chapter5trueendings.rpy:77
 translate french trueendings_35ab3c93:
@@ -138,7 +137,7 @@ translate french trueendings_3882c6e9:
 translate french trueendings_d36d3c93:
 
     # Ry "Why didn't you just call the police about this? You wouldn't even need to tell them about all the time travelling and such."
-    Ry "Pourquoi tu ne t'es pas contenté d'appeler la police pour leur dire ça ? Tu n'aurais pas eut besoin de leur parler de tout ça."
+    Ry "Pourquoi tu ne t'es pas contenté d'appeler la Police pour leur dire ça ? Tu n'aurais pas eu besoin de leur parler de tout ça."
 
 # game/chapter5trueendings.rpy:83
 translate french trueendings_f3cbb856:
@@ -151,7 +150,7 @@ translate french trueendings_f3cbb856:
 translate french trueendings_ed11f126:
 
     # Lo sad "You want us to stop him? That sounds dangerous."
-    Lo sad "Tu veux qu'à nous cinq, on s'occupe de l'arrêter ? C'est pas un peu dangereux comme plan ?"
+    Lo sad "Tu veux qu'à nous cinq, on s'occupe de l'arrêter ? C'est super dangereux... ?"
 
 # game/chapter5trueendings.rpy:89
 translate french trueendings_468315a7:
@@ -175,14 +174,14 @@ translate french trueendings_6d1bd4c9:
 translate french trueendings_fda13e50:
 
     # Br brow flip "Having a part in stopping a murderer would probably get you a civil honor. Wouldn't exactly look great on us to give someone a medal and throw them into prison the next day. Just saying."
-    Br brow flip "Collaborer dans l'arrestation d'un meurtrier vous vaudrais certainement quelques honneurs non négligeable Docteur Anna."
-    Br "Vous imaginez qu'on ne va pas vous arrêter juste après vous avoir remmis une médaille, n'est-ce pas ? M'enfin, je dis ça comme ça moi."
+    Br brow flip "Collaborer dans l'arrestation d'un meurtrier vous vaudrait certainement quelques honneurs non négligeables."
+    Br "Ce ne serait pas franchement fair-play de notre part de vous donner une médaille pour vous jeter en prison le lendemain, je dis ça comme ça..."
 
 # game/chapter5trueendings.rpy:97
 translate french trueendings_f3b1cfd1:
 
     # Ry look "Knowing Emera, she'd probably make a big parade out of it and have her pardoned."
-    Ry look "Connaissant Emera, elle organisera une belle parade et profitera des caméra pour vous gracier devant les yeux du peuple."
+    Ry look "Connaissant Emera, elle organisera une belle parade et profitera des caméras pour vous gracier devant les yeux du peuple."
 
 # game/chapter5trueendings.rpy:99
 translate french trueendings_07e0f499:
@@ -200,13 +199,13 @@ translate french trueendings_55f91d0b:
 translate french trueendings_ab701e8e:
 
     # An normal flip "At least I consider my options instead of following someone blindly. [player_name] tells you to fly and you only ask how high."
-    An normal flip "Hé, moi je réfléchis au lieu de suivre quelqu'un aveuglément. [player_name] te demande de t'envoler, toi tu lui demandes à quelle hauteur ça l'arrange."
+    An normal flip "Hé, moi, je réfléchis au lieu de suivre quelqu'un aveuglément. [player_name] te demande de t'envoler, toi tu lui demandes à quelle hauteur ça l'arrange."
 
 # game/chapter5trueendings.rpy:108
 translate french trueendings_1bc4a1fa:
 
     # Br "[player_name] has called us here to stop Reza. If we want to make this happen, we should probably start making a plan."
-    Br "[player_name] nous a appeler pour arrêter Reza. Si on veux y arriver, on devrait réfléchir à un plan."
+    Br "[player_name] nous a appelés pour arrêter Reza. Si on veut y arriver, on devrait réfléchir à un plan."
 
 # game/chapter5trueendings.rpy:110
 translate french trueendings_0f935512:
@@ -242,20 +241,20 @@ translate french trueendings_60feb5d3:
 translate french trueendings_5208e243:
 
     # c "Previously, I only realized where he was once he was already inside, but this time we can think about the best way to stop him."
-    c "Dans les chronologies précédentes, j'ai toujours réalisé l'endroit où le prendre seulement après qu'il soit rentré dans le complexe."
-    c "Là on a l'avantage de l'avance. On a le temps de réfléchir à la meilleure façon de procéder."
+    c "Dans les chronologies précédentes, j'ai toujours réalisé l'endroit où le prendre seulement après qu'il est rentré dans le complexe."
+    c "Là, on a le temps de réfléchir à la meilleure façon de procéder."
 
 # game/chapter5trueendings.rpy:122
 translate french trueendings_0960ca66:
 
     # Br normal flip "If we're just going to storm the place, I should probably go first. For one, I'm a professional - and what's more, I'm also an earth dragon. That's what makes me a good cop. Virtually unkillable by any would-be criminals."
-    Br normal flip "Si on veux se contenter d'un assaut direct, je ferais mieux d'y aller en premier. D'une je suis un taurex, de deux je suis flic. Avec les deux combinés, ce trouduc aura beaucoup de mal à m'abattre."
+    Br normal flip "Si on veut se contenter d'un assaut direct, je ferais mieux d'y aller en premier. D'une, je suis un taurex, de deux, je suis flic. Avec les deux combinés, ça me rend virtuellement intuable."
 
 # game/chapter5trueendings.rpy:124
 translate french trueendings_2ef09fc4:
 
     # c "I wouldn't be so sure of that..."
-    c "Je n'en serais pas si sûr si j'étais toi Bryce."
+    c "Je n'en serais pas si sûr si j'étais toi, Bryce."
 
 # game/chapter5trueendings.rpy:126
 translate french trueendings_b1fa1715:
@@ -279,7 +278,7 @@ translate french trueendings_9e5096d6:
 translate french trueendings_c9c20306:
 
     # Br stern flip "Yeah, as the chief I agree."
-    Br stern flip "Ouaip, en tant que Chef de la police, je suis d'accord."
+    Br stern flip "Ouaip, en tant que Chef de la Police, je suis d'accord."
 
 # game/chapter5trueendings.rpy:134
 translate french trueendings_6ace0099:
@@ -309,7 +308,7 @@ translate french trueendings_d8445a8e:
 translate french trueendings_34123c84:
 
     # Ad think b "You don't have to bring one for me. I don't think I'd be able to use them."
-    Ad think b "Pas besoin de menottes pour moi Chef. Je ne pourrais pas m'en servir."
+    Ad think b "Pas besoin de menottes pour moi, Chef. Je ne pourrais pas m'en servir."
 
 # game/chapter5trueendings.rpy:144
 translate french trueendings_52df1032:
@@ -327,7 +326,7 @@ translate french trueendings_e024b866:
 translate french trueendings_db96edcd:
 
     # c "Okay, we've got a shocker and some handcuffs, but that isn't much of a plan. What are we going to do, wait for Reza to arrive and then all try to cuff him at once?"
-    c "Bon, on a un Shocker et des menottes. C'est un début, mais ce n'est pas vraiment un plan. Qu'est-ce qu'on fait entre maintenant et le moment où on pourra le menotter ?"
+    c "Bon, on a un Shocker et des menottes. C'est un début, mais ce n'est pas vraiment un plan. Qu'est-ce qu'on fait, on l'attend et on lui saute dessus pour le menotter ?"
 
 # game/chapter5trueendings.rpy:150
 translate french trueendings_536460c1:
@@ -351,13 +350,13 @@ translate french trueendings_3070bc42:
 translate french trueendings_330b3242:
 
     # Ry "Well, if you want to get him with the shocker, your best chance is to surprise him after you've gained his trust."
-    Ry "Je pense que si tu veux le neutraliser avec le Shocker, ta meilleure chance et de le prendre par surprise après avoir gagné sa confiance."
+    Ry "Je pense que si tu veux le neutraliser avec le Shocker, ta meilleure chance et de le surprendre après avoir gagné sa confiance."
 
 # game/chapter5trueendings.rpy:160
 translate french trueendings_526b9e2b:
 
     # Ry "You may think it is safer if we're all there because we outnumber him, but in reality, this will likely provoke an aggressive reaction the instant he sees us all."
-    Ry "Tu te sentiras peut-être plus en sécurité avec nous tous à tes côtés, mais au contraire, il risque de prendre peur, et pourrait réagir de manière complètement irrationnelle."
+    Ry "Tu te sentiras peut-être plus en sécurité avec nous tous à tes côtés, mais au contraire, cela va le mettre sur la défensive dès qu'il nous verra."
 
 # game/chapter5trueendings.rpy:162
 translate french trueendings_c51e4ebf:
@@ -375,7 +374,7 @@ translate french trueendings_ca2b2db4:
 translate french trueendings_b2357b9d:
 
     # c "But I've tried doing that before, with one of you staying in hiding until things were about to go wrong. That usually didn't work out as well as it should have."
-    c "Pas mal comme idée, mais déjà tenté plusieurs fois. Et puis il est comme nous, il a des souvenirs, et s'il sens le coup venir, ça va mal finir."
+    c "J'ai déjà essayé. Moi devant, l'un de vous en couverture. Autant dire que ça n'a pas fonctionné des masses."
 
 # game/chapter5trueendings.rpy:170
 translate french trueendings_5e5c17ad:
@@ -465,7 +464,7 @@ translate french trueendings_1b20a0ea:
 translate french trueendings_368093ee:
 
     # Br brow flip "We better get ready, then. I'll have to fetch the cuffs from the department and Anna should get her shocker. I also have to make a phone call before I go."
-    Br brow flip "Bon, on ferais mieux de se préparer alors. 'Faudra que je passe chercher des menottes au poste. Vous Anna  vous vous occupez de ramener votre Shocker. Et j'ai un coup de fil à passer aussi."
+    Br brow flip "Bon, on ferais mieux de se préparer alors. 'Faudra que je passe chercher des menottes au poste. Vous, Anna, vous vous occupez de ramener votre Shocker. Et j'ai un coup de fil à passer aussi."
 
 # game/chapter5trueendings.rpy:202
 translate french trueendings_2f074e9c:
@@ -477,9 +476,8 @@ translate french trueendings_2f074e9c:
 translate french trueendings_2e89037d:
 
     # Br stern flip "Yeah, to tell Sebastian not to come in for his shift today."
-    Br stern flip "Ouais, j'dois prévenir Sebastian de ne pas tenir sa garde ce soir... J'ai un mauvais pressentiment s'il y va."
-    c "Oui, ça sera plus prudent pour lui de regarder le feu d'artifice, crois-moi."
-
+    Br stern flip "Ouais, j'dois prévenir Sebastian de ne pas faire son tour de garde ce soir..."
+	
 # game/chapter5trueendings.rpy:214
 translate french trueendings_76b2fe88:
 
@@ -490,13 +488,13 @@ translate french trueendings_76b2fe88:
 translate french trueendings_063117d8:
 
     # n "While we waited for Bryce and Anna to return, Lorem, Adine and Remy stayed in my apartment and made lunch for everyone."
-    n "En attendant le retour de Bryce et d'Anna, Lorem, Adine et Remy sont restés avec moi dans mon appartement, et nous avons préparé de quoi manger pour tout le monde."
+    n "En attendant le retour de Bryce et d'Anna, Lorem, Adine et Remy restèrent avec moi dans mon appartement, et ils préparèrent de quoi manger pour tout le monde."
 
 # game/chapter5trueendings.rpy:220
 translate french trueendings_ab707356:
 
     # n "After we were all reunited, Bryce showed us how to use the disposable plastic handcuffs he brought. As they were designed to even constrain an earth dragon like Bryce, they were nigh impossible to tear."
-    n "Après qu'on se soit tous retrouvés, Bryce nous a montré comment passer ces menottes en plastique à usage unique qu'il avait ramenées. Puisqu'elles étaient censées retenir un taurex tel que Bryce, elle était quasi imposibles à rompre."
+    n "Une fois que nous nous fûmes tous retrouvés, Bryce nous montra comment passer les menottes en plastique à usage unique qu'il avait ramenées. Puisqu'elles étaient censées retenir un taurex tel que lui, elles étaient quasi impossibles à rompre."
 
 # game/chapter5trueendings.rpy:224
 translate french trueendings_76b2fe88_1:
@@ -568,7 +566,7 @@ translate french trueendings_f09ba6e2:
 translate french trueendings_30929d37:
 
     # Br brow flip "Besides, I've been busy with the whole Reza thing, so..."
-    Br brow flip "En plus j'ai été bien occupé par tout le bordel avec Reza, alors..."
+    Br brow flip "En plus j'ai été bien occupé par tout le bazar avec Reza, alors..."
 
 # game/chapter5trueendings.rpy:272
 translate french trueendings_e3e50b02:
@@ -598,7 +596,7 @@ translate french trueendings_5253329b:
 translate french trueendings_284d1aee:
 
     # An "I might as well go through the portal myself if I'd just end up getting arrested here. Just saying."
-    An "Me reste la solution de me tirer par le portail, si vous prévoyez encore de me balancer en taule. Je dis ça comme ça hein, c'est pas un plan que j'ai élaboré ou quoi..."
+    An "Me reste la solution de me tirer par le portail, si vous prévoyez encore de me balancer en taule. Je dis ça comme ça, hein..."
 
 # game/chapter5trueendings.rpy:282
 translate french trueendings_9f923c35:
@@ -640,7 +638,7 @@ translate french trueendings_4fcc90ed:
 translate french trueendings_e88bd1ee:
 
     # Br stern flip "Does that mean you lied under oath? Maybe I should reconsider this pardon thing."
-    Br stern flip "Vous sous entendez que vous avez menti sous serment là ? J'devrais peut-être reconsidérer notre accord."
+    Br stern flip "Vous sous-entendez que vous avez menti sous serment là ? J'devrais peut-être reconsidérer notre accord."
 
 # game/chapter5trueendings.rpy:296
 translate french trueendings_ff392013:
@@ -652,13 +650,13 @@ translate french trueendings_ff392013:
 translate french trueendings_b2194495:
 
     # An face flip "My research has saved thousands of lives, if not millions. What did you ever do for the community?"
-    An face flip "Hé poulette ! Mes travaux ont sauvé des milliers, voire des millions de vie ! Qu'est-ce que t'as fait toi pour faire avancer le monde, hein !?"
+    An face flip "Mes travaux ont sauvé des milliers, voire des millions de vie ! Qu'est-ce que t'as fait, toi, pour faire avancer le monde, hein !?"
 
 # game/chapter5trueendings.rpy:300
 translate french trueendings_3e94ddc6:
 
     # Ad "I volunteer at the orphanage - and what's more, I do that just to help them, not for my own gain."
-    Ad "Pour ta gouverne, j'aide à l'orphelinat ! Et je n'ai absolument rien à gagner tu sais, \"poulette\". Moi on ne me donne pas un prix dès que j'essuie les larmes d'une dragonnette qui a retrouvé sa mère morte !"
+    Ad "Je donne de mon temps pour l'orphelinat. Pour aider, pas pour ma pomme."
 
 # game/chapter5trueendings.rpy:302
 translate french trueendings_1ac28f0b:
@@ -676,7 +674,7 @@ translate french trueendings_3ba53b64:
 translate french trueendings_93e61dde:
 
     # Lo relieved "This isn't really the kind of discussion we should be having right now."
-    Lo relieved "C'est pas vraiment le genre de conversation que j'espérais entendre là maintenant."
+    Lo relieved "C'est pas vraiment le genre de conversation à tenir, là, maintenant."
 
 # game/chapter5trueendings.rpy:310
 translate french trueendings_475a892d:
@@ -694,7 +692,7 @@ translate french trueendings_df79b9b9:
 translate french trueendings_01abba9b:
 
     # Br brow flip "I'll make you a deal: You tell all of us right now what really happened back then, and you'll have my support when it comes to being pardoned for helping [player_name] stop Reza. How does that sound?"
-    Br brow flip "Vous aimez les marché, alors en voici un : vous nous dites tous ce qui s'est réellement passé. En échange, vous aurez mon soutien quand on commencera à parler de vous gracier pour avoir aidé [player_name] à arrêter Reza. Ça vous va ?"
+    Br brow flip "Vous aimez les marchés, alors en voici un : vous nous dites tous ce qui s'est réellement passé. En échange, vous aurez mon soutien quand on commencera à parler de vous gracier pour avoir aidé [player_name] à arrêter Reza. Ça vous va ?"
 
 # game/chapter5trueendings.rpy:316
 translate french trueendings_fcf85595:
@@ -712,7 +710,7 @@ translate french trueendings_6d21ad3c:
 translate french trueendings_49b1dd96:
 
     # Lo sad "Don't do that."
-    Lo sad "Nan c'est bon, restez."
+    Lo sad "Non, c'est bon, restez."
 
 # game/chapter5trueendings.rpy:322
 translate french trueendings_a4601787:
@@ -724,7 +722,7 @@ translate french trueendings_a4601787:
 translate french trueendings_18f62f27:
 
     # Ad "You'd rather know and let her walk? She's already being investigated. Let the wheels of justice do their work."
-    Ad "Tu préfères savoir et la laisser partir Remy ? Il y a tout ce qu'il faut pour qu'elle paie de ses crimes, laissez la justice faire son travail comme il se doit !"
+    Ad "Tu préfères savoir et la laisser partir, Remy ? Il y a tout ce qu'il faut pour qu'elle paie de ses crimes, laissez la justice faire son travail comme il se doit !"
 
 # game/chapter5trueendings.rpy:326
 translate french trueendings_588664a6:
@@ -748,7 +746,7 @@ translate french trueendings_48c72ccc:
 translate french trueendings_6293cc3a:
 
     # An sad flip "So now you're planning to resort to blackmail?"
-    An sad flip "Oh, donc en plus d'être un hypocryte, tu veux jouer les chanteurs ?"
+    An sad flip "Oh, donc en plus d'être un hypocrite, tu veux jouer les chanteurs ?"
 
 # game/chapter5trueendings.rpy:334
 translate french trueendings_0c13e6ec:
@@ -766,7 +764,7 @@ translate french trueendings_e69c5c45:
 translate french trueendings_ad327b37:
 
     # Br stern flip "Me, too."
-    Br stern flip "Ouaip, moi aussi j'veux savoir Doc."
+    Br stern flip "Ouaip, moi aussi j'veux savoir, Doc."
 
 # game/chapter5trueendings.rpy:340
 translate french trueendings_03276c2f:
@@ -796,7 +794,7 @@ translate french trueendings_b6e92fc1:
 translate french trueendings_1f4f504d:
 
     # Br "The majority has spoken."
-    Br "La majorité l'emporte. Allez, crachez le morceau Doc."
+    Br "La majorité l'emporte."
 
 # game/chapter5trueendings.rpy:356
 translate french trueendings_76b2fe88_2:
@@ -814,7 +812,7 @@ translate french trueendings_23d002e0:
 translate french trueendings_cb264ee9:
 
     # n "Since I occasionally work with the police, I got a phone call that they received the victim of some sort of accident."
-    n "Comme je travaillais déjà régulièrement avec la police, j'ai reçu un appel téléphonique me disant qu'ils avaient trouvé le corps d'une dragonne, la victime d'une sorte d'accident."
+    n "Comme je travaillais déjà régulièrement avec la Police, j'ai reçu un appel téléphonique me disant qu'ils avaient trouvé le corps d'une dragonne, victime d'une sorte d'accident."
 
 # game/chapter5trueendings.rpy:366
 translate french trueendings_4cbbb352:
@@ -844,7 +842,7 @@ translate french trueendings_76b2fe88_3:
 translate french trueendings_536a6fcc:
 
     # n "I submitted my forms for the research and started my work. Since the material was very sensitive, there wasn't really time to wait for approval as it would've put the whole experiment at risk."
-    n "J'ai rempli mes formulaires d'autorisation de recherche et me suis lancé. Comme le matériel biologique dont je disposais était très fragile, je n'avais pas le temps d'attendre l'approbation pour commencer, il y avait trop de risque pour mon expérience."
+    n "J'ai rempli mes formulaires d'autorisation de recherche et me suis lancée. Comme le matériel biologique dont je disposais était très fragile, je n'avais pas le temps d'attendre l'approbation pour commencer, il y avait trop de risque pour mon expérience."
 
 # game/chapter5trueendings.rpy:378
 translate french trueendings_93f35b03:
@@ -868,7 +866,7 @@ translate french trueendings_d5c561d1:
 translate french trueendings_19f107cd:
 
     # n "In order to ensure compatibility with myself, I spliced in some of my own DNA - enough that it would be considered a member of my own species rather than the parents'."
-    n "Pour m'assurer une compatibilité optimal avec moi même, j'ai agit sur l'ADN de mon sujet de test et y ai injecté une partie de mon propre ADN pour qu'il soit génétiquement de la même espèce que moi, et non de celle des parents."
+    n "Pour m'assurer une compatibilité optimale avec moi même, j'ai agi sur l'ADN de mon sujet de test et y ai injecté une partie de mon propre ADN pour qu'il soit génétiquement de la même espèce que moi, et non de celle des parents."
 
 # game/chapter5trueendings.rpy:387
 translate french trueendings_76b2fe88_4:
@@ -892,13 +890,13 @@ translate french trueendings_b0344659:
 translate french trueendings_e5bfa567:
 
     # n "Proposals like mine that needed the council's approval could be seen by anyone and were open to discourse, but people usually didn't care about them unless they had some experience in the field."
-    n "Les propositions qui nécessitaient l'approvation du conseil, telles que la miennes, pouvaient être consultées par n'importe qui et étaient ouvertes à la discussion. En temps normal les gens s'en fichent, ce n'état qu'une série de mots incompréhensible pour le citoyen lambda."
+    n "Les propositions qui nécessitaient l'approvation du Conseil, telles que la miennes, pouvaient être consultées par n'importe qui et étaient ouvertes à la discussion. En temps normal les gens s'en fichent, ce n'état qu'une série de mots incompréhensible pour le citoyen lambda."
 
 # game/chapter5trueendings.rpy:396
 translate french trueendings_f96e7cfd:
 
     # n "Not so in my case. Once the media got ahold of it, rumors ran amok about what I was going to do. People fixated on small details and exaggerated the procedures outlined in the experiment."
-    n "Mais pas la mienne non. Une fois qu'elle est passée entre les pattes des médias, les rumeurs se sont mises à courir sur ce que j'allait faire. Tout le monde s'est alors focalisé sur de petits détails et ont exagéré certaines procédures j'avais décrites."
+    n "Mais pas pour cette fois. Une fois qu'elle est passée entre les pattes des médias, les rumeurs se sont mises à courir sur ce que j'allait faire. Tout le monde s'est alors focalisé sur de petits détails et a exagéré certaines procédures j'avais décrites."
 
 # game/chapter5trueendings.rpy:399
 translate french trueendings_76b2fe88_5:
@@ -928,7 +926,7 @@ translate french trueendings_625cc7f3:
 translate french trueendings_3e2bb6a6:
 
     # n "By this point, the egg was already substantially developed. Knowing of their visit and that my experiment was now illegal, I had to get rid of it somehow. I would've smashed it if I could, but the fetus inside was already too big to make it vanish easily."
-    n "À ce stade, l'embryon dans l'oeuf était déjà bien trop développé pour que je puisse m'en débarasser facilement. Mais je n'avais pas le choix, tout cela était illégale, et je devais le faire disparaître."
+    n "À ce stade, l'embryon dans l'oeuf était déjà bien trop développé pour que je puisse m'en débarasser facilement. Mais je n'avais pas le choix, tout cela était illégal, et je devais le faire disparaître."
 
 # game/chapter5trueendings.rpy:411
 translate french trueendings_76b2fe88_6:
@@ -1030,13 +1028,13 @@ translate french trueendings_b639acc7:
 translate french trueendings_d03e8836:
 
     # Ad "Did it even have a name, or was it just a product for you, a failed experiment?"
-    Ad "Lui aviez-vous seulement donné un nom ? Où ce n'état pour vous qu'un numéro ? Une expérience râtée ?"
+    Ad "Lui aviez-vous seulement donné un nom ? Où ce n'état pour vous qu'un numéro ? Une expérience ratée ?"
 
 # game/chapter5trueendings.rpy:470
 translate french trueendings_7bd839c6:
 
     # An "Well, she did have a name. I even scribbled it on her egg shell before I left it."
-    An "Je lui ai donné un nom, cocotte. Je l'avais griffoné sur la coquille de son oeuf avant de la quitter."
+    An "Je lui ai donné un nom. Je l'avais griffonné sur la coquille de son oeuf avant de la quitter."
 
 # game/chapter5trueendings.rpy:472
 translate french trueendings_62f55f5c:
@@ -1066,13 +1064,13 @@ translate french trueendings_769538f2:
 translate french trueendings_2ce1802d:
 
     # An face flip "Why do you even care? They probably found her, she went to a nice family and lived happily ever after. End of story."
-    An face flip "Qu'est-ce que ça peut te faire ? Il a probablement été recueillie, il elle vit certainement auprès d'une gentille famille qui lui donne tout l'amour -"
+    An face flip "Qu'est-ce que ça peut te faire ? Il a probablement été recueilli, il elle vit certainement auprès d'une gentille famille qui lui donne tout l'amour -"
 
 # game/chapter5trueendings.rpy:484
 translate french trueendings_20e93173:
 
     # Ad "What was her name?" with hpunch
-    Ad "Dites moi son nom ! Maint'nant !" with hpunch
+    Ad "Dites-moi son nom ! Maint'nant !" with hpunch
 
 # game/chapter5trueendings.rpy:486
 translate french trueendings_9cfee11c:
@@ -1084,13 +1082,13 @@ translate french trueendings_9cfee11c:
 translate french trueendings_8e153942:
 
     # Ad disappoint b "..."
-    Ad disappoint b "Nan..."
+    Ad disappoint b "..."
 
 # game/chapter5trueendings.rpy:490
 translate french trueendings_5a8b15a0:
 
     # Ad annoyed b "I know her. She's been living in the orphanage all her life while you went on with yours without a care in the world."
-    Ad annoyed b "Je la connais. La gentille famille qui l'a recueuilli, c'est l'orphelinat. Et vous, vous avez continué votre vie, comme si de rien n'étais..."
+    Ad annoyed b "Je la connais. La gentille famille qui l'a recueilli, c'est l'orphelinat. Et vous, vous avez continué votre vie, comme si de rien n'était..."
 
 # game/chapter5trueendings.rpy:492
 translate french trueendings_1a562901:
@@ -1108,7 +1106,7 @@ translate french trueendings_169e732f:
 translate french trueendings_83d674a5:
 
     # Br "Now that you mention it, I think the victim's name was a bit different..."
-    Br "Maitnenant que vous en parlez Doc, le nom de la victime était assez semblable."
+    Br "Maintenant que vous en parlez, Doc, le nom de la victime était assez semblable."
 
 # game/chapter5trueendings.rpy:498
 translate french trueendings_3f037f74:
@@ -1150,32 +1148,31 @@ translate french trueendings_510baa62:
 translate french trueendings_5a76df29:
 
     # Ad disappoint b "Don't worry, Remy. She's being taken care of in the orphanage. We can go there once this is over."
-    Ad disappoint b "Remy ! Calme toi !... S'te plaît."
-    Ad "Tu sais où elle est. L'orphelinat s'occupe d'elle, on ira la voir quand tout ça sera terminé, d'accord ?"
+    Ad disappoint b "Tu sais où elle est. L'orphelinat s'occupe d'elle, on ira la voir quand tout ça sera terminé, d'accord ?"
 
 # game/chapter5trueendings.rpy:512
 translate french trueendings_00b90215:
 
     # Ry sad "No, I want to go there right now!"
-    Ry sad "Nan ! Je veux la voir maintenant !"
+    Ry sad "Non ! Je veux la voir maintenant !"
 
 # game/chapter5trueendings.rpy:514
 translate french trueendings_be8a7784:
 
     # Br brow flip "I'm not sure if that's a good idea."
-    Br brow flip "Eh, c'est pas une bonne idée si tu veux mon avis."
+    Br brow flip "Pas sûr que ce soit une bonne idée."
 
 # game/chapter5trueendings.rpy:516
 translate french trueendings_0bb56403:
 
     # Ad "Yeah, if you're going to meet her, it will take some preparation, and you shouldn't see her when you're like this."
-    Ad "Oui Remy, le Chef a raison. Tu ne vas pas aller la voir comme ça et lui dire que... tu es son père, nan. Tu dois être prêt, et elle aussi. Fais moi confiance."
+    Ad "Oui. Il vous faut vous préparer mentalement, tous les deux. Et tu n'es pas en état de la voir maintenant."
 
 # game/chapter5trueendings.rpy:518
 translate french trueendings_ba1ea465:
 
     # Br stern flip "Besides, we should be focusing on Reza right now."
-    Br stern flip "Et puis on ferait mieux de nous concentrer sur Reza, là maintenant."
+    Br stern flip "Et puis on ferait mieux de nous concentrer sur Reza, là, tout de suite."
 
 # game/chapter5trueendings.rpy:520
 translate french trueendings_d0efaff0:
@@ -1193,7 +1190,7 @@ translate french trueendings_c451845a_1:
 translate french trueendings_dc8626c3:
 
     # Ry "You're right. This is more important."
-    Ry "Vous avez raison. Là maintenant, c'est ce qu'il y a de plus important..."
+    Ry "Vous avez raison. Reza est ce qu'il y a de plus important pour le moment..."
 
 # game/chapter5trueendings.rpy:526
 translate french trueendings_1ba7b1f3:
@@ -1211,19 +1208,19 @@ translate french trueendings_24bf3ebf:
 translate french trueendings_2674bd93:
 
     # m "Soon, we arrived at our destination and everyone chose their hiding places. It wasn't easy, especially since we didn't know where Reza would come from, but with a bit of scouting help from Adine, they all found suitable places eventually."
-    m "Nous n'avons pas perdu de temps pour arriver sur les lieux, et chacun a choisi un endroit où se cacher. Ce n'était pas facile de définir de bons endroit de planque, mais avec l'aide d'Adine, chacun a trouvé sa cache"
-
+    m "Nous ne perdîmes pas de temps pour arriver sur les lieux, et chacun choisit un endroit où se cacher. Ce n'était pas facile de définir de bons endroit de planque, mais avec l'aide d'Adine, chacun finit par trouver sa cache."
+	
 # game/chapter5trueendings.rpy:542
 translate french trueendings_833d5b0a:
 
     # m "I went inside, trying to remember the room the generator was in."
-    m "Je suis entré dans le complexe, en essayant de me souvenir de l'endroit où se trouvait le générateur."
+    m "J'entrai dans le complexe, en essayant de me souvenir de l'endroit où se trouvait le générateur."
 
 # game/chapter5trueendings.rpy:544
 translate french trueendings_4530141c:
 
     # m "Luckily, I had plenty of time, and when I found it, I packed it up in a cardboard box that was lying around, just as Reza had done so many times before."
-    m "Heureusement, j'avais pas mal de temps devant moi. Et après l'avoir trouvé, je l'ai mis dans la boite en carton que Reza avait utilisé tant de fois avant."
+    m "Heureusement, j'avais pas mal de temps devant moi. Et après l'avoir trouvé, je le mis dans la boîte en carton que Reza avait utilisée tant de fois avant."
 
 # game/chapter5trueendings.rpy:546
 translate french trueendings_542eb4cb:
