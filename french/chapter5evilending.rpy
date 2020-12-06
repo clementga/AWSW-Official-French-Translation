@@ -598,103 +598,103 @@ translate french no_4ca4f52e:
 translate french no_539a3b14:
 
     # c "I'm not going to just abandon them like that, only for their whole civilization to be wiped out."
-    c "Je ne vais pas les abandonner comme ça, leur civilisation peut encore être sauvée "
+    c "Je ne vais pas les abandonner comme ça, juste parce que leur civilisation va être exterminé"
 
 # game/chapter5evilending.rpy:531
 translate french no_50475dcc:
 
     # Rz angry "Get your priorities straight, [player_name]."
-    Rz angry "Revois tes priorités, [player_name] !"
+    Rz angry "Revois tes priorités, [player_name]."
 
 # game/chapter5evilending.rpy:533
 translate french no_0b3fb89a:
 
     # Rz "Next you'd rather starve, because you suddenly empathize with a steak. And you're not satisfied just starving by yourself. No, you're going to let all of us starve, because you want to impose your morals on everyone."
-    Rz "Et après quoi ? Tu nous laissera crever de faim parce que tu voudras protéger les steaks ? Ça ne te plaîra pas de crever tout seul, alors il faudra que tu imposes ton idéologie à tout le monde ?"
+    Rz "Et après, tu préfèreras crever de faim parce que tu auras pitié d'un steak. Et insatisfait de mourir de faim dans ton coin, il faudra qu'on meure de faim avec toi, parce que tu veux nous imposer ton idéologie à tous."
 
 # game/chapter5evilending.rpy:535
 translate french no_195e7284:
 
     # Rz annoyed "Since when do you think that you get to have any say in this? You know why you're here. What you're proposing is treason, and you know the consequences."
-    Rz annoyed "Et depuis quand tu penses avoir ton mot à dire dans cet échange, hein ? Tu sais pourquoi on t'a envoyé ici. Ce que tu proposes est une trahison, et tu sais ce que ça signifie chez nous."
+    Rz annoyed "Et depuis quand tu penses avoir ton mot à dire là-dedans ? Tu sais pourquoi on t'a envoyé ici. Ce que tu proposes est une trahison, et tu en connais les conséquences."
 
 # game/chapter5evilending.rpy:537
 translate french no_e5b1e7a9:
 
     # Rz amused "Personally, I don't mind if you want to stay here. You know I don't care about corporal punishment."
-    Rz amused "Perso, je m'en fous si tu préfère rester là. Ça ne me dérange pas les châtiments corporels, tant que c'est pas moi qui morfle !"
+    Rz amused "Personnellement, je m'en fous si tu préfères rester là. Ça ne me dérange pas les châtiments corporels."
 
 # game/chapter5evilending.rpy:539
 translate french no_f00f491c:
 
     # Rz normal "Just let me through and you can do whatever you wish."
-    Rz normal "Laisse moi partir, et tu pourras faire ce que tu veux après ça."
+    Rz normal "Laisse moi juste partir, et tu pourras faire ce que tu veux après ça."
 
 # game/chapter5evilending.rpy:541
 translate french no_3136b4bd:
 
     # c "I can't do that, Reza."
-    c "Je ne peux pas te laisser faire, Reza."
+    c "Je ne peux pas faire ça, Reza."
 
 # game/chapter5evilending.rpy:543
 translate french no_b1f85f2a:
 
     # Rz annoyed "I see how it is. They've told you they need this generator to stop the comet, huh? And now you've become their lackey."
-    Rz annoyed "Oh, j'ai compris. Ils t'ont dit qu'ils avaient besoin d'un générateur pour détourner la comète, hein ? Et maintenant tu es leur gentil toutou."
+    Rz annoyed "Oh, j'ai compris. Ils t'ont dit qu'ils avaient besoin de ce générateur pour arrêter la comète, hein ? Et maintenant tu es devenu leur laquais."
 
 # game/chapter5evilending.rpy:545
 translate french no_f109bdfd:
 
     # Rz "Don't tell me you've been drinking up what they've been telling you. You know they have as much of a vested interest in this whole thing as humanity does - that I and you do, or at least used to."
-    Rz "Ne me dis pas que tu as cru à leurs conneries. Tu sais qu'ils ont autant à gagner que l'humanité, que toi et moi. Enfin moi et l'humanité, car toi tu es avec eux visiblement, tu te fiches de tes semblables."
+    Rz "Ne me dis pas que tu as cru ce qu'ils t'ont dits. Tu sais qu'ils ont un intérêt tout particulier dans cette histoire tout comme l'humanité en a un - tout comme moi ou même toi, quand tu en avais un."
 
 # game/chapter5evilending.rpy:547
 translate french no_a39121b7:
 
     # Rz "Do you think they wouldn't do the same thing if it was their families on the line instead of ours?"
-    Rz "Tu crois qu'ils ne feraient pas la même chose si l'avenir de leurs familles étaient entre leurs griffes ? Tu crois qu'ils hésiteraient à tuer des humains si ça pouvait sauver leurs monde ?"
+    Rz "Tu crois qu'ils ne feraient pas la même chose si l'avenir de leurs familles étaient en jeu à la place du notre ?"
 
 # game/chapter5evilending.rpy:549
 translate french no_aa71d2f1:
 
     # c "Their entire world is on the line here."
-    c "C'est pas juste d'une ville dont on parle là, c'est de leurs monde entier !"
+    c "Leur monde tout entier est en jeu là."
 
 # game/chapter5evilending.rpy:551
 translate french no_ed42ee26:
 
     # Rz "They live in perfect harmony, with their perfect green energy source and no reason for wars or conflicts, yadda yadda yadda. We had that too, and you know what happened then? Of course you do."
-    Rz "Ils vivent en parfaite harmonie, ils ont leurs sources d'énergie parfaitement propre, ils n'ont aucune raison de se battre, et bla bla bla... On avait tout ça avant, t'as vu comment ça s'est terminé ? Bien sûr que tu l'a vu !"
+    Rz "Ils vivent en parfaite harmonie, avec leurs sources d'énergie propre, ils n'ont aucune raison de se battre, et bla bla bla... On avait tout ça avant, tu as vu comment ça s'est terminé ? Bien sûr que tu l'as vu !"
 
 # game/chapter5evilending.rpy:553
 translate french no_cf0625b1:
 
     # Rz "This is such an idiotic trope, you know. Random person meets weird natives, learns their ways and then ends up saving them."
-    Rz "On dirait un vieux navet idéaliste ! Un ambassadeur arrive dans un monde d'aliens bizarres, il apprends leurs coutume et fini par les sauver ! Me dit pas qu'il y a une histoire d'amour en plus sinon c'est la meilleure !"
+    Rz "C'est un scénario tellement idiot, tu sais. Un anonyme arrive dans un monde d'autochtones bizarres, il apprend leurs coutumes et finit par les sauver."
 
 # game/chapter5evilending.rpy:555
 translate french no_498b9519:
 
     # Rz "What do they need you for, huh? Maybe they're going to be extinct for a reason if they can't even save themselves."
-    Rz "Pourquoi est-ce qu'ils auraient besoin de toi, hein ? Il y a peut-être une bonne raison pour qu'ils soient voués à l'extinction, s'ils ne peuvent même pas se sauver !"
+    Rz "Pourquoi est-ce qu'ils auraient besoin de toi, hein ? Il y a peut-être une bonne raison pour qu'ils soient voués à l'extinction, s'ils ne peuvent même pas se sauver."
 
 # game/chapter5evilending.rpy:557
 translate french no_187b69ca:
 
     # c "You know of our suffering, yet will let them have it?"
-    c "Tu sais très bien ce qu'ils s'apprêtent à vivre, mais tu les laisses dans leur merde ?"
+    c "Tu sais très bien ce qu'on a traversé, et tu voudrais qu'il leur arrive la même chose ?"
 
 # game/chapter5evilending.rpy:559
 translate french no_2b4c143b:
 
     # Rz angry "I don't care what happens to them, but unlike you, I was at least trying to save humanity."
-    Rz angry "J'en ai rien à fiche de ce qui va leur arriver. Mais contrairement à toi, moi je vais essayer de sauver mon monde."
+    Rz angry "Je m'en fiche de ce qui va leur arriver. Mais contrairement à toi, j'essaye de sauver l'humanité, moi."
 
 # game/chapter5evilending.rpy:561
 translate french no_217f3e9c:
 
     # c "At any cost."
-    c "À tout prix, hein."
+    c "A tout prix."
 
 # game/chapter5evilending.rpy:563
 translate french no_56d4bb3f:
