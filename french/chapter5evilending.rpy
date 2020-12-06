@@ -532,43 +532,43 @@ translate french no_4d398d4f:
 translate french no_653a4234:
 
     # Rz normal "It would have taken who knows how long, but I didn't intend to stay a day longer than necessary."
-    Rz normal "Ça aurait pris je ne sais combien de temps, mais je n'avais pas l'intention de m'attarder ici vu ce qui est en train d'arriver de là-haut."
+    Rz normal "Ça aurait pris je ne sais combien de temps, mais je n'avais pas l'intention de m'attarder ici plus que nécéssaire."
 
 # game/chapter5evilending.rpy:509
 translate french no_d33516e0:
 
     # Rz annoyed "You wouldn't believe how hard it was for me to acquire some generators. Some of the dragons didn't go down easily."
-    Rz annoyed "Tu n'imagine pas comme ça a été difficile d'avoir tout ces générateurs. Certains de ces fumiers de sacs à main ont été coriaces."
+    Rz annoyed "Tu n'imagines pas comme ça a été difficile d'avoir tout ces générateurs. Certains des dragons ne cédèrent pas facilement."
 
 # game/chapter5evilending.rpy:511
 translate french no_f538170b:
 
     # Rz amused "But who cares that they got back the generators I stole? With just this one, we won't need any of the others."
-    Rz amused "Mais au final, qu'est-ce que ça change d'avoir ou non tous ces générateurs ? Rien qu'avec celui-là, on est tranquilles pour un moment."
+    Rz amused "Mais au final, on s'en fiche qu'ils aient récupéré les générateurs que j'ai volés ? Rien qu'avec celui-là, on n'aura pas besoin des autres."
 
 # game/chapter5evilending.rpy:513
 translate french no_bd581962:
 
     # c "How could you do this?"
-    c "Comment tu as pu faire tout ça ?..."
+    c "Comment as-tu pu faire tout ça ?"
 
 # game/chapter5evilending.rpy:515
 translate french no_ab4b2d83:
 
     # Rz annoyed "{i}How could I do this?{/i}"
-    Rz annoyed "{i}Comment j'ai pu faire tout ça ?{/i}"
+    Rz annoyed "{i}Comment ai-je pu faire tout ça ?{/i}"
 
 # game/chapter5evilending.rpy:517
 translate french no_8d884cfd:
 
     # Rz amused "Let me ask you this: What harm is there really in taking their generators when their whole civilization will be gone in a few weeks, anyway? The ones I killed just died a little earlier than scheduled."
-    Rz amused "Pose toi la bonne question enfin ! Qu'est-ce que ça change que je prenne leurs générateurs ? Qu'est-ce que ça change que j'en ai tué trois, quatre ou cent ? Ils ont juste eut la chance de mourir avant de comprendre qu'ils étaient condamnés de toute façon !"
+    Rz amused "Laisses moi te poser cette question : quel mal il y a à prendre leurs générateurs quand leur civilisation toute entière va être balayée dans quelques semaines ? Ceux que j'ai tué sont juste morts un peu plus tôt que prévu."
 
 # game/chapter5evilending.rpy:519
 translate french no_5f502c59:
 
     # Rz annoyed "Even if that creep hadn't shown up and interrupted our meeting, we wouldn't have had the time for them to make the generators for us."
-    Rz annoyed "Même si cet enfoiré de Maverick ne nous avait pas interrompu l'autre soir, on n'aurait jamais eut le temps d'attendre qu'ils finissent de fabriquer nos générateurs."
+    Rz annoyed "Même si ce névrosé ne nous avait pas interrompu l'autre soir, on n'aurait jamais eu le temps d'attendre qu'ils finissent de fabriquer nos générateurs."
 
 # game/chapter5evilending.rpy:521
 translate french no_9a168e38:
@@ -586,13 +586,13 @@ translate french no_676e21ed:
 translate french no_f730d570:
 
     # Rz normal "With the right... persuasion, I think we'll have plenty of reasons to keep at least some of them around. Bodyguards, border patrols, weapons. Even as pets or companions, as long as we make the necessary changes."
-    Rz normal "En leur donnant la bonne... éducation, on devrait pouvoir faire ce qu'on veut de ces bestioles. Ça nous fait une bonne raison d'en rammener en souvenir, t'imagine un peu, avoir ton dragon garde du corps, avoir des gardes dragons... Même un dragon de comapgnie tiens !"
+    Rz normal "Avec les bons... arguments, je pense que nous aurons plein de raisons de garder certains d'entres eux chez nous. Gardes du corps, gardes à la frontière, des armes. Même comme des animaux de compagnie, du moment qu'on fait les changements nécéssaires."
 
 # game/chapter5evilending.rpy:527
 translate french no_4ca4f52e:
 
     # Rz amused "See, it's not as bad as you might think."
-    Rz amused "Tu vois, c'est ps si mal pour tes petits protégés au final."
+    Rz amused "Tu vois, c'est pas si terrible au final."
 
 # game/chapter5evilending.rpy:529
 translate french no_539a3b14:
