@@ -54,9 +54,9 @@ chapter5 ✔✔<br/>
 chapter5evilending ✔<br/>
 adine5 ✔✔<br/>
 anna5 ✔✔<br/>
-bryce5 ✔<br/>
+bryce5 ✔✔<br/>
 lorem5 ✔✔<br/>
 remy5 ✔<br/>
-chapter5trueending ✔<br/>
+chapter5trueending ✔✔<br/>
 achievements ✔✔<br/>
 sec ✔<br/>

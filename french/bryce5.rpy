@@ -124,7 +124,7 @@ translate french bryce5_29025e13:
 translate french bryce5_a7236ed6:
 
     # Br smirk "They certainly can be. Besides, there are other things inside as well."
-    Br smirk "Ils peuvent le devenir, ouais. Il y a plus que des casse-croûtes là-dedans..."
+    Br smirk "Ils peuvent le devenir. Il y a plus que des casse-croûtes là-dedans..."
 
 # game/bryce5.rpy:74
 translate french bryce5_9ca39f57:
@@ -388,7 +388,7 @@ translate french bryce5_8da682e7:
 translate french bryce5_f4f01083:
 
     # m "Bryce led me to the dig site where they had unearthed the building's entry. Once we got nearer, he stayed behind and motioned for me to go forward."
-    m "Bryce m'emmena sur le site de fouille, à l'endroit où ils avaient déterré l'entrée. Une fois assez proches, il me fit signe d'avancer et resta en arrière."
+    m "Bryce m'emmena sur le site de fouille, à l'endroit où ils avaient déterré l'entrée. Une fois que nous fûmes assez proches, il me fit signe d'avancer et resta en arrière."
 
 # game/bryce5.rpy:212
 translate french bryce5_506e336a:
@@ -526,7 +526,7 @@ translate french _call_sincethelightswerealreadyon_c05f6145:
 translate french _call_sincethelightswerealreadyon_2c7bf209:
 
     # m "Reza aimed at Bryce. It took four shots before he stumbled and fell. Then, Reza aimed at me."
-    m "Reza tira sur BryceIl lui fallut quatre balles avant que ce dernier ne chancelle et ne tombe. Puis, il pointa son arme sur moi."
+    m "Reza tira sur Bryce. Il lui fallut quatre balles avant que ce dernier ne chancelle et ne tombe. Puis, il pointa son arme sur moi."
 
 # game/bryce5.rpy:343
 translate french _call_sincethelightswerealreadyon_5731c0f3:
@@ -748,7 +748,7 @@ translate french _call_sincethelightswerealreadyon_d4a3d69f:
 translate french _call_sincethelightswerealreadyon_32838950:
 
     # n "I was sure the welcome I was to receive would not be a warm one. This mission had been a last ditch effort on humanity's part to save our slowly dying city."
-    n "J'étais persuadé que je n'allais pas recevoir un accueil des plus chaleureux de la part de mes semblables. Cette mission avait été une tentative désésperée de sauver notre ville au bord de la mort."
+    n "J'étais persuadé que je n'allais pas recevoir un accueil des plus chaleureux de la part de mes semblables. Cette mission avait été une tentative désespérée de sauver notre ville au bord de la mort."
 
 # game/bryce5.rpy:513
 translate french _call_sincethelightswerealreadyon_39d5943e:
@@ -838,25 +838,25 @@ translate french brycegoodending_670db790:
 translate french brycegoodending_5a72fb9a:
 
     # Rz "But talking can wait. Now that you're here, we've got everything. Come on, help me with this and let's get out of here."
-    Rz "Mais ça peut attendre après tout. Maintenant que tu es là, il ne manque plus rien. Tu vas pouvoir m'aider à emmener tout ça et à quitter ce monde."
+    Rz "Mais ça peut attendre, après tout. Maintenant que tu es là, il ne manque plus rien. Tu vas pouvoir m'aider à emmener tout ça et à quitter ce monde."
 
 # game/bryce5.rpy:717
 translate french _call_no_0bc9299b:
 
     # Rz annoyed "What are you talking about? I didn't kill anyone."
-    Rz annoyed "De quoi tu parles là ? Je n'ai tué personne !"
+    Rz annoyed "De quoi tu parles, là ? Je n'ai tué personne !"
 
 # game/bryce5.rpy:719
 translate french _call_no_49f4b6da:
 
     # c "Don't lie to me. You did it! I remember it now."
-    c "Ne te fous pas de moi ! Tu les a tous tué ! Je m'en souviens maintenant !"
+    c "Ne te fous pas de moi ! Tu les a tous tués ! Je m'en souviens maintenant !"
 
 # game/bryce5.rpy:721
 translate french _call_no_8b1c9ed9:
 
     # Rz "What do you mean? That doesn't make any sense."
-    Rz "Qu'est-ce que tu racontes là ? Ça n'a aucun sens !"
+    Rz "Qu'est-ce que tu racontes ? Ça n'a aucun sens !"
 
 # game/bryce5.rpy:723
 translate french _call_no_feb4fd83:
@@ -880,19 +880,19 @@ translate french _call_no_b0de5454:
 translate french _call_no_ed15ba33:
 
     # Rz annoyed "How could I? They wanted to arrest me. I was a fugitive."
-    Rz annoyed "Comment voulais tu que j'y arrives ? Ils voulait m'arrêter, j'étais recherché par la police je te rappelle !"
+    Rz annoyed "Comment voulais tu que j'y arrives ? Ils voulait m'arrêter, j'étais recherché par la Police !"
 
 # game/bryce5.rpy:731
 translate french _call_no_78d4fc30:
 
     # Rz normal "I was surprised they didn't apprehend you, but then you weren't the one who shot at one of their police officers."
-    Rz normal "D'ailleurs j'ai été surpris qu'ils te laissent libre. Mais bon, ce n'est pas toi qui a tiré sur l'un des leurs après tout."
+    Rz normal "D'ailleurs, j'ai été surpris qu'ils te laissent libre. Mais bon, ce n'est pas toi qui a tiré sur l'un des leurs, après tout."
 
 # game/bryce5.rpy:733
 translate french _call_no_ec12e33c:
 
     # c "Come on, Reza. The murders only started happening after you were gone, and the police have gathered plenty of evidence. You're the only one with a motive."
-    c "Allez Reza. La vague de meurtre a commencé juste après que tu sois parti. La police a rassemblé pas mal de preuves, et il n'y a que toi qui a le mobile."
+    c "Allez, Reza. La vague de meurtre a commencé juste après que tu es parti. La police a rassemblé pas mal de preuves, et il n'y a que toi qui a le mobile."
 
 # game/bryce5.rpy:735
 translate french _call_no_eac8b4a1:
@@ -904,25 +904,25 @@ translate french _call_no_eac8b4a1:
 translate french _call_no_792c110b:
 
     # Rz "Besides, how did you know so much about what the police were doing?"
-    Rz "D'ailleurs, comment tu en sais autant sur les affaires de la police ?"
+    Rz "D'ailleurs, comment tu en sais autant sur les affaires de la Police ?"
 
 # game/bryce5.rpy:739
 translate french _call_no_43921f51:
 
     # c "I've been helping them, because you were going about this the wrong way."
-    c "Je les ai aidés, parce que toi tu n'as pas su le faire."
+    c "Je les ai aidés, parce que toi, tu n'as pas su le faire."
 
 # game/bryce5.rpy:741
 translate french _call_no_c1eb0fed:
 
     # Rz angry "I didn't kill anyone, I'm telling you!"
-    Rz angry "Mais bordel puisque je te dit que je n'ai rien fait ! J'ai tué personne !"
+    Rz angry "Mais puisque je te dis que je n'ai rien fait ! J'ai tué personne !"
 
 # game/bryce5.rpy:743
 translate french _call_no_db46faac:
 
     # c "They have proof, Reza. I've seen it myself. Just turn yourself in and we'll go from there. Nobody can help you if you don't do that."
-    c "Ils ont des preuves Reza ! Je les ai vues moi même ! Mais si tu te rends maintenant, on pourra partir de là. Par contre personne ne va t'aider si tu n'y mets pas un peu du tiens !"
+    c "Ils ont des preuves, Reza ! Je les ai vues moi-même ! Mais si tu te rends maintenant, on pourra partir de là. Par contre, personne ne va t'aider si tu n'y mets pas un peu du tiens !"
 
 # game/bryce5.rpy:745
 translate french _call_no_750a321e:
@@ -934,7 +934,7 @@ translate french _call_no_750a321e:
 translate french _call_no_4cac2ae0:
 
     # c "How else do you expect this to end?"
-    c "Mais comment veux-tu que ça se termine autrement Reza ?"
+    c "Mais comment veux-tu que ça se termine autrement, Reza ?"
 
 # game/bryce5.rpy:749
 translate french _call_no_c371a882:
@@ -946,13 +946,13 @@ translate french _call_no_c371a882:
 translate french _call_no_1eb71afe:
 
     # c "That's not going to happen."
-    c "Nan, ça n'arrivera pas."
+    c "Non, ça n'arrivera pas."
 
 # game/bryce5.rpy:753
 translate french _call_no_5c59cbaa:
 
     # Rz amused "Let me ask you one thing: How exactly are you planning to stop me? I'm the one with the gun here."
-    Rz amused "Laisse moi te demander un truc alors : Comment tu comptes m'arrêter alors que c'est moi qui suis armé contrairement à toi ?"
+    Rz amused "Laisse-moi te demander un truc alors : Comment tu comptes m'arrêter alors que c'est moi qui suis armé contrairement à toi ?"
 
 # game/bryce5.rpy:755
 translate french _call_no_974a9ce0:
@@ -982,133 +982,133 @@ translate french _call_no_c856a65c:
 translate french _call_no_c0297ef4:
 
     # c "I don't need to, Reza. They're already here."
-    c "Pas besoin de les appeler Reza, ils sont déjà là."
+    c "Pas besoin de les appeler, Reza, ils sont déjà là."
 
 # game/bryce5.rpy:769
 translate french _call_no_f2e10306:
 
     # m "Suddenly, Bryce and Maverick were standing next to me."
-    m "Sur ces mots, j'ai vu Bryce et Maverick arriver à mes côtés."
+    m "Sur ces mots, je vis Bryce et Maverick arriver à mes côtés."
 
 # game/bryce5.rpy:777
 translate french _call_no_40a50c3c:
 
     # Rz angry "You planned this, didn't you, [player_name]?"
-    Rz angry "T'avais tout prévu depuis le début, hein [player_name] ?"
+    Rz angry "C'est toi qui as prévu ça, n'est-ce pas, [player_name] ?"
 
 # game/bryce5.rpy:781
 translate french _call_no_0599b8cd:
 
     # Rz "Traitor!" with hpunch
-    Rz "Traitre !" with hpunch
+    Rz "Sale traître !" with hpunch
 
 # game/bryce5.rpy:783
 translate french _call_no_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Et dire que je me suis laissé embobiner avec ton petit numéro minable ! Simplement parce que je pensais qu'il te restait une once d'humanité..."
+    Rz "Et dire que je t'ai laissé m'embobiner avec ton petit numéro ! Juste parce que je pensais qu'il restait une once d'humanité en toi..."
 
 # game/bryce5.rpy:791
 translate french _call_no_bdbf243c:
 
     # m "He pulled out his gun, not sure which one of us he should be aiming at."
-    m "Il a dégaîné son arme, sans savoir lequel d'entre nous pointer."
+    m "Il dégaina son arme, sans savoir lequel d'entre nous viser."
 
 # game/bryce5.rpy:793
 translate french _call_no_561cf27e:
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz "Laissez-moi partir ! Et j'oublierai tout ça, d'accord ?"
+    Rz "aissez-moi partir, et j'oublierai tout ce qui vient de se passer."
 
 # game/bryce5.rpy:795
 translate french _call_no_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c "Tu n'as que six balles, et on est trois. Tu crois vraiment que tu peux encore y arriver Reza ? Tu crois vraiment que ça vaux le coup de risquer ta peau ?"
+    c "Tu as six balles pour trois personnes. Penses-tu vraiment que tu vas y arriver, Reza ? Tu penses que ça vaut le coup de risquer ta vie pour ça ?"
 
 # game/bryce5.rpy:797
 translate french _call_no_6281e04a:
 
     # Rz angry "I've been risking my life for this every day for the last two weeks. What did you do during that time? Sip champagne in your nice apartment?"
-    Rz angry "Je risque ma peau chaque jour depuis deux semaines ! Et qu'est-ce que t'as foutu pendant tout ce temps, hein ? À part te la couler douce dans ton bel appartement !"
+    Rz angry "J'ai risqué ma vie chaque jour durant les deux dernières semaines pour ça. Qu'est-ce que tu as fait pendant ce temps ? Siroter du champagne dans ton superbe appartement ?"
 
 # game/bryce5.rpy:799
 translate french _call_no_892229f8:
 
     # Rz "Besides, this generator and the whole building came from our time."
-    Rz "Et puis ce générateur et ce complexe nous appartiennent, ils sont de notre époque !"
+    Rz "De plus, ce générateur et tout le bâtiment viennent de notre époque."
 
 # game/bryce5.rpy:801
 translate french _call_no_40d6a19a:
 
     # Rz "They belong to humanity!" with Shake((0, 0, 0, 0), 2, dist=10)
-    Rz "Tout ça appartient à l'humanité !!!" with Shake((0, 0, 0, 0), 2, dist=10)
+    Rz "Tout ça appartient à l'humanité !" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/bryce5.rpy:811
 translate french _call_no_d0af508a:
 
     # m "Suddenly, the Administrator came out of the shadows in the hallway behind Reza."
-    m "Soudain, ce fut au tour de l'Administrateur de faire son entrée, surgissant de l'ombre du couloir juste derrière Reza."
+    m "Soudain, ce fut au tour de l'Administrateur de sortir de l'ombre, dans le couloir derrière Reza."
 
 # game/bryce5.rpy:816
 translate french _call_no_0f4307a5:
 
     # As "No, they belong to me."
-    As "Non, tout ça n'appartient qu'à moi."
+    As "Non, tout ça m'appartient à moi."
 
 # game/bryce5.rpy:824
 translate french _call_no_5de0f92a:
 
     # m "Confused, Reza spun around, aiming his gun at the newcomer who was slowly walking towards him."
-    m "Désemparé, Reza s'est tourné et a pointé son arme sur l'individu qui ne cessait de lentement s'approcher de lui."
-
+    m "Désemparé, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
+	
 # game/bryce5.rpy:826
 translate french _call_no_6380d90f:
 
     # Rz "Who the fuck are you? Freeze! I said freeze!"
-    Rz "Bordel vous êtes qui vous ? Ne bougez plus ! J'vous ai dit de n'plus bouger !"
+    Rz "Bordel, t'es qui ? Bouge pas ! J'ai dit bouge pas !"
 
 # game/bryce5.rpy:830
 translate french _call_no_c13acdb0:
 
     # As "Want to waste your bullets on me? Feel free. You can't stop all of us."
-    As "Tu veux gaspiller tes balles sur moi ? N'hésite pas, tu ne pourras pas tous nous arrêter."
+    As "Envie de gâcher tes balles sur moi ? Fais-toi plaisir. Tu ne peux pas tous nous arrêter."
 
 # game/bryce5.rpy:834
 translate french _call_no_45e01706:
 
     # Rz gunpoint flip "If you say so."
-    Rz gunpoint flip "Comme vous voulez."
+    Rz gunpoint flip "Si tu insistes."
 
 # game/bryce5.rpy:848
 translate french _call_no_48e40cdb:
 
     # m "He pulled the trigger, and the Administrator fell to the ground with a dull thud that knocked her mask off."
-    m "Il a appuyé sur la détente, et dans une déflagration assourdissant, l'administrateur est tombé. Son corps a touché le sol dans un bruit sourd, et son masque se détachant de son visage."
+    m "Il appuya sur la détente, et l'Administrateur s'effondra au sol dans un choc sourd qui éjecta son masque."
 
 # game/bryce5.rpy:862
 translate french _call_no_c64f1ab2:
 
     # m "My first instinct was to run away, but as Bryce and Maverick started charging, so did I."
-    m "Mon instinct me disait de fuir, mais en voyant Bryce et Maverick charger, je les ai suivi."
+    m "Mon instinct me disait de fuir, mais en voyant Bryce et Maverick charger, je les suivis."
 
 # game/bryce5.rpy:880
 translate french _call_no_7a9437e6:
 
     # m "Reza was quick with his aim, shooting both Maverick and Bryce twice before pointing his gun in my direction."
-    m "Reza a été rapide dans ses gestes, il a tiré deux fois sur Maverick, puis sur Bryce avant de pointer son arme dans ma direction."
+    m "Reza visa très vite. Il tira deux fois sur Maverick, puis sur Bryce avant de pointer son arme dans ma direction."
 
 # game/bryce5.rpy:888
 translate french _call_no_5731c0f3:
 
     # m "I quickly dove behind the box with the generator for cover, just as Reza pulled the trigger multiple times."
-    m "Je me suis précipité derrière le carton contenant le générateur pour m'abriter, juste avant que Reza ne tire de nouveau."
+    m "Je me précipitai derrière le carton contenant le générateur pour m'abriter, juste avant que Reza ne tire de nouveau."
 
 # game/bryce5.rpy:906
 translate french _call_no_e1df514c:
 
     # m "Only a single shot came out and lodged itself in the box. Though I was seemingly unharmed, a loud hiss began to emanate from my cover."
-    m "J'ai entendu une balle pénéter dans la boite. Je n'avais rien à première vue, mais voilà qu'un sifflement a commencé à se faire entendre à l'intérieur du carton."
+    m "J'entendis une balle pénéter dans la boîte. Je n'avais rien à première vue, mais un sifflement commença à se faire entendre à l'intérieur du carton."
 
 # game/bryce5.rpy:908
 translate french _call_no_fd0fb3cc:
@@ -1120,37 +1120,37 @@ translate french _call_no_fd0fb3cc:
 translate french _call_no_47cb60e2:
 
     # m "I started running towards the exit and was soon overtaken by both Reza and Maverick. I looked back over my shoulder to see Bryce grab the Administrator before he started running as well."
-    m "J'ai commencé à courir vers la sortie et ai très vite vu Reza et Maverick me passer devant. J'ai regardé par dessus mon épaule, et ai vu Bryce saisir l'Administrateur avant qu'il ne nous suive."
+    m "Je me ruai vers la sortie et vis très vite Reza et Maverick me passer devant. Je regardai par dessus mon épaule, et vis Bryce saisir l'Administrateur avant qu'il ne nous suive."
 
 # game/bryce5.rpy:928
 translate french _call_no_2a35f974:
 
     # m "Just as I reached the outside, the explosion knocked me off my feet." with Shake((0, 0, 0, 0), 3.0, dist=30)
-    m "Juste au moment ou je me suis retrouvé dehors, l'explosion m'a projeté en avant, me faisant trébucher." with Shake((0, 0, 0, 0), 3.0, dist=30)
+    m "Juste au moment ou je me retrouvais dehors, l'explosion me déséquilibra et me fit trébucher." with Shake((0, 0, 0, 0), 3.0, dist=30)
 
 # game/bryce5.rpy:930
 translate french _call_no_8006acf3:
 
     # m "There was a rain of small debris as I heard the walls of the building shaking in their foundation."
-    m "J'ai vu une pluie de petits débris alors que je sentais les fondations vibrer."
+    m "Je vis une pluie de petits débris alors que je sentais les fondations vibrer."
 
 # game/bryce5.rpy:938
 translate french _call_no_7b92c071:
 
     # m "As I looked up, I saw Reza fumbling with his gun as Maverick pounced on him."
-    m "En levant les yeux, j'ai remarqué que Reza était en train de chercher son arme à tâton, tout en regardant avec effroi Maverick qui se jetait sur lui."
+    m "En levant les yeux, je remarquai que Reza était en train de chercher son arme à tâton, tout en regardant avec effroi Maverick qui se jetait sur lui."
 
 # game/bryce5.rpy:969
 translate french _call_no_55770386:
 
     # m "He bit into Reza's neck and strained for a second before ripping a large chunk out of it."
-    m "De ses dents, le dragon a saisi Reza à la gorge, pour la seconde suivante en arracher un morceau."
+    m "Le Dragon planta ses crocs dans la gorge de Reza et tira en arrière, la lui arrachant sur le coup."
 
 # game/bryce5.rpy:971
 translate french _call_no_e2117615:
 
     # m "Reza wasn't moving when Maverick walked off and came towards me."
-    m "Reza ne bougeait plus alors que je voyait Maverick s'avancer vers moi, crachant le morceau qu'il avait dans la gueule."
+    m "Reza restait immobile, tandis que Maverick se précipita vers moi."
 
 # game/bryce5.rpy:975
 translate french _call_no_7b7bd513:
@@ -1162,7 +1162,7 @@ translate french _call_no_7b7bd513:
 translate french _call_no_7f7d5d8e:
 
     # m "I looked towards the entry which was now mostly blocked by debris."
-    m "J'ai regardé derrière moi, et me suis rendu compte que le passage était enseveli par les débris."
+    m "Je jetai un coup d'œil vers l'entrée, qui semblait obstruée par les décombres."
 
 # game/bryce5.rpy:979
 translate french _call_no_b7c244ac:
@@ -1174,19 +1174,19 @@ translate french _call_no_b7c244ac:
 translate french _call_no_4482daa7:
 
     # Mv "Then what are you still waiting for? Come on!" with Shake((0, 0, 0, 0), 2, dist=10)
-    Mv "Qu'est-ce que t'attends bordel ! Au boulot !" with Shake((0, 0, 0, 0), 2, dist=10)
+    Mv "Alors t'attends quoi ? On y va !" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/bryce5.rpy:1008
 translate french _call_no_756c7062:
 
     # m "We ran towards the rubble, only to see the Administrator crawling through a small hole as she removed the last bits of debris that separated her from the outside world."
-    m "Nous avons couru vers les décombres, pour trouver l'Administrateur qui s'extirpait des gravats lz séparant de l'extérieur."
+    m "Nous courûmes vers les gravats, et nous y trouvâmes l'Administrateur qui s'extirpait d'un minuscule trou et retirait les derniers débris qui la séparaient de l'extérieur."
 
 # game/bryce5.rpy:1010
 translate french _call_no_ce3a4795:
 
     # m "Afterwards, she laid down, panting heavily. Water began to trickle from the new opening."
-    m "Elle s'est laissé tomber, haletante. Derrière elle, de l'eau s'échappait du passage par lequel elle était sortie."
+    m "Elle se laissa tomber, haletante. Derrière elle, de l'eau s'échappait du passage par lequel elle était sortie."
 
 # game/bryce5.rpy:1012
 translate french _call_no_7205eae3:
@@ -1204,19 +1204,19 @@ translate french _call_no_b60d461f:
 translate french _call_no_e22b8f4d:
 
     # m "We both set to work as I stuck my head into the hole that the Administrator had crawled out of."
-    m "On s'est mis chacun à la tâche, il s'empressait de retirer les gravats alors que par le passage de l'Administrateur, je cherchait Bryce."
+    m "Chacun se mit au travail, je plongeai ma tête dans le trou par lequel l'Administrateur s'était échappé."
 
 # game/bryce5.rpy:1028
 translate french _call_no_d1c17132:
 
     # m "The place was flooded completely, but luckily, even through the water I could see Bryce as he also tried to clear away the rubble from the other side."
-    m "L'endroit était complètement innondé, mais à travers l'eau, j'ai réussi à voir le dragon qui tentait de se dégager de son côté."
+    m "L'endroit était complètement inondé, mais à travers l'eau, je réussis à voir le dragon qui tentait de se dégager de son côté."
 
 # game/bryce5.rpy:1034
 translate french _call_no_7a59c046:
 
     # m "Quickly, I pulled my head back out of the hole."
-    m "Rapidement, j'ai sorti ma tête du trou."
+    m "Rapidement, je sortis ma tête du trou."
 
 # game/bryce5.rpy:1038
 translate french _call_no_1eae731c:
@@ -1234,67 +1234,67 @@ translate french _call_no_a727a99a:
 translate french _call_no_d7e450a9:
 
     # m "I took a deep breath before I went in again. I extended my arm to grab Bryce's muzzle. Luckily, he seemed to understand what I was going for as he moved into my reach."
-    m "J'ai profondément inspiré avant d'y retourner. J'ai tendu le bras pour saisir le museau du dragon. Il a semblé comprendre, puis qu'il s'est approché de moi."
+    m "Jinspirai profondément avant d'y retourner. Je tendis le bras pour saisir le museau du dragon. Heureusement pour nous, il sembla comprendre ma manœuvre, et se mit à ma portée."
 
 # game/bryce5.rpy:1059
 translate french _call_no_02385624:
 
     # m "I pressed my lips to his muzzle, giving him some much-needed air."
-    m "J'ai appuyé mes lèvres sur les siennes, lui donnant le maximum d'air que je pouvais."
+    m "Je pressai mes lèvres contre son museau, lui donnant l'oxygène salvateur."
 
 # game/bryce5.rpy:1065
 translate french _call_no_0ed921dc:
 
     # m "I drew back, repeating the same process a few times while Maverick cleared away the rubble, until eventually, Bryce surfaced, panting heavily."
-    m "Je me suis écarté de lui et ai répété le processure à plusieurs reprises pendant que Bryce continuait de déblayer. Finalement, le taurex est sorti des décombres, haletant et visiblement épuisé."
+    m "Je revins à la surface, et répétai le processus à plusieurs reprises pendant que Bryce continuait de déblayer. Finalement, le taurex sortit des décombres, haletant et visiblement épuisé."
 
 # game/bryce5.rpy:1089
 translate french _call_no_4b9e0353:
 
     # c "Are you alright?"
-    c "Bryce ! Comment tu te sens ?"
+    c "Bryce ! Tout va bien ?"
 
 # game/bryce5.rpy:1091
 translate french _call_no_4d89ff42:
 
     # Br stern "Yes. Let's get away from here before the empty water pockets cave in or something."
-    Br stern "Ça peut aller. Tirons nous avant que ça ne s'effondre encore."
+    Br stern "Ça peut aller. Tirons-nous avant que ça ne s'effondre encore."
 
 # game/bryce5.rpy:1097
 translate french _call_no_ce83941a:
 
     # m "Maverick carried the Administrator while we went uphill towards the portal."
-    m "Maverick a porté l'Administrateur alors qu'on s'avançait vers le portail."
+    m "Maverick porta l'Administrateur alors qu'on s'avançait vers le portail."
 
 # game/bryce5.rpy:1103
 translate french _call_no_6f9ba66e:
 
     # m "When I came across Reza's corpse, I took the time to strip him of his gun and ammo, not wanting the dragons to find them."
-    m "Quand je suis tombé sur le corps de Reza, je me suis empressé de cacher son arme et ses munitions pour que les dragons ne les trouvent pas."
+    m "Lorsque nous revînmes près du cadavre de Reza, je le délestai de son arme et de ses munitions pour que les dragons ne les trouvent pas."
 
 # game/bryce5.rpy:1107
 translate french _call_no_8386af27:
 
     # m "Meanwhile, the Administrator was set on the ground, and Bryce checked out everyone's injuries. Luckily, it seemed both Bryce's and Maverick's were comparatively minor and didn't need any immediate attention."
-    m "Au même moment, Maverick a posé le corps de L'Administrateur au sol, et Bryce a examiné les blessures de tout le monde. Celles des deux dragons étaient légères et ne nécessitaient pas de soins immédiats."
+    m "Pendant ce temps, Maverick posait le corps de L'Administrateur au sol, puis Bryce examina les blessures de tout le monde. Celles des deux dragons étaient légères et ne nécessitaient pas de soins immédiats."
 
 # game/bryce5.rpy:1111
 translate french _call_no_12cbeb03:
 
     # m "The Administrator was not so lucky, however. She squirmed as Bryce moved her clothes out of the way to get a good look at her bullet wound."
-    m "Hélas, ce n'était pas la même chose pour l'Administrateur. Elle s'est tortiléle de douleur alors que Bryce retirait en partie ses vêtements pour examiner sa blessure."
+    m "L'Administrateur avait eu moins de chance. Elle se tortilla de douleur, tandis que Bryce retirait en partie ses vêtements pour examiner sa blessure."
 
 # game/bryce5.rpy:1113
 translate french _call_no_32fddc77:
 
     # As "No, don't."
-    As "Nan, pas la peine."
+    As "Ne prends pas cette peine."
 
 # game/bryce5.rpy:1115
 translate french _call_no_81ebde5a:
 
     # m "As I returned to them, I heard Bryce audibly gasping."
-    m "En revenant à eux, j'ai entendu Bryce souffler bruyamment."
+    m "En revenant vers eux, j'entendis Bryce inspirer bruyamment."
 
 # game/bryce5.rpy:1119
 translate french _call_no_6dbcfbee:
@@ -1318,32 +1318,32 @@ translate french _call_no_a4cafe53:
 translate french _call_no_0ef43e83:
 
     # Br stern "But Reza doesn't have a matching bite wound from him. She does."
-    Br stern "On savait que c'était du sang humain, on savait aussi qu'il n'étais ni à toi, ni à Reza. On s'est dit que nos tests ADN n'était pas compatible, ou quoi, mais c'était pas ça [player_name]..."
+    Br stern "On savait que c'était du sang humain, on savait aussi qu'il n'était ni à toi, ni à Reza. On s'est dit que nos tests ADN n'était pas compatibles, ou quoi, mais c'était pas ça [player_name]..."
 
 # game/bryce5.rpy:1127
 translate french _call_no_bc449c3a:
 
     # m "I considered the implications of Bryce's words. Whereas Reza usually didn't hesitate to admit the killings to reach a goal he thought noble, he had denied any such actions this time."
-    m "Reza n'as pas de blessure par morsure. Elle par contre, si."
+    m "Reza n'as pas de blessure par morsure. Elle, par contre, si."
 
 # game/bryce5.rpy:1129
 translate french _call_no_8974bfb9:
 
     # m "Of course, there was no use ignoring the evidence before us. This could only mean one thing."
-    m "Les paroles de Bryce ont résonné dans ma tête. En temps normal, Reza avait admis les meurtres jusqu'à là, sauf cette fois ci précidémment ou il avait tout nié en bloc."
-    m "Évidemment, inutile de douter des preuves qu'on avait là, il n'y avait qu'une explication possible."
+    m "Les paroles de Bryce résonnèrent dans ma tête. Reza avait admis les meurtres jusque là, sauf cette fois-ci précidémment ou il avait tout nié en bloc."
+    m "Évidemment, inutile de douter des preuves qu'on avait, il n'y avait qu'une explication possible."
 
 # game/bryce5.rpy:1131
 translate french _call_no_a68b0d5e:
 
     # c "Why did you do it, Izumi? Why did you kill them?"
-    c "Pourquoi vous avez fait ça Izumi ? Pourquoi vous les avez tué ?"
+    c "Pourquoi vous avez fait ça, Izumi ? Pourquoi vous les avez tués ?"
 
 # game/bryce5.rpy:1143
 translate french _call_no_83d7c01e:
 
     # Iz "He did kill them, you know. Just not in this timeline."
-    Iz "Tu sais comme moi qu'il les a tué... Mais pas dans cette chronologie."
+    Iz "Tu sais comme moi qu'il les a tués... Mais pas dans cette chronologie."
 
 # game/bryce5.rpy:1145
 translate french _call_no_11ea3005:
@@ -1373,19 +1373,19 @@ translate french _call_no_cf33a464:
 translate french _call_no_a0cd57d5:
 
     # Iz "If he didn't kill anyone, there would have been no investigation, and you wouldn't have known how dangerous he is when he shows his true colors."
-    Iz "S'il n'avait tué personne, il n'y aurait pas eut d'enquête. Tu ne l'aurais pas vu sous son véritable visage, et tu n'aurais pas compris à quel point il est dangereux."
+    Iz "S'il n'avait tué personne, il n'y aurait pas eu d'enquête. Tu ne l'aurais pas vu sous son véritable visage, et tu n'aurais pas compris à quel point il est dangereux."
 
 # game/bryce5.rpy:1155
 translate french _call_no_8ca9381b:
 
     # Iz "You just saw that even in this scenario he wouldn't shy away from shooting others to get what he wants."
-    Iz "Tu l'as vu même dans cette chronologie, il n'hésite pas à tirer au risque de tuer, il est prêt à tout pour obtenir ce qu'il veut."
+    Iz "Tu l'as vu, même dans cette chronologie, il n'hésite pas à tirer au risque de tuer, il est prêt à tout pour obtenir ce qu'il veut."
 
 # game/bryce5.rpy:1157
 translate french _call_no_6b2b177d:
 
     # Iz "Besides, I didn't want to risk jeopardizing our experience by changing things. It could erase all the progress we have made and the things we learned over the many times we've done this now. "
-    Iz "Et puis, je ne voulais pas compromettre toute notre avancée en changeant les évènements tels que nous les connaissons. Ça aurait pu compromettre la réussite de notre mission de base si tu n'avais pas appris telle chose ou que tu n'avais pas accompli telle action."
+    Iz "Et puis, je ne voulais pas compromettre toute notre avancée en changeant les événements tels que nous les connaissons. Ça aurait pu compromettre tous nos progrès, toutes les choses que nous avons apprises au fur et à mesure de nos nombreux essais."
 
 # game/bryce5.rpy:1159
 translate french _call_no_9e644fd1:
@@ -1397,7 +1397,7 @@ translate french _call_no_9e644fd1:
 translate french _call_no_cb106bbc:
 
     # Iz "There was a lot of trial and error involved to get where we are now. You wouldn't believe the lengths I have to go to every single time and the consequences if I don't."
-    Iz "Il a fallu beaucoup d'essais et d'erreurs pour arriver ou nous sommes aujourd'hui. Tu n'as pas idée des efforts que je dois faire à chaque nouvelle chronologie, et des conséquences qui il y a des choses que je ne fais pas."
+    Iz "Il a fallu beaucoup d'essais et d'erreurs pour arriver ou nous sommes aujourd'hui. Tu n'as pas idée des efforts que je dois faire à chaque nouvelle chronologie, et des conséquences après ce que je ne fais pas."
 
 # game/bryce5.rpy:1163
 translate french _call_no_fee40c22:
@@ -1409,13 +1409,13 @@ translate french _call_no_fee40c22:
 translate french _call_no_33ce5de1:
 
     # Iz "Only if the events stay the same long enough will you be able to learn from them and remember, despite the effects the repeated teleportations have on your memory."
-    Iz "C'est en répétant les mêmes évènements encore et encore que les souvenirs de tes nombreux voyages finissent par t'aider."
+    Iz "C'est en répétant les mêmes événements encore et encore que les souvenirs de tes nombreux voyages finissent par t'aider, malgré les effets délétères de la téléportation sur ta mémoire."
 
 # game/bryce5.rpy:1167
 translate french _call_no_3e558556:
 
     # Iz "This only tells me that I made the right call."
-    Iz "Cela me prouve que j'ai fais le bon choix, malgré ce qu'il a fallu que je fasse."
+    Iz "Cela me prouve que j'ai fait le bon choix, malgré ce qu'il a fallu que je fasse."
 
 # game/bryce5.rpy:1169
 translate french _call_no_43c148eb:
@@ -1427,7 +1427,7 @@ translate french _call_no_43c148eb:
 translate french _call_no_452b6332:
 
     # Iz "I slipped him a note he thought came from you. It said to meet here and take the generator before you'd leave together. He played his part well enough so you couldn't tell the difference."
-    Iz "C'est moi qui ai permis cela. Je lui ai glissé un mot pour lui donner rendez-vous ici afin de se conformer à son plan initial. Ce mot était supposé être de toi, et il a assez bien joué son rôle pour que tu ne remarques rien d'anormal."
+    Iz "Je lui ai glissé une note, qu'il pensait venir de toi, lui ordonnant de venir ici et de prendre le générateur avant que vous ne vous éclipsiez. Visiblement, il a suffisamment bien joué son rôle pour que tu sois confondu."
 
 # game/bryce5.rpy:1173
 translate french _call_no_ef1e35ff:
@@ -1463,20 +1463,19 @@ translate french _call_no_be7b7c99:
 translate french _call_no_4903afd6:
 
     # m "Bryce tried to go between them, but Maverick aimed his shoulder squarely into Bryce's bullet wound. Bryce collapsed, convulsing in pain as Maverick pounced on Izumi and tore into her."
-    m "Bryce a tenté de s'interposer, mais d'un geste précis, Maverick a riposté en le frappant à l'épaule, pile à l'endroit où la balle était entrée. Bryce s'est effondré en hurlant de douleur, Maverick s'est alors jeté sur Izumi et l'a déchiquetée."
+    m "Bryce tenta de s'interposer, mais d'un geste précis, Maverick riposta en le frappant à l'épaule, pile à l'endroit où la balle était entrée. Bryce s'effondra de douleur, Maverick se jeta alors sur Izumi et la mit en pièces."
 
 # game/bryce5.rpy:1225
 translate french _call_no_3b6fcb04:
 
     # m "Meanwhile, I put a few bullets into the gun I took from Reza before I aimed at Maverick and pulled the trigger several times."
-    m "Voyant le dragon plein de rage, je me suis empressé de remettre des balles dans le revolver de Reza, pour ensuite pointer l'arme en direction de Maverick."
-    m "Craignant pour ma vie, j'ai alors écrasé la détente à plusieurs reprises."
+    m "Je m'empressai de recharger le revolver pris de Reza, avant de viser Maverick et d'appuyer sur la détente à plusieurs reprises."
 
 # game/bryce5.rpy:1227
 translate french _call_no_8519e11e:
 
     # m "Maverick collapsed instantly and looked at me with a pained expression. Beneath him lay Izumi, dead."
-    m "Le dragon s'est effondré aussitôt dans un râle de douleur. Il m'a alors jeté un regard froid, sous son corps se tenait celui d'Izumi qui était morte."
+    m "Le dragon s'effondra aussitôt dans un râle de douleur. Il me jeta un regard froid, sous son corps se tenait celui d'Izumi, sans vie."
 
 # game/bryce5.rpy:1231
 translate french _call_no_84f22b3a:
@@ -1488,13 +1487,13 @@ translate french _call_no_84f22b3a:
 translate french _call_no_8579a8c6:
 
     # m "He was trembling and took a few slow steps towards me, only stopping when I aimed the gun at him."
-    m "Il tremblait, et a commencé à se traîner vers moi, jusqu'à ce que je le pointe de mon arme, ce qui l'a stoppé aussitôt."
+    m "Il tremblait, et fit quelques pas maladroits vers moi, jusqu'à ce que je le pointe de mon arme, ce qui l'arrêta net."
 
 # game/bryce5.rpy:1235
 translate french _call_no_ceecaf70:
 
     # c "Stop right there."
-    c "Arrêtez, s'il vous plaît !..."
+    c "Stop, ça suffit."
 
 # game/bryce5.rpy:1237
 translate french _call_no_7119e47c:
@@ -1519,13 +1518,12 @@ translate french _call_no_0d2db014:
 
     # Mv angry c "Just when I thought I could trust you. I should have known you'd shoot me, just like Reza did."
     Mv angry c "Juste au moment ou je pensais t'accorder ma confiance, tu me tires dessus, comme Reza avant toi..."
-    Mv "J'aurais dû savoir que ça finirait par arriver..."
 
 # game/bryce5.rpy:1245
 translate french _call_no_9290198e:
 
     # c "No, it's not like that."
-    c "Nan, je vous l'ai dit, ce n'est pas ce que je voulais !"
+    c "Non, je vous l'ai dit, ce n'est pas ce que je voulais !"
 
 # game/bryce5.rpy:1247
 translate french _call_no_e6da0044:
@@ -1567,19 +1565,19 @@ translate french _call_no_27efcd63:
 translate french _call_no_116dcd30:
 
     # m "He gave a weak chuckle as a trail of blood slowly ran down from the corner of his muzzle."
-    m "Il a laissé échapper un rire faible alors que je voyais le sang couler de son museau."
+    m "Il laissa échapper un rire faible alors que je voyais le sang couler de son museau."
 
 # game/bryce5.rpy:1263
 translate french _call_no_c67f38ba:
 
     # Mv "What an interesting kind of ambassador you turned out to be."
-    Mv "Quel genre d'ambassadeur tu es devenu ?..."
+    Mv "En voilà un ambassadeur digne de ce nom..."
 
 # game/bryce5.rpy:1267
 translate french _call_no_ff494054:
 
     # Mv "You told me I wouldn't understand."
-    Mv "Tu m'as dit que je ne comrpendrais pas..."
+    Mv "Tu m'as dit que je ne comprendrais pas..."
 
 # game/bryce5.rpy:1269
 translate french _call_no_c779bc5a:
@@ -1591,19 +1589,19 @@ translate french _call_no_c779bc5a:
 translate french _call_no_f5bcae86:
 
     # m "His head slumped as he closed his eyes. He was dead."
-    m "Il a doucement posé sa tête au sol, puis son regard s'est éteint."
+    m "Sa tête retomba lourdement au sol et il ferma les yeux. La vie l'avait quitté."
 
 # game/bryce5.rpy:1303
 translate french _call_no_d710dd54:
 
     # c "Hey, Bryce."
-    c "Salut Bryce."
+    c "Salut, Bryce."
 
 # game/bryce5.rpy:1305
 translate french _call_no_3d4e6ccd:
 
     # Br brow "I'm afraid I've got some pretty bad news for you."
-    Br brow "Salut [player_name]... J'ai peur d'avoir encore de mauvaises nouvelles pour toi."
+    Br brow "Salut, [player_name]... J'ai peur d'avoir encore de mauvaises nouvelles pour toi."
 
 # game/bryce5.rpy:1307
 translate french _call_no_0f173ebb:
@@ -1711,7 +1709,7 @@ translate french _call_no_83467a54:
 translate french _call_no_1395da73:
 
     # Br brow "Either way, I'm not sure if you really have much of a choice here. They don't actually know if they can stop the comet. Of course they'll try, but without the generators from the lab, it's not looking great for us."
-    Br brow "En tout cas, je ne crois pas que tu aies vraiment le choix. Personne ne sait si on va pouvoir se démerder de cette foutu comète. On va tenter un truc évidemment, mais sans le générateur du labo, ça s'annonce mal pour nous."
+    Br brow "En tout cas, je ne crois pas que tu aies vraiment le choix. Personne ne sait si on va pouvoir arrêter cette comète. On va tenter un truc, évidemment, mais sans le générateur du labo, ça s'annonce mal pour nous."
 
 # game/bryce5.rpy:1345
 translate french _call_no_d90d35fa:
@@ -1729,7 +1727,7 @@ translate french _call_no_668199af:
 translate french _call_no_63860d73:
 
     # c "Hey, no need for melancholy now. It's not as if we're not going to see each other again."
-    c "Hé gros bébé, pas besoin d'être mélancolique maintenant, on va se revoir d'une certaine manière tu sais."
+    c "Hé, pas besoin d'être mélancolique maintenant, on va se revoir d'une certaine manière tu sais."
 
 # game/bryce5.rpy:1357
 translate french _call_no_76b2fe88:
@@ -1765,7 +1763,7 @@ translate french _call_no_af0a9ea1:
 translate french _call_no_867439ad:
 
     # n "Not only did I take my own written account of what had happened with me, but there were also physical reminders I could bring to remember, such as Izumi's mask and cloak."
-    n "Non seulement j'ai emmené mon propre résumé écrit de ce qui s'était passé, mais j'avais aussi des souvenirs physiques que je pouvais apporter, tel que la cape et le masque de l'Administrateur."
+    n "Non seulement j'ai emporté mon propre résumé écrit de ce qui s'était passé, mais j'avais aussi des souvenirs physiques que je pouvais rapporter, tel que la cape et le masque de l'Administrateur."
 
 # game/bryce5.rpy:1371
 translate french _call_no_34f86409:
@@ -1777,7 +1775,7 @@ translate french _call_no_34f86409:
 translate french _call_no_18961026:
 
     # n "As I made my way to the portal, I realized that in order to make this mission a success - to save everyone - this time I would just have to save myself."
-    n "En me dirigeant vers le portail, je me suis dit que pour réussir cette mission, et sauver les deux mondes, je devais cette fois-ci me sauver moi même."
+    n "En me dirigeant vers le portail, je me dis que pour réussir cette mission, et sauver les deux mondes, je devais cette fois-ci me sauver moi même."
 
 # game/bryce5.rpy:1507
 translate french _call_syscheck_88_d88ccac3:
