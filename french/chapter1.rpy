@@ -746,7 +746,6 @@ translate french seccont_22affa1d:
 
     # n "After a good stretch, I looked around the room illuminated by the sunlight coming in from the window. Outside, in the distance, the portal I had emerged from proudly stood on the peak of a small hill."
     n "Après un bon étirement, je regardai autour de moi la salle illuminée par la lumière du soleil venant de la fenêtre. Dehors, au loin, le portail duquel j'avais émergé se tenait fièrement au sommet d'une petite colline."
-    nvl clear
 
 # game/chapter1.rpy:1149
 translate french seccont_f69b9100:
@@ -794,13 +793,13 @@ translate french _call_skipcheck_2_0054b77b:
 translate french _call_skipcheck_2_8b54a3a5:
 
     # Sb "H-Hello! You must be [player_name]. I'm Sebastian, and I'll be your escort... or s-security, I suppose. Usually I work for the police, though. Nice to meet you."
-    Sb "B-bonjour ! Vous devez être [player_name]. Je suis Sébastien, et je serai votre escorte... ou s-sécurité, je suppose. Habituellement je travaille pour la police. Content de vous rencontrer."
+    Sb "B-bonjour ! Vous devez être [player_name]. Je suis Sébastien, et je serai votre escorte... ou s-sécurité, je suppose. Habituellement je travaille pour la police. Ravi de vous rencontrer."
 
 # game/chapter1.rpy:1259
 translate french _call_skipcheck_2_dd8ee6c6:
 
     # m "He seemed a lot smaller than Remy, and when he somewhat nervously extended his arm towards me, I noticed he apparently only walked on his hind legs, the two forelimbs instead having distinct arms, hands and fingers."
-    m "Il semblait beaucoup plus petit que Rémi, et quand il tenda plutôt nerveusement son bras vers moi, je remarquai qu'il ne marchait apparamment que sur ses pattes arrières, ses deux membres avant ayant distinctement des bras, des mains et des doigts"
+    m "Il semblait beaucoup plus petit que Rémi, et quand il tendit plutôt nerveusement son bras vers moi, je remarquai qu'il ne marchait apparamment que sur ses pattes arrières, ses deux membres supérieurs avant ayant distinctement des bras, des mains et des doigts."
 
 # game/chapter1.rpy:1264
 translate french _call_skipcheck_2_369fcd63:
@@ -872,13 +871,13 @@ translate french _call_skipcheck_2_a0f2016d:
 translate french _call_skipcheck_2_04ea8b49:
 
     # n "Even then, we got the occasional stare."
-    n "Même avec ces précautions, nous eûmes d'occasionnels regards incrédules."
+    n "Même avec ces précautions, nous eûmes droit aux occasionnels regards incrédules."
 
 # game/chapter1.rpy:1301
 translate french _call_skipcheck_2_a313ff65:
 
     # n "After just a couple of minutes, we arrived at our destination where we were met by Reza, as well as yet another dragon, a vicious looking beast that didn't stay too close to him."
-    n "Après quelques minutes, nous arrivâmes à notre destination où nous fûmes accueillis par Reza, ainsi que par encore un autre dragon, une bête à l'aspect vicieux qui restait à une certaine distance de lui."
+    n "Après quelques minutes, nous arrivâmes à notre destination où nous fûmes accueillis par Reza, ainsi que par un autre dragon, une bête à l'aspect vicieux qui restait à une certaine distance de lui."
 
 # game/chapter1.rpy:1319
 translate french _call_skipcheck_2_ed3bc404:
