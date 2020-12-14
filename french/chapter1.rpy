@@ -961,7 +961,7 @@ translate french _call_skipcheck_2_ec602286:
 translate french _call_skipcheck_2_dc037c95:
 
     # Mv "Yeah, whatever. Just don't expect me to give you any special treatment like everyone else is and we'll be good."
-    Mv "Oui, oui, si tu veux. Ne t'attends juste pas à un traitement de faveur de ma part et tout ira bien."
+    Mv "Ouais, ouais, si tu veux. Ne t'attends juste pas à un traitement de faveur de ma part et tout ira bien."
 
 # game/chapter1.rpy:1356
 translate french _call_skipcheck_2_3070bc42:
@@ -973,7 +973,7 @@ translate french _call_skipcheck_2_3070bc42:
 translate french _call_skipcheck_2_d732b21c:
 
     # Mv "So you're saying you haven't noticed the stares and how they all treat you like you're the next messiah or something?"
-    Mv "Alors, tu veux me dire que tu n'as pas remarqué les regards, et comment ils te traitent tous comme si tu étais le prochain messie ?"
+    Mv "Alors, tu veux me dire que tu n'as pas remarqué les regards, et comment ils vous traitent tous comme si vous étiez les prochains messies ou je ne sais quoi ?"
 
 # game/chapter1.rpy:1358
 translate french _call_skipcheck_2_529aeda4:
@@ -985,7 +985,7 @@ translate french _call_skipcheck_2_529aeda4:
 translate french _call_skipcheck_2_4f894d15:
 
     # Rz "We're not the ones making a big deal out of this, you are. We're just here to get what we agreed on and then we'll be gone. If anything, I'd actually prefer if you left us alone, but you're the one who insists on following me around wherever I go."
-    Rz "Ce n'est pas nous qui en faisons toute une histoire, c'est toi. Nous sommes juste là pour récupérer ce sur quoi nous nous sommes mis d'accord et nous seront partis. En soit, je préférerais plutôt que tu nous laisses tranquilles, mais tu ne fais qu'insister à me suivre où que j'aille."
+    Rz "Ce n'est pas nous qui en faisons toute une histoire, c'est toi. Nous sommes juste là pour récupérer ce sur quoi nous nous sommes mis d'accord et nous serons partis. En soit, je préférerais plutôt que tu nous laisses tranquilles, mais tu ne fais qu'insister pour me suivre où que j'aille."
 
 # game/chapter1.rpy:1369
 translate french _call_skipcheck_2_bf0efca8:
@@ -1051,7 +1051,7 @@ translate french _call_skipcheck_2_46975328:
 translate french _call_skipcheck_2_ec602286_1:
 
     # c "Nice to meet you."
-    c "Content de te rencontrer."
+    c "Ravi de te rencontrer."
 
 # game/chapter1.rpy:1412
 translate french _call_skipcheck_2_e2ad732a:
@@ -1075,7 +1075,7 @@ translate french _call_skipcheck_2_83471fa0:
 translate french _call_skipcheck_2_71aa7402:
 
     # An "Don't underestimate its power. Oh, and do be careful not to drop it."
-    An "Ne surestimez pas sa puissance. Oh, et faites attention à ne pas le faire tomber."
+    An "Ne sous-estimez pas sa puissance. Oh, et faites attention à ne pas le faire tomber."
 
 # game/chapter1.rpy:1426
 translate french _call_skipcheck_2_6e8828ce:
@@ -1135,7 +1135,7 @@ translate french _call_skipcheck_2_115c34c4:
 translate french _call_skipcheck_2_86653501:
 
     # An "I work in biology, so obviously this kind of thing would be very interesting to us. I'd share the results with you, of course."
-    An "Je travaille dans le domaine de la biologie, alors évidemment ce genre de chose nous serait très intéressante. Bien sûr, je partagerais les résultats avec toi."
+    An "Je travaille dans le domaine de la biologie, alors évidemment ce genre de chose serait très intéressante pour nous. Bien sûr, je partagerais les résultats avec toi."
 
 # game/chapter1.rpy:1466
 translate french _call_skipcheck_2_747d3bb6:
@@ -1177,7 +1177,7 @@ translate french _call_skipcheck_2_4cb93198:
 translate french _call_skipcheck_2_5bb6a80a:
 
     # m "As I reached out to her, she took my hand into hers before she pressed the device into the back of my hand. I winced as pain jolted through my hand. Something sharp drove itself through my skin and, shortly afterwards, a droplet of blood was sucked into the tube attached to the small needle."
-    m "Je lui tendis la main, qu'elle me pris dans les siennes avant d'appuyer l'appareil dans le dos de ma main. Je grimaçai lorsqu'une douleur sembla subitement la traverser. Quelque chose de pointu transperça ma peau et, peu après, une gouttelette de sang fut aspiré dans le tube attaché à la petite aiguille."
+    m "Je lui tendis la main, qu'elle prit dans les siennes avant d'appuyer l'appareil dans le dos de ma main. Je grimaçai lorsqu'une douleur sembla subitement la traverser. Quelque chose de pointu transperça ma peau et, peu après, une gouttelette de sang fut aspirée dans le tube attaché à la petite aiguille."
 
 # game/chapter1.rpy:1485
 translate french _call_skipcheck_2_26e39b53:
@@ -1231,7 +1231,7 @@ translate french _call_syscheck_4_86148265:
 translate french _call_syscheck_4_46986bde:
 
     # An "See you soon."
-    An "Au revoir."
+    An "A plus."
 
 # game/chapter1.rpy:1525
 translate french _call_syscheck_4_ee80c080:
@@ -1309,19 +1309,19 @@ translate french _call_syscheck_4_714176d2:
 translate french _call_skiptut_3_65cc2485:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the investigation?"
-    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à l'investigation ?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à l'enquête ?"
 
 # game/chapter1.rpy:1581
 translate french _call_skiptut_3_c0c1f01e:
 
     # s "It looks like you've seen this before. Skip to the investigation?"
-    s "On dirait que vous avez déjà vu cela auparavant. Sauter à l'investigation ?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à l'enquête ?"
 
 # game/chapter1.rpy:1589
 translate french _call_skiptut_3_23afc6bb:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the investigation."
-    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à l'investigation."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à l'enquête."
 
 # game/chapter1.rpy:1603
 translate french _call_skiptut_3_0054b77b:
@@ -1369,7 +1369,7 @@ translate french _call_skipcheck_3_3bf4c97d:
 translate french _call_skipcheck_3_600f3c23:
 
     # m "We were approached by an individual who appeared to be the waitress of the café. She was an interesting-looking dragon, who - unlike the others I had seen so far - was more akin to a wyvern, possessing two rather large wings as her forelimbs, which resembled those of an oversized bat."
-    m "Nous fûmes approchés par un individu qui apparut être la serveuse du café. Elle était une dragonne à l'apparence intéressante, qui - contrairement aux autres que j'avais pu voir jusqu'alors - ressemblait plus à une vouivre, ayant deux grandes ailes qui ressemblaient à celles d'une chauve-souris surdimensionnée comme membres antérieurs."
+    m "Nous fûmes approchés par une personne qui s'avérait être la serveuse du café. Elle était une dragonne à l'apparence intéressante, qui - contrairement aux autres que j'avais pu voir jusqu'alors - ressemblait plus à une vouivre, ayant deux grandes ailes qui ressemblaient à celles d'une chauve-souris surdimensionnée comme membres antérieurs."
 
 # game/chapter1.rpy:1651
 translate french _call_skipcheck_3_68833c8b:
@@ -1483,13 +1483,13 @@ translate french _call_skipcheck_3_6f1597fd:
 translate french _call_skipcheck_3_7b36bca9:
 
     # Rz "Shh, be quiet. I'll let you know more as soon as I can. But for now, let's just play along. After all, we already have one of these babies."
-    Rz "Chut, tais-toi. Je t'en dirai plus dès que le pourrais. Mais pour l'instant, continuons à jouer le jeu. Après tout, nous avons déjà l'une de ces petites beautés."
+    Rz "Chut, tais-toi. Je t'en dirai plus dès que je le pourrais. Mais pour l'instant, continuons à jouer le jeu. Après tout, nous avons déjà l'une de ces petites beautés."
 
 # game/chapter1.rpy:1735
 translate french _call_skipcheck_3_0a540143:
 
     # m "He patted the generator's box for emphasis."
-    m "Il tapota le générateur, pour l'emphase."
+    m "Il tapota le générateur, pour accentuer le propos."
 
 # game/chapter1.rpy:1736
 translate french _call_skipcheck_3_b2abfd61:
