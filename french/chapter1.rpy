@@ -1507,7 +1507,7 @@ translate french _call_skipcheck_3_761a7bf3:
 translate french _call_skipcheck_3_bfc7dc06:
 
     # m "The female returned, astounding me with her ability to balance the dishes on the edges of her wings. She placed her forelimb on the table and proceeded to move the dishes from her wing to us with a gentle push of her snout."
-    m "La femelle revint, me stupéfiant avec sa capacité à équilibrer les plats sur le bord de ses ailes. Elle plaça sa patte avant sur la table, et poussa minutieusement les plats de son aile vers nous à l'aide de son museau"
+    m "La femelle revint, me stupéfiant avec sa capacité à équilibrer les plats sur le bord de ses ailes. Elle plaça sa patte avant sur la table, et poussa minutieusement les plats de son aile vers nous à l'aide de son museau."
 
 # game/chapter1.rpy:1748
 translate french _call_skipcheck_3_67f50da2:
@@ -1519,7 +1519,7 @@ translate french _call_skipcheck_3_67f50da2:
 translate french _call_skipcheck_3_2f7cd978:
 
     # Ad "There you go. Enjoy!"
-    Ad "Et voilà. J'espère que vous apprécierez !"
+    Ad "Et voilà. Bon appétit !"
 
 # game/chapter1.rpy:1755
 translate french _call_skipcheck_3_236e1242:
@@ -1585,13 +1585,13 @@ translate french _call_skipcheck_3_8d2721c9:
 translate french _call_skipcheck_3_1ccb67dc:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m "Non seulement cette situation était déjà suffisamment bizarre, mais il y avait maintenant en plus un vague sentiment de danger communiqué par les mots précédents de Reza. Je n'avais même pas la moindre idée du genre de menace qui pourrait planer ici."
+    m "Non seulement cette situation était déjà suffisamment bizarre, mais il y avait maintenant en plus un vague sentiment de danger communiqué par les paroles de Reza. Je n'avais même pas la moindre idée du genre de menace qui pourrait planer ici."
 
 # game/chapter1.rpy:1794
 translate french _call_skipcheck_3_d54bfe60:
 
     # m "Eventually, I took a bite of my somewhat unusual breakfast. While I already thought the smell was quite peculiar, the taste had been even worse. I imagined it might be the kind of delicacy that had an acquired taste. One that I certainly hadn't acquired yet. I decided to get outside before it was too late."
-    m "Finalement, je pris une bouchée de mon petit déjeuner inhabituel. Alors que j'avais déjà trouvé l'odeur assez particulière, le goût était encore pire. J'imaginai que ce devait être un goût acquis. En tout cas, un que je n'avais certainement pas encore acquis. Je décidai de sortir avant qu'il ne fusse trop tard."
+    m "Finalement, je pris une bouchée de mon petit déjeuner inhabituel. Alors que j'avais déjà trouvé l'odeur assez particulière, le goût était encore pire. J'imaginai que ce devait être un goût qui s'acquiert. En tout cas, un que je n'avais certainement pas encore acquis. Je décidai de sortir avant qu'il ne fusse trop tard."
 
 # game/chapter1.rpy:1799
 translate french _call_skipcheck_3_0da74151:
@@ -1633,7 +1633,7 @@ translate french _call_skipcheck_3_c71f2cb3:
 translate french _call_skipcheck_3_1ccb67dc_2:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m "Non seulement cette situation était déjà suffisamment bizarre, mais il y avait maintenant en plus un vague sentiment de danger communiqué par les mots précédents de Reza. Je n'avais même pas la moindre idée du genre de menace qui pourrait planer ici."
+    m "Non seulement cette situation était déjà suffisamment bizarre, mais il y avait maintenant en plus un vague sentiment de danger communiqué par les paroles de Reza. Je n'avais même pas la moindre idée du genre de menace qui pourrait planer ici."
 
 # game/chapter1.rpy:1808
 translate french _call_skipcheck_3_82a88f03_1:
