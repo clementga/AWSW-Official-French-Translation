@@ -3064,13 +3064,13 @@ translate french continuation_40fad199:
 translate french continuation_809da3d8:
 
     # m "Sending something back home wasn't really problematic for us, since the high energy expenditure associated with sending bigger objects only affected the sender, not the receiver. However, this also meant that until all business was concluded in regards to our trade with the PDAs and the generators, we were basically stuck here."
-    m "Renvoyer quelque chose à la maison n'était pas vraiment problématique pour nous, puisque le coût élevé en énergie associé à l'envoi d'objetss de grande taille n'affectait que l'envoyeur, pas le receveur. Cependant, cela voulait dire que tant que tout ce qui concernait notre échange avec les PDAs et les générateurs n'était pas conclu, nous étions en gros bloqués ici."
+    m "Renvoyer quelque chose à la maison n'était pas vraiment problématique pour nous, puisque le coût élevé en énergie associé à l'envoi d'objets de grande taille n'affectait que l'envoyeur, pas le receveur. Cependant, cela voulait dire que tant que tout ce qui concernait notre échange avec les PDAs et les générateurs n'était pas conclu, nous étions en gros bloqués ici."
 
 # game/chapter1.rpy:2837
 translate french continuation_addb4e00:
 
     # Rz "As for the other: Do you know what this place is?"
-    Rz "Pour ce qui est du deuxièmement : sais-tu où l'on est ?"
+    Rz "Pour ce qui est du reste : sais-tu où l'on est ?"
 
 # game/chapter1.rpy:2838
 translate french continuation_bde4f6a4:
@@ -3082,7 +3082,7 @@ translate french continuation_bde4f6a4:
 translate french continuation_7d4645bd:
 
     # Rz "More than enough. I'm afraid this whole place will be gone soon. And we better not be here when it happens."
-    Rz "Plus qu'assez. J'ai bien peur que tout cet endroit ne soit bientôt plus. Et nous ferions mieux de ne pas être ici qu'on cela arrivera."
+    Rz "Plus qu'assez. J'ai bien peur que tout cet endroit ne soit bientôt plus. Et nous ferions mieux de ne pas être ici quand cela arrivera."
 
 # game/chapter1.rpy:2843
 translate french continuation_cc4c03c2:
@@ -3184,7 +3184,7 @@ translate french continuation_4d0a51fa:
 translate french continuation_a8318d52:
 
     # c "Reza, what are you doing?"
-    c "Reza, que fais-tu ?"
+    c "Reza, qu'est-ce que tu fous ?"
 
 # game/chapter1.rpy:2898
 translate french continuation_f8069d10:
@@ -3226,13 +3226,13 @@ translate french continuation_511c581f:
 translate french continuation_a78188f5:
 
     # Mv "I'm still watching you, you know... and you better not move, for your own good. If I have to get up again and come after you in this condition, I can promise you I won't be nice."
-    Mv "Je continue à te surveiller, tu sais... et tu ferais mieux de ne pas bouger, pour ton propre bien. Si je dois me lever de nouveau et te courir après dans ces conditions, je peux te promettre que je ne serai pas sympathique."
+    Mv "Je te surveille, tu sais... et tu ferais mieux de ne pas bouger, pour ton propre bien. Si je dois me lever de nouveau et te courir après dans ces conditions, je peux te promettre que je ne serai pas sympathique."
 
 # game/chapter1.rpy:2934
 translate french continuation_8763d15f:
 
     # m "It took a few minutes of listening to his labored breathing before someone arrived. It was two dragons: The first I recognized as Sebastian, the other one I didn't know."
-    m "Cela prit quelques minutes à écouter sa respiration laborieuse avant que quelqu'un arrivât. Il s'agissait de deux dragons : le premier je reconnus comme étant Sébastien, l'autre je ne connaissais pas."
+    m "Cela prit quelques minutes à écouter sa respiration laborieuse avant que quelqu'un arrivât. Il s'agissait de deux dragons : le premier je le reconnus comme étant Sébastien, l'autre je ne connaissais pas."
 
 # game/chapter1.rpy:2935
 translate french continuation_f5a82162:
@@ -3268,7 +3268,7 @@ translate french continuation_fb6d338d:
 translate french continuation_3b700e22:
 
     # Sb "Yeah, but you're the flyer on duty. We probably won't find him now. Not here in the darkness, at any rate."
-    Sb "Oui, mais tu es le dragon volant de service. Nous le trouverons probablement pas, maintenant. Pas dans cette obscurité en tout cas."
+    Sb "Oui, mais tu es l'aviateur de service. Nous le trouverons probablement pas, maintenant. Pas dans cette obscurité en tout cas."
 
 # game/chapter1.rpy:2984
 translate french continuation_49306a0f:
@@ -3280,7 +3280,7 @@ translate french continuation_49306a0f:
 translate french continuation_6e8a23aa:
 
     # Sb "What do you think, Chief?"
-    Sb "Qu'en penses-tu, chef ?"
+    Sb "Qu'en penses-tu, Chef ?"
 
 # game/chapter1.rpy:2992
 translate french continuation_2394895a:
@@ -3298,7 +3298,7 @@ translate french continuation_5a44f847:
 translate french continuation_30a9eca6:
 
     # Br "Alright. Sebastian, take [player_name] to the apartment, get us some help here for Maverick, and then we'll look for Reza."
-    Br "Bien. Sébastien, emmène [player_name] vers son appartement, va nous chercher de l'aide pour Maverick puis nous irons chercher Reza."
+    Br "Bien. Sébastien, emmène [player_name] à son appartement, va nous chercher de l'aide pour Maverick puis nous irons chercher Reza."
 
 # game/chapter1.rpy:2995
 translate french continuation_e322dbcd:
@@ -3328,7 +3328,7 @@ translate french continuation_da9f7420:
 translate french continuation_356de34c:
 
     # m "I knew it was no use worrying about it for now, so I settled for starting another book."
-    m "Je savais qu'il n'y était inutile de m'en inquiéter pour l'instant, je décidai alors de commencer un nouveau livre."
+    m "Je savais qu'il était inutile de m'en inquiéter pour l'instant, je décidai alors de commencer un nouveau livre."
 
 # game/chapter1.rpy:3018
 translate french continuation_45b58ace:
