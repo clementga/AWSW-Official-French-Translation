@@ -19,14 +19,14 @@ status ✔✔✔<br/>
 help ✔✔✔<br/>
 images ✔✔✔<br/>
 script ✔✔✔<br/>
-chapter1 ✔<br/>
+chapter1 ✔✔<br/>
 adine1 ✔✔<br/>
 lorem1 ✔✔<br/>
 anna1 ✔✔<br/>
 bryce1 ✔✔<br/>
 lorem1 ✔✔<br/>
 remy1 ✔✔<br/>
-xsebastian ✔<br/>
+xsebastian ✔✔<br/>
 <i>endings (était utilisé dans la demo de AWSW, et peut donc être ignoré)<i/><br/>
 chapter2 ✔✔<br/>
 adine2 ✔✔<br/>
@@ -51,7 +51,7 @@ lorem4 ✔✔<br/>
 remy4 ✔<br/>
 xkevin ✔✔<br/>
 chapter5 ✔✔<br/>
-chapter5evilending ✔<br/>
+chapter5evilending ✔✔<br/>
 adine5 ✔✔<br/>
 anna5 ✔✔<br/>
 bryce5 ✔✔<br/>
