@@ -349,7 +349,6 @@ translate french _call_skipcheck_14_5068faf0:
 
     # Sb normal b "Actually, no. Everything about your visit is clouded in secrecy, so I didn't get to hear much about Reza from Maverick before I met you."
     Sb normal b "En fait, non. Tout ce qui concerne votre visite est gardé confidentiel, je n'ai donc pas pu en apprendre beaucoup sur Reza venant de Maverick, avant de t'avoir rencontré."
-    # Originel En fait, non. Tout ce qui concerne votre visite est gardé confidentiel, je n'ai donc pas pu en entendre beaucoup sur Reza de la bouche de Maverick avant de t'avoir rencontré.
 
 # game/xsebastian.rpy:332
 translate french _call_skipcheck_14_89aefe22:
@@ -373,8 +372,7 @@ translate french _call_skipcheck_14_eba66d5c:
 translate french _call_skipcheck_14_c46ff51e:
 
     # Sb "I also happen to be the newest guy on the force, so I didn't exactly want this to turn into a career-ender right there."
-    Sb "Il se trouve aussi que je suis la dernière recrue de la police, je ne souhaitais pas vraiment que ma carrière s'achève si vite."
-    #Il se trouve aussi que je suis la dernière recrue de la police, je ne souhaitais donc pas vraiment que cela se finisse mal pour ma carrière.
+    Sb "Il se trouve également que je suis le bleu des forces de polices, donc je ne voulais pas vraiment que ceci mène tout droit vers la fin de ma carrière."
 
 # game/xsebastian.rpy:346
 translate french _call_skipcheck_14_fbcc765b:
@@ -825,13 +823,13 @@ translate french sebgameexplanation_718c24c0:
 translate french sebgameexplanation_39ba47ec:
 
     # Sb "Once we have both played a card, we flip them over. The highest card wins the round, and whoever played it gets a point."
-    Sb "Une fois que l'on a tous les deux joué une carte, nous la retournons. La carte avec la plus haute valeure remporte le tour, et quiconque l'a jouée obtient le point."
+    Sb "Une fois que l'on a tous les deux joué une carte, nous la retournons. La carte avec la plus haute valeure, donc la plus forte, remporte le tour, et quiconque l'a jouée obtient le point."
 
 # game/xsebastian.rpy:749
 translate french sebgameexplanation_8bf06079:
 
     # Sb "To clarify, 2 is the lowest card and the king is the highest. The ace is a special card - it beats every face card, but will lose against any number card."
-    Sb "Pour clarifier, 2 est la carte la plus basse et le roi est la carte la plus haute. L'as est une carte spéciale - il bat toutes les figures mais perd contre toute carte chiffrée."
+    Sb "Pour clarifier, 2 est la carte la plus faible et le roi est la carte la plus forte. L'as est une carte spéciale - il bat toutes les figures mais perd contre toute carte chiffrée."
 
 # game/xsebastian.rpy:751
 translate french sebgameexplanation_09fa8238:
@@ -843,7 +841,7 @@ translate french sebgameexplanation_09fa8238:
 translate french sebgameexplanation_d93d316b:
 
     # Sb "If there is a tie, no clear winner between the three cards, or the middle row has the highest card, no player will get a point for that round. However, the next round will give the winner an extra point to make up for it."
-    Sb "S'il y a une égalité, une absence de gagnant évident entre les trois cartes, ou que la ligne centrale a la carte avec la plus haute valeure, aucun joueur n'aura de point pour ce tour. Cependant, le tour suivant donnera au gagnant un point supplémentaire pour compenser."
+    Sb "S'il y a une égalité, une absence de gagnant évident entre les trois cartes, ou que la ligne centrale a la carte la plus forte, aucun joueur n'aura de point pour ce tour. Cependant, le tour suivant donnera au gagnant un point supplémentaire pour compenser."
 
 # game/xsebastian.rpy:755
 translate french sebgameexplanation_57c20a01:
@@ -897,14 +895,13 @@ translate french sebgamestart_96aa7bca:
 translate french sebgamestart_0470e52e:
 
     # Sb "You could try to surpass it and play something higher, but if I'm going to do the same, you don't know how high I would go to not only beat the 5, but your higher card as well."
-    Sb "Tu peux toujours essayer de la surpasser et de jouer une carte plus haute, mais si je décide de faire pareil, tu ne sais pas jusqu'à quel point j'irai pour battre non seulement le 5, mais également ta carte."
+    Sb "Tu peux toujours essayer de la surpasser et de jouer une carte plus forte, mais si je décide de faire pareil, tu ne sais pas jusqu'à quel point j'irai pour battre non seulement le 5, mais également ta carte."
 
 # game/xsebastian.rpy:847
 translate french sebgamestart_da4cc757:
 
     # Sb "Alternatively, you could count on me trying to beat a higher card and play a low one instead, thus making me waste mine."
     Sb "Sinon, tu pourrais parier sur ma décision de jouer une carte de plus haute valeure et en jouer une plus basse à la place, me faisant gâcher la mienne."
-    #Quelques modifications sur les lignes précédentes, modifier carte la plus haute à crte de plus haute valeure....peut encore être modifié.
 
 # game/xsebastian.rpy:849
 translate french sebgamestart_40ac4eec:
@@ -1169,7 +1166,6 @@ translate french sebgamestart_e29b805c:
 
     # c "Or maybe I'm just that good."
     c "Ou peut-être que je suis juste trop fort."
-    #Original Ou peut-être que je suis simplement aussi bon que ça.
 
 # game/xsebastian.rpy:4412
 translate french sebgamestart_d930b097:
