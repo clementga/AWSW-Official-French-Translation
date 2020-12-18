@@ -3388,7 +3388,7 @@ translate french continuation_c48dc32f:
 translate french continuation_8c191191:
 
     # m "This time, I was taken along a different route than yesterday. And I was quite sure there was more to this than just taking a walk."
-    m "Cette fois, je fus emmené sur une autre route que la veille. Et j'étais certain qu'il y avait plus à ça qu'une simple promenade."
+    m "Cette fois, je fus emmené sur une autre route que la veille. Et j'étais certain que ça signifiait plus qu'une simple promenade."
 
 # game/chapter1.rpy:3046
 translate french continuation_b044f66d:
@@ -3400,7 +3400,7 @@ translate french continuation_b044f66d:
 translate french continuation_9f6c2417:
 
     # Br "Yeah, we hoped he would have come back on his own by now. Do you have any idea where he might be? Maybe he mentioned some sort of place in particular that holds some meaning to him?"
-    Br "En effet, nous avions espéré qu'il serait revenu de son propre gré maintenant. As-tu la moindre idée où il pourrait être ? Peut-être a-t'il mentionné un endroit en particulier qui aurait une certaine signification pour lui ?"
+    Br "En effet, nous avions espéré qu'il serait revenu de son propre gré maintenant. As-tu la moindre idée d'où il pourrait être ? Peut-être a-t'il mentionné un endroit en particulier qui aurait une certaine signification pour lui ?"
 
 # game/chapter1.rpy:3051
 translate french continuation_4c1fa005:
@@ -3418,7 +3418,7 @@ translate french continuation_75ddc3b5:
 translate french continuation_61783f37:
 
     # c "I have no idea why Reza would have done anything like that. I had the impression that they weren't very fond of each other, but this... How is he, by the way?"
-    c "Je n'ai aucune idée pourquoi Reza aurait fait quelque chose comme ça. J'avais l'impression qu'ils n'étaient pas particulièrement amis, mais ça... Comment va-t'il, en fait ?"
+    c "Je n'ai aucune idée pourquoi Reza aurait fait quelque chose comme ça. J'avais l'impression qu'ils n'étaient pas particulièrement amis, mais ça... Comment va-t'il, au fait ?"
 
 # game/chapter1.rpy:3056
 translate french continuation_a0b6f7f7:
@@ -3454,7 +3454,7 @@ translate french continuation_b759422a:
 translate french continuation_36b1d91b:
 
     # c "Actually, none of this is making any sense. Why would we go through all the lengths of our agreement only to jeopardize it by doing something like this?"
-    c "D'ailleurs, rien de tout ça n'a de sens. Pourquoi irions-nous jusqu'au bout de notre accord pour au final le compromoettre en faisant une chose pareille ?"
+    c "D'ailleurs, rien de tout ça n'a de sens. Pourquoi irions-nous jusqu'au bout de notre accord pour au final le compromettre en faisant une chose pareille ?"
 
 # game/chapter1.rpy:3068
 translate french continuation_b1d6e9a7:
@@ -3472,7 +3472,7 @@ translate french continuation_331ab8bc:
 translate french continuation_3e2508cf:
 
     # Br "But even then, he didn't really have any reason to follow you yesterday and his behavior was completely out of line. I'm just glad you came out fine."
-    Br "Mais même sachant ça, il n'avait aucune raison de vous suivre hier et son comportement était complètement inacceptable. Je suis simplement content que tu t'en sois bien sorti."
+    Br "Mais même en sachant cela, il n'avait aucune raison de vous suivre hier et son comportement était complètement inacceptable. Je suis simplement content que tu t'en sois bien sorti."
 
 # game/chapter1.rpy:3071
 translate french continuation_7e4b50e4:
@@ -3526,7 +3526,7 @@ translate french continuation_e3c5319a:
 translate french continuation_63eccaf9:
 
     # c "I hope so too. I really wouldn't want to jeopardize everything over this unfortunate incident."
-    c "Je l'espère aussi. Je ne voudrais vraiment pas tout compromettre à cause de ce facheux incident."
+    c "Je l'espère aussi. Je ne voudrais vraiment pas tout compromettre à cause de ce fâcheux incident."
 
 # game/chapter1.rpy:3092
 translate french continuation_3e4ea0a9:
@@ -3550,7 +3550,7 @@ translate french continuation_76b2fe88:
 translate french continuation_ae7588ea:
 
     # n "Eventually, we arrived at the police station, where the chief took my formal statement in regards to yesterday's events."
-    n "Éventuellement, nous arrivâmes au commissariat, où le chef prit ma déclaration officielle au regard des évènements de la veille."
+    n "Éventuellement, nous arrivâmes au commissariat, où le chef prit ma déclaration au regard des évènements de la veille."
 
 # game/chapter1.rpy:3104
 translate french continuation_a3c25806:
@@ -3568,13 +3568,13 @@ translate french continuation_39b1be3e:
 translate french continuation_53bd0501:
 
     # n "When he returned, he was approached by someone who seemed to have urgent news. A lot of talking between the two ensued that I couldn't make out from my position. This went on for a bit, until Bryce returned to me."
-    n "Quand il revint, il fut approché par quelqu'un qui semblait avec des nouvelles urgentes. Il s'en suivit beaucoup de discussion entre les deux que ne pus discerner de ma position. Ce continua pendant un temps, avant que Bryce revinsse vers moi."
+    n "Quand il revint, il fut approché par quelqu'un qui semblait avoir des nouvelles urgentes. Il s'en suivit beaucoup de discussion entre les deux que je ne pus discerner de là où j'étais. Ca continua pendant un temps, avant que Bryce revinsse vers moi."
 
 # game/chapter1.rpy:3114
 translate french continuation_9f601431:
 
     # Br "'Fraid I have more bad news for you. Reza has now officially become a murder suspect."
-    Br "J'crains avoir encore des mauvaises nouvelles pour toi. Reza est maintenant officiellement suspecté den meurtre."
+    Br "J'crains avoir encore des mauvaises nouvelles pour toi. Reza est maintenant officiellement suspecté de meurtre."
 
 # game/chapter1.rpy:3115
 translate french continuation_bd6edf31:
@@ -3887,6 +3887,7 @@ translate french quest3_b3035bf3:
 
     # c "He did not want to make any noise. After all, he ran away from Maverick, trying to hide from the police. Something as loud as a gunshot would have easily given away his position and alerted others in the area."
     c "Il ne voulait pas faire de bruit. Après tout, il a fui Maverick, essayant de sa cacher de la police. Quelque chose d'aussi bruyant qu'un coup de feu aurait aisément donné sa position et aurait alerté les autres dans la zone."
+
 # game/chapter1.rpy:3382
 translate french quest3_192dae16:
 
@@ -3963,7 +3964,7 @@ translate french quest4_2d79e7a0:
 translate french quest4_39b1abf3:
 
     # c "He's got quite a few there, so I think it must be them."
-    c "Il en a un certain nombre par là, je donc que ce sont elles."
+    c "Il en a un certain nombre par là, je pense donc que ce sont elles."
 
 # game/chapter1.rpy:3423
 translate french quest4_f500d250:
@@ -4119,7 +4120,7 @@ translate french quest5_18dd0115:
 translate french quest5_08965b6a:
 
     # Br "Go on, please."
-    Br "Développe, s'il te plait."
+    Br "Ne perdons pas de temps, s'il te plait."
 
 # game/chapter1.rpy:3518
 translate french quest5_0c30ecb2:
@@ -4287,7 +4288,7 @@ translate french _call_syscheck_13_d2c48d95:
 translate french _call_syscheck_13_4cad1270:
 
     # Ad "Sorry, I'd call you by your name, but you never actually told me it."
-    Ad "Excuse-moi, je t'appelerais par ton nom, mais tu ne me l'a jamais dit."
+    Ad "Excuse-moi, je t'appelerais bien par ton nom, mais tu ne me l'a jamais dit."
 
 # game/chapter1.rpy:3660
 translate french _call_syscheck_13_4392e6f6:
@@ -4341,7 +4342,7 @@ translate french _call_syscheck_13_b3ae45a6:
 translate french _call_syscheck_13_8d9339b1:
 
     # Ad "I do a little bit of everything, really."
-    Ad "Je fais un peu de tout, vraiment."
+    Ad "Je fais un peu de tout, en fait."
 
 # game/chapter1.rpy:3689
 translate french _call_syscheck_13_d037c931:
@@ -4353,7 +4354,7 @@ translate french _call_syscheck_13_d037c931:
 translate french _call_syscheck_13_31e4b909:
 
     # Ad "You don't have to hide it. I know it's quite an acquired taste."
-    Ad "Tu n'as pas à la cacher. Je sais que c'est un goût acquis."
+    Ad "Tu n'as pas à le cacher. Je sais que c'est un goût à acquérir."
 
 # game/chapter1.rpy:3693
 translate french _call_syscheck_13_82b2ebf7:
@@ -4419,7 +4420,7 @@ translate french _call_syscheck_13_59f4c3db:
 translate french _call_syscheck_13_3a0907aa:
 
     # Br "I suppose we'll head off too, unless- oh no."
-    Br "Je suppose que nous allons y aller aussi, sauf- oh non."
+    Br "Je suppose que nous allons y aller aussi, à moins que- oh non."
 
 # game/chapter1.rpy:3726
 translate french _call_syscheck_13_0f173ebb:
@@ -4479,7 +4480,7 @@ translate french _call_syscheck_13_e73d0e45:
 translate french _call_syscheck_13_fcd88baa:
 
     # Mv "Me attack [player_name]? As far as I can see, I'm the only one who's injured here. Besides, I'm so sorry for apparently being the only one who's doing his damn job."
-    Mv "Moi ? Attaquer [player_name] ? Pour autant que le sache, c'est moi qui suis blessé ici. Sinon, je suis tellement désolé d'être le seul qui faisse son foutu boulot."
+    Mv "Moi ? Attaquer [player_name] ? Pour autant que le sache, c'est moi qui suis blessé ici. Sinon, je suis tellement désolé d'être apparemmant le seul qui fasse son foutu boulot."
 
 # game/chapter1.rpy:3744
 translate french _call_syscheck_13_cf1f1ec2:
@@ -4491,7 +4492,7 @@ translate french _call_syscheck_13_cf1f1ec2:
 translate french _call_syscheck_13_35cc0675:
 
     # c "You know, whatever it was Reza was talking about, he was going to tell me just before you showed up yesterday."
-    c "Tu sais, quoi que c'était dont Reza parlait, il allait me le dire juste avant que tu apparaisses hier."
+    c "Tu sais, peu importe ce dont Reza parlait, il allait me le dire juste avant que tu apparaisses hier."
 
 # game/chapter1.rpy:3747
 translate french _call_syscheck_13_d6e3dd96:
@@ -4503,13 +4504,13 @@ translate french _call_syscheck_13_d6e3dd96:
 translate french _call_syscheck_13_8f8ef8cb:
 
     # c "What's your problem? If anything, I want to find him just as much as you do."
-    c "C'est quoi ton problème ? Pour ce que ça vaut, je autant envie de le retrouver que toi."
+    c "C'est quoi ton problème ? Pour ce que ça vaut, j'ai autant envie de le retrouver que toi."
 
 # game/chapter1.rpy:3749
 translate french _call_syscheck_13_457fcea1:
 
     # Mv "Don't compare yourself to me. Your words mean nothing."
-    Mv "Ne te compare pas à moi. Tes mots ne signifient rien."
+    Mv "Ne te compare pas à moi. Ta parole ne vaut rien."
 
 # game/chapter1.rpy:3753
 translate french _call_syscheck_13_5cf10feb:
@@ -4581,7 +4582,7 @@ translate french _call_syscheck_13_d219e599:
 translate french _call_syscheck_13_f6aa8926:
 
     # m "All things considered, I had to admit that it remained a possibility that Maverick was right, but could the Reza I knew really be a murderer?"
-    m "Tout bien considéré, je dûs admettre qu'il était possible que Maverick eusse raison, mais le Reza que je connaissais pouvait-il vraiment être un assassin ?"
+    m "Tout bien considéré, je dûs admettre qu'il y avait toujours une possibilité que Maverick eusse raison, mais le Reza que je connaissais pouvait-il vraiment être un assassin ?"
 
 # game/chapter1.rpy:3781
 translate french _call_syscheck_13_cbde794f:
@@ -4605,7 +4606,7 @@ translate french _call_syscheck_13_46e457aa:
 translate french sceneselect_703d4088:
 
     # m "Bryce led me back to the apartment. I guess there wasn't really much for me to do in the meantime, as I was spared the more arduous parts of the investigation. Maybe I should have been glad about this, though now I had an afternoon to fill."
-    m "Bryce me ramena à mon appartement. Je supposai qu'il n'y avait pas grand à faire en attendant, puisque l'on m'épargna les parties plus ardues de l'enquête. Peut-être que j'aurais du en être content, mais j'avais maintenant une après-midi à remplir."
+    m "Bryce me ramena à mon appartement. Je supposai qu'il n'y avait pas grand chose à faire en attendant, puisque l'on m'épargna les parties plus ardues de l'enquête. Peut-être que j'aurais dû en être content, mais j'avais maintenant une après-midi à remplir."
 
 # game/chapter1.rpy:4093
 translate french chapter1chars_64789417:
@@ -4773,7 +4774,7 @@ translate french strings:
 
     # chapter1.rpy:1653
     old "You were able to correctly identify our species based on what we look like, congratulations!"
-    new "Vous avez été capable d'identifier correctement notre espèce en se basant sur notre apparence, félicitations !"
+    new "Vous avez été capable d'identifier correctement notre espèce en vous basant sur notre apparence, félicitations !"
 
     # chapter1.rpy:1653
     old "Oh, it's a dragon!"
@@ -4797,7 +4798,7 @@ translate french strings:
 
     # chapter1.rpy:1706
     old "Let me just grab my tinfoil hat real quick."
-    new "Laisse-moi juste rapidement prendre mon chapeau en aluminium."
+    new "Laisse-moi juste rapidement prendre mon chapeau en papier alu."
 
     # chapter1.rpy:1721
     old "Yeah, he's a charming fellow."
@@ -4869,7 +4870,7 @@ translate french strings:
 
     # chapter1.rpy:2202
     old "Steal a certain book from the library."
-    new "Je vole un certain livre de la bibliothéque."
+    new "Je vole un certain livre de la bibliothèque."
 
     # chapter1.rpy:2202
     old "Find out where Maverick lives."
@@ -4994,7 +4995,7 @@ translate french strings:
 
     # chapter1.rpy:2811
     old "Well, you didn't make it easy."
-    new "Eh bien, tu n'as rendu les choses faciles."
+    new "Eh bien, tu n'as pas rendu les choses faciles."
 
     # chapter1.rpy:2841
     old "Yeah, I know."
