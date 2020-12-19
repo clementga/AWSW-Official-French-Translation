@@ -288,13 +288,13 @@ translate french chapter3_e7043b09_1:
 translate french chapter3_05d4c08c:
 
     # Br "There was a break-in, and we have a strong suspicion that Reza was involved."
-    Br "Il y a eu une effraction, et nous avons une forte suspicion que Reza est impliqué."
+    Br "Il y a eu une effraction, et nous avons une forte suspicion que Reza soit impliqué."
 
 # game/chapter3.rpy:823
 translate french chapter3_9eacaf37:
 
     # Br brow b "That by itself would not be so bad, but among the things stolen were your PDAs, batteries, and some components used to build generators."
-    Br brow b "En soi-même ça ne serait pas si grave, mais parmi les objets volés, il y a entre autres tes PDA, des batteries et quelques composants utilisés pour fabriquer des générateurs."
+    Br brow b "En soi-même ça ne serait pas si grave, mais parmi les objets volés, il y a entre autres vos PDA, des batteries et quelques composants utilisés pour fabriquer des générateurs."
 
 # game/chapter3.rpy:825
 translate french chapter3_fd737524:
@@ -324,7 +324,7 @@ translate french chapter3_1bc47770:
 translate french chapter3_28556ada:
 
     # Br "A human going around murdering people won't go unnoticed for much longer. Higher authorities, including the ministry in charge of your whole visit will know about this soon. I have no idea what will happen once they do."
-    Br "Un humain tuant des gens par-ci par-là ne passera pas inaperçu tellement plus longtemps. Les autorités supérieures, y compris le ministère responsable de ta visite, seront bientôt au courant. Je n'ai aucune idée de ce qui arrivera quand ça sera le cas."
+    Br "Un humain tuant des gens par-ci par-là ne passera pas inaperçu plus longtemps. Les autorités supérieures, y compris le ministère responsable de ta visite, seront bientôt au courant. Je n'ai aucune idée de ce qui arrivera quand ça sera le cas."
 
 # game/chapter3.rpy:835
 translate french chapter3_6ceb347b:
@@ -528,7 +528,7 @@ translate french _call_skipcheck_4_0054b77b:
 translate french _call_skipcheck_4_593aff2a:
 
     # Br "Anyway, let's get back on track. I called you here for a reason, [player_name]. In addition to the murder, several things were stolen, among them your PDAs, batteries, and some components used to build generators."
-    Br "Bref, revenons à nos mouflons. Je t'ai appelé ici pour une raison, [player_name]. En plus du meurtre, plusieurs objets ont été volés, entre autres vos PDAs, des batteries et quelques composants utilisés pour fabriquer des générateurs."
+    Br "Bref, revenons en à nos mouflons. Je t'ai appelé ici pour une raison, [player_name]. En plus du meurtre, plusieurs objets ont été volés, entre autres vos PDAs, des batteries et quelques composants utilisés pour fabriquer des générateurs."
 
 # game/chapter3.rpy:990
 translate french _call_skipcheck_4_21bd9d09:
