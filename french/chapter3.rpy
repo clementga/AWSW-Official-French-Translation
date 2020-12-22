@@ -1110,19 +1110,19 @@ translate french c3conty_841f91fd:
 translate french c3conty_6aa58db2:
 
     # Em frown "Reza himself may come to silence you once he learns that you are helping us. Or consider the public uproar from those who would question your involvement."
-    Em frown "Reza lui-même pourrait venir vous réduire au silence une fois qu'il aura appris que vous nous aidez. Ou alors considèrez le tollé publique de ceux qui questionneraient votre implication."
+    Em frown "Reza lui-même pourrait venir vous réduire au silence une fois qu'il aura appris que vous nous aidez. Ou alors considérez le tollé publique de ceux qui questionneraient votre implication."
 
 # game/chapter3.rpy:1268
 translate french c3conty_eeff36cd:
 
     # Em "All things considered, it would be for the best if you returned to your own world until the situation has been resolved."
-    Em "Tout bien considéré, il serait mieux si vous retourniez dans votre propre monde jusqu'à ce que la situation soit résolue."
+    Em "Tout bien considéré, ce serait mieux si vous retourniez dans votre propre monde jusqu'à ce que la situation soit résolue."
 
 # game/chapter3.rpy:1270
 translate french c3conty_91b1f921:
 
     # Br "I came to the very same conclusion, Minister."
-    Br "J'en suis venu à la même conclusion, ministre."
+    Br "J'en suis venu à la même conclusion, madame la ministre."
 
 # game/chapter3.rpy:1272
 translate french c3conty_bbf70829:
@@ -1134,7 +1134,7 @@ translate french c3conty_bbf70829:
 translate french c3conty_2b92b0a8:
 
     # c "Please, don't..."
-    c "S'il vous plait, ne faites pas ça.."
+    c "S'il vous plait, ne faites pas ça..."
 
 # game/chapter3.rpy:1276
 translate french c3conty_65891781:
@@ -1158,7 +1158,7 @@ translate french c3conty_756044b5:
 translate french c3conty_09969fe1:
 
     # c "But I was his partner, so in a way, he is my responsibility. I can't just go back like this."
-    c "Mais j'étais son partenaire, il est donc de ma responsabilité d'une certaine façon. Je ne peux pas rentrer comme ça."
+    c "Mais j'étais son partenaire, il est donc sous ma responsabilité d'une certaine façon. Je ne peux pas rentrer comme ça."
 
 # game/chapter3.rpy:1284
 translate french c3conty_9d293594:
