@@ -894,7 +894,7 @@ translate french c3conty_d12c2db7:
 translate french c3conty_fb272e71:
 
     # Br "No, what he had was a suspicion."
-    Br "Non, tout ce qu'il avait était une suspicion."
+    Br "Non, tout ce qu'il avait n'était qu'une suspicion."
 
 # game/chapter3.rpy:1183
 translate french c3conty_ff44517b:
