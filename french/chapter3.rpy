@@ -582,7 +582,7 @@ translate french _call_skipcheck_4_e0e8b0cf:
 translate french c3conty_58b4ce3f:
 
     # Sb "Hey, Chief. Are we done here?"
-    Sb "Hé, chef. En avons-nous fini ici ?"
+    Sb "Hé, Chef. En avons-nous fini ici ?"
 
 # game/chapter3.rpy:1014
 translate french c3conty_da82da9a:
@@ -618,7 +618,7 @@ translate french c3conty_f80627b2:
 translate french c3conty_10a22b96:
 
     # Br brow b "To be frank, I don't know. This is an extraordinary situation, and now that it's getting out of hand, they must want to address it."
-    Br brow b "Pour être franc, je n'en sais rien. C'est une situation extraordinaire, et maintenant que la situation devient incontrôlable, ils doivent vouloir agir."
+    Br brow b "Pour être franc, je n'en sais rien. C'est une situation extraordinaire, et maintenant que la situation devient incontrôlable, ils doivent vouloir y remédier."
 
 # game/chapter3.rpy:1032
 translate french c3conty_b5e2021c:
@@ -672,13 +672,13 @@ translate french c3conty_04e3ec11:
 translate french c3conty_b257cff5:
 
     # Br "Greetings, Minister."
-    Br "Salutations, madame la ministre."
+    Br "Bonjour, madame la ministre."
 
 # game/chapter3.rpy:1103
 translate french c3conty_e85c1b7d:
 
     # c "Greetings."
-    c "Salutations."
+    c "Bonjour."
 
 # game/chapter3.rpy:1105
 translate french c3conty_5fdc5c6c:
