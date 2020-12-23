@@ -1176,7 +1176,7 @@ translate french c3conty_485f23e9:
 translate french c3conty_ba5b8cc9:
 
     # n "Years ago, our world was prosperous. Our technology was far more advanced than yours, even. Computers not only graced every household, but every single person. It was the age of information."
-    n "Il y a des années de cela, notre monde était prospère. Notre technologie était bien plus avancée que même la vôtre. On ne trouvait pas seulement des ordinateurs dans chaque foyer, mais chaque personne en avait un. C'était l'âge de l'information."
+    n "Il y a des années de cela, notre monde était prospère. Notre technologie était même bien plus avancée que la vôtre. On ne trouvait pas seulement des ordinateurs dans chaque foyer, mais chaque personne en avait un. C'était l'âge de l'information."
 
 # game/chapter3.rpy:1300
 translate french c3conty_8759d94c:
@@ -1188,7 +1188,7 @@ translate french c3conty_8759d94c:
 translate french c3conty_26772518:
 
     # n "From locomotion to repetitious work and household chores, many processes were automated to such a degree that except for our jobs and hobbies, there was nothing that needed to be done by a person anymore."
-    n "De la locomotion au travail répétitif aux tâches ménagères, de nombreux procédés étaient automatisés à tel point, qu'en dehors des nos emplois et de nos hobbies, il ne restait rien qui dusse encore être fait par une personne."
+    n "De la locomotion au travail répétitif en passant par tâches ménagères, de nombreux procédés étaient automatisés à tel point, qu'en dehors des nos emplois et de nos hobbies, il ne restait rien qui dusse encore être fait par une personne."
 
 # game/chapter3.rpy:1304
 translate french c3conty_40299bbc:
@@ -1441,7 +1441,7 @@ translate french c3conty_17ff235a:
 translate french c3conty_235d6a94:
 
     # c "The act of sending Reza and me here has, without a doubt, already cost the lives of some people back home."
-    c "Le fait d'avoir envoyé Reza et moi ici a, sans doute, déjà coûté la vie à plusieurs personnes à la maison."
+    c "Le fait de nous avoir envoyé ici Reza et moi a, sans doute, déjà coûté la vie à plusieurs personnes à la maison."
 
 # game/chapter3.rpy:1454
 translate french c3conty_ee894df7:
@@ -1453,7 +1453,7 @@ translate french c3conty_ee894df7:
 translate french c3conty_f51e7d87:
 
     # c "When Reza and I were sent here, my peers made it clear that this was our last chance. If anything happens to us, no more people will be sent."
-    c "Quand Reza et moi avons été envoyé ici, mes pairs ont clairement fait comprendre que c'était notre dernière chance. Si quoi que ce soit nous arrivait, personne d'autre ne serait envoyé."
+    c "Quand nous avons été envoyé ici Reza et moi, mes pairs ont clairement fait comprendre que c'était notre dernière chance. Si quoi que ce soit nous arrivait, personne d'autre ne serait envoyé."
 
 # game/chapter3.rpy:1458
 translate french c3conty_13c7fe8b:
@@ -1657,7 +1657,7 @@ translate french c3conty_7a6d8797:
 translate french c3conty_b38dba4f:
 
     # m "I would fondly think back to the days I spent in their comfortable standard of living, a shadow of how humanity used to be."
-    m "Je me souviendrai tendrement des jours que j'aurai passé avec leur niveau de vie comfortable, une ombre de ce que l'humanité a été."
+    m "Je me souviendrai tendrement des jours que j'aurai passé avec leur niveau de vie comfortable, une ombre de ce que l'humanité fut à une époque."
 
 # game/chapter3.rpy:1540
 translate french c3conty_2f910b63:
@@ -1759,7 +1759,7 @@ translate french c3conty_01a302ab:
 translate french c3conty_1e4dbe77:
 
     # Ad sad b "Are you going to come back?"
-    Ad sad b "Vas-tu revenir ?"
+    Ad sad b "Reviendras-tu ?"
 
 # game/chapter3.rpy:1592
 translate french c3conty_3d1f8279:
@@ -1789,7 +1789,7 @@ translate french c3conty_774dd44a:
 translate french c3conty_c89c57b6:
 
     # m "I thought of the other side of the portal, standing in the desolate human wilderness. I doubted our city would waste our limited energy resources on a pen pal. I doubted I would even see the portal ever again after I returned home."
-    m "Je pensai à l'autre côté du portal, se tenant au milieu d'étendues sauvages humaines désolées. Je doutai que notre cité gaspillerait nos resources énergétiques limitées sur un correspondant. Je doutais revoir le portail un jour une fois revenu à la maison."
+    m "Je pensai à l'autre côté du portal, se tenant au milieu d'étendues sauvages humaines désolées. Je doutai que notre cité gaspillerait nos resources énergétiques limitées sur un correspondant. Je doutais de revoir le portail un jour une fois revenu à la maison."
 
 # game/chapter3.rpy:1602
 translate french c3conty_2d24d594:
@@ -1981,7 +1981,7 @@ translate french c3conty_222b66ca:
 translate french c3conty_228b8580:
 
     # Ad "Yeah. You were a huge jerk."
-    Ad "Ouais. Tu t'es comporté comme un véritable abruti."
+    Ad "Ouais. T'étais un vrai connard."
 
 # game/chapter3.rpy:1672
 translate french c3conty_205dffa4:
@@ -2443,7 +2443,7 @@ translate french c3conty_d96fb820:
 translate french c3conty_08040799:
 
     # n "Any second now, the teleportation process would start, disintegrating my body before I would reappear on the other side. Back in my dying world."
-    n "À tout moment, le processus de téléportation démarerait, désintégrant mon corps avant de réapparaître de l'autre côté. De retour dans mon monde mourrant."
+    n "À tout moment, le processus de téléportation démarrerait, désintégrant mon corps avant de réapparaître de l'autre côté. De retour dans mon monde mourrant."
 
 # game/chapter3.rpy:1872
 translate french c3conty_90b653b8:
@@ -2483,7 +2483,7 @@ translate french c3conty_9757f3b9:
     # nvl clear
     # n "I was almost relieved that my adventure was over."
     nvl clear
-    n "J'étais presque soulagé que mon aventure était terminée."
+    n "J'étais presque soulagé que mon aventure soit terminée."
 
 # game/chapter3.rpy:1890
 translate french c3conty_75c54ba0:
