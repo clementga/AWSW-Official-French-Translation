@@ -2663,7 +2663,7 @@ translate french c3conty_3df534d0:
 translate french c3conty_6d182056:
 
     # Em ques "Chief, as a result of your carelessness regarding Maverick and Reza, you are temporarily removed from any duties related to the humans."
-    Em ques "Commissaire, en raison de votre négligence en regard de Maverick et de Reza, vous êtes temporairement suspendu de toutes vos fonctions liées au humains."
+    Em ques "Commissaire, en raison de votre négligence en regard de Maverick et de Reza, vous êtes temporairement suspendu de tout devoir en lien avec les humains."
 
 # game/chapter3.rpy:1991
 translate french c3conty_23c8f7d9:
@@ -2687,7 +2687,7 @@ translate french c3conty_52baf69b:
 translate french c3conty_cef4a0f3:
 
     # Em frown "Then all of you are dismissed."
-    Em frown "Vous pouvez donc tous disposer."
+    Em frown "Vous pouvez tous disposer."
 
 # game/chapter3.rpy:1999
 translate french c3conty_e44daabb:
