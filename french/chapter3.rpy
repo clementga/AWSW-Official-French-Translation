@@ -2753,13 +2753,13 @@ translate french c3conty_dce95571:
 translate french c3conty_5017b19f:
 
     # m "As I walked up the stairs, I wondered if it was okay for an unauthorized person to enter the building. All I knew about the place was that Emera worked there."
-    m "Alors que je montais les escaliers, je me demandai s'il était acceptable qu'une personne non autorisée entrât dans le bâtiment."
+    m "Alors que je montais les escaliers, je me demandai s'il était acceptable qu'une personne non autorisée entrât dans le bâtiment. Tout ce que je savais à propos du lieu, c'était qu'Emera y travaillait."
 
 # game/chapter3.rpy:2048
 translate french c3conty_3f5547f0:
 
     # m "I did have an important document that was going to be missed, so I walked inside, only to be greeted by an empty lobby."
-    m "J'avais en ma possession un document important qui allait manquer, je suis donc rentré à l'intérieur, tout cela pour être acueilli par un hall d'accueil vide."
+    m "J'avais en ma possession un document important qui allait manquer, je rentrai donc à l'intérieur, pour finallement être acueilli par un hall d'accueil vide."
 
 # game/chapter3.rpy:2050
 translate french c3conty_f0f565ef:
@@ -2951,7 +2951,7 @@ translate french c3conty_3025663f:
 translate french c3conty_ef6c3c24:
 
     # Br brow b flip Br "If someone tampered with the portal, they must have seen something. Today's day patrol didn't notice anything unusual, though."
-    Br brow b flip Br "Si quelqu'un a bidouillé avec le portail, ils doivent avoir vu quelque chose. La patrouille de jour d'aujourd'hui n'a rien remarqué d'inhabituel cependant."
+    Br brow b flip Br "Si quelqu'un a bidouillé le portail, ils doivent avoir vu quelque chose. La patrouille de jour d'aujourd'hui n'a rien remarqué d'inhabituel cependant."
 
 # game/chapter3.rpy:2142
 translate french c3conty_b7d62b76:
@@ -3137,7 +3137,7 @@ translate french c3conty_99e9fb37:
 translate french c3conty_e3ee2a2e:
 
     # Br brow b flip "At least as far as speculation is concerned. It's about time for forensics to show up, anyway. Let's hope they can pull some clues from all this."
-    Br brow b flip "En tout cas pour ce qui s'agit de la spéculation. Il est temps pour la police scientifique de se ramèner de toute façon. Espérons qu'ils pourront tirer quelques indices de tout ça."
+    Br brow b flip "En tout cas pour ce qui s'agit de la spéculation. Il est temps pour la police scientifique de se ramener de toute façon. Espérons qu'ils pourront tirer quelques indices de tout ça."
 
 # game/chapter3.rpy:2208
 translate french c3conty_10622880:
@@ -3149,7 +3149,7 @@ translate french c3conty_10622880:
 translate french c3conty_3388a779:
 
     # Sb "Thanks, Chief. I won't let you down."
-    Sb "Merci, chef. Je ne te décevrai pas."
+    Sb "Merci, Chef. Je ne te décevrai pas."
 
 # game/chapter3.rpy:2212
 translate french c3conty_4bdd59f5:
@@ -3161,13 +3161,13 @@ translate french c3conty_4bdd59f5:
 translate french c3conty_8229572b:
 
     # Br laugh b flip "Are you kidding? I could have lost my job. This is a way better outcome. Honestly, she probably did it for her own sake more than anything else, but I'm not complaining."
-    Br laugh b flip "Tu plaisantes ? J'aurais pu perdre mon emploi. C'est une bien meilleure issue. Honnêtement, elle l'a probablement plus fait pour son propre bien qu'autre chose, mais je ne m'en plains pas."
+    Br laugh b flip "Tu plaisantes ? J'aurais pu perdre mon emploi. C'est une bien meilleure issue. Honnêtement, elle l'a probablement plus fait pour sa propre sécurité qu'autre chose, mais je ne m'en plains pas."
 
 # game/chapter3.rpy:2216
 translate french c3conty_83d3c04b:
 
     # Br brow b flip "If that's all, I'm going to head back to the Ministry. I shouldn't keep her waiting."
-    Br brow b flip "Si c'est tout, je vais retourner au ministère. Je devrais pas la faire attendre."
+    Br brow b flip "Si c'est tout, je vais retourner au ministère. Je ne devrais pas la faire attendre."
 
 # game/chapter3.rpy:2226
 translate french c3conty_84716d86:
@@ -3221,7 +3221,7 @@ translate french c3conty_6053be8a:
 translate french c3conty_d38c46b5:
 
     # m "After cooking myself a rudimentary meal, I considered picking up another book when the doorbell rang."
-    m "Après avoir m'être préparé un repas rudimentaire, je considérais lire un autre livre quand la porte sonna."
+    m "Après m'être préparé un repas rudimentaire, je considérais à lire un autre livre quand la porte sonna."
 
 # game/chapter3.rpy:2266
 translate french c3conty_76b2fe88_11:
@@ -3245,7 +3245,7 @@ translate french c3conty_f57bbd7f:
 translate french c3conty_fb571a12:
 
     # Sb "We're just a small town police department, and with Bryce removed from the case, our resources are thinner than ever."
-    Sb "Nous ne sommes que le commissariant d'une petite ville, et avec Bryce suspendu de l'enquête, nos ressources sont plus limitées que jamais."
+    Sb "Nous ne sommes que le commissariant d'une petite ville, et avec Bryce retiré de l'enquête, nos ressources sont plus limitées que jamais."
 
 # game/chapter3.rpy:2276
 translate french c3conty_55fa4d3d:
@@ -3263,13 +3263,13 @@ translate french c3conty_d293e161:
 translate french c3conty_690cfc94:
 
     # Sb "A few things have changed since this morning, as we've gotten some additional information from forensics that warrants further questioning."
-    Sb "Quelques éléments ont changé depuis ce matin puisque nous obtenu des informations supplémentaires grâce à la police scientifique, ce qui justifie un interrogatoire plus approfondie."
+    Sb "Quelques éléments ont changé depuis ce matin puisque nous avons obtenu des informations supplémentaires grâce à la police scientifique, ce qui justifie un interrogatoire plus approfondie."
 
 # game/chapter3.rpy:2284
 translate french c3conty_4ce2dfed:
 
     # Sb "I know you knew the victim personally, so you don't have to do this if you don't want to. I'll leave the choice to you. You can find her assistant at the production facility."
-    Sb "Je sais que tu connaissais la victime personellement, alors tu n'as à la faire si tu ne veux pas. Je te laisse le choix. Tu pourras trouver son assistant au complexe de production."
+    Sb "Je sais que tu connaissais la victime personellement, alors tu n'as pas à le faire si tu ne veux pas. Je te laisse le choix. Tu pourras trouver son assistant au complexe de production."
 
 # game/chapter3.rpy:2289
 translate french c3conty_e771bb0e:
@@ -3281,13 +3281,13 @@ translate french c3conty_e771bb0e:
 translate french c3conty_02731e4b:
 
     # Sb "A few things have changed since this morning, as we've gotten some additional information from forensics that warrants further questioning. She can be found in the production facility."
-    Sb "Quelques éléments ont changé depuis ce matin puisque nous obtenu des informations supplémentaires grâce à la police scientifique, ce qui justifie plus une interrogation plus approfondie. Tu pourras la trouver au complexe de production."
+    Sb "Quelques éléments ont changé depuis ce matin puisque nous avons obtenu des informations supplémentaires grâce à la police scientifique, ce qui justifie plus une interrogation plus approfondie. Tu pourras la trouver au complexe de production."
 
 # game/chapter3.rpy:2298
 translate french c3conty_4277fed5:
 
     # Sb "You seemed interested in that underground building found near the portal. I realized you might actually be able to help us with that. Since it's suspected to be of human origin, your opinion would be greatly appreciated."
-    Sb "Tu semblais intéressé par ce bâtiment souterrain retrouvé près du portail. J'ai réalisé que tu pourrais en fait nous aider avec ça. Puisque l'on suspecte son origine humaine, ton opinion serait grandement appréciée."
+    Sb "Tu semblais intéressé par ce bâtiment souterrain retrouvé près du portail. J'ai réalisé que tu pourrais en fait nous aider avec ça. Puisque l'on suspecte le bâtiment d'être origine humaine, ton opinion serait grandement appréciée."
 
 # game/chapter3.rpy:2300
 translate french c3conty_67ce4d46:
@@ -3371,7 +3371,7 @@ translate french c3conty_1f4577d5:
 translate french c3conty_e631bc97:
 
     # c "Sure thing."
-    c "Ça roule."
+    c "Ça marche."
 
 # game/chapter3.rpy:2341
 translate french c3conty_bf33c50d:
@@ -3419,7 +3419,7 @@ translate french c3sections_a7cf3ec1:
 translate french c3sections_99980877:
 
     # m "\"Don't go to the portal.\" was all it said. I considered the possibility of a hidden message, but that was unlikely; the statement was blunt and quickly scrawled."
-    m "\"Ne va pas au portail.\" est tout ce qui était écrit. Je considérai la possibilité d'un message caché, mais c'était peu probable ; le message était très direct et avait été gribouillé à la hâte."
+    m "\"Ne va pas au portail.\" c'était tout ce qui était écrit. Je considérai la possibilité d'un message caché, mais c'était peu probable ; le message était très direct et avait été gribouillé à la hâte."
 
 # game/chapter3.rpy:2427
 translate french c3sections_f6745d81:
