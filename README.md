@@ -36,7 +36,7 @@ lorem2 ✔✔<br/>
 remy2 ✔✔<br/>
 xemera ✔✔<br/>
 xzhong ✔✔<br/>
-chapter3 ✔<br/>
+chapter3 ✔✔<br/>
 adine3 ✔✔<br/>
 anna3 ✔✔<br/>
 bryce3 ✔✔<br/>
