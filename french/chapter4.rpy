@@ -22,7 +22,7 @@ translate french chapter4_15552b2b:
 translate french chapter4_fbf407eb:
 
     # m "How many more times would I see this apartment before I returned to my own world? Or... before something happened to me?"
-    m "Combien de fois verrai-je cet appartement avant de rentrer dans mon monde ? Ou... avant que quelque chose ne m'arrive ?"
+    m "Combien de fois verrais-je cet appartement avant de rentrer dans mon monde ? Ou... avant que quelque chose ne m'arrive ?"
 
 # game/chapter4.rpy:549
 translate french chapter4_d769f1b2:
@@ -46,7 +46,7 @@ translate french chapter4_8e64becf:
 translate french chapter4_9f1d5b3a:
 
     # c "And right on the minute. You show up at this time every day, like clockwork."
-    c "Et pile à l'heure. Tu arrives à cette heure-ci tous les jours, réglé comme une horloge."
+    c "Et à la minute près. Tu arrives à cette heure-ci tous les jours, réglé comme une horloge."
 
 # game/chapter4.rpy:571
 translate french chapter4_045b0349:
@@ -64,7 +64,7 @@ translate french chapter4_0090b646:
 translate french chapter4_f4a3014d:
 
     # c "An envelope from the facility."
-    c "Une enveloppe de la facilité."
+    c "Une enveloppe du complexe."
 
 # game/chapter4.rpy:585
 translate french chapter4_55e1ec7b:
@@ -100,13 +100,13 @@ translate french chapter4_661560f1:
 translate french chapter4_9d2e0e44:
 
     # c "Oh, I suppose this isn't the only reason you're here."
-    c "Oh, je suppose que ce n'est pas la seule raison pour laquelle vous êtes ici."
+    c "Oh, je suppose que ce n'est pas la seule raison pour laquelle tu es ici."
 
 # game/chapter4.rpy:616
 translate french chapter4_80811ac8:
 
     # Sb normal b "I think you can guess why I'm here."
-    Sb normal b "Je suppose que vous savez pourquoi je suis là."
+    Sb normal b "Je suppose que tu sais pourquoi je suis là."
 
 # game/chapter4.rpy:618
 translate french chapter4_9125b7cb:
@@ -118,7 +118,7 @@ translate french chapter4_9125b7cb:
 translate french c4resultscontinue_99f8a50b:
 
     # Sb "The chief will explain everything once we get there. Let's not keep him waiting, shall we?"
-    Sb "Le chef vous expliquera tout une fois là-bas. Ne le faisons pas attendre, d'accord ?"
+    Sb "Le chef t'expliquera tout une fois là-bas. Ne le faisons pas attendre, d'accord ?"
 
 # game/chapter4.rpy:652
 translate french _call_skiptut_20_44e0ddc6:
@@ -142,7 +142,7 @@ translate french _call_skiptut_20_889f24a0:
 translate french _call_skiptut_20_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter4.rpy:704
 translate french _call_skipcheck_20_76b2fe88:
@@ -154,13 +154,13 @@ translate french _call_skipcheck_20_76b2fe88:
 translate french _call_skipcheck_20_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter4.rpy:720
 translate french _call_skipcheck_20_22b7f8ca:
 
     # m "We arrived at a place that would look like an ordinary house, had it not been for its extraordinary size. It reminded me more of a hostel than a family home."
-    m "Nous arrivâmes à un endroit qui semblait être une maison des plus ordinaires, Si ce n'est pour sa taille extraordinaire. Ca me faisait plus penser à un hotel qu'à une résidence familiale."
+    m "Nous arrivâmes à un endroit qui semblait être une maison des plus ordinaires, si ce n'est pour sa taille extraordinaire. Ca me faisait plus penser à un hôtel qu'à une résidence familiale."
 
 # game/chapter4.rpy:724
 translate french _call_skipcheck_20_5c1049c0:
@@ -178,7 +178,7 @@ translate french _call_skipcheck_20_a33e0fb6:
 translate french _call_skipcheck_20_cb29c865:
 
     # c "Wait. Weren't you supposed to be with Emera?"
-    c "Attendez. N'étiez-vous pas supposé être avec Emera ?"
+    c "Attendez. N'étais-tu pas sensé être avec Emera ?"
 
 # game/chapter4.rpy:732
 translate french _call_skipcheck_20_7c3915ea:
@@ -196,13 +196,13 @@ translate french _call_skipcheck_20_89aefe22:
 translate french _call_skipcheck_20_3e323fa0:
 
     # Br stern b "Anyway, we're nearly done here, so I'll keep it short: Reza broke into the hatchery."
-    Br stern b "Enfin bref, On a presque fini ici, donc je vais faire court : Reza s'est infiltré dans le couvoir."
+    Br stern b "Enfin bref, On a presque fini ici, donc je vais faire court : Reza s'est infiltré dans l'écloserie."
 
 # game/chapter4.rpy:738
 translate french _call_skipcheck_20_17ceaf01:
 
     # Br "There is another murder victim, an employee of the hatchery who was on night duty. Her body was found quite a way from here. There's evidence of a struggle, but she covered a lot of distance before it was ultimately over."
-    Br "Il y a une victime de meutre, une employée du couvoir qui était de garde la nuit. Son corps a été trouvé assez loin d'ici. Il y a des traces de lutte, mais elle a couvert une assez grandee distance avant que ce ne sois fini pour elle."
+    Br "Il y a une victime de meutre, une employée de l'écloserie qui était de garde la nuit. Son corps a été trouvé assez loin d'ici. Il y a des traces de lutte, mais elle a couvert une assez grandee distance avant que ce ne soit fini pour elle."
 
 # game/chapter4.rpy:740
 translate french _call_skipcheck_20_d013c437:
@@ -220,7 +220,7 @@ translate french _call_skipcheck_20_e54de5ef:
 translate french _call_skipcheck_20_9cc34b87:
 
     # c "A hatchery? Is that what this building is?"
-    c "Un couvoir ? C'est ce qu'est ce bâtiment ?"
+    c "Une écloserie ? C'est ce qu'est ce bâtiment ?"
 
 # game/chapter4.rpy:746
 translate french _call_skipcheck_20_abed7598:
