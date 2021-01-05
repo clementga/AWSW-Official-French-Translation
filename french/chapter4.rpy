@@ -238,19 +238,19 @@ translate french _call_skipcheck_20_3725bcf9:
 translate french _call_skipcheck_20_43d1646f:
 
     # c "That reminds me of the production facility."
-    c "Ca me rappelle le bâtiment de la manufacture."
+    c "Ca me rappelle le complexe de production."
 
 # game/chapter4.rpy:752
 translate french _call_skipcheck_20_dc79af62:
 
     # Sb "It should. They have a similar management structure."
-    Sb "Ca devrait. Ils ont un système de gestion similaire."
+    Sb "C'est normal. Ils ont un système de gestion similaire."
 
 # game/chapter4.rpy:754
 translate french _call_skipcheck_20_d21fb58c:
 
     # Br brow b "Can we get back to the case?"
-    Br brow b "Pouvons -nous revenir à l'affaire ?"
+    Br brow b "Pouvons-nous revenir à l'affaire ?"
 
 # game/chapter4.rpy:756
 translate french _call_skipcheck_20_887d6268:
@@ -286,7 +286,7 @@ translate french _call_skipcheck_20_92fd7fa4:
 translate french _call_skipcheck_20_308b978e:
 
     # Br brow b "Maybe you can tell us. That's why you're here, after all."
-    Br brow b "Peut être que vous pouvez nous le dire. C'est la raison pour laquelle vous êtes là, après tout."
+    Br brow b "Peut être que tu peux nous le dire. C'est la raison pour laquelle tu es là, après tout."
 
 # game/chapter4.rpy:770
 translate french _call_skipcheck_20_9d30a14b:
@@ -298,7 +298,7 @@ translate french _call_skipcheck_20_9d30a14b:
 translate french _call_skipcheck_20_90e21a6d:
 
     # Sb "Maybe he wants to use them as a bargaining chip. After all, he still has to make his escape, and the portal is still broken."
-    Sb "Peut être qu'il veut les utiliser comme une monnaie d'échange. Après tout, il doit toujours s'échapper, et le portail est toujours hors service."
+    Sb "Peut être qu'il veut les utiliser comme monnaie d'échange. Après tout, il doit toujours s'échapper, et le portail est toujours hors service."
 
 # game/chapter4.rpy:774
 translate french _call_skipcheck_20_fca2d874:
@@ -316,13 +316,13 @@ translate french _call_skipcheck_20_b95171df:
 translate french _call_skipcheck_20_f525fc3b:
 
     # c "It's still broken, though, so I'm not sure if that would be much help."
-    c "Il est toujours cassé, cependant, donc je ne suis pas sûre que ça soit d'une grande aide."
+    c "Il est toujours cassé, cependant, donc je ne suis pas sûr que ça soit d'une grande aide."
 
 # game/chapter4.rpy:780
 translate french _call_skipcheck_20_5567eac6:
 
     # Sb "Maybe he has the part needed to repair it, and now has everything he needs to escape. He could trade the eggs for safe passage, fix the portal and leave."
-    Sb "Peut être qu'il a les parties devant être réparées, et que maintenant il a tout ce dont il a besoin pour s'échapper. Il pourrait échanger les œufs pour son exfiltration, réparer le portail et partir."
+    Sb "Peut être qu'il a les parties devant être réparées, et que maintenant il a tout ce dont il a besoin pour s'échapper. Il pourrait échanger les œufs contre son exfiltration, réparer le portail et partir."
 
 # game/chapter4.rpy:782
 translate french _call_skipcheck_20_16065d3c:
@@ -346,19 +346,19 @@ translate french _call_skipcheck_20_ac510e22:
 translate french _call_skipcheck_20_0d5b5736:
 
     # Br "He kidnapped defenseless eggs and even used the human weapon. Something's clearly going on with him. Maybe it means that he'll slip up soon."
-    Br "Il a kidnappé des œufs sans défense et a même utilisé l'arme humaine. Il se passe clairement quelque chose avec lui. Peut être que celà veut dire qu'il va bientôt déraper."
+    Br "Il a kidnappé des œufs sans défense et a même utilisé l'arme humaine. Il se passe clairement quelque chose avec lui. Peut être que cela veut dire qu'il va bientôt déraper."
 
 # game/chapter4.rpy:790
 translate french _call_skipcheck_20_e738d548:
 
     # Br brow b "Who knows, maybe he already has. In any case, we're done here. Let's head back to the department and decide what to do next. Hopefully, some of the test results will tell us something."
-    Br brow b "Qui sait, peut être que c'est déjà le cas. Dans tout les cas, on a fini ici. Rentrons au poste et décidons quoi faire pour la suite. Espérons que certains des résultats d'analyse nous dirons quelque chose."
+    Br brow b "Qui sait, peut être que c'est déjà le cas. Dans tout les cas, on a fini ici. Rentrons au poste et décidons de quoi faire pour la suite. Espérons que certains des résultats d'analyse nous dirons quelque chose."
 
 # game/chapter4.rpy:798
 translate french _call_skipcheck_20_ccfd52d0:
 
     # m "After a brief walk, we were in Bryce's office again. Initial test results had already come in, but didn't reveal any insightful or new information."
-    m "Après une brève marche, nous étions à nouveau dans le bureau de Bryce. Les résultats des premiers tests étaient déjà arrivés, mais ne révèlèrent aucun indice ou de nouvelle information."
+    m "Après une brève marche, nous étions à nouveau dans le bureau de Bryce. Les résultats des premiers tests étaient déjà arrivés, mais ne révélèrent aucun indice ou de nouvelle information."
 
 # game/chapter4.rpy:802
 translate french _call_skipcheck_20_67e809c4:
@@ -370,7 +370,7 @@ translate french _call_skipcheck_20_67e809c4:
 translate french _call_skipcheck_20_dc051f2c:
 
     # Br "Not yet. There are a few things I'd like to take care of first."
-    Br "Pas encore. Il y a deux trois choses dont j'aimerais m'occuper avent."
+    Br "Pas encore. Il y a deux trois choses dont j'aimerais m'occuper avant."
 
 # game/chapter4.rpy:808
 translate french _call_skipcheck_20_316840b9:
@@ -382,7 +382,7 @@ translate french _call_skipcheck_20_316840b9:
 translate french _call_skipcheck_20_08aadc68:
 
     # m "Suddenly, there was a knock at the door."
-    m "Soudainement, il y eut des toquement à la porte."
+    m "Soudainement, quelqu'un toqua à la porte."
 
 # game/chapter4.rpy:818
 translate french _call_skipcheck_20_203cfb48:
@@ -400,13 +400,13 @@ translate french _call_skipcheck_20_81f9b7cd:
 translate french _call_skipcheck_20_654413aa:
 
     # Mv "Chief, can I talk to you? Alone?"
-    Mv "Chef, est-ce que je peux vous parler ? Seuls ?"
+    Mv "Chef, est-ce que je peux vous parler ? Seul ?"
 
 # game/chapter4.rpy:836
 translate french _call_skipcheck_20_9ecce85b:
 
     # Br stern b "We're quite busy here, Maverick. What is this about?"
-    Br stern b "On est assez occupés ici, Maverick. C'est à propos de quoi ?"
+    Br stern b "On est assez occupé ici, Maverick. C'est à propos de quoi ?"
 
 # game/chapter4.rpy:838
 translate french _call_skipcheck_20_c479adbe:
@@ -418,7 +418,7 @@ translate french _call_skipcheck_20_c479adbe:
 translate french _call_skipcheck_20_049a33c3:
 
     # Br "Well, you're looking at the Reza task force, so if you have anything to say, you can say it in front of all of us."
-    Br "Eh bien, tu as devant toi l'équipe d'intervention chargée de l'affaire Reza, donc si tu as quoi que ce soit à dire, tu peut nous le dire à tous."
+    Br "Eh bien, tu as devant toi l'équipe d'intervention chargée de l'affaire Reza, donc si tu as quoi que ce soit à dire, tu peux nous le dire à tous."
 
 # game/chapter4.rpy:842
 translate french _call_skipcheck_20_908e3ef4:
@@ -484,13 +484,13 @@ translate french _call_skipcheck_20_e816897e:
 translate french _call_skipcheck_20_1cf4c36e:
 
     # Mv "Prior victims were found here, and here. Today's was here. She was following him, likely because she wanted to save the eggs he stole. This is the path he took from the portal when I followed him a few days ago."
-    Mv "Les premières victimes ont été trouvées ici, et ici. Celle d'aujourd'hui était là. Elle le suivait, probablement parce qu'elle voulait sauver les œufs qu'il a volé. Ca, c'est le chemin qu'il a pris en partant du portail quand je l'ai suivi il y a quelque jours."
+    Mv "Les premières victimes ont été trouvées ici, et ici. Celle d'aujourd'hui était là. Elle le suivait, probablement parce qu'elle voulait sauver les œufs qu'il avait volé. Ca, c'est le chemin qu'il a pris en partant du portail quand je l'ai suivi il y a quelque jours."
 
 # game/chapter4.rpy:866
 translate french _call_skipcheck_20_ff76eb13:
 
     # Mv "So we have established this as his area of operation. Extrapolate it and we can narrow it down to this. Now, where could he be hiding in this area?"
-    Mv "Donc nous avons établi ça comme étant sa zone d'opération. En extrapolant, on peut la réduire à cette zone. Maintenant, où pourrait-il se cache dans cette zone ?"
+    Mv "Donc nous avons établi ça comme étant sa zone d'opération. En extrapolant, on peut la réduire à cette zone. Maintenant, où pourrait-il se cacher dans cette zone ?"
 
 # game/chapter4.rpy:868
 translate french _call_skipcheck_20_fe6f349c:
@@ -508,7 +508,7 @@ translate french _call_skipcheck_20_5007d1fd:
 translate french _call_skipcheck_20_579bc805:
 
     # Br "When did you figure all of this out?"
-    Br "Quand as-tu réalisé tout ça ?"
+    Br "Quand as-tu compris tout ça ?"
 
 # game/chapter4.rpy:874
 translate french _call_skipcheck_20_9c98b64d:
@@ -568,7 +568,7 @@ translate french _call_skipcheck_20_4a29cfe6:
 translate french _call_skipcheck_20_92bf8802:
 
     # Br stern b "Reza probably won't harm you, as you're the only one he could possibly consider an ally."
-    Br stern b "Reza ne te fera probablement pas de mal, comme tu es le seul qu'il pourrait considérer comme un allier."
+    Br stern b "Reza ne te fera probablement pas de mal, comme tu es le seul qu'il pourrait considérer comme un allié."
 
 # game/chapter4.rpy:894
 translate french _call_skipcheck_20_feed6cdd:
@@ -622,7 +622,7 @@ translate french c4skip1_412f364a:
 translate french c4skip1_38fc57d0:
 
     # Sb "True enough."
-    Sb "C'est pas faux."
+    Sb "Ce n'est pas faux."
 
 # game/chapter4.rpy:914
 translate french c4skip1_8678b9a0:
@@ -646,7 +646,7 @@ translate french c4skip1_23a10af5:
 translate french c4skip1_12cd39ea:
 
     # Sb "After you, Chief."
-    Sb "Je suis derrière vous Chef."
+    Sb "Je suis derrière toi, Chef."
 
 # game/chapter4.rpy:922
 translate french c4skip1_39ab42ae:
@@ -688,7 +688,7 @@ translate french c4skip1_ea977812:
 translate french c4skip1_d8194104:
 
     # c "Do you have something against humans in general, or is it just Reza and me? Do you think you are superior to us because of your wings, and teeth, and claws? Your fire?"
-    c "Es-ce que tu as quelque chose contre les humains en général, ou juste contre Reza et moi ? Tu te crois supérieur à nous de par tes ailes, tes dents et tes griffes ? Ou bien ton feu ?"
+    c "Est-ce que tu as quelque chose contre les humains en général, ou juste contre Reza et moi ? Tu te crois supérieur à nous de par tes ailes, tes dents et tes griffes ? Ou bien ton feu ?"
 
 # game/chapter4.rpy:984
 translate french c4skip1_10e76bf9:
@@ -730,7 +730,7 @@ translate french c4skip1_7631c61d:
 translate french c4skip1_12c7e112:
 
     # Mv "Plausible deniability. Or, as we like to say, good cop, bad cop."
-    Mv "Démenti plausible. Ou, comme on aime bien l'appeler, bon flic, mauvais flic."
+    Mv "Un déni plausible. Ou, comme on aime bien l'appeler, bon flic, mauvais flic."
 
 # game/chapter4.rpy:1012
 translate french c4skip1_68652ae0:
@@ -742,7 +742,7 @@ translate french c4skip1_68652ae0:
 translate french c4skip1_8b3db11a:
 
     # Mv angry flip "Yet if Reza's plan succeeds, you will have given us nothing and still have gained what you wanted."
-    Mv angry flip "Mais si le plan de Reza est un succès, vous nous aurez rien donné et obtenu ce que vous vouliez."
+    Mv angry flip "Mais si le plan de Reza est un succès, vous ne nous aurez rien donné et auriez malgré tout obtenu ce que vous vouliez."
 
 # game/chapter4.rpy:1016
 translate french c4skip1_f21c065f:
@@ -772,7 +772,7 @@ translate french c4skip1_27ddb425:
 translate french c4skip1_2ff9ded2:
 
     # Mv "Besides, Reza only stole the things humanity wants, so he's clearly not just doing this for himself."
-    Mv "De plus, Reza n'a volé que les choses que l'humanité voulaient, donc il ne fait pas ça juste pour lui."
+    Mv "De plus, Reza n'a volé que les choses que l'humanité voulaient, donc clairement il ne fait pas ça juste pour lui."
 
 # game/chapter4.rpy:1026
 translate french c4skip1_4afb9a8b:
@@ -820,7 +820,7 @@ translate french c4skip1_a8efa75a:
 translate french c4skip1_310dc4f4:
 
     # Mv "Is that so?"
-    Mv "Tu en es sûre ?"
+    Mv "Vraiment ?"
 
 # game/chapter4.rpy:1042
 translate french c4skip1_c15fc206:
@@ -874,7 +874,7 @@ translate french c4skip1_16dff851:
 translate french c4skip1_47f78dd4:
 
     # m "I reached into my pocket."
-    m "Je mis la main dzns ma poche."
+    m "Je mis la main dans ma poche."
 
 # game/chapter4.rpy:1060
 translate french c4skip1_9d592bb3:
@@ -916,7 +916,7 @@ translate french c4skip1_fc47db34:
 translate french c4skip1_f56b0d9c:
 
     # Mv "But you two came in here and strutted around like you owned the place as you tore my home apart. The blood of those who died is on the hands of everyone who allowed this to happen."
-    Mv "Mais tous les deux êtes venus et vous êtes pavanés comme si vous déteniez l'endroit tandis que vous mettiez mon chez moi à sac. Le sang de ceux qui sont mort sont sur les mains de ceux qui on laissé ça arriver."
+    Mv "Mais tous les deux êtes venus et vous êtes pavanés comme si vous possédiez l'endroit tandis que vous mettiez mon chez moi à sac. Le sang de ceux qui sont mort sont sur les mains de ceux qui on laissé ça arriver."
 
 # game/chapter4.rpy:1076
 translate french c4skip1_794c0e23:
@@ -964,19 +964,19 @@ translate french c4skip1_d19f855d:
 translate french c4skip1_0ce08272:
 
     # Mv nice flip "Wait a minute, you had Anna perform these tests for you?"
-    Mv nice flip "Attends une minute, Anna a réalisé des tests pour toi ?"
+    Mv nice flip "Attends une minute, c'est Anna qui a réalisé des tests pour toi ?"
 
 # game/chapter4.rpy:1092
 translate french c4skip1_96466165:
 
     # c "It was more the other way around. She was the one who wanted to study my blood."
-    c "C'était plutôt dans l'autre sens. C'était elle qui coulait étudier mon sang."
+    c "C'était plutôt dans l'autre sens. C'était elle qui voulait étudier mon sang."
 
 # game/chapter4.rpy:1094
 translate french c4skip1_4fd64cfd:
 
     # Mv normal flip "Suddenly, I'm not surprised that you had these tests done. She can be ruthless when she wants something."
-    Mv normal flip "D'un coup, je ne suis plus surpris que tu aies eu ces tests. Elle peut être inplacable quand elle veut quelque chose. "
+    Mv normal flip "D'un coup, je ne suis plus surpris que tu aies eu ces tests. Elle peut être impitoyable quand elle veut quelque chose. "
 
 # game/chapter4.rpy:1096
 translate french c4skip1_6ab9752d:
@@ -1096,7 +1096,7 @@ translate french passontestresults_c5226063:
 translate french passontestresults_aab97f3a:
 
     # m "After a few hours, the telephone in his office rang, and not sure whether the call was intended for me or Bryce, I picked up."
-    m "Après quelques heures, le téléphone sur son bureau sonna, et incertain de si l'appel était pour moi ou Bryce, je décrochai."
+    m "Après quelques heures, le téléphone sur son bureau sonna, et incertain de si l'appel était pour moi ou pour Bryce, je décrochai."
 
 # game/chapter4.rpy:1179
 translate french passontestresults_5f417ce0:
@@ -1138,7 +1138,7 @@ translate french passontestresults_96ecbbcb:
 translate french passontestresults_a7a20cba:
 
     # Br stern b "A whole lot of nothing. There was no movement to or from the building in the time we've been watching."
-    Br stern b "Un bon paquet de rien. Il n'y avait aucun mouvement à l'intérieur ou à l'extérieur du bâtiment durant tout le temps où l'on a observé."
+    Br stern b "Un bon paquet de rien. Il n'y avait aucun mouvement à l'intérieur ou à l'extérieur du bâtiment durant tout le temps passé à observer."
 
 # game/chapter4.rpy:1207
 translate french passontestresults_4b803f31:
@@ -1156,7 +1156,7 @@ translate french passontestresults_d0c2cf03:
 translate french passontestresults_ae5f8852:
 
     # Sb "Or maybe he's not even in there anymore. He could've seen us and slipped away unnoticed, with plenty of time to destroy the evidence while we've been waiting here."
-    Sb "Ou peut être qu'il n'est même plus là. Il pourrait nous avoir vu et s'eclipser sans être vu, avec tout le temps nécessaire pour détruire les preuves tandis que nous avons attendu ici."
+    Sb "Ou peut être qu'il n'est même plus là. Il pourrait nous avoir vu et s'être éclipser sans être vu, avec tout le temps nécessaire pour détruire les preuves tandis que nous avons attendu ici."
 
 # game/chapter4.rpy:1213
 translate french passontestresults_c006bc6e:
@@ -1216,7 +1216,7 @@ translate french c4brycegood_1c011b78:
 translate french c4brycegood_bec432f9:
 
     # Br "I don't think he's planning to harm you on sight, and if we can hear things starting to go wrong, we might still be able to surprise him."
-    Br "Je ne pense pas qu'il ait prévu de t'attaquer à vu, et si on entend que ça tourne mal, on pourrait toujours être capable de le prendre par surprise."
+    Br "Je ne pense pas qu'il ait prévu de t'attaquer à vue, et si on entend que ça tourne mal, on pourrait toujours être capable de le prendre par surprise."
 
 # game/chapter4.rpy:1255
 translate french c4brycegood_c4f7ab31:
@@ -1306,13 +1306,13 @@ translate french c4brycegood_c72770b5:
 translate french _call_syscheck_74_eae28cb7:
 
     # s "Analyzing timeline.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "Analyse de la timeline.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "Analyse de la chronologie.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1372
 translate french _call_syscheck_74_2aaff354:
 
     # s "Creation of new timeline successful. The corruption has been cleared."
-    s "Nouvelle time line crée avec succès. La corruption a été effacée."
+    s "Nouvelle chronologie crée avec succès. La corruption a été effacée."
 
 # game/chapter4.rpy:1376
 translate french _call_syscheck_74_86cd38c2:
@@ -1336,7 +1336,7 @@ translate french _call_syscheck_74_14b85755:
 translate french _call_syscheck_74_e25f5d23:
 
     # s "Well, I can confirm the earlier problem is gone. Seems like what you did worked well enough."
-    s "Eh bien, je peux confirmer que le problème survenu plus tôt n'est plus. Il semblerait que ce que vous avez fait a plutôt bien marché."
+    s "Eh bien, je peux confirmer que le problème survenu plus tôt n'est plus. Il semblerait que ce que vous avez fait ait plutôt bien marché."
 
 # game/chapter4.rpy:1392
 translate french _call_syscheck_74_09785573:
@@ -1384,7 +1384,7 @@ translate french _call_syscheck_74_24643395:
 translate french _call_syscheck_75_f9a281a1:
 
     # s "Scanning timeline.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "Scan de la timeline.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "Scan de la chronologie.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1462
 translate french _call_syscheck_75_9926d559:
@@ -1396,19 +1396,19 @@ translate french _call_syscheck_75_9926d559:
 translate french _call_syscheck_75_9eef7341:
 
     # s "Do not attempt to change this outcome by reloading, but move on to its natural conclusion or create a new timeline by returning to Chapter 1."
-    s "Ne tentez pas de changer cette conséquense en rechargant, mais avancez vers sa conclusion naturelle ou créer une nouvelle timeline en retournant au Chapitre 1."
+    s "Ne tentez pas de changer cette conséquense en rechargant, mais avancez vers sa conclusion naturelle ou créer une nouvelle chronologie en retournant au Chapitre 1."
 
 # game/chapter4.rpy:1470
 translate french _call_syscheck_75_bb252af0:
 
     # s "When creating a new timeline, do not interfere with other timelines, but let it reach its natural conclusion until this point has been passed safely."
-    s "Quand vous créerez une nouvelle timeline, n'interférez pas avec les autre timelines, mais laissez la atteindre sa conclusion jusqu'à ce que ce point soit passé sans accroc."
+    s "Quand vous créerez une nouvelle chronologie, n'interférez pas avec les autre timelines, mais laissez la atteindre sa conclusion jusqu'à ce que ce point soit passé sans accroc."
 
 # game/chapter4.rpy:1474
 translate french _call_syscheck_75_75e944da:
 
     # s "Please be advised that reckless handling of timelines could have dire consequences."
-    s "Soyez conscient que une manipulation des timelines sans précaution pourrait avoir de terribles conséquenses."
+    s "Soyez conscient qu'une manipulation des chronologies sans précaution pourrait avoir de terribles conséquenses."
 
 # game/chapter4.rpy:1478
 translate french _call_syscheck_75_4f5f91c6:
@@ -1426,7 +1426,7 @@ translate french _call_syscheck_75_82023689:
 translate french _call_syscheck_75_9e6d75bb:
 
     # s "It seems this point in time is prone to corruption, and it happened yet again."
-    s "Il semblerait que ce point dans le temps est enclin à de la corruption, et c'est encore arrivé."
+    s "Il semblerait que ce point dans le temps soit enclin à de la corruption, et c'est encore arrivé."
 
 # game/chapter4.rpy:1491
 translate french _call_syscheck_75_a70b110c:
@@ -1438,7 +1438,7 @@ translate french _call_syscheck_75_a70b110c:
 translate french _call_syscheck_75_a1ecb90e:
 
     # s "You can either just ignore this and move on, or if this is really important to you, return to Chapter 1 and start a new timeline. If you do this, don't interfere with other timelines until you get here, or else this might happen again."
-    s "Vous pouvez soit l'ignorer simplement et continuer, ou si c'est vraiment important pour vous, retourner au Chapitre 1 et démarrer une nouvelle timeline. Si vous faites ça, n'interférez pas avec d'autre timelines jusqu'à arriver ici, ou sinon ça pourrait arriver à nouveau."
+    s "Vous pouvez soit l'ignorer simplement et continuer, ou si c'est vraiment important pour vous, retourner au Chapitre 1 et démarrer une nouvelle chronologie. Si vous faites ça, n'interférez pas avec d'autres chronologies jusqu'à arriver ici, ou sinon ça pourrait arriver à nouveau."
 
 # game/chapter4.rpy:1499
 translate french _call_syscheck_75_4f5f91c6_1:
@@ -1450,7 +1450,7 @@ translate french _call_syscheck_75_4f5f91c6_1:
 translate french _call_syscheck_75_7228dbae:
 
     # s "What are you doing here again?"
-    s "qu'est-ce que vous faites encore ici ?"
+    s "Qu'est-ce que vous faites encore ici ?"
 
 # game/chapter4.rpy:1507
 translate french _call_syscheck_75_572daa7a:
@@ -1462,7 +1462,7 @@ translate french _call_syscheck_75_572daa7a:
 translate french _call_syscheck_75_817a1cd0:
 
     # s "Although, you being here again is sufficient proof that you didn't, so I won't waste more words on you."
-    s "Quoique, vous revoir ici prouve que ce n'est pas le cas, donc je ne gâcherai pas plus de salive avec vous."
+    s "Quoique, vous revoir ici prouve que ce n'est pas le cas, donc je ne gâcherai pas plus ma salive avec vous."
 
 # game/chapter4.rpy:1515
 translate french _call_syscheck_75_8ee4ce13:
@@ -1486,19 +1486,19 @@ translate french _call_syscheck_75_3b0611e9:
 translate french _call_syscheck_76_232b5694:
 
     # s "Error: Corruption found. Changing this timeline not possible after reloading."
-    s "Erreur: Corruption détectée. Changer cette timeline n'est pas possible après le rechargement."
+    s "Erreur: Corruption détectée. Changer cette chronologie n'est pas possible après le rechargement."
 
 # game/chapter4.rpy:1569
 translate french _call_syscheck_76_7a7812fc:
 
     # s "Please do not alter timelines in rapid succession, as this may cause corruptions to occur."
-    s "Veuillez s'il vous plaît ne pas altérer cette timeline de manière sacadée, car cela peut causer des apparitions de corruption."
+    s "Veuillez s'il vous plaît ne pas altérer cette chronologie de manière sacadée, car cela peut causer des apparitions de corruption."
 
 # game/chapter4.rpy:1575
 translate french _call_syscheck_76_5b2972d2:
 
     # s "If you were not satisfied with your first outcome, why did you go back and only returned here after you saw the consequence of the other option?"
-    s "Si vous n'étiez pas satisfait avec votre premier résultat, pourquoi êtes vous reparti en arrière et revenu ici après avoir vu la conséquence de l'autre option ?"
+    s "Si vous n'étiez pas satisfait avec votre premier résultat, pourquoi êtes vous reparti en arrière et êtes revenu ici après avoir vu la conséquence de l'autre option ?"
 
 # game/chapter4.rpy:1579
 translate french _call_syscheck_76_ae7f3894:
@@ -1510,13 +1510,13 @@ translate french _call_syscheck_76_ae7f3894:
 translate french _call_syscheck_76_420d465b:
 
     # s "Continuing timeline as scheduled.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "maintien de la timeline comme prévu.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "maintien de la chronologie comme prévu.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1587
 translate french _call_syscheck_76_6992660e:
 
     # s "Unable to modify this timeline."
-    s "Incapacité à modifier cette timeline."
+    s "Incapacité à modifier cette chronologie."
 
 # game/chapter4.rpy:1591
 translate french _call_syscheck_76_db796a4b:
@@ -1588,19 +1588,19 @@ translate french _call_syscheck_76_81fccf0f:
 translate french _call_syscheck_77_fe9ef34d:
 
     # s "Error: Corruption found. Changing this timeline not possible after a reload."
-    s "Erreur: Corruption détectée. Changer cette timeline n'est pas possible après une recharge."
+    s "Erreur: Corruption détectée. Changer cette chronologie n'est pas possible après une recharge."
 
 # game/chapter4.rpy:1680
 translate french _call_syscheck_77_1f742d9d:
 
     # s "If the problem persists, please start a new timeline to alter the outcome."
-    s "Si le problème persiste, veuillez démarrer une nouvelle tmeline pour altérer l'issue."
+    s "Si le problème persiste, veuillez démarrer une nouvelle chronologie pour altérer l'issue."
 
 # game/chapter4.rpy:1684
 translate french _call_syscheck_77_d4719c9d:
 
     # s "Be aware that you will have to go back to the beginning and start over from there in order for this change to take effect."
-    s "Soyez conscient que vous aurez à retourner au début et redémarrer d'ici afin que ce changement prenne effet."
+    s "Soyez conscient que vous aurez à retourner au début et redémarrer de là afin que ce changement prenne effet."
 
 # game/chapter4.rpy:1688
 translate french _call_syscheck_77_a1fbc588:
@@ -1618,13 +1618,13 @@ translate french _call_syscheck_77_6c61da9b:
 translate french _call_syscheck_77_ceb95a46:
 
     # s "My apologies if I wasn't clear the first time. I am unable to modify this timeline in this matter."
-    s "Toutes mes excuses si je n'ai pas été clair la première fois. Je suis incapable dans ce cas-ci d'altérer cette timeline."
+    s "Toutes mes excuses si je n'ai pas été clair la première fois. Je suis incapable dans ce cas-ci d'altérer cette chronologie."
 
 # game/chapter4.rpy:1700
 translate french _call_syscheck_77_0a979e40:
 
     # s "I am not entirely sure why it is this way, but it looks like if you want to change this outcome, you will have to start a new timeline instead."
-    s "Je ne suis pas tout à fait sûr pourquoi il en est ainsi, mais il semblerait que si vous voulez changer cette issue, vous devrez pour cela commencer une nouvelle timeline."
+    s "Je ne suis pas tout à fait sûr de pourquoi il en est ainsi, mais il semblerait que si vous voulez changer cette issue, vous devrez pour cela commencer une nouvelle chronologie."
 
 # game/chapter4.rpy:1704
 translate french _call_syscheck_77_af7be7fa:
@@ -1636,7 +1636,7 @@ translate french _call_syscheck_77_af7be7fa:
 translate french _call_syscheck_77_dd67cfbf:
 
     # s "However, if you go back to the beginning and load an unrelated save file before you get to this point again, it may cause your progress in this matter to be erased, which means that you will have to start over again if you wish to change this outcome."
-    s "Cependant, si tu reviens au début et charge une sauvegarde sans rapport avant de revenir à ce point, cela peut causer que votre progression soit effacée, ce qui signifie que vous aurez à recommencer si vous souhaitez changer cette issue."
+    s "Cependant, si vous revenez au début et chargez une sauvegarde sans rapport avant de revenir à ce point, cela peut causer la supression de votre progression, ce qui signifie que vous aurez à recommencer si vous souhaitez changer cette issue."
 
 # game/chapter4.rpy:1712
 translate french _call_syscheck_77_6c61da9b_1:
@@ -1678,7 +1678,7 @@ translate french _call_syscheck_77_76855d50:
 translate french _call_syscheck_77_7115165d:
 
     # s "But for now, let's return to our scheduled program."
-    s "Mais pour l'instant, revenons à notre programme."
+    s "Mais pour l'instant, revenons en à notre programme."
 
 # game/chapter4.rpy:1760
 translate french didit_e511726e:
