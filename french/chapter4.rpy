@@ -2056,7 +2056,7 @@ translate french brycefirst_6165962f:
 translate french brycefirst_a6bce8f5:
 
     # Sb drop b "And we got so close, too. It was his hideout, for crying out loud! He probably just saw us approaching and left before we even had the chance to apprehend him."
-    Sb drop b "Et on le tenait presque... C'était sa planque ! Il nous a sûrement vu nous approcher, et s'est enfui avant qu'on ai la chance de le coincer !"
+    Sb drop b "Et on le tenait presque. C'était sa planque, pour le dire franchement ! Il nous a sûrement vu nous approcher, et s'est enfui avant qu'on aie la chance de l'appréhender."
 
 # game/chapter4.rpy:1992
 translate french brycefirst_8257f5a5:
