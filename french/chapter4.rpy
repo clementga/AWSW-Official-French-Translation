@@ -1684,7 +1684,7 @@ translate french _call_syscheck_77_7115165d:
 translate french didit_e511726e:
 
     # m "We slowly made our way to the front door. I took a deep breath and tried to prepare myself for the possibility of facing Reza. The tense scenarios and things I could say to him rushed through my head as I pressed down on the door handle."
-    m "Nous avançâmes lentement vers la porte d'entrée. Je pris une profonde respiration et essayai de me préparer à l'éventualité de faire face à Reza. Les scénarios tendus et les choses que je pourrais lui dire me traversaient l'esprit alors que j'abaissais la poignée de la porte."
+    m "Nous avançâmes lentement vers la porte d'entrée. Je pris une profonde inspiration et essayai de me préparer à l'éventualité de faire face à Reza. Les scénarios sous tension et les choses que je pourrais lui dire me traversaient l'esprit alors que j'abaissais la poignée de la porte."
 
 # game/chapter4.rpy:1762
 translate french didit_91828e14:
@@ -1696,7 +1696,7 @@ translate french didit_91828e14:
 translate french didit_bf9f1e22:
 
     # m "When I looked down to the source of the noise, I saw a taut wire through the gap in the door, hovering over the floor of the entryway."
-    m "Baissant les yeux vers la source du bruit, je vis un fil tendu à travers l'ouverture de la porte, flottant au dessus du sol du hall d'entrée."
+    m "En baissant le regard vers la source du bruit, je vis un fil tendu à travers l'ouverture de la porte, flottant au dessus du parquet de l'entrée."
 
 # game/chapter4.rpy:1792
 translate french c4intuition_8a5ca110:
@@ -1732,13 +1732,13 @@ translate french c4intuition_1dff5c83:
 translate french c4intuition_81e3d0fa:
 
     # Sb "True enough. I had no idea you could make a bomb out of a generator."
-    Sb "C'est vrai. Je ne savais pas qu'on pouvait fabriquer une bombe à partir d'un générateur."
+    Sb "C'est vrai. Je n'avais pas idée qu'on pouvait fabriquer une bombe à partir d'un générateur."
 
 # game/chapter4.rpy:1806
 translate french c4intuition_4b4c1a61:
 
     # Br "Then you just haven't been with us long enough. If you know how, it's not even that complicated."
-    Br "Alors tu n'as pas été parmi nous assez longtemps. Si tu sais comment, ce n'est même pas compliqué."
+    Br "Alors tu n'as pas été parmi nous assez longtemps. Si tu sais comment faire, ce n'est même pas compliqué."
 
 # game/chapter4.rpy:1808
 translate french c4intuition_53428fe1:
@@ -1768,7 +1768,7 @@ translate french c4intuition_2d80da67:
 translate french c4intuition_aa4656c1:
 
     # Br stern b "Either way, this makes him even more dangerous. At least we now have a whole building's worth of clues."
-    Br stern b "Que ce soit l'un ou l'autre, ça le rend d'autant plus dangereux. Au moins maintenant, on a un bâtiment rempli d'indices."
+    Br stern b "Que ce soit l'un ou l'autre, ça le rend d'autant plus dangereux. Au moins maintenant, on a tout un bâtiment rempli d'indices."
 
 # game/chapter4.rpy:1818
 translate french c4intuition_f812dc1f:
@@ -1864,7 +1864,7 @@ translate french c4intuition_89aefe22:
 translate french c4intuition_f3d188a2:
 
     # Sb "We were so close today. He could've been in there, you know. Maybe we just came a few minutes too late."
-    Sb "Nous étions si près aujourd'hui. Il aurait pu être là, tu sais. Peut être que nous sommes arrivés quelques minutes trop tard."
+    Sb "Nous étions si près du but aujourd'hui. Il aurait pu être là, tu sais. Peut être que nous sommes arrivés quelques minutes trop tard."
 
 # game/chapter4.rpy:1866
 translate french c4intuition_2345d4bf:
@@ -1900,13 +1900,13 @@ translate french c4intuition_284b5319:
 translate french c4intuition_9eaea2ac:
 
     # Sb "But right now, you can help us again."
-    Sb "En attendant, tu va pouvoir nous aider une fois de plus."
+    Sb "En attendant, tu vas pouvoir nous aider une fois de plus."
 
 # game/chapter4.rpy:1878
 translate french c4intuition_90ea8e25:
 
     # c "Well, what do you have for me?"
-    c "Ça me va. Qu'est-ce que je peut faire ?"
+    c "Ça me va. Qu'est-ce que je peux faire ?"
 
 # game/chapter4.rpy:1897
 translate french brycefirst_93189ec3:
@@ -1924,7 +1924,7 @@ translate french brycefirst_5f1f6096:
 translate french brycefirst_095e418a:
 
     # Br "Sebastian, what are you doing here? I told you to stay put."
-    Br "Sebastian ? Qu'est-ce que tu fais là ? Tu es censé l'attendre derrière, non ?"
+    Br "Sébastien ? Qu'est-ce que tu fais là ? Je t'avais dit de rester à l'affut."
 
 # game/chapter4.rpy:1907
 translate french brycefirst_6814135d:
@@ -1936,25 +1936,25 @@ translate french brycefirst_6814135d:
 translate french brycefirst_e95a344a:
 
     # Br brow b "Why? What's the problem?"
-    Br brow b "Pourquoi, y a un problème ?"
+    Br brow b "Pourquoi ? C'est quoi le problème ?"
 
 # game/chapter4.rpy:1911
 translate french brycefirst_241ab511:
 
     # Sb "There is a device on the inside of the front door. I think it might be a trap."
-    Sb "Il y a un truc tout proche de la porte d'entrée, je pense que c'est un piège."
+    Sb "Il y a un appareil tout proche de la porte d'entrée, je pense que c'est un piège."
 
 # game/chapter4.rpy:1913
 translate french brycefirst_64782236:
 
     # Br "I didn't tell you to look inside."
-    Br "Je ne t'ai pas demandé de regarder à l'intérieur, Sebastian."
+    Br "Je ne t'avais pas demandé de regarder à l'intérieur."
 
 # game/chapter4.rpy:1915
 translate french brycefirst_b2733954:
 
     # Sb drop b flip "I'm sorry, Chief. I just had a feeling that something... terrible would happen if I didn't."
-    Sb drop b flip "Désolé Chef, mais j'ai eut le pressentiment... que quelque chose de terrible arriverait si je ne le faisais pas."
+    Sb drop b flip "Désolé Chef, mais j'ai eu le pressentiment... que quelque chose de terrible arriverait si je ne le faisais pas."
 
 # game/chapter4.rpy:1917
 translate french brycefirst_037a1131:
@@ -1966,13 +1966,13 @@ translate french brycefirst_037a1131:
 translate french brycefirst_bfea4026:
 
     # m "I watched as Bryce made his way to the front door. Looking around, I scanned the windows of the building for any sign of movement."
-    m "J'ai regardé Bryce s'approcher de la porte d'entrée. En laissant mon regard fureter tout autour, j'ai jeté un oeil aux fenêtres pour aperçevoir un éventuel mouvement."
+    m "Je regardais Bryce s'approcher de la porte d'entrée. En laissant mon regard fureter tout autour, je jetai un oeil aux fenêtres pour aperçevoir un éventuel mouvement."
 
 # game/chapter4.rpy:1927
 translate french brycefirst_f1285e10:
 
     # m "When Bryce reached the door, I wondered how he would make his entry. Would he try to be quiet and sneak around, hoping to find Reza unprepared, or would he barge in and rely on his strength and speed to apprehend him?"
-    m "Au moment où Bryce a atteint la porte, je me suis demandé comment il allait faire son entrée. Allait-il la jouer discétion en se faufilant pour prendre Reza par surprise, ou allait-il y aller franchement tout en comptant sur sa force pour l'appréhender ?"
+    m "Au moment où Bryce atteignit la porte, je me demandai comment il allait faire son entrée. Allait-il tenter la discétion en se faufilant pour prendre Reza par surprise, ou allait-il y aller franchement tout en comptant sur sa force et sa vitesse pour l'appréhender ?"
 
 # game/chapter4.rpy:1933
 translate french brycefirst_0766eb8d:
@@ -1984,7 +1984,7 @@ translate french brycefirst_0766eb8d:
 translate french brycefirst_a93c7636:
 
     # c "Bryce!"
-    c "Bryce!"
+    c "Bryce !"
 
 # game/chapter4.rpy:1968
 translate french brycefirst_a4688393:
@@ -2002,7 +2002,7 @@ translate french brycefirst_d19f855d:
 translate french brycefirst_ab70d1db:
 
     # Sb "I'm sorry, [player_name]. I just don't know what to say."
-    Sb "Je suis désolé, [player_name]. Je... Je ne sais pas quoi dire."
+    Sb "Je suis désolé, [player_name]. Je ne sais pas quoi dire."
 
 # game/chapter4.rpy:1974
 translate french brycefirst_d19f855d_1:
@@ -2020,19 +2020,19 @@ translate french brycefirst_903f6637:
 translate french brycefirst_7d98aa6a:
 
     # Sb disapproval b "All the responsibility falls on me now. And Reza is still out there somewhere."
-    Sb disapproval b "C'est à moi de gérer tout ça maintenant. Et Reza est en liberté, quelque part."
+    Sb disapproval b "C'est à moi de gérer tout ça maintenant. Et Reza est toujours en liberté, quelque part."
 
 # game/chapter4.rpy:1980
 translate french brycefirst_40d0a46a:
 
     # Sb drop b "This case is just beyond our capabilities. We were already at a bare minimum before this, but with Bryce gone, I just don't know what we should do now."
-    Sb drop b "Cette affaire nous dépasse. On n'étais déjà à peine assez nombreux, mais maitenant que Bryce n'est plus là, je ne sais pas ce qu'il faut faire maintenant."
+    Sb drop b "Cette affaire nous dépasse. On était déjà à peine assez nombreux avant ça, mais maitenant que Bryce n'est plus là, je ne sais pas ce qu'il faut faire maintenant."
 
 # game/chapter4.rpy:1982
 translate french brycefirst_41ddf17b:
 
     # Sb disapproval b "I've already requested help from one of the cities. I hope they'll send some good investigators our way as soon as possible."
-    Sb disapproval b "J'ai déjà demandé de l'aide aux villes alentours, j'espère qu'on aura le soutient de quelques bons enquêteurs le plus vite possible."
+    Sb disapproval b "J'ai déjà demandé de l'aide à l'une des cités aux alentours, j'espère qu'on aura le soutient de quelques bons enquêteurs le plus vite possible."
 
 # game/chapter4.rpy:1984
 translate french brycefirst_43d253e6:
@@ -2044,7 +2044,7 @@ translate french brycefirst_43d253e6:
 translate french brycefirst_a20a12de:
 
     # Sb drop b "Well, except for the eggs. I don't want to have to explain to the parents how their children were killed in the explosion."
-    Sb drop b "À l'exeption des oeufs... Je n'ai pas envie de dire aux parents ce qui est arrivé à leur progéniture... Mais je n'aurais pas le choix."
+    Sb drop b "Enfin, à l'exeption des oeufs. Je n'ai pas envie d'expliquer aux parents que leurs enfants furent tués dans l'explosion."
 
 # game/chapter4.rpy:1988
 translate french brycefirst_6165962f:
