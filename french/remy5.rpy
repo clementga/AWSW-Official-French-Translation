@@ -40,7 +40,7 @@ translate frenchtl remy5_88f8a48d:
 translate frenchtl remy5_444d83a8:
 
     # Ry "They are, but they're doing it somewhere else. I don't really like the crowds, and I think you would appreciate me leading you here if you knew what they were like."
-    Ry "C'est le cas, mais ils l'observent d'ailleurs. Je n'aime pas vraiment la foule, et je pense que tu serais content que je t'amènes ici si tu savais comment ils sont."
+    Ry "C'est le cas, mais ils l'observent d'ailleurs. Je n'aime pas vraiment la foule, et je pense que tu serais content que je t'amène ici si tu savais comment ils sont."
 
 # game/remy5.rpy:40
 translate frenchtl remy5_15ab53eb:
@@ -112,7 +112,7 @@ translate frenchtl remy5_d5667416:
 translate frenchtl remy5_ed67b9fa:
 
     # c "Remy, I think we need to go. Now."
-    c "Rémi, je crois qu'on dois y aller. Maintenant."
+    c "Rémi, je crois qu'on doit y aller. Maintenant."
 
 # game/remy5.rpy:81
 translate frenchtl remy5_462b44ad:
@@ -154,7 +154,7 @@ translate frenchtl remy5_d33580c6:
 translate frenchtl remy5_eedcf341:
 
     # Ry sad "Maybe you can hold him off, and I'll try to get some help."
-    Ry sad "Peut être que tu peux le retenir, quant à moi je vais aller chercher de l'aide."
+    Ry sad "Peut être que tu peux le retenir, quand à moi je vais aller chercher de l'aide."
 
 # game/remy5.rpy:95
 translate frenchtl remy5_91cde1b5:
@@ -166,13 +166,13 @@ translate frenchtl remy5_91cde1b5:
 translate frenchtl remy5_184fb767:
 
     # m "I started running as Remy's voice called out to me."
-    m "Je commençai à courir, lorsque Rémi m'appella."
+    m "Je commençai à courir, lorsque Rémi m'appela."
 
 # game/remy5.rpy:101
 translate frenchtl remy5_051ed2da:
 
     # Ry "Where is he? Where should I go?"
-    Ry "Où est-il ? Où devrais-je aller ?"
+    Ry "Où est-il ? Où dois-je aller ?"
 
 # game/remy5.rpy:103
 translate frenchtl remy5_0c5f1631:
@@ -376,7 +376,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_08c15b2e:
 translate frenchtl _call_endingjustafewminuteslater_2_4ee7c247:
 
     # m "He had been hit in the side, and I saw blood trickling from the wound onto the ground below him."
-    m "Il était touché au flanc, et je voyais du sang couler de la blessure sur le sol."
+    m "Il était touché au flanc, et je voyais du sang couler de sa blessure au sol."
 
 # game/remy5.rpy:339
 translate frenchtl _call_endingjustafewminuteslater_2_d03824a3:
@@ -478,7 +478,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_0edb3f5d:
 translate frenchtl _call_endingjustafewminuteslater_2_e1fe309d:
 
     # Ry "Don't you dare tell me you would be doing me any favors by saving me. If it's just going to be one of us, I don't want it to be me." with Shake((0, 0, 0, 0), 3, dist=10)
-    Ry "N'essaye pas de me dire que tu me ferais une faveur enn me sauvant. Si on doit choisir l'un d'entre nous, je ne veux pas que ce soit moi." with Shake((0, 0, 0, 0), 3, dist=10)
+    Ry "N'essaye pas de me dire que tu me ferais une faveur en me sauvant. Si on doit choisir l'un d'entre nous, je ne veux pas que ce soit moi." with Shake((0, 0, 0, 0), 3, dist=10)
 
 # game/remy5.rpy:375
 translate frenchtl _call_endingjustafewminuteslater_2_0349788f:
@@ -490,7 +490,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_0349788f:
 translate frenchtl _call_endingjustafewminuteslater_2_37baa483:
 
     # Ry "And when they finally do, you come along and tell me this? Don't do that to me."
-    Ry "Et quand elles viennent à changer, tu te ramène et me dis ça ? Ne me fais pas ce coup là."
+    Ry "Et quand elles viennent à changer, tu te ramènes et me dis ça ? Ne me fais pas ce coup-là."
 
 # game/remy5.rpy:379
 translate frenchtl _call_endingjustafewminuteslater_2_cd516472:
@@ -532,7 +532,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_86148265:
 translate frenchtl _call_endingjustafewminuteslater_2_542cfdde:
 
     # m "I hobbled to my feet and made my way back outside, just in time to see Reza vanishing through the portal."
-    m "Je me remis difficilement debout et fonça jusqu'à la sortie, juste à temps pour voir Reza se volatiliser à travers le portail."
+    m "Je me remis difficilement debout et fonçai jusqu'à la sortie, juste à temps pour voir Reza se volatiliser à travers le portail."
 
 # game/remy5.rpy:415
 translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88:
@@ -544,13 +544,13 @@ translate frenchtl _call_endingjustafewminuteslater_2_76b2fe88:
 translate frenchtl _call_endingjustafewminuteslater_2_fba8d596:
 
     # n "I made my way back to Remy to look for something to treat his wound. Given everything that had just transpired, I had no idea what was going to happen."
-    n "Je revins vers Rémi pour chercher quelque chose qui pusse traiter nos blessures. Compte tenu de tout ce qui s'était passé, Je n'avais aucune idée de ce qui allait arriver."
+    n "Je revins vers Rémi pour chercher quelque chose qui puisse traiter nos blessures. Compte tenu de tout ce qui s'était passé, je n'avais aucune idée de ce qui allait arriver."
 
 # game/remy5.rpy:421
 translate frenchtl _call_endingjustafewminuteslater_2_c7a74a32:
 
     # n "I also wondered where the Administrator had gone."
-    n "Je me demandais également où l'Administrateur était passé."
+    n "Je me demandai également où l'Administrateur était passé."
 
 # game/remy5.rpy:423
 translate frenchtl _call_endingjustafewminuteslater_2_a5cec8b2:
@@ -640,7 +640,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_6b30e185:
 translate frenchtl _call_endingjustafewminuteslater_2_9acb3c92:
 
     # n "I wasn't sure what exactly Reza had told them, but with him dead and me wounded, humanity decided to take what they thought was theirs by force - which included the underground building itself."
-    n "Je ne savais pas ce Reza leur avait dit exactement, mais avec lui mort et moi blessé, l'humanité décida de s'emparer de ce qu'ils pensaient être à eux par la force - ce qui incluait la base souterraine elle même."
+    n "Je ne savais pas ce Reza leur avait dit exactement, mais avec lui mort et moi blessé, l'humanité décida de s'emparer de ce qu'ils pensaient être à eux par la force - ce qui incluait la base souterraine elle-même."
 
 # game/remy5.rpy:457
 translate frenchtl _call_endingjustafewminuteslater_2_777af674:
@@ -694,7 +694,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_c7a50765:
 translate frenchtl _call_endingjustafewminuteslater_2_48575716:
 
     # n "While they had permanently disabled the portal, I was at least able to find plenty of supplies they had left behind as I roamed the city to make a new life for myself."
-    n "Bien qu'ils avaient désactivé le portail de manière permanente, Je fus au moins capable de trouver quantité de provisions qu'ils avaient laissées derrière tandis que j'errais dans la ville, m'accommodant à ma nouvelle vie."
+    n "Bien qu'ils avaient désactivé le portail de manière permanente, je fus au moins capable de trouver quantité de provisions qu'ils avaient laissées derrière tandis que j'errais dans la ville, m'accommodant à ma nouvelle vie."
 
 # game/remy5.rpy:479
 translate frenchtl _call_endingjustafewminuteslater_2_29e38b00:
@@ -814,7 +814,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_8e263834:
 translate frenchtl _call_endingjustafewminuteslater_2_f134d298:
 
     # Ry "Come on, we've got no time to lose."
-    Ry "Dépêche toi, on n'a pas de temps à perdre."
+    Ry "Dépêche-toi, on n'a pas de temps à perdre."
 
 # game/remy5.rpy:533
 translate frenchtl _call_endingjustafewminuteslater_2_8a00f518:
@@ -838,7 +838,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_4f3507cf:
 translate frenchtl _call_endingjustafewminuteslater_2_a31cbd66:
 
     # m "A few minutes later, we arrived at the portal. I thought about alternative options, considering we would be able to use it now."
-    m "Quelques minutes plus tard, nous arrivâmes au portail. Je réfléchissais à des options alternatives, considérant que nous serions capable de l'utiliser."
+    m "Quelques minutes plus tard, nous arrivâmes au portail. Je réfléchissais à des options alternatives, pensant que nous serions capable de l'utiliser."
 
 # game/remy5.rpy:545
 translate frenchtl _call_endingjustafewminuteslater_2_955c61cc:
@@ -856,7 +856,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_0aef8823:
 translate frenchtl _call_endingjustafewminuteslater_2_4009b000:
 
     # m "I watched as Remy reactivated the portal, using its interface with his somewhat clumsy paws."
-    m "Je regardais tandis que Rémi réactivait le portail, utilisant l'interface avec ses pattes un peu maladroites."
+    m "Je regardai Rémi réactiver le portail, utilisant l'interface avec ses pattes un peu maladroites."
 
 # game/remy5.rpy:553
 translate frenchtl _call_endingjustafewminuteslater_2_5e15e851:
@@ -1156,7 +1156,7 @@ translate frenchtl remygoodending_e9d0ca20:
 translate frenchtl remygoodending_38c3881e:
 
     # m "He enveloped her as his tears started raining down on the small body."
-    m "Il l'enlaça alors que ces larmes commencaient à couler sur le corps de l'enfant."
+    m "Il l'enlaça alors que ses larmes commençaient à couler sur le corps de l'enfant."
 
 # game/remy5.rpy:1042
 translate frenchtl remygoodending_0d259e8b:
@@ -1258,7 +1258,7 @@ translate frenchtl remygoodending_986e0b1c:
 translate frenchtl remygoodending_af3ad756:
 
     # n "The only coordinates remaining in the portal were those she left as a last resort. It turned out they were to send someone back in time to the day I arrived here."
-    n "Les seules coordonnées restantes dans le portail étaient celles qu'elle avait laissé en dernier recours. Il s'avérait qu'elles renvoyaient quiconque les utilise dans le passé, le jour de mon arrivée."
+    n "Les seules coordonnées restantes dans le portail étaient celles qu'elle avait laissées en dernier recours. Il s'avérait qu'elles renvoyaient quiconque les utilise dans le passé, le jour de mon arrivée."
 
 # game/remy5.rpy:1080
 translate frenchtl remygoodending_bb30bf9e:
@@ -1312,7 +1312,7 @@ translate frenchtl remygoodending_cdc3dc84:
 translate frenchtl remygoodending_c5299012:
 
     # Ry "Whatever you want to do now, you can be sure that you'll have the council's support."
-    Ry "Peut importe ce que tu veux faire maintenant, tu peux être sûr que tu as le soutien du Conseil."
+    Ry "Peu importe ce que tu veux faire maintenant, tu peux être sûr que tu as le soutien du Conseil."
 
 # game/remy5.rpy:1107
 translate frenchtl remygoodending_11669ff2:
