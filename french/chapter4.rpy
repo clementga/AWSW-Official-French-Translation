@@ -2062,13 +2062,13 @@ translate french brycefirst_a6bce8f5:
 translate french brycefirst_8257f5a5:
 
     # Sb disapproval b "But you know what? We can't stop now. If anything, this has only proven that he's even more dangerous than we thought. If Reza can make bombs out of generators, who's to say where he'll use them next?"
-    Sb disapproval b "Mais tu sais quoi, on ne va pas s'arrêter maintenant. On a la preuve qu'il est plus dangeureux que ce qu'on pensait. S'il peut fabriquer des bombes avec des générateurs, qui sait ce qui nous attends ?"
+    Sb disapproval b "Mais tu sais quoi ? On ne peut pas s'arrêter maintenant. Il vient de prouver qu'il est bien plus dangeureux que ce qu'on pensait. S'il peut fabriquer des bombes avec des générateurs, qui sait où il les utilisera la prochaine fois ?"
 
 # game/chapter4.rpy:1994
 translate french brycefirst_f116eb4c:
 
     # Sb "We have to stop him, [player_name]. Are you with me?"
-    Sb "Il faut qu'on l'arrête [player_name]. T'es avec moi ?"
+    Sb "Il faut qu'on l'arrête [player_name]. Tu es avec moi ?"
 
 # game/chapter4.rpy:1996
 translate french brycefirst_26eefe0a:
@@ -2080,25 +2080,25 @@ translate french brycefirst_26eefe0a:
 translate french brycefirst_67a75b27:
 
     # Sb "Regardless of Bryce's death, we have try our best to proceed with the investigation. For his memory, and for the sake of the town."
-    Sb "Même si le Chef a été tué, on a fait de notre mieux jusqu'à maintenant. On va s'assurer qu'il ne soit pas mort en vain, et on va le faire aussi pour le bien de la ville."
+    Sb "Indépendamment de la mort de Bryce, on doit faire notre mieux pour poursuivre l'enquête. En sa mémoire, et pour le bien de la ville."
 
 # game/chapter4.rpy:2000
 translate french brycefirst_62399d4f:
 
     # Sb "At least Reza doesn't have any generators, for now. All the stolen ones were accounted for inside the building."
-    Sb "Au moins, Reza n'a plus de générateur à portée de main. Tout ceux qu'il avait volé étaient dans la ferme."
+    Sb "Au moins, Reza n'a plus de générateur, pour l'instant. Tout ceux qu'il avait volé étaient dans le bâtiment."
 
 # game/chapter4.rpy:2002
 translate french brycefirst_0fb2d9e2:
 
     # Sb "Alright, let me see what else we have..."
-    Sb "Bon, voyons ce qu'on a d'autre..."
+    Sb "Bon, voyons voir ce qu'on a d'autre..."
 
 # game/chapter4.rpy:2013
 translate french c4cont_454e0894:
 
     # Sb "When we searched the building, we found more than the things Reza stole. We also found this bloody bandage."
-    Sb "En fouillant, non seulement on a trouvé le butin de Reza, mais il y avait aussi ce bandage ensanglanté."
+    Sb "En fouillant la maison, on a trouvé plus que ce que Reza avait volé. On a également trouvé ce bandage ensanglanté."
 
 # game/chapter4.rpy:2015
 translate french c4cont_cf2d6ded:
@@ -2122,7 +2122,7 @@ translate french c4cont_d8ae483a:
 translate french c4cont_53ff3f22:
 
     # Sb "We know he was injured during the fight with his first victim, but whether this is from the same wound, or something else, I'm not sure."
-    Sb "On sait qu'il a été blessé durant le combat avec sa première victime, reste à savoir s'il n'a que cette blessure."
+    Sb "On sait qu'il a été blessé durant le combat avec sa première victime, mais si ça vient de la même blessure, ou d'une autre, je ne sais pas."
 
 # game/chapter4.rpy:2023
 translate french c4cont_b6509a8e:
@@ -2134,25 +2134,25 @@ translate french c4cont_b6509a8e:
 translate french c4cont_c48dc32f:
 
     # c "Sure."
-    c "Bien sûre."
+    c "Bien sûr."
 
 # game/chapter4.rpy:2029
 translate french c4cont_55d65168:
 
     # Sb "Next, we have a witness who reported hearing loud bangs during the night."
-    Sb "Deuxième chose : on a un témoin qui prétends avoir entendu de fortes détonations durant la nuit."
+    Sb "Ensuite, on a un témoin qui a rapporté avoir entendu de fortes détonations durant la nuit."
 
 # game/chapter4.rpy:2031
 translate french c4cont_320a075d:
 
     # Sb "We’d like to send someone to make a follow-up visit. You’ll need to confirm the witness statement, then see if he has anything new to share."
-    Sb "Il faut qu'on envoi quelqu'un prendre sa déclaration écrite, et éventuellement tirer quelque chose de son témoignage."
+    Sb "Il faut qu'on envoie quelqu'un prendre sa déclaration écrite. Tu auras besoin de confirmer son témoignage, puis de voir s'il a du nouveau à partager."
 
 # game/chapter4.rpy:2035
 translate french c4cont_e2d559af:
 
     # Sb "Also, now that we have reclaimed your PDAs, we're going to send one to the archives for analysis. Since they have experience with human artifacts, they're better suited to do it than any of our departments."
-    Sb "Il y a aussi les PDAs qu'on a récupéré. On doit en confier un aux archives pour analyses. Puisqu'ils sont habitués à travailler sur du matériel humain, ils s'en sortiront mieux que nous."
+    Sb "Aussi, maintenant qu'on a récupéré vos PDAs, on va en envoyer un aux archives pour analyses. Puisqu'ils ont de l'expérience avec les artéfacts humains, ils sont plus aptes à s'en occuper que n'importe lequel de nos départements."
 
 # game/chapter4.rpy:2037
 translate french c4cont_bd805a76:
@@ -2164,37 +2164,37 @@ translate french c4cont_bd805a76:
 translate french c4cont_79c69506:
 
     # Sb "And lastly, we have the eggs. It's a relief that we found them unharmed in the building. They're safe and ready to be sent back to the hatchery."
-    Sb "Pour finir, on a les oeufs. Ils sont tous sain et saufs heureusement, il n'y a plus qu'à les ramener à la pouponnière."
+    Sb "Et pour finir, on a les oeufs. C'est un soulagement que nous les ayons trouvés sain et sauf dans le bâtiment. Il n'y a plus qu'à les ramener à l'écloserie."
 
 # game/chapter4.rpy:2043
 translate french c4cont_7d2cd944:
 
     # c "Shouldn't we take care of those, first?"
-    c "On ne devrait pas les gérer en priorité ?"
+    c "On ne devrait pas s'en charger en priorité ?"
 
 # game/chapter4.rpy:2045
 translate french c4cont_dad19954:
 
     # Sb "It's not as urgent as you might think. Our eggs are pretty resilient. Being in the care of the hatchery is more an insurance than a requirement."
-    Sb "Ce n'est pas aussi urgent qu'il n'y parait. Nos oeufs sont plutôt résistants. Les confier à une écloserie est plus une précaution qu'une exigence."
+    Sb "Ce n'est pas aussi urgent qu'il y parait. Nos oeufs sont plutôt résistants. Les confier à une écloserie est plus une précaution qu'une exigence."
 
 # game/chapter4.rpy:2047
 translate french c4cont_b8fd21a0:
 
     # Sb "Some people choose to keep them in their own home until they hatch, rather than having the hatchery take care of it."
-    Sb "Certains préfèrent même les garder chez eux jusqu'à l'éclosion au lieu de les confier à une pouponnière."
+    Sb "Certains préfèrent même les garder chez eux jusqu'à l'éclosion, plutôt que de les confier à une écloserie."
 
 # game/chapter4.rpy:2049
 translate french c4cont_186a1410:
 
     # Sb "The hatchery has been notified, but they won't be able to send someone for a few hours. I've heard that they're really understaffed."
-    Sb "On les a prévenu d'ailleurs, mais ils sont en manque de personnel eux aussi, et ne pourront pas venir les chercher avant quelques heures."
+    Sb "L'écloserie a été prévenue, mais ils sont en manque de personnel eux aussi, et ne pourront pas venir les chercher avant quelques heures."
 
 # game/chapter4.rpy:2051
 translate french c4cont_f1a002bb:
 
     # Sb "If you bring the eggs and the paperwork to them, you'd speed up the process, but it's not an urgent matter."
-    Sb "Si tu pouvais gérer les oeufs et la paperasse, ça arrangerait les choses, mais ce n'est pas une urgence non plus."
+    Sb "Si tu amènes les oeufs et la paperasse, tu accélérerais les choses, mais ce n'est pas une urgence non plus."
 
 # game/chapter4.rpy:2053
 translate french c4cont_89aefe22:
@@ -2206,13 +2206,13 @@ translate french c4cont_89aefe22:
 translate french c4cont2_4bfa8c52:
 
     # Sb "In any case, I'll just leave everything here until I get to it, so feel free to do these tasks as you wish."
-    Sb "En tout cas, rien ici ne bouge sauf si quelqu'un décide de s'en charger. Si c'est encore là, c'est que c'est à classer."
+    Sb "Dans tout les cas, je vais laisser ça ici jusqu'à ce que je m'en charge, donc n'hésites pas à faire ces tâches si tu le souhaites."
 
 # game/chapter4.rpy:2067
 translate french c4cont2_827351ae:
 
     # Sb "I know it's laughable that we don't even have a free hand for simple errands."
-    Sb "Je sais qu'il y a de quoi rire au fait que je te demande de nous dépaner pour de simples courses."
+    Sb "Je sais qu'il y a de quoi rire au fait qu'on ait même pas quelqu'un pour faire de simples courses."
 
 # game/chapter4.rpy:2069
 translate french c4cont2_5101fbef:
@@ -2224,43 +2224,43 @@ translate french c4cont2_5101fbef:
 translate french c4cont2_aa3c4efc:
 
     # Sb "By the way, are you planning to attend the summer festival?"
-    Sb "Au fait, tu vas au festival d'été ?"
+    Sb "Au fait, tu as prévu d'aller au festival d'été ?"
 
 # game/chapter4.rpy:2075
 translate french c4cont2_af599221:
 
     # c "Should I? It's hard to think about something fun when I'm wrapped up in this investigation."
-    c "Tu crois que je devrais m'y rendre ? C'est difficile de penser à quelque chose de positif avec cette enquête."
+    c "Tu crois que je devrais m'y rendre ? C'est difficile de penser à quelque chose d'amusant quand je patauge dans cette enquête."
 
 # game/chapter4.rpy:2077
 translate french c4cont2_e23ed98b:
 
     # Sb "For sure. It's important to take a short rest so you don't lose your head. There's so much to see at the festival, particularly the big fireworks."
-    Sb "Carrément. Il faut bien s'arrêter pour respirer un peu tu sais. Et puis il y aura plein de trucs à voir à ce festival, les feu d'artifices entre autres."
+    Sb "Carrément. Il faut bien s'arrêter et respirer un peu pour ne pas perdre la tête. Et puis il y aura plein de choses à voir à ce festival, en particulier les feux d'artifices."
 
 # game/chapter4.rpy:2079
 translate french c4cont2_12a0faba:
 
     # c "Dragons enjoy fireworks, too? I would think something like that would feel so commonplace, since many of you breathe fire."
-    c "Les dragons aiment les feux d'artifices, hein ? Ça m'étonne quand on sait que beaucoup ici savent cracher la flamme."
+    c "Les dragons aiment les feux d'artifices, aussi ? J'aurais pensé que quelque chose comme ça vous aurait semblé trivial, comme beaucoup ici savent cracher du feu."
 
 # game/chapter4.rpy:2081
 translate french c4cont2_7f0fc3ed:
 
     # Sb "It's not quite the same. We still appreciate the wonder of colorful bursts in the sky. On the last day there's always a big fireworks show. Everyone usually attends it."
-    Sb "Ce n'est pas pareil. Il y a une différence entre la flamme de quelqu'un et un feu d'artifice coloré dans un ciel étoilé. Et puis celui du festival est si beau que la plupart des gens d'ici y assistent tout les ans."
+    Sb "Ce n'est pas vraiment pareil. On apprécie toujours les merveilles que font des explosions colorées dans le ciel. Au dernier jour il y a toujours un grand spectacle de feux d'artifices. Tout le monde y va d'habitude."
 
 # game/chapter4.rpy:2083
 translate french c4cont2_f43be0cf:
 
     # c "Everyone?"
-    c "La plupart des gens ?"
+    c "Tout le monde ?"
 
 # game/chapter4.rpy:2085
 translate french c4cont2_0130ecf1:
 
     # Sb "Yes, it has a great tradition behind it. What peeves me most is that I'll be on guard duty when it happens this year, so I probably won't be able to see a thing."
-    Sb "Oui, ce feu d'artifice a une sacré histoire derrière lui. Mais bon, personellement je ne pourrais pas y assister, je serai de garde au portail le soir du festival, Donc je risque de ne pas voir grand chose."
+    Sb "Oui, ce feu d'artifice a une sacré tradition derrière lui. Ce qui me saoule c'est que je serai de garde au portail le soir du festival, donc je ne risque pas de voir grand chose."
 
 # game/chapter4.rpy:2089
 translate french c4cont2_4b635033:
@@ -2272,13 +2272,13 @@ translate french c4cont2_4b635033:
 translate french sebdone_8a840b10:
 
     # Sb disapproval b "Are you suggesting I abandon my post during the fireworks?"
-    Sb disapproval b "Tu me suggères d'abandonner mon poste pour regarder le feu d'artifice, c'est ça ?"
+    Sb disapproval b "Tu me suggères d'abandonner mon poste le temps du le feu d'artifice ?"
 
 # game/chapter4.rpy:2109
 translate french sebdone_29ea912c:
 
     # c "No, you don't have to abandon your post, but if you pick a good spot and watch them for like half an hour or so, no one's going to care."
-    c "Pas vraiment, je me dit que si tu peux trouver un endroit en hauteur qui te permet d'assiter au feu d'artifice tout en pouvant garder un oeil sur ton poste, personne ne verra la différence."
+    c "Pas vraiment, je me dis que si tu peux trouver un bon endroit qui te permet d'assiter au feu d'artifice pour une petite demi-heure, personne ne verra la différence."
 
 # game/chapter4.rpy:2111
 translate french sebdone_7346d291:
@@ -2290,7 +2290,7 @@ translate french sebdone_7346d291:
 translate french sebdone_13085352:
 
     # c "I know we're talking about the portal, but you don't need to take this so seriously all the time. Just think about it. The portal is broken right now anyway, and everybody will be busy watching the fireworks. Nothing is going to happen."
-    c "Je sais bien que c'est sérieux. Mais tu n'as pas besoin de tout prendre au sérieux tout le temps. Prends le temps d'y penser. Le portail est en panne et tout le monde aura les yeux rivés vers le ciel. Il ne se passera rien, ne t'inquiète pas."
+    c "Je sais bien qu'on parle du portail, mais tu n'as pas besoin de tout prendre au sérieux tout le temps. Prends le temps d'y penser. Le portail est en panne là et tout le monde sera occupé à regarder les feux d'artifices. Il ne se passera rien."
 
 # game/chapter4.rpy:2115
 translate french sebdone_ff0f8867:
@@ -2302,7 +2302,7 @@ translate french sebdone_ff0f8867:
 translate french sebdone_18d46eb7:
 
     # c "Just pick a good spot and no one is going to even notice you're gone."
-    c "Trouve juste un bon coin, et personne ne verra la différence, crois moi."
+    c "Trouve juste un bon coin, et personne ne remarquera que tu es parti."
 
 # game/chapter4.rpy:2119
 translate french sebdone_0c85d775:
@@ -2314,7 +2314,7 @@ translate french sebdone_0c85d775:
 translate french sebelse_76b37f1b:
 
     # c "I'll be sure not to miss it then."
-    c "Compte sur moi pour ne pas le manquer"
+    c "Compte sur moi pour ne pas le manquer."
 
 # game/chapter4.rpy:2134
 translate french sebelse_ec662314:
@@ -2326,7 +2326,7 @@ translate french sebelse_ec662314:
 translate french sebelse_3cb2d5d0:
 
     # Sb "I'll leave the stuff for you here, and I'll take care of the rest once I get back, alright?"
-    Sb "Je laisse tout ça là, et je m'occuperai du reste une fois de retour, d'accord ?"
+    Sb "Je te laisse tout ça là, et je m'occuperai du reste une fois de retour, d'accord ?"
 
 # game/chapter4.rpy:2138
 translate french sebelse_e631bc97:
