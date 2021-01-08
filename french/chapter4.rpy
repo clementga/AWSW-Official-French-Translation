@@ -2350,7 +2350,7 @@ translate french sebelse_b092993f:
 translate french c4facility_a59e5fa7:
 
     # m "When I approached Anna's lab, I saw her sitting on the hallway floor, the door to her lab wide open."
-    m "En m'approchant du laboratoire, je vis Anna assise à même le sol dans le couloir. La porte de son labo était grande ouverte."
+    m "En m'approchant du laboratoire, je vis Anna assise à même le sol du couloir, la porte de son labo grande ouverte."
 
 # game/chapter4.rpy:2289
 translate french c4facility_df4c809f:
@@ -2386,7 +2386,7 @@ translate french c4facility_115c34c4:
 translate french c4facility_c16f96ee:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
+    An face "C'est une longue histoire, et je ne vais pas en parler maintenant."
 
 # game/chapter4.rpy:2303
 translate french c4facility_7f786720:
@@ -2398,19 +2398,19 @@ translate french c4facility_7f786720:
 translate french c4facility_9eaaf239:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An sad "J'en sais rien. Je ne sais pas comment je suis censée bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2307
 translate french c4facility_b08fa813:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face "Et puis un jour les deux se liguent et voilà que les flics viennent pour retourner mon labo comme si c'était normal. Ça n'a aucun sens !"
+    An face "Et puis un jour les deux se liguent et viennent pour retourner mon labo comme si ça faisait partie de leur travail. Ça n'a aucun sens."
 
 # game/chapter4.rpy:2309
 translate french c4facility_0f0596d5:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
+    An disgust "Quelqu'un va en entendre parler, et il y aura des conséquences, je peux te le garantir."
 
 # game/chapter4.rpy:2311
 translate french c4facility_6b14bf02:
@@ -2428,25 +2428,25 @@ translate french c4facility_28c95653:
 translate french c4facility_036be757:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
+    An face "Qu'est-ce que je disais. Ils foutent le bordel dans mon labo, puis me demandent de l'aide après."
 
 # game/chapter4.rpy:2317
 translate french c4facility_f6dfc989:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
+    An disgust "Il y a un truc qui tourne pas rond ici, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2319
 translate french c4facility_74b9cb3a:
 
     # An sad "What is this, anyway?"
-    An sad "Qu'est-ce que tu m'ammènes ?"
+    An sad "Enfin bon, de quoi s'agit-il ?"
 
 # game/chapter4.rpy:2321
 translate french c4facility_a29e5373:
 
     # c "I'm sorry. It's a bloody bandage for analysis. It's related to the Reza investigation."
-    c "Pardonne moi de te déranger avec ça. C'est un bandage ensanglanté. C'est lié à l'enquête sur Reza."
+    c "Désolé. C'est un bandage ensanglanté à analyser. C'est lié à l'enquête sur Reza."
 
 # game/chapter4.rpy:2323
 translate french c4facility_6a6a1f07:
@@ -2488,7 +2488,7 @@ translate french c4facility_115c34c4_1:
 translate french c4facility_c16f96ee_1:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
+    An face "C'est une longue histoire, et je ne vais pas en parler maintenant."
 
 # game/chapter4.rpy:2351
 translate french c4facility_7f786720_1:
@@ -2500,19 +2500,19 @@ translate french c4facility_7f786720_1:
 translate french c4facility_9eaaf239_1:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An sad "J'en sais rien. Je ne sais pas comment je suis censée bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2355
 translate french c4facility_b08fa813_1:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face "Et puis un jour les deux se liguent et voilà que les flics viennent pour retourner mon labo comme si c'était normal. Ça n'a aucun sens !"
+    An face "Et puis un jour les deux se liguent et viennent pour retourner mon labo comme si ça faisait partie de leur travail. Ça n'a aucun sens."
 
 # game/chapter4.rpy:2357
 translate french c4facility_0f0596d5_1:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
+    An disgust "Quelqu'un va en entendre parler, et il y aura des conséquences, je peux te le garantir."
 
 # game/chapter4.rpy:2359
 translate french c4facility_6b14bf02_1:
@@ -2530,13 +2530,13 @@ translate french c4facility_6e1b6a6a:
 translate french c4facility_036be757_1:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
+    An face "Qu'est-ce que je disais. Ils foutent le bordel dans mon labo, puis me demandent de l'aide après."
 
 # game/chapter4.rpy:2365
 translate french c4facility_f6dfc989_1:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
+    An disgust "Il y a un truc qui tourne pas rond ici, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2367
 translate french c4facility_74b9cb3a_1:
@@ -2548,7 +2548,7 @@ translate french c4facility_74b9cb3a_1:
 translate french c4facility_a29e5373_1:
 
     # c "I'm sorry. It's a bloody bandage for analysis. It's related to the Reza investigation."
-    c "Pardonne moi de te déranger avec ça. C'est un bandage ensanglanté. C'est lié à l'enquête sur Reza."
+    c "Désolé. C'est un bandage ensanglanté à analyser. C'est lié à l'enquête sur Reza."
 
 # game/chapter4.rpy:2371
 translate french c4facility_6a6a1f07_1:
@@ -2566,7 +2566,7 @@ translate french c4facility_8e9a23b0_1:
 translate french c4facility_08fa48a0_1:
 
     # c "Well, see you, then."
-    c "Bon, à plus tard alors."
+    c "A plus tard, alors."
 
 # game/chapter4.rpy:2377
 translate french c4facility_a445059e_1:
@@ -2608,7 +2608,7 @@ translate french c4facility_c0fffdf7:
 translate french c4facility_e20fb284:
 
     # An disgust "You know what? You can march right back and tell them they can do their tests themselves if they think they can play games with me."
-    An disgust "Tu sais quoi ? Tu peux repartir d'où tu viens et dire qu'ils peuvent faire leurs tests eux mêmes s'ils pensent qu'ils peuvent jouer avec moi."
+    An disgust "Tu sais quoi ? Tu peux repartir d'où tu viens et leur dire qu'ils peuvent faire leurs tests eux mêmes s'ils pensent qu'ils peuvent jouer avec moi."
 
 # game/chapter4.rpy:2405
 translate french c4facility_e2c4b981:
@@ -2632,7 +2632,7 @@ translate french c4facility_b9836deb:
 translate french c4facility_8e27deb2:
 
     # An rage "What the heck are you still doing here? Go and tell them, now!" with Shake((0, 0, 0, 0), 2, dist=10)
-    An rage "Qu'est-ce que tu fous encore ici ? Va et dit leur, maintenant!" with Shake((0, 0, 0, 0), 2, dist=10)
+    An rage "Qu'est-ce que tu fous encore ici ? Va et dit leur, tout de suite !" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/chapter4.rpy:2413
 translate french c4facility_63e87d41:
@@ -2662,7 +2662,7 @@ translate french c4facility_115c34c4_2:
 translate french c4facility_c16f96ee_2:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
+    An face "C'est une longue histoire, et je ne vais pas en parler maintenant."
 
 # game/chapter4.rpy:2440
 translate french c4facility_7f786720_2:
@@ -2674,19 +2674,19 @@ translate french c4facility_7f786720_2:
 translate french c4facility_9eaaf239_2:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An sad "J'en sais rien. Je ne sais pas comment je suis censée bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2444
 translate french c4facility_b08fa813_2:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An face "Et puis un jour les deux se liguent et viennent pour retourner mon labo comme si ça faisait partie de leur travail. Ça n'a aucun sens."
 
 # game/chapter4.rpy:2446
 translate french c4facility_0f0596d5_2:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
+    An disgust "Quelqu'un va en entendre parler, et il y aura des conséquences, je peux te le garantir."
 
 # game/chapter4.rpy:2448
 translate french c4facility_6b14bf02_2:
@@ -2704,13 +2704,13 @@ translate french c4facility_6e1b6a6a_1:
 translate french c4facility_036be757_2:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
+    An face "Qu'est-ce que je disais. Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
 
 # game/chapter4.rpy:2454
 translate french c4facility_f6dfc989_2:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
+    An disgust "Il y a un truc qui tourne pas rond ici, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2456
 translate french c4facility_74b9cb3a_2:
@@ -2734,7 +2734,7 @@ translate french c4facility_e780acf8:
 translate french c4facility_46ff6af6:
 
     # An sad "How could I even? My lab is trashed."
-    An sad "Comment le pourai-je ? Mon labo est saccagé."
+    An sad "Comment le pourrais-je ? Mon labo est saccagé."
 
 # game/chapter4.rpy:2464
 translate french c4facility_5721e7a1:
@@ -2830,31 +2830,31 @@ translate french loremnotmissing_6cb5fcc8:
 translate french loremnotmissing_512650c4:
 
     # Ip normal "Sure."
-    Ip normal "C'est çà."
+    Ip normal "C'est ça."
 
 # game/chapter4.rpy:2580
 translate french loremnotmissing_a15c71e7:
 
     # c "I'm working with the police and hoped you could answer a few questions."
-    c "Je travaille en collaboration avec la police et j'espérais que vous pouriez répondre à quelques questions."
+    c "Je travaille en collaboration avec la police et j'espérais que vous pourriez répondre à quelques questions."
 
 # game/chapter4.rpy:2584
 translate french loremnotmissing_9c960c3e:
 
     # Ip "Oh, it's you."
-    Ip "Oh c'est vous."
+    Ip "Oh c'est toi."
 
 # game/chapter4.rpy:2586
 translate french loremnotmissing_d6b0f084:
 
     # Ip think "Can I help you?"
-    Ip think "Puis-je vous aider ?"
+    Ip think "Que puis-je faire pour toi ?"
 
 # game/chapter4.rpy:2588
 translate french loremnotmissing_cef17091:
 
     # c "Yeah. I'm working with the police and hoped you could answer a few questions."
-    c "Oui. Je travaille avec la police et j'espérais que vous pourriez à quelques questions."
+    c "Oui. Je travaille avec la police et j'espérais que tu puisses répondre à quelques questions."
 
 # game/chapter4.rpy:2592
 translate french loremnotmissing_68dad7a1:
@@ -2872,13 +2872,13 @@ translate french loremnotmissing_26eefe0a:
 translate french loremnotmissing_64e0b65f:
 
     # Ip think "Alright. What do you want to know?"
-    Ip think "D'accord. Que voulez vous savoir ?"
+    Ip think "D'accord. Que voulez-vous savoir ?"
 
 # game/chapter4.rpy:2598
 translate french loremnotmissing_8e9278fd:
 
     # c "Can you tell me what happened?"
-    c "Pouvez vous me dire ce qui s'est passer ?"
+    c "Peux-tu me dire ce qu'il s'est passé ?"
 
 # game/chapter4.rpy:2600
 translate french loremnotmissing_e4572aa4:
@@ -2890,7 +2890,7 @@ translate french loremnotmissing_e4572aa4:
 translate french loremnotmissing_75416a96:
 
     # Ip think "Around 2AM, I suddenly hear a few bangs outside. They reminded me of small explosions."
-    Ip think "Aux alentours de 2 heures du matin, j'entendis soudainement quelques détonations à l'exterieur. Elles me rappellèrent des petites explosions."
+    Ip think "Aux alentours de 2 heures du matin, j'ai brutalement entendu quelques détonations à l'extérieur. Elles me rappellaient de petites explosions."
 
 # game/chapter4.rpy:2604
 translate french loremnotmissing_c87e8928:
@@ -2902,7 +2902,7 @@ translate french loremnotmissing_c87e8928:
 translate french loremnotmissing_66865b4d:
 
     # c "I see. Did nothing about this seem unusual to you?"
-    c "Je vois. Rien d'autre qui vous a paru inhabituel ?"
+    c "Je vois. Rien d'autre qui ne t'a paru inhabituel ?"
 
 # game/chapter4.rpy:2608
 translate french loremnotmissing_371a499b:
@@ -2938,13 +2938,13 @@ translate french loremnotmissing_92287918:
 translate french loremnotmissing_96280233:
 
     # c "I don't know. Why are you asking?"
-    c "Je ne sais pas. Pourquoi vous demandez ?"
+    c "Je ne sais pas. Pourquoi tu demandes ?"
 
 # game/chapter4.rpy:2622
 translate french loremnotmissing_60f37cc4:
 
     # Ip "You’ve hung out with him a few times now. You see, he doesn’t have many friends, and I think he’s starting to like you."
-    Ip "Vous avez passé pas mal de temps avec lui. Vous voyez, il n'a pas beaucoup d'amis, et je pense qu'il commence à vous apprécier."
+    Ip "Tu as passé pas mal de temps avec lui. Tu vois, il n'a pas beaucoup d'amis, et je pense qu'il commence à t'apprécier."
 
 # game/chapter4.rpy:2624
 translate french loremnotmissing_d5faba5e:
@@ -2956,7 +2956,7 @@ translate french loremnotmissing_d5faba5e:
 translate french loremnotmissing_6aa06075:
 
     # Ip "It's just... If something happens the next time you meet, don’t be mad at him, okay?"
-    Ip "C'est juste que... Si quelque chose arrive la prochaine fois que vous vous voyez, ne lui en voulez pas, d'accord ?"
+    Ip "C'est juste que... Si quelque chose arrive la prochaine fois que vous vous voyez, ne lui en veux pas, d'accord ?"
 
 # game/chapter4.rpy:2628
 translate french loremnotmissing_fe5f3366:
@@ -3016,13 +3016,13 @@ translate french loremnotmissing_b516b795:
 translate french loremnotmissing_9cbff9bd:
 
     # Ip "Do you have any news about Lorem?"
-    Ip "Vous avez des nouvelles au sujet de Lorem ?"
+    Ip "Tu as des nouvelles au sujet de Lorem ?"
 
 # game/chapter4.rpy:2702
 translate french loremnotmissing_9e19beb8:
 
     # c "This is about the noises you heard last night."
-    c "Ce sont les bruits que vous avez entendu la nuit dernière."
+    c "C'est au sujet des bruits que vous avez entendu la nuit dernière."
 
 # game/chapter4.rpy:2706
 translate french loremnotmissing_42258e65:
@@ -3052,7 +3052,7 @@ translate french loremnotmissing_c21407a9:
 translate french loremnotmissing_45b5fb0a:
 
     # Ip "I don't know what happened to him. He didn't go on vacation, nor did he suddenly decide to visit the next town. I'd know if he did – he would have told me."
-    Ip "Je ne sais pas ce qui lui est arrivé. Il n'est pas parti en vacances, ou de partir soudainement visiter la ville d'à côté. Je le saurais sinon - il m'en aurait parlé."
+    Ip "Je ne sais pas ce qui lui est arrivé. Il n'est pas parti en vacances, ou parti soudainement visiter la ville d'à côté. Je le saurais sinon - il m'en aurait parlé."
 
 # game/chapter4.rpy:2718
 translate french loremnotmissing_0e144e97:
@@ -3070,7 +3070,7 @@ translate french loremnotmissing_3907e8c4:
 translate french c4library_a50af3ed:
 
     # c "(Doesn't look like Remy is here.)"
-    c "(On dirait que Remy n'est pas ici.)"
+    c "(On dirait que Rémi n'est pas ici.)"
 
 # game/chapter4.rpy:2760
 translate french c4library_364daeed:
