@@ -3088,25 +3088,25 @@ translate french c4library_aa581abf:
 translate french c4library_3c0fe50c:
 
     # Ei "Do you know where the audio section is? I'm looking for some sheet music."
-    Ei "Vous savez ou se trouve la section audio ? Je cherche des partitions..."
+    Ei "Vous savez où se trouve la section audio ? Je cherche des partitions."
 
 # game/chapter4.rpy:2766
 translate french c4library_57a80524:
 
     # c "Sorry, I have no idea. I don't even work here."
-    c "Désolé, mais je ne saurais vous répondre. Je ne travaille pas ici."
+    c "Désolé, je n'en ai aucune idée. Je ne travaille même pas ici."
 
 # game/chapter4.rpy:2768
 translate french c4library_a0e54fc9:
 
     # Ei "Ah, don't worry about it. The staff all seem to be hiding somewhere."
-    Ei "Ah, ne vous en faites pas ! En fait je ne trouve personne qui travaille ici."
+    Ei "Ah, ne vous en faites pas. Tout le personnel a l'air de se cacher en ce moment."
 
 # game/chapter4.rpy:2770
 translate french c4library_ebf760d8:
 
     # Ei "Anyway, have a good day."
-    Ei "Enfin, passez une bonne journée !"
+    Ei "Enfin, passez une bonne journée."
 
 # game/chapter4.rpy:2772
 translate french c4library_b092993f:
@@ -3118,7 +3118,7 @@ translate french c4library_b092993f:
 translate french c4library_3ec04e11:
 
     # c "(Maybe Remy is somewhere in the back, or in his office.)"
-    c "(Peut-être que Remy est quelque part entre deux étagères, ou dans son bureau.)"
+    c "(Peut-être que Rémi est quelque part dans la réserve, ou dans son bureau.)"
 
 # game/chapter4.rpy:2790
 translate french c4library_98ba7ce2:
@@ -3130,19 +3130,19 @@ translate french c4library_98ba7ce2:
 translate french c4library_64429502:
 
     # Em "You know, this section is usually for staff only."
-    Em "Vous savez, cette section est réservée au personnel."
+    Em "Vous savez, cette section est réservée au personnel uniquement."
 
 # game/chapter4.rpy:2796
 translate french c4library_176a6864:
 
     # c "I'm just looking for Remy. I'm supposed to drop off this PDA."
-    c "Pardon, mais je cherche Remy, je dois lui remettre ce PDA."
+    c "Je cherche Rémi, je suis censé lui remettre ce PDA."
 
 # game/chapter4.rpy:2798
 translate french c4library_95c88821:
 
     # Em mean b "Well, he is not working today. Apparently he has other engagements."
-    Em mean b "Eh bien, il n'est pas au travail aujourd'hui. Apparement il a rendez-vous ailleurs."
+    Em mean b "Eh bien, il ne travaille pas aujourd'hui. Apparement il a d'autres engagements."
 
 # game/chapter4.rpy:2800
 translate french c4library_b1c0823f:
@@ -3154,7 +3154,7 @@ translate french c4library_b1c0823f:
 translate french c4library_587ce40e:
 
     # c "Can't I just leave the PDA here?"
-    c "Je ne peux pas laisser le PDA ici ?"
+    c "Je ne peux pas juste laisser le PDA ici ?"
 
 # game/chapter4.rpy:2804
 translate french c4library_a0fe0103:
@@ -3178,19 +3178,19 @@ translate french c4library_4c6914b8:
 translate french c4library_b23f25ee:
 
     # Em "To be honest, I am glad that you are still here. Remember, I said that I believed you when you told me your side of the story."
-    Em "Sincèrement, je suis ravie que voyez encore là. Souvenez vous, j'ai avoué vous croire après que vous nous ayez tout raconté sur votre monde."
+    Em "Sincèrement, je suis ravie que soyez encore là. Souvenez vous, j'ai avoué vous croire quand que vous nous avez raconté votre version de l'histoire."
 
 # game/chapter4.rpy:2812
 translate french c4library_833880c4:
 
     # Em ques b "I always have to do what is in the public's best interest, and now they will not blame me if you have any connection with Reza. I hope you can understand that."
-    Em ques b "Je dois toujours agir dans l'intérêt du public. Maintenant, si vous avez un lien quelconque avec les agissements de Reza, personne ne pourra me repprocher ma décision. J'espère vous êtes conscient de cela."
+    Em ques b "Je dois toujours agir dans l'intérêt du public. Maintenant, si vous avez un lien quelconque avec les agissements de Reza, personne ne pourra me reprocher ma décision. J'espère que vous pouvez comprendre cela."
 
 # game/chapter4.rpy:2814
 translate french c4library_6b596a9e:
 
     # Em normal b "Here is Remy's address, in case you need it."
-    Em normal b "Enfin, voici l'adresse de Remy, au cas où."
+    Em normal b "Enfin, voici l'adresse de Rémi, au cas où."
 
 # game/chapter4.rpy:2816
 translate french c4library_e897fbb0:
@@ -3208,7 +3208,7 @@ translate french c4library_7d6298bc:
 translate french c4library_f692f8a4:
 
     # c "I came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c "Bonjour Remy, je viens t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
+    c "Je suis venu t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2834
 translate french c4library_07d1113d:
@@ -3220,31 +3220,31 @@ translate french c4library_07d1113d:
 translate french c4library_55a08bac:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un d'eux !"
+    Ry smile "Hé, c'est un de vos PDAs. Je savais bien que je finirais par mettre la main sur l'un d'eux."
 
 # game/chapter4.rpy:2838
 translate french c4library_e1a48044:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c "Oui, et maintenant tu as toute les connaissances humaines à portée de griffe."
+    c "Oui, et maintenant tu as toutes les connaissances humaines que tu désires."
 
 # game/chapter4.rpy:2840
 translate french c4library_3a588917:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal "Tu n'imagine pas depuis combien de temps j'attends ce moment."
+    Ry normal "Tu n'imagines pas à quel point j'attendais ce moment."
 
 # game/chapter4.rpy:2842
 translate french c4library_91c4e706:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry "Je ne travaille pas aujourd'hui, certes. Mais crois bien que je vais jeter un oeil à ce PDA dès que possible."
+    Ry "Je ne travaille pas aujourd'hui, mais je vais quand même y jeter un oeil dès que possible."
 
 # game/chapter4.rpy:2844
 translate french c4library_890850e8:
 
     # c "I'm just going to leave you to it, then."
-    c "D'accord. Je vais te laisser, alors."
+    c "Je vais te laisser à tes affaires, alors."
 
 # game/chapter4.rpy:2846
 translate french c4library_b97e7acd:
@@ -3268,7 +3268,7 @@ translate french c4library_7d6298bc_1:
 translate french c4library_460db703:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c "Je suis venu t'apporter ceci. Je suis passé à la bibliothèque mais Emera a refusé que je le laisse à ton bureau."
+    c "Je suis venu t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2871
 translate french c4library_07d1113d_1:
@@ -3280,31 +3280,31 @@ translate french c4library_07d1113d_1:
 translate french c4library_55a08bac_1:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un deux !"
+    Ry smile "Hé, c'est un de vos PDAs. Je savais bien que je finirais par mettre la main sur l'un d'eux."
 
 # game/chapter4.rpy:2875
 translate french c4library_e1a48044_1:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c "Oui, et maintenant tu as toute les connaissances humaines à portée de griffe."
+    c "Oui, et maintenant tu as toutes les connaissances humaines que tu désires."
 
 # game/chapter4.rpy:2877
 translate french c4library_3a588917_1:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal "Tu n'imagines pas depuis combien de temps j'attends ce moment."
+    Ry normal "Tu n'imagines pas à quel point j'attendais ce moment."
 
 # game/chapter4.rpy:2879
 translate french c4library_91c4e706_1:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry "Je ne travaille pas aujourd'hui, certes. Mais croiyez bien que je vais jeter un oeil à ce PDA dès que possible."
+    Ry "Je ne travaille pas aujourd'hui, mais je vais quand même y jeter un oeil dès que possible."
 
 # game/chapter4.rpy:2881
 translate french c4library_890850e8_1:
 
     # c "I'm just going to leave you to it, then."
-    c "J'imagine. Je te laisse, j'ai encore des choses à faire."
+    c "Je vais te laisser à tes affaires, alors."
 
 # game/chapter4.rpy:2883
 translate french c4library_b97e7acd_1:
@@ -3328,7 +3328,7 @@ translate french c4library_7d6298bc_2:
 translate french c4library_460db703_1:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c "Je suis venu vous apporter ceci. Je suis passé à la bibliothèque mais Emera a refusé que je le laisse à votre bureau."
+    c "Je suis venu t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2907
 translate french c4library_07d1113d_2:
@@ -3340,25 +3340,25 @@ translate french c4library_07d1113d_2:
 translate french c4library_55a08bac_2:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un deux !"
+    Ry smile "Hé, c'est un de vos PDAs. Je savais bien que je finirais par mettre la main sur l'un d'eux."
 
 # game/chapter4.rpy:2911
 translate french c4library_e1a48044_2:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c "Oui, et maintenant tu as toutes les connaissances humaines à portée de griffe."
+    c "Oui, et maintenant tu as toutes les connaissances humaines que tu désires."
 
 # game/chapter4.rpy:2913
 translate french c4library_3a588917_2:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal "Tu n'imagines pas depuis combien de temps j'attends ce moment."
+    Ry normal "Tu n'imagines pas à quel point j'attendais ce moment."
 
 # game/chapter4.rpy:2915
 translate french c4library_91c4e706_2:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry "Je ne travaille pas aujourd'hui, certes. Mais croiyez bien que je vais jeter un oeil à ce PDA dès que possible."
+    Ry "Je ne travaille pas aujourd'hui, mais je vais quand même y jeter un oeil dès que possible."
 
 # game/chapter4.rpy:2917
 translate french c4library_890850e8_2:
@@ -3376,19 +3376,19 @@ translate french c4library_b97e7acd_2:
 translate french c4library_f76092e2_2:
 
     # c "Enjoy."
-    c "Amuse-toi bien."
+    c "Profite bien."
 
 # game/chapter4.rpy:2940
 translate french c4library_e63a1f9c:
 
     # Ry "Oh, it's you. I don't think it's a good time for you to visit right now, though."
-    Ry "Oh, c'est toi. Je ne crois pass que ce sois le bon moment pour me rendre visite."
+    Ry "Oh, c'est toi. Je ne crois pas que ce soit le bon moment pour me rendre visite."
 
 # game/chapter4.rpy:2942
 translate french c4library_460db703_2:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c "Je suis juste venu te remettre ceci. Je suis passé à ton bureau, mais Emera a refusé que je le laisse là-bas."
+    c "Je suis venu t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2944
 translate french c4library_07d1113d_3:
@@ -3400,13 +3400,13 @@ translate french c4library_07d1113d_3:
 translate french c4library_00fbcf15:
 
     # Ry normal "Oh, it's one of your PDAs. I was really looking forward to this."
-    Ry normal "Oh, mais c'est l'un de vos PDAs, j'avais vraiment hâte d'en avoir un entre les griffes !"
+    Ry normal "Oh, mais c'est l'un de vos PDAs, j'avais vraiment hâte d'en avoir un entre les griffes."
 
 # game/chapter4.rpy:2948
 translate french c4library_c96980f9:
 
     # c "Well, here you go."
-    c "Oh, dans ce cas, voici pour toi."
+    c "Oh, dans ce cas, voilà pour toi."
 
 # game/chapter4.rpy:2950
 translate french c4library_c94450f0:
@@ -3418,7 +3418,7 @@ translate french c4library_c94450f0:
 translate french c4library_f76092e2_3:
 
     # c "Enjoy."
-    c "Amuse-toi bien."
+    c "Profite bien."
 
 # game/chapter4.rpy:2971
 translate french c4library_759894d0:
@@ -3436,7 +3436,7 @@ translate french c4library_aa1ad311:
 translate french c4library_6f34a4d5:
 
     # c "(Well, if he isn't here and left the door open, that's no good.)"
-    c "(S'il n'est pas là et a laissé la porte ouverte, ce n'est pas bon signe.)"
+    c "(S'il n'est pas là mais qu'il a laissé la porte ouverte, ce n'est pas bon signe.)"
 
 # game/chapter4.rpy:2981
 translate french c4library_03fc7431:
@@ -3472,7 +3472,7 @@ translate french c4library_17a7ece9:
 translate french c4library_f51e808a:
 
     # Sb "I see. Well, I know he met you when you initially arrived here, at the very least."
-    Sb "Je vois. Je sais que c'est lui qui vous a accueilli après votre arrivée."
+    Sb "Je vois. Je sais que c'est lui qui t'a accueilli à ton arrivée, tout du moins."
 
 # game/chapter4.rpy:3025
 translate french c4library_ff12b77a:
@@ -3508,19 +3508,19 @@ translate french c4library_82410399:
 translate french c4library_32dc6903:
 
     # Sb "It's always a shame when things like this happen, when there are resources to help people who have issues and illnesses."
-    Sb "C'est toujours décevant de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
+    Sb "C'est toujours dommage de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
 
 # game/chapter4.rpy:3041
 translate french c4library_b56454d2:
 
     # Sb "It's a mark on our society, a reminder that we let it happen. Someone suffered so much that they took their own life."
-    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un a souffert au point de s'ôter la vie."
+    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un souffrait au point de s'en ôter lui même la vie."
 
 # game/chapter4.rpy:3043
 translate french c4library_541184d2:
 
     # Sb "But what more can you do?"
-    Sb "Mais, que voulez vous qu'on fasse de plus ?"
+    Sb "Mais, que veux-tu qu'on fasse de plus ?"
 
 # game/chapter4.rpy:3047
 translate french c4library_759b976c_1:
@@ -3538,25 +3538,25 @@ translate french c4library_82410399_1:
 translate french c4library_32dc6903_1:
 
     # Sb "It's always a shame when things like this happen, when there are resources to help people who have issues and illnesses."
-    Sb "C'est toujours décevant de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
+    Sb "C'est toujours dommage de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
 
 # game/chapter4.rpy:3053
 translate french c4library_b56454d2_1:
 
     # Sb "It's a mark on our society, a reminder that we let it happen. Someone suffered so much that they took their own life."
-    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un a souffert au point de s'ôter la vie."
+    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un souffrait au point de s'en ôter lui même la vie."
 
 # game/chapter4.rpy:3055
 translate french c4library_541184d2_1:
 
     # Sb "But what more can you do?"
-    Sb "Mais, que voulez vous qu'on fasse de plus ?"
+    Sb "Mais, que veux-tu qu'on fasse de plus ?"
 
 # game/chapter4.rpy:3059
 translate french c4library_9f36a9ba:
 
     # Sb "Bullied? By whom?"
-    Sb "Malmené ? Par qui, tu le sais ?"
+    Sb "Malmené ? Par qui ?"
 
 # game/chapter4.rpy:3061
 translate french c4library_c44802b0:
@@ -3580,13 +3580,13 @@ translate french c4library_4ccb10f0:
 translate french c4library_71044caa:
 
     # Sb "If that was a cause for his suicide, that would be a very serious matter."
-    Sb ""
+    Sb "Si cette histoire est l'une des raisons qui l'a poussé à se suicider, ça serait très grave."
 
 # game/chapter4.rpy:3069
 translate french c4library_5eb39e2c:
 
     # c "I'm just saying how it is."
-    c "Si cette histoire est l'une des raisons qui l'a poussé à se suicider, ça serait très grave."
+    c "Je dis juste les choses telles qu'elles sont."
 
 # game/chapter4.rpy:3071
 translate french c4library_de251424:
@@ -3604,13 +3604,13 @@ translate french c4library_89c2bed2:
 translate french c4library_5cdbca69:
 
     # Sb "One or two instances of being scolded hardly constitutes bullying, especially if Emera had good reasons."
-    Sb "Une ou deux fois, ça ne peut pas être vraiment considéré comme du harcèlement ou quoi. Si ça se trouve il y avait une bonne raison pour que ces scènes aient lieux."
+    Sb "Une ou deux fois, ça ne peut pas être vraiment considéré comme du harcèlement, en particulier si Emera avait de bonnes raisons."
 
 # game/chapter4.rpy:3077
 translate french c4library_f40bbda7:
 
     # Sb "Without hard proof, you can't make a case or accuse Emera of bullying."
-    Sb "Sans preuve tangible, tu ne pourras rien contre Emera."
+    Sb "Sans preuve tangible, tu ne ouvrir d'enquête ou accuser Emera d'harcèlement."
 
 # game/chapter4.rpy:3079
 translate french c4library_5d6e5ae5:
@@ -3628,7 +3628,7 @@ translate french c4library_ebf628fb:
 translate french c4library_0914c74d:
 
     # Sb "I'd also recommend that you keep your opinion on this matter to yourself."
-    Sb "Aussi, je te conseilles vivement de garder tout ce que tu m'as dit pour toi."
+    Sb "Aussi, je te conseille vivement de garder ton opinion sur le sujet pour toi."
 
 # game/chapter4.rpy:3085
 translate french c4library_4e5a4202:
@@ -3640,25 +3640,25 @@ translate french c4library_4e5a4202:
 translate french c4library_8a26ee04:
 
     # Sb "Voicing an opinion like that without the evidence to back it up could have consequences. Especially if you're dealing with someone like Emera."
-    Sb "Dire de tels choses sans avoir de preuves pourrait avoir de facheuses conséquences, surtout si tu t'en prends à quelqu'un comme Emera."
+    Sb "Dire de tels choses sans avoir de preuves à l'appui pourrait avoir de fâcheuses conséquences, surtout si tu t'en prends à quelqu'un comme Emera."
 
 # game/chapter4.rpy:3089
 translate french c4library_89aefe22:
 
     # c "I see."
-    c "Je vois"
+    c "Je vois."
 
 # game/chapter4.rpy:3091
 translate french c4library_03ab34e1:
 
     # Sb "I'm sorry you had to find Remy like this, though."
-    Sb "Je suis désolé que tu ais eu à trouver Rémi comme ça."
+    Sb "Je suis désolé que tu aies eu à trouver Rémi comme ça."
 
 # game/chapter4.rpy:3093
 translate french c4library_12593beb:
 
     # Sb "In any case, I'll handle the rest. Feel free to take the day off, if you need to."
-    Sb "Je m'occupe du reste va. N'hésite pas à prendre congé si tu veux te changer les idées."
+    Sb "Je vais m'occuper du reste. N'hésite pas à prendre congé, si tu en ressens le besoin."
 
 # game/chapter4.rpy:3095
 translate french c4library_86148265:
