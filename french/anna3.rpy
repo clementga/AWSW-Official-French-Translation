@@ -328,7 +328,7 @@ translate french _call_skipcheck_5bd33aec:
 translate french _call_skipcheck_c9d4967f:
 
     # An normal b "Don't hold your breath. It'll be processing for some time, and the resulting data will be so vast that I'll probably end up studying it for days."
-    An normal b "Ne retiens pas ton souffle. Il va falloir un moment pour calculer, mais les données résultantes vont être si fournis, que je vais probablement finir par les étudiers pendant des jours. "
+    An normal b "Ne retiens pas ton souffle. Il va falloir un moment pour calculer, mais les données résultantes vont être si fournis, que je vais probablement finir par les étudiers pendant des jours."
 
 # game/anna3.rpy:284
 translate french _call_skipcheck_bf7914e7:
@@ -364,7 +364,7 @@ translate french _call_skipcheck_f4cc1e47:
 translate french _call_skipcheck_2c080525:
 
     # c "Just one more way nature gave us the short end of the stick."
-    c "Une fois de plus, la nature nous a donné la courte paille."
+    c "Une fois de plus, la nature ne nous a pas gâté."
 
 # game/anna3.rpy:296
 translate french _call_skipcheck_774b2dfd:
@@ -430,7 +430,7 @@ translate french _call_skipcheck_63d80f94:
 translate french _call_skipcheck_3801efff:
 
     # An normal b "Now it'll go right under the microscope."
-    An normal b "Maintenant, ça part droit sous le microscope."
+    An normal b "Maintenant, ça part direct sous le microscope."
 
 # game/anna3.rpy:343
 translate french _call_skipcheck_e468f6d1:
@@ -538,7 +538,7 @@ translate french _call_skipcheck_56dcf7cf:
 translate french _call_skipcheck_1d5e1390:
 
     # An "Do they get thicker at least, or what else happens when they grow?"
-    An "Est-ce qu'ils deviennent plus épais au moins, ou qu'est-ce qui se passe quand ils poussent ?"
+    An "Est-ce qu'ils deviennent plus épais au moins, ou que se passe-t-il d'autre quand ils poussent ?"
 
 # game/anna3.rpy:404
 translate french _call_skipcheck_440bf815:
@@ -568,7 +568,7 @@ translate french _call_skipcheck_ada9c9ed:
 translate french _call_skipcheck_fffa4ac0:
 
     # c "I'm just saying, our date didn't take all that long, and you mentioned you'll already have days worth of data from that machine."
-    c "C'est pas pour dire, mais notre Rendez-vous n'a pas duré aussi longtemps, et tu as dis que tu as déjà obtenu plusieurs jours de données a étudier de cette machine."
+    c "C'est pas pour dire, mais notre rendez-vous n'a pas duré aussi longtemps, et tu as dis que tu as déjà obtenu plusieurs jours de données a étudier de cette machine."
 
 # game/anna3.rpy:415
 translate french _call_skipcheck_168b3fa1:
@@ -622,7 +622,7 @@ translate french _call_skipcheck_225770af:
 translate french _call_skipcheck_b86e3b1f:
 
     # An sad b "I guess we can skip that part, because I certainly don't want to deal with you if you start screaming or crying, or whatever else."
-    An sad b "Autant passer cette étape, car je n'ai certainement pas envie de devoir te gérer si tu te met à crier, pleurer ou quoi que ce soit d'autre."
+    An sad b "Autant passer cette étape, car je n'ai certainement pas envie de te gérer si tu te met à crier, pleurer ou quoi que ce soit d'autre."
 
 # game/anna3.rpy:487
 translate french _call_skipcheck_3b1c406e:
@@ -856,7 +856,7 @@ translate french _call_skipcheck_0837e430:
 translate french _call_skipcheck_e0bc6109:
 
     # An sad b "Erhm, no. Apparently, you get it, though."
-    An sad b "Erh... nan. Mais tu as l'air de comprendre."
+    An sad b "Erh... non. Mais tu as l'air de comprendre."
 
 # game/anna3.rpy:616
 translate french _call_skipcheck_28ebc67d:
@@ -868,7 +868,7 @@ translate french _call_skipcheck_28ebc67d:
 translate french _call_skipcheck_e69e42b8:
 
     # c "No."
-    c "non."
+    c "Non."
 
 # game/anna3.rpy:620
 translate french _call_skipcheck_80b7fddd:
@@ -880,7 +880,7 @@ translate french _call_skipcheck_80b7fddd:
 translate french _call_skipcheck_13c6142b:
 
     # An "Is your favorite color [persistent.playercolorname]?"
-    An "Est-ce que ta couleur favorite est le [persistent.playercolorname]?"
+    An "Est-ce que ta couleur favorite est le [persistent.playercolorname] ?"
 
 # game/anna3.rpy:624
 translate french _call_skipcheck_e69e42b8_1:
@@ -1132,7 +1132,7 @@ translate french _call_skipcheck_4eb35126:
 translate french _call_skipcheck_34123f5a:
 
     # An "Let's go then, shall we?"
-    An "bon, on peut y aller ?"
+    An "Bon, on peut y aller ?"
 
 # game/anna3.rpy:800
 translate french _call_skipcheck_e631bc97:
@@ -1168,7 +1168,7 @@ translate french _call_skipcheck_3238dc0a:
 translate french _call_skipcheck_6289c73b:
 
     # c "There's no need to make fun of me for it."
-    c "Inutile de te fiche de moi pour ça."
+    c "Inutile de te moquer de moi pour ça."
 
 # game/anna3.rpy:824
 translate french _call_skipcheck_d9082188:
@@ -1270,7 +1270,7 @@ translate french _call_skipcheck_6c1246b2:
 translate french _call_skipcheck_4812fd9e:
 
     # c "I'll keep that in mind, thanks!"
-    c "Je vais garder ça à l'esprit, merci."
+    c "Je vais garder ça à l'esprit, merci !"
 
 # game/anna3.rpy:891
 translate french _call_skipcheck_c6f84be9:
@@ -1504,7 +1504,7 @@ translate french _call_skipcheck_9f85b645:
 translate french _call_skipcheck_74636a73:
 
     # Ry "You know, if you ever want to come by and visit the library or need to know anything, feel free to ask me."
-    Ry tu sais, si tu veux passer à la bibliothèque ou me demander quelque chose, n'hésite pas à venir me voir."
+    Ry "Tu sais, si tu veux passer à la bibliothèque ou me demander quelque chose, n'hésite pas à venir me voir."
 
 # game/anna3.rpy:1004
 translate french _call_skipcheck_565bdd6e:

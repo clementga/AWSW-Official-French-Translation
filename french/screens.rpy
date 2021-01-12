@@ -93,9 +93,9 @@ translate french strings:
 
     # screens.rpy:773
     old "Stop Skipping"
-    new "Arrêter le saut automatique"
+    new "Arrêter l'avance rapide"
 
     # screens.rpy:774
     old "Keep Skipping"
-    new "Continuer le saut automatique"
+    new "Continuer l'avance rapide"
 

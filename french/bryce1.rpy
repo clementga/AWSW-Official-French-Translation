@@ -4,13 +4,13 @@
 translate french bryce1_af6347bc:
 
     # m "Once again, I found myself within the police department, which seemed oddly quiet for this time of day."
-    m "Une fois de plus, je me retrouvais au poste de police, qui me semblait étrangement silencieux à cette heure-ci."
+    m "Une fois de plus, je me retrouvai au poste de police, qui me semblait étrangement silencieux à cette heure-ci."
 
 # game/bryce1.rpy:33
 translate french bryce1_035da1b9:
 
     # m "It didn't take me long to spot Bryce in his office."
-    m "Il ne m'a pas fallu longtemps avant de remarquer Bryce dans son bureau."
+    m "Il ne me fallut pas longtemps avant de remarquer Bryce dans son bureau."
 
 # game/bryce1.rpy:37
 translate french bryce1_89257397:
@@ -40,7 +40,7 @@ translate french bryce1_df11dec0:
 translate french bryce1_586e9ee6:
 
     # Br "Mhm, I see. Well, that's actually more helpful than you might think. Mannerisms, habits - all kinds of things would be useful to add to his profile and to get a better idea of him."
-    Br "Mhm, je vois. Eh bien, c'est en réalité plus utile que tu ne le crois. Les manières, les habitudes - toutes sortes de choses seraient utiles à ajouter à son dossier et avoir un meilleur aperçu de lui."
+    Br "Mhm, je vois. Eh bien, c'est en réalité plus utile que tu ne le crois. Les manières, les habitudes - toutes sortes de choses seraient utiles à ajouter à son dossier pour avoir un meilleur aperçu de lui."
 
 # game/bryce1.rpy:48
 translate french bryce1_d22825cb:
@@ -64,7 +64,7 @@ translate french bryce1_08d3dd2a:
 translate french bryce1_b28883c8:
 
     # c "Actually, I find it worrisome that the chief of police prefers to get drunk instead of hearing important information about a case."
-    c "En fait, je trouve ça inquiétant que le chef de la police préfère finir ivre plutôt que d'écouter d'importantes informations sur une affaire."
+    c "En fait, je trouve ça inquiétant que le chef de la Police préfère finir ivre plutôt que d'écouter d'importantes informations sur une affaire."
 
 # game/bryce1.rpy:65
 translate french bryce1_fe1efab4:
@@ -94,7 +94,7 @@ translate french bryce1_c48dc32f:
 translate french bryce1_ac0af087:
 
     # Br "Now, please excuse me before I miss happy hour."
-    Br "Bien, excuse-moi je vais louper la Happy Hour."
+    Br "Bien, excuse-moi, je vais louper la Happy Hour."
 
 # game/bryce1.rpy:87
 translate french bryce1_76b2fe88:
@@ -106,7 +106,7 @@ translate french bryce1_76b2fe88:
 translate french bryce1_dd027f19:
 
     # n "My meeting with Bryce ended before it even had a chance to pick up."
-    n "Ma rencontre avec Bryce s'est terminée avant même d'avoir commencée."
+    n "Ma rencontre avec Bryce s'est terminée avant même d'avoir commencé."
 
 # game/bryce1.rpy:91
 translate french bryce1_2bc32794:
@@ -130,7 +130,7 @@ translate french bryce1_fea37bc6:
 translate french bryce1_bc12bd7e:
 
     # n "Of course, not having a drunkard as a friend wasn't too bad of an outcome."
-    n "Bien sûr, ne pas avoir d'ami accroc à l'alcool n'est pas si mal non plus."
+    n "Bien sûr, ne pas avoir d'ami accro à l'alcool n'est pas si mal non plus."
 
 # game/bryce1.rpy:116
 translate french _call_syscheck_37_0f40089b:
@@ -162,7 +162,7 @@ translate french _call_syscheck_37_806ce7c2:
     # nvl clear
     # n "I might not be the wisest person that ever lived, but if I knew one thing, it was that getting on a dragon's bad side was not a very good idea."
     nvl clear
-    n "Je ne suis peut-être pas la personne la plus sage au monde, mais si je savais bien une chose, c'était que mettre un dragon en colère n'était pas une bonne idée."
+    n "Je n'étais peut-être pas la personne la plus sage au monde, mais si je savais bien une chose, c'était que mettre un dragon en colère n'était pas une bonne idée."
 
 # game/bryce1.rpy:152
 translate french _call_syscheck_37_ff7f9594:
@@ -210,7 +210,7 @@ translate french _call_skiptut_8_0ff5f677:
 translate french _call_skiptut_8_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "On dirait que vous avez déjà vu cela auparavant. Passer cette scène?"
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la fin de cette scène ?"
 
 # game/bryce1.rpy:242
 translate french _call_skiptut_8_e7709aa0:
@@ -234,7 +234,7 @@ translate french _call_skipcheck_8_0054b77b:
 translate french _call_skipcheck_8_f459e481:
 
     # c "Not too shabby, I have to admit."
-    c "Pas si miteux je dois admettre."
+    c "Pas si miteux, je dois admettre."
 
 # game/bryce1.rpy:287
 translate french _call_skipcheck_8_71808725:
@@ -258,7 +258,7 @@ translate french _call_skipcheck_8_6e8bd520:
 translate french _call_skipcheck_8_af6195fc:
 
     # Wr "Hey, you two. What can I bring you?"
-    Wr "Hey, vous-deux. Que puis-je vous servir ?"
+    Wr "Hey, vous deux. Que puis-je vous servir ?"
 
 # game/bryce1.rpy:299
 translate french _call_skipcheck_8_39d68eb9:
@@ -270,7 +270,7 @@ translate french _call_skipcheck_8_39d68eb9:
 translate french _call_skipcheck_8_61113c8f:
 
     # Wr "One generic beer for the chief of police, sure thing. How about you, [player_name]?"
-    Wr "Notre bière maison pour le chef de police, bien sûr. Et pour vous, [player_name] ?"
+    Wr "Notre bière maison pour le chef de la Police, bien sûr. Et pour vous, [player_name] ?"
 
 # game/bryce1.rpy:313
 translate french waitmenu_702e1676:
@@ -294,13 +294,13 @@ translate french waitmenu_bcc5b1e2:
 translate french waitmenu_118c9439:
 
     # m "He brought one for me as well, provided in a glass that seemed more appropriate for my kind."
-    m "Il en apporta pour moi aussi, servie dans un verre, plus aproprié pour moi."
+    m "Il en apporta pour moi aussi, servi dans une chope plus appropriée à ma morphologie."
 
 # game/bryce1.rpy:330
 translate french waitmenu_1353b25f:
 
     # Wr "There you go. Just call me if you need anything."
-    Wr "Voilà pour vous. Appelez-moi si il vous faut quoi-que ce soit."
+    Wr "Voilà pour vous. Appelez-moi si il vous faut quoi que ce soit."
 
 # game/bryce1.rpy:331
 translate french waitmenu_50600d31:
@@ -318,7 +318,7 @@ translate french waitmenu_3ec2cfd9:
 translate french waitmenu_773d8ecc:
 
     # c "There are a few things... I mean, they're probably not much, but anything might help, right?"
-    c "Il y a plusieurs choses... Je veux dire, ce n'est pas beaucoup, mais un rien peut aider, c'est ça ?"
+    c "Plusieurs choses... Je veux dire, ce n'est pas beaucoup, mais un rien peut aider, c'est ça ?"
 
 # game/bryce1.rpy:345
 translate french waitmenu_4e3d5c77:
@@ -330,7 +330,7 @@ translate french waitmenu_4e3d5c77:
 translate french waitmenu_80237363:
 
     # c "Well, the earliest memory I have of him was when we both went to the same school. We only shared a few classes, though, and a couple of friends."
-    c "Eh bien, le souvenir le plus lointain que j'ai de lui est quand nous allions tous deux à la même école. On était dans les mêmes cours que peu de fois, et on avait quelques amis en commun."
+    c "Eh bien, le souvenir le plus lointain que j'ai de lui remonte à quand nous allions tous deux à la même école. Nous n'avions que peu de cours en commun, cependant, et quelques amis communs."
 
 # game/bryce1.rpy:348
 translate french waitmenu_d0e93113:
@@ -348,43 +348,43 @@ translate french waitmenu_528630b1:
 translate french waitmenu_d6dfe5da:
 
     # c "Of course, his nature caused him to clash with others, sometimes even including the school staff, though his genuine enthusiasm also garnered praise from them. He was quite a character."
-    c "Evidemment, sa nature lui a causé des soucis avec les autres, parfois même avec les employés de l'école, mais son enthousiasme authentique lui a amené de la gloire. C'était un sacré personnage."
+    c "Evidemment, sa nature lui a causé des soucis avec les autres, parfois même avec les employés de l'école, mais son enthousiasme authentique lui a amené des félicitations. C'était un sacré personnage."
 
 # game/bryce1.rpy:351
 translate french waitmenu_162e9e6d:
 
     # c "After we all graduated, I didn't hear anything about him for a long time. Only some years later, after we found the portal, was I surprised to find out he was the human who would be sent to your world. He had volunteered."
-    c "Après l'école, je n'ai plus rien entendu dire sur lui pendant longtemps. C'est uniquement quelques années plus tard, après que nous ayons trouvé le portail, que j'ai été surpris d'apprendre que ce serait l'humain qui serait envoyé dans votre mondde. Il s'était porté volontaire."
+    c "Après l'école, je n'ai plus rien entendu dire sur lui pendant longtemps. C'est uniquement quelques années plus tard, après que nous avons trouvé le portail, que j'ai été surpris d'apprendre que ce serait l'humain qui serait envoyé dans votre monde. Il s'était porté volontaire."
 
 # game/bryce1.rpy:352
 translate french waitmenu_1a6531fd:
 
     # c "It wasn't until I was already here that I actually met him again, however brief our interactions were. But then I already told you everything about what happened prior to the eventual scuffle with Maverick."
-    c "Et ce n'est que lorsque je suis arrivé que je l'ai rencontré à nouveau, même si nos interactions furent brèves. Et après, je t'ai déjà tout raconté à propos de ce qui s'est passé avant l'incident avec Maverick."
+    c "Et ce n'est que lorsque je suis arrivé ici que je l'ai rencontré à nouveau, même si nos interactions furent brèves. Et après, je t'ai déjà tout raconté à propos de ce qui s'est passé avant l'incident avec Maverick."
 
 # game/bryce1.rpy:353
 translate french waitmenu_e9b001dc:
 
     # c "There's only one thing that stands out to me about those events: In the restaurant, when he told me about the letter, he mentioned I would know how to read its secret message."
-    c "Il n'y a qu'une chose qui me semble bizarre avec ces ébènements : Au restaurant, quand il m'a parlé de la lettre, il m'a dit que je saurais comment déchiffrer le message secret."
+    c "Il n'y a qu'une chose qui me semble bizarre avec ces événements : Au restaurant, quand il m'a parlé de la lettre, il m'a dit que je saurais comment déchiffrer le message secret."
 
 # game/bryce1.rpy:354
 translate french waitmenu_496c14eb:
 
     # c "I know he values the use of his own intellect, but when I received the letter later, he apparently fully expected me to remember a random chemistry class we had together years ago in order to see the message."
-    c "Je sais qu'il met en valeur l'utilisation de son génie, mais quand j'ai reçu la lettre plus tard, il s'attendait apparemment à ce que je me souvienne d'un cours de chimie parmi tant d'autres que nous avons passé ensemble des années auparavant pour comprendre ce message."
+    c "Je sais qu'il met en valeur l'utilisation de son génie, mais quand j'ai reçu la lettre plus tard, il s'attendait apparemment à ce que je me souvienne d'un cours de chimie parmi tant d'autres que nous avons passés ensemble des années auparavant, pour comprendre ce message."
 
 # game/bryce1.rpy:358
 translate french waitmenu_68d6d001:
 
     # Br "I see, so you did not arrange this beforehand?"
-    Br "Ke vois, donc ce n'était pas un coup monté ?"
+    Br "Je vois, donc ce n'était pas un coup monté ?"
 
 # game/bryce1.rpy:359
 translate french waitmenu_fbab1a19:
 
     # c "Not at all. I had no idea."
-    c "Pas du tout. Je n'en avait aucune idée."
+    c "Pas du tout. Je n'en avais aucune idée."
 
 # game/bryce1.rpy:360
 translate french waitmenu_6377318a:
@@ -402,7 +402,7 @@ translate french waitmenu_ced70947:
 translate french waitmenu_e0fda1f2:
 
     # Br "We do as well, and you can believe that."
-    Br "Nous aussi, et ça tu peux le croire."
+    Br "Nous aussi, ça, tu peux le croire."
 
 # game/bryce1.rpy:366
 translate french waitmenu_96107e98:
@@ -414,7 +414,7 @@ translate french waitmenu_96107e98:
 translate french waitmenu_7cc8b85d:
 
     # Br "He could have easily done so since he was in charge of Reza and everything, but he totally shouldn't have. I mean, we wouldn't do anything of the sort with you. Everything he has done in regard to Reza has been a poor show of character."
-    Br "Il aurait pu le faire facilement vu qu'il est en charge de Reza, mais il n'aurait pas dû. Je veux dire, nous ne ferions rien de la sorte avec toi. Tout ce qu'il a fait à Reza c'est une démonstration de mauvais caractère."
+    Br "Il aurait pu le faire facilement, vu qu'il est en charge de Reza, mais il n'aurait pas dû. Je veux dire, nous ne ferions rien de la sorte avec toi. Tout ce qu'il a fait à Reza, c'est une démonstration de mauvais caractère."
 
 # game/bryce1.rpy:368
 translate french waitmenu_5fc73175:
@@ -474,7 +474,7 @@ translate french waitmenu_8725758a:
 translate french waitmenu_a7945234:
 
     # Br "Oh, come on and stay a little. Considering we're here already, might as well enjoy the evening, right? I mean, you don't have to, but I certainly will. Or do you need to be somewhere?"
-    Br "Oh, allez reste un peu plus. Vu qu'on est déjà là, tu devrais profiter de la soirée, pas vrai ? Enfin, je ne t'oblige pas, mais moi je vais en profiter. Ou alors tu es attendu quelque part ?"
+    Br "Oh, allez, reste un peu plus. Vu qu'on est déjà là, tu devrais profiter de la soirée, pas vrai ? Enfin, je ne t'oblige pas, mais moi, je vais en profiter. Ou alors tu es attendu quelque part ?"
 
 # game/bryce1.rpy:404
 translate french waitmenu_38331395:
@@ -498,13 +498,13 @@ translate french waitmenu_b3f90bd9:
 translate french waitmenu_5b2c4c42:
 
     # Br "This one's for you, silly."
-    Br "Celle-là est pour toi, bêta."
+    Br "Celle-là est pour toi, bêta !"
 
 # game/bryce1.rpy:416
 translate french waitmenu_173b8fb8:
 
     # Br "Oh, come on, just try a little. Even if you don't like beer, you haven't had one like this before."
-    Br "Oh, allez, goûte-en un peu. Même si tu n'aimes pas la bière, tu n'en as jamais gouté une aussi bonne que celle-là."
+    Br "Oh, allez, goûtes-en un peu. Même si tu n'aimes pas la bière, tu n'en as jamais goûté une aussi bonne que celle-là."
 
 # game/bryce1.rpy:420
 translate french waitmenu_a89274f8:
@@ -534,13 +534,13 @@ translate french waitmenu_76b2fe88:
 translate french waitmenu_74d8976a:
 
     # n "Without another word, I got up from my seat and left."
-    n "Sans en dire plus, je me levais de mon siège puis partis."
+    n "Sans en dire plus, je me levai de mon siège puis partis."
 
 # game/bryce1.rpy:431
 translate french waitmenu_51382e72:
 
     # n "Luckily, I didn't have much trouble finding my way back alone. I certainly couldn't stand spending any more time with someone like Bryce."
-    n "Heureusement, je n'eus pas de mal à retrouver mon chemin. Je ne pouvais certainement pas supporter le fait de passer plus de temps avec quelqu'un comme Bryce."
+    n "Heureusement, je n'eus pas de mal à retrouver mon chemin. Je ne pouvais sûrement pas supporter le fait de passer plus de temps avec quelqu'un comme Bryce."
 
 # game/bryce1.rpy:432
 translate french waitmenu_35414c30:
@@ -576,7 +576,7 @@ translate french _call_syscheck_39_8b86f8ee:
 translate french _call_syscheck_39_0b6bf5ef:
 
     # Br "That's a shame, but I won't stop you."
-    Br "C'est une honte, mais je ne t'en empêcherai pas."
+    Br "C'est dommage, mais je ne t'en empêcherai pas."
 
 # game/bryce1.rpy:488
 translate french _call_syscheck_39_76b2fe88:
@@ -594,7 +594,7 @@ translate french _call_syscheck_39_09439738:
 translate french _call_syscheck_39_54a8b257:
 
     # n "I could certainly enjoy myself without alcohol and those who partook in its consumption."
-    n "Je pouvais bien m'amuser sans alcool et ceux qui aidaient à cette consommation."
+    n "Je pouvais bien m'amuser sans alcool, ni ceux qui en consommaient à outrance."
 
 # game/bryce1.rpy:493
 translate french _call_syscheck_39_09e57abf:
@@ -630,13 +630,13 @@ translate french _call_syscheck_40_8b86f8ee:
 translate french _call_syscheck_40_b8efe23b:
 
     # m "Bryce was just about to start on his second when he suddenly spoke up."
-    m "Bryce était sur le point de commencer à boire sa deuxième, lorsqu'il dit."
+    m "Bryce était sur le point de commencer à boire sa deuxième bière, lorsqu'il dit :"
 
 # game/bryce1.rpy:549
 translate french _call_syscheck_40_e589dbf6:
 
     # Br "You know what, why don't we have ourselves a drinking contest?"
-    Br "Tu sais quoi, pourquoi on ne se ferait pas un concours de bière ?"
+    Br "Tu sais quoi, pourquoi on ne se ferait pas un concours de descente ?"
 
 # game/bryce1.rpy:553
 translate french _call_syscheck_40_b90b74c8:
@@ -732,31 +732,31 @@ translate french _call_syscheck_41_0f40089b:
 translate french _call_syscheck_41_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s "Vous avez rejeté l'invitation de Bryce ! Mais encore."
+    s "Vous avez rejeté l'invitation de Bryce ! Peu importe."
 
 # game/bryce1.rpy:610
 translate french _call_syscheck_41_8b86f8ee:
 
     # s "You rejected Bryce's invitation. Why is anyone's guess."
-    s "Vous avez rejeté l'invitation de Bryce ! On ne se demande pas pourquoi."
+    s "Vous avez rejeté l'invitation de Bryce ! C'était prévisible."
 
 # game/bryce1.rpy:630
 translate french _call_syscheck_41_7243e5f4:
 
     # c "(Considering they don't even have cars, at least I won't have to worry about drinking and driving.)"
-    c "(Comme il n'y a même pas de voiture à ramener, je n'aurais pas à m'inquiéter de conduire après ça.)"
+    c "(Comme il n'y a même pas de voiture à ramener, je n'aurai pas à m'inquiéter de conduire après ça.)"
 
 # game/bryce1.rpy:634
 translate french _call_syscheck_41_f15a69da:
 
     # Br "The rules are simple. We both get a round, then we wait a few moments until the next one so the effects can kick in. Whoever gives up first loses."
-    Br "Les règles son simples : On bois chacun notre tour et on attends que l'alcool monte avant d'en reprendre une. Celui qui abandonne le premier a perdu."
+    Br "Les règles sont simples : On boit chacun notre tour et on attend que l'alcool monte avant d'en reprendre une. Celui qui abandonne le premier a perdu."
 
 # game/bryce1.rpy:640
 translate french _call_syscheck_41_37241e44:
 
     # Br "Sure, just wait until you have a swig of the real stuff and we'll see how easy it is for you."
-    Br "Bien sûr ! Attends juste d'avoir bu un ou deux verre avant de dire encore que c'est facile."
+    Br "Bien sûr ! Attends juste d'avoir bu un ou deux verres avant de dire encore que c'est facile."
 
 # game/bryce1.rpy:646
 translate french _call_syscheck_41_60623633:
@@ -780,44 +780,44 @@ translate french _call_syscheck_41_24bf3ebf:
 translate french _call_syscheck_41_95920217:
 
     # m "He made a show of looking me in the eyes while he lowered his muzzle into the bowl before he started guzzling his drink noisily. It was gone in seconds. Certainly, this was going to be tough."
-    m "Il ne m'a pas lâché des yeux même en ayant le museau dans son bol, et il s'est mis à boire sans aucune discrétion. Le bol s'est vidé en quelques secondes, j'ai alors compris que ce n'était pas gagné."
+    m "Il ne me lâcha pas des yeux même en ayant le museau dans son bol, et il se mit à boire sans aucune discrétion. Le bol se vida en quelques secondes, je compris alors que ce n'était pas gagné."
 
 # game/bryce1.rpy:665
 translate french _call_syscheck_41_120e03dd:
 
     # m "My confidence faltered, but there was no turning back now. How did I think I could win in a drinking contest against a frickin' dragon?"
-    m "Ma confiance a commencé à fiche le camp, mais impossible de faire machine arrière. Comment avais-je pensé pouvoir gagner un concours de descente contre un foutu dragon ?"
+    m "Ma confiance commença à ficher le camp, mais impossible de faire machine arrière. Comment avais-je pensé pouvoir gagner un concours de descente contre un foutu dragon ?"
 
 # game/bryce1.rpy:669
 translate french _call_syscheck_41_8b9c58f0:
 
     # m "Nevertheless, I grasped the drink, putting on the best show I could while I tried to recreate Bryce's feat. After the first sip, however, I realized it was very different from any other beer I had tried before, yet I persevered through the intense taste until the glass was empty."
-    m "Tout de même, j'ai saisi ma choppe et ai commencé à boire comme un homme, afin de ressembler à Bryce mais à la façon d'un humain. Après avoir avalé la première gorgée, j'ai aussitôt remarqué que cette bière était loin de toute celles que j'avais bu avant."
-    m "J'ai malgré tout insisté jusqu'à ce que mon verre soit vide malgré le goût très fort."
+    m "Tout de même, je saisis ma chope et commençai à boire comme un homme, afin de ressembler à Bryce mais à la façon d'un humain. Après avoir avalé la première gorgée, je remarquai aussitôt que cette bière était loin de toutes celles que j'avais bues avant."
+    m "J'insistai malgré tout jusqu'à ce que mon verre soit vide, malgré le goût très fort."
 
 # game/bryce1.rpy:673
 translate french _call_syscheck_41_c866ee43:
 
     # m "I probably wasn't as impressive as Bryce had been just moments earlier, but I couldn't afford to show any weakness. My plan was cut short, though, as I set down the glass and an unusually strong aftertaste hit me, causing me to make a face."
-    m "Je n'avais certainement pas été aussi impressionnant que Bryce, mais je ne pouvais pas montrer un quelconque signe de faiblesse. Ça aurait été réussi si un arrière goût particulièrement amère ne m'avais pas fait grimacé."
+    m "Je n'avais certainement pas été aussi impressionnant que Bryce, mais je ne pouvais pas montrer un quelconque signe de faiblesse. J'aurais réussi à ne pas en montrer, si un arrière-goût particulièrement amer ne m'avait pas fait grimacer."
 
 # game/bryce1.rpy:677
 translate french _call_syscheck_41_e35de9a9:
 
     # Br "How'd you like it?"
-    Br "Comment t'as trouvé ?"
+    Br "Comment t'as trouvé ça ?"
 
 # game/bryce1.rpy:678
 translate french _call_syscheck_41_0c6f4401:
 
     # c "Ugh, this is some really strong stuff."
-    c "Oh put... Plus fort que de l'alcool de bonhomme, de la bière de dragon !"
+    c "Ouch... Bon sang, elle est forte !"
 
 # game/bryce1.rpy:682
 translate french _call_syscheck_41_d49e7689:
 
     # Br "I told ya. You better know beforehand how much you can take, or it'll hit you harder later on. Wanna give up already?"
-    Br "Je t'ai prévenu. Tu ferais mieux de faire gaffe avec ça, tu vas voir qu'à un moment ça va cogner fort ! A moins que tu veuilles abandonner maintenant ?"
+    Br "Je t'avais prévenu. Tu ferais mieux de faire gaffe avec ça, tu vas voir qu'à un moment, ça va cogner fort ! A moins que tu veuilles abandonner maintenant ?"
 
 # game/bryce1.rpy:688
 translate french _call_syscheck_41_c506eba2:
@@ -829,7 +829,7 @@ translate french _call_syscheck_41_c506eba2:
 translate french _call_syscheck_41_fa181c86:
 
     # Br "That brought out your fighting spirit, huh? I like that."
-    Br "Le guerrier se réveille hein ? Ça me plaît !"
+    Br "Le guerrier se réveille, hein ? Ça me plaît !"
 
 # game/bryce1.rpy:696
 translate french _call_syscheck_41_506f977e:
@@ -901,7 +901,7 @@ translate french _call_syscheck_41_26f042c1:
 translate french _call_syscheck_41_cfdd61d2:
 
     # Br "Soon enough. Do you feel it? Do you feel the buzz kicking in already?"
-    Br "Bientôt, t'inquiète. Tu le sens hein ? Tu sens l'alcool te monter au cerveau ?"
+    Br "Bientôt, t'inquiète. Tu le sens, hein ? Tu sens l'alcool te monter au cerveau ?"
 
 # game/bryce1.rpy:739
 translate french _call_syscheck_41_10f27db5:
@@ -913,13 +913,13 @@ translate french _call_syscheck_41_10f27db5:
 translate french _call_syscheck_41_6b6f6d3f:
 
     # Br "Don't lie to me. I can see it in your face. Unless that's blushing I see and not the alcohol."
-    Br "Ne me mens pas, ton visage te trahit. A moins que ce ne soit pas l'alcool ? Tu n'es pas en train de rougir quand même ?"
+    Br "Ne me mens pas, ton visage te trahit. A moins que ce ne soit pas l'alcool, et que tu ne sois en train de rougir ?"
 
 # game/bryce1.rpy:749
 translate french _call_syscheck_41_db7f6485:
 
     # Br "I'm sure it isn't."
-    Br "J'en suis sûr, oui."
+    Br "J'suis sûr que c'est pas l'alcool, oui."
 
 # game/bryce1.rpy:755
 translate french _call_syscheck_41_9bde5fdb:
@@ -931,19 +931,19 @@ translate french _call_syscheck_41_9bde5fdb:
 translate french _call_syscheck_41_0195f9bc:
 
     # Br "Is that so?"
-    Br "C'est vrai ça ?"
+    Br "C'est vrai, ça ?"
 
 # game/bryce1.rpy:767
 translate french _call_syscheck_41_2a421450:
 
     # Br "Anyways, how do you like it here so far? I mean, compared to wherever it is that you came from."
-    Br "Du coup, comment tu te sens ici ? Je veux dire, comment tu trouves par rapport à chez toi ?"
+    Br "Du coup, comment tu te sens ici ? Je veux dire, comparé au lieu duquel tu viens."
 
 # game/bryce1.rpy:774
 translate french _call_syscheck_41_1b059110:
 
     # Br "We'll see how much you like it when I've drunk you under the table."
-    Br "On verra si tu apprécieras le moment ou tu seras en train de boire sous la table."
+    Br "On verra si tu apprécieras le moment ou tu seras en train de rouler sous la table."
 
 # game/bryce1.rpy:777
 translate french _call_syscheck_41_1af65026:
@@ -961,7 +961,7 @@ translate french _call_syscheck_41_3f8630a1:
 translate french _call_syscheck_41_307060d5:
 
     # Br "Can't fault you for that. Home is where the heart is, after all."
-    Br "Je ne peux pas t'en vouloir. On est toujours mieux chez soi, non ?"
+    Br "Je ne peux pas t'en vouloir. On est jamais si bien que chez soi, après tout."
 
 # game/bryce1.rpy:788
 translate french _call_syscheck_41_819f0e3b:
@@ -1015,25 +1015,25 @@ translate french _call_syscheck_41_a44a33d3:
 translate french _call_syscheck_41_e5a84285:
 
     # Xi "Up to your old shenanigans, I see."
-    Xi "Toujours dans tes vieilles manigances à ce que je vois."
+    Xi "Toujours dans tes vieilles manigances, à ce que je vois."
 
 # game/bryce1.rpy:824
 translate french _call_syscheck_41_57b54eec:
 
     # Br laugh "Now, don't spoil the fun. I don't go around telling people about what you're up to, either."
-    Br laugh "Ne gâche pas le plaisir, je ne vais pas parler de tes manigances à toi devant les autres, hein ?"
+    Br laugh "Ne gâche pas le plaisir, je ne vais pas parler de tes manigances à toi devant les autres..."
 
 # game/bryce1.rpy:826
 translate french _call_syscheck_41_f828523f:
 
     # Xi "Point taken. Enjoy!"
-    Xi "Bien vu. Amusez-vous bien alors !"
+    Xi "Bien vu. Amusez-vous bien, alors !"
 
 # game/bryce1.rpy:842
 translate french _call_syscheck_41_4ae87edc:
 
     # c "(Of course he wouldn't have challenged me if he wasn't confident he would win. Guess I'll just have to try my best.)"
-    c "(Bien évidement, il ne m'aurait pas mis au défis sans être sûr de gagner. Je suppose qu'il va falloir me surpasser.)"
+    c "(Bien évidemment, il ne m'aurait pas mis au défi sans être sûr de gagner. Je suppose qu'il va falloir me surpasser.)"
 
 # game/bryce1.rpy:843
 translate french _call_syscheck_41_0979cd19:
@@ -1045,13 +1045,13 @@ translate french _call_syscheck_41_0979cd19:
 translate french _call_syscheck_41_4bbd42f0:
 
     # m "As I put the glass to my lips and started swallowing the dark amber liquid, I was struck by how much more difficult this round was compared to the first."
-    m "Au moment où j'ai commencé à avaler ce liquide brun foncé, j'ai été surpris de voir à quel point c'était encore plus difficile que la fois d'avant."
+    m "Au moment où je commençai à avaler ce liquide brun foncé, je fus	surpris de voir à quel point c'était encore plus difficile que la fois d'avant."
 
 # game/bryce1.rpy:848
 translate french _call_syscheck_41_cebe3500:
 
     # m "One thing that always puzzled me about seasoned drinkers was the sheer amount of liquid they could ingest without issue. Keeping it down, however, was a much different question."
-    m "Une chose qui m'a toujours intrigué chez les alcooliques purs, c'est la quantité de liquide qu'ils sont capable d'avaler sans problème. A l'opposé de la volonté de s'en passer."
+    m "Une chose m'a toujours intriguée chez les consommateurs réguliers d'alcool, c'est la quantité de liquide qu'ils sont capable d'avaler sans problème. La volonté de s'arrêter de boire, en revanche, était une toute autre question."
 
 # game/bryce1.rpy:849
 translate french _call_syscheck_41_440c57d9:
@@ -1063,7 +1063,7 @@ translate french _call_syscheck_41_440c57d9:
 translate french _call_syscheck_41_137a1023:
 
     # c "There. Your... turn."
-    c "Voilà... burp... à toi."
+    c "Voilà... C'est... à toi."
 
 # game/bryce1.rpy:857
 translate french _call_syscheck_41_18fc96e2:
@@ -1075,13 +1075,13 @@ translate french _call_syscheck_41_18fc96e2:
 translate french _call_syscheck_41_1d71fc0b:
 
     # Br "I've had much more than this before."
-    Br "J'ai pas mal d'entraînement tu sais."
+    Br "J'ai pas mal d'entraînement, tu sais."
 
 # game/bryce1.rpy:868
 translate french _call_syscheck_41_ef827699:
 
     # m "Roaring laughter erupted from the dragon as his paw struck the table, rattling the containers resting on it."
-    m "Le dragon a éclaté d'un rire rauque en cognant de la patte sur la table, agîtant les verres et les faisant claquer entre eux."
+    m "Le dragon éclata d'un rire rauque en cognant de la patte sur la table, les verres s'entrechoquant dans un tintement."
 
 # game/bryce1.rpy:869
 translate french _call_syscheck_41_06fb37a9:
@@ -1099,13 +1099,13 @@ translate french _call_syscheck_41_ae0a1d05:
 translate french _call_syscheck_41_b5ff6161:
 
     # Br "As for my turn, let me demonstrate."
-    Br "À mon tour donc. Laisse moi te montrer."
+    Br "À mon tour, donc. Laisse-moi te montrer."
 
 # game/bryce1.rpy:880
 translate french _call_syscheck_41_30bc5d3a:
 
     # m "Once again, he consumed his drink, though his swigs were noticeably slower than before. His resolve was also fading, though not as fast as mine had, as he clearly held the advantage. Was there any way I could still turn this around?"
-    m "Une fois de plus, il a avalé son bol de bière, bien qu'il ai mis un peu plus de temps à réussir son exploit. Sa détermination semblait s'affaiblir, mais pas autant que la mienne étant donné son avantage."
+    m "Une fois de plus, il avala son bol de bière, bien qu'il mît un peu plus de temps à réussir son exploit. Sa détermination semblait s'affaiblir, mais pas autant que la mienne étant donné son avantage."
     m "Avais-je encore une chance de renverser la situation ?"
 
 # game/bryce1.rpy:890
@@ -1118,13 +1118,13 @@ translate french _call_syscheck_41_7480d039:
 translate french _call_syscheck_41_2cee51b3:
 
     # Br "Now, let me ask you a question: I know you wanted to tell me all the stuff about Reza, but was that the only reason you wanted to meet with me?"
-    Br "Maintenant, laisse moi te poser une question : Je sais que tu voulais me parler de Reza, mais c'est la seule raison qui t'a fait venir à moi ?"
+    Br "Maintenant, laisse-moi te poser une question : Je sais que tu voulais me parler de Reza, mais c'est la seule raison qui t'a fait venir à moi ?"
 
 # game/bryce1.rpy:900
 translate french _call_syscheck_41_1343658b:
 
     # Br "Guess you got more outta this than you asked for, then."
-    Br "Je suppose que tu as eut plus que ce que tu espérais, alors."
+    Br "Je suppose que tu as eu plus que ce que tu espérais, alors."
 
 # game/bryce1.rpy:906
 translate french _call_syscheck_41_8ae23095:
@@ -1136,13 +1136,13 @@ translate french _call_syscheck_41_8ae23095:
 translate french _call_syscheck_41_110a5d5b:
 
     # Br "Thought so. I won't disagree with that."
-    Br "C'est ce que je pensais, et je suis d'accord là dessus."
+    Br "C'est ce que je pensais, et je suis d'accord là-dessus."
 
 # game/bryce1.rpy:916
 translate french _call_syscheck_41_948c0f54:
 
     # Br "Waiter, next round."
-    Br "Encore une tournée pour ici s'il te plaît !"
+    Br "Serveur, la suite !"
 
 # game/bryce1.rpy:920
 translate french _call_syscheck_41_d869031f:
@@ -1202,7 +1202,7 @@ translate french _call_syscheck_41_467820d0:
 translate french _call_syscheck_41_88e66bd2:
 
     # m "By now it was obvious that Bryce was faltering, though he still was faring much better than I was. He even had to take a break in the middle of his beer, unable to down it in one go."
-    m "Même si le dragon se portait mieux que moi, c'était flagrant qu'il faiblissait. Il a même dû faire une pause entre deux gorgés, visiblement incapable de faire un autre cul-sec."
+    m "Même si le dragon se portait mieux que moi, c'était flagrant qu'il faiblissait. Il dut même faire une pause entre deux gorgés, visiblement incapable de faire un autre cul-sec."
 
 # game/bryce1.rpy:955
 translate french _call_syscheck_41_4b508814:
@@ -1214,13 +1214,13 @@ translate french _call_syscheck_41_4b508814:
 translate french _call_syscheck_41_16f22ee4:
 
     # m "He was a lot heavier than me, and even though his bowls held far more liquid than my glasses, how did I think I'd stand a chance against him? When I picked up my glass, I didn't have feeling in my fingers anymore."
-    m "Son gabarit était un réel avantage par rapport au mien, et même si ses bols contenaient bien plus de bière que mes choppes, je n'étais pas sûr d'avoir encore une chance de le battre. En prenant mon verre, je me suis rendu compte que je ne sentais plus mes doigts."
+    m "Son gabarit était un réel avantage par rapport au mien, et même si ses bols contenaient bien plus de bière que mes chopes, je n'étais pas sûr d'avoir encore une chance de le battre. En prenant mon verre, je me suis rendu compte que je ne sentais plus mes doigts."
 
 # game/bryce1.rpy:963
 translate french _call_syscheck_41_34d7e99f:
 
     # m "I had to pause a few times, but in the end I made it, though I wasn't sure how much more I could take."
-    m "J'ai dû m'arrêter à plusieurs reprises, mais j'ai tout de même fini par vider mon verre. Cependant, je n'avais aucune idée de combien de temps j'allais tenir encore."
+    m "Je dus m'arrêter à plusieurs reprises, mais je finis tout de même par vider mon verre. Cependant, je n'avais aucune idée de combien de temps j'allais tenir encore."
 
 # game/bryce1.rpy:967
 translate french _call_syscheck_41_5ca79c87:
@@ -1244,13 +1244,13 @@ translate french _call_syscheck_41_6293f0c2:
 translate french _call_syscheck_41_d748282a:
 
     # Br "I suppose it still might if you... lick it all up again."
-    Br "Je pense que ça va se faire si tu en avale une de plus..."
+    Br "Je pense que ça va se faire si tu en avales une de plus..."
 
 # game/bryce1.rpy:982
 translate french _call_syscheck_41_2321cd89:
 
     # Br "I can see you're close. Just a question of time now, sonny."
-    Br "Je vois que t'en es pas loin. C'n'est plus qu'une question d'temps gamin."
+    Br "Je vois que t'en es pas loin. C'n'est plus qu'une question d'temps, gamin."
 
 # game/bryce1.rpy:988
 translate french _call_syscheck_41_ae29466d:
@@ -1262,7 +1262,7 @@ translate french _call_syscheck_41_ae29466d:
 translate french _call_syscheck_41_849c8d53:
 
     # c "C-Can I... ask you a question?"
-    c "J'peux... 'peux t'poser une question ?"
+    c "J'peux... J'peux t'poser une question ?"
 
 # game/bryce1.rpy:995
 translate french _call_syscheck_41_e4ec6fd8:
@@ -1280,7 +1280,7 @@ translate french _call_syscheck_41_8db3b15e:
 translate french _call_syscheck_41_f1569105:
 
     # c "You... seriously look like a chocolate cream cake... delicious chocolate cream cake. Can I taste you?"
-    c "Tu... r'sembles à un gâteau crème chocolat... délicieux gâteau au chocolat, j'peux te goûter ?"
+    c "Tu... r'ssembles à un gâteau...crème chocolat... délicieux gâteau au chocolat, j'peux te goûter ?"
 
 # game/bryce1.rpy:1008
 translate french _call_syscheck_41_a62209a1:
@@ -1304,7 +1304,7 @@ translate french _call_syscheck_41_76352b71:
 translate french _call_syscheck_41_69eb40b5:
 
     # c "Yah."
-    c "Burp... ouais."
+    c "... Ouais."
 
 # game/bryce1.rpy:1019
 translate french _call_syscheck_41_18a959c3:
@@ -1322,13 +1322,13 @@ translate french _call_syscheck_41_4e68104e:
 translate french _call_syscheck_41_5d7755ef:
 
     # m "Blearily, the dragon looked at me, seemingly unable to focus. I could see he was hitting his limit, but so was I. Maybe, if I just held out a little longer..."
-    m "Le dragon m'a regardé, visiblement incapable de se concentrer. Je pouvais le voir, il était à bout, tout comme moi... Peut-être que si je tenais encore un petit peu..."
+    m "Le dragon me regarda d'un œil vitreux, visiblement incapable de se concentrer. Je pouvais le voir, il était à bout, tout comme moi... Peut-être que si je tenais encore un petit peu..."
 
 # game/bryce1.rpy:1036
 translate french _call_syscheck_41_9a4d9444:
 
     # Br "Whose turn is it even?"
-    Br "À qui l'tour ?"
+    Br "À qui l'tour, déjà ?"
 
 # game/bryce1.rpy:1043
 translate french _call_syscheck_41_e7876ba6:
@@ -1358,21 +1358,21 @@ translate french _call_syscheck_41_5c73dec9:
 translate french _call_syscheck_41_570aa8e7_1:
 
     # c "Very well."
-    c "'kay, allons-y."
+    c "Bon, bon..."
 
 # game/bryce1.rpy:1061
 translate french _call_syscheck_41_76634173:
 
     # m "At this point, I had difficulties picking up my glass. I was about to give up, but I was sure if I held on just one more round it'd be over. I could still win this. I had to wait a few moments after each sip in order to continue, but I did not give up until, eventually, the glass was empty."
-    m "J'ai eut beaucoup de mal à saisir mon verre. J'étais sur le point d'abandonner, mais je savais que je n'étais qu'à un tour de la fin. Je pouvais même encore gagner !"
-    m "J'ai du attendre entre chaque gorgée, mais j'ai tenu bon jusqu'à ce que je me rende compte que mon verre était vide."
+    m "J'eus beaucoup de mal à saisir mon verre. J'étais sur le point d'abandonner, mais je savais que je n'étais qu'à un tour de la fin. Je pouvais même encore gagner !"
+    m "Je dus attendre entre chaque gorgée, mais je tins bon jusqu'à ce que je me rende compte que mon verre était vide."
 
 # game/bryce1.rpy:1077
 translate french _call_syscheck_41_0eb13f67:
 
     # m "For the first time, I could see something in his eyes other than his always present confidence. Was it disbelief, or insecurity? I guessed my feat caught him off guard, as he seemed genuinely impressed. If nothing else, this showed me that even his own conviction was cracking now. I could totally win this."
-    m "Pour la première fois, j'ai vu autre chose dans son regard que de la confiance. Étais-ce à cause de l'alcool, ou parce qu'ils ne se sentait pas à laise ? Ma performance l'avait peut-être pris au dépourvu car il semblait vraiment impressionné."
-    Br "Au moins, cela m'a montré que même sa propre détermination se brisait maintenant, je pouvais gagner assurément."
+    m "Pour la première fois, je vis autre chose dans son regard que sa confiance habituelle. Etait-ce de l'incrédulité, ou de la peur ? Ma performance l'avait peut-être pris au dépourvu car il semblait vraiment impressionné."
+    Br "Au moins, cela me montra que même sa propre détermination se brisait maintenant. J'étais sûr de gagner."
 
 # game/bryce1.rpy:1078
 translate french _call_syscheck_41_c1731578:
@@ -1384,8 +1384,8 @@ translate french _call_syscheck_41_c1731578:
 translate french _call_syscheck_41_0d2a0960:
 
     # m "He was struggling. It became more and more obvious as he tried to swallow the liquid in his bowl bit by bit. He stopped at one point, panting heavily. I considered taking a cheap shot at him, but as he had refrained from doing so during my turn, I wasn't going to start now."
-    m "Il n'était plus en position de force. Ça devenait évident au fur et à mesure qu'il buvait peu à peu sa bière. Il s'est même carrément arrêté à un moment donné en haletant fortement."
-    m "J'ai bien pensé à le charrier à ce moment, mais il ne l'avait pas fait pour moi alors je me suis abstenu et j'ai préféré le laisser finir."
+    m "Il luttait. Ça devenait évident au fur et à mesure qu'il buvait peu à peu sa bière. Il s'arrêta même carrément à un moment donné en haletant fortement."
+    m "Je pensai le charrier à ce moment, mais il ne l'avait pas fait pour moi durant mon tour, alors je m'en abstins."
 
 # game/bryce1.rpy:1086
 translate french _call_syscheck_41_7480d039_1:
@@ -1397,13 +1397,13 @@ translate french _call_syscheck_41_7480d039_1:
 translate french _call_syscheck_41_b79117b3:
 
     # m "I was getting tired. I could hear Bryce's voice, but I could not make out the individual words anymore. I decided to rest my eyes, just for a little bit..."
-    m "Je sentais tomber la fatigue. Je pouvais entendre la voix de Bryce, mais sans distinguer un seul mot. J'ai pensé que fermer les yeux me ferait du bien..."
+    m "Je sentais tomber la fatigue. Je pouvais entendre la voix de Bryce, mais sans distinguer un seul mot. Je pensai que fermer les yeux me ferait du bien..."
 
 # game/bryce1.rpy:1103
 translate french _call_syscheck_41_690f24fc:
 
     # Br "Hey, are you okay? You fell down, and you look kinda messed up."
-    Br "Hé, ça va [player_name] ? T'es tombé, t'as pas l'air en forme là !"
+    Br "Hé, ça va [player_name] ? T'es tombé, t'as pas l'air en forme, là !"
 
 # game/bryce1.rpy:1113
 translate french _call_syscheck_41_4d0fcc3c:
@@ -1463,13 +1463,13 @@ translate french _call_syscheck_41_fdd3ae60:
 translate french _call_syscheck_41_9c03c7d6:
 
     # Wr "You know, it was fun watching you and all, but you've both had enough for the evening. I think you'd better leave now. After you've come out from under the table, that is."
-    Wr "Vous savez, c'était amusant de vous regarder lutter contre Bryce. Mais vous en avez certainement assez eut pour ce soir. Vous devriez rentrer pour vous reposer, mais d'abord, il serait sage de sortir de dessous cette table, vous ne pensez pas ?"
+    Wr "Vous savez, c'était amusant de vous regarder lutter contre Bryce. Mais vous en avez certainement assez eu pour ce soir. Vous devriez rentrer pour vous reposer. Du moins, après que vous avez émergé de dessous cette table..."
 
 # game/bryce1.rpy:1163
 translate french _call_syscheck_41_e4584ec6:
 
     # c "Alright. I'll be going, then."
-    c "Ouais... j'vais y aller alors."
+    c "Ouais... j'vais y aller, alors."
 
 # game/bryce1.rpy:1164
 translate french _call_syscheck_41_a75fc399:
@@ -1493,7 +1493,7 @@ translate french _call_syscheck_41_940aaa96:
 translate french _call_syscheck_41_d60a7e05:
 
     # m "When I looked over to him, I discovered that Bryce had passed out for the moment. This could prove difficult."
-    m "En me retournant pour regarder Bryce, je me suis rendu compte qu'il était au sol, évanoui. Ça allait être difficile pour le coup."
+    m "En me retournant pour regarder Bryce, je me rendis compte qu'il était au sol, évanoui. Ça allait être difficile pour le coup."
 
 # game/bryce1.rpy:1172
 translate french _call_syscheck_41_1f6d21c9:
@@ -1505,13 +1505,13 @@ translate french _call_syscheck_41_1f6d21c9:
 translate french _call_syscheck_41_3572097d:
 
     # Wr "You'll be doing yourself a favor, too."
-    Wr "Vous aussi, ça peut vous aider je pense."
+    Wr "Vous aussi, ça peut vous aider, je pense."
 
 # game/bryce1.rpy:1178
 translate french _call_syscheck_41_0fcb5e2a:
 
     # c "Heck, no."
-    c "Hein ? Nan, 'y s'démmerde."
+    c "Ah, non, sûrement pas."
 
 # game/bryce1.rpy:1179
 translate french _call_syscheck_41_f5524811:
@@ -1523,7 +1523,7 @@ translate french _call_syscheck_41_f5524811:
 translate french _call_syscheck_41_47c56494:
 
     # c "Get outta my way, you scaly sack, before I show you how nice I can be... with my fists!"
-    c "Écarte toi d'mon chemin, sac à main sur patte ! S'non tu vas voir comment j'peux être sympathique avec mes poings !"
+    c "Écarte toi d'mon chemin, sac à main sur pattes ! S'non tu vas voir comment j'peux être sympathique avec mes poings !"
 
 # game/bryce1.rpy:1182
 translate french _call_syscheck_41_76b2fe88_2:
@@ -1535,7 +1535,7 @@ translate french _call_syscheck_41_76b2fe88_2:
 translate french _call_syscheck_41_76f5806b:
 
     # n "Without looking back, I got up and stumbled back to my apartment on shaky legs."
-    n "Sans me retourner, j'ai quitté le bar et me suis rendu chez moi malgré mes jambes tremblantes et mes sens troublés par l'alcool."
+    n "Sans me retourner, j'ai quitté le bar et me suis rendu chez moi malgré mes jambes tremblantes."
 
 # game/bryce1.rpy:1185
 translate french _call_syscheck_41_c58a4f78:
@@ -1577,13 +1577,13 @@ translate french _call_syscheck_41_5f8e6fc1:
 translate french _call_syscheck_41_49835fc5:
 
     # c "Still in the bar. Come on, let's get you home."
-    c "Toujours au bar. Allez viens, j'te rammène chez toi."
+    c "Toujours au bar. Allez viens, j'te ramène chez toi."
 
 # game/bryce1.rpy:1227
 translate french _call_syscheck_41_073b0378:
 
     # c "Wake up. Wake up. Wake uuuuuuup!"
-    c "Réveilles-toi ! Réveilles-toi ! OH, DEBOUT !"
+    c "Réveille-toi ! Réveille-toi ! OH, DEBOUT !"
 
 # game/bryce1.rpy:1229
 translate french _call_syscheck_41_42cdb000:
@@ -1595,7 +1595,7 @@ translate french _call_syscheck_41_42cdb000:
 translate french _call_syscheck_41_c8bba8fd:
 
     # Br "Stop it! I'm awake already."
-    Br "Arrête ça merde ! J'suis réveillé c'est bon !"
+    Br "Arrête ça ! J'suis réveillé, c'est bon !"
 
 # game/bryce1.rpy:1234
 translate french _call_syscheck_41_bc30dece:
@@ -1619,13 +1619,13 @@ translate french _call_syscheck_41_46f9c800:
 translate french _call_syscheck_41_e3d2aa39:
 
     # Br "Ugh..."
-    Br "Oh put..."
+    Br "Grmbl..."
 
 # game/bryce1.rpy:1240
 translate french _call_syscheck_41_25c5b01b:
 
     # c "Come on. Let's get you home, you big wuss."
-    c "Allez, je te rammène chez toi gros bébé."
+    c "Allez, je te ramène chez toi, gros bébé."
 
 # game/bryce1.rpy:1244
 translate french _call_syscheck_41_d59f28e4:
@@ -1637,19 +1637,19 @@ translate french _call_syscheck_41_d59f28e4:
 translate french _call_syscheck_41_c86418be:
 
     # c "(Huh... that was actually the salt, not the pepper. Let's try that again.)"
-    c "(Ah mer... c'est le sel ça, il me faut le poivre j'ai dit.)"
+    c "(Ah mince, c'est le sel, ça, il me faut le poivre, j'ai dit.)"
 
 # game/bryce1.rpy:1251
 translate french _call_syscheck_41_38cdd69e:
 
     # Br "What? Is that you, [player_name]? Where am I?"
-    Br "Hein, c'est toi, [player_name]? J'suis où là ?"
+    Br "Hein, c'est toi, [player_name]? J'suis où, là ?"
 
 # game/bryce1.rpy:1254
 translate french _call_syscheck_41_c0184757:
 
     # Br "And what did you do to my nose? Did you shove something in there while I was out or something?"
-    Br "Et qu'est-ce que t'as fais à mon museau ? T'as mis un truc dans mes narines dedans pendant que j'dormais ou quoi ?"
+    Br "Et qu'est-ce que t'as fait à mon museau ? T'as mis un truc dans mes narines dedans pendant que j'dormais ou quoi ?"
 
 # game/bryce1.rpy:1255
 translate french _call_syscheck_41_2c2e8c69:
@@ -1679,26 +1679,26 @@ translate french _call_syscheck_41_d7f0d77a:
 translate french _call_syscheck_41_25c5b01b_1:
 
     # c "Come on. Let's get you home, you big wuss."
-    c "Allez, je te rammène chez toi gros bébé."
+    c "Allez, je te ramène chez toi, gros bébé."
 
 # game/bryce1.rpy:1265
 translate french _call_syscheck_41_803a507c:
 
     # m "I awoke looking at an unfamiliar ceiling. For a moment, I wondered where I was before the events of last night all came back to me. As I got up and looked around, I realized that I'd apparently slept on the floor."
-    m "En ouvrant les yeux, je suis tombé sur un plafond qui ne me disait rien. Pendant un instant, je me suis demandé où j'étais avant que la soirée de la veille ne me revienne en tête."
-    m "En me relevant, et en regardant autour de moi, je me suis rendu compte que j'avais visiblement dormi par terre."
+    m "En ouvrant les yeux, je suis tombé sur un plafond qui ne me disait rien. Pendant un instant, je me suis demandé où j'étais, avant que la soirée de la veille ne me revienne en tête."
+    m "En me relevant, et en regardant autour de moi, je me rendis compte que j'avais visiblement dormi par terre."
 
 # game/bryce1.rpy:1266
 translate french _call_syscheck_41_82181d98:
 
     # c "(Where am I? This isn't my apartment.)"
-    c "(Où suis-je ? Ce n'est pas mon appartement ça...)"
+    c "(Où suis-je ? Ce n'est pas mon appartement, ça...)"
 
 # game/bryce1.rpy:1273
 translate french _call_syscheck_41_da6837de:
 
     # c "(Guess I must have passed out after I got Bryce home.)"
-    c "(Je suppose que je suis tombé dans les pommes après avoir rammené Bryce chez lui.)"
+    c "(Je suppose que je suis tombé dans les pommes après avoir ramené Bryce chez lui.)"
 
 # game/bryce1.rpy:1274
 translate french _call_syscheck_41_d710dd54:
@@ -1710,19 +1710,19 @@ translate french _call_syscheck_41_d710dd54:
 translate french _call_syscheck_41_61f333a7:
 
     # m "The dragon moved and let out a groan before he opened his eyes."
-    m "Le dragon a alors bougé, tout en laissant échapper un petit gémissement, avant d'ouvrir les yeux."
+    m "Le dragon bougea alors, tout en laissant échapper un grognement, avant d'ouvrir les yeux."
 
 # game/bryce1.rpy:1283
 translate french _call_syscheck_41_fc6ce294:
 
     # Br "Just as you do, occasionally, I bet."
-    Br "Je parie que ça t'arrives à toi aussi de temps en temps."
+    Br "Je parie que ça t'arrive à toi aussi, de temps en temps."
 
 # game/bryce1.rpy:1287
 translate french _call_syscheck_41_61f333a7_1:
 
     # m "The dragon moved and let out a groan before he opened his eyes."
-    m "Le dragon a alors bougé, tout en laissant échapper un petit gémissement, avant d'ouvrir les yeux."
+    m "Le dragon bougea alors, tout en laissant échapper un grognement, avant d'ouvrir les yeux."
 
 # game/bryce1.rpy:1292
 translate french _call_syscheck_41_9b29c307:
@@ -1740,13 +1740,13 @@ translate french _call_syscheck_41_2445b0f7:
 translate french _call_syscheck_41_61f333a7_2:
 
     # m "The dragon moved and let out a groan before he opened his eyes."
-    m "Le dragon a alors bougé, tout en laissant échapper un petit gémissement, avant d'ouvrir les yeux."
+    m "Le dragon bougea alors, tout en laissant échapper un grognement, avant d'ouvrir les yeux."
 
 # game/bryce1.rpy:1304
 translate french _call_syscheck_41_c4305314:
 
     # Br "Daaamn, my head. Why are you even here?"
-    Br "Puuutain... ma tête... Ben, qu'est-ce que tu fous chez moi ?"
+    Br "Putaiiin... Ma tête... Ben, qu'est-ce que tu fais chez moi ?"
 
 # game/bryce1.rpy:1305
 translate french _call_syscheck_41_59eeaffb:
@@ -1776,13 +1776,13 @@ translate french _call_syscheck_41_dbe3a790:
 translate french _call_syscheck_41_472d8355:
 
     # Br "You didn't do anything funny while I was out, did you?"
-    Br "T'as rien fais de débile pendait que je dormais n'est-ce pas ?"
+    Br "T'as rien fait de débile pendant que je dormais, n'est-ce pas ?"
 
 # game/bryce1.rpy:1323
 translate french _call_syscheck_41_dcc4839f:
 
     # m "The dragon rose from the couch with a nice morning stretch, rubbed his eyes, then held his head high as he let out a grunt and a big yawn."
-    m "Le dragon s'est levé du divan, et s'est ensuite donné dans un bel étirement matinal. Il s'est frotté les yeux, a laissé échapé un petit grognement, suivi d'un grand bâillement."
+    m "Le dragon se leva du divan, et s'adonna à un bel étirement matinal. Il se frotta ensuite les yeux, laissa échapper un petit grognement, suivi d'un grand bâillement."
 
 # game/bryce1.rpy:1327
 translate french _call_syscheck_41_9a1e394a:
@@ -1806,7 +1806,7 @@ translate french _call_syscheck_41_51787622:
 translate french _call_syscheck_41_8c2b668a:
 
     # c "At least it's not like you were egging me on the whole time. Wait, actually, that is exactly what happened."
-    c "Et puis, ce n'est pas comme si tu m'en avez mis plein la face pendant toute la soirée. Attends en fait, si, c'est exactement ce qui s'est passé."
+    c "Et puis, ce n'est pas comme si tu m'en avais mis plein la face pendant toute la soirée. Attends en fait, si, c'est exactement ce qui s'est passé."
 
 # game/bryce1.rpy:1333
 translate french _call_syscheck_41_6ded3fbf:
@@ -1824,13 +1824,13 @@ translate french _call_syscheck_41_fee57dbc:
 translate french _call_syscheck_41_94c61e32:
 
     # Br "Yeah, and I clearly held you there against your will and made you drink too, right?"
-    Br "Oui, et je t'ai clairement retenu de force, en plus de t'avoir fait picolé, non ?"
+    Br "Oui, et je t'ai clairement retenu de force, en plus de t'avoir fait picoler, non ?"
 
 # game/bryce1.rpy:1337
 translate french _call_syscheck_41_6b561738:
 
     # c "You may as well have. You know, as an ambassador, I can't really say no to a social meeting with the chief of police."
-    c "C'était bien quand même. Tu sais, en temps qu'ambasaddeur, je ne peux pas vraiment dire non à une réunion avec le chef de la police."
+    c "C'était bien quand même. Tu sais, en tant qu'ambassadeur, je ne peux pas vraiment dire non à un rendez-vous avec le chef de la Police."
 
 # game/bryce1.rpy:1338
 translate french _call_syscheck_41_e27d2f9c:
@@ -1848,7 +1848,7 @@ translate french _call_syscheck_41_e7cca4c5:
 translate french _call_syscheck_41_5b5c16d4:
 
     # c "Yeah, I guess I should."
-    c "Ouais, c'est mieux je pense."
+    c "Ouais, c'est mieux, je pense."
 
 # game/bryce1.rpy:1369
 translate french bryce1skip_97c9b7f4:
@@ -1860,7 +1860,7 @@ translate french bryce1skip_97c9b7f4:
 translate french bryce1skip_b97488ce:
 
     # c "Well, it's not like you forced me to participate, so I suppose I share some of the blame..."
-    c "En fait, tu ne m'as pas vraiment forcé à y participer tu sais. Du coup, j'ai moi aussi ma part de responsabilité."
+    c "En fait, tu ne m'as pas vraiment forcé à y participer, tu sais. Du coup, j'ai moi aussi ma part de responsabilité."
 
 # game/bryce1.rpy:1372
 translate french bryce1skip_3ffd6748:
@@ -1914,7 +1914,7 @@ translate french bryce1skip_97c9b7f4_1:
 translate french bryce1skip_b97488ce_1:
 
     # c "Well, it's not like you forced me to participate, so I suppose I share some of the blame..."
-    c "En fait, tu ne m'as pas vraiment forcé à y participer tu sais. Du coup, j'ai moi aussi ma part de responsabilité."
+    c "En fait, tu ne m'as pas vraiment forcé à y participer, tu sais. Du coup, j'ai moi aussi ma part de responsabilité."
 
 # game/bryce1.rpy:1409
 translate french bryce1skip_3ffd6748_1:
@@ -1932,7 +1932,7 @@ translate french bryce1skip_51e1a649_1:
 translate french bryce1skip_9eb38675:
 
     # Br "Maybe I'll invite you over some other time and show you that there's more to the chief of police than getting drunk and passing out?"
-    Br "J'ai bien envie de t'inviter une autre fois, au moins pour te montrer que le chef de la police n'est pas bon qu'à picoler jusqu'à tomber dans les pommes."
+    Br "J'ai bien envie de t'inviter une autre fois, au moins pour te montrer que le chef de la Police n'est pas bon qu'à picoler jusqu'à tomber dans les pommes."
 
 # game/bryce1.rpy:1413
 translate french bryce1skip_70fb6772:
@@ -1944,7 +1944,7 @@ translate french bryce1skip_70fb6772:
 translate french bryce1skip_c45783e0:
 
     # Br "Heh, I'm sure we'll think of something else that could measure our endurance."
-    Br "Hé, on trouveras certainement autre chose pour mesurer notre endurance..."
+    Br "Hé, on trouvera certainement autre chose pour mesurer notre endurance..."
 
 translate french strings:
 
@@ -1970,7 +1970,7 @@ translate french strings:
 
     # bryce1.rpy:52
     old "Just one? I'll take three."
-    new "Une seule sérieux ? Pour moi, c'est minimum trois.."
+    new "Une seule, sérieux ? Pour moi, c'est minimum trois !"
 
     # bryce1.rpy:52
     old "Let's go."
@@ -1982,7 +1982,7 @@ translate french strings:
 
     # bryce1.rpy:57
     old "[[press him about wanting to go to a bar.]"
-    new "[[Le laisser aller au bar.]"
+    new "[[Le laisser aller au bar]"
 
     # bryce1.rpy:66
     old "S-Sorry, that's not what I meant."
@@ -2006,11 +2006,11 @@ translate french strings:
 
     # bryce1.rpy:304
     old "How'd you know my name?"
-    new "Comment connaissez vous mon nom ?"
+    new "Comment connaissez-vous mon nom ?"
 
     # bryce1.rpy:402
     old "Not really. I guess I can stay for a little while."
-    new "Pas vraiment non. Du coup, je peux bien rester un peu..."
+    new "Pas vraiment, non. Du coup, je peux bien rester un peu..."
 
     # bryce1.rpy:402
     old "I'd rather just go home and read a book."
@@ -2030,11 +2030,11 @@ translate french strings:
 
     # bryce1.rpy:417
     old "[[Leave.]"
-    new "[[Partir.]"
+    new "[[Partir]"
 
     # bryce1.rpy:551
     old "I would, but I don't think I can beat someone like you."
-    new "J'aimerai. Mais je ne pense pas avoir la moindre chance contre quelqu'un comme toi."
+    new "J'aimerais. Mais je ne pense pas avoir la moindre chance contre quelqu'un comme toi."
 
     # bryce1.rpy:551
     old "I'm in."
@@ -2050,7 +2050,7 @@ translate french strings:
 
     # bryce1.rpy:636
     old "That's your mistake. I never give up."
-    new "Ça sera ton erreur, je n'abandonne jamais."
+    new "C'est là que tu te trompes, je n'abandonne jamais."
 
     # bryce1.rpy:684
     old "Heck, no."
@@ -2062,15 +2062,15 @@ translate french strings:
 
     # bryce1.rpy:684
     old "[[Give up.]"
-    new "[[Abandonne.]"
+    new "[[Abandonner]"
 
     # bryce1.rpy:745
     old "That's not a blush!"
-    new "Je ne rougit pas !"
+    new "Je ne rougis pas !"
 
     # bryce1.rpy:745
     old "Alright, it's a buzz."
-    new "D'accord, je rougit... j'ai honte."
+    new "D'accord, je rougis... J'ai honte."
 
     # bryce1.rpy:745
     old "I'm not buzzed."
@@ -2086,7 +2086,7 @@ translate french strings:
 
     # bryce1.rpy:769
     old "To be honest, I think I'd rather be home."
-    new "Pour être franc, je préfèrerai être chez moi."
+    new "Pour être franc, je préfèrerais être chez moi."
 
     # bryce1.rpy:859
     old "Let's see how you do."
@@ -2094,7 +2094,7 @@ translate french strings:
 
     # bryce1.rpy:859
     old "That's my tactic, make you think that I'm struggling so you'll let your guard down."
-    new "C'est ma stratégie je l'avoue. Je fais croire que je lutte comme un acharné pour que tu baisses ta garde."
+    new "C'est ma stratégie, je l'avoue. Je fais croire que je lutte comme un acharné pour que tu baisses ta garde."
 
     # bryce1.rpy:859
     old "I may have underestimated this..."
@@ -2134,11 +2134,11 @@ translate french strings:
 
     # bryce1.rpy:997
     old "[[Say nothing.]"
-    new "[[Ne dit rien.]"
+    new "[[Ne rien dire]"
 
     # bryce1.rpy:1038
     old "I think... it's yours."
-    new "J'pense... c'est à toi."
+    new "J'pense... que c'est à toi."
 
     # bryce1.rpy:1038
     old "Mine."
@@ -2154,7 +2154,7 @@ translate french strings:
 
     # bryce1.rpy:1064
     old "S-Suck on this, you ssscaly bastard."
-    new "P-prends ça... d-dans les dents, enf..foiré !"
+    new "P-prends ça... d-dans les dents, enf-foiré !"
 
     # bryce1.rpy:1109
     old "Yeah."
@@ -2170,7 +2170,7 @@ translate french strings:
 
     # bryce1.rpy:1132
     old "Bring... it ON!"
-    new "Ammène... AMMÈNE !"
+    new "Amène... AMÈNE !"
 
     # bryce1.rpy:1132
     old "I think... I better stop here."
@@ -2190,11 +2190,11 @@ translate french strings:
 
     # bryce1.rpy:1214
     old "Dump some water on his face."
-    new "Jette-lui de l'eau fraiche au visage."
+    new "Jette-lui de l'eau fraîche au visage."
 
     # bryce1.rpy:1214
     old "Slap him."
-    new "Giffle-le."
+    new "Gifle-le."
 
     # bryce1.rpy:1214
     old "Put some pepper on his nose."
@@ -2210,4 +2210,4 @@ translate french strings:
 
     # bryce1.rpy:1276
     old "Good morning, sunshine."
-    new "Bonjour beau gosse."
+    new "Bonjour, beau gosse."

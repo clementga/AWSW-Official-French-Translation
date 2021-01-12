@@ -91,7 +91,7 @@ translate french strings:
 
     # 00action_file.rpy:47
     old "{#month}August"
-    new "{#month}Aout"
+    new "{#month}Août"
 
     # 00action_file.rpy:47
     old "{#month}September"
@@ -179,7 +179,7 @@ translate french strings:
 
     # 00gui.rpy:227
     old "Are you sure?"
-    new "Tu en es sûr ?"
+    new "En êtes-vous sûr ?"
     # Cette ligne est également utilisée dans lorem1. Je préfère qu'elle soit adaptée à lorem1 qu'au menu
 
     # 00gui.rpy:228
@@ -188,27 +188,27 @@ translate french strings:
 
     # 00gui.rpy:229
     old "Are you sure you want to overwrite your save?"
-    new "Êtes-vous sur de vouloir remplacer cette sauvegarde ?"
+    new "Êtes-vous sûr de vouloir écraser votre sauvegarde ?"
 
     # 00gui.rpy:230
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Charger vous fera perdre toute progression non sauvegardée.\nÊtes vous sur de vouloir faire ça ?"
+    new "Charger vous fera perdre toute progression non sauvegardée.\nEtes vous sur de vouloir faire ça ?"
 
     # 00gui.rpy:231
     old "Are you sure you want to quit?"
-    new "Êtes-vous sur de vouloir partir ?"
+    new "Êtes-vous sûr de vouloir partir ?"
 
     # 00gui.rpy:232
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Êtes-vous sur de vouloir retourner au menu principal ?\nVous perdrez toute progression non sauvegardée."
+    new "Êtes-vous sûr de vouloir retourner au menu principal ?\nVous perdrez toute progression non sauvegardée."
 
     # 00gui.rpy:233
     old "Are you sure you want to end the replay?"
-    new "Êtes-vous sur de vouloir arrêter le replay ?"
+    new "Êtes-vous sûr de vouloir arrêter le replay ?"
 
     # 00gui.rpy:234
     old "Are you sure you want to begin skipping?"
-    new "Êtes-vous sur de vouloir de sauter ?"
+    new "Êtes-vous sûr de vouloir passer ?"
 
     # 00gui.rpy:235
     old "Are you sure you want to skip to the next choice?"
@@ -216,7 +216,7 @@ translate french strings:
 
     # 00gui.rpy:236
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Êtes-vous sur de voilar sauter des dialogues non lus pour aller au choix suivant ?"
+    new "Êtes-vous sûr de vouloir sauter des dialogues non lus pour aller au choix suivant ?"
 
     # 00keymap.rpy:252
     old "Saved screenshot as %s."
@@ -224,15 +224,15 @@ translate french strings:
 
     # 00library.rpy:142
     old "Self-voicing disabled."
-    new "Self-voicing desactivé."
+    new "Commande vocale desactivé."
 
     # 00library.rpy:143
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing activé."
+    new "Presse papier vocal activé."
 
     # 00library.rpy:144
     old "Self-voicing enabled. "
-    new "Self-voicing activé."
+    new "Commande vocale activé."
 
     # 00library.rpy:179
     old "Skip Mode"
@@ -240,19 +240,19 @@ translate french strings:
 
     # 00library.rpy:262
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Ce programme contient des logiciels gratuits sous un certain nombre de licences, incluant la licence MIT et la licence publique général limitée GNU. Une liste complète des logiciels, incluant des liens vers le code source complet, peuvent être trouvés {a=https://www.renpy.org/l/license}ici{/a}."
+    new "Ce programme contient des logiciels gratuits sous un certaines licences, incluant la licence MIT et la licence publique général limitée GNU. Une liste complète des logiciels, incluant des liens vers le code source complet, peuvent être trouvés à {a=https://www.renpy.org/l/license}ici{/a}."
 
     # 00preferences.rpy:422
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing activé. Appuyez sur 'shift+C' pour le désactiver"
+    new "Presse papier vocal activé. Appuyez sur 'shift+C' pour le désactiver"
 
     # 00preferences.rpy:424
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Le self-voicing dirait \"[renpy.display.tts.last]\". Appuyez sur 'alt+shift+V' pour le désactiver."
+    new "La commande vocale dirait \"[renpy.display.tts.last]\". Appuyez sur 'alt+shift+V' pour le désactiver."
 
     # 00preferences.rpy:426
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing activé."
+    new "Commande vocale activé. Appuyer sur 'v' pour la désactiver."
 
     # _compat\gamemenu.rpym:355
     old "Previous"
@@ -368,7 +368,7 @@ translate french strings:
 
     # _developer\inspector.rpym:139
     old "displayable:"
-    new "affichable"
+    new "affichable:"
 
     # _developer\inspector.rpym:145
     old "        (no properties affect the displayable)"
@@ -404,7 +404,7 @@ translate french strings:
 
     # 00updater.rpy:668
     old "Either this project does not support updating, or the update status file was deleted."
-    new "Soit ce projet ne supporte pas les mises à jours, ou que les fichiers statut ont été supprimés."
+    new "Soit ce projet ne supporte pas les mises à jours, ou alors les fichiers statut ont été supprimés."
 
     # 00updater.rpy:682
     old "This account does not have permission to perform an update."
@@ -440,11 +440,11 @@ translate french strings:
 
     # 00updater.rpy:1408
     old "Checking for updates."
-    new "vérification des mises à jours."
+    new "vérification des mises à jour."
 
     # 00updater.rpy:1410
     old "This program is up to date."
-    new "Ce programme est à jours."
+    new "Ce programme est à jour."
 
     # 00updater.rpy:1412
     old "[u.version] is available. Do you want to install it?"
@@ -460,7 +460,7 @@ translate french strings:
 
     # 00updater.rpy:1418
     old "Unpacking the updates."
-    new "Décompressiion des mises à jour."
+    new "Décompression des mises à jour."
 
     # 00updater.rpy:1420
     old "Finishing up."
@@ -544,7 +544,7 @@ translate french strings:
 
     # 00gltest.rpy:109
     old "Changes will take effect the next time this program is run."
-    new "Les changements prendrons effet la prochaine fois que le programme est lancé."
+    new "Les changements prendrons effet la prochaine fois que le programme sera lancé."
 
     # 00gltest.rpy:114
     old "Quit"
@@ -556,7 +556,7 @@ translate french strings:
 
     # 00gltest.rpy:146
     old "This computer is using software rendering."
-    new "Cette ordinateur est en train d'utiliser un rendu de logiciel."
+    new "Cet ordinateur est en train d'utiliser un rendu de logiciel."
 
     # 00gltest.rpy:148
     old "This computer is not using shaders."
@@ -572,11 +572,11 @@ translate french strings:
 
     # 00gltest.rpy:157
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Ses pilotes graphiques pourraient être obsolètes ou ne pas fonctionner correctement. Cela peut mener à des ralentissements ou un mauvais affichage des graphiques. Mettre à jour DirectX pourrait réparer le problème."
+    new "Ses pilotes graphiques pourraient être obsolètes ou ne pas fonctionner correctement. Cela peut mener à des ralentissements ou un mauvais affichage des graphiques. Mettre à jour DirectX pourrait régler le problème."
 
     # 00gltest.rpy:159
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Ses pilotes graphiques pourraient être obsolètes ou ne pas fonctionner correctement.Cela peut mener à des ralentissements ou un mauvais affichage des graphiques."
+    new "Ses pilotes graphiques pourraient être obsolètes ou ne pas fonctionner correctement. Cela peut mener à des ralentissements ou à un mauvais affichage des graphiques."
 
     # 00gltest.rpy:164
     old "Update DirectX"
@@ -584,7 +584,7 @@ translate french strings:
 
     # 00gltest.rpy:170
     old "Continue, Show this warning again"
-    new "Continuer, Montrer à nouveau ce message"
+    new "Continuer, Montrer à nouveau cet avertissement"
 
     # 00gltest.rpy:174
     old "Continue, Don't show warning again"
@@ -596,7 +596,7 @@ translate french strings:
 
     # 00gltest.rpy:196
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new "L'installateur web de DirectX a été démarré. Il pourrait démarré réduit dans la barre des tâches. Suivez les instructions pour installer DirectX."
+    new "L'installateur web de DirectX a été démarré. Il pourrait démarrer réduit dans la barre des tâches. Suivez les instructions pour installer DirectX."
 
     # 00gltest.rpy:200
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
@@ -604,7 +604,7 @@ translate french strings:
 
     # 00gltest.rpy:204
     old "When setup finishes, please click below to restart this program."
-    new "Quand l'installation est finie, veuillez cliquer ci-dessous pour redémarrer ce programme."
+    new "Quand l'installation sera finie, veuillez cliquer ci-dessous pour redémarrer ce programme."
 
     # 00gltest.rpy:206
     old "Restart"
@@ -684,11 +684,11 @@ translate french strings:
 
     # _errorhandling.rpym:590
     old "Parsing the script failed."
-    new "Echel de l'analyse du script."
+    new "Echec de l'analyse du script."
 
     # _errorhandling.rpym:614
     old "Open Parse Errors"
-    new "Ouvrir les erruers d'analyse"
+    new "Ouvrir les erreurs d'analyse"
 
     # _errorhandling.rpym:616
     old "Opens the errors.txt file in a text editor."

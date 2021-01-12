@@ -76,7 +76,7 @@ translate frenchtl remy5_6a31016d:
 translate frenchtl remy5_f705c1cd:
 
     # m "We were quiet as we waited and the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "Nous étions silencieux tandis que nous attendions et que l'éternité de la nuit nous enveloppait. J'entendis bientôt la première fusée traçant sa route dans la nuit après quoi elle explosa dans un motif de couleurs."
+    m "On attendit tranquillement, alors que le silence de la nuit nous enveloppait. Et puis j'entendit le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle explosa dans un motif de couleurs."
 
 # game/remy5.rpy:54
 translate frenchtl remy5_07037632:
@@ -88,7 +88,7 @@ translate frenchtl remy5_07037632:
 translate frenchtl remy5_3de6ab5e:
 
     # m "Suddenly, a terrible realization hit me."
-    m "Soudain, je réalisai quelque chose de terrible."
+    m "Soudain, une réalisation terrible me frappa."
 
 # game/remy5.rpy:73
 translate frenchtl remy5_8a6266e6:
@@ -100,13 +100,13 @@ translate frenchtl remy5_8a6266e6:
 translate frenchtl remy5_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m "Non seulement le village était basiquement désert, mais le bruit des feux d'artifices couvrait également les tirs d'armes à feu, lui donnant plus de tranquillité que jamais."
+    m "Non seulement le village était simplement déserté, mais le bruit des feux d'artifice couvrirait également les tirs d'armes à feu, lui donnant toute la sécurité dont il aurait besoin."
 
 # game/remy5.rpy:77
 translate frenchtl remy5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Comme le portail avait été réparé par la mystérieuse personne que j'ai rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
+    m "Comme le portail avait été réparé par la mystérieuse personne que j'avais rencontré, c'était l'occasion parfaite pour Reza de s'enfuir, et j'étais le seul à le savoir."
 
 # game/remy5.rpy:79
 translate frenchtl remy5_ed67b9fa:
@@ -184,7 +184,7 @@ translate frenchtl remy5_0c5f1631:
 translate frenchtl _call_endingjustafewminuteslater_2_5233b371:
 
     # Mv "Maybe I can."
-    Mv "Peut être que moi je peux."
+    Mv "Peut-être que moi je peux."
 
 # game/remy5.rpy:123
 translate frenchtl _call_endingjustafewminuteslater_2_07e6a997:
@@ -208,7 +208,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_0599b8cd:
 translate frenchtl _call_endingjustafewminuteslater_2_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Et de penser que je me laisserai distraire par un tour aussi minable ! Juste parce que je pensais qu'il restait une once d'humanité en toi..."
+    Rz "Et dire que je t'ai laissé m'embobiner avec ton petit numéro ! Juste parce que je pensais qu'il restait une once d'humanité en toi..."
 
 # game/remy5.rpy:145
 translate frenchtl _call_endingjustafewminuteslater_2_bdbf243c:
@@ -226,7 +226,7 @@ translate frenchtl _call_endingjustafewminuteslater_2_561cf27e:
 translate frenchtl _call_endingjustafewminuteslater_2_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c "Tu as six balles pour trois personnes. Penses-tu vraiment que tu vas y arriver, Reza ? Penses-tu que ça vaut le coup de risquer ta vie pour ça ?"
+    c "Tu as six balles pour trois personnes. Penses-tu vraiment que tu vas y arriver, Reza ? Tu penses que ça vaut le coup de risquer ta vie pour ça ?"
 
 # game/remy5.rpy:151
 translate frenchtl _call_endingjustafewminuteslater_2_6281e04a:
@@ -244,25 +244,25 @@ translate frenchtl _call_endingjustafewminuteslater_2_892229f8:
 translate frenchtl _call_endingjustafewminuteslater_2_40d6a19a:
 
     # Rz "They belong to humanity!" with Shake((0, 0, 0, 0), 2, dist=10)
-    Rz "Ils appartiennent à l'humanité" with Shake((0, 0, 0, 0), 2, dist=10)
+    Rz "Tout ça appartient à l'humanité !" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/remy5.rpy:165
 translate frenchtl _call_endingjustafewminuteslater_2_d0af508a:
 
     # m "Suddenly, the Administrator came out of the shadows in the hallway behind Reza."
-    m "Soudain, l'administrateur sortit de l'ombre dans le couloir derrière Reza."
+    m "Soudain, l'administrateur sortit de l'ombre, dans le couloir derrière Reza."
 
 # game/remy5.rpy:170
 translate frenchtl _call_endingjustafewminuteslater_2_0f4307a5:
 
     # As "No, they belong to me."
-    As "Non, C'est à moi qu'ils m'appartiennent."
+    As "Non, tout ça n'appartient qu'à moi."
 
 # game/remy5.rpy:178
 translate frenchtl _call_endingjustafewminuteslater_2_5de0f92a:
 
     # m "Confused, Reza spun around, aiming his gun at the newcomer who was slowly walking towards him."
-    m "Confus, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
+    m "Désemparé, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
 
 # game/remy5.rpy:180
 translate frenchtl _call_endingjustafewminuteslater_2_6380d90f:
