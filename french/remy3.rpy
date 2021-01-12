@@ -52,7 +52,7 @@ translate frenchtl _call_skipcheck_24_79362d3c:
 translate frenchtl _call_skipcheck_24_8f7dccd7:
 
     # Ry "I enjoy Tatsu Park is all. Have you been here before?"
-    Ry "J'apprécie le parc Tatsu, c'est tout. Es tu déjà allé ici auparavant ?"
+    Ry "J'apprécie le parc Tatsu, c'est tout. Es-tu déjà allé ici auparavant ?"
 
 # game/remy3.rpy:128
 translate frenchtl _call_skipcheck_24_07d1113d:
@@ -82,13 +82,13 @@ translate frenchtl _call_skipcheck_24_4bb2668b:
 translate frenchtl _call_skipcheck_24_fe28c79c:
 
     # c "Yeah, just look at those trees. Would make a nice spot for a date, really."
-    c "Oauis, Regardes les arbres. Ca ferait un super endroit pour un rencard, je t'assure."
+    c "Ouais, regarde les arbres. Ça ferait un super endroit pour un rancard, je t'assure."
 
 # game/remy3.rpy:152
 translate frenchtl _call_skipcheck_24_57f025fb:
 
     # Ry normal "I agree with that."
-    Ry normal "Je suis d'accord là dessus."
+    Ry normal "Je suis d'accord là-dessus."
 
 # game/remy3.rpy:159
 translate frenchtl _call_skipcheck_24_43e84bfa:
@@ -106,13 +106,13 @@ translate frenchtl _call_skipcheck_24_f2b0a502:
 translate frenchtl _call_skipcheck_24_1075c3f6:
 
     # Ry shy "Yes, well... about that..."
-    Ry shy "Oui, eh bien... à propos de ça..."
+    Ry shy "Oui, eh bien... À propos de ça..."
 
 # game/remy3.rpy:168
 translate frenchtl _call_skipcheck_24_b04cd875:
 
     # Ry "I just have a lot on my mind and I felt like I needed to tell someone."
-    Ry "J'ai juste beaucoup de chose à l'esprit et j'ai ressenti le besoin d'en parler à quelqu'un."
+    Ry "J'ai juste beaucoup de choses en tête et j'ai ressenti le besoin d'en parler à quelqu'un."
 
 # game/remy3.rpy:170
 translate frenchtl _call_skipcheck_24_b3d7f3aa:
@@ -124,7 +124,7 @@ translate frenchtl _call_skipcheck_24_b3d7f3aa:
 translate frenchtl _call_skipcheck_24_a6c1b3cb:
 
     # c "Hey, you can talk to me, Remy."
-    c "Hey, Tu peux m'en parler, Rémi."
+    c "Hey, tu peux m'en parler, Rémi."
 
 # game/remy3.rpy:174
 translate frenchtl _call_skipcheck_24_056888f8:
@@ -142,7 +142,7 @@ translate frenchtl _call_skipcheck_24_d55c4719:
 translate frenchtl _call_skipcheck_24_3eb4c49e:
 
     # Ry sad "I don't even know where to begin."
-    Ry sad "Je ne sais même pas par quoi commencer."
+    Ry sad "Je ne sais même pas par où commencer."
 
 # game/remy3.rpy:181
 translate frenchtl _call_skipcheck_24_c2b8d8a8:
@@ -166,7 +166,7 @@ translate frenchtl _call_skipcheck_24_95179a95:
 translate frenchtl _call_skipcheck_24_54970630:
 
     # Ry "Well, it's not just about her, but working with her doesn't make things any easier."
-    Ry "Eh bien, il n'y a pas qu'elle, mais travailler à ces côtés n'a pas rendu les choses faciles."
+    Ry "Eh bien, il n'y a pas qu'elle, mais travailler à ses côtés n'a pas rendu les choses faciles."
 
 # game/remy3.rpy:212
 translate frenchtl _call_skipcheck_24_935288d8:
@@ -208,7 +208,7 @@ translate frenchtl _call_skipcheck_24_76b2fe88:
 translate frenchtl _call_skipcheck_24_59e46184:
 
     # n "A few years ago, I worked in the public sector. I mean, I still do, but my position was a different one. I didn't work under a minister back then."
-    n "Il y a quelques années de cela, Je travaillais dans le secteur public. Je veux dire, c'est toujours le cas, mais mon poste était différent. Je ne travaillais pas pour un ministère à l'époque."
+    n "Il y a quelques années de cela, je travaillais dans le secteur public. Je veux dire, c'est toujours le cas, mais mon poste était différent. Je ne travaillais pas pour un ministère à l'époque."
 
 # game/remy3.rpy:247
 translate frenchtl _call_skipcheck_24_f17e700e:
@@ -220,13 +220,13 @@ translate frenchtl _call_skipcheck_24_f17e700e:
 translate frenchtl _call_skipcheck_24_a55f68f8:
 
     # n "Free from outside interference, we did our own fact-checking based on research and publicly reported our findings. Our individual members didn't always agree, but we made sure the end results were based on verifiable facts."
-    n "Libres de toute interférence extérieure, Nous vérifiions nous même nos sources en nous basant sur les travaux des chercheurs et raportions publiquement nos découvertes. Nos membres n'étaient pas toujours d'accord entre eux, mais on s'assurait que les résultats finaux étaient basés sur des faits vérifiables."
+    n "Libres de toute interférence extérieure, nous vérifiions nous-mêmes nos sources en nous basant sur les travaux des chercheurs et raportions publiquement nos découvertes. Nos membres n'étaient pas toujours d'accord entre eux, mais on s'assurait que les résultats finaux étaient basés sur des faits vérifiables."
 
 # game/remy3.rpy:251
 translate frenchtl _call_skipcheck_24_d5604b17:
 
     # n "In this way, we offered a variety of comprehensive opinions on difficult topics. We found the truth, and allowed people and politicians to make up their minds from there. Our work was a key influence in the community, and because the conclusions of each individual member were often very different, it could never be said that we were biased."
-    n "De cette façon, nous offriions un panel d'opinions compréhensibles sur des sujets difficiles. On trouvait la réponse, et permettions aux gens et aux politiciens de se faire leur idée. Notre travail avait une influence majeure au sein de la communauté, et parce que les conclusions de chaque membres étaient souvent différentes, on ne pouvait dire que nous étions biaisés."
+    n "De cette façon, nous offriions un panel d'opinions compréhensibles sur des sujets difficiles. On trouvait la réponse, et permettions aux gens et aux politiciens de se faire leur idée. Notre travail avait une influence majeure au sein de la communauté, et parce que les conclusions de chaque membre étaient souvent différentes, on ne pouvait dire que nous étions biaisés."
 
 # game/remy3.rpy:255
 translate frenchtl _call_skipcheck_24_76b2fe88_1:
@@ -280,7 +280,7 @@ translate frenchtl _call_skipcheck_24_76b2fe88_2:
 translate frenchtl _call_skipcheck_24_c970170f:
 
     # n "She was very smart, and I admired her spirit. She just wanted to help people with her talents - and in this way, she reminded me a lot of myself."
-    n "Elle était très intelligente, et j'admirais son état d'esprit. Elle voulais juste aider la population avec ses talents - et de cette façon, elle me renvoyait une image de moi même."
+    n "Elle était très intelligente, et j'admirais son état d'esprit. Elle voulais juste aider la population avec ses talents - et de cette façon, elle me renvoyait une image de moi-même."
 
 # game/remy3.rpy:276
 translate frenchtl _call_skipcheck_24_03882695:
@@ -298,7 +298,7 @@ translate frenchtl _call_skipcheck_24_6a306c8d:
 translate frenchtl _call_skipcheck_24_249e0608:
 
     # n "Of course, that complicated things. My committee was once again tasked with judging the viability of the different projects, and while I intended to stay impartial on the matter, she would probably be seen as an influence due to our relationship."
-    n "Bien sûr, ça compliquait les choses. Mon comité était de nouveau chargé de juger la viabilité des différents projets, et comme j'entendais rester impartial sur le sujet, elle aurait été probablement vu comme une influence due à notre relation."
+    n "Bien sûr, ça compliquait les choses. Mon comité était de nouveau chargé de juger la viabilité des différents projets, et comme j'entendais rester impartial sur le sujet, elle aurait été probablement vue comme une influence due à notre relation."
 
 # game/remy3.rpy:282
 translate frenchtl _call_skipcheck_24_70e3631a:
@@ -316,19 +316,19 @@ translate frenchtl _call_skipcheck_24_76b2fe88_3:
 translate frenchtl _call_skipcheck_24_d47bfbfb:
 
     # n "We didn't want to end our relationship over something like that, but if word got out that we were together during the decision-making period, it would've put both our jobs in jeopardy."
-    n "Nous ne voulions pas mettre un terme à notre relation pour quelque chose comme ça, mais s'il s'était appris que nous étions ensemble durant le période de décision, cela nous aurait coûté notre travail à tout les deux."
+    n "Nous ne voulions pas mettre un terme à notre relation pour quelque chose comme ça, mais s'il s'était appris que nous étions ensemble durant la période de décision, cela nous aurait coûté notre travail à tous les deux."
 
 # game/remy3.rpy:290
 translate frenchtl _call_skipcheck_24_0313b796:
 
     # n "In the end, we decided to wait and made a commitment. Six months after the grant was given to her team, we would return to one another and make our relationship public. That much time would have ensured that it wouldn't be an issue. We even made plans to move in together when that time came."
-    n "Au final, nous décidâmes d'attendre et nous fîmes une promesse. Six mois après que la bourse fût donnée à son équipe, nous avions prévu de nous remettre ensemble et de rendre notre relation public. Ce laps de temps nous aurait assuré que ça ne présentait aucun problème. Nous avions même prévu d'emménager ensemble le moment venu."
+    n "Au final, nous décidâmes d'attendre et nous fîmes une promesse. Six mois après que la bourse fût donnée à son équipe, nous avions prévu de nous remettre ensemble et de rendre notre relation publique. Ce laps de temps nous aurait assuré que ça ne présentait aucun problème. Nous avions même prévu d'emménager ensemble le moment venu."
 
 # game/remy3.rpy:292
 translate frenchtl _call_skipcheck_24_ffc4c27f:
 
     # n "But we never got that far. I only know the rest of what happened from various reports, but apparently, Amelia got sick. Nothing serious, mind you. She continued working from home as best as she could. The project was already behind schedule, and she didn't want to endanger it."
-    n "Mais nous ne fûmes pas jusque là. Je n'ai connaissance du reste que par divers rapports, mais apparement, Amelia est tombée malade. Rien de grave, bien sûr. Elle continuait à travailler de chez elle du mieux qu'elle pouvait. Le projet avait déjà du retard, et elle ne voulais pas risquer de le faire capoter."
+    n "Mais nous ne fûmes pas jusque-là. Je n'ai connaissance du reste que par divers rapports, mais apparement, Amelia est tombée malade. Rien de grave, bien sûr. Elle continuait à travailler de chez elle du mieux qu'elle pouvait. Le projet avait déjà du retard, et elle ne voulait pas risquer de le faire capoter."
 
 # game/remy3.rpy:295
 translate frenchtl _call_skipcheck_24_76b2fe88_4:
@@ -340,13 +340,13 @@ translate frenchtl _call_skipcheck_24_76b2fe88_4:
 translate frenchtl _call_skipcheck_24_87e8f10e:
 
     # n "People were critical and very curious about what the project would amount to, and she didn't want to be responsible for its failure if she took some days off to recuperate."
-    n "Les gens étaient critiques et très curieux à propos de ce qu'allait promettre ce projet, et elle ne voulais pas être responsable de son échec en prenant quelques jours de repos pour récupérer."
+    n "Les gens étaient critiques et très curieux à propos de ce qu'allait promettre ce projet, et elle ne voulait pas être responsable de son échec en prenant quelques jours de repos pour récupérer."
 
 # game/remy3.rpy:300
 translate frenchtl _call_skipcheck_24_6ace5aff:
 
     # n "So, every day, she continued working on the project until the dead of night."
-    n "Donc, chaque jours, elle continuait de travailler dessus jusqu'au milieu de la nuit."
+    n "Donc, chaque jour, elle continuait de travailler dessus jusqu'au milieu de la nuit."
 
 # game/remy3.rpy:302
 translate frenchtl _call_skipcheck_24_12960b72:
@@ -400,7 +400,7 @@ translate frenchtl _call_skipcheck_24_0f35610d:
 translate frenchtl _call_skipcheck_24_3cef5db4:
 
     # Ry "We had plans to move in together. We even talked about having our own, small family."
-    Ry "On avait prévu d'emménager ensemble. On avait même parler de fonder notre propre famille."
+    Ry "On avait prévu d'emménager ensemble. On avait même parlé de fonder notre propre famille."
 
 # game/remy3.rpy:330
 translate frenchtl _call_skipcheck_24_c3527876:
@@ -424,7 +424,7 @@ translate frenchtl _call_skipcheck_24_bdc479fd:
 translate frenchtl _call_skipcheck_24_ee27ef00:
 
     # Ry shy "Maybe you saw those pictures in my apartment."
-    Ry shy "Tu as éventuellement vu les photos dans mon appartement."
+    Ry shy "Tu as sans doute vu les photos dans mon appartement."
 
 # game/remy3.rpy:338
 translate frenchtl _call_skipcheck_24_cf9bdce1:
@@ -442,7 +442,7 @@ translate frenchtl _call_skipcheck_24_e2debe6f:
 translate frenchtl _call_skipcheck_24_c4704748:
 
     # Ry "When she gave it to me, she said that it was red like her scales. As long as I wore it, she would be with me, in a way."
-    Ry "Quand elle me l'a donnée, elle m'a dit que c'était rouge comme ses écailles. Qu'aussi longtemps que je la portait, elle serait à mes côtés, d'une certaine façon."
+    Ry "Quand elle me l'a donnée, elle m'a dit que c'était rouge comme ses écailles. Qu'aussi longtemps que je la portais, elle serait à mes côtés, d'une certaine façon."
 
 # game/remy3.rpy:344
 translate frenchtl _call_skipcheck_24_66fdf28d:
@@ -454,7 +454,7 @@ translate frenchtl _call_skipcheck_24_66fdf28d:
 translate frenchtl _call_skipcheck_24_725d4fb3:
 
     # Ry shy "Yet in some way, holding on to Amelia has helped me. When I look back on all the happy memories we made, Emera's bullying hurts a little less, if only because those memories hurt so much more."
-    Ry shy "Mais d'une certaine façon, me raccrocher à Amelia m'a aidé. Quand je regarde tous les bons moments qu'on a vécu, Le harcellement d'Emera fait un peu moins mal, parce que ces souvenirs sont encore plus douloureux."
+    Ry shy "Mais d'une certaine façon, me raccrocher à Amelia m'a aidé. Quand je regarde tous les bons moments qu'on a vécu, le harcellement d'Emera fait un peu moins mal, parce que ces souvenirs sont encore plus douloureux."
 
 # game/remy3.rpy:348
 translate frenchtl _call_skipcheck_24_97966788:
@@ -472,7 +472,7 @@ translate frenchtl _call_skipcheck_24_1d07de92:
 translate frenchtl _call_skipcheck_24_9a64222c:
 
     # Ry shy "Some days, I just don't want to do it anymore. I don't know how much longer I can."
-    Ry shy "Certains jours, Je n'ai plus envie de lutter. Je ne sais pas encore combien de temps je vais le pouvoir."
+    Ry shy "Certains jours, je n'ai plus envie de lutter. Je ne sais pas encore combien de temps je vais le pouvoir."
 
 # game/remy3.rpy:362
 translate frenchtl remy3skip1_ea0c63fd:
@@ -508,7 +508,7 @@ translate frenchtl remy2goodendingmenu_c6821729:
 translate frenchtl remy2goodendingmenu_a55627cc:
 
     # c "Yeah. The orphanage is notoriously understaffed. The children don't really have anyone else, so each volunteer is a godsend."
-    c "Ouais. L'orphelinat est clairement en sous effectif. Les enfants n'ont personne d'autre, Donc chaque bénévole est un cadeau du ciel."
+    c "Ouais. L'orphelinat est clairement en sous-effectif. Les enfants n'ont personne d'autre, donc chaque bénévole est un cadeau du ciel."
 
 # game/remy3.rpy:409
 translate frenchtl remy2goodendingmenu_622bea1d:
@@ -550,25 +550,25 @@ translate frenchtl remy2goodendingmenu_e9f36413:
 translate frenchtl remy2goodendingmenu_7db96020:
 
     # c "Why can't you talk to her?"
-    c "Pourquoi ne peux tu pas lui parler ?"
+    c "Pourquoi ne peux-tu pas lui parler ?"
 
 # game/remy3.rpy:423
 translate frenchtl remy2goodendingmenu_405cdad5:
 
     # Ry shy "I don't know. I don't want to face her. Whenever I see her, it's another reminder of what I lost. Besides, I don't think she wants to talk to me, either."
-    Ry shy "Je ne sais pas. Je ne veux pas lui faire face. A chaque fois que je la vois, ça me rappelle ce que j'ai perdu. De plus, je ne pense pas qu'elle veuille me parler non plus."
+    Ry shy "Je ne sais pas. Je ne veux pas lui faire face. À chaque fois que je la vois, ça me rappelle ce que j'ai perdu. De plus, je ne pense pas qu'elle veuille me parler non plus."
 
 # game/remy3.rpy:425
 translate frenchtl remy2goodendingmenu_8d58f762:
 
     # c "I think if you wanted to volunteer, she'd gladly accept the help."
-    c "Je pense que si tu voulais devenir bénévole, Elle accepterait l'aide volontière."
+    c "Je pense que si tu voulais devenir bénévole, elle accepterait l'aide volontière."
 
 # game/remy3.rpy:427
 translate frenchtl remy2goodendingmenu_84f0b1ee:
 
     # c "Besides, I saw that she tried to talk to you the other day."
-    c "En plus, J'ai vu qu'elle avait essayé de te parler l'autre jour."
+    c "En plus, j'ai vu qu'elle avait essayé de te parler l'autre jour."
 
 # game/remy3.rpy:429
 translate frenchtl remy2goodendingmenu_42f2fa39:
@@ -586,7 +586,7 @@ translate frenchtl remy2goodendingmenu_9af94ed3:
 translate frenchtl remy2goodendingmenu_568dc99e:
 
     # c "I don't think that was the only reason. Maybe she wanted to reconnect with you."
-    c "JE ne pense pas que ce soit la seule raison. Peut être qu'elle voulait reprendre contact avec toi."
+    c "Je ne pense pas que ce soit la seule raison. Peut-être qu'elle voulait reprendre contact avec toi."
 
 # game/remy3.rpy:435
 translate frenchtl remy2goodendingmenu_7b1ded36:
@@ -598,13 +598,13 @@ translate frenchtl remy2goodendingmenu_7b1ded36:
 translate frenchtl remy2goodendingmenu_6f5c69df:
 
     # Ry "I'm not sure about that."
-    Ry "Je n'en suis pas si sûre."
+    Ry "Je n'en suis pas si sûr."
 
 # game/remy3.rpy:439
 translate frenchtl remy2goodendingmenu_12281d58:
 
     # c "Maybe she actually feels the same way you do, and the map helped her muster up the courage to face you again."
-    c "Peut être qu'elle ressent la même chose que toi, et que la carte l'a aidé à rassembler assez de courage pour te voir."
+    c "Peut-être qu'elle ressent la même chose que toi, et que la carte l'a aidée à rassembler assez de courage pour te voir."
 
 # game/remy3.rpy:441
 translate frenchtl remy2goodendingmenu_e137ef85:
@@ -622,7 +622,7 @@ translate frenchtl remy2goodendingmenu_1a234d6d:
 translate frenchtl remy3ow_e4a06711:
 
     # c "Have you ever spoken to a professional about this?"
-    c "En as tu déjà parler avec un professionel ?"
+    c "En as-tu déjà parler avec un professionel ?"
 
 # game/remy3.rpy:457
 translate frenchtl c3remotherwise_f4b6677f:
@@ -694,7 +694,7 @@ translate frenchtl c3remotherwise_4f18057a:
 translate frenchtl c3remotherwise_3070bc42:
 
     # c "What are you talking about?"
-    c "De quoi parles tu ?"
+    c "De quoi parles-tu ?"
 
 # game/remy3.rpy:486
 translate frenchtl c3remotherwise_dccc307f:
@@ -742,7 +742,7 @@ translate frenchtl c3remotherwise_78ff6c33:
 translate frenchtl c3remotherwise_3a9ffa05:
 
     # Ry "Not as much. I guess whatever she was doing is over now, but who knows what went on in her lab? I imagine we'll hear all about it once the police search it and her apartment."
-    Ry "Moins qu'avant. Je suppose que peu importe ce qu'elle faisait, c'est fini maintenant, mais qui sait ce qui s'est déroulé dans son labo ? J'imagine que nous entendrons toute l'histoire une fois que la police l'aura fouillé avec son appartement."
+    Ry "Moins qu'avant. Je suppose que peu importe ce qu'elle faisait, c'est fini maintenant, mais qui sait ce qui s'est déroulé dans son labo ? J'imagine que nous entendrons toute l'histoire une fois que la police l'aura fouillée avec son appartement."
 
 # game/remy3.rpy:521
 translate frenchtl c3remotherwise_6f10ef78:
@@ -766,7 +766,7 @@ translate frenchtl c3remotherwise_4f18057a_1:
 translate frenchtl c3remotherwise_3070bc42_1:
 
     # c "What are you talking about?"
-    c "De quoi parles tu ?"
+    c "De quoi parles-tu ?"
 
 # game/remy3.rpy:529
 translate frenchtl c3remotherwise_c00c182f:
@@ -802,7 +802,7 @@ translate frenchtl c3remotherwise_f5ce6383:
 translate frenchtl c3remotherwise_2b8080a0:
 
     # m "Remy paused and gave me an embarrassed smile."
-    m "Rémi s'intérompit et m'adressa un sourire gêné."
+    m "Rémi s'interrompit et m'adressa un sourire gêné."
 
 # game/remy3.rpy:562
 translate frenchtl c3remotherwise_42d27763:
@@ -844,13 +844,13 @@ translate frenchtl _call_skipcheck_25_0054b77b:
 translate frenchtl _call_skipcheck_25_f6ab1f35:
 
     # c "I don't mind."
-    c "Ca ne me dérange pas."
+    c "Ça ne me dérange pas."
 
 # game/remy3.rpy:639
 translate frenchtl _call_skipcheck_25_1cfff36b:
 
     # Ry "There must be a lot on your mind too."
-    Ry "Il doit y avoir des choses qui te tracasse également."
+    Ry "Il doit y avoir des choses qui te tracassent également."
 
 # game/remy3.rpy:652
 translate frenchtl _call_skipcheck_25_b71a313d:
@@ -880,7 +880,7 @@ translate frenchtl _call_skipcheck_25_9f85b645:
 translate frenchtl _call_skipcheck_25_06edefa0:
 
     # Ry "And now you're hunting the person who was supposed to be your partner. That must be really hard for you."
-    Ry "Et maintenant tu traques la personne qui était supposé être ton partenaire. Ca doit être vraiment difficile pour toi."
+    Ry "Et maintenant tu traques la personne qui était supposée être ton partenaire. Ça doit être vraiment difficile pour toi."
 
 # game/remy3.rpy:662
 translate frenchtl _call_skipcheck_25_10c0af7d:
@@ -916,7 +916,7 @@ translate frenchtl _call_skipcheck_25_7944d851:
 translate frenchtl _call_skipcheck_25_5baebf80:
 
     # c "Honestly, I'm not sure. Back home, this relentless quality of his was admired, but I certainly don't condone his actions. Given what I know about him, I think he must have a reason, as weird and twisted as it may be."
-    c "Honnêtement, je n'en sais rien. Dans mon monde, Son acharnement était admiré, mais je ne cautionne pas ce qu'il a fait. Compte tenu de ce que je sais de lui, je pense qu'il doit avoir une raison, aussi bizzare et tordue soit elle."
+    c "Honnêtement, je n'en sais rien. Dans mon monde, Son acharnement était admiré, mais je ne cautionne pas ce qu'il a fait. Compte tenu de ce que je sais de lui, je pense qu'il doit avoir une raison, aussi bizarre et tordue soit-elle."
 
 # game/remy3.rpy:674
 translate frenchtl _call_skipcheck_25_b61f825f:
@@ -946,7 +946,7 @@ translate frenchtl _call_skipcheck_25_542d3abb:
 translate frenchtl _call_skipcheck_25_4a970e1d:
 
     # c "Not too great. We don't have any strong leads or any idea of his whereabouts. In the end, we're just following his trail of murder and destruction."
-    c "Pas si bien que ça. On n'a pas de piste solide ni aucune idée de où il se trouve. Au final, nous ne faisons que suivre les meutres et la destruction qu'il laisse derrière lui."
+    c "Pas si bien que ça. On n'a pas de piste solide ni aucune idée de où il se trouve. Au final, nous ne faisons que suivre les meurtres et la destruction qu'il laisse derrière lui."
 
 # game/remy3.rpy:684
 translate frenchtl _call_skipcheck_25_83995c02:
@@ -964,7 +964,7 @@ translate frenchtl _call_skipcheck_25_857eadc7:
 translate frenchtl _call_skipcheck_25_bbd18413:
 
     # Ry "That didn't happen. She feared the potential backlash if people knew about Reza while you were still here, so - for the time being - he has been declared as a missing person."
-    Ry "Ca ne s'est pas passé. Elle craignait le contrecoup potentiel si les gens apprenaient pour Reza alors que tu es toujours ici, donc - pour le moment - il a été déclaré porté disparu."
+    Ry "Ça ne s'est pas passé. Elle craignait le contrecoup potentiel si les gens apprenaient pour Reza alors que tu es toujours ici, donc - pour le moment - il a été déclaré porté disparu."
 
 # game/remy3.rpy:690
 translate frenchtl _call_skipcheck_25_12899eda:
@@ -988,7 +988,7 @@ translate frenchtl _call_skipcheck_25_fb304084:
 translate frenchtl _call_skipcheck_25_748968e5:
 
     # Ry "What we know about the break-ins and thefts is also damning. The objects stolen all point toward Reza. I'm not sure how much longer they can keep this a secret."
-    Ry "Ce que l'on sait au sujet des effaction et des vols aggravent également son cas. Les objets volés pointent tous vers Reza. Je ne sais pas pendant combien de temps il pourront garder ça secret."
+    Ry "Ce que l'on sait au sujet des effractions et des vols aggravent également son cas. Les objets volés pointent tous vers Reza. Je ne sais pas pendant combien de temps il pourront garder ça secret."
 
 # game/remy3.rpy:698
 translate frenchtl _call_skipcheck_25_d15a5506:
@@ -1012,7 +1012,7 @@ translate frenchtl _call_skipcheck_25_9a385c93:
 translate frenchtl _call_skipcheck_25_7c854124:
 
     # Ry normal "Well, you do have the council's support. If Emera voiced that you were on our side, it wouldn't be so bad if the public found out."
-    Ry normal "Eh bien, tu as le soutient du conseil. Si Emera a déclaré que tu étais de notre côté, ça ne serait pas si terrible si la population l'apprenait."
+    Ry normal "Eh bien, tu as le soutien du conseil. Si Emera a déclaré que tu étais de notre côté, ça ne serait pas si terrible si la population l'apprenait."
 
 # game/remy3.rpy:706
 translate frenchtl _call_skipcheck_25_9d1c2077:
@@ -1042,13 +1042,13 @@ translate frenchtl _call_skipcheck_25_798a1d0a:
 translate frenchtl _call_skipcheck_25_6b6a1636:
 
     # c "I can't really blame her for that. After all, she's supposed to be a representative of the people, right?"
-    c "Je ne peux pas vraiment la blâmer pour ça. Après tout, elle est supposée être une représentante du peuple, n'est-ce pas?"
+    c "Je ne peux pas vraiment la blâmer pour ça. Après tout, elle est supposée être une représentante du peuple, n'est-ce pas ?"
 
 # game/remy3.rpy:737
 translate frenchtl _call_skipcheck_25_8ae75e26:
 
     # Ry "I suppose so."
-    Ry "Il faut croire"
+    Ry "Il faut croire."
 
 # game/remy3.rpy:740
 translate frenchtl _call_skipcheck_25_35b8ef6a:
@@ -1072,7 +1072,7 @@ translate frenchtl _call_skipcheck_25_45d2fb7a:
 translate frenchtl _call_skipcheck_25_ee070bdc:
 
     # c "It might become one pretty soon. If word gets out and I'm suddenly his accomplice, what would happen to me?"
-    c "Ca pourrait le devenir très bientôt. Si le mot circule que d'un coup je suis son complice, que va-t-il m'arriver ?"
+    c "Ça pourrait le devenir très bientôt. Si le mot circule que d'un coup je suis son complice, que va-t-il m'arriver ?"
 
 # game/remy3.rpy:748
 translate frenchtl _call_skipcheck_25_f0a58102:
@@ -1108,7 +1108,7 @@ translate frenchtl _call_skipcheck_25_2682bb73:
 translate frenchtl _call_skipcheck_25_45713213:
 
     # c "I see. How do your jails work, anyway?"
-    c "Je vois. Au passage, comment vos prisons fonctionnent-elle ?"
+    c "Je vois. Au passage, comment vos prisons fonctionnent-elles ?"
 
 # game/remy3.rpy:760
 translate frenchtl _call_skipcheck_25_02ad0c6e:
@@ -1126,31 +1126,31 @@ translate frenchtl _call_skipcheck_25_1952102b:
 translate frenchtl _call_skipcheck_25_c877e3f7:
 
     # Ry "They receive the help they need, and efforts are taken to make them realize their wrongdoings and integrate them back into our community."
-    Ry "Ils recoivent l'aide dont ils ont besoin, et on prend le temps de leur faire réalisé le mal qu'ils ont fait et de les réintégrer dans notre communauté."
+    Ry "Ils recoivent l'aide dont ils ont besoin, et on prend le temps de leur faire réaliser le mal qu'ils ont fait et de les réintégrer dans notre communauté."
 
 # game/remy3.rpy:766
 translate frenchtl _call_skipcheck_25_523f5848:
 
     # Ry "Life isn't that much different there than it is here. The spaces are more cramped, for sure, but mostly it is just a very controlled environment."
-    Ry "La vie là bas n'est pas si différente d'ici. Les espaces sont plus réduits, pour sûr, mais il s'agit essentiellement d'un environement contrôlé."
+    Ry "La vie là-bas n'est pas si différente d'ici. Les espaces sont plus réduits, pour sûr, mais il s'agit essentiellement d'un environnement contrôlé."
 
 # game/remy3.rpy:768
 translate frenchtl _call_skipcheck_25_6c97725b:
 
     # c "That's not much of a punishment."
-    c "Ca ne ressemble pas à une punition."
+    c "Ça ne ressemble pas à une punition."
 
 # game/remy3.rpy:770
 translate frenchtl _call_skipcheck_25_ae852ba3:
 
     # Ry "It is a consequence, not necessarily a punishment. Our society at large benefits more from people who are rehabilitated, and if mental issues are the cause, those can at least be found and addressed."
-    Ry "C'est une conséquence, pas nécessairement une punition. Notre société dans son ensemble tire plus de d'avantages des personnes réhabilitées, et si des troubles mentaux en sont la cause, ceux là peuvent aux moins être trouvés et adressés."
+    Ry "C'est une conséquence, pas nécessairement une punition. Notre société dans son ensemble tire plus de d'avantages des personnes réhabilitées, et si des troubles mentaux en sont la cause, ceux-là peuvent aux moins être trouvés et adressés."
 
 # game/remy3.rpy:772
 translate frenchtl _call_skipcheck_25_7de3b069:
 
     # c "That sounds like how it used to be back home. These days, in our city, you get three strikes."
-    c "Ca ressemble à comment c'était avant dans mon monde. Ces temps ci, dans notre ville, tu as trois avertissements."
+    c "Ça ressemble à comment c'était avant dans mon monde. Ces temps-ci, dans notre ville, tu as trois avertissements."
 
 # game/remy3.rpy:774
 translate frenchtl _call_skipcheck_25_f959f65b:
@@ -1162,7 +1162,7 @@ translate frenchtl _call_skipcheck_25_f959f65b:
 translate frenchtl _call_skipcheck_25_a3b2eb8b:
 
     # c "Three infractions of our rules and you get thrown out of the city. If someone is a drain on our limited resources, we won't support them."
-    c "Trois infractions de nos règles et tu est banni de la ville. Si quelqu'un tire trop sur nos ressources, qui sont déjà limitées, On ne le soutiendra pas"
+    c "Trois infractions de nos règles et tu est banni de la ville. Si quelqu'un tire trop sur nos ressources, qui sont déjà limitées, on ne le soutiendra pas"
 
 # game/remy3.rpy:778
 translate frenchtl _call_skipcheck_25_420d1f0a:
@@ -1174,19 +1174,19 @@ translate frenchtl _call_skipcheck_25_420d1f0a:
 translate frenchtl _call_skipcheck_25_e25ea962:
 
     # c "It has worked so far. And it's not as if the outside is completely unkind."
-    c "Ca a bien marché jusque là. Et ce n'est pas comme si l'extérieur était totalement cruel."
+    c "Ça a bien marché jusque là. Et ce n'est pas comme si l'extérieur était totalement cruel."
 
 # game/remy3.rpy:782
 translate frenchtl _call_skipcheck_25_a9e762ed:
 
     # c "Someone expelled from the city might find a different community, or join one of the mobile groups. The situation inside our city-state is still much better than the outside, though. They're very strict with those allowed to live there."
-    c "Quelqu'un expulsé de la ville peut éventuellement trouver une autr communauté, ou rejoindre les groupes nomades. La situation dans notre cité-état demeure en revanche bien meilleure qu'à l'extérieur. Ils sont très stricts avec ceux autorisés à vivre là bas."
+    c "Quelqu'un expulsé de la ville peut éventuellement trouver une autre communauté, ou rejoindre les groupes nomades. La situation dans notre cité-état demeure en revanche bien meilleure qu'à l'extérieur. Ils sont très stricts avec ceux autorisés à vivre là-bas."
 
 # game/remy3.rpy:784
 translate frenchtl _call_skipcheck_25_46192a75:
 
     # c "It is a privilege. Anyone or anything that threatens the inside society or the lives of its people is removed very quickly."
-    c "C'est un privilège. Quiconque or quoi que ce soit menacant notre micro société ou la vie de ses habitants est très vite dégagé."
+    c "C'est un privilège. Quiconque ou quoi que ce soit menaçant notre micro-société ou la vie de ses habitants est très vite dégagé."
 
 # game/remy3.rpy:786
 translate frenchtl _call_skipcheck_25_c665a09c:
@@ -1198,7 +1198,7 @@ translate frenchtl _call_skipcheck_25_c665a09c:
 translate frenchtl _call_skipcheck_25_ee51ebb9:
 
     # c "No, we don't do that, but murder is a crime so heinous that immediate expellation is the consequence - regardless of prior infractions."
-    c "Non, on ne fait pas ça, mais le meurtre est un crime si abominable que la conséquence est l'expulsion immédiate - peu importe les infractions passées."
+    c "Non, on ne fait pas ça, mais le meurtre est un crime si abominable que la conséquence est l'expulsion immédiate - peu importent les infractions passées."
 
 # game/remy3.rpy:790
 translate frenchtl _call_skipcheck_25_b477a6cb:
@@ -1228,19 +1228,19 @@ translate frenchtl _call_skipcheck_25_e804a739:
 translate frenchtl _call_skipcheck_25_3b391f83:
 
     # Ry look "It varies here, but I'm so tired of Emera and her games. As I work with her, I can see exactly how she plays the public."
-    Ry look "Ca dépend ici, mais je suis fatigué d'Emera et de ses jeux. Comme je travaille avec elle, je peux voir exactement comment elle joue avec l'opinion publique."
+    Ry look "Ça dépend ici, mais je suis fatigué d'Emera et de ses jeux. Comme je travaille avec elle, je peux voir exactement comment elle joue avec l'opinion publique."
 
 # game/remy3.rpy:800
 translate frenchtl _call_skipcheck_25_ac354dbf:
 
     # Ry "I know every council member has their own approach, but everything she does is so... tailored towards the public's expectations. For her it's just a popularity contest."
-    Ry "Je sais que chaque membre du conseil a sa propre approche, mais tout ce qu'elle fait est tellement... façonné en fonction des attentes de la population. Pour elle, c'est juste un concours de popularité."
+    Ry "Je sais que chaque membre du conseil a sa propre approche, mais tout ce qu'elle fait est tellement... Façonné en fonction des attentes de la population. Pour elle, c'est juste un concours de popularité."
 
 # game/remy3.rpy:802
 translate frenchtl _call_skipcheck_25_bcee4986:
 
     # c "You know what? That gives me an idea."
-    c "Tu sais quoi ? Ca me donne une idée."
+    c "Tu sais quoi ? Ça me donne une idée."
 
 # game/remy3.rpy:804
 translate frenchtl _call_skipcheck_25_885c4b42:
@@ -1270,13 +1270,13 @@ translate frenchtl _call_skipcheck_25_9c3d3365:
 translate frenchtl _call_skipcheck_25_846778c9:
 
     # Ry "That sounds accurate."
-    Ry "Ca a lui ressemble bien."
+    Ry "Ça lui ressemble bien."
 
 # game/remy3.rpy:814
 translate frenchtl _call_skipcheck_25_b0bbb188:
 
     # c "Maybe we can use that to our advantage."
-    c "Peut être qu'on peut utiliser ça à notre avantage."
+    c "Peut-être qu'on peut utiliser ça à notre avantage."
 
 # game/remy3.rpy:816
 translate frenchtl _call_skipcheck_25_ff76be0e:
@@ -1288,7 +1288,7 @@ translate frenchtl _call_skipcheck_25_ff76be0e:
 translate frenchtl _call_skipcheck_25_90973587:
 
     # c "She can't send me back to my world right now. That makes me the only one here with knowledge of Reza, and humans in general."
-    c "Elle ne peut pas me renvoyer dans mon monde tout de suite. Ca fait de moi la seule personne connaissant Reza, et le genre humain en général."
+    c "Elle ne peut pas me renvoyer dans mon monde tout de suite. Ça fait de moi la seule personne connaissant Reza, et le genre humain en général."
 
 # game/remy3.rpy:820
 translate frenchtl _call_skipcheck_25_925658b4:
@@ -1312,7 +1312,7 @@ translate frenchtl _call_skipcheck_25_e3bc8545:
 translate frenchtl _call_skipcheck_25_fac45050:
 
     # c "Yes, but I was trying to use reason and plead with her. I didn't take into account her fear of public backlash."
-    c "Oui, mais J'essayais d'user de raison et de la supplier. Je n'avais pas pris en compte sa crainte d'un retour de flamme de l'opinion publique."
+    c "Oui, mais j'essayais d'user de raison et de la supplier. Je n'avais pas pris en compte sa crainte d'un retour de flamme de l'opinion publique."
 
 # game/remy3.rpy:828
 translate frenchtl _call_skipcheck_25_d275bad4:
@@ -1372,13 +1372,13 @@ translate frenchtl _call_skipcheck_25_b33f9c5c:
 translate frenchtl _call_skipcheck_25_0940dd49:
 
     # Ry "That's going to be difficult with the portal out of order."
-    Ry "Ca va être difficile avec le portail hors service."
+    Ry "Ça va être difficile avec le portail hors-service."
 
 # game/remy3.rpy:848
 translate frenchtl _call_skipcheck_25_1996c80d:
 
     # c "The person who did it probably didn't realize it wasn't a very good idea. This might make Reza even more desperate. Who knows what he will do next?"
-    c "La personne qui a fait ça n'a probablement pas réalisé que ce n'était pas une très bonne idée. Ca pourrait rendre Reza encore plus désespéré. Qui sait ce qu'il fera ensuite ?"
+    c "La personne qui a fait ça n'a probablement pas réalisé que ce n'était pas une très bonne idée. Ça pourrait rendre Reza encore plus désespéré. Qui sait ce qu'il fera ensuite ?"
 
 # game/remy3.rpy:850
 translate frenchtl _call_skipcheck_25_43b19ad3:
@@ -1396,7 +1396,7 @@ translate frenchtl _call_skipcheck_25_e55dfc24:
 translate frenchtl _call_skipcheck_25_c1df668f:
 
     # c "That wouldn't be so bad. Of course I still want to help our city, but if there was no way to return, I wouldn't mind living here."
-    c "Ca ne serait pas si mal. Bien sûr, je veux toujours aider notre ville, mais s'il n'y avait aucun moyen de rentrer, ça ne me dérangerai pas de vivre ici."
+    c "Ça ne serait pas si mal. Bien sûr, je veux toujours aider notre ville, mais s'il n'y avait aucun moyen de rentrer, ça ne me dérangerait pas de vivre ici."
 
 # game/remy3.rpy:860
 translate frenchtl _call_skipcheck_25_07d1113d_1:
@@ -1414,7 +1414,7 @@ translate frenchtl _call_skipcheck_25_c19dccef:
 translate frenchtl _call_skipcheck_25_3171a443:
 
     # Ry smile "That's good to hear. I certainly wouldn't mind if you stuck around."
-    Ry smile "C'est bon à entendre. Ca ne me dérangerais absolument pas si tu restais ici."
+    Ry smile "C'est bon à entendre. Ça ne me dérangerait absolument pas si tu restais ici."
 
 # game/remy3.rpy:885
 translate frenchtl _call_skipcheck_25_26bde24d:
@@ -1492,7 +1492,7 @@ translate frenchtl _call_skipcheck_25_eadae91a:
 translate frenchtl _call_skipcheck_25_e862099e:
 
     # c "Back home, I was just trying to survive and help others do the same. That hasn't changed. I'm almost afraid of going back to the city, though. Times are so rough."
-    c "Chez moi, J'essayais juste de survivre et d'aider les autres à faire de même. Ca n'a pas changé. En revanche, je suis effrayé à l'idée de rentrer chez moi. Les temps sont dures."
+    c "Chez moi, J'essayais juste de survivre et d'aider les autres à faire de même. Ça n'a pas changé. En revanche, je suis effrayé à l'idée de rentrer chez moi. Les temps sont durs."
 
 # game/remy3.rpy:933
 translate frenchtl _call_skipcheck_25_c7ad976e:
@@ -1510,7 +1510,7 @@ translate frenchtl _call_skipcheck_25_81b085c1:
 translate frenchtl _call_skipcheck_25_9b09559a:
 
     # Ry shy "I don't know... I just..."
-    Ry shy "Je ne sais pas... je suis juste..."
+    Ry shy "Je ne sais pas... Je suis juste..."
 
 # game/remy3.rpy:949
 translate frenchtl _call_skipcheck_25_c451845a:
@@ -1522,7 +1522,7 @@ translate frenchtl _call_skipcheck_25_c451845a:
 translate frenchtl _call_skipcheck_25_546b0c03:
 
     # c "What does it matter if you aren't as strong? If people only did what they were the absolute best at, they wouldn't be doing much at all."
-    c "En quoi c'est important si tu n'es pas fort ? Si les gens faisaient seulement ce dans quoi ils excellaient, Ils ne feraient pas beaucoup de choses."
+    c "En quoi c'est important si tu n'es pas fort ? Si les gens faisaient seulement ce dans quoi ils excellaient, ils ne feraient pas beaucoup de choses."
 
 # game/remy3.rpy:957
 translate frenchtl _call_skipcheck_25_18afacc7:
@@ -1540,7 +1540,7 @@ translate frenchtl _call_skipcheck_25_55d49291:
 translate frenchtl _call_skipcheck_25_07b50d2c:
 
     # Ry "Yeah. I miss those days. What about it?"
-    Ry "Ouais, ces jours là me manquent. où veux tu en venir ?"
+    Ry "Ouais, ces jours-là me manquent. Où veux tu en venir ?"
 
 # game/remy3.rpy:964
 translate frenchtl _call_skipcheck_25_2eee8689:
@@ -1558,7 +1558,7 @@ translate frenchtl _call_skipcheck_25_cedd5527:
 translate frenchtl _call_skipcheck_25_b9cfff80:
 
     # c "Maybe, once your term with Emera is over, you could do something like that again."
-    c "Peut être qu'une fois ton contrat avec Emera terminé, tu pourrais de nouveau faire quelque chose comme ça."
+    c "Peut-être qu'une fois ton contrat avec Emera terminé, tu pourrais de nouveau faire quelque chose comme ça."
 
 # game/remy3.rpy:970
 translate frenchtl _call_skipcheck_25_e730f137:
@@ -1594,7 +1594,7 @@ translate frenchtl _call_skipcheck_25_0f173ebb:
 translate frenchtl _call_skipcheck_25_8ef31f97:
 
     # Ry "I was trying to figure out why you wanted to hang out with me so often."
-    Ry "J'essayais de comprendre pourquoi tu voulais trainer avec moi si souvent."
+    Ry "J'essayais de comprendre pourquoi tu voulais traîner avec moi si souvent."
 
 # game/remy3.rpy:984
 translate frenchtl _call_skipcheck_25_3070bc42:
@@ -1606,19 +1606,19 @@ translate frenchtl _call_skipcheck_25_3070bc42:
 translate frenchtl _call_skipcheck_25_adb6d117:
 
     # Ry "Since Amelia died, I've been alone. It's been years. I don't even have anyone I could consider a friend."
-    Ry "Depuis qu'Amelia est morte, J'ai été seul. Ca fait des années. Je n'ai même pas quelqu'un que je pourrais considérer comme un ami."
+    Ry "Depuis qu'Amelia est morte, j'ai été seul. Ça fait des années. Je n'ai même pas quelqu'un que je pourrais considérer comme un ami."
 
 # game/remy3.rpy:988
 translate frenchtl _call_skipcheck_25_4c9444cf:
 
     # Ry "When you came to our world and started to spend time with me, I thought maybe things were about to change. That, maybe, I'd found a friend."
-    Ry "Quand tu es arrivé dans notre monde et commencé à passer du temps avec moi, je pensais que les choses allaient changer. Que, peut être, je trouverais un ami."
+    Ry "Quand tu es arrivé dans notre monde et commencé à passer du temps avec moi, je pensais que les choses allaient changer. Que, peut-être, je trouverais un ami."
 
 # game/remy3.rpy:990
 translate frenchtl _call_skipcheck_25_af6e8494:
 
     # Ry sad "But you're not that different. You make fun of me and belittle me just like everyone else. Even after everything I told you about myself. You don't care about me, do you?"
-    Ry sad "Mais tu n'est pas si différent. Tu te moques de moi et me rabaisses comme tout les autres. Même après tout ce que je t'ai racconté à mon sujet. Tu n'en as rien à faire de moi, n'est-ce pas ?"
+    Ry sad "Mais tu n'est pas si différent. Tu te moques de moi et me rabaisses comme tout les autres. Même après tout ce que je t'ai raconté à mon sujet. Tu n'en as rien à faire de moi, n'est-ce pas ?"
 
 # game/remy3.rpy:992
 translate frenchtl _call_skipcheck_25_79b7f4a7:
@@ -1654,7 +1654,7 @@ translate frenchtl remy3skip2_4e8c7062:
 translate frenchtl remy3skip2_83a2f807:
 
     # Ry "Do you even like me? There must be a reason why you've put up with me for this long."
-    Ry "Est-ce que tu m'apprécie ? Il doit bien y avoir une raison pour laquelle tu es resté avec moi aussi longtemps."
+    Ry "Est-ce que tu m'apprécies ? Il doit bien y avoir une raison pour laquelle tu es resté avec moi aussi longtemps."
 
 # game/remy3.rpy:1037
 translate frenchtl remy3skip2_3070bc42:
@@ -1666,13 +1666,13 @@ translate frenchtl remy3skip2_3070bc42:
 translate frenchtl remy3skip2_5563536d:
 
     # Ry "Do you consider me a friend, or maybe more?"
-    Ry "Me considères tu comme un ami, ou bien plus ?"
+    Ry "Me considères-tu comme un ami, ou bien plus ?"
 
 # game/remy3.rpy:1047
 translate frenchtl remy3skip2_c03b09de:
 
     # Ry smile "That makes me really happy to hear. I haven't had a friend in a very long time."
-    Ry smile "Ca me rend vraiment heureux de l'entendre. Je n'ai pas eu d'ami depuis très longtemps."
+    Ry smile "Ça me rend vraiment heureux de l'entendre. Je n'ai pas eu d'ami depuis très longtemps."
 
 # game/remy3.rpy:1049
 translate frenchtl remy3skip2_858cc231:
@@ -1708,19 +1708,19 @@ translate frenchtl remy3skip2_edc24fe3:
 translate frenchtl remy3skip2_68d24e8a:
 
     # Ry normal "They've got fireworks and all kinds of shows."
-    Ry normal "Ils ons des feu d'artifices et tout plein de spectacles."
+    Ry normal "Ils ont des feu d'artifices et tout plein de spectacles."
 
 # game/remy3.rpy:1092
 translate frenchtl remy3skip2_b36378c5:
 
     # Ry smile "It might be fun for you to experience a different part of our culture."
-    Ry smile "Ca serait fun pour toi d'expérimenter une part différente de notre culture."
+    Ry smile "Ça serait fun pour toi d'expérimenter une part différente de notre culture."
 
 # game/remy3.rpy:1094
 translate frenchtl remy3skip2_2fee0841:
 
     # Ry normal "What do you say? Would you like to accompany me?"
-    Ry normal "Qu'en dis-tu ? Aimerais tu m'accompagner ?"
+    Ry normal "Qu'en dis-tu ? Aimerais-tu m'accompagner ?"
 
 # game/remy3.rpy:1096
 translate frenchtl remy3skip2_cfbad862:
@@ -1732,7 +1732,7 @@ translate frenchtl remy3skip2_cfbad862:
 translate frenchtl remy3skip2_07d1113d:
 
     # Ry "I see."
-    Ry "Je vois"
+    Ry "Je vois."
 
 # game/remy3.rpy:1100
 translate frenchtl remy3skip2_6237c784:
@@ -1786,7 +1786,7 @@ translate frenchtl remy3skip2_24f0365a:
 translate frenchtl remy3skip2_593874c3:
 
     # Ry "You know what? It doesn't matter."
-    Ry "Tu sais quoi ? Ca ne fait rien."
+    Ry "Tu sais quoi ? Ça ne fait rien."
 
 # game/remy3.rpy:1151
 translate frenchtl remy3skip2_7054bdb7:
@@ -1840,7 +1840,7 @@ translate frenchtl strings:
 
     # remy3.rpy:133
     old "It's nothing special."
-    new "Ca n'a rien de spécial."
+    new "Ça n'a rien de spécial."
 
     # remy3.rpy:183
     old "I used to."
@@ -1888,7 +1888,7 @@ translate frenchtl strings:
 
     # remy3.rpy:854
     old "That wouldn't be so bad."
-    new "Ca ne serait pas si mal."
+    new "Ça ne serait pas si mal."
 
     # remy3.rpy:854
     old "I'd love living here."
@@ -1896,7 +1896,7 @@ translate frenchtl strings:
 
     # remy3.rpy:854
     old "That'd be a shame."
-    new "Ca serait dommage"
+    new "Ça serait dommage."
 
     # remy3.rpy:898
     old "You're right."
@@ -1904,7 +1904,7 @@ translate frenchtl strings:
 
     # remy3.rpy:898
     old "Don't say that."
-    new "Ne dis pas ça?"
+    new "Ne dis pas ça."
 
     # remy3.rpy:898
     old "We all have our own struggles."
@@ -1924,7 +1924,7 @@ translate frenchtl strings:
 
     # remy3.rpy:1041
     old "I like you as a friend."
-    new "Je te considère comme un ami"
+    new "Je te considère comme un ami."
 
     # remy3.rpy:1041
     old "I like you as more than just a friend."
