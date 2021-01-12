@@ -43,7 +43,7 @@ bryce3 ✔✔<br/>
 lorem3 ✔✔<br/>
 remy3 ✔✔<br/>
 xkatsu ✔✔<br/>
-chapter4 ✔<br/>
+chapter4 ✔✔<br/>
 adine4 ✔✔<br/>
 anna4 ✔✔<br/>
 bryce4 ✔✔<br/>
