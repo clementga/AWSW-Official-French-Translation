@@ -6027,7 +6027,7 @@ translate french _call_popularcheck_e0eb1d42:
 translate french _call_popularcheck_1335da7e:
 
     # Ry "Let me know if you are interested."
-    Ry "Fait-moi savoir si tu es toujours intéressé."
+    Ry "Fais-moi savoir si tu es toujours intéressé."
 
 # game/chapter3.rpy:4700
 translate french _call_popularcheck_df853375:
@@ -6039,7 +6039,7 @@ translate french _call_popularcheck_df853375:
 translate french _call_popularcheck_14f20a32:
 
     # c "(I guess that's my official invitation. Now the question is if I want to go or not.)"
-    c "(Je suppose que c'est une invitation officielle. Reste à savoir si je veux toujours y aller ou non.)"
+    c "(J'imagine que c'est mon invitation officielle. Maintenant la question est si je veux y aller ou non.)"
 
 # game/chapter3.rpy:4744
 translate french _call_popularcheck_1_98b9e136:
@@ -6051,7 +6051,7 @@ translate french _call_popularcheck_1_98b9e136:
 translate french _call_popularcheck_1_dec85ff4:
 
     # Br "All of the guys from the department will be there."
-    Br "Y aura quelques gars du poste qui seront là."
+    Br "Tout les gars du département seront là aussi."
 
 # game/chapter3.rpy:4748
 translate french _call_popularcheck_1_9dc64384:
@@ -6069,13 +6069,13 @@ translate french _call_popularcheck_1_7ab4692f:
 translate french _call_popularcheck_1_f7c4de1d:
 
     # Br "If you wanna come, let me know so I can hook you up with the details."
-    Br "Si ça t'intéresse toujours, rappelle moi pour que je te mette au parfum."
+    Br "Si ça t'intéresse toujours, rappelles moi pour que je te mette au parfum."
 
 # game/chapter3.rpy:4758
 translate french _call_popularcheck_1_3e69d653:
 
     # c "(A dragon BBQ party with a human as the guest of honor. Not suspicious at all, Bryce.)"
-    c "(Un barbecue entre dragon, avec un humain comme invité d'honneur ? Pas du tout bizarre comme plan, Bryce.)"
+    c "(Un barbecue entre dragon, avec un humain comme invité d'honneur ? C'est pas suspect du tout, Bryce.)"
 
 # game/chapter3.rpy:4775
 translate french _call_popularcheck_2_8bf0501b:
@@ -6183,19 +6183,19 @@ translate french _call_popularcheck_4_1becd696:
 translate french _call_popularcheck_4_315a50c9:
 
     # Ad "Well, I don't think you're that kind of person."
-    Ad "Nan ! Je ne crois pas que tu sois ce genre de personne !"
+    Ad "Nan ! Je ne crois pas que tu sois ce genre de personne."
 
 # game/chapter3.rpy:4869
 translate french _call_popularcheck_4_abfdff27:
 
     # Ad "Oh, I do hope this is the right number, or someone is going to be very confused."
-    Ad "Oh, j'espère que je suis au bon numéro au moins, sinon je connais quelqu'un qui va être complètement perdu."
+    Ad "Oh, j'espère que c'était le bon numéro, ou alors quelqu'un va être très confus."
 
 # game/chapter3.rpy:4875
 translate french _call_popularcheck_4_c988d1f1:
 
     # c "(Well, she did get the right number and I'm still confused.)"
-    c "(Eh bien, elle a composé le bon numéro, mais je suis quand même complètement perdu.)"
+    c "(Eh bien, elle a composé le bon numéro, mais je suis quand même confus.)"
 
 # game/chapter3.rpy:4915
 translate french _call_popularcheck_5_6446f506:
@@ -6231,13 +6231,13 @@ translate french _call_popularcheck_5_731ee041:
 translate french _call_popularcheck_6_b9386ee3:
 
     # An "I just wanted to update you. I still don't have an open spot in the facility for your tests, but I'll be free if you want to cash in your reward."
-    An "Je voulais juste te tenir au courant. Le labo n'est toujours pas disponible pour les tests, mais moi je serai disponible si jamais tu veux encaisser ta récompense."
+    An "Je voulais juste te tenir au courant. Je n'ai pas encore d'ouverture au complexe pour tes tests, mais je serai disponible si tu veux venir réclamer ta récompense."
 
 # game/chapter3.rpy:4946
 translate french _call_popularcheck_6_c3af19bf:
 
     # An "You know I'm busy, so this is your chance for your date if you even still want to go through with it. Take it or leave it. I don't care much either way."
-    An "Tu sais, je n'ai pas beaucoup de temps libre, alors c'est l'occasion pour ton rencard, si jamais tu as le courage d'aller jusqu'au bout. A prendre ou à laisser. De toute façon ça ne m'inquiète pas plus que ça."
+    An "Tu sais que je suis généralement occupé, alors c'est maintenant ou jamais pour ton rancard si tu es encore intéressé. C'est à prendre ou à laisser. Ton choix ne m'importe peu."
 
 # game/chapter3.rpy:4948
 translate french _call_popularcheck_6_a0d06abf:
@@ -6291,7 +6291,7 @@ translate french _call_popularcheck_8_2c3fc2b1:
 translate french _call_popularcheck_8_120b81ba:
 
     # Lo "So, see you soon? Maybe."
-    Lo "Alors, à bientôt, peut-être ?"
+    Lo "Alors, à bientôt, peut-être."
 
 # game/chapter3.rpy:5178
 translate french _call_popularcheck_9_a0f30a76:
