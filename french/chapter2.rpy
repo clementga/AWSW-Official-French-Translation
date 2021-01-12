@@ -12,7 +12,7 @@ translate french chapter2_76b2fe88:
 translate french _call_skiptut_11_7c2b96fe:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?"
-    s "﻿Mes données indiquent que vous avez déjà vécu cette section d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
+    s "Mes données indiquent que vous avez déjà vécu cette section d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des scènes ?"
 
 # game/chapter2.rpy:228
 translate french _call_skiptut_11_84d46f4f:
@@ -4124,19 +4124,19 @@ translate french chapter2chars_b1f3b2e0:
 translate french chapter2chars_e0eb1d42:
 
     # Ry "Hello, this is Rémi speaking. I'm calling in regard to the dinner we talked about. I'll have an opening soon and was wondering if you also had the time."
-    Ry "Allo ? C'est Rémi à l'appareil. J'appelle à propos du dîner dont nous avons parlé. J'aurai une disponibilité bientôt et je me demandais si tu étais également disponible."
+    Ry "Bonjour, Remy à l'appareil. J'appelle au sujet du dîner dont on a parlé l'autre jour. J'aurai bientôt une soirée de libre et je me demandais si tu aurais le temps."
 
 # game/chapter2.rpy:4073
 translate french chapter2chars_1335da7e:
 
     # Ry "Let me know if you are interested."
-    Ry "Fais-le moi savoir si tu es intéressé."
+    Ry "Fais-moi savoir si tu es toujours intéressé."
 
 # game/chapter2.rpy:4075
 translate french chapter2chars_df853375:
 
     # Ry "Have a good day."
-    Ry "Bonne journée."
+    Ry "Passe une bonne journée."
 
 # game/chapter2.rpy:4081
 translate french chapter2chars_14f20a32:
@@ -4148,73 +4148,73 @@ translate french chapter2chars_14f20a32:
 translate french _call_popularcheck_10_8bf0501b:
 
     # Br "Hey. I was just thinking about last time. I know we got a little blackout drunk, but I still thought that was kinda fun."
-    Br "Salut. Je repensais à la dernière fois. Je sais qu'on a fini légèrement ivre mort, mais je me suis quand même bien amusé."
+    Br "Hey. Je pensais à l'autre soir. Je sais qu'on a fini ivre morts, mais tout de même je trouve que c'était assez amusant."
 
 # game/chapter2.rpy:4126
 translate french _call_popularcheck_10_e0bc6ab0:
 
     # Br "I think you had some fun too, but I also wanted to show you there's more to me than that."
-    Br "Je pense que tu t'es amusé aussi, mais je voulais aussi te montrer que ce n'est pas la seule chose que je sais faire."
+    Br "Je sais que tu t'es bien marré toi aussi. Mais je voulais te montrer qu'il y a bien plus à mon sujet."
 
 # game/chapter2.rpy:4128
 translate french _call_popularcheck_10_ed3abd0d:
 
     # Br "So, I was just wondering if you wanted to come over just to hang out and relax, you know."
-    Br "Alors, tu sais, je me demandais juste si tu ne voulais pas venir chez moi pour qu'on puisse passer un peu de temps ensemble et qu'on puisse se relaxer un peu."
+    Br "Du coup, je me demandais si tu voudrais passer chez moi juste pour traîner, tout ça."
 
 # game/chapter2.rpy:4130
 translate french _call_popularcheck_10_e06dc126:
 
     # Br "We only get to see each other when things are all serious, and I bet it's rough for you with everything that's going on. I figured you might want to get away from that a little."
-    Br "On ne se voit que dans des situations sérieuses, et je suis prêt à parier que c'est difficile pour toi avec tout ce qu'il se passe en ce moment. Je me disais que tu voudrais te soustraire un peu à tout ça."
+    Br "On se voit presque toujours pour parler boulot et autres trucs sérieux. Je me doute que ce n'est pas facile pour toi, tout ce qui se passe. Je me suis dit que tu voudrais peut-être te vider un peu la tête."
 
 # game/chapter2.rpy:4132
 translate french _call_popularcheck_10_38062cc6:
 
     # Br "Anyway, if you want to drop by at any time - my door's open, buddy."
-    Br "Bref, si tu veux venir à tout moment - ma porte est ouverte, mon ami."
+    Br "Bref. Si ça te tente, t'es le bienvenu quelque soit l'heure, mon pote."
 
 # game/chapter2.rpy:4138
 translate french _call_popularcheck_10_26eaf959:
 
     # c "(Considering what happened last time, entering the literal dragon's den could either turn out really well, or not so much.)"
-    c "(En considérant ce qu'il s'est passé la dernière fois, entrer dans le littéral repaire du dragon pourrait soit finir très bien, soit assez mal.)"
+    c "(Sachant ce qui s'est passé la dernière fois, entrer littéralement dans la tanière du dragon peut soit être une très bonne idée, soit un mauvais plan.)"
 
 # game/chapter2.rpy:4180
 translate french _call_popularcheck_11_d18e1351:
 
     # Ad "Please leave a message after the beep."
-    Ad "Veuillez laisser un message après le bip."
+    Ad "Veuillez laisser un message après le bip sonore."
 
 # game/chapter2.rpy:4182
 translate french _call_popularcheck_11_a660fec1:
 
     # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!"
-    Ad "Je t'ai eu ! Tu pensais que c'était ton répondeur, mais c'était moi, Adine !"
+    Ad "Je t'ai eu ! Tu croyais que c'était ton répondeur, mais c'était moi, Adine !"
 
 # game/chapter2.rpy:4184
 translate french _call_popularcheck_11_0a32300e:
 
     # Ad "I know we talked about me coming over again, but I thought, why not mix it up and you come to me instead?"
-    Ad "Je sais qu'on avait dit que je viendrais chez toi de nouveau, mais je me suis dit, pourquoi ne pas changer et te faire venir chez moi à la place ?"
+    Ad "Je sais qu'on s'était dit que je pouvais revenir te voir chez toi, mais je me suis dit, pourquoi ne pas inverser les rôles ?"
 
 # game/chapter2.rpy:4186
 translate french _call_popularcheck_11_72eded98:
 
     # Ad "I mean, it's not like I can use your excuse and pretend to order something from you."
-    Ad "Je veux dire, ce n'est pas comme si je pouvais utiliser ton excuse et prétendre commander quelque chose de ta part."
+    Ad "Je veux dire, ce n'est pas comme si je pouvais te demander de me livrer quelque chose."
 
 # game/chapter2.rpy:4188
 translate french _call_popularcheck_11_1becd696:
 
     # Ad "After all, you don't even have anything to sell or deliver. Unless..."
-    Ad "Après tout, je ne sais même pas ce que tu pourrais vendre ou livrer. Sauf si..."
+    Ad "Après tout, tu n'as rien à livrer, ou à vendre. À moins que..."
 
 # game/chapter2.rpy:4190
 translate french _call_popularcheck_11_315a50c9:
 
     # Ad "Well, I don't think you're that kind of person."
-    Ad "Mais euh, je ne pense pas que tu sois ce genre de personne."
+    Ad "Nan ! Je ne crois pas que tu sois ce genre de personne."
 
 # game/chapter2.rpy:4192
 translate french _call_popularcheck_11_abfdff27:
@@ -4226,7 +4226,7 @@ translate french _call_popularcheck_11_abfdff27:
 translate french _call_popularcheck_11_c988d1f1:
 
     # c "(Well, she did get the right number and I'm still confused.)"
-    c "(Eh bien, elle a eu le bon numéro, et je suis quand même confus.)"
+    c "(Eh bien, elle a composé le bon numéro, mais je suis quand même confus.)"
 
 # game/chapter2.rpy:4241
 translate french _call_popularcheck_12_b9386ee3:
@@ -4250,19 +4250,19 @@ translate french _call_popularcheck_12_a0d06abf:
 translate french _call_popularcheck_12_6c111504:
 
     # c "(I guess the choice is mine.)"
-    c "(Je suppose que le choix est le mien.)"
+    c "(On dirait que le choix me revient.)"
 
 # game/chapter2.rpy:4294
 translate french _call_popularcheck_13_812b3058:
 
     # Lo "Hello! I had some time to work through the stuff you told me, and now would be the perfect time to get some pictures of you."
-    Lo "Salut ! J'ai eu un peu de temps pour réviser tout ce que tu m'as dit, et maintenant serait parfait pour faire quelques dessins de toi."
+    Lo "Bonjour ! J'ai eu le temps de travailler sur les réponses que tu m'as donné, et je pense qu'il est temps de faire quelques croquis de toi."
 
 # game/chapter2.rpy:4296
 translate french _call_popularcheck_13_2c3fc2b1:
 
     # Lo "If you're not busy with anything else, it would be great if you could come over sometime."
-    Lo "Si tu n'es pas occupé par autre chose, ça serait super si tu pouvais passer chez moi quand tu as un moment."
+    Lo "Si tu n'as rien d'autre à faire, Ce serait génial si tu pouvais venir à un moment ou à un autre."
 
 # game/chapter2.rpy:4298
 translate french _call_popularcheck_13_120b81ba:
