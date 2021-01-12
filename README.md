@@ -41,7 +41,7 @@ adine3 ✔✔<br/>
 anna3 ✔✔<br/>
 bryce3 ✔✔<br/>
 lorem3 ✔✔<br/>
-remy3 ✔<br/>
+remy3 ✔✔<br/>
 xkatsu ✔✔<br/>
 chapter4 ✔<br/>
 adine4 ✔✔<br/>
