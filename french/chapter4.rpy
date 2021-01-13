@@ -22,7 +22,7 @@ translate french chapter4_15552b2b:
 translate french chapter4_fbf407eb:
 
     # m "How many more times would I see this apartment before I returned to my own world? Or... before something happened to me?"
-    m "Combien de fois verrai-je cet appartement avant de rentrer dans mon monde ? Ou... avant que quelque chose ne m'arrive ?"
+    m "Combien de fois verrais-je cet appartement avant de rentrer dans mon monde ? Ou... avant que quelque chose ne m'arrive ?"
 
 # game/chapter4.rpy:549
 translate french chapter4_d769f1b2:
@@ -46,7 +46,7 @@ translate french chapter4_8e64becf:
 translate french chapter4_9f1d5b3a:
 
     # c "And right on the minute. You show up at this time every day, like clockwork."
-    c "Et pile à l'heure. Tu arrives à cette heure-ci tous les jours, réglé comme une horloge."
+    c "Et à la minute près. Tu arrives à cette heure-ci tous les jours, réglé comme une horloge."
 
 # game/chapter4.rpy:571
 translate french chapter4_045b0349:
@@ -64,7 +64,7 @@ translate french chapter4_0090b646:
 translate french chapter4_f4a3014d:
 
     # c "An envelope from the facility."
-    c "Une enveloppe de la facilité."
+    c "Une enveloppe du complexe."
 
 # game/chapter4.rpy:585
 translate french chapter4_55e1ec7b:
@@ -100,13 +100,13 @@ translate french chapter4_661560f1:
 translate french chapter4_9d2e0e44:
 
     # c "Oh, I suppose this isn't the only reason you're here."
-    c "Oh, je suppose que ce n'est pas la seule raison pour laquelle vous êtes ici."
+    c "Oh, je suppose que ce n'est pas la seule raison pour laquelle tu es ici."
 
 # game/chapter4.rpy:616
 translate french chapter4_80811ac8:
 
     # Sb normal b "I think you can guess why I'm here."
-    Sb normal b "Je suppose que vous savez pourquoi je suis là."
+    Sb normal b "Je suppose que tu sais pourquoi je suis là."
 
 # game/chapter4.rpy:618
 translate french chapter4_9125b7cb:
@@ -118,7 +118,7 @@ translate french chapter4_9125b7cb:
 translate french c4resultscontinue_99f8a50b:
 
     # Sb "The chief will explain everything once we get there. Let's not keep him waiting, shall we?"
-    Sb "Le chef vous expliquera tout une fois là-bas. Ne le faisons pas attendre, d'accord ?"
+    Sb "Le chef t'expliquera tout une fois là-bas. Ne le faisons pas attendre, d'accord ?"
 
 # game/chapter4.rpy:652
 translate french _call_skiptut_20_44e0ddc6:
@@ -142,7 +142,7 @@ translate french _call_skiptut_20_889f24a0:
 translate french _call_skiptut_20_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter4.rpy:704
 translate french _call_skipcheck_20_76b2fe88:
@@ -154,13 +154,13 @@ translate french _call_skipcheck_20_76b2fe88:
 translate french _call_skipcheck_20_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter4.rpy:720
 translate french _call_skipcheck_20_22b7f8ca:
 
     # m "We arrived at a place that would look like an ordinary house, had it not been for its extraordinary size. It reminded me more of a hostel than a family home."
-    m "Nous arrivâmes à un endroit qui semblait être une maison des plus ordinaires, Si ce n'est pour sa taille extraordinaire. Ca me faisait plus penser à un hotel qu'à une résidence familiale."
+    m "Nous arrivâmes à un endroit qui semblait être une maison des plus ordinaires, si ce n'est pour sa taille extraordinaire. Ca me faisait plus penser à un hôtel qu'à une résidence familiale."
 
 # game/chapter4.rpy:724
 translate french _call_skipcheck_20_5c1049c0:
@@ -178,7 +178,7 @@ translate french _call_skipcheck_20_a33e0fb6:
 translate french _call_skipcheck_20_cb29c865:
 
     # c "Wait. Weren't you supposed to be with Emera?"
-    c "Attendez. N'étiez-vous pas supposé être avec Emera ?"
+    c "Attendez. N'étais-tu pas sensé être avec Emera ?"
 
 # game/chapter4.rpy:732
 translate french _call_skipcheck_20_7c3915ea:
@@ -196,13 +196,13 @@ translate french _call_skipcheck_20_89aefe22:
 translate french _call_skipcheck_20_3e323fa0:
 
     # Br stern b "Anyway, we're nearly done here, so I'll keep it short: Reza broke into the hatchery."
-    Br stern b "Enfin bref, On a presque fini ici, donc je vais faire court : Reza s'est infiltré dans le couvoir."
+    Br stern b "Enfin bref, On a presque fini ici, donc je vais faire court : Reza s'est infiltré dans l'écloserie."
 
 # game/chapter4.rpy:738
 translate french _call_skipcheck_20_17ceaf01:
 
     # Br "There is another murder victim, an employee of the hatchery who was on night duty. Her body was found quite a way from here. There's evidence of a struggle, but she covered a lot of distance before it was ultimately over."
-    Br "Il y a une victime de meutre, une employée du couvoir qui était de garde la nuit. Son corps a été trouvé assez loin d'ici. Il y a des traces de lutte, mais elle a couvert une assez grandee distance avant que ce ne sois fini pour elle."
+    Br "Il y a une victime de meutre, une employée de l'écloserie qui était de garde la nuit. Son corps a été trouvé assez loin d'ici. Il y a des traces de lutte, mais elle a couvert une assez grandee distance avant que ce ne soit fini pour elle."
 
 # game/chapter4.rpy:740
 translate french _call_skipcheck_20_d013c437:
@@ -220,7 +220,7 @@ translate french _call_skipcheck_20_e54de5ef:
 translate french _call_skipcheck_20_9cc34b87:
 
     # c "A hatchery? Is that what this building is?"
-    c "Un couvoir ? C'est ce qu'est ce bâtiment ?"
+    c "Une écloserie ? C'est ce qu'est ce bâtiment ?"
 
 # game/chapter4.rpy:746
 translate french _call_skipcheck_20_abed7598:
@@ -238,19 +238,19 @@ translate french _call_skipcheck_20_3725bcf9:
 translate french _call_skipcheck_20_43d1646f:
 
     # c "That reminds me of the production facility."
-    c "Ca me rappelle le bâtiment de la manufacture."
+    c "Ca me rappelle le complexe de production."
 
 # game/chapter4.rpy:752
 translate french _call_skipcheck_20_dc79af62:
 
     # Sb "It should. They have a similar management structure."
-    Sb "Ca devrait. Ils ont un système de gestion similaire."
+    Sb "C'est normal. Ils ont un système de gestion similaire."
 
 # game/chapter4.rpy:754
 translate french _call_skipcheck_20_d21fb58c:
 
     # Br brow b "Can we get back to the case?"
-    Br brow b "Pouvons -nous revenir à l'affaire ?"
+    Br brow b "Pouvons-nous revenir à l'affaire ?"
 
 # game/chapter4.rpy:756
 translate french _call_skipcheck_20_887d6268:
@@ -286,7 +286,7 @@ translate french _call_skipcheck_20_92fd7fa4:
 translate french _call_skipcheck_20_308b978e:
 
     # Br brow b "Maybe you can tell us. That's why you're here, after all."
-    Br brow b "Peut être que vous pouvez nous le dire. C'est la raison pour laquelle vous êtes là, après tout."
+    Br brow b "Peut être que tu peux nous le dire. C'est la raison pour laquelle tu es là, après tout."
 
 # game/chapter4.rpy:770
 translate french _call_skipcheck_20_9d30a14b:
@@ -298,7 +298,7 @@ translate french _call_skipcheck_20_9d30a14b:
 translate french _call_skipcheck_20_90e21a6d:
 
     # Sb "Maybe he wants to use them as a bargaining chip. After all, he still has to make his escape, and the portal is still broken."
-    Sb "Peut être qu'il veut les utiliser comme une monnaie d'échange. Après tout, il doit toujours s'échapper, et le portail est toujours hors service."
+    Sb "Peut être qu'il veut les utiliser comme monnaie d'échange. Après tout, il doit toujours s'échapper, et le portail est toujours hors service."
 
 # game/chapter4.rpy:774
 translate french _call_skipcheck_20_fca2d874:
@@ -316,13 +316,13 @@ translate french _call_skipcheck_20_b95171df:
 translate french _call_skipcheck_20_f525fc3b:
 
     # c "It's still broken, though, so I'm not sure if that would be much help."
-    c "Il est toujours cassé, cependant, donc je ne suis pas sûre que ça soit d'une grande aide."
+    c "Il est toujours cassé, cependant, donc je ne suis pas sûr que ça soit d'une grande aide."
 
 # game/chapter4.rpy:780
 translate french _call_skipcheck_20_5567eac6:
 
     # Sb "Maybe he has the part needed to repair it, and now has everything he needs to escape. He could trade the eggs for safe passage, fix the portal and leave."
-    Sb "Peut être qu'il a les parties devant être réparées, et que maintenant il a tout ce dont il a besoin pour s'échapper. Il pourrait échanger les œufs pour son exfiltration, réparer le portail et partir."
+    Sb "Peut être qu'il a les parties devant être réparées, et que maintenant il a tout ce dont il a besoin pour s'échapper. Il pourrait échanger les œufs contre son exfiltration, réparer le portail et partir."
 
 # game/chapter4.rpy:782
 translate french _call_skipcheck_20_16065d3c:
@@ -346,19 +346,19 @@ translate french _call_skipcheck_20_ac510e22:
 translate french _call_skipcheck_20_0d5b5736:
 
     # Br "He kidnapped defenseless eggs and even used the human weapon. Something's clearly going on with him. Maybe it means that he'll slip up soon."
-    Br "Il a kidnappé des œufs sans défense et a même utilisé l'arme humaine. Il se passe clairement quelque chose avec lui. Peut être que celà veut dire qu'il va bientôt déraper."
+    Br "Il a kidnappé des œufs sans défense et a même utilisé l'arme humaine. Il se passe clairement quelque chose avec lui. Peut être que cela veut dire qu'il va bientôt déraper."
 
 # game/chapter4.rpy:790
 translate french _call_skipcheck_20_e738d548:
 
     # Br brow b "Who knows, maybe he already has. In any case, we're done here. Let's head back to the department and decide what to do next. Hopefully, some of the test results will tell us something."
-    Br brow b "Qui sait, peut être que c'est déjà le cas. Dans tout les cas, on a fini ici. Rentrons au poste et décidons quoi faire pour la suite. Espérons que certains des résultats d'analyse nous dirons quelque chose."
+    Br brow b "Qui sait, peut être que c'est déjà le cas. Dans tout les cas, on a fini ici. Rentrons au poste et décidons de quoi faire pour la suite. Espérons que certains des résultats d'analyse nous dirons quelque chose."
 
 # game/chapter4.rpy:798
 translate french _call_skipcheck_20_ccfd52d0:
 
     # m "After a brief walk, we were in Bryce's office again. Initial test results had already come in, but didn't reveal any insightful or new information."
-    m "Après une brève marche, nous étions à nouveau dans le bureau de Bryce. Les résultats des premiers tests étaient déjà arrivés, mais ne révèlèrent aucun indice ou de nouvelle information."
+    m "Après une brève marche, nous étions à nouveau dans le bureau de Bryce. Les résultats des premiers tests étaient déjà arrivés, mais ne révélèrent aucun indice ou de nouvelle information."
 
 # game/chapter4.rpy:802
 translate french _call_skipcheck_20_67e809c4:
@@ -370,7 +370,7 @@ translate french _call_skipcheck_20_67e809c4:
 translate french _call_skipcheck_20_dc051f2c:
 
     # Br "Not yet. There are a few things I'd like to take care of first."
-    Br "Pas encore. Il y a deux trois choses dont j'aimerais m'occuper avent."
+    Br "Pas encore. Il y a deux trois choses dont j'aimerais m'occuper avant."
 
 # game/chapter4.rpy:808
 translate french _call_skipcheck_20_316840b9:
@@ -382,7 +382,7 @@ translate french _call_skipcheck_20_316840b9:
 translate french _call_skipcheck_20_08aadc68:
 
     # m "Suddenly, there was a knock at the door."
-    m "Soudainement, il y eut des toquement à la porte."
+    m "Soudainement, quelqu'un toqua à la porte."
 
 # game/chapter4.rpy:818
 translate french _call_skipcheck_20_203cfb48:
@@ -400,13 +400,13 @@ translate french _call_skipcheck_20_81f9b7cd:
 translate french _call_skipcheck_20_654413aa:
 
     # Mv "Chief, can I talk to you? Alone?"
-    Mv "Chef, est-ce que je peux vous parler ? Seuls ?"
+    Mv "Chef, est-ce que je peux vous parler ? Seul ?"
 
 # game/chapter4.rpy:836
 translate french _call_skipcheck_20_9ecce85b:
 
     # Br stern b "We're quite busy here, Maverick. What is this about?"
-    Br stern b "On est assez occupés ici, Maverick. C'est à propos de quoi ?"
+    Br stern b "On est assez occupé ici, Maverick. C'est à propos de quoi ?"
 
 # game/chapter4.rpy:838
 translate french _call_skipcheck_20_c479adbe:
@@ -418,7 +418,7 @@ translate french _call_skipcheck_20_c479adbe:
 translate french _call_skipcheck_20_049a33c3:
 
     # Br "Well, you're looking at the Reza task force, so if you have anything to say, you can say it in front of all of us."
-    Br "Eh bien, tu as devant toi l'équipe d'intervention chargée de l'affaire Reza, donc si tu as quoi que ce soit à dire, tu peut nous le dire à tous."
+    Br "Eh bien, tu as devant toi l'équipe d'intervention chargée de l'affaire Reza, donc si tu as quoi que ce soit à dire, tu peux nous le dire à tous."
 
 # game/chapter4.rpy:842
 translate french _call_skipcheck_20_908e3ef4:
@@ -484,13 +484,13 @@ translate french _call_skipcheck_20_e816897e:
 translate french _call_skipcheck_20_1cf4c36e:
 
     # Mv "Prior victims were found here, and here. Today's was here. She was following him, likely because she wanted to save the eggs he stole. This is the path he took from the portal when I followed him a few days ago."
-    Mv "Les premières victimes ont été trouvées ici, et ici. Celle d'aujourd'hui était là. Elle le suivait, probablement parce qu'elle voulait sauver les œufs qu'il a volé. Ca, c'est le chemin qu'il a pris en partant du portail quand je l'ai suivi il y a quelque jours."
+    Mv "Les premières victimes ont été trouvées ici, et ici. Celle d'aujourd'hui était là. Elle le suivait, probablement parce qu'elle voulait sauver les œufs qu'il avait volé. Ca, c'est le chemin qu'il a pris en partant du portail quand je l'ai suivi il y a quelque jours."
 
 # game/chapter4.rpy:866
 translate french _call_skipcheck_20_ff76eb13:
 
     # Mv "So we have established this as his area of operation. Extrapolate it and we can narrow it down to this. Now, where could he be hiding in this area?"
-    Mv "Donc nous avons établi ça comme étant sa zone d'opération. En extrapolant, on peut la réduire à cette zone. Maintenant, où pourrait-il se cache dans cette zone ?"
+    Mv "Donc nous avons établi ça comme étant sa zone d'opération. En extrapolant, on peut la réduire à cette zone. Maintenant, où pourrait-il se cacher dans cette zone ?"
 
 # game/chapter4.rpy:868
 translate french _call_skipcheck_20_fe6f349c:
@@ -508,7 +508,7 @@ translate french _call_skipcheck_20_5007d1fd:
 translate french _call_skipcheck_20_579bc805:
 
     # Br "When did you figure all of this out?"
-    Br "Quand as-tu réalisé tout ça ?"
+    Br "Quand as-tu compris tout ça ?"
 
 # game/chapter4.rpy:874
 translate french _call_skipcheck_20_9c98b64d:
@@ -568,7 +568,7 @@ translate french _call_skipcheck_20_4a29cfe6:
 translate french _call_skipcheck_20_92bf8802:
 
     # Br stern b "Reza probably won't harm you, as you're the only one he could possibly consider an ally."
-    Br stern b "Reza ne te fera probablement pas de mal, comme tu es le seul qu'il pourrait considérer comme un allier."
+    Br stern b "Reza ne te fera probablement pas de mal, comme tu es le seul qu'il pourrait considérer comme un allié."
 
 # game/chapter4.rpy:894
 translate french _call_skipcheck_20_feed6cdd:
@@ -622,7 +622,7 @@ translate french c4skip1_412f364a:
 translate french c4skip1_38fc57d0:
 
     # Sb "True enough."
-    Sb "C'est pas faux."
+    Sb "Ce n'est pas faux."
 
 # game/chapter4.rpy:914
 translate french c4skip1_8678b9a0:
@@ -646,7 +646,7 @@ translate french c4skip1_23a10af5:
 translate french c4skip1_12cd39ea:
 
     # Sb "After you, Chief."
-    Sb "Je suis derrière vous Chef."
+    Sb "Je suis derrière toi, Chef."
 
 # game/chapter4.rpy:922
 translate french c4skip1_39ab42ae:
@@ -688,7 +688,7 @@ translate french c4skip1_ea977812:
 translate french c4skip1_d8194104:
 
     # c "Do you have something against humans in general, or is it just Reza and me? Do you think you are superior to us because of your wings, and teeth, and claws? Your fire?"
-    c "Es-ce que tu as quelque chose contre les humains en général, ou juste contre Reza et moi ? Tu te crois supérieur à nous de par tes ailes, tes dents et tes griffes ? Ou bien ton feu ?"
+    c "Est-ce que tu as quelque chose contre les humains en général, ou juste contre Reza et moi ? Tu te crois supérieur à nous de par tes ailes, tes dents et tes griffes ? Ou bien ton feu ?"
 
 # game/chapter4.rpy:984
 translate french c4skip1_10e76bf9:
@@ -730,7 +730,7 @@ translate french c4skip1_7631c61d:
 translate french c4skip1_12c7e112:
 
     # Mv "Plausible deniability. Or, as we like to say, good cop, bad cop."
-    Mv "Démenti plausible. Ou, comme on aime bien l'appeler, bon flic, mauvais flic."
+    Mv "Un déni plausible. Ou, comme on aime bien l'appeler, bon flic, mauvais flic."
 
 # game/chapter4.rpy:1012
 translate french c4skip1_68652ae0:
@@ -742,7 +742,7 @@ translate french c4skip1_68652ae0:
 translate french c4skip1_8b3db11a:
 
     # Mv angry flip "Yet if Reza's plan succeeds, you will have given us nothing and still have gained what you wanted."
-    Mv angry flip "Mais si le plan de Reza est un succès, vous nous aurez rien donné et obtenu ce que vous vouliez."
+    Mv angry flip "Mais si le plan de Reza est un succès, vous ne nous aurez rien donné et auriez malgré tout obtenu ce que vous vouliez."
 
 # game/chapter4.rpy:1016
 translate french c4skip1_f21c065f:
@@ -772,7 +772,7 @@ translate french c4skip1_27ddb425:
 translate french c4skip1_2ff9ded2:
 
     # Mv "Besides, Reza only stole the things humanity wants, so he's clearly not just doing this for himself."
-    Mv "De plus, Reza n'a volé que les choses que l'humanité voulaient, donc il ne fait pas ça juste pour lui."
+    Mv "De plus, Reza n'a volé que les choses que l'humanité voulaient, donc clairement il ne fait pas ça juste pour lui."
 
 # game/chapter4.rpy:1026
 translate french c4skip1_4afb9a8b:
@@ -820,7 +820,7 @@ translate french c4skip1_a8efa75a:
 translate french c4skip1_310dc4f4:
 
     # Mv "Is that so?"
-    Mv "Tu en es sûre ?"
+    Mv "Vraiment ?"
 
 # game/chapter4.rpy:1042
 translate french c4skip1_c15fc206:
@@ -874,7 +874,7 @@ translate french c4skip1_16dff851:
 translate french c4skip1_47f78dd4:
 
     # m "I reached into my pocket."
-    m "Je mis la main dzns ma poche."
+    m "Je mis la main dans ma poche."
 
 # game/chapter4.rpy:1060
 translate french c4skip1_9d592bb3:
@@ -916,7 +916,7 @@ translate french c4skip1_fc47db34:
 translate french c4skip1_f56b0d9c:
 
     # Mv "But you two came in here and strutted around like you owned the place as you tore my home apart. The blood of those who died is on the hands of everyone who allowed this to happen."
-    Mv "Mais tous les deux êtes venus et vous êtes pavanés comme si vous déteniez l'endroit tandis que vous mettiez mon chez moi à sac. Le sang de ceux qui sont mort sont sur les mains de ceux qui on laissé ça arriver."
+    Mv "Mais tous les deux êtes venus et vous êtes pavanés comme si vous possédiez l'endroit tandis que vous mettiez mon chez moi à sac. Le sang de ceux qui sont mort sont sur les mains de ceux qui on laissé ça arriver."
 
 # game/chapter4.rpy:1076
 translate french c4skip1_794c0e23:
@@ -964,19 +964,19 @@ translate french c4skip1_d19f855d:
 translate french c4skip1_0ce08272:
 
     # Mv nice flip "Wait a minute, you had Anna perform these tests for you?"
-    Mv nice flip "Attends une minute, Anna a réalisé des tests pour toi ?"
+    Mv nice flip "Attends une minute, c'est Anna qui a réalisé des tests pour toi ?"
 
 # game/chapter4.rpy:1092
 translate french c4skip1_96466165:
 
     # c "It was more the other way around. She was the one who wanted to study my blood."
-    c "C'était plutôt dans l'autre sens. C'était elle qui coulait étudier mon sang."
+    c "C'était plutôt dans l'autre sens. C'était elle qui voulait étudier mon sang."
 
 # game/chapter4.rpy:1094
 translate french c4skip1_4fd64cfd:
 
     # Mv normal flip "Suddenly, I'm not surprised that you had these tests done. She can be ruthless when she wants something."
-    Mv normal flip "D'un coup, je ne suis plus surpris que tu aies eu ces tests. Elle peut être inplacable quand elle veut quelque chose. "
+    Mv normal flip "D'un coup, je ne suis plus surpris que tu aies eu ces tests. Elle peut être impitoyable quand elle veut quelque chose. "
 
 # game/chapter4.rpy:1096
 translate french c4skip1_6ab9752d:
@@ -1096,7 +1096,7 @@ translate french passontestresults_c5226063:
 translate french passontestresults_aab97f3a:
 
     # m "After a few hours, the telephone in his office rang, and not sure whether the call was intended for me or Bryce, I picked up."
-    m "Après quelques heures, le téléphone sur son bureau sonna, et incertain de si l'appel était pour moi ou Bryce, je décrochai."
+    m "Après quelques heures, le téléphone sur son bureau sonna, et incertain de si l'appel était pour moi ou pour Bryce, je décrochai."
 
 # game/chapter4.rpy:1179
 translate french passontestresults_5f417ce0:
@@ -1138,7 +1138,7 @@ translate french passontestresults_96ecbbcb:
 translate french passontestresults_a7a20cba:
 
     # Br stern b "A whole lot of nothing. There was no movement to or from the building in the time we've been watching."
-    Br stern b "Un bon paquet de rien. Il n'y avait aucun mouvement à l'intérieur ou à l'extérieur du bâtiment durant tout le temps où l'on a observé."
+    Br stern b "Un bon paquet de rien. Il n'y avait aucun mouvement à l'intérieur ou à l'extérieur du bâtiment durant tout le temps passé à observer."
 
 # game/chapter4.rpy:1207
 translate french passontestresults_4b803f31:
@@ -1156,7 +1156,7 @@ translate french passontestresults_d0c2cf03:
 translate french passontestresults_ae5f8852:
 
     # Sb "Or maybe he's not even in there anymore. He could've seen us and slipped away unnoticed, with plenty of time to destroy the evidence while we've been waiting here."
-    Sb "Ou peut être qu'il n'est même plus là. Il pourrait nous avoir vu et s'eclipser sans être vu, avec tout le temps nécessaire pour détruire les preuves tandis que nous avons attendu ici."
+    Sb "Ou peut être qu'il n'est même plus là. Il pourrait nous avoir vu et s'être éclipser sans être vu, avec tout le temps nécessaire pour détruire les preuves tandis que nous avons attendu ici."
 
 # game/chapter4.rpy:1213
 translate french passontestresults_c006bc6e:
@@ -1216,7 +1216,7 @@ translate french c4brycegood_1c011b78:
 translate french c4brycegood_bec432f9:
 
     # Br "I don't think he's planning to harm you on sight, and if we can hear things starting to go wrong, we might still be able to surprise him."
-    Br "Je ne pense pas qu'il ait prévu de t'attaquer à vu, et si on entend que ça tourne mal, on pourrait toujours être capable de le prendre par surprise."
+    Br "Je ne pense pas qu'il ait prévu de t'attaquer à vue, et si on entend que ça tourne mal, on pourrait toujours être capable de le prendre par surprise."
 
 # game/chapter4.rpy:1255
 translate french c4brycegood_c4f7ab31:
@@ -1306,13 +1306,13 @@ translate french c4brycegood_c72770b5:
 translate french _call_syscheck_74_eae28cb7:
 
     # s "Analyzing timeline.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "Analyse de la timeline.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "Analyse de la chronologie.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1372
 translate french _call_syscheck_74_2aaff354:
 
     # s "Creation of new timeline successful. The corruption has been cleared."
-    s "Nouvelle time line crée avec succès. La corruption a été effacée."
+    s "Nouvelle chronologie crée avec succès. La corruption a été effacée."
 
 # game/chapter4.rpy:1376
 translate french _call_syscheck_74_86cd38c2:
@@ -1336,7 +1336,7 @@ translate french _call_syscheck_74_14b85755:
 translate french _call_syscheck_74_e25f5d23:
 
     # s "Well, I can confirm the earlier problem is gone. Seems like what you did worked well enough."
-    s "Eh bien, je peux confirmer que le problème survenu plus tôt n'est plus. Il semblerait que ce que vous avez fait a plutôt bien marché."
+    s "Eh bien, je peux confirmer que le problème survenu plus tôt n'est plus. Il semblerait que ce que vous avez fait ait plutôt bien marché."
 
 # game/chapter4.rpy:1392
 translate french _call_syscheck_74_09785573:
@@ -1384,7 +1384,7 @@ translate french _call_syscheck_74_24643395:
 translate french _call_syscheck_75_f9a281a1:
 
     # s "Scanning timeline.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "Scan de la timeline.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "Scan de la chronologie.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1462
 translate french _call_syscheck_75_9926d559:
@@ -1396,19 +1396,19 @@ translate french _call_syscheck_75_9926d559:
 translate french _call_syscheck_75_9eef7341:
 
     # s "Do not attempt to change this outcome by reloading, but move on to its natural conclusion or create a new timeline by returning to Chapter 1."
-    s "Ne tentez pas de changer cette conséquense en rechargant, mais avancez vers sa conclusion naturelle ou créer une nouvelle timeline en retournant au Chapitre 1."
+    s "Ne tentez pas de changer cette conséquense en rechargant, mais avancez vers sa conclusion naturelle ou créer une nouvelle chronologie en retournant au Chapitre 1."
 
 # game/chapter4.rpy:1470
 translate french _call_syscheck_75_bb252af0:
 
     # s "When creating a new timeline, do not interfere with other timelines, but let it reach its natural conclusion until this point has been passed safely."
-    s "Quand vous créerez une nouvelle timeline, n'interférez pas avec les autre timelines, mais laissez la atteindre sa conclusion jusqu'à ce que ce point soit passé sans accroc."
+    s "Quand vous créerez une nouvelle chronologie, n'interférez pas avec les autre timelines, mais laissez la atteindre sa conclusion jusqu'à ce que ce point soit passé sans accroc."
 
 # game/chapter4.rpy:1474
 translate french _call_syscheck_75_75e944da:
 
     # s "Please be advised that reckless handling of timelines could have dire consequences."
-    s "Soyez conscient que une manipulation des timelines sans précaution pourrait avoir de terribles conséquenses."
+    s "Soyez conscient qu'une manipulation des chronologies sans précaution pourrait avoir de terribles conséquenses."
 
 # game/chapter4.rpy:1478
 translate french _call_syscheck_75_4f5f91c6:
@@ -1426,7 +1426,7 @@ translate french _call_syscheck_75_82023689:
 translate french _call_syscheck_75_9e6d75bb:
 
     # s "It seems this point in time is prone to corruption, and it happened yet again."
-    s "Il semblerait que ce point dans le temps est enclin à de la corruption, et c'est encore arrivé."
+    s "Il semblerait que ce point dans le temps soit enclin à de la corruption, et c'est encore arrivé."
 
 # game/chapter4.rpy:1491
 translate french _call_syscheck_75_a70b110c:
@@ -1438,7 +1438,7 @@ translate french _call_syscheck_75_a70b110c:
 translate french _call_syscheck_75_a1ecb90e:
 
     # s "You can either just ignore this and move on, or if this is really important to you, return to Chapter 1 and start a new timeline. If you do this, don't interfere with other timelines until you get here, or else this might happen again."
-    s "Vous pouvez soit l'ignorer simplement et continuer, ou si c'est vraiment important pour vous, retourner au Chapitre 1 et démarrer une nouvelle timeline. Si vous faites ça, n'interférez pas avec d'autre timelines jusqu'à arriver ici, ou sinon ça pourrait arriver à nouveau."
+    s "Vous pouvez soit l'ignorer simplement et continuer, ou si c'est vraiment important pour vous, retourner au Chapitre 1 et démarrer une nouvelle chronologie. Si vous faites ça, n'interférez pas avec d'autres chronologies jusqu'à arriver ici, ou sinon ça pourrait arriver à nouveau."
 
 # game/chapter4.rpy:1499
 translate french _call_syscheck_75_4f5f91c6_1:
@@ -1450,7 +1450,7 @@ translate french _call_syscheck_75_4f5f91c6_1:
 translate french _call_syscheck_75_7228dbae:
 
     # s "What are you doing here again?"
-    s "qu'est-ce que vous faites encore ici ?"
+    s "Qu'est-ce que vous faites encore ici ?"
 
 # game/chapter4.rpy:1507
 translate french _call_syscheck_75_572daa7a:
@@ -1462,7 +1462,7 @@ translate french _call_syscheck_75_572daa7a:
 translate french _call_syscheck_75_817a1cd0:
 
     # s "Although, you being here again is sufficient proof that you didn't, so I won't waste more words on you."
-    s "Quoique, vous revoir ici prouve que ce n'est pas le cas, donc je ne gâcherai pas plus de salive avec vous."
+    s "Quoique, vous revoir ici prouve que ce n'est pas le cas, donc je ne gâcherai pas plus ma salive avec vous."
 
 # game/chapter4.rpy:1515
 translate french _call_syscheck_75_8ee4ce13:
@@ -1486,19 +1486,19 @@ translate french _call_syscheck_75_3b0611e9:
 translate french _call_syscheck_76_232b5694:
 
     # s "Error: Corruption found. Changing this timeline not possible after reloading."
-    s "Erreur: Corruption détectée. Changer cette timeline n'est pas possible après le rechargement."
+    s "Erreur: Corruption détectée. Changer cette chronologie n'est pas possible après le rechargement."
 
 # game/chapter4.rpy:1569
 translate french _call_syscheck_76_7a7812fc:
 
     # s "Please do not alter timelines in rapid succession, as this may cause corruptions to occur."
-    s "Veuillez s'il vous plaît ne pas altérer cette timeline de manière sacadée, car cela peut causer des apparitions de corruption."
+    s "Veuillez s'il vous plaît ne pas altérer cette chronologie de manière sacadée, car cela peut causer des apparitions de corruption."
 
 # game/chapter4.rpy:1575
 translate french _call_syscheck_76_5b2972d2:
 
     # s "If you were not satisfied with your first outcome, why did you go back and only returned here after you saw the consequence of the other option?"
-    s "Si vous n'étiez pas satisfait avec votre premier résultat, pourquoi êtes vous reparti en arrière et revenu ici après avoir vu la conséquence de l'autre option ?"
+    s "Si vous n'étiez pas satisfait avec votre premier résultat, pourquoi êtes vous reparti en arrière et êtes revenu ici après avoir vu la conséquence de l'autre option ?"
 
 # game/chapter4.rpy:1579
 translate french _call_syscheck_76_ae7f3894:
@@ -1510,13 +1510,13 @@ translate french _call_syscheck_76_ae7f3894:
 translate french _call_syscheck_76_420d465b:
 
     # s "Continuing timeline as scheduled.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "maintien de la timeline comme prévu.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "maintien de la chronologie comme prévu.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1587
 translate french _call_syscheck_76_6992660e:
 
     # s "Unable to modify this timeline."
-    s "Incapacité à modifier cette timeline."
+    s "Incapacité à modifier cette chronologie."
 
 # game/chapter4.rpy:1591
 translate french _call_syscheck_76_db796a4b:
@@ -1588,19 +1588,19 @@ translate french _call_syscheck_76_81fccf0f:
 translate french _call_syscheck_77_fe9ef34d:
 
     # s "Error: Corruption found. Changing this timeline not possible after a reload."
-    s "Erreur: Corruption détectée. Changer cette timeline n'est pas possible après une recharge."
+    s "Erreur: Corruption détectée. Changer cette chronologie n'est pas possible après une recharge."
 
 # game/chapter4.rpy:1680
 translate french _call_syscheck_77_1f742d9d:
 
     # s "If the problem persists, please start a new timeline to alter the outcome."
-    s "Si le problème persiste, veuillez démarrer une nouvelle tmeline pour altérer l'issue."
+    s "Si le problème persiste, veuillez démarrer une nouvelle chronologie pour altérer l'issue."
 
 # game/chapter4.rpy:1684
 translate french _call_syscheck_77_d4719c9d:
 
     # s "Be aware that you will have to go back to the beginning and start over from there in order for this change to take effect."
-    s "Soyez conscient que vous aurez à retourner au début et redémarrer d'ici afin que ce changement prenne effet."
+    s "Soyez conscient que vous aurez à retourner au début et redémarrer de là afin que ce changement prenne effet."
 
 # game/chapter4.rpy:1688
 translate french _call_syscheck_77_a1fbc588:
@@ -1618,13 +1618,13 @@ translate french _call_syscheck_77_6c61da9b:
 translate french _call_syscheck_77_ceb95a46:
 
     # s "My apologies if I wasn't clear the first time. I am unable to modify this timeline in this matter."
-    s "Toutes mes excuses si je n'ai pas été clair la première fois. Je suis incapable dans ce cas-ci d'altérer cette timeline."
+    s "Toutes mes excuses si je n'ai pas été clair la première fois. Je suis incapable dans ce cas-ci d'altérer cette chronologie."
 
 # game/chapter4.rpy:1700
 translate french _call_syscheck_77_0a979e40:
 
     # s "I am not entirely sure why it is this way, but it looks like if you want to change this outcome, you will have to start a new timeline instead."
-    s "Je ne suis pas tout à fait sûr pourquoi il en est ainsi, mais il semblerait que si vous voulez changer cette issue, vous devrez pour cela commencer une nouvelle timeline."
+    s "Je ne suis pas tout à fait sûr de pourquoi il en est ainsi, mais il semblerait que si vous voulez changer cette issue, vous devrez pour cela commencer une nouvelle chronologie."
 
 # game/chapter4.rpy:1704
 translate french _call_syscheck_77_af7be7fa:
@@ -1636,7 +1636,7 @@ translate french _call_syscheck_77_af7be7fa:
 translate french _call_syscheck_77_dd67cfbf:
 
     # s "However, if you go back to the beginning and load an unrelated save file before you get to this point again, it may cause your progress in this matter to be erased, which means that you will have to start over again if you wish to change this outcome."
-    s "Cependant, si tu reviens au début et charge une sauvegarde sans rapport avant de revenir à ce point, cela peut causer que votre progression soit effacée, ce qui signifie que vous aurez à recommencer si vous souhaitez changer cette issue."
+    s "Cependant, si vous revenez au début et chargez une sauvegarde sans rapport avant de revenir à ce point, cela peut causer la supression de votre progression, ce qui signifie que vous aurez à recommencer si vous souhaitez changer cette issue."
 
 # game/chapter4.rpy:1712
 translate french _call_syscheck_77_6c61da9b_1:
@@ -1678,13 +1678,13 @@ translate french _call_syscheck_77_76855d50:
 translate french _call_syscheck_77_7115165d:
 
     # s "But for now, let's return to our scheduled program."
-    s "Mais pour l'instant, revenons à notre programme."
+    s "Mais pour l'instant, revenons en à notre programme."
 
 # game/chapter4.rpy:1760
 translate french didit_e511726e:
 
     # m "We slowly made our way to the front door. I took a deep breath and tried to prepare myself for the possibility of facing Reza. The tense scenarios and things I could say to him rushed through my head as I pressed down on the door handle."
-    m "Nous avançâmes lentement vers la porte d'entrée. Je pris une profonde respiration et essayai de me préparer à l'éventualité de faire face à Reza. Les scénarios tendus et les choses que je pourrais lui dire me traversaient l'esprit alors que j'abaissais la poignée de la porte."
+    m "Nous avançâmes lentement vers la porte d'entrée. Je pris une profonde inspiration et essayai de me préparer à l'éventualité de faire face à Reza. Les scénarios sous tension et les choses que je pourrais lui dire me traversaient l'esprit alors que j'abaissais la poignée de la porte."
 
 # game/chapter4.rpy:1762
 translate french didit_91828e14:
@@ -1696,7 +1696,7 @@ translate french didit_91828e14:
 translate french didit_bf9f1e22:
 
     # m "When I looked down to the source of the noise, I saw a taut wire through the gap in the door, hovering over the floor of the entryway."
-    m "Baissant les yeux vers la source du bruit, je vis un fil tendu à travers l'ouverture de la porte, flottant au dessus du sol du hall d'entrée."
+    m "En baissant le regard vers la source du bruit, je vis un fil tendu à travers l'ouverture de la porte, flottant au dessus du parquet de l'entrée."
 
 # game/chapter4.rpy:1792
 translate french c4intuition_8a5ca110:
@@ -1732,13 +1732,13 @@ translate french c4intuition_1dff5c83:
 translate french c4intuition_81e3d0fa:
 
     # Sb "True enough. I had no idea you could make a bomb out of a generator."
-    Sb "C'est vrai. Je ne savais pas qu'on pouvait fabriquer une bombe à partir d'un générateur."
+    Sb "C'est vrai. Je n'avais pas idée qu'on pouvait fabriquer une bombe à partir d'un générateur."
 
 # game/chapter4.rpy:1806
 translate french c4intuition_4b4c1a61:
 
     # Br "Then you just haven't been with us long enough. If you know how, it's not even that complicated."
-    Br "Alors tu n'as pas été parmi nous assez longtemps. Si tu sais comment, ce n'est même pas compliqué."
+    Br "Alors tu n'as pas été parmi nous assez longtemps. Si tu sais comment faire, ce n'est même pas compliqué."
 
 # game/chapter4.rpy:1808
 translate french c4intuition_53428fe1:
@@ -1768,7 +1768,7 @@ translate french c4intuition_2d80da67:
 translate french c4intuition_aa4656c1:
 
     # Br stern b "Either way, this makes him even more dangerous. At least we now have a whole building's worth of clues."
-    Br stern b "Que ce soit l'un ou l'autre, ça le rend d'autant plus dangereux. Au moins maintenant, on a un bâtiment rempli d'indices."
+    Br stern b "Que ce soit l'un ou l'autre, ça le rend d'autant plus dangereux. Au moins maintenant, on a tout un bâtiment rempli d'indices."
 
 # game/chapter4.rpy:1818
 translate french c4intuition_f812dc1f:
@@ -1864,7 +1864,7 @@ translate french c4intuition_89aefe22:
 translate french c4intuition_f3d188a2:
 
     # Sb "We were so close today. He could've been in there, you know. Maybe we just came a few minutes too late."
-    Sb "Nous étions si près aujourd'hui. Il aurait pu être là, tu sais. Peut être que nous sommes arrivés quelques minutes trop tard."
+    Sb "Nous étions si près du but aujourd'hui. Il aurait pu être là, tu sais. Peut être que nous sommes arrivés quelques minutes trop tard."
 
 # game/chapter4.rpy:1866
 translate french c4intuition_2345d4bf:
@@ -1900,13 +1900,13 @@ translate french c4intuition_284b5319:
 translate french c4intuition_9eaea2ac:
 
     # Sb "But right now, you can help us again."
-    Sb "En attendant, tu va pouvoir nous aider une fois de plus."
+    Sb "En attendant, tu vas pouvoir nous aider une fois de plus."
 
 # game/chapter4.rpy:1878
 translate french c4intuition_90ea8e25:
 
     # c "Well, what do you have for me?"
-    c "Ça me va. Qu'est-ce que je peut faire ?"
+    c "Ça me va. Qu'est-ce que je peux faire ?"
 
 # game/chapter4.rpy:1897
 translate french brycefirst_93189ec3:
@@ -1924,7 +1924,7 @@ translate french brycefirst_5f1f6096:
 translate french brycefirst_095e418a:
 
     # Br "Sebastian, what are you doing here? I told you to stay put."
-    Br "Sebastian ? Qu'est-ce que tu fais là ? Tu es censé l'attendre derrière, non ?"
+    Br "Sébastien ? Qu'est-ce que tu fais là ? Je t'avais dit de rester à l'affut."
 
 # game/chapter4.rpy:1907
 translate french brycefirst_6814135d:
@@ -1936,25 +1936,25 @@ translate french brycefirst_6814135d:
 translate french brycefirst_e95a344a:
 
     # Br brow b "Why? What's the problem?"
-    Br brow b "Pourquoi, y a un problème ?"
+    Br brow b "Pourquoi ? C'est quoi le problème ?"
 
 # game/chapter4.rpy:1911
 translate french brycefirst_241ab511:
 
     # Sb "There is a device on the inside of the front door. I think it might be a trap."
-    Sb "Il y a un truc tout proche de la porte d'entrée, je pense que c'est un piège."
+    Sb "Il y a un appareil tout proche de la porte d'entrée, je pense que c'est un piège."
 
 # game/chapter4.rpy:1913
 translate french brycefirst_64782236:
 
     # Br "I didn't tell you to look inside."
-    Br "Je ne t'ai pas demandé de regarder à l'intérieur, Sebastian."
+    Br "Je ne t'avais pas demandé de regarder à l'intérieur."
 
 # game/chapter4.rpy:1915
 translate french brycefirst_b2733954:
 
     # Sb drop b flip "I'm sorry, Chief. I just had a feeling that something... terrible would happen if I didn't."
-    Sb drop b flip "Désolé Chef, mais j'ai eut le pressentiment... que quelque chose de terrible arriverait si je ne le faisais pas."
+    Sb drop b flip "Désolé Chef, mais j'ai eu le pressentiment... que quelque chose de terrible arriverait si je ne le faisais pas."
 
 # game/chapter4.rpy:1917
 translate french brycefirst_037a1131:
@@ -1966,13 +1966,13 @@ translate french brycefirst_037a1131:
 translate french brycefirst_bfea4026:
 
     # m "I watched as Bryce made his way to the front door. Looking around, I scanned the windows of the building for any sign of movement."
-    m "J'ai regardé Bryce s'approcher de la porte d'entrée. En laissant mon regard fureter tout autour, j'ai jeté un oeil aux fenêtres pour aperçevoir un éventuel mouvement."
+    m "Je regardais Bryce s'approcher de la porte d'entrée. En laissant mon regard fureter tout autour, je jetai un oeil aux fenêtres pour aperçevoir un éventuel mouvement."
 
 # game/chapter4.rpy:1927
 translate french brycefirst_f1285e10:
 
     # m "When Bryce reached the door, I wondered how he would make his entry. Would he try to be quiet and sneak around, hoping to find Reza unprepared, or would he barge in and rely on his strength and speed to apprehend him?"
-    m "Au moment où Bryce a atteint la porte, je me suis demandé comment il allait faire son entrée. Allait-il la jouer discétion en se faufilant pour prendre Reza par surprise, ou allait-il y aller franchement tout en comptant sur sa force pour l'appréhender ?"
+    m "Au moment où Bryce atteignit la porte, je me demandai comment il allait faire son entrée. Allait-il tenter la discétion en se faufilant pour prendre Reza par surprise, ou allait-il y aller franchement tout en comptant sur sa force et sa vitesse pour l'appréhender ?"
 
 # game/chapter4.rpy:1933
 translate french brycefirst_0766eb8d:
@@ -1984,7 +1984,7 @@ translate french brycefirst_0766eb8d:
 translate french brycefirst_a93c7636:
 
     # c "Bryce!"
-    c "Bryce!"
+    c "Bryce !"
 
 # game/chapter4.rpy:1968
 translate french brycefirst_a4688393:
@@ -2002,7 +2002,7 @@ translate french brycefirst_d19f855d:
 translate french brycefirst_ab70d1db:
 
     # Sb "I'm sorry, [player_name]. I just don't know what to say."
-    Sb "Je suis désolé, [player_name]. Je... Je ne sais pas quoi dire."
+    Sb "Je suis désolé, [player_name]. Je ne sais pas quoi dire."
 
 # game/chapter4.rpy:1974
 translate french brycefirst_d19f855d_1:
@@ -2020,19 +2020,19 @@ translate french brycefirst_903f6637:
 translate french brycefirst_7d98aa6a:
 
     # Sb disapproval b "All the responsibility falls on me now. And Reza is still out there somewhere."
-    Sb disapproval b "C'est à moi de gérer tout ça maintenant. Et Reza est en liberté, quelque part."
+    Sb disapproval b "C'est à moi de gérer tout ça maintenant. Et Reza est toujours en liberté, quelque part."
 
 # game/chapter4.rpy:1980
 translate french brycefirst_40d0a46a:
 
     # Sb drop b "This case is just beyond our capabilities. We were already at a bare minimum before this, but with Bryce gone, I just don't know what we should do now."
-    Sb drop b "Cette affaire nous dépasse. On n'étais déjà à peine assez nombreux, mais maitenant que Bryce n'est plus là, je ne sais pas ce qu'il faut faire maintenant."
+    Sb drop b "Cette affaire nous dépasse. On était déjà à peine assez nombreux avant ça, mais maitenant que Bryce n'est plus là, je ne sais pas ce qu'il faut faire maintenant."
 
 # game/chapter4.rpy:1982
 translate french brycefirst_41ddf17b:
 
     # Sb disapproval b "I've already requested help from one of the cities. I hope they'll send some good investigators our way as soon as possible."
-    Sb disapproval b "J'ai déjà demandé de l'aide aux villes alentours, j'espère qu'on aura le soutient de quelques bons enquêteurs le plus vite possible."
+    Sb disapproval b "J'ai déjà demandé de l'aide à l'une des cités aux alentours, j'espère qu'on aura le soutient de quelques bons enquêteurs le plus vite possible."
 
 # game/chapter4.rpy:1984
 translate french brycefirst_43d253e6:
@@ -2044,7 +2044,7 @@ translate french brycefirst_43d253e6:
 translate french brycefirst_a20a12de:
 
     # Sb drop b "Well, except for the eggs. I don't want to have to explain to the parents how their children were killed in the explosion."
-    Sb drop b "À l'exeption des oeufs... Je n'ai pas envie de dire aux parents ce qui est arrivé à leur progéniture... Mais je n'aurais pas le choix."
+    Sb drop b "Enfin, à l'exeption des oeufs. Je n'ai pas envie d'expliquer aux parents que leurs enfants furent tués dans l'explosion."
 
 # game/chapter4.rpy:1988
 translate french brycefirst_6165962f:
@@ -2056,19 +2056,19 @@ translate french brycefirst_6165962f:
 translate french brycefirst_a6bce8f5:
 
     # Sb drop b "And we got so close, too. It was his hideout, for crying out loud! He probably just saw us approaching and left before we even had the chance to apprehend him."
-    Sb drop b "Et on le tenait presque... C'était sa planque ! Il nous a sûrement vu nous approcher, et s'est enfui avant qu'on ai la chance de le coincer !"
+    Sb drop b "Et on le tenait presque. C'était sa planque, pour le dire franchement ! Il nous a sûrement vu nous approcher, et s'est enfui avant qu'on aie la chance de l'appréhender."
 
 # game/chapter4.rpy:1992
 translate french brycefirst_8257f5a5:
 
     # Sb disapproval b "But you know what? We can't stop now. If anything, this has only proven that he's even more dangerous than we thought. If Reza can make bombs out of generators, who's to say where he'll use them next?"
-    Sb disapproval b "Mais tu sais quoi, on ne va pas s'arrêter maintenant. On a la preuve qu'il est plus dangeureux que ce qu'on pensait. S'il peut fabriquer des bombes avec des générateurs, qui sait ce qui nous attends ?"
+    Sb disapproval b "Mais tu sais quoi ? On ne peut pas s'arrêter maintenant. Il vient de prouver qu'il est bien plus dangeureux que ce qu'on pensait. S'il peut fabriquer des bombes avec des générateurs, qui sait où il les utilisera la prochaine fois ?"
 
 # game/chapter4.rpy:1994
 translate french brycefirst_f116eb4c:
 
     # Sb "We have to stop him, [player_name]. Are you with me?"
-    Sb "Il faut qu'on l'arrête [player_name]. T'es avec moi ?"
+    Sb "Il faut qu'on l'arrête [player_name]. Tu es avec moi ?"
 
 # game/chapter4.rpy:1996
 translate french brycefirst_26eefe0a:
@@ -2080,25 +2080,25 @@ translate french brycefirst_26eefe0a:
 translate french brycefirst_67a75b27:
 
     # Sb "Regardless of Bryce's death, we have try our best to proceed with the investigation. For his memory, and for the sake of the town."
-    Sb "Même si le Chef a été tué, on a fait de notre mieux jusqu'à maintenant. On va s'assurer qu'il ne soit pas mort en vain, et on va le faire aussi pour le bien de la ville."
+    Sb "Indépendamment de la mort de Bryce, on doit faire notre mieux pour poursuivre l'enquête. En sa mémoire, et pour le bien de la ville."
 
 # game/chapter4.rpy:2000
 translate french brycefirst_62399d4f:
 
     # Sb "At least Reza doesn't have any generators, for now. All the stolen ones were accounted for inside the building."
-    Sb "Au moins, Reza n'a plus de générateur à portée de main. Tout ceux qu'il avait volé étaient dans la ferme."
+    Sb "Au moins, Reza n'a plus de générateur, pour l'instant. Tout ceux qu'il avait volé étaient dans le bâtiment."
 
 # game/chapter4.rpy:2002
 translate french brycefirst_0fb2d9e2:
 
     # Sb "Alright, let me see what else we have..."
-    Sb "Bon, voyons ce qu'on a d'autre..."
+    Sb "Bon, voyons voir ce qu'on a d'autre..."
 
 # game/chapter4.rpy:2013
 translate french c4cont_454e0894:
 
     # Sb "When we searched the building, we found more than the things Reza stole. We also found this bloody bandage."
-    Sb "En fouillant, non seulement on a trouvé le butin de Reza, mais il y avait aussi ce bandage ensanglanté."
+    Sb "En fouillant la maison, on a trouvé plus que ce que Reza avait volé. On a également trouvé ce bandage ensanglanté."
 
 # game/chapter4.rpy:2015
 translate french c4cont_cf2d6ded:
@@ -2122,7 +2122,7 @@ translate french c4cont_d8ae483a:
 translate french c4cont_53ff3f22:
 
     # Sb "We know he was injured during the fight with his first victim, but whether this is from the same wound, or something else, I'm not sure."
-    Sb "On sait qu'il a été blessé durant le combat avec sa première victime, reste à savoir s'il n'a que cette blessure."
+    Sb "On sait qu'il a été blessé durant le combat avec sa première victime, mais si ça vient de la même blessure, ou d'une autre, je ne sais pas."
 
 # game/chapter4.rpy:2023
 translate french c4cont_b6509a8e:
@@ -2134,25 +2134,25 @@ translate french c4cont_b6509a8e:
 translate french c4cont_c48dc32f:
 
     # c "Sure."
-    c "Bien sûre."
+    c "Bien sûr."
 
 # game/chapter4.rpy:2029
 translate french c4cont_55d65168:
 
     # Sb "Next, we have a witness who reported hearing loud bangs during the night."
-    Sb "Deuxième chose : on a un témoin qui prétends avoir entendu de fortes détonations durant la nuit."
+    Sb "Ensuite, on a un témoin qui a rapporté avoir entendu de fortes détonations durant la nuit."
 
 # game/chapter4.rpy:2031
 translate french c4cont_320a075d:
 
     # Sb "We’d like to send someone to make a follow-up visit. You’ll need to confirm the witness statement, then see if he has anything new to share."
-    Sb "Il faut qu'on envoi quelqu'un prendre sa déclaration écrite, et éventuellement tirer quelque chose de son témoignage."
+    Sb "Il faut qu'on envoie quelqu'un prendre sa déclaration écrite. Tu auras besoin de confirmer son témoignage, puis de voir s'il a du nouveau à partager."
 
 # game/chapter4.rpy:2035
 translate french c4cont_e2d559af:
 
     # Sb "Also, now that we have reclaimed your PDAs, we're going to send one to the archives for analysis. Since they have experience with human artifacts, they're better suited to do it than any of our departments."
-    Sb "Il y a aussi les PDAs qu'on a récupéré. On doit en confier un aux archives pour analyses. Puisqu'ils sont habitués à travailler sur du matériel humain, ils s'en sortiront mieux que nous."
+    Sb "Aussi, maintenant qu'on a récupéré vos PDAs, on va en envoyer un aux archives pour analyses. Puisqu'ils ont de l'expérience avec les artéfacts humains, ils sont plus aptes à s'en occuper que n'importe lequel de nos départements."
 
 # game/chapter4.rpy:2037
 translate french c4cont_bd805a76:
@@ -2164,37 +2164,37 @@ translate french c4cont_bd805a76:
 translate french c4cont_79c69506:
 
     # Sb "And lastly, we have the eggs. It's a relief that we found them unharmed in the building. They're safe and ready to be sent back to the hatchery."
-    Sb "Pour finir, on a les oeufs. Ils sont tous sain et saufs heureusement, il n'y a plus qu'à les ramener à la pouponnière."
+    Sb "Et pour finir, on a les oeufs. C'est un soulagement que nous les ayons trouvés sain et sauf dans le bâtiment. Il n'y a plus qu'à les ramener à l'écloserie."
 
 # game/chapter4.rpy:2043
 translate french c4cont_7d2cd944:
 
     # c "Shouldn't we take care of those, first?"
-    c "On ne devrait pas les gérer en priorité ?"
+    c "On ne devrait pas s'en charger en priorité ?"
 
 # game/chapter4.rpy:2045
 translate french c4cont_dad19954:
 
     # Sb "It's not as urgent as you might think. Our eggs are pretty resilient. Being in the care of the hatchery is more an insurance than a requirement."
-    Sb "Ce n'est pas aussi urgent qu'il n'y parait. Nos oeufs sont plutôt résistants. Les confier à une écloserie est plus une précaution qu'une exigence."
+    Sb "Ce n'est pas aussi urgent qu'il y parait. Nos oeufs sont plutôt résistants. Les confier à une écloserie est plus une précaution qu'une exigence."
 
 # game/chapter4.rpy:2047
 translate french c4cont_b8fd21a0:
 
     # Sb "Some people choose to keep them in their own home until they hatch, rather than having the hatchery take care of it."
-    Sb "Certains préfèrent même les garder chez eux jusqu'à l'éclosion au lieu de les confier à une pouponnière."
+    Sb "Certains préfèrent même les garder chez eux jusqu'à l'éclosion, plutôt que de les confier à une écloserie."
 
 # game/chapter4.rpy:2049
 translate french c4cont_186a1410:
 
     # Sb "The hatchery has been notified, but they won't be able to send someone for a few hours. I've heard that they're really understaffed."
-    Sb "On les a prévenu d'ailleurs, mais ils sont en manque de personnel eux aussi, et ne pourront pas venir les chercher avant quelques heures."
+    Sb "L'écloserie a été prévenue, mais ils sont en manque de personnel eux aussi, et ne pourront pas venir les chercher avant quelques heures."
 
 # game/chapter4.rpy:2051
 translate french c4cont_f1a002bb:
 
     # Sb "If you bring the eggs and the paperwork to them, you'd speed up the process, but it's not an urgent matter."
-    Sb "Si tu pouvais gérer les oeufs et la paperasse, ça arrangerait les choses, mais ce n'est pas une urgence non plus."
+    Sb "Si tu amènes les oeufs et la paperasse, tu accélérerais les choses, mais ce n'est pas une urgence non plus."
 
 # game/chapter4.rpy:2053
 translate french c4cont_89aefe22:
@@ -2206,13 +2206,13 @@ translate french c4cont_89aefe22:
 translate french c4cont2_4bfa8c52:
 
     # Sb "In any case, I'll just leave everything here until I get to it, so feel free to do these tasks as you wish."
-    Sb "En tout cas, rien ici ne bouge sauf si quelqu'un décide de s'en charger. Si c'est encore là, c'est que c'est à classer."
+    Sb "Dans tout les cas, je vais laisser ça ici jusqu'à ce que je m'en charge, donc n'hésites pas à faire ces tâches si tu le souhaites."
 
 # game/chapter4.rpy:2067
 translate french c4cont2_827351ae:
 
     # Sb "I know it's laughable that we don't even have a free hand for simple errands."
-    Sb "Je sais qu'il y a de quoi rire au fait que je te demande de nous dépaner pour de simples courses."
+    Sb "Je sais qu'il y a de quoi rire au fait qu'on ait même pas quelqu'un pour faire de simples courses."
 
 # game/chapter4.rpy:2069
 translate french c4cont2_5101fbef:
@@ -2224,43 +2224,43 @@ translate french c4cont2_5101fbef:
 translate french c4cont2_aa3c4efc:
 
     # Sb "By the way, are you planning to attend the summer festival?"
-    Sb "Au fait, tu vas au festival d'été ?"
+    Sb "Au fait, tu as prévu d'aller au festival d'été ?"
 
 # game/chapter4.rpy:2075
 translate french c4cont2_af599221:
 
     # c "Should I? It's hard to think about something fun when I'm wrapped up in this investigation."
-    c "Tu crois que je devrais m'y rendre ? C'est difficile de penser à quelque chose de positif avec cette enquête."
+    c "Tu crois que je devrais m'y rendre ? C'est difficile de penser à quelque chose d'amusant quand je patauge dans cette enquête."
 
 # game/chapter4.rpy:2077
 translate french c4cont2_e23ed98b:
 
     # Sb "For sure. It's important to take a short rest so you don't lose your head. There's so much to see at the festival, particularly the big fireworks."
-    Sb "Carrément. Il faut bien s'arrêter pour respirer un peu tu sais. Et puis il y aura plein de trucs à voir à ce festival, les feu d'artifices entre autres."
+    Sb "Carrément. Il faut bien s'arrêter et respirer un peu pour ne pas perdre la tête. Et puis il y aura plein de choses à voir à ce festival, en particulier les feux d'artifices."
 
 # game/chapter4.rpy:2079
 translate french c4cont2_12a0faba:
 
     # c "Dragons enjoy fireworks, too? I would think something like that would feel so commonplace, since many of you breathe fire."
-    c "Les dragons aiment les feux d'artifices, hein ? Ça m'étonne quand on sait que beaucoup ici savent cracher la flamme."
+    c "Les dragons aiment les feux d'artifices, aussi ? J'aurais pensé que quelque chose comme ça vous aurait semblé trivial, comme beaucoup ici savent cracher du feu."
 
 # game/chapter4.rpy:2081
 translate french c4cont2_7f0fc3ed:
 
     # Sb "It's not quite the same. We still appreciate the wonder of colorful bursts in the sky. On the last day there's always a big fireworks show. Everyone usually attends it."
-    Sb "Ce n'est pas pareil. Il y a une différence entre la flamme de quelqu'un et un feu d'artifice coloré dans un ciel étoilé. Et puis celui du festival est si beau que la plupart des gens d'ici y assistent tout les ans."
+    Sb "Ce n'est pas vraiment pareil. On apprécie toujours les merveilles que font des explosions colorées dans le ciel. Au dernier jour il y a toujours un grand spectacle de feux d'artifices. Tout le monde y va d'habitude."
 
 # game/chapter4.rpy:2083
 translate french c4cont2_f43be0cf:
 
     # c "Everyone?"
-    c "La plupart des gens ?"
+    c "Tout le monde ?"
 
 # game/chapter4.rpy:2085
 translate french c4cont2_0130ecf1:
 
     # Sb "Yes, it has a great tradition behind it. What peeves me most is that I'll be on guard duty when it happens this year, so I probably won't be able to see a thing."
-    Sb "Oui, ce feu d'artifice a une sacré histoire derrière lui. Mais bon, personellement je ne pourrais pas y assister, je serai de garde au portail le soir du festival, Donc je risque de ne pas voir grand chose."
+    Sb "Oui, ce feu d'artifice a une sacré tradition derrière lui. Ce qui me saoule c'est que je serai de garde au portail le soir du festival, donc je ne risque pas de voir grand chose."
 
 # game/chapter4.rpy:2089
 translate french c4cont2_4b635033:
@@ -2272,13 +2272,13 @@ translate french c4cont2_4b635033:
 translate french sebdone_8a840b10:
 
     # Sb disapproval b "Are you suggesting I abandon my post during the fireworks?"
-    Sb disapproval b "Tu me suggères d'abandonner mon poste pour regarder le feu d'artifice, c'est ça ?"
+    Sb disapproval b "Tu me suggères d'abandonner mon poste le temps du le feu d'artifice ?"
 
 # game/chapter4.rpy:2109
 translate french sebdone_29ea912c:
 
     # c "No, you don't have to abandon your post, but if you pick a good spot and watch them for like half an hour or so, no one's going to care."
-    c "Pas vraiment, je me dit que si tu peux trouver un endroit en hauteur qui te permet d'assiter au feu d'artifice tout en pouvant garder un oeil sur ton poste, personne ne verra la différence."
+    c "Pas vraiment, je me dis que si tu peux trouver un bon endroit qui te permet d'assiter au feu d'artifice pour une petite demi-heure, personne ne verra la différence."
 
 # game/chapter4.rpy:2111
 translate french sebdone_7346d291:
@@ -2290,7 +2290,7 @@ translate french sebdone_7346d291:
 translate french sebdone_13085352:
 
     # c "I know we're talking about the portal, but you don't need to take this so seriously all the time. Just think about it. The portal is broken right now anyway, and everybody will be busy watching the fireworks. Nothing is going to happen."
-    c "Je sais bien que c'est sérieux. Mais tu n'as pas besoin de tout prendre au sérieux tout le temps. Prends le temps d'y penser. Le portail est en panne et tout le monde aura les yeux rivés vers le ciel. Il ne se passera rien, ne t'inquiète pas."
+    c "Je sais bien qu'on parle du portail, mais tu n'as pas besoin de tout prendre au sérieux tout le temps. Prends le temps d'y penser. Le portail est en panne là et tout le monde sera occupé à regarder les feux d'artifices. Il ne se passera rien."
 
 # game/chapter4.rpy:2115
 translate french sebdone_ff0f8867:
@@ -2302,7 +2302,7 @@ translate french sebdone_ff0f8867:
 translate french sebdone_18d46eb7:
 
     # c "Just pick a good spot and no one is going to even notice you're gone."
-    c "Trouve juste un bon coin, et personne ne verra la différence, crois moi."
+    c "Trouve juste un bon coin, et personne ne remarquera que tu es parti."
 
 # game/chapter4.rpy:2119
 translate french sebdone_0c85d775:
@@ -2314,7 +2314,7 @@ translate french sebdone_0c85d775:
 translate french sebelse_76b37f1b:
 
     # c "I'll be sure not to miss it then."
-    c "Compte sur moi pour ne pas le manquer"
+    c "Compte sur moi pour ne pas le manquer."
 
 # game/chapter4.rpy:2134
 translate french sebelse_ec662314:
@@ -2326,7 +2326,7 @@ translate french sebelse_ec662314:
 translate french sebelse_3cb2d5d0:
 
     # Sb "I'll leave the stuff for you here, and I'll take care of the rest once I get back, alright?"
-    Sb "Je laisse tout ça là, et je m'occuperai du reste une fois de retour, d'accord ?"
+    Sb "Je te laisse tout ça là, et je m'occuperai du reste une fois de retour, d'accord ?"
 
 # game/chapter4.rpy:2138
 translate french sebelse_e631bc97:
@@ -2350,7 +2350,7 @@ translate french sebelse_b092993f:
 translate french c4facility_a59e5fa7:
 
     # m "When I approached Anna's lab, I saw her sitting on the hallway floor, the door to her lab wide open."
-    m "En m'approchant du laboratoire, je vis Anna assise à même le sol dans le couloir. La porte de son labo était grande ouverte."
+    m "En m'approchant du laboratoire, je vis Anna assise à même le sol du couloir, la porte de son labo grande ouverte."
 
 # game/chapter4.rpy:2289
 translate french c4facility_df4c809f:
@@ -2386,7 +2386,7 @@ translate french c4facility_115c34c4:
 translate french c4facility_c16f96ee:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
+    An face "C'est une longue histoire, et je ne vais pas en parler maintenant."
 
 # game/chapter4.rpy:2303
 translate french c4facility_7f786720:
@@ -2398,19 +2398,19 @@ translate french c4facility_7f786720:
 translate french c4facility_9eaaf239:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An sad "J'en sais rien. Je ne sais pas comment je suis censée bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2307
 translate french c4facility_b08fa813:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face "Et puis un jour les deux se liguent et voilà que les flics viennent pour retourner mon labo comme si c'était normal. Ça n'a aucun sens !"
+    An face "Et puis un jour les deux se liguent et viennent pour retourner mon labo comme si ça faisait partie de leur travail. Ça n'a aucun sens."
 
 # game/chapter4.rpy:2309
 translate french c4facility_0f0596d5:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
+    An disgust "Quelqu'un va en entendre parler, et il y aura des conséquences, je peux te le garantir."
 
 # game/chapter4.rpy:2311
 translate french c4facility_6b14bf02:
@@ -2428,25 +2428,25 @@ translate french c4facility_28c95653:
 translate french c4facility_036be757:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
+    An face "Qu'est-ce que je disais. Ils foutent le bordel dans mon labo, puis me demandent de l'aide après."
 
 # game/chapter4.rpy:2317
 translate french c4facility_f6dfc989:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
+    An disgust "Il y a un truc qui tourne pas rond ici, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2319
 translate french c4facility_74b9cb3a:
 
     # An sad "What is this, anyway?"
-    An sad "Qu'est-ce que tu m'ammènes ?"
+    An sad "Enfin bon, de quoi s'agit-il ?"
 
 # game/chapter4.rpy:2321
 translate french c4facility_a29e5373:
 
     # c "I'm sorry. It's a bloody bandage for analysis. It's related to the Reza investigation."
-    c "Pardonne moi de te déranger avec ça. C'est un bandage ensanglanté. C'est lié à l'enquête sur Reza."
+    c "Désolé. C'est un bandage ensanglanté à analyser. C'est lié à l'enquête sur Reza."
 
 # game/chapter4.rpy:2323
 translate french c4facility_6a6a1f07:
@@ -2488,7 +2488,7 @@ translate french c4facility_115c34c4_1:
 translate french c4facility_c16f96ee_1:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
+    An face "C'est une longue histoire, et je ne vais pas en parler maintenant."
 
 # game/chapter4.rpy:2351
 translate french c4facility_7f786720_1:
@@ -2500,19 +2500,19 @@ translate french c4facility_7f786720_1:
 translate french c4facility_9eaaf239_1:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An sad "J'en sais rien. Je ne sais pas comment je suis censée bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2355
 translate french c4facility_b08fa813_1:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face "Et puis un jour les deux se liguent et voilà que les flics viennent pour retourner mon labo comme si c'était normal. Ça n'a aucun sens !"
+    An face "Et puis un jour les deux se liguent et viennent pour retourner mon labo comme si ça faisait partie de leur travail. Ça n'a aucun sens."
 
 # game/chapter4.rpy:2357
 translate french c4facility_0f0596d5_1:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
+    An disgust "Quelqu'un va en entendre parler, et il y aura des conséquences, je peux te le garantir."
 
 # game/chapter4.rpy:2359
 translate french c4facility_6b14bf02_1:
@@ -2530,13 +2530,13 @@ translate french c4facility_6e1b6a6a:
 translate french c4facility_036be757_1:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
+    An face "Qu'est-ce que je disais. Ils foutent le bordel dans mon labo, puis me demandent de l'aide après."
 
 # game/chapter4.rpy:2365
 translate french c4facility_f6dfc989_1:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
+    An disgust "Il y a un truc qui tourne pas rond ici, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2367
 translate french c4facility_74b9cb3a_1:
@@ -2548,7 +2548,7 @@ translate french c4facility_74b9cb3a_1:
 translate french c4facility_a29e5373_1:
 
     # c "I'm sorry. It's a bloody bandage for analysis. It's related to the Reza investigation."
-    c "Pardonne moi de te déranger avec ça. C'est un bandage ensanglanté. C'est lié à l'enquête sur Reza."
+    c "Désolé. C'est un bandage ensanglanté à analyser. C'est lié à l'enquête sur Reza."
 
 # game/chapter4.rpy:2371
 translate french c4facility_6a6a1f07_1:
@@ -2566,7 +2566,7 @@ translate french c4facility_8e9a23b0_1:
 translate french c4facility_08fa48a0_1:
 
     # c "Well, see you, then."
-    c "Bon, à plus tard alors."
+    c "A plus tard, alors."
 
 # game/chapter4.rpy:2377
 translate french c4facility_a445059e_1:
@@ -2608,7 +2608,7 @@ translate french c4facility_c0fffdf7:
 translate french c4facility_e20fb284:
 
     # An disgust "You know what? You can march right back and tell them they can do their tests themselves if they think they can play games with me."
-    An disgust "Tu sais quoi ? Tu peux repartir d'où tu viens et dire qu'ils peuvent faire leurs tests eux mêmes s'ils pensent qu'ils peuvent jouer avec moi."
+    An disgust "Tu sais quoi ? Tu peux repartir d'où tu viens et leur dire qu'ils peuvent faire leurs tests eux mêmes s'ils pensent qu'ils peuvent jouer avec moi."
 
 # game/chapter4.rpy:2405
 translate french c4facility_e2c4b981:
@@ -2632,7 +2632,7 @@ translate french c4facility_b9836deb:
 translate french c4facility_8e27deb2:
 
     # An rage "What the heck are you still doing here? Go and tell them, now!" with Shake((0, 0, 0, 0), 2, dist=10)
-    An rage "Qu'est-ce que tu fous encore ici ? Va et dit leur, maintenant!" with Shake((0, 0, 0, 0), 2, dist=10)
+    An rage "Qu'est-ce que tu fous encore ici ? Va et dit leur, tout de suite !" with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/chapter4.rpy:2413
 translate french c4facility_63e87d41:
@@ -2662,7 +2662,7 @@ translate french c4facility_115c34c4_2:
 translate french c4facility_c16f96ee_2:
 
     # An face "It's a long story and I'm not going to tell it now."
-    An face "C'est une longue histoire, et j'ai pas envie d'en parler."
+    An face "C'est une longue histoire, et je ne vais pas en parler maintenant."
 
 # game/chapter4.rpy:2440
 translate french c4facility_7f786720_2:
@@ -2674,19 +2674,19 @@ translate french c4facility_7f786720_2:
 translate french c4facility_9eaaf239_2:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An sad "J'en sais rien. Je ne sais pas comment je suis censée bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2444
 translate french c4facility_b08fa813_2:
 
     # An face "And then they both turn around and mess up the place as if it's part of their job. It doesn't make sense to me."
-    An face "J'en sais rien. Je ne sais pas comment je suis censés bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An face "Et puis un jour les deux se liguent et viennent pour retourner mon labo comme si ça faisait partie de leur travail. Ça n'a aucun sens."
 
 # game/chapter4.rpy:2446
 translate french c4facility_0f0596d5_2:
 
     # An disgust "Someone's going to hear about this, and there will be consequences, I can tell you that."
-    An disgust "Quelqu'un va devoir rendre des comptes ! Je peux te le garantir !"
+    An disgust "Quelqu'un va en entendre parler, et il y aura des conséquences, je peux te le garantir."
 
 # game/chapter4.rpy:2448
 translate french c4facility_6b14bf02_2:
@@ -2704,13 +2704,13 @@ translate french c4facility_6e1b6a6a_1:
 translate french c4facility_036be757_2:
 
     # An face "That's what I'm talking about. Mess up my place, then ask for my help."
-    An face "Qu'est-ce que je disais... Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
+    An face "Qu'est-ce que je disais. Ils foutent le bordel dans mon labo, pour me demander de l'aide après."
 
 # game/chapter4.rpy:2454
 translate french c4facility_f6dfc989_2:
 
     # An disgust "Something isn't right here, and I'll get to the bottom of this."
-    An disgust "Il y a un truc qui tourne pas rond, et je vais savoir ce que c'est, crois-moi."
+    An disgust "Il y a un truc qui tourne pas rond ici, et je vais savoir ce que c'est, crois-moi."
 
 # game/chapter4.rpy:2456
 translate french c4facility_74b9cb3a_2:
@@ -2734,7 +2734,7 @@ translate french c4facility_e780acf8:
 translate french c4facility_46ff6af6:
 
     # An sad "How could I even? My lab is trashed."
-    An sad "Comment le pourai-je ? Mon labo est saccagé."
+    An sad "Comment le pourrais-je ? Mon labo est saccagé."
 
 # game/chapter4.rpy:2464
 translate french c4facility_5721e7a1:
@@ -2830,31 +2830,31 @@ translate french loremnotmissing_6cb5fcc8:
 translate french loremnotmissing_512650c4:
 
     # Ip normal "Sure."
-    Ip normal "C'est çà."
+    Ip normal "C'est ça."
 
 # game/chapter4.rpy:2580
 translate french loremnotmissing_a15c71e7:
 
     # c "I'm working with the police and hoped you could answer a few questions."
-    c "Je travaille en collaboration avec la police et j'espérais que vous pouriez répondre à quelques questions."
+    c "Je travaille en collaboration avec la police et j'espérais que vous pourriez répondre à quelques questions."
 
 # game/chapter4.rpy:2584
 translate french loremnotmissing_9c960c3e:
 
     # Ip "Oh, it's you."
-    Ip "Oh c'est vous."
+    Ip "Oh c'est toi."
 
 # game/chapter4.rpy:2586
 translate french loremnotmissing_d6b0f084:
 
     # Ip think "Can I help you?"
-    Ip think "Puis-je vous aider ?"
+    Ip think "Que puis-je faire pour toi ?"
 
 # game/chapter4.rpy:2588
 translate french loremnotmissing_cef17091:
 
     # c "Yeah. I'm working with the police and hoped you could answer a few questions."
-    c "Oui. Je travaille avec la police et j'espérais que vous pourriez à quelques questions."
+    c "Oui. Je travaille avec la police et j'espérais que tu puisses répondre à quelques questions."
 
 # game/chapter4.rpy:2592
 translate french loremnotmissing_68dad7a1:
@@ -2872,13 +2872,13 @@ translate french loremnotmissing_26eefe0a:
 translate french loremnotmissing_64e0b65f:
 
     # Ip think "Alright. What do you want to know?"
-    Ip think "D'accord. Que voulez vous savoir ?"
+    Ip think "D'accord. Que voulez-vous savoir ?"
 
 # game/chapter4.rpy:2598
 translate french loremnotmissing_8e9278fd:
 
     # c "Can you tell me what happened?"
-    c "Pouvez vous me dire ce qui s'est passer ?"
+    c "Peux-tu me dire ce qu'il s'est passé ?"
 
 # game/chapter4.rpy:2600
 translate french loremnotmissing_e4572aa4:
@@ -2890,7 +2890,7 @@ translate french loremnotmissing_e4572aa4:
 translate french loremnotmissing_75416a96:
 
     # Ip think "Around 2AM, I suddenly hear a few bangs outside. They reminded me of small explosions."
-    Ip think "Aux alentours de 2 heures du matin, j'entendis soudainement quelques détonations à l'exterieur. Elles me rappellèrent des petites explosions."
+    Ip think "Aux alentours de 2 heures du matin, j'ai brutalement entendu quelques détonations à l'extérieur. Elles me rappellaient de petites explosions."
 
 # game/chapter4.rpy:2604
 translate french loremnotmissing_c87e8928:
@@ -2902,7 +2902,7 @@ translate french loremnotmissing_c87e8928:
 translate french loremnotmissing_66865b4d:
 
     # c "I see. Did nothing about this seem unusual to you?"
-    c "Je vois. Rien d'autre qui vous a paru inhabituel ?"
+    c "Je vois. Rien d'autre qui ne t'a paru inhabituel ?"
 
 # game/chapter4.rpy:2608
 translate french loremnotmissing_371a499b:
@@ -2938,13 +2938,13 @@ translate french loremnotmissing_92287918:
 translate french loremnotmissing_96280233:
 
     # c "I don't know. Why are you asking?"
-    c "Je ne sais pas. Pourquoi vous demandez ?"
+    c "Je ne sais pas. Pourquoi tu demandes ?"
 
 # game/chapter4.rpy:2622
 translate french loremnotmissing_60f37cc4:
 
     # Ip "You’ve hung out with him a few times now. You see, he doesn’t have many friends, and I think he’s starting to like you."
-    Ip "Vous avez passé pas mal de temps avec lui. Vous voyez, il n'a pas beaucoup d'amis, et je pense qu'il commence à vous apprécier."
+    Ip "Tu as passé pas mal de temps avec lui. Tu vois, il n'a pas beaucoup d'amis, et je pense qu'il commence à t'apprécier."
 
 # game/chapter4.rpy:2624
 translate french loremnotmissing_d5faba5e:
@@ -2956,7 +2956,7 @@ translate french loremnotmissing_d5faba5e:
 translate french loremnotmissing_6aa06075:
 
     # Ip "It's just... If something happens the next time you meet, don’t be mad at him, okay?"
-    Ip "C'est juste que... Si quelque chose arrive la prochaine fois que vous vous voyez, ne lui en voulez pas, d'accord ?"
+    Ip "C'est juste que... Si quelque chose arrive la prochaine fois que vous vous voyez, ne lui en veux pas, d'accord ?"
 
 # game/chapter4.rpy:2628
 translate french loremnotmissing_fe5f3366:
@@ -3016,13 +3016,13 @@ translate french loremnotmissing_b516b795:
 translate french loremnotmissing_9cbff9bd:
 
     # Ip "Do you have any news about Lorem?"
-    Ip "Vous avez des nouvelles au sujet de Lorem ?"
+    Ip "Tu as des nouvelles au sujet de Lorem ?"
 
 # game/chapter4.rpy:2702
 translate french loremnotmissing_9e19beb8:
 
     # c "This is about the noises you heard last night."
-    c "Ce sont les bruits que vous avez entendu la nuit dernière."
+    c "C'est au sujet des bruits que vous avez entendu la nuit dernière."
 
 # game/chapter4.rpy:2706
 translate french loremnotmissing_42258e65:
@@ -3052,7 +3052,7 @@ translate french loremnotmissing_c21407a9:
 translate french loremnotmissing_45b5fb0a:
 
     # Ip "I don't know what happened to him. He didn't go on vacation, nor did he suddenly decide to visit the next town. I'd know if he did – he would have told me."
-    Ip "Je ne sais pas ce qui lui est arrivé. Il n'est pas parti en vacances, ou de partir soudainement visiter la ville d'à côté. Je le saurais sinon - il m'en aurait parlé."
+    Ip "Je ne sais pas ce qui lui est arrivé. Il n'est pas parti en vacances, ou parti soudainement visiter la ville d'à côté. Je le saurais sinon - il m'en aurait parlé."
 
 # game/chapter4.rpy:2718
 translate french loremnotmissing_0e144e97:
@@ -3070,7 +3070,7 @@ translate french loremnotmissing_3907e8c4:
 translate french c4library_a50af3ed:
 
     # c "(Doesn't look like Remy is here.)"
-    c "(On dirait que Remy n'est pas ici.)"
+    c "(On dirait que Rémi n'est pas ici.)"
 
 # game/chapter4.rpy:2760
 translate french c4library_364daeed:
@@ -3088,25 +3088,25 @@ translate french c4library_aa581abf:
 translate french c4library_3c0fe50c:
 
     # Ei "Do you know where the audio section is? I'm looking for some sheet music."
-    Ei "Vous savez ou se trouve la section audio ? Je cherche des partitions..."
+    Ei "Vous savez où se trouve la section audio ? Je cherche des partitions."
 
 # game/chapter4.rpy:2766
 translate french c4library_57a80524:
 
     # c "Sorry, I have no idea. I don't even work here."
-    c "Désolé, mais je ne saurais vous répondre. Je ne travaille pas ici."
+    c "Désolé, je n'en ai aucune idée. Je ne travaille même pas ici."
 
 # game/chapter4.rpy:2768
 translate french c4library_a0e54fc9:
 
     # Ei "Ah, don't worry about it. The staff all seem to be hiding somewhere."
-    Ei "Ah, ne vous en faites pas ! En fait je ne trouve personne qui travaille ici."
+    Ei "Ah, ne vous en faites pas. Tout le personnel a l'air de se cacher en ce moment."
 
 # game/chapter4.rpy:2770
 translate french c4library_ebf760d8:
 
     # Ei "Anyway, have a good day."
-    Ei "Enfin, passez une bonne journée !"
+    Ei "Enfin, passez une bonne journée."
 
 # game/chapter4.rpy:2772
 translate french c4library_b092993f:
@@ -3118,7 +3118,7 @@ translate french c4library_b092993f:
 translate french c4library_3ec04e11:
 
     # c "(Maybe Remy is somewhere in the back, or in his office.)"
-    c "(Peut-être que Remy est quelque part entre deux étagères, ou dans son bureau.)"
+    c "(Peut-être que Rémi est quelque part dans la réserve, ou dans son bureau.)"
 
 # game/chapter4.rpy:2790
 translate french c4library_98ba7ce2:
@@ -3130,19 +3130,19 @@ translate french c4library_98ba7ce2:
 translate french c4library_64429502:
 
     # Em "You know, this section is usually for staff only."
-    Em "Vous savez, cette section est réservée au personnel."
+    Em "Vous savez, cette section est réservée au personnel uniquement."
 
 # game/chapter4.rpy:2796
 translate french c4library_176a6864:
 
     # c "I'm just looking for Remy. I'm supposed to drop off this PDA."
-    c "Pardon, mais je cherche Remy, je dois lui remettre ce PDA."
+    c "Je cherche Rémi, je suis censé lui remettre ce PDA."
 
 # game/chapter4.rpy:2798
 translate french c4library_95c88821:
 
     # Em mean b "Well, he is not working today. Apparently he has other engagements."
-    Em mean b "Eh bien, il n'est pas au travail aujourd'hui. Apparement il a rendez-vous ailleurs."
+    Em mean b "Eh bien, il ne travaille pas aujourd'hui. Apparement il a d'autres engagements."
 
 # game/chapter4.rpy:2800
 translate french c4library_b1c0823f:
@@ -3154,7 +3154,7 @@ translate french c4library_b1c0823f:
 translate french c4library_587ce40e:
 
     # c "Can't I just leave the PDA here?"
-    c "Je ne peux pas laisser le PDA ici ?"
+    c "Je ne peux pas juste laisser le PDA ici ?"
 
 # game/chapter4.rpy:2804
 translate french c4library_a0fe0103:
@@ -3178,19 +3178,19 @@ translate french c4library_4c6914b8:
 translate french c4library_b23f25ee:
 
     # Em "To be honest, I am glad that you are still here. Remember, I said that I believed you when you told me your side of the story."
-    Em "Sincèrement, je suis ravie que voyez encore là. Souvenez vous, j'ai avoué vous croire après que vous nous ayez tout raconté sur votre monde."
+    Em "Sincèrement, je suis ravie que soyez encore là. Souvenez vous, j'ai avoué vous croire quand que vous nous avez raconté votre version de l'histoire."
 
 # game/chapter4.rpy:2812
 translate french c4library_833880c4:
 
     # Em ques b "I always have to do what is in the public's best interest, and now they will not blame me if you have any connection with Reza. I hope you can understand that."
-    Em ques b "Je dois toujours agir dans l'intérêt du public. Maintenant, si vous avez un lien quelconque avec les agissements de Reza, personne ne pourra me repprocher ma décision. J'espère vous êtes conscient de cela."
+    Em ques b "Je dois toujours agir dans l'intérêt du public. Maintenant, si vous avez un lien quelconque avec les agissements de Reza, personne ne pourra me reprocher ma décision. J'espère que vous pouvez comprendre cela."
 
 # game/chapter4.rpy:2814
 translate french c4library_6b596a9e:
 
     # Em normal b "Here is Remy's address, in case you need it."
-    Em normal b "Enfin, voici l'adresse de Remy, au cas où."
+    Em normal b "Enfin, voici l'adresse de Rémi, au cas où."
 
 # game/chapter4.rpy:2816
 translate french c4library_e897fbb0:
@@ -3208,7 +3208,7 @@ translate french c4library_7d6298bc:
 translate french c4library_f692f8a4:
 
     # c "I came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c "Bonjour Remy, je viens t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
+    c "Je suis venu t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2834
 translate french c4library_07d1113d:
@@ -3220,31 +3220,31 @@ translate french c4library_07d1113d:
 translate french c4library_55a08bac:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un d'eux !"
+    Ry smile "Hé, c'est un de vos PDAs. Je savais bien que je finirais par mettre la main sur l'un d'eux."
 
 # game/chapter4.rpy:2838
 translate french c4library_e1a48044:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c "Oui, et maintenant tu as toute les connaissances humaines à portée de griffe."
+    c "Oui, et maintenant tu as toutes les connaissances humaines que tu désires."
 
 # game/chapter4.rpy:2840
 translate french c4library_3a588917:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal "Tu n'imagine pas depuis combien de temps j'attends ce moment."
+    Ry normal "Tu n'imagines pas à quel point j'attendais ce moment."
 
 # game/chapter4.rpy:2842
 translate french c4library_91c4e706:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry "Je ne travaille pas aujourd'hui, certes. Mais crois bien que je vais jeter un oeil à ce PDA dès que possible."
+    Ry "Je ne travaille pas aujourd'hui, mais je vais quand même y jeter un oeil dès que possible."
 
 # game/chapter4.rpy:2844
 translate french c4library_890850e8:
 
     # c "I'm just going to leave you to it, then."
-    c "D'accord. Je vais te laisser, alors."
+    c "Je vais te laisser à tes affaires, alors."
 
 # game/chapter4.rpy:2846
 translate french c4library_b97e7acd:
@@ -3268,7 +3268,7 @@ translate french c4library_7d6298bc_1:
 translate french c4library_460db703:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c "Je suis venu t'apporter ceci. Je suis passé à la bibliothèque mais Emera a refusé que je le laisse à ton bureau."
+    c "Je suis venu t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2871
 translate french c4library_07d1113d_1:
@@ -3280,31 +3280,31 @@ translate french c4library_07d1113d_1:
 translate french c4library_55a08bac_1:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un deux !"
+    Ry smile "Hé, c'est un de vos PDAs. Je savais bien que je finirais par mettre la main sur l'un d'eux."
 
 # game/chapter4.rpy:2875
 translate french c4library_e1a48044_1:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c "Oui, et maintenant tu as toute les connaissances humaines à portée de griffe."
+    c "Oui, et maintenant tu as toutes les connaissances humaines que tu désires."
 
 # game/chapter4.rpy:2877
 translate french c4library_3a588917_1:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal "Tu n'imagines pas depuis combien de temps j'attends ce moment."
+    Ry normal "Tu n'imagines pas à quel point j'attendais ce moment."
 
 # game/chapter4.rpy:2879
 translate french c4library_91c4e706_1:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry "Je ne travaille pas aujourd'hui, certes. Mais croiyez bien que je vais jeter un oeil à ce PDA dès que possible."
+    Ry "Je ne travaille pas aujourd'hui, mais je vais quand même y jeter un oeil dès que possible."
 
 # game/chapter4.rpy:2881
 translate french c4library_890850e8_1:
 
     # c "I'm just going to leave you to it, then."
-    c "J'imagine. Je te laisse, j'ai encore des choses à faire."
+    c "Je vais te laisser à tes affaires, alors."
 
 # game/chapter4.rpy:2883
 translate french c4library_b97e7acd_1:
@@ -3328,7 +3328,7 @@ translate french c4library_7d6298bc_2:
 translate french c4library_460db703_1:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c "Je suis venu vous apporter ceci. Je suis passé à la bibliothèque mais Emera a refusé que je le laisse à votre bureau."
+    c "Je suis venu t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2907
 translate french c4library_07d1113d_2:
@@ -3340,25 +3340,25 @@ translate french c4library_07d1113d_2:
 translate french c4library_55a08bac_2:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Hé, c'est un des PDAs ! Je savais bien que je finirait par avoir l'un deux !"
+    Ry smile "Hé, c'est un de vos PDAs. Je savais bien que je finirais par mettre la main sur l'un d'eux."
 
 # game/chapter4.rpy:2911
 translate french c4library_e1a48044_2:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c "Oui, et maintenant tu as toutes les connaissances humaines à portée de griffe."
+    c "Oui, et maintenant tu as toutes les connaissances humaines que tu désires."
 
 # game/chapter4.rpy:2913
 translate french c4library_3a588917_2:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal "Tu n'imagines pas depuis combien de temps j'attends ce moment."
+    Ry normal "Tu n'imagines pas à quel point j'attendais ce moment."
 
 # game/chapter4.rpy:2915
 translate french c4library_91c4e706_2:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry "Je ne travaille pas aujourd'hui, certes. Mais croiyez bien que je vais jeter un oeil à ce PDA dès que possible."
+    Ry "Je ne travaille pas aujourd'hui, mais je vais quand même y jeter un oeil dès que possible."
 
 # game/chapter4.rpy:2917
 translate french c4library_890850e8_2:
@@ -3376,19 +3376,19 @@ translate french c4library_b97e7acd_2:
 translate french c4library_f76092e2_2:
 
     # c "Enjoy."
-    c "Amuse-toi bien."
+    c "Profite bien."
 
 # game/chapter4.rpy:2940
 translate french c4library_e63a1f9c:
 
     # Ry "Oh, it's you. I don't think it's a good time for you to visit right now, though."
-    Ry "Oh, c'est toi. Je ne crois pass que ce sois le bon moment pour me rendre visite."
+    Ry "Oh, c'est toi. Je ne crois pas que ce soit le bon moment pour me rendre visite."
 
 # game/chapter4.rpy:2942
 translate french c4library_460db703_2:
 
     # c "I just came by to give you this. I was already at the library, but Emera refused to let me drop it off there."
-    c "Je suis juste venu te remettre ceci. Je suis passé à ton bureau, mais Emera a refusé que je le laisse là-bas."
+    c "Je suis venu t'apporter ça. Je suis passé à la bibliothèque mais Emera a refusé de prendre ça pour toi."
 
 # game/chapter4.rpy:2944
 translate french c4library_07d1113d_3:
@@ -3400,13 +3400,13 @@ translate french c4library_07d1113d_3:
 translate french c4library_00fbcf15:
 
     # Ry normal "Oh, it's one of your PDAs. I was really looking forward to this."
-    Ry normal "Oh, mais c'est l'un de vos PDAs, j'avais vraiment hâte d'en avoir un entre les griffes !"
+    Ry normal "Oh, mais c'est l'un de vos PDAs, j'avais vraiment hâte d'en avoir un entre les griffes."
 
 # game/chapter4.rpy:2948
 translate french c4library_c96980f9:
 
     # c "Well, here you go."
-    c "Oh, dans ce cas, voici pour toi."
+    c "Oh, dans ce cas, voilà pour toi."
 
 # game/chapter4.rpy:2950
 translate french c4library_c94450f0:
@@ -3418,7 +3418,7 @@ translate french c4library_c94450f0:
 translate french c4library_f76092e2_3:
 
     # c "Enjoy."
-    c "Amuse-toi bien."
+    c "Profite bien."
 
 # game/chapter4.rpy:2971
 translate french c4library_759894d0:
@@ -3436,7 +3436,7 @@ translate french c4library_aa1ad311:
 translate french c4library_6f34a4d5:
 
     # c "(Well, if he isn't here and left the door open, that's no good.)"
-    c "(S'il n'est pas là et a laissé la porte ouverte, ce n'est pas bon signe.)"
+    c "(S'il n'est pas là mais qu'il a laissé la porte ouverte, ce n'est pas bon signe.)"
 
 # game/chapter4.rpy:2981
 translate french c4library_03fc7431:
@@ -3472,7 +3472,7 @@ translate french c4library_17a7ece9:
 translate french c4library_f51e808a:
 
     # Sb "I see. Well, I know he met you when you initially arrived here, at the very least."
-    Sb "Je vois. Je sais que c'est lui qui vous a accueilli après votre arrivée."
+    Sb "Je vois. Je sais que c'est lui qui t'a accueilli à ton arrivée, tout du moins."
 
 # game/chapter4.rpy:3025
 translate french c4library_ff12b77a:
@@ -3508,19 +3508,19 @@ translate french c4library_82410399:
 translate french c4library_32dc6903:
 
     # Sb "It's always a shame when things like this happen, when there are resources to help people who have issues and illnesses."
-    Sb "C'est toujours décevant de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
+    Sb "C'est toujours dommage de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
 
 # game/chapter4.rpy:3041
 translate french c4library_b56454d2:
 
     # Sb "It's a mark on our society, a reminder that we let it happen. Someone suffered so much that they took their own life."
-    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un a souffert au point de s'ôter la vie."
+    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un souffrait au point de s'en ôter lui même la vie."
 
 # game/chapter4.rpy:3043
 translate french c4library_541184d2:
 
     # Sb "But what more can you do?"
-    Sb "Mais, que voulez vous qu'on fasse de plus ?"
+    Sb "Mais, que veux-tu qu'on fasse de plus ?"
 
 # game/chapter4.rpy:3047
 translate french c4library_759b976c_1:
@@ -3538,25 +3538,25 @@ translate french c4library_82410399_1:
 translate french c4library_32dc6903_1:
 
     # Sb "It's always a shame when things like this happen, when there are resources to help people who have issues and illnesses."
-    Sb "C'est toujours décevant de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
+    Sb "C'est toujours dommage de tomber sur de tels choses. Surtout quand on sait qu'il existe de quoi aider les gens dans le besoin."
 
 # game/chapter4.rpy:3053
 translate french c4library_b56454d2_1:
 
     # Sb "It's a mark on our society, a reminder that we let it happen. Someone suffered so much that they took their own life."
-    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un a souffert au point de s'ôter la vie."
+    Sb "C'est un mal dans notre société, un rappel de notre inaction. Quelqu'un souffrait au point de s'en ôter lui même la vie."
 
 # game/chapter4.rpy:3055
 translate french c4library_541184d2_1:
 
     # Sb "But what more can you do?"
-    Sb "Mais, que voulez vous qu'on fasse de plus ?"
+    Sb "Mais, que veux-tu qu'on fasse de plus ?"
 
 # game/chapter4.rpy:3059
 translate french c4library_9f36a9ba:
 
     # Sb "Bullied? By whom?"
-    Sb "Malmené ? Par qui, tu le sais ?"
+    Sb "Malmené ? Par qui ?"
 
 # game/chapter4.rpy:3061
 translate french c4library_c44802b0:
@@ -3580,13 +3580,13 @@ translate french c4library_4ccb10f0:
 translate french c4library_71044caa:
 
     # Sb "If that was a cause for his suicide, that would be a very serious matter."
-    Sb ""
+    Sb "Si cette histoire est l'une des raisons qui l'a poussé à se suicider, ça serait très grave."
 
 # game/chapter4.rpy:3069
 translate french c4library_5eb39e2c:
 
     # c "I'm just saying how it is."
-    c "Si cette histoire est l'une des raisons qui l'a poussé à se suicider, ça serait très grave."
+    c "Je dis juste les choses telles qu'elles sont."
 
 # game/chapter4.rpy:3071
 translate french c4library_de251424:
@@ -3604,13 +3604,13 @@ translate french c4library_89c2bed2:
 translate french c4library_5cdbca69:
 
     # Sb "One or two instances of being scolded hardly constitutes bullying, especially if Emera had good reasons."
-    Sb "Une ou deux fois, ça ne peut pas être vraiment considéré comme du harcèlement ou quoi. Si ça se trouve il y avait une bonne raison pour que ces scènes aient lieux."
+    Sb "Une ou deux fois, ça ne peut pas être vraiment considéré comme du harcèlement, en particulier si Emera avait de bonnes raisons."
 
 # game/chapter4.rpy:3077
 translate french c4library_f40bbda7:
 
     # Sb "Without hard proof, you can't make a case or accuse Emera of bullying."
-    Sb "Sans preuve tangible, tu ne pourras rien contre Emera."
+    Sb "Sans preuve tangible, tu ne ouvrir d'enquête ou accuser Emera d'harcèlement."
 
 # game/chapter4.rpy:3079
 translate french c4library_5d6e5ae5:
@@ -3628,7 +3628,7 @@ translate french c4library_ebf628fb:
 translate french c4library_0914c74d:
 
     # Sb "I'd also recommend that you keep your opinion on this matter to yourself."
-    Sb "Aussi, je te conseilles vivement de garder tout ce que tu m'as dit pour toi."
+    Sb "Aussi, je te conseille vivement de garder ton opinion sur le sujet pour toi."
 
 # game/chapter4.rpy:3085
 translate french c4library_4e5a4202:
@@ -3640,25 +3640,25 @@ translate french c4library_4e5a4202:
 translate french c4library_8a26ee04:
 
     # Sb "Voicing an opinion like that without the evidence to back it up could have consequences. Especially if you're dealing with someone like Emera."
-    Sb "Dire de tels choses sans avoir de preuves pourrait avoir de facheuses conséquences, surtout si tu t'en prends à quelqu'un comme Emera."
+    Sb "Dire de tels choses sans avoir de preuves à l'appui pourrait avoir de fâcheuses conséquences, surtout si tu t'en prends à quelqu'un comme Emera."
 
 # game/chapter4.rpy:3089
 translate french c4library_89aefe22:
 
     # c "I see."
-    c "Je vois"
+    c "Je vois."
 
 # game/chapter4.rpy:3091
 translate french c4library_03ab34e1:
 
     # Sb "I'm sorry you had to find Remy like this, though."
-    Sb "Je suis désolé que tu ais eu à trouver Rémi comme ça."
+    Sb "Je suis désolé que tu aies eu à trouver Rémi comme ça."
 
 # game/chapter4.rpy:3093
 translate french c4library_12593beb:
 
     # Sb "In any case, I'll handle the rest. Feel free to take the day off, if you need to."
-    Sb "Je m'occupe du reste va. N'hésite pas à prendre congé si tu veux te changer les idées."
+    Sb "Je vais m'occuper du reste. N'hésite pas à prendre congé, si tu en ressens le besoin."
 
 # game/chapter4.rpy:3095
 translate french c4library_86148265:
@@ -3670,19 +3670,19 @@ translate french c4library_86148265:
 translate french c4hatchery_5ef8d581:
 
     # m "I was on my way to the hatchery when I heard a voice call out to me."
-    m "J'étais en route pour le couvoir quand j'ai entendu une voix qui m'appellait."
+    m "J'étais en route pour le couvoir quand j'entendis une voix qui m'appellait."
 
 # game/chapter4.rpy:3119
 translate french c4hatchery_1472f888:
 
     # "???" "Hello there!"
-    "???" "Bonjour à vous !"
+    "???" "Bien le bonjour !"
 
 # game/chapter4.rpy:3121
 translate french c4hatchery_09839951:
 
     # m "I turned around to see an unfamiliar face before me."
-    m "Je me suis retourné et suis tombé sur quelqu'un que je ne connaissais pas."
+    m "Je m'étais retourné pour au final tomber sur quelqu'un que je ne connaissais pas."
 
 # game/chapter4.rpy:3133
 translate french c4hatchery_5f20fb4d:
@@ -3694,25 +3694,25 @@ translate french c4hatchery_5f20fb4d:
 translate french c4hatchery_b2f2b22d:
 
     # c "[player_name]. Nice to meet you."
-    c "[player_name]. Content de vous rencontrer."
+    c "[player_name]. Ravi de vous rencontrer."
 
 # game/chapter4.rpy:3137
 translate french c4hatchery_417bf85a:
 
     # Kv ramble "Could I perhaps interest you in our Midwest Institution?"
-    Kv ramble "Vous voulez bien que je vous parle de notre Institut de Midwest ?"
+    Kv ramble "Seriez vous par hasard intéressé par notre Institut de Midwest ?"
 
 # game/chapter4.rpy:3139
 translate french c4hatchery_141a6f86:
 
     # c "Is this some kind of religious thing?"
-    c "Est-ce que c'est une religion ou bien ?"
+    c "C'est un genre de religion ou ou quoi ?"
 
 # game/chapter4.rpy:3141
 translate french c4hatchery_cdecacfa:
 
     # Kv "Not at all! It's a college."
-    Kv "Pas du tout! c'est une université."
+    Kv "Pas du tout! C'est une université."
 
 # game/chapter4.rpy:3143
 translate french c4hatchery_d1b8139c:
@@ -3724,31 +3724,31 @@ translate french c4hatchery_d1b8139c:
 translate french c4hatchery_79f45a08:
 
     # Kv face "Yeah, I know. It was just a joke."
-    Kv face "Ouai je sais. C'était juste un blague."
+    Kv face "Ouais je sais. C'était juste une blague."
 
 # game/chapter4.rpy:3147
 translate french c4hatchery_ae479467:
 
     # c "Oh, so me going to college is a joke now. I'm not good enough, is that it?"
-    c "Alors comme ça, le fait que j'aille à la fac est une blague maintenant. Je ne suis pas assez bon c'est ça ?"
+    c "Alors comme ça, le fait que j'aille à la fac est une blague maintenant. Je ne suis pas assez bon, c'est ça ?"
 
 # game/chapter4.rpy:3149
 translate french c4hatchery_45093a02:
 
     # Kv normal "Not at all! Even if you wanted to study there, I don't think you'll be with us long enough to make use of it."
-    Kv normal "Pas du tout ! Mais même si tu voulais étudier ici, Je ne pense pas que tu serais assez longtemps parmi nous pour que ça te serve."
+    Kv normal "Pas du tout ! Mais même si tu voulais étudier ici, Je ne pense pas que tu resterais parmi nous assez longtemps pour que ça te serve."
 
 # game/chapter4.rpy:3151
 translate french c4hatchery_f4330ccd:
 
     # Kv face "I think that came out wrong."
-    Kv face "Je crois que ça sonnait mieux dans ma tête."
+    Kv face "Ca sonnait mieux dans ma tête."
 
 # game/chapter4.rpy:3153
 translate french c4hatchery_828a38b5:
 
     # c "You're lucky I won't take this the wrong way."
-    c "Heureusement que je ne l'ai pas mal pris."
+    c "Heureusement pour toi, je ne l'ai pas mal pris."
 
 # game/chapter4.rpy:3155
 translate french c4hatchery_924fb051:
@@ -3790,25 +3790,25 @@ translate french c4hatchery_847da168:
 translate french c4hatchery_067ed3f6:
 
     # Kv ramble "Well, you do now."
-    Kv ramble "Ben, si on te le demande maintenant, tu connaîtras la réponse !"
+    Kv ramble "Eh bien, tu le sais maintenant."
 
 # game/chapter4.rpy:3169
 translate french c4hatchery_bafd0444:
 
     # c "Why'd you even approach me if you know I'm not going to go to college here? Don't tell me it's just because I'm human."
-    c "Mais, du coup, pourquoi m'aborder si tu sais pertinement que je n'irais pas dans uen de vos universités ? Ne me dit pas que c'est juste parce que je suis un humain."
+    c "Mais, du coup, pourquoi m'aborder si tu sais pertinemment que je n'irais pas dans une de vos universités ? Ne me dis pas que c'est juste parce que je suis humain."
 
 # game/chapter4.rpy:3171
 translate french c4hatchery_442d4abf:
 
     # Kv normal "I was actually trying to talk to that old lady who walked by, but once you turned around there was no going back."
-    Kv normal "En fait, je m'adressais à cette vieille dame qui passait au même moment. Mais bon, tu t'es retourné, je n'allais pas te coller un vent !"
+    Kv normal "En fait, je m'adressais à cette vieille dame qui passait au même moment. Mais bon, une fois que tu t'es retourné, je n'avais plus le choix."
 
 # game/chapter4.rpy:3173
 translate french c4hatchery_634fc8ec:
 
     # c "Oh. Well, thanks for not making things awkward."
-    c "Oh. Eh bien merci de ne pas rendre les choses gênantes"
+    c "Oh. Eh bien merci de ne pas rendre les choses gênantes."
 
 # game/chapter4.rpy:3175
 translate french c4hatchery_69e349c9:
@@ -3826,7 +3826,7 @@ translate french c4hatchery_9eb87760:
 translate french c4hatchery_d2120ea1:
 
     # Kv normal "Sure, but it's not just for the job, you know. That's just me."
-    Kv normal "Bien sûr, mais je ne suis pas comme ça que pendant mes journées de taf. C'est dans ma nature !"
+    Kv normal "Bien sûr, mais je ne suis pas comme ça que pendant mes journées de taf. C'est dans ma nature."
 
 # game/chapter4.rpy:3185
 translate french c4hatchery_873f72bd:
@@ -3838,13 +3838,13 @@ translate french c4hatchery_873f72bd:
 translate french c4hatchery_33064caf:
 
     # Kv ramble "Then you found the right person for the job."
-    Kv ramble "Dans ce cas, tu t'adresses à la personne idéale !"
+    Kv ramble "Dans ce cas, tu t'adresses à la bonne personne."
 
 # game/chapter4.rpy:3189
 translate french c4hatchery_88f60b6d:
 
     # c "I can't promise anything right now, but maybe I'll see you another time."
-    c "Je ne te promet rien, mais on pourra peut-être se rencontrer une autre fois."
+    c "Je ne te promets rien, mais on pourra peut-être se rencontrer une autre fois."
 
 # game/chapter4.rpy:3191
 translate french c4hatchery_042cb921:
@@ -3862,31 +3862,31 @@ translate french c4hatchery_ffe65ee8:
 translate french c4hatchery_30f82174:
 
     # Kv ramble "I'm here all day today and tomorrow, so it shouldn't be hard to find me."
-    Kv ramble "Je reste dans le coin aujourd'hui et demain, donc ça ne devrait pas être dûre de me trouver."
+    Kv ramble "Je reste dans le coin aujourd'hui et demain, donc ça ne devrait pas être dur de me trouver."
 
 # game/chapter4.rpy:3197
 translate french c4hatchery_38e604d2:
 
     # c "Great. I have to get going now, but I'll be sure to let you know if anything's up."
-    c "Parfait ! Bon, il faut que je te laisse. Je te préviens s'il y a du nouveau, d'accord ?"
+    c "Parfait. Bon, il faut que je te laisse, mais je te préviens s'il y a du nouveau, d'accord ?"
 
 # game/chapter4.rpy:3199
 translate french c4hatchery_e37c27a2:
 
     # Kv normal "Sure. See ya!"
-    Kv normal "Ça me va ! À plus !"
+    Kv normal "Ça me va. À plus !"
 
 # game/chapter4.rpy:3205
 translate french c4hatchery_a4718c10:
 
     # c "Oh, I should really be going. I have some things to take care of."
-    c "Oh, je devrais y aller. J'ai encore des trucs à faire ?"
+    c "Oh, je devrais vraiment y aller. J'ai encore des choses à faire."
 
 # game/chapter4.rpy:3207
 translate french c4hatchery_508bf3e5:
 
     # Kv ramble "Alright, no problem. See ya!"
-    Kv ramble "Pas de soucis ! À plus !"
+    Kv ramble "D'accord, pas de soucis. À plus !"
 
 # game/chapter4.rpy:3218
 translate french c4hatchery_119c146a:
@@ -3916,13 +3916,13 @@ translate french c4hatchery_94cd741f:
 translate french c4hatchery_3a4b6fd4:
 
     # c "The stolen eggs. I figured the hatchery would want them back."
-    c "Les œufs volés. Je me suis dis que le couvoir voudrait les récupérer."
+    c "Les œufs volés. Je me suis dis que le couvoir voudrait sûrement les récupérer."
 
 # game/chapter4.rpy:3232
 translate french c4hatchery_444de1e5:
 
     # Ad normal b "Oh, I was actually going to get those from the police department later."
-    Ad normal b "Oh, je comptais aller les chercher au poste plus tard."
+    Ad normal b "Oh, en fait je comptais aller les chercher au poste plus tard."
 
 # game/chapter4.rpy:3234
 translate french c4hatchery_1604b170:
@@ -3970,19 +3970,19 @@ translate french c4hatchery_bd805a76:
 translate french _call_syscheck_78_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s "Tu as rapporté les oeufs au couvoir !"
+    s "Tu as rapporté les œufs au couvoir !"
 
 # game/chapter4.rpy:3285
 translate french _call_syscheck_78_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
+    s "Tu as rapporté les œufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3289
 translate french _call_syscheck_78_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
+    s "Tu as rapporté les œufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3303
 translate french _call_syscheck_78_688e156a:
@@ -4006,13 +4006,13 @@ translate french _call_syscheck_78_31837739:
 translate french _call_syscheck_78_3a4b6fd4:
 
     # c "The stolen eggs. I figured the hatchery would want them back."
-    c "Les oeufs volés. Je me suis dit que le couvoir voudrait les récupérer."
+    c "Les œufs volés. Je me suis dis que le couvoir voudrait sûrement les récupérer."
 
 # game/chapter4.rpy:3311
 translate french _call_syscheck_78_444de1e5:
 
     # Ad normal b "Oh, I was actually going to get those from the police department later."
-    Ad normal b "Oh, je comptais aller les chercher au poste plus tard."
+    Ad normal b "Oh, en fait je comptais aller les chercher au poste plus tard."
 
 # game/chapter4.rpy:3313
 translate french _call_syscheck_78_bce6b00d:
@@ -4048,13 +4048,13 @@ translate french _call_syscheck_78_4d4a0b95:
 translate french _call_syscheck_78_ce6701aa:
 
     # c "Sorry, I was just busy. I'm helping the police department with the investigation, and I still have my ambassador duties to deal with. I didn't have much free time."
-    c "Tu sais, entre le boulot d'ambassadeur et l'aide que j'apporte à la police, je n'ai pas eut beaucoup de temps libre."
+    c "Désolé, j'étais super occupé. Tu sais, entre mes devoirs en tant qu'ambassadeur et l'aide que j'apporte à la police sur l'enquête, je n'ai pas eu beaucoup de temps libre."
 
 # game/chapter4.rpy:3343
 translate french _call_syscheck_78_b5ff7563:
 
     # Ad normal b "Oh, I understand. My invitation still stands if you want to come by."
-    Ad normal b "Oh, je vois. Mon invitation tiens toujours, si tu veux passer."
+    Ad normal b "Oh, je vois. Mon invitation tient toujours, si tu veux passer."
 
 # game/chapter4.rpy:3345
 translate french _call_syscheck_78_91d0177e:
@@ -4072,7 +4072,7 @@ translate french _call_syscheck_78_211247d2:
 translate french _call_syscheck_78_61e85271:
 
     # Ad "Anyway, I was about to go inside, so I'll take those eggs off your hands."
-    Ad "De toute façon, j'allais rentrer, je vais te débarasser de ces oeufs du coup."
+    Ad "De toute façon, j'allais rentrer, je vais te prendre ces œufs du coup."
 
 # game/chapter4.rpy:3351
 translate french _call_syscheck_78_8fe434b6:
@@ -4090,19 +4090,19 @@ translate french _call_syscheck_78_bd805a76:
 translate french _call_syscheck_79_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s "Tu as rapporté les oeufs au couvoir !"
+    s "Tu as rapporté les œufs au couvoir !"
 
 # game/chapter4.rpy:3379
 translate french _call_syscheck_79_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
+    s "Tu as rapporté les œufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3383
 translate french _call_syscheck_79_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
+    s "Tu as rapporté les œufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3396
 translate french _call_syscheck_79_30958c13:
@@ -4120,7 +4120,7 @@ translate french _call_syscheck_79_144fdc4c:
 translate french _call_syscheck_79_4a1dbf32:
 
     # Ad "Well, you could've at least told me instead of ignoring me."
-    Ad "J'aurais préféré que tu me le dise au lieu de m'ignorer."
+    Ad "J'aurais préféré que tu me le dises au lieu de m'ignorer."
 
 # game/chapter4.rpy:3402
 translate french _call_syscheck_79_527c5b7e:
@@ -4138,7 +4138,7 @@ translate french _call_syscheck_79_af1ebe74:
 translate french _call_syscheck_79_61e85271:
 
     # Ad "Anyway, I was about to go inside, so I'll take those eggs off your hands."
-    Ad "De toute façon il faut que je rentre. Je vais prendre ça alors."
+    Ad "De toute façon il faut que je rentre. je vais te prendre ces œufs."
 
 # game/chapter4.rpy:3408
 translate french _call_syscheck_79_8fe434b6:
@@ -4156,25 +4156,25 @@ translate french _call_syscheck_79_bd805a76:
 translate french _call_syscheck_80_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s "Tu as rapporté les oeufs au couvoir !"
+    s "Tu as rapporté les œufs au couvoir !"
 
 # game/chapter4.rpy:3438
 translate french _call_syscheck_80_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
+    s "Tu as rapporté les œufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3442
 translate french _call_syscheck_80_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
+    s "Tu as rapporté les œufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3456
 translate french _call_syscheck_80_604c7a85:
 
     # Ad "Hey! [player_name], right? What are you doing here?"
-    Ad "Hey ! [player_name], c'est ça ? Qu'est-ce que vous faites là ?"
+    Ad "Hey ! [player_name], c'est ça ? Qu'est-ce que tu fais là ?"
 
 # game/chapter4.rpy:3458
 translate french _call_syscheck_80_7217eb74:
@@ -4192,13 +4192,13 @@ translate french _call_syscheck_80_31837739:
 translate french _call_syscheck_80_3a4b6fd4:
 
     # c "The stolen eggs. I figured the hatchery would want them back."
-    c "Les oeufs volés. Je me suis dit que le couvoir voudrait les récupérer."
+    c "Les œufs volés. Je me suis dit que le couvoir voudrait sûrement les récupérer."
 
 # game/chapter4.rpy:3464
 translate french _call_syscheck_80_444de1e5:
 
     # Ad normal b "Oh, I was actually going to get those from the police department later."
-    Ad normal b "Oh, je comptais aller les chercher au poste plus tard."
+    Ad normal b "Oh, en fait je comptais aller les chercher au poste plus tard."
 
 # game/chapter4.rpy:3466
 translate french _call_syscheck_80_bce6b00d:
@@ -4210,13 +4210,13 @@ translate french _call_syscheck_80_bce6b00d:
 translate french _call_syscheck_80_5a4c1572:
 
     # Ad giggle b "Amely, stop chewing my leg!"
-    Ad giggle b "Amélie, arrête de manger "
+    Ad giggle b "Amélie, arrête de mâcher ma jambe !"
 
 # game/chapter4.rpy:3476
 translate french _call_syscheck_80_eef077db:
 
     # Am "It tasty!"
-    Am "C'est goûtu."
+    Am "C'est goûtu !"
 
 # game/chapter4.rpy:3484
 translate french _call_syscheck_80_f5e779f8:
@@ -4468,7 +4468,7 @@ translate french _call_syscheck_81_5a4c1572:
 translate french _call_syscheck_81_eef077db:
 
     # Am "It tasty!"
-    Am "C'est goûtu!"
+    Am "C'est goûtu !"
 
 # game/chapter4.rpy:3716
 translate french _call_syscheck_81_f5e779f8:
@@ -4480,7 +4480,7 @@ translate french _call_syscheck_81_f5e779f8:
 translate french _call_syscheck_81_e2c720d4:
 
     # Ad normal b "Anyway, I was about to go inside, so I'll take those off your hands."
-    Ad normal b "De toute façon, je dois retourner à l'intérieur. Je te prends tout ça alors."
+    Ad normal b "De toute façon, je dois retourner à l'intérieur. je vais te prendre ces œufs du coup."
 
 # game/chapter4.rpy:3720
 translate french _call_syscheck_81_8fe434b6:
@@ -4498,31 +4498,31 @@ translate french _call_syscheck_81_bd805a76:
 translate french _call_syscheck_82_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s "Tu as rapporté les oeufs au couvoir !"
+    s "Tu as rapporté les œufs au couvoir !"
 
 # game/chapter4.rpy:3742
 translate french _call_syscheck_82_d6072573:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
+    s "Tu as rapporté les œufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3746
 translate french _call_syscheck_82_d6072573_1:
 
     # s "You returned the eggs to the hatchery. Egg-straordinary."
-    s "Tu as rapporté les oeufs au couvoir. Bl-œuf-ant."
+    s "Tu as rapporté les œufs au couvoir. Bl-œuf-ant."
 
 # game/chapter4.rpy:3780
 translate french _call_syscheck_82_93cfd23f:
 
     # Ry "Adine! Wait for me."
-    Ry ""
+    Ry "Adine ! Attends moi."
 
 # game/chapter4.rpy:3786
 translate french _call_syscheck_82_9b04341c:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip "Adine ! Attends moi !"
+    Ry smile flip "Beau travail, [player_name]."
 
 # game/chapter4.rpy:3788
 translate french _call_syscheck_82_e2b6e4af:
@@ -4534,13 +4534,13 @@ translate french _call_syscheck_82_e2b6e4af:
 translate french _call_syscheck_82_3e5277ba:
 
     # Ry normal flip "Yeah, Adine and I had a good, long talk - and now here we are."
-    Ry normal flip "Oui, Adine et moi avons eut une longue discussion - maintenant me voilà ici avec elle !"
+    Ry normal flip "Oui, Adine et moi avons eu une longue discussion - maintenant me voilà ici avec elle."
 
 # game/chapter4.rpy:3792
 translate french _call_syscheck_82_f4e45657:
 
     # Ad "I'm glad we did. It was long overdue."
-    Ad "Je suis contente qu'on ait discuté. Il en a fallut du temps."
+    Ad "Je suis contente qu'on ait discuté. Il en a fallu du temps."
 
 # game/chapter4.rpy:3796
 translate french _call_syscheck_82_14b7f614:
@@ -4576,7 +4576,7 @@ translate french _call_syscheck_82_8750cb21:
 translate french _call_syscheck_82_a8f53fef:
 
     # Ry "It's not unusual for someone who's had a rough life like her."
-    Ry "Ça n'est pas inhabituel pour quelqu'un comme elle qui n'a pas eut une vie facile."
+    Ry "Ça n'est pas inhabituel pour quelqu'un comme elle, qui n'a pas eu une vie facile."
 
 # game/chapter4.rpy:3808
 translate french _call_syscheck_82_da7a5c49:
@@ -4618,13 +4618,13 @@ translate french _call_syscheck_82_a1ae6a4e:
 translate french _call_syscheck_82_93cfd23f_1:
 
     # Ry "Adine! Wait for me."
-    Ry "Adine ! Attends moi"
+    Ry "Adine ! Attends moi."
 
 # game/chapter4.rpy:3845
 translate french _call_syscheck_82_9b04341c_1:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip "Bon travail, [player_name]."
+    Ry smile flip "Beau travail, [player_name]."
 
 # game/chapter4.rpy:3855
 translate french _call_syscheck_82_14b7f614_3:
@@ -4720,19 +4720,19 @@ translate french c4postsections_823c8b7c:
 translate french c4postsections_38490d1f:
 
     # Sb "Is that so? Strange, I hadn't heard about this. I'll have to talk to the others. Actions like that will stall the Reza case, and that's not something we can afford right now."
-    Sb "Vraiment ? Bizarre que je n'ai pas entendu parler de ça. Il va falloir que je demande aux autres. Un truc pareil va nous ralentir nos recherches, et c'est pas quelque chose qu'on peut se permettre pour le moment."
+    Sb "Vraiment ? Bizarre que je n'ai pas entendu parler de ça. Il va falloir que je demande aux autres. Un truc pareil va ralentir nos recherches, et c'est pas quelque chose qu'on peut se permettre pour le moment."
 
 # game/chapter4.rpy:4108
 translate french c4postsections_a7a76515:
 
     # Sb "I'll take care of the remaining tasks, so you can take the rest of the day off. I'm sure you have things to do other than helping the police department."
-    Sb "Je vais m'occuper du reste, profite du restes de la journée pour te reposer. Je suis sûr que tu as autre chose à faire que d'aider le commissariat."
+    Sb "Je vais m'occuper du reste, profite de ta journée pour te reposer. Je suis sûr que tu as autres choses à faire que d'aider le commissariat."
 
 # game/chapter4.rpy:4110
 translate french c4postsections_dfeb653d:
 
     # c "It's no problem, really. My trip to your world wasn't supposed to be a vacation."
-    c "Ce n'est rien, vraiment. Mon séjour dans votre monde n'était pas censée être une sinécure."
+    c "Ce n'est rien, je t'assure. Mon séjour dans votre monde n'était pas censée être une sinécure."
 
 # game/chapter4.rpy:4112
 translate french c4postsections_999306e1:
@@ -4750,7 +4750,7 @@ translate french c4postsections_a4c90328:
 translate french c4postsections_2039ec81:
 
     # m "After this fateful day, I was glad to finally have some sort of respite. I wandered into the kitchen as I considered tonight's dinner."
-    m "Après cette sacrée journée, j'étais content de pouvoir profiter un peu d'un moment de calme. Je trainais dans la cuisine en me demandant ce que j'allais manger ce soir."
+    m "Après cette sacrée journée, j'étais content de pouvoir profiter d'un peu de calme. Je trainais dans la cuisine en me demandant ce que j'allais manger ce soir."
 
 # game/chapter4.rpy:4130
 translate french c4postsections_ba6c55cf:
@@ -4762,7 +4762,7 @@ translate french c4postsections_ba6c55cf:
 translate french c4postsections_8231078b:
 
     # m "When I returned to the living room, I suddenly found my strength leaving me and collapsed to the floor."
-    m "Retournant dans le salon, j'eut subitement une sensation de faiblesse grandissante, et finit par m'effondrer au sol."
+    m "Retournant dans le salon, j'eus subitement une sensation de faiblesse grandissante, et finis par m'effondrer au sol."
 
 # game/chapter4.rpy:4146
 translate french c4postsections_e9d2f438:
@@ -4774,7 +4774,7 @@ translate french c4postsections_e9d2f438:
 translate french c4postsections_f6901c56:
 
     # m "As my eyesight slowly returned, I managed to sit up. I was in a cave, and before me stood a familiar, mysterious face."
-    m "Alors que ma vue revenait doucement, j'ai réussi à me redresser mais suis resté assis. J'étais dans une caverne et devant moi se tenait quelqu'un d'aussi familier que mystérieux."
+    m "Alors que ma vue revenait doucement, je réussis à me redresser pour m'asseoir. J'étais dans une caverne et devant moi se tenait quelqu'un aussi familier que mystérieux."
 
 # game/chapter4.rpy:4154
 translate french c4postsections_36b79c39:
@@ -4828,7 +4828,7 @@ translate french _call_skipcheck_21_39ec4ac0:
 translate french _call_skipcheck_21_e44935fc:
 
     # "???" "Just a temporary accommodation so we can be undisturbed for this meeting. Someone else used to live here until recently."
-    "???" "C'est une cache temporaire que j'utilise juste pour notre petite entrevue. Mais c'était le domicile de quelqu'un encore recemment..."
+    "???" "C'est une cache temporaire que j'utilise juste pour notre petite entrevue. C'était le domicile de quelqu'un encore recemment."
 
 # game/chapter4.rpy:4228
 translate french _call_skipcheck_21_9b22fb40:
@@ -4840,7 +4840,7 @@ translate french _call_skipcheck_21_9b22fb40:
 translate french _call_skipcheck_21_4fac5fd9:
 
     # c "Well, you're not Reza."
-    c "Vous n'êtes pas Reza."
+    c "Eh bien, vous n'êtes pas Reza."
 
 # game/chapter4.rpy:4232
 translate french _call_skipcheck_21_42f03031:
@@ -4900,19 +4900,19 @@ translate french _call_skipcheck_21_3c196ba0:
 translate french _call_skipcheck_21_3665e652:
 
     # As "On more than one occasion."
-    As "À plusieurs reprises, même."
+    As "A plusieurs reprises, même."
 
 # game/chapter4.rpy:4254
 translate french _call_skipcheck_21_ee609baa:
 
     # c "Your presence here doesn't make any sense. You couldn't have come through the portal. The dragons would have noticed."
-    c "Mais votre présence ici, c'est incensé ! Vous n'auriez jamais pu franchir le portail, les dragons l'auraient remarqué."
+    c "Mais votre présence ici, c'est insensé. Vous n'auriez jamais pu franchir le portail, les dragons l'auraient remarqué."
 
 # game/chapter4.rpy:4256
 translate french _call_skipcheck_21_b30ababb:
 
     # As "This is where you are wrong. My arrival through the portal is what led the dragons to discover it in the first place."
-    As "C'est là que tu te trompes. C'est justement parce que je suis arrivé par le portail, que les dragon l'ont découvert."
+    As "C'est là que tu te trompes. C'est justement parce que je suis arrivé par le portail, que les dragons l'ont découvert."
 
 # game/chapter4.rpy:4258
 translate french _call_skipcheck_21_d0ae06d2:
@@ -4924,13 +4924,13 @@ translate french _call_skipcheck_21_d0ae06d2:
 translate french _call_skipcheck_21_fed00e74:
 
     # As "When I crawled out from the hole in the earth that hid the portal, there were no guards to discover me. My appearance exposed the portal, but the dragons didn't know it was there yet."
-    As "Quand j'ai rampé hors du terrier qui qui cachait le portail, il n'y avait aucun garde pour me débusquer. Mon apparition a exposé le portail, mais les dragons n'avaient encore aucune idée de son existence."
+    As "Quand j'ai rampé hors du terrier qui cachait le portail, il n'y avait aucun garde pour me débusquer. Mon apparition a exposé le portail, mais les dragons n'avaient encore aucune idée de son existence."
 
 # game/chapter4.rpy:4262
 translate french _call_skipcheck_21_a6a5b013:
 
     # c "So you arrived even before Reza. That makes you the actual first human to come to this world."
-    c "Vous êtes donc arrivé bien avant Reza ? Ce qui ferait de vous le premier humain à être arrivé dans ce monde ?"
+    c "Vous êtes donc arrivé bien avant Reza. Ce qui ferait de vous le premier humain à être arrivé dans ce monde."
 
 # game/chapter4.rpy:4264
 translate french _call_skipcheck_21_99d3841a:
@@ -4960,19 +4960,19 @@ translate french _call_skipcheck_21_b4c2e729:
 translate french _call_skipcheck_21_17d4583e:
 
     # n "Our task was to create these bioweapons in a country where their development hadn't yet been regulated or outlawed. These weapons were planned to be a low-cost alternative for poor countries to wage war, so they would no longer have to rely on expensive drones and machines for warfare."
-    n "On avait pour mission de créer ces armes dans des pays où elles n'étaient pas encore interdites, ni même soumises à réglementation. Ces armes devaient représenter une alternative peu coûteuse afin que les pays pauvres puissent s'équiper d'autre choses que de drones et autres machines onéreuses."
+    n "On avait pour mission de créer ces armes dans des pays où elles n'étaient pas encore interdites, ni même soumises à réglementation. Ces armes devaient représenter une alternative peu coûteuse afin que les pays pauvres puissent s'équiper pour la guerre avec autre chose que des drones et autres machines onéreuses."
 
 # game/chapter4.rpy:4284
 translate french _call_skipcheck_21_3ad573c1:
 
     # n "I was to set up the lab where our bioweapon development would take place. It was a clandestine operation, set to be in the middle of the wilderness."
-    n "Je devais trouver un emplacement pour le laboratoire où nous avions prévu de développer nos armes. Toute cette opération était clandestines, il nous fallait un endroit perdu en pleine nature."
+    n "Je devais trouver un emplacement pour le laboratoire où nous avions prévu de développer nos armes. Toute cette opération était clandestine, il nous fallait un endroit perdu en pleine nature."
 
 # game/chapter4.rpy:4286
 translate french _call_skipcheck_21_7dd1ec21:
 
     # n "The laboratory was an independent research and living unit, and provided everything we needed without having to rely on external resources or even an existing power grid."
-    n "Le laboratoire en question était une Unité Autonome Durable, ou U.A.D, Et nous fournissait tout ce dont nous avions besoin sans ressource extérieure ni d'un réseau électrique existant."
+    n "Le laboratoire en question était une unité de vie et de recherche autonome, et nous fournissait tout ce dont nous avions besoin sans ressource extérieure ni réseau électrique existant."
 
 # game/chapter4.rpy:4290
 translate french _call_skipcheck_21_76b2fe88_1:
@@ -4984,19 +4984,19 @@ translate french _call_skipcheck_21_76b2fe88_1:
 translate french _call_skipcheck_21_eb0248f1:
 
     # n "Everything was to be teleported right into the middle of nowhere, with no traces or paper trail to follow, so international communities and law enforcement would have no idea of our operations."
-    n "Le tout devait être téléporté au milieu de nul part, sans aucune traces physiques ou papier à suivre, pour que les communautés internationales et les forces de l'ordre n'ait aucunement connaissance de nos opérations."
+    n "Le tout devait être téléporté au milieu de nul part, sans aucune traces physiques ou administrative à suivre, pour que les communautés internationales et les forces de l'ordre n'aient aucunement connaissance de nos opérations."
 
 # game/chapter4.rpy:4296
 translate french _call_skipcheck_21_eccbaa8e:
 
     # n "Our only connection to the outside world after setup would have been a two-way portal to our headquarters, who would provide everything we needed."
-    n "Notre seule connection avec le monde extérieur devait être un système de portail à double sens entre nos bases respectives, ce qui nous aurait fourni tout ce dont nous aurions."
+    n "Notre seule connection avec le monde extérieur devait être un système de portail à double sens entre nos bases respectives, ce qui nous aurait fourni tout ce dont nous aurions eu besoin."
 
 # game/chapter4.rpy:4298
 translate french _call_skipcheck_21_471d756f:
 
     # n "While we already could teleport individual people, teleporting a whole building was another matter entirely."
-    n "Même si on arrivait déjà à téléporter des gens, ils s'est averé que la téléportation d'un complexe entier allait être une toute autre affaire."
+    n "Même si on arrivait déjà à téléporter des gens, ils fut averé que la téléportation d'un complexe entier allait être une toute autre affaire."
 
 # game/chapter4.rpy:4300
 translate french _call_skipcheck_21_69dbd742:
@@ -5008,7 +5008,7 @@ translate french _call_skipcheck_21_69dbd742:
 translate french _call_skipcheck_21_aa939f13:
 
     # n "The technology behind it was much more complicated than even teleportation, despite being based on it."
-    n "La technique employée était également bien plus compliquée que la téléportation, bien que leurs bases soient les mêmes."
+    n "La technique employée était également bien plus compliquée que la téléportation, bien que leurs bases fussent les mêmes."
 
 # game/chapter4.rpy:4306
 translate french _call_skipcheck_21_76b2fe88_2:
@@ -5020,31 +5020,31 @@ translate french _call_skipcheck_21_76b2fe88_2:
 translate french _call_skipcheck_21_e5dde6b7:
 
     # n "While teleportation works by utilizing black holes with a beginning and an end, compression technology relies on a loop, keeping matter in a sort of limbo state until the loop is broken."
-    n "Tandis que la téléportation fonctionne via les trous noirs, avec un début de cycle et une fin préétablie, la technologie de compression repose sur un cycle en boucle qui maintient la matière dans une sorte d'état compressé jusqu'à ce que la boucle soit rompue."
+    n "Tandis que la téléportation fonctionne via les trous noirs, avec une entrée et une sortie, la technologie de compression repose sur une boucle qui maintient la matière dans une sorte d'état compressé jusqu'à sa rupture."
 
 # game/chapter4.rpy:4311
 translate french _call_skipcheck_21_60fddfa4:
 
     # n "Working with black holes was very complicated to begin with, but this shape required much more finesse, and thus was much more expensive."
-    n "Le travail sur les trous noirs était déjà très difficile à la base, mais ce nouveau sujet était un sujet exigeait bien plus de finesse et était bien plus coûteux."
+    n "Manipuler les trous noirs était déjà très difficile à la base, mais ce nouveau sujet exigeait bien plus de finesse et donc était bien plus coûteux."
 
 # game/chapter4.rpy:4313
 translate french _call_skipcheck_21_71c1914d:
 
     # n "I was to be sent alone to set up the lab and the portal so the rest of the team could arrive safely."
-    n "Je devais être envoyé en solo pour mettre en place l'U.A.D et le portail afin que le reste de l'équipe puisse arriver en toute sécurité."
+    n "Je devais être envoyé en solo pour mettre en place le labo et le portail afin que le reste de l'équipe puisse arriver en toute sécurité."
 
 # game/chapter4.rpy:4315
 translate french _call_skipcheck_21_6e6a43e4:
 
     # n "In case you didn't know, it is possible to use a portal to send someone to a previously defined end point. Therefore, it is not required to have a portal at the destination to be sent there, but as you can imagine, this is also very dangerous."
-    n "Au cas où tu ne le saurais pas, il n'est pas nécessaire d'avoir deux portails pour réussir une téléportation, avec un seul portail, il suffit de diriger le vortex vers un point préalablement défini. Mais comme tu peux t'en douter, c'est aussi très risquée."
+    n "Au cas où tu ne le saurais pas, il n'est pas nécessaire d'avoir deux portails pour envoyer quelqu'un à un point d'arrivée préétabli. Donc, il n'est pas obligatoire d'avoir un portail au point d'arrivée pour y être envoyé, mais comme tu peux t'en douter, c'est aussi très risquée."
 
 # game/chapter4.rpy:4317
 translate french _call_skipcheck_21_a21261f6:
 
     # n "A single variable off by a fraction could mean the difference between landing safely at your destination and smothering in space."
-    n "Une seule variable variant infinitésimalement peut faire la différence entre arriver à bon port et étouffer dans l'espace."
+    n "Une seule variable variant infinitésimalement pouvait faire la différence entre arriver à bon port et s'étouffer dans l'espace."
 
 # game/chapter4.rpy:4320
 translate french _call_skipcheck_21_76b2fe88_3:
@@ -5056,13 +5056,13 @@ translate french _call_skipcheck_21_76b2fe88_3:
 translate french _call_skipcheck_21_a34cd47b:
 
     # n "Of course, my employer did not want anything like that to happen. Not necessarily for my own sake, but because of all the unfathomably expensive equipment I had with me."
-    n "Bien évidement, ce n'est pas le genre de mésaventure que mon employeur était prêt à accepter. Pas vraiment pour moi, mais surtout pour tout le matériel coûteux que j'emmenais dans mon voyage."
+    n "Bien évidement, ce n'était pas le genre de mésaventure que mon employeur était prêt à accepter. Pas vraiment pour moi, mais surtout pour tout le matériel coûteux que j'emmenais avec moi."
 
 # game/chapter4.rpy:4325
 translate french _call_skipcheck_21_3b6d0ce7:
 
     # n "Regardless, something went wrong, anyway. Despite all their checks and safeguards, they could only minimize the risk so much. Even if the risk is a fraction of a fraction, sometimes you are just that unlucky."
-    n "Malgré tout, quelque chose a mal tourné. Malgré tout les contrôles, simulations et calculs qui furent effectués, le risque que cela se produise n'a jamais atteint zéro, parfois tu n'as juste pas de chances."
+    n "Malgré tout, quelque chose a mal tourné. Malgré toutes leurs vérifications et sécurités qui furent effectuées, ils ne purent que minimiser le risque. Même si le risque est minimal, parfois tu n'as juste pas de chance."
 
 # game/chapter4.rpy:4327
 translate french _call_skipcheck_21_5b5f370c:
@@ -5074,13 +5074,13 @@ translate french _call_skipcheck_21_5b5f370c:
 translate french _call_skipcheck_21_6dbd6a73:
 
     # n "I arrived safely somewhere in the jungles of Earth, yet it was not the destination that had been planned."
-    n "Je arrivai sans mal quelque part dans une jungle de la Terre, mais ce n'était pas la destination qui était prévue."
+    n "J'arrivai sans mal quelque part dans une jungle de la Terre, mais ce n'était pas la destination qui était prévue."
 
 # game/chapter4.rpy:4331
 translate french _call_skipcheck_21_ac5d3af2:
 
     # n "I knew something was off, but nevertheless, I set to work immediately. At the very least, I could prepare the building. I would have shelter, and then I could begin preparations for our project. Getting the portal into working order would take more time as it was a complicated process that could take several weeks."
-    n "J'avais un mauvais pressentiment, mais me mis néanmoins au travail. J'ai pu préparer l'U.A.D, j'avais alors un abri et de quoi commencer à travailler sur les préparatifs de notre projet. La mise en service du portail, étant un processus plus compliqué, allait me prendre plus de temps, au moins plusieurs semaines."
+    n "J'avais un mauvais pressentiment, mais me mis néanmoins au travail. Je pus préparer le bâtiment, j'avais alors un abri et de quoi commencer à travailler sur les préparatifs de notre projet. La mise en service du portail, étant un processus plus compliqué, allait me prendre plus de temps, au moins plusieurs semaines."
 
 # game/chapter4.rpy:4334
 translate french _call_skipcheck_21_76b2fe88_4:
@@ -5104,7 +5104,7 @@ translate french _call_skipcheck_21_d015893f:
 translate french _call_skipcheck_21_c9da6764:
 
     # n "Before long, I discovered the truth about the place I had arrived."
-    n "Peu de temps après, je réalisai la vérité sur l'endroit où j'avais atteri."
+    n "Peu de temps après, je réalisai la vérité sur l'endroit où j'avais atterri."
 
 # game/chapter4.rpy:4343
 translate french _call_skipcheck_21_feba23c4:
@@ -5128,13 +5128,13 @@ translate french _call_skipcheck_21_76b2fe88_5:
 translate french _call_skipcheck_21_c5cf4c44:
 
     # n "We knew that by utilizing black holes for teleportation, time travel was a theoretical possibility. It was something even my company didn't dare to attempt, though, as teleportation in itself was still a very new technology."
-    n "Nous savions qu'en utilisant les trous noirs, il était en théorie possible de faire des voyages temporels. Mais même la société qui m'employait n'avait encore osé aborder le sujet, la téléportation était une technologie bien trop récente."
+    n "Nous savions qu'en utilisant les trous noirs, il était en théorie possible de voyager dans le temps. Mais même la société qui m'employait n'avait pas encore osé aborder le sujet, la téléportation étant une technologie bien trop récente."
 
 # game/chapter4.rpy:4353
 translate french _call_skipcheck_21_c0965afc:
 
     # n "Yet here I was, 65 million years in the past, with a research station all to myself. The company would revel in the opportunity to study and profit from all the different lifeforms I could see."
-    n "Et pourtant, j'étais là, 65 millions d'années dans le passé, avec une station de recherche pour moi seul. La société se réjouissait de la possibiltié d'étudier toute les formes de vie que je pouvais voir."
+    n "Et pourtant, j'étais là, 65 millions d'années dans le passé, avec une station de recherche pour moi seul. La société se serait réjouie de la possibiltié d'étudier toute les formes de vie que je pouvais voir."
 
 # game/chapter4.rpy:4355
 translate french _call_skipcheck_21_f445b83c:
@@ -5146,7 +5146,7 @@ translate french _call_skipcheck_21_f445b83c:
 translate french _call_skipcheck_21_623cfe16:
 
     # n "I spent the few weeks setting up the portal as planned, yet when I tried to reestablish contact with my employer, I was met with silence."
-    n "J'ai passé les quelques semaines suivantes à mettre en place le portail comme c'était prévu, mais lorsque j'ai essayé d'établir le contact avec la Terre que je connaissais, j'ai été accueilli par un silence."
+    n "J'avais passé les quelques semaines suivantes à mettre en place le portail comme il était prévu, mais lorsque j'eus essayé d'établir le contact avec mes employeurs, je fus accueilli par un silence."
 
 # game/chapter4.rpy:4360
 translate french _call_skipcheck_21_76b2fe88_6:
@@ -5158,13 +5158,13 @@ translate french _call_skipcheck_21_76b2fe88_6:
 translate french _call_skipcheck_21_f44007c6:
 
     # n "Despite the time discrepancy, the portal should have been able to find my company's in the present. For a black hole, sending something through time is no different than sending something through space."
-    n "Malgré le décalage horaire, le portail aurait dû trouver celui de mon entreprise dans le présent. Pour un trou noir, faire passer quelque chose d'un endroit à un autre, ou d'un temps à un autre, c'est la même chose."
+    n "Malgré le décalage horaire, le portail aurait dû trouver celui de mon entreprise dans le présent. Pour un trou noir, faire passer quelque chose d'un endroit à un autre, ou d'un temps à un autre, c'était la même chose."
 
 # game/chapter4.rpy:4365
 translate french _call_skipcheck_21_c36713ce:
 
     # n "However, when we built the portals, we gave them a specialized configuration. It was only possible to travel through space by aligning them across the time axis."
-    n "Cependant, lorsque nous avons construit les portails, nous leur avons donné une configuration particulière. Ils n'était possible de voyager dans l'espace qu'en les alignant sur l'axe du temps."
+    n "Cependant, lorsque nous avions construit les portails, nous leur avions donné une configuration particulière. Ils n'était possible de voyager dans l'espace qu'en les alignant sur l'axe du temps."
 
 # game/chapter4.rpy:4367
 translate french _call_skipcheck_21_c44eed8f:
@@ -5176,7 +5176,7 @@ translate french _call_skipcheck_21_c44eed8f:
 translate french _call_skipcheck_21_63d5ab9a:
 
     # n "But I couldn't find them. Not a single one. Even after checking the portal for its function, I determined that - for all intents and purposes - the portals from the company should have been there to connect with."
-    n "Mais je n'ai trouvé aucun portail. Pas un seul. Même après avoir vérifié les paramètres du portail j'étais persuadé que - à toute fins utile - j'aurais dû trouver les portails de la société."
+    n "Mais je ne pouvais trouver aucun portail. Pas un seul. Même après avoir vérifié les paramètres du portail j'étais persuadé que - à toute fins utile - j'aurais dû trouver les portails de la société."
 
 # game/chapter4.rpy:4372
 translate french _call_skipcheck_21_76b2fe88_7:
@@ -5188,7 +5188,7 @@ translate french _call_skipcheck_21_76b2fe88_7:
 translate french _call_skipcheck_21_90482d26:
 
     # n "It was then that I had a terrible realization: The portals in the present didn't exist anymore, or were no longer operational."
-    n "C'est alors que j'ai eut une terrible prise de conscience : Si je ne les trouvais pas, c'est parce que les portails n'existaient plus, ou avaient été désactivés."
+    n "C'est alors que j'eus une terrible prise de conscience : Si je ne les trouvais pas, c'est parce que les portails n'existaient plus, ou n'étaient plus opérationnels."
 
 # game/chapter4.rpy:4378
 translate french _call_skipcheck_21_1d549a46:
@@ -5206,7 +5206,7 @@ translate french _call_skipcheck_21_ee95b45c:
 translate french _call_skipcheck_21_ad245946:
 
     # n "In my mind, only one possibility remained: Superweapons. Various nations had been using them as bargaining chips for some time. I didn't think the threats had become that serious, but one of them must have launched their weapon and destroyed the majority of Earth."
-    n "Dans mon esprit, il ne restait qu'une possibilité : Les super-armes. Diverses nations les utilisaient comme monnaie d'échange depuis un certain temps. Je ne pensais pas que les menaces étaient devenues si graves, mais l'une d'entre elles a dû lancer son arme et détruire la majeure partie de la Terre."
+    n "Dans mon esprit, il ne restait qu'une possibilité : Les super-armes. Diverses nations les utilisaient comme monnaie d'échange depuis un certain temps. Je ne pensais pas que les menaces étaient devenues si graves, mais l'une d'entre elles avait dû lancer son arme et détruire la majeure partie de la Terre."
 
 # game/chapter4.rpy:4385
 translate french _call_skipcheck_21_76b2fe88_8:
@@ -5224,7 +5224,7 @@ translate french _call_skipcheck_21_b8e3831d:
 translate french _call_skipcheck_21_0be41dab:
 
     # n "Either way, it was not possible for me to establish any means of communication to find out what had really happened."
-    n "De toute façon, il ne m'a pas été possible d'établir un quelconque moyen de communication pour savoir ce qui s'était réellement passé."
+    n "De toute façon, il ne m'était pas possible d'établir un quelconque moyen de communication pour savoir ce qui s'était réellement passé."
 
 # game/chapter4.rpy:4392
 translate french _call_skipcheck_21_4301388e:
@@ -5236,7 +5236,7 @@ translate french _call_skipcheck_21_4301388e:
 translate french _call_skipcheck_21_bd76b207:
 
     # n "I was sure that if anything was even left of our world, the aftermath or a possible retaliatory strike would take care of the rest."
-    n "J'étais sûr que s'il restait encore quelque chose de notre monde, les conséquences ou d'éventuelles représailles s'occuperaient du reste."
+    n "J'avais la certitude que s'il restait encore quelque chose de notre monde, les conséquences ou d'éventuelles représailles s'occuperaient du reste."
 
 # game/chapter4.rpy:4397
 translate french _call_skipcheck_21_76b2fe88_9:
@@ -5248,19 +5248,19 @@ translate french _call_skipcheck_21_76b2fe88_9:
 translate french _call_skipcheck_21_373e02d5:
 
     # n "In the end, I had to realize that whichever present did exist was likely not one that was worth returning to. It made my decision all the easier."
-    n "En fin de compte, j'ai dû me rendre compte que quel que soit le cadeau qui existait, il ne valait probablement pas la peine d'y retourner. Cela a rendu ma décision d'autant plus facile."
+    n "En fin de compte, je dus me rendre compte que quel que soit le présent qui existait, il ne valait probablement pas la peine d'y retourner. Cela rendit ma décision d'autant plus facile."
 
 # game/chapter4.rpy:4402
 translate french _call_skipcheck_21_f3298f9d:
 
     # n "Instead of returning to a destroyed civilization, I saw an opportunity."
-    n "Au lieu de retourner dans une civilisation détruite, j'ai vu une opportunité."
+    n "Au lieu de retourner dans une civilisation détruite, j'y vis une opportunité."
 
 # game/chapter4.rpy:4404
 translate french _call_skipcheck_21_bb844621:
 
     # n "Rather than creating bioweapons, I could use the lab to create a new civilization, shaped by my own ideals."
-    n "Plutôt que de créer des armes biologiques, je pourrais utiliser le laboratoire pour créer une nouvelle civilisation, façonnée par mes propres idéaux."
+    n "Plutôt que de créer des armes biologiques, je pouvais utiliser le laboratoire pour créer une nouvelle civilisation, façonnée par mes propres idéaux."
 
 # game/chapter4.rpy:4406
 translate french _call_skipcheck_21_02f594bf:
@@ -5272,7 +5272,7 @@ translate french _call_skipcheck_21_02f594bf:
 translate french _call_skipcheck_21_9bbee883:
 
     # n "Besides, most of the processes had already been automated."
-    n "de plus, la plupart des processus avaient déjà été automatisés."
+    n "De plus, la plupart des processus avaient déjà été automatisés."
 
 # game/chapter4.rpy:4411
 translate french _call_skipcheck_21_76b2fe88_10:
@@ -5284,19 +5284,19 @@ translate french _call_skipcheck_21_76b2fe88_10:
 translate french _call_skipcheck_21_a06d7c03:
 
     # n "In the end, I still used the lab for what it had been created for: Fusing human and animal DNA to create beings that were mostly animal, but possessed a greater intelligence that allowed them to learn whatever we wanted them to."
-    n "En fin de compte, j'ai quand même utilisé le laboratoire pour ce pour quoi il avait été créé : Fusionner l'ADN humain et l'ADN animal pour créer des êtres principalement animaux, mais possédant une plus grande intelligence qui leur permettait d'apprendre tout ce que nous voulions."
+    n "En fin de compte, j'avais quand même utilisé le laboratoire pour ce pour quoi il avait été créé : Fusionner l'ADN humain et l'ADN animal pour créer des êtres principalement animaux, mais possédant une plus grande intelligence qui leur permettait d'apprendre tout ce que nous voulions."
 
 # game/chapter4.rpy:4416
 translate french _call_skipcheck_21_3a134373:
 
     # n "As I didn't have any animal samples sent with me when I initially arrived, I collected them from the sources available to me."
-    n "Comme je n'avais pas d'échantillons d'animaux envoyés avec moi à mon arrivée, je les ai collectés auprès des sources dont je disposais."
+    n "Comme je n'avais pas d'échantillons d'animaux envoyés avec moi à mon arrivée, je les avais collectées auprès des sources dont je disposais."
 
 # game/chapter4.rpy:4418
 translate french _call_skipcheck_21_dbdf94ed:
 
     # n "Automated processes mixed the DNA further across the samples. New abilities were added like enhanced armor, flight, and spit weapons to make the new creatures more effective in combat."
-    n "Des processus automatisés ont permis de mélanger davantage l'ADN entre les échantillons. De nouvelles capacités ont été ajoutées, comme une armure améliorée, voler et des armes de crachat pour rendre les nouvelles créatures plus efficaces au combat."
+    n "Des processus automatisés permirent de mélanger davantage l'ADN entre les échantillons. De nouvelles capacités furent ajoutées, comme une armure améliorée, voler et des armes de crachat pour rendre les nouvelles créatures plus efficaces au combat."
 
 # game/chapter4.rpy:4420
 translate french _call_skipcheck_21_02f15d54:
@@ -5320,7 +5320,7 @@ translate french _call_skipcheck_21_76b2fe88_11:
 translate french _call_skipcheck_21_2830a667:
 
     # n "My first concern was self-sufficiency."
-    n "Ma première préoccupation était l'autosuffisance."
+    n "Ma première préoccupation fut l'autosuffisance."
 
 # game/chapter4.rpy:4430
 translate french _call_skipcheck_21_649fc722:
@@ -5332,19 +5332,19 @@ translate french _call_skipcheck_21_649fc722:
 translate french _call_skipcheck_21_9d67bbfc:
 
     # n "Luckily, the AI that automated all the processes in the lab was more than helpful."
-    n "Heureusement, l'IA qui a automatisé tous les processus du laboratoire a été plus qu'utile."
+    n "Heureusement, l'IA qui avait automatisé tous les processus du laboratoire fut plus qu'utile."
 
 # game/chapter4.rpy:4434
 translate french _call_skipcheck_21_f72aecfc:
 
     # n "I unleashed the first generation of my creation, and as their leader, founded our first village."
-    n "J'ai libéré la première génération de ma création, et en tant que leur chef, j'ai fondé notre premier village."
+    n "J'avais libéré la première génération de ma création, et en tant que leur chef, j'avais fondé notre premier village."
 
 # game/chapter4.rpy:4436
 translate french _call_skipcheck_21_50e37dd2:
 
     # n "I thought we could really pull it off. And once I saw that they could survive without my guidance - and also govern themselves - I knew my plan was a success."
-    n "J'ai pensé qu'on pouvait vraiment y arriver. Et une fois que j'ai vu qu'ils pouvaient survivre sans mes conseils - et aussi se gouverner eux-mêmes - j'ai su que mon plan était un succès."
+    n "Je pensais qu'on pouvait vraiment y arriver. Et une fois que je vis qu'ils pouvaient survivre sans mes conseils - et aussi se gouverner eux-mêmes - je sus que mon plan était un succès."
 
 # game/chapter4.rpy:4442
 translate french _call_skipcheck_21_76b2fe88_12:
@@ -5374,7 +5374,7 @@ translate french _call_skipcheck_21_2605d4b7:
 translate french _call_skipcheck_21_9ea53f83:
 
     # As "The Chicxulub asteroid is headed for us."
-    As "L'astéroïde qui a provoqué le cratère de Chicxulub au Mexique, il se dirige vers nous à l'heure actuelle."
+    As "L'astéroïde qui a provoqué le cratère de Chicxulub se dirige vers nous à l'heure actuelle."
 
 # game/chapter4.rpy:4462
 translate french _call_skipcheck_21_af642156:
@@ -5386,7 +5386,7 @@ translate french _call_skipcheck_21_af642156:
 translate french _call_skipcheck_21_871e7b19:
 
     # As "They will block out the sunlight for over a year, killing off many species of plants that rely on photosynthesis to survive."
-    As "Ces nuages de poussière vont bloquer la lumière du soleil pendant plus d'un an, éradiquant plusieurs espèces s'appuyant sur la photosynthèse pour survivre.."
+    As "Ces nuages de poussière vont bloquer la lumière du soleil pendant plus d'un an, éradiquant plusieurs espèces s'appuyant sur la photosynthèse pour survivre."
 
 # game/chapter4.rpy:4466
 translate french _call_skipcheck_21_581fb48b:
@@ -5398,19 +5398,19 @@ translate french _call_skipcheck_21_581fb48b:
 translate french _call_skipcheck_21_75a0e9a4:
 
     # As "All in all, 75%% of all species will vanish, and in terrestrial ecosystems, all animals heavier than a single kilogram will die."
-    As "En tout, 75% de toutes les espèces va disparaître, et concernant l'écosystème terrestre, tout les animaux de plus d'un kilogramme mourront."
+    As "En tout, 75% de toutes les espèces vont disparaître, et concernant l'écosystème terrestre, tout les animaux de plus d'un kilogramme mourront."
 
 # game/chapter4.rpy:4470
 translate french _call_skipcheck_21_7d517c52:
 
     # As "That would be 2.2 pounds, in case you didn't know."
-    As "Ca fait 2.2 livres, au cas où tu ne le sâches pas."
+    As "Ca fait 2.2 livres, au cas où tu ne le saurais pas."
 
 # game/chapter4.rpy:4472
 translate french _call_skipcheck_21_16f012c9:
 
     # As "It will be the end of everyone who lives here, every single dragon you have seen - unless we do something."
-    As "Ce sera l'extinction de tous ceux qui vivent ici, tout ceux que vous connaissez - à moins qu'on ne fasse quelque chose."
+    As "Ce sera l'extinction de tous ceux qui vivent ici, de chaque dragon que tu as rencontré - à moins qu'on ne fasse quelque chose."
 
 # game/chapter4.rpy:4474
 translate french _call_skipcheck_21_d68ebd0d:
@@ -5428,7 +5428,7 @@ translate french _call_skipcheck_21_27a4408e:
 translate french _call_skipcheck_21_74b9d5b2:
 
     # c "I came here to help humanity. Now you tell me that this society - this whole world - is also on the brink of extinction?"
-    c "Je suis d'abord venu ici pour venir en aide à l'humanité. Et maintenant, vous me dites que cette société - ce monde entier - est également au bord de l'extinction ?"
+    c "Je suis d'abord venu ici pour aider l'humanité. Et maintenant, vous me dites que cette société - ce monde entier - est également au bord de l'extinction ?"
 
 # game/chapter4.rpy:4480
 translate french _call_skipcheck_21_1c7d26e3:
@@ -5464,31 +5464,31 @@ translate french _call_skipcheck_21_80dcb028:
 translate french _call_skipcheck_21_ed49d602:
 
     # c "We reclaimed all the generators he stole. Besides, how could a few of them be enough to make a difference for something like this?"
-    c "Nous avons récupéré tous les générateurs qu'il a volé. D'ailleurs, comment quelques générateurs peuvent faire la différence face à un truc comme ça ?"
+    c "Nous avons récupéré tous les générateurs qu'il a volé. D'ailleurs, comment quelques générateurs peuvent-il faire la différence face à un truc comme ça ?"
 
 # game/chapter4.rpy:4492
 translate french _call_skipcheck_21_34b96170:
 
     # As "Don't forget that Reza is still out there, looking for more. The truth is: I don't know if all the generators we could gather would ever be enough."
-    As "N'oublie pas que Reza est toujours en liberté, cherchant plus de générateurs. La vérité, c'est que je ne suis pas sûr que la puissance de tous les générateurs disponible soit vraiment suffisante."
+    As "N'oublies pas que Reza est toujours en liberté, cherchant plus de générateurs. La vérité, c'est que je ne suis pas sûr que la puissance de tous les générateurs disponible soit vraiment suffisante."
 
 # game/chapter4.rpy:4494
 translate french _call_skipcheck_21_d23122c4:
 
     # As "We only require enough power to divert the comet's path during a crucial moment, but even if this plan is possible, we will need every single generator we can get."
-    As "Ce dont on a besoin exactement, c'est d'une source d'énergie suffisament forte pour dévier la trajectoire de la comète avant le point de non retour. Et même si ce plan est possible, il nous faut le maximum de générateurs."
+    As "Ce dont on a besoin exactement, c'est d'une source d'énergie suffisament forte pour dévier la trajectoire de la comète à un moment crucial, mais même si ce plan est possible, il nous faut le plus de générateurs possible."
 
 # game/chapter4.rpy:4496
 translate french _call_skipcheck_21_139cf34f:
 
     # c "So my goal hasn't changed. I just need to find Reza."
-    c "Ma mission reste la même alors : trouver Reza."
+    c "Ma mission reste la même alors. Je dois trouver Reza."
 
 # game/chapter4.rpy:4498
 translate french _call_skipcheck_21_0c43fc9a:
 
     # As "Yes, but you'll need my help, and maybe the help of others. You know that Reza is dangerous, and with his gun, he has a clear advantage."
-    As "Oui, mais tu vas avoir besoin de mon aide, voire d'une aide extérieure. Tu sais qu'avec son arme à feu, Reza a un réel avantage."
+    As "Oui, mais tu vas avoir besoin de mon aide, voir d'une aide extérieure. Tu sais qu'avec son arme à feu, Reza a un réel avantage."
 
 # game/chapter4.rpy:4500
 translate french _call_skipcheck_21_99dcf20d:
@@ -5500,7 +5500,7 @@ translate french _call_skipcheck_21_99dcf20d:
 translate french _call_skipcheck_21_d0c70f78:
 
     # c "Then what shall we do? Do you know where he is?"
-    c "Alors que devons nous faire ? Est-ce que vous savez où il est ?"
+    c "Alors que devons-nous faire ? Est-ce que vous savez où il est ?"
 
 # game/chapter4.rpy:4504
 translate french _call_skipcheck_21_882be72d:
@@ -5530,7 +5530,7 @@ translate french _call_skipcheck_21_749bf135:
 translate french _call_skipcheck_21_810db1fd:
 
     # c "How many generations could it take to forget? Why isn't there proof of your existence?"
-    c "Combien de génération ça a pris pour vous oublier ? Pourquoi n'y a-t-il pas de preuves de votre existence ?"
+    c "Combien de générations ça a pris pour vous oublier ? Pourquoi n'y a-t-il pas de preuves de votre existence ?"
 
 # game/chapter4.rpy:4514
 translate french _call_skipcheck_21_23c33e1c:
@@ -5548,13 +5548,13 @@ translate french _call_skipcheck_21_49a27033:
 translate french _call_skipcheck_21_18cbf4d3:
 
     # As "This also included that very same portal in the future."
-    As "Ca incluait également ce même portail dans le futur.."
+    As "Ca incluait également ce même portail dans le futur."
 
 # game/chapter4.rpy:4520
 translate french _call_skipcheck_21_49dafd96:
 
     # As "With the generator of our lab being able to supply the portal with power for an indefinite amount of time, I was able to travel to any point in the future I wanted to."
-    As "Le générateur de notre laboratoire et du portail étant parfaitement autonome en tout point, et sa durée de vie étant illimitée, j'ai pu me rendre à n'importe quel futur."
+    As "Le générateur de notre laboratoire et du portail étant capable d'alimenter le portail pour une durée indéfinie, j'ai pu me rendre à n'importe quel moment dans le futur."
 
 # game/chapter4.rpy:4522
 translate french _call_skipcheck_21_58a4f49a:
@@ -5566,7 +5566,7 @@ translate french _call_skipcheck_21_58a4f49a:
 translate french _call_skipcheck_21_93dc963e:
 
     # As "Since I could now search for connection points in any time period, I could look for my own portal in the future and pinpoint the moment its signal stopped."
-    As "Comme il m'a été possible de chercher des points de connection dans n'importe quelle période, j'ai pu grâce à ça trouver un futur dans lequel mon point de connection disparaît."
+    As "Comme il m'a été possible de chercher des points de connection à n'importe quelle moment dans le temps, j'ai pu grâce à ça en trouver un dans le futur à partir duquel mon point de connection disparaît."
 
 # game/chapter4.rpy:4526
 translate french _call_skipcheck_21_ea899b43:
@@ -5590,7 +5590,7 @@ translate french _call_skipcheck_21_8d7451c7:
 translate french _call_skipcheck_21_a13616d3:
 
     # As "After I arrived here, my escape from the portal's hiding place led to its discovery by the dragons. It and the laboratory were unearthed."
-    As "Après mon arrivée ici et grâce à l'accès que j'ai creusé pour sortir de sous terre, les dragons ont trouvé le portail ainsi que l'U.A.D dans laquelle se trouve le labo."
+    As "Après mon arrivée ici, le fait de m'échapper de la cachette du portail mena à sa découverte par les dragons. ca ainsi que le laboratoire furent exhumés."
 
 # game/chapter4.rpy:4534
 translate french _call_skipcheck_21_e17fce04:
@@ -5602,13 +5602,13 @@ translate french _call_skipcheck_21_e17fce04:
 translate french _call_skipcheck_21_ecb962a3:
 
     # As "The portal you found was no doubt one of my company's. They must have been connected before, so the corresponding data for their connection already existed when you found it."
-    As "Le portail que vous avez trouvé était sans doute celui de ma compagnie. Nos deux portails ont déjà dû être connecté auparavant, du coup l'empreinte numérique du mien était enregistré dans le vôtre."
+    As "Le portail que vous avez trouvé faisait sans doute partie de ceux de ma compagnie. Ils ont déjà dû être connecté auparavant, du coup l'empreinte numérique de leur connection était enregistré dans le vôtre."
 
 # game/chapter4.rpy:4538
 translate french _call_skipcheck_21_52f635cd:
 
     # As "I'm not sure if that could bypass the anti-time travel safeguards, though."
-    As "Ça n'explique pas comment vous avez passé outre la protection de l'axe temporel, cependant."
+    As "Ça n'explique pas comment vous avez passé la protection prévenant les voyages dans le temps, cependant."
 
 # game/chapter4.rpy:4540
 translate french _call_skipcheck_21_a77cddd6:
@@ -5620,19 +5620,19 @@ translate french _call_skipcheck_21_a77cddd6:
 translate french _call_skipcheck_21_601249f6:
 
     # c "No, it took a little bit of tinkering."
-    c "Non, il a fallu mettre les mains dedans pour le faire repartir."
+    c "Non, il a fallu faire quelques manipulations."
 
 # game/chapter4.rpy:4544
 translate french _call_skipcheck_21_7e38a677:
 
     # As "Probably jumping the hardware safeguard in the process."
-    As "Vous avez probablement contourné les protections logicielles sans le vouloir."
+    As "Vous avez probablement contourné les protections logiciels sans le vouloir."
 
 # game/chapter4.rpy:4546
 translate french _call_skipcheck_21_2acdf2d3:
 
     # As "Now, consider that connected portals travel along the time axis together. The data for their beginning and end points are adjusted automatically."
-    As "Considérons maintenant que les deux portails connectés voyagent le long de l'axe du temps. Les données relatives à leurs points de départ et d'arrivée sont automatiquement réajustées."
+    As "Considérons maintenant que des portails connectés voyagent le long de l'axe du temps. Les données relatives à leurs points de départ et d'arrivée sont automatiquement réajustées."
 
 # game/chapter4.rpy:4548
 translate french _call_skipcheck_21_8f8852d9:
@@ -5644,7 +5644,7 @@ translate french _call_skipcheck_21_8f8852d9:
 translate french _call_skipcheck_21_b4947615:
 
     # As "Since these two portals must have been connected at some point, the corresponding data for the connection between those two portals already existed."
-    As "Comme ces deux portails ont très certainement déjà été connectés l'un à l'autre, pour un test je suppose, les données nécessaires à leur connection étaient déjà en mémoire."
+    As "Comme ces deux portails ont très certainement déjà été connectés à un moment, les données correspondant à leur connection étaient déjà en mémoire."
 
 # game/chapter4.rpy:4552
 translate french _call_skipcheck_21_b03ffc7e:
@@ -5692,7 +5692,7 @@ translate french _call_skipcheck_21_bc4dde1f:
 translate french _call_skipcheck_21_bb1c2520:
 
     # c "I see, so despite being in different time periods, time still passes linearly on both sides of the portals."
-    c "Je vois que, bien que se situant à des époques différentes, le temps passe toujours de façon linéaire de part et d'autre des portails."
+    c "Je vois, donc, bien que se situant à des époques différentes, le temps passe toujours de façon linéaire de part et d'autre des portails."
 
 # game/chapter4.rpy:4568
 translate french _call_skipcheck_21_17611d67:
@@ -5722,25 +5722,25 @@ translate french _call_skipcheck_21_b6465cfa:
 translate french _call_skipcheck_21_5c879a65:
 
     # As "I can only tell you that it would work. No one has studied time travel before, though, so if there are any consequences, then I am not sure of them. Most likely, an entirely new timeline would be created."
-    As "Je peux seulement vous dire que cela fonctionnerait. Mais personne n'a encore étudié les voyages dans le temps, alors s'il y a des conséquences, je n'en suis pas sûr. Il est fort probable qu'une toute nouvelle ligne du temps serait créée."
+    As "Je peux seulement vous dire que cela fonctionnerait. Mais personne n'a encore étudié les voyages dans le temps, alors s'il y a des conséquences, je ne les connais pas. Il est fort probable qu'une toute nouvelle chronologie soit créée."
 
 # game/chapter4.rpy:4578
 translate french _call_skipcheck_21_880cc0d6:
 
     # As "There would be a timeline without a [player_name] altogether, and in the new one, there would be two of you."
-    As "Il y aurait une ligne de temps sans [player_name] au total, et dans la nouvelle ligne de temps, vous seriez deux."
+    As "Il y aurait une chronologie sans [player_name], et en même temps dans la nouvelle chronologie, vous seriez deux."
 
 # game/chapter4.rpy:4580
 translate french _call_skipcheck_21_14179f5d:
 
     # c "This is becoming way too complicated."
-    c "Cela devient beaucoup trop compliqué."
+    c "Ca devient beaucoup trop compliqué."
 
 # game/chapter4.rpy:4582
 translate french _call_skipcheck_21_13d761a2:
 
     # As "I apologize. To come back to your original question, I am not sure how much time passed between the time I left my newborn society and now."
-    As "Je te prie de m'excuser. Pour revenir à votre question initiale, je ne sais pas combien de temps s'est écoulé entre le moment où j'ai quitté la société que j'ai connu et celle que tu connais toi."
+    As "Je te prie de m'excuser. Pour revenir à ta question initiale, je ne sais pas combien de temps s'est écoulé entre le moment où j'ai quitté la société que j'ai connu et celle que tu connais toi."
 
 # game/chapter4.rpy:4584
 translate french _call_skipcheck_21_bbd6297c:
@@ -5806,13 +5806,13 @@ translate french _call_skipcheck_21_a9868dd9:
 translate french _call_skipcheck_21_09805296:
 
     # As "Also, they have probably taken measures against having big predators roam their cities and villages."
-    As "De plus, ils ont probablement pris des mesures contre la présence de grands prédateurs dans leurs villes et villages."
+    As "De plus, ils ont probablement pris des mesures contre la présence de grands prédateurs errant dans leurs villes et villages."
 
 # game/chapter4.rpy:4606
 translate french _call_skipcheck_21_b36e5f58:
 
     # As "Yet while the dragon population has increased tremendously, I have found that by and large, their society as whole has not changed much."
-    As "Pourtant, alors que la population de dragons a énormément augmenté, j'ai constaté que, dans l'ensemble, leur société dans son ensemble n'a pas beaucoup changé."
+    As "Pourtant, alors que la population des dragons a énormément augmenté, j'ai constaté que, dans l'ensemble, leur société dans son ensemble n'a pas beaucoup changé."
 
 # game/chapter4.rpy:4608
 translate french _call_skipcheck_21_3fee8a5c:
@@ -5854,7 +5854,7 @@ translate french _call_skipcheck_21_ef4d9214:
 translate french _call_skipcheck_21_9e58dd1c:
 
     # As "Instincts also play a role. I imagine they are very much at odds with their learned behavior. Instincts in animals never change, and instinctual behaviors will always be there."
-    As "L'instinct joue également un rôle. J'imagine qu'ils sont très en désaccord avec leur comportement appris. Chez les animaux, les instincts ne changent jamais, et les comportements instinctifs seront toujours là."
+    As "L'instinct joue également un rôle. J'imagine qu'ils sont en grand désaccord avec leur comportement appris. Chez les animaux, les instincts ne changent jamais, et les comportements instinctifs seront toujours là."
 
 # game/chapter4.rpy:4622
 translate french _call_skipcheck_21_62dfd358:
@@ -5908,13 +5908,13 @@ translate french _call_skipcheck_21_ccef34d7:
 translate french _call_skipcheck_21_8ccdcb52:
 
     # As "In a few weeks, the comet will pass the moon, and its gravity field will point the comet's trajectory toward Earth. This is when we will need to be ready."
-    As "Dans quelques semaines, la comète passera devant la lune, et son champ de gravité indiquera sa trajectoire vers la Terre. C'est à ce moment que nous devrons être prêts."
+    As "Dans quelques semaines, la comète passera devant la lune, et son champ de gravité déviera la trajectoire de la comète vers la Terre. C'est à ce moment que nous devrons être prêts."
 
 # game/chapter4.rpy:4641
 translate french _call_skipcheck_21_fe580b9b:
 
     # As "If we strike then, we only need to minimally affect its path in order for the comet to pass Earth safely."
-    As "Si nous frappons à ce moment-là, nous n'avons besoin que d'affecter de façon minimale sa trajectoire pour que la comète puisse passer la Terre en toute sécurité."
+    As "Si nous frappons à ce moment-là, nous n'avons besoin d'affecter sa trajectoire que de façon minimale pour que la comète puisse passer la Terre en toute sécurité."
 
 # game/chapter4.rpy:4643
 translate french _call_skipcheck_21_d6846286:
@@ -5968,7 +5968,7 @@ translate french _call_skipcheck_21_682542b7:
 translate french _call_skipcheck_21_0e21edea:
 
     # As "I have programmed it with emergency coordinates. If you should find yourself in a hopeless situation and feel there is no other way out, go to the portal. I have made sure only you will be able to use them."
-    As "Je l'ai programmé avec des coordonnées d'urgence. Si vous vous trouvez dans une situation désespérée et que vous sentez qu'il n'y a pas d'autre issue, rendez-vous au portail. J'ai fait en sorte que vous soyez le seul à pouvoir les utiliser."
+    As "Je l'ai programmé avec des coordonnées d'urgence. Si tu te trouves dans une situation désespérée et que tu sens qu'il n'y a pas d'autre issue, rends-toi au portail. J'ai fait en sorte que tu sois le seul à pouvoir les utiliser."
 
 # game/chapter4.rpy:4661
 translate french _call_skipcheck_21_59e810c4:
@@ -5986,7 +5986,7 @@ translate french _call_skipcheck_21_8cf7cf1b:
 translate french _call_skipcheck_21_e3350160:
 
     # As "I will resume my work, and you will continue yours. Find Reza."
-    As "Je vais reprendre mon travail, et toi le tiens. Trouve Reza."
+    As "Je vais reprendre mon travail, et toi le tiens. Trouver Reza."
 
 # game/chapter4.rpy:4667
 translate french _call_skipcheck_21_196285bc:
@@ -5998,7 +5998,7 @@ translate french _call_skipcheck_21_196285bc:
 translate french _call_skipcheck_21_94be7fc1:
 
     # c "Wait. What's with all the secrecy? Why are you still wearing that mask? Why don't we pool our resources together and you show me your hideout?"
-    c "Attendez ! Pourquoi garder tout ça secret ? Pourquoi ce masque ? On ne ferait pas mieux de nous associer ? Vous ne pourriez pas me montrer votre planque entre autre ?"
+    c "Attendez. Pourquoi garder tout ça secret ? Pourquoi porter ce masque ? On ne ferait pas mieux de nous associer ? Vous ne pourriez me montrer votre planque entre autre ?"
 
 # game/chapter4.rpy:4677
 translate french _call_skipcheck_21_cb24ad28:
@@ -6010,19 +6010,19 @@ translate french _call_skipcheck_21_cb24ad28:
 translate french _call_skipcheck_21_16ec2642:
 
     # As "No. Not now."
-    As "Nan, pas maintenant."
+    As "Non, pas maintenant."
 
 # game/chapter4.rpy:4685
 translate french _call_skipcheck_21_261b9526:
 
     # m "A second later the figure had already vanished into the darkness outside."
-    m "La seconde suivante, l'individu est sorti de la caverne et s'est évanoui dans l'obscurité de la nuit."
+    m "La seconde suivante, l'individu sortit de la caverne et s'évanouit dans l'obscurité de la nuit."
 
 # game/chapter4.rpy:4693
 translate french _call_skipcheck_21_4253bf23:
 
     # m "When I followed, I realized that I wasn't sure how to get back to my apartment."
-    m "Quand je l'ai imité, je me suis rendu compte que je ne savais pas vraiment comment retourner à mon appartement."
+    m "En l'imitant, je me rendis compte que je ne savais pas vraiment comment retourner à mon appartement."
 
 # game/chapter4.rpy:4695
 translate french _call_skipcheck_21_708c2291:
@@ -6034,25 +6034,25 @@ translate french _call_skipcheck_21_708c2291:
 translate french _call_skipcheck_21_06fe3b84:
 
     # m "After wandering through the underbrush, I realized that the lights on the horizon had to be coming from the village, and made my way back."
-    m "Après quelques minutes passées à errer dans les sous-bois, j'ai réalisé que ces lumières que je voyais au loin venaient de la ville. Je m'en suis alors servi pour rentrer."
+    m "Après quelques minutes passées à errer dans les sous-bois, je réalisai que ces lumières que je voyais au loin venaient de la ville. Je m'en servis alors pour rentrer."
 
 # game/chapter4.rpy:4705
 translate french _call_skipcheck_21_438211f9:
 
     # m "I returned to my apartment without much trouble. When I looked at the clock, I was surprised to see how much time had passed."
-    m "Je suis retourné à mon appartement sans trop de problème. En regardant l'horloge, j'ai été surpris de voir combien de temps s'était écoulé."
+    m "Je retournai à mon appartement sans trop de problème. En regardant l'horloge, je fus surpris de voir combien de temps s'était écoulé."
 
 # game/chapter4.rpy:4707
 translate french _call_skipcheck_21_284e7709:
 
     # m "Not having anything left to do for the day, I soon fell into a deep slumber."
-    m "N'ayant plus rien à faire pour la journée, je me suis laissé tombé sur le lit et me suis endormi comme une souche."
+    m "N'ayant plus rien à faire pour la journée, je me laissai tombé sur le lit et m'endormis comme une souche."
 
 # game/chapter4.rpy:4727
 translate french c4skip2_92c265e9:
 
     # c "(Seems there's nothing for me to do this morning. I guess they don't need me at the police department. Not that I mind.)"
-    c "(Je n'ai rien à faire ce matin, si ce n'est me changer les idées... Pas de nouvelles de la police, ils n'ont probablement pas besoin de moi, je vais pouvoir respirer.)"
+    c "(Il semblerait que je n'ai rien à faire ce matin. Ils n'ont probablement pas besoin de moi au département. Non pas que ça me dérange.)"
 
 # game/chapter4.rpy:4986
 translate french chapter4chars_ef631ac9:
@@ -6070,19 +6070,19 @@ translate french chapter4chars_487a131e:
 translate french chapter4chars_f6e32749:
 
     # Ry "It would be nice to go there with you. I'm not sure how you feel about this, but I usually try to avoid the crowds."
-    Ry "J'adorerai y aller avec toi. Je ne sais pas toi, mais en principe j'essaie d'éviter la foule."
+    Ry "J'adorerai y aller avec toi. Je ne sais pas pour toi, mais en principe j'essaie d'éviter la foule."
 
 # game/chapter4.rpy:5017
 translate french chapter4chars_7ca3c990:
 
     # Ry "In any case, please let me know if you want to go."
-    Ry "Enfin, dit moi si tu y vas, d'accord ?"
+    Ry "Dans tout les cas, dis moi si tu veux y aller, d'accord ?"
 
 # game/chapter4.rpy:5023
 translate french chapter4chars_844b0891:
 
     # c "(The summer festival, huh?)"
-    c "(Le festival d'été...)"
+    c "(Le festival d'été, hein ?)"
 
 # game/chapter4.rpy:5043
 translate french _call_popularcheck_15_868ed111:
@@ -6118,7 +6118,7 @@ translate french _call_popularcheck_16_e0eb1d42:
 translate french _call_popularcheck_16_1335da7e:
 
     # Ry "Let me know if you are interested."
-    Ry "Fait-moi savoir si tu es toujours partant."
+    Ry "Fais-moi savoir si tu es toujours intéressé."
 
 # game/chapter4.rpy:5073
 translate french _call_popularcheck_16_df853375:
@@ -6130,7 +6130,7 @@ translate french _call_popularcheck_16_df853375:
 translate french _call_popularcheck_16_14f20a32:
 
     # c "(I guess that's my official invitation. Now the question is if I want to go or not.)"
-    c "(Je suppose que c'est une invitation officielle. Reste à savoir si je veux toujours y aller ou non.)"
+    c "(J'imagine que c'est mon invitation officielle. Maintenant la question est si je veux y aller ou non.)"
 
 # game/chapter4.rpy:5117
 translate french _call_popularcheck_17_b4dbb953:
@@ -6148,7 +6148,7 @@ translate french _call_popularcheck_17_839d7d38:
 translate french _call_popularcheck_17_6c268da3:
 
     # Br "I'm sure we could think of something fun."
-    Br "Et puis, j'suis certain qu'on peut trouver un truc amusant à faire."
+    Br "Je suis sûr qu'on peut trouver un truc amusant à faire."
 
 # game/chapter4.rpy:5127
 translate french _call_popularcheck_17_a7add8b1:
@@ -6160,13 +6160,13 @@ translate french _call_popularcheck_17_a7add8b1:
 translate french _call_popularcheck_18_98b9e136:
 
     # Br "Hey, [player_name]. Remember that BBQ I told you about? It's pretty soon, so you better be ready for it."
-    Br "Salut [player_name]. Tu t'souviens du barbeucue dont je t'ai parlé l'autre jour ? C'est pour bientôt, alors tiens toi prêt."
+    Br "Salut [player_name]. Tu t'souviens du barbecue dont je t'ai parlé l'autre jour ? C'est pour bientôt, alors tiens toi prêt."
 
 # game/chapter4.rpy:5151
 translate french _call_popularcheck_18_dec85ff4:
 
     # Br "All of the guys from the department will be there."
-    Br "Y aura quelques gars du poste qui seront là."
+    Br "Tout les gars du département seront là aussi."
 
 # game/chapter4.rpy:5153
 translate french _call_popularcheck_18_0ca5bf90:
@@ -6184,13 +6184,13 @@ translate french _call_popularcheck_18_7ab4692f:
 translate french _call_popularcheck_18_f7c4de1d:
 
     # Br "If you wanna come, let me know so I can hook you up with the details."
-    Br "Si ça t'intéresse toujours, rappelle moi pour que je te mette au parfum."
+    Br "Si ça t'intéresse toujours, rappelles moi pour que je te mette au parfum."
 
 # game/chapter4.rpy:5163
 translate french _call_popularcheck_18_3e69d653:
 
     # c "(A dragon BBQ party with a human as the guest of honor. Not suspicious at all, Bryce.)"
-    c "(Un barbecue entre dragon, avec un humain comme invité d'honneur ? Pas du tout bizarre comme plan, Bryce.)"
+    c "(Un barbecue entre dragon, avec un humain comme invité d'honneur ?  C'est pas suspect du tout, Bryce.)"
 
 # game/chapter4.rpy:5180
 translate french _call_popularcheck_19_8bf0501b:
@@ -6202,19 +6202,19 @@ translate french _call_popularcheck_19_8bf0501b:
 translate french _call_popularcheck_19_e0bc6ab0:
 
     # Br "I think you had some fun too, but I also wanted to show you there's more to me than that."
-    Br "Je sais que tu t'es bien marré toi aussi. Mais je voulais te montrer que je ne suis pas seulement un pro de la bière."
+    Br "Je sais que tu t'es bien marré toi aussi. Mais je voulais te montrer qu'il y a bien plus à mon sujet."
 
 # game/chapter4.rpy:5184
 translate french _call_popularcheck_19_ed3abd0d:
 
     # Br "So, I was just wondering if you wanted to come over just to hang out and relax, you know."
-    Br "Du coup, je me demandais si tu voulais passer chez moi juste pour traîner, tout ça."
+    Br "Du coup, je me demandais si tu voudrais passer chez moi juste pour traîner, tout ça."
 
 # game/chapter4.rpy:5186
 translate french _call_popularcheck_19_e06dc126:
 
     # Br "We only get to see each other when things are all serious, and I bet it's rough for you with everything that's going on. I figured you might want to get away from that a little."
-    Br "On se voit presque toujours pour parler boulot et autres trucs sérieux. Je me doute que ce n'est pas facile pour toi, tout ce qui se passe. Je me suis dit que tu voudrais peut-être te vider la tête un peu."
+    Br "On se voit presque toujours pour parler boulot et autres trucs sérieux. Je me doute que ce n'est pas facile pour toi, tout ce qui se passe. Je me suis dit que tu voudrais peut-être te vider un peu la tête."
 
 # game/chapter4.rpy:5188
 translate french _call_popularcheck_19_ca9231e1:
@@ -6238,13 +6238,13 @@ translate french _call_popularcheck_20_b5186df5:
 translate french _call_popularcheck_20_cab02692:
 
     # Ad "It's going to happen pretty soon, you know. I trained so much for this, you wouldn't believe. Probably harder than I ever trained in my entire life."
-    Ad "C'est pour bientôt tu sais. J'me suis entraîné comme une dingue, t'as pas idée. Probablement plus dure que jamais dans toute ma vie."
+    Ad "C'est pour bientôt tu sais. Je me suis entraîné comme une dingue, t'as pas idée. Probablement plus dure que jamais dans toute ma vie."
 
 # game/chapter4.rpy:5233
 translate french _call_popularcheck_20_55e181fa:
 
     # Ad "I really hope you can make it, because I want to show you all I've got."
-    Ad "J'espère que tu viendras, Parce que je veux tout donner et je veux que tu vois ça."
+    Ad "J'espère que tu pourras venir, Parce que je veux tout donner et je veux que tu vois ça."
 
 # game/chapter4.rpy:5259
 translate french _call_popularcheck_21_f0e796f3:
@@ -6262,7 +6262,7 @@ translate french _call_popularcheck_21_3705e9b5:
 translate french _call_popularcheck_21_4497d7d2:
 
     # Ad "Watch her perform behind closed doors and be one of the first to see her newest routine, sure to win at this year's stunt flying competition!"
-    Ad "Profitez de ce spectacle à huit clos et venez assister à sa nouvelle chorégraphie, qui lui garantira certainement le succès lors du concours d'aérobatie de cette année !"
+    Ad "Profitez de ce spectacle en huit clos et venez assister à sa nouvelle chorégraphie, qui lui garantira certainement le succès lors du concours d'aérobatie de cette année !"
 
 # game/chapter4.rpy:5265
 translate french _call_popularcheck_21_416d2ba3:
@@ -6316,19 +6316,19 @@ translate french _call_popularcheck_22_1becd696:
 translate french _call_popularcheck_22_315a50c9:
 
     # Ad "Well, I don't think you're that kind of person."
-    Ad "Nan ! Je ne crois pas que tu sois ce genre de personne !"
+    Ad "Nan ! Je ne crois pas que tu sois ce genre de personne."
 
 # game/chapter4.rpy:5302
 translate french _call_popularcheck_22_abfdff27:
 
     # Ad "Oh, I do hope this is the right number, or someone is going to be very confused."
-    Ad "Oh, j'espère que je suis au bon numéro au moins, sinon je connais quelqu'un qui va être complètement perdu."
+    Ad "Oh, j'espère que c'était le bon numéro, ou alors quelqu'un va être très confus."
 
 # game/chapter4.rpy:5308
 translate french _call_popularcheck_22_c988d1f1:
 
     # c "(Well, she did get the right number and I'm still confused.)"
-    c "(Eh bien, elle a composé le bon numéro, mais quand même je suis complètement perdu.)"
+    c "(Eh bien, elle a composé le bon numéro, mais je suis quand même confus.)"
 
 # game/chapter4.rpy:5353
 translate french _call_popularcheck_23_e3672fe4:
@@ -6400,13 +6400,13 @@ translate french _call_popularcheck_24_731ee041:
 translate french _call_popularcheck_25_b9386ee3:
 
     # An "I just wanted to update you. I still don't have an open spot in the facility for your tests, but I'll be free if you want to cash in your reward."
-    An "Je voulais juste te tenir au courant. Le labo n'est toujours pas disponible pour les tests, mais moi je serai disponible si jamais tu veux encaisser ta récompense."
+    An "Je voulais juste te tenir au courant. Je n'ai pas encore d'ouverture au complexe pour tes tests, mais je serai disponible si tu veux venir réclamer ta récompense."
 
 # game/chapter4.rpy:5424
 translate french _call_popularcheck_25_c3af19bf:
 
     # An "You know I'm busy, so this is your chance for your date if you even still want to go through with it. Take it or leave it. I don't care much either way."
-    An "Tu sais, je n'ai pas beaucoup de temps libre, alors c'est l'occasion pour ton rencard, si jamais tu as le courage d'aller jusqu'au bout. A prendre ou à laisser. De toute façon ça ne m'inquiète pas plus que ça."
+    An "Tu sais que je suis généralement occupé, alors c'est maintenant ou jamais pour ton rancard si tu es encore intéressé. C'est à prendre ou à laisser. Ton choix ne m'importe peu."
 
 # game/chapter4.rpy:5426
 translate french _call_popularcheck_25_a0d06abf:
@@ -6484,13 +6484,13 @@ translate french _call_popularcheck_27_2c3fc2b1:
 translate french _call_popularcheck_27_120b81ba:
 
     # Lo "So, see you soon? Maybe."
-    Lo "Alors, à bientôt, peut-être ?"
+    Lo "Alors, à bientôt, peut-être."
 
 # game/chapter4.rpy:5828
 translate french _call_popularcheck_28_be5c2928:
 
     # c "(Another free day. Yay me.)"
-    c "(Un autre jour de libre, vive moi !)"
+    c "(Un autre jour de libre. Vive moi.)"
 
 # game/chapter4.rpy:5830
 translate french _call_popularcheck_28_d5d6cf7c:
@@ -6502,31 +6502,31 @@ translate french _call_popularcheck_28_d5d6cf7c:
 translate french _call_popularcheck_28_be5c2928_1:
 
     # c "(Another free day. Yay me.)"
-    c "(Un autre jour de libre, vive moi !)"
+    c "(Un autre jour de libre. Vive moi.)"
 
 # game/chapter4.rpy:5852
 translate french _call_popularcheck_28_a98cb5b8:
 
     # m "In the end, I decided to spend the day relaxing in my apartment. I didn't know when things would start to pick up again, so I figured it would be better to get some rest as long as I still could."
-    m "Finalement, j'ai décidé de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me suis dit qu'il valait mieux me reposer tant que je le pouvais encore."
+    m "Finalement, je décidai de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me dis qu'il valait mieux me reposer tant que je le pouvais encore."
 
 # game/chapter4.rpy:6054
 translate french chapter4chars2_be5c2928:
 
     # c "(Another free day. Yay me.)"
-    c "(Un autre jour de libre, vive moi !)"
+    c "(Un autre jour de libre. Vive moi.)"
 
 # game/chapter4.rpy:6227
 translate french chapter4chars3_a98cb5b8:
 
     # m "In the end, I decided to spend the day relaxing in my apartment. I didn't know when things would start to pick up again, so I figured it would be better to get some rest as long as I still could."
-    m "Finalement, j'ai décidé de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me suis dit qu'il valait mieux me reposer tant que je le pouvais encore."
+    m "Finalement, je décidai de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me dis qu'il valait mieux me reposer tant que je le pouvais encore."
 
 # game/chapter4.rpy:6524
 translate french chap4altmenub2_a98cb5b8:
 
     # m "In the end, I decided to spend the day relaxing in my apartment. I didn't know when things would start to pick up again, so I figured it would be better to get some rest as long as I still could."
-    m "Finalement, j'ai décidé de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me suis dit qu'il valait mieux me reposer tant que je le pouvais encore."
+    m "Finalement, je décidai de passer la journée à me détendre dans mon appartement. Je ne savais pas quand les choses reprendraient, alors je me dis qu'il valait mieux me reposer tant que je le pouvais encore."
 
 translate french strings:
 
@@ -6536,7 +6536,7 @@ translate french strings:
 
     # chapter4.rpy:970
     old "Tell Maverick to wait. {image=image/ui/status/havetestresults.png}"
-    new "Dire à Maverick d'attendre."
+    new "Dire à Maverick d'attendre. {image=image/ui/status/havetestresults.png}"
 
     # chapter4.rpy:1259
     old "You go in. I'll wait here."
@@ -6552,7 +6552,7 @@ translate french strings:
 
     # chapter4.rpy:2095
     old "If it's that important to you, why don't you just watch it regardless?"
-    new "Si c'est si important pour toi, Pourquoi ne vas-tu pas le regarder malgré tout ?"
+    new "Si c'est si important pour toi, pourquoi ne vas-tu pas le regarder malgré tout ?"
 
     # chapter4.rpy:2176
     old "Take the bandage to the facility."
@@ -6592,11 +6592,11 @@ translate french strings:
 
     # chapter4.rpy:3337
     old "Sorry, I was just busy."
-    new "Désolé, j'étais juste occuper."
+    new "Désolé, j'étais juste occupé."
 
     # chapter4.rpy:3337
     old "I don't want to meet you again."
-    new "Je ne veux plus te revoir."
+    new "Je n'ai plus envie de te revoir."
 
     # chapter4.rpy:5924
     old "Meet with Kevin."
