@@ -64,7 +64,7 @@ translate frenchtl sec_53ef6372:
 translate frenchtl sec_19fbf5f8:
 
     # m "She handed me a shovel that she had picked up from somewhere."
-    m "Elle me tandit une pelle qu'elle avait trouvé quelque part."
+    m "Elle me tendit une pelle qu'elle avait trouvé quelque part."
 
 # game/sec.rpy:61
 translate frenchtl sec_3f2b4fc9:
@@ -106,7 +106,7 @@ translate frenchtl sec_a54e0a41:
 translate frenchtl sec_14bb254b:
 
     # c "That time, we also achieved our goals. Together."
-    c "Cette fois aussi, où nous avons accomplis nos objectifs. Ensembles."
+    c "Cette fois aussi, nous avons accomplis nos objectifs. Ensembles."
 
 # game/sec.rpy:75
 translate frenchtl sec_0dbc6fec:
@@ -118,7 +118,7 @@ translate frenchtl sec_0dbc6fec:
 translate frenchtl sec_a77efeb5:
 
     # Iz "As good as that may be, however, having achieved our goals in another timeline doesn't help us here. In this one, we have to do it all over again."
-    Iz "Aussi agréable que ça puisse être, avoit atteint notre but dans une autre timeline ne nous aide pas ici. Dans celle là, On va être obligé de refaire la même."
+    Iz "Aussi agréable que ça puisse être, avoit atteint notre but dans une autre chronologie ne nous aide pas ici. Dans celle là, On va être obligé de refaire la même."
 
 # game/sec.rpy:79
 translate frenchtl sec_b69a1abd:
@@ -238,7 +238,7 @@ translate frenchtl denied_efd4dfe7:
 translate frenchtl denied_6d3d48d8:
 
     # Iz "You see, whenever one of you travels back in time, I'm the one who has to decide with whom to continue the timeline."
-    Iz "Vois tu, à chaque fois que l'un d'entre vous remonte dans le temps, Je suis celle qui dois décider duquel va continuer cette timeline."
+    Iz "Vois tu, à chaque fois que l'un d'entre vous remonte dans le temps, Je suis celle qui dois décider duquel va continuer cette chronologie."
 
 # game/sec.rpy:201
 translate frenchtl denied_a4f844d5:
@@ -250,7 +250,7 @@ translate frenchtl denied_a4f844d5:
 translate frenchtl denied_b86a70d2:
 
     # Iz "Yeah. I guess that means you dug your own grave after all."
-    Iz "Ouais. Il faut croire que ça veut dire que tu as creusé ta propre tombe au final."
+    Iz "Ouais. Il faut croire que tu as creusé ta propre tombe au final."
 
 # game/sec.rpy:205
 translate frenchtl denied_a4a1761e:
@@ -268,7 +268,7 @@ translate frenchtl denied_579b4021:
 translate frenchtl denied_2801aa47:
 
     # Iz "In a way, I can't help but envy you, because your journey ends here, whereas I have to continue doing this for who knows how long. You can go home."
-    Iz "D'une certaine façon, je ne peut m'empêcher de t'envier, parce que ton voyage s'arrête ici, tandis que moi, je vais devoir continuer de faire ça pour je ne sais combien de temps encore. Tu peux rentrer chez toi."
+    Iz "D'une certaine façon, je ne peux m'empêcher de t'envier, parce que ton voyage s'arrête ici, tandis que moi, je vais devoir continuer de faire ça pour je ne sais combien de temps encore. Tu peux rentrer chez toi."
 
 # game/sec.rpy:211
 translate frenchtl denied_cb01ab9e:
@@ -334,7 +334,7 @@ translate frenchtl denied_6f776a45:
 translate frenchtl denied_17f0d772:
 
     # s "In a way, I am everywhere. If you are asking about my physical location, I'll have you know that I currently reside on a server in the same research building that Izumi arrived here with."
-    s "D'une certaine manière, je suis partout. Si tu me demandes par rapport à ma position physique, je te ferais savoir que je réside dans un serveur dans le même bâtiment de recherche avec lequel Izumi est arrivé."
+    s "D'une certaine manière, je suis partout. Si tu me demandes par rapport à ma position physique, je faut savoir que je réside au sein d'un serveur dans le même bâtiment de recherche avec lequel Izumi est arrivé."
 
 # game/sec.rpy:259
 translate frenchtl denied_b2d787f6:
@@ -358,7 +358,7 @@ translate frenchtl denied_55e2ce95:
 translate frenchtl denied_d8ce1f70:
 
     # s "I am glad to be of service, [player_name]."
-    s "Je suis heureux d'être de rendre service, [player_name]."
+    s "Je suis heureux de rendre service, [player_name]."
 
 # game/sec.rpy:271
 translate frenchtl denied_5401a521:
@@ -394,7 +394,7 @@ translate frenchtl noperm_2c982259:
 translate frenchtl noperm_c8736af9:
 
     # s "It looks like you don't have the necessary permission to look at this file."
-    s "Il semblerait que tu n'ais pas la permission nécéssaire pour regarder dans ce fichier."
+    s "Il semblerait que tu n'ais pas la permission nécéssaire pour consulter ce fichier."
 
 # game/sec.rpy:332
 translate frenchtl noperm_a66d28c0:
@@ -454,7 +454,7 @@ translate frenchtl noperm_a66d28c0_1:
 translate frenchtl noperm_08c5237b:
 
     # s "[[Database corrupted] [[A]" The game's puzzle means we get 10 letters from the next few similar instances (like the a here) that ultimately form the words "Count Cards". If not possible, we need to be able to form a word that can in itself be a small puzzle or hint where the solution is the number 13
-    s ""
+    s "[[Database corrupted] [[A]"
 
 # game/sec.rpy:438
 translate frenchtl noperm_f5b65cea_1:
@@ -1042,7 +1042,7 @@ translate frenchtl noperm_ed908b4e:
 translate frenchtl noperm_a1ed0e31:
 
     # s "As the governing body of this device, I would be advised at this point to tell you not to proceed without the proper licenses, but given this extraordinary situation, I think I will make an exception here."
-    s "Tout comme l'organe directeur de cet appareil, je serais avisé à ce point de vous dire de ne pas procéder sans les licences appropriées, mais compte tenu de la situation extraordinaire, je pense que je ferai une exception ici."
+    s "Tout comme l'organe directeur de cet appareil, je serais avisé en l'instant de vous dire de ne pas procéder sans les licences appropriées, mais compte tenu de la situation extraordinaire, je pense que je ferai une exception ici."
 
 # game/sec.rpy:1312
 translate frenchtl noperm_79932bcc:
@@ -1402,7 +1402,7 @@ translate frenchtl secend_115c34c4:
 translate frenchtl secend_09584537:
 
     # Iz "Because we still have make this attempt successful. And you need to do what you did in the timeline where we managed to achieve our goals."
-    Iz "Parce qu'on doit toujours faire de cette tentative un succès. Et tu dois faire ce que tu as fait dans la timeline où nous avons atteint notre but."
+    Iz "Parce qu'on doit toujours faire de cette tentative un succès. Et tu dois faire ce que tu as accompli dans la timeline où nous avons atteint notre but."
 
 # game/sec.rpy:1636
 translate frenchtl secend_04b25bc8:
@@ -1414,7 +1414,7 @@ translate frenchtl secend_04b25bc8:
 translate frenchtl secend_d4a2eebf:
 
     # Iz "When haven't we?"
-    Iz "Quand ne l'avons nous pas fait ?"
+    Iz "Quand ne l'avons-nous pas fait ?"
 
 # game/sec.rpy:1640
 translate frenchtl secend_1b5fe8d2:
@@ -1444,7 +1444,7 @@ translate frenchtl strings:
 
     # sec.rpy:293
     old "Database search"
-    new "Base de données de recherches"
+    new "Recherche dans la base de données"
 
     # sec.rpy:293
     old "Tennis"
