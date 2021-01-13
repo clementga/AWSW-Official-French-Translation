@@ -107,7 +107,7 @@ translate french trueendings_43f5fd9c:
 
     # c "I remember things from timelines where I died. The same must be true for all of you. It's not just your imagination."
     c "Je me suis souvenu de choses passées dans des lignes temporelles ou j'ai trouvé la mort. C'est aussi votre cas à tous, ce n'est pas simplement votre imagination."
-	
+
 # game/chapter5trueendings.rpy:71
 translate french trueendings_d5a1863a:
 
@@ -477,7 +477,7 @@ translate french trueendings_2e89037d:
 
     # Br stern flip "Yeah, to tell Sebastian not to come in for his shift today."
     Br stern flip "Ouais, j'dois prévenir Sebastian de ne pas faire son tour de garde ce soir..."
-	
+
 # game/chapter5trueendings.rpy:214
 translate french trueendings_76b2fe88:
 
@@ -1209,7 +1209,7 @@ translate french trueendings_2674bd93:
 
     # m "Soon, we arrived at our destination and everyone chose their hiding places. It wasn't easy, especially since we didn't know where Reza would come from, but with a bit of scouting help from Adine, they all found suitable places eventually."
     m "Nous ne perdîmes pas de temps pour arriver sur les lieux, et chacun choisit un endroit où se cacher. Ce n'était pas facile de définir de bons endroit de planque, mais avec l'aide d'Adine, chacun finit par trouver sa cache."
-	
+
 # game/chapter5trueendings.rpy:542
 translate french trueendings_833d5b0a:
 
@@ -2194,14 +2194,14 @@ translate french trueendings_f9096b9a:
 
     # Hz "Making them grow up naturally is something that will take so much time and resources as to become unviable by anyone who would want to go that route. With us, they can be combat ready in months instead of years."
     Hz "Les faire grandir d'une manière naturelle est une contrainte qui gaspille bien trop de temps et de ressource pour quiconque cherchera à voler nos créatures."
-	Hz "Avec notre concours, elles peuvent être prêtes pour le combat en quelques mois au lieu de quelques années."
+    Hz "Avec notre concours, elles peuvent être prêtes pour le combat en quelques mois au lieu de quelques années."
 
 # game/chapter5trueendings.rpy:1104
 translate french trueendings_b0ac7f29:
 
     # Hz "Secondly, all creatures will be equipped with a brain implant. Not only will this give them a variety of advantages, but it's another safeguard against copying as well. Without the chip, they will either become uncontrollable or die."
     Hz "Deuxièmement, toutes les créatures auront un implant cérébral. Non seulement cela nous donnera plus de latitude pour les contrôler, mais c'est aussi une protection contre la copie."
-	Hz "Sans cet implant, les créatures sont vouées à la mort ou à échapper à tout contrôle d'elles-mêmes."
+    Hz "Sans cet implant, les créatures sont vouées à la mort ou à échapper à tout contrôle d'elles-mêmes."
 
 # game/chapter5trueendings.rpy:1106
 translate french trueendings_780084e3:
@@ -3262,7 +3262,7 @@ translate french trueendings_dd1b017d:
     # n "After a few weeks, we had done it and as the last of the dragons from even the furthest regions had arrived at the other side, the time for me had come to walk through the portal for the very last time.{p=3.3}{nw}\nI looked back to their village and saw all the abandoned buildings, doomed to be destroyed when the comet would hit soon.{p=3.3}{nw}\nAs I walked up to the platform and waited for the portal to do its starting routine, I thought about what would happen now and what would come of this collaboration between humans and dragons.{fast}{p=0.0}{nw}"
     nvl clear
     a "Après quelques semaines, nous en avions terminé avec la relocalisation, et tandis que le dernier des Dragons des régions les plus reculées passait de l'autre côté, le moment vint pour moi de franchir le portail pour la toute dernière fois.{p=3.3}{nw}\nJe me retournai vers le village et je vis tous les bâtiments abandonnés, condamnés à être détruits lorsque la comète frapperait.{p=3.3}{nw}\nEn m'approchant de la plateforme et en attendant que le portail fasse sa routine de démarrage, je pensai à ce qui allait se passer maintenant et à ce qui allait résulter de cette collaboration entre les humains et les dragons.{p=4.0}{nw}"
-	
+
 # game/chapter5trueendings.rpy:1770
 translate french trueendings_76b2fe88_16:
 
