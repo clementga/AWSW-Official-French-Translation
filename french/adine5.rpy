@@ -244,7 +244,7 @@ translate french _call_endingjustafewminuteslater_4_892229f8:
 translate french _call_endingjustafewminuteslater_4_40d6a19a:
 
     # Rz "They belong to humanity!" with Shake((0, 0, 0, 0), 2, dist=10)
-    Rz "De plus, ce générateur et tout le bâtiment viennent de notre époque.
+    Rz "De plus, ce générateur et tout le bâtiment viennent de notre époque."
 
 # game/adine5.rpy:162
 translate french _call_endingjustafewminuteslater_4_d0af508a:
