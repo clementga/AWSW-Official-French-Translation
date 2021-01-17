@@ -663,7 +663,7 @@ translate french _call_skipcheck_26_7d206358:
 translate french _call_skipcheck_26_b49c5e0f:
 
   # m "Sebastian went up to the small bed of stones they had prepared. Since his back was turned towards me, I couldn't exactly see what he did, but a few seconds later, a fire started burning among the stones."
-  m "Sébastien se plaça devant le petit tas de pierres qu'ils avaient préparé. Comme il me tournait le dos, je ne pus pas voir ce qu'il faisait. Mais quelques secondes après, un feu commença à brûler devant nous.
+  m "Sébastien se plaça devant le petit tas de pierres qu'ils avaient préparé. Comme il me tournait le dos, je ne pus pas voir ce qu'il faisait. Mais quelques secondes après, un feu commença à brûler devant nous."
 
 # game/bryce3.rpy:448
 translate french _call_skipcheck_26_933d0018:
