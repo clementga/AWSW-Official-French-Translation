@@ -490,19 +490,19 @@ translate french _call_skipcheck_32_cac230dc:
 translate french _call_skipcheck_32_f1301db6:
 
     # An "To start off, I've found that, on average, about 90%% of your genes are homologous to our species' genes."
-    An "Pour commencer, j'ai découvert, en général, que près de 90% de tes gènes sont homologues aux gènes de nos espèces."
+    An "Pour commencer, j'ai découvert, en général, que près de 90%% de tes gènes sont homologues aux gènes de nos espèces."
 
 # game/anna2.rpy:430
 translate french _call_skipcheck_32_f3217f46:
 
     # An "That may seem like a lot, but to put it into perspective, about 50%% of your DNA is also shared with fruit."
-    An "Ça semble beaucoup, mais si on met ça en perspective, environs 50% de notre ADN est aussi partagée avec des fruits."
+    An "Ça semble beaucoup, mais si on met ça en perspective, environs 50%% de notre ADN est aussi partagée avec des fruits."
 
 # game/anna2.rpy:432
 translate french _call_skipcheck_32_8c9e7a86:
 
     # An "To further elaborate, you and your human neighbor back home are probably around 99.9%% genetically similar. If you compared the various sentient species we have here to each other, they would only be around 95-97%% similar."
-    An "Pour raffiner un peu plus, toi et tes congénères humains dans votre monde sont génétiquement semblables à 99.9%. Si tu comparais les diverses espèces intelligentes qui sont ici les unes avec les autres, elles n'auraient que 95-97% de similarité."
+    An "Pour raffiner un peu plus, toi et tes congénères humains dans votre monde sont génétiquement semblables à 99.9%%. Si tu comparais les diverses espèces intelligentes qui sont ici les unes avec les autres, elles n'auraient que 95-97%% de similarité."
 
 # game/anna2.rpy:434
 translate french _call_skipcheck_32_42bfa25e:
@@ -514,7 +514,7 @@ translate french _call_skipcheck_32_42bfa25e:
 translate french _call_skipcheck_32_87426d48:
 
     # An "Although a match of 90%% sounds like a lot, it's not as much as you might think. Still, for two beings from a different world altogether, that's quite remarkable."
-    An "Même si une correspondance de 90% semble beaucoup, ce n'est pas aussi grand que tu le pense. Tout de même pour deux êtres de deux mondes différents, dans l'ensemble, c'est plutôt impressionnant."
+    An "Même si une correspondance de 90%% semble beaucoup, ce n'est pas aussi grand que tu le pense. Tout de même pour deux êtres de deux mondes différents, dans l'ensemble, c'est plutôt impressionnant."
 
 # game/anna2.rpy:438
 translate french _call_skipcheck_32_7c45fda0:
@@ -1780,7 +1780,7 @@ translate french _call_skipcheck_32_558cb802:
 translate french _call_skipcheck_32_4be2784f:
 
     # An normal c "Hey, it's meat. 100%% biodegradable."
-    An normal c "Hey, c'est de la viande. 100% biodégradable."
+    An normal c "Hey, c'est de la viande. 100%% biodégradable."
 
 # game/anna2.rpy:1214
 translate french _call_skipcheck_32_97e4a40f:
