@@ -497,7 +497,7 @@ translate french _call_sincethelightswerealreadyon_6380d90f:
 
     # Rz "Who the fuck are you? Freeze! I said freeze!"
     Rz "Bordel, t'es qui ? Bouge pas ! J'ai dit bouge pas !"
-	
+
 # game/bryce5.rpy:292
 translate french _call_sincethelightswerealreadyon_c13acdb0:
 
@@ -1061,7 +1061,7 @@ translate french _call_no_5de0f92a:
 
     # m "Confused, Reza spun around, aiming his gun at the newcomer who was slowly walking towards him."
     m "Désemparé, Reza se retourna, braquant son pistolet sur le nouvel arrivant qui avançait lentement vers lui."
-	
+
 # game/bryce5.rpy:826
 translate french _call_no_6380d90f:
 
