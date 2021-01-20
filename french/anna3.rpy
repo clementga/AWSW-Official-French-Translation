@@ -1090,7 +1090,7 @@ translate french _call_skipcheck_a17b58a7:
 translate french _call_skipcheck_65f20b5d:
 
     # c "That sounds like fun."
-    c "Ca a l'air ammusant."
+    c "Ca a l'air amusant."
 
 # game/anna3.rpy:761
 translate french _call_skipcheck_42568387:
@@ -2152,7 +2152,7 @@ translate french _call_skipcheck_0bf38bb2:
 translate french _call_skipcheck_ab75d247:
 
     # An "That was the last time I saw her. She died a few weeks later."
-    An "C'est la dernière fois que je la vit. Elle mourrut quelque semaines après."
+    An "C'est la dernière fois que je la vit. Elle mourut quelque semaines après."
 
 # game/anna3.rpy:1395
 translate french _call_skipcheck_b2210746:
