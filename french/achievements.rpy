@@ -28,7 +28,7 @@ translate french strings:
 
     # achievements.rpy:83
     old "{b}Daredevil{/b}\nDrink a mysterious liquid."
-    new "{b}Casse-cou{/b}\nBuvez un liquide mysterieux."
+    new "{b}Casse-cou{/b}\nBuvez un liquide mystérieux."
 
     # achievements.rpy:98
     old "{b}Ovicide{/b}\nWaste a perfectly good batch of eggs."
@@ -48,7 +48,7 @@ translate french strings:
 
     # achievements.rpy:142
     old "{b}Librarian{/b}\nBring Remy's books into the correct order."
-    new "{b}Bibliothècaire{/b}\nRangez les livres de Rémi dans le bon ordre."
+    new "{b}Bibliothécaire{/b}\nRangez les livres de Rémi dans le bon ordre."
 
     # achievements.rpy:157
     old "{b}Patient{/b}\nWait for Remy until you get bored."
@@ -104,7 +104,7 @@ translate french strings:
 
     # achievements.rpy:318
     old "{b}Snoop{/b}\nLook at Anna's envelope."
-    new "{b}Fouineur{/b}\nRegardez le contenu de l'envelope destinée à Anna."
+    new "{b}Fouineur{/b}\nRegardez le contenu de l'enveloppe destinée à Anna."
 
     # achievements.rpy:329
     old "{b}Leg Stretcher{/b}\nStretch your legs."
@@ -172,7 +172,7 @@ translate french strings:
 
     # achievements.rpy:531
     old "{b}In Loco Parentis{/b}\nReturn the eggs to the hatchery."
-    new "{b}In Loco Parentis{/b}\nRamenez les œufs à la nursery."
+    new "{b}In Loco Parentis{/b}\nRamenez les œufs à la nurserie."
 
     # achievements.rpy:542
     old "{b}Sphere Builder{/b}\nAssemble the sphere."
