@@ -1032,7 +1032,7 @@ translate french lorem3searchmenu_4a523ac2:
 translate french lorem3searchmenu_8bc43cf9:
 
     # c "After certain rites have been performed, the reikon then goes on to join its ancestors and becomes a protector of the living family."
-    c "Après que certains rites soientt effectués, le reikon va alors rejoindre ses ancêtres pour devenir le protecteur de la famille."
+    c "Après que certains rites soient effectués, le reikon va alors rejoindre ses ancêtres pour devenir le protecteur de la famille."
 
 # game/lorem3.rpy:584
 translate french lorem3searchmenu_14c59c7a:
