@@ -1786,7 +1786,7 @@ translate french c4intuition_c502e6c1:
 translate french c4intuition_4b0fe591:
 
     # Br stern b "Good job, [player_name]."
-    Br stern b "Bon boulot, [player-name]."
+    Br stern b "Bon boulot, [player_name]."
 
 # game/chapter4.rpy:1824
 translate french c4intuition_dd20ffbf:
@@ -5398,7 +5398,7 @@ translate french _call_skipcheck_21_581fb48b:
 translate french _call_skipcheck_21_75a0e9a4:
 
     # As "All in all, 75%% of all species will vanish, and in terrestrial ecosystems, all animals heavier than a single kilogram will die."
-    As "En tout, 75% de toutes les espèces vont disparaître, et concernant l'écosystème terrestre, tout les animaux de plus d'un kilogramme mourront."
+    As "En tout, 75%% de toutes les espèces vont disparaître, et concernant l'écosystème terrestre, tout les animaux de plus d'un kilogramme mourront."
 
 # game/chapter4.rpy:4470
 translate french _call_skipcheck_21_7d517c52:
@@ -6556,7 +6556,7 @@ translate french strings:
 
     # chapter4.rpy:2176
     old "Take the bandage to the facility."
-    new "Ammener le bandage au laboratoire."
+    new "Amener le bandage au laboratoire."
 
     # chapter4.rpy:2176
     old "Visit the witness."
@@ -6564,11 +6564,11 @@ translate french strings:
 
     # chapter4.rpy:2176
     old "Take the PDA to the library."
-    new "Ammener le PDA à la bibliothèque."
+    new "Amener le PDA à la bibliothèque."
 
     # chapter4.rpy:2176
     old "Take the eggs to the hatchery."
-    new "Ammener les œufs au couvoir."
+    new "Amener les œufs au couvoir."
 
     # chapter4.rpy:2220
     old "Rest in your apartment."
