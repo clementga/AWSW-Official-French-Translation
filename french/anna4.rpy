@@ -868,7 +868,7 @@ translate french a4otherwise_6bf8fa0d:
 translate french a4otherwise_a4541f75:
 
     # An "When they gave me the manager position at the facility, that was just to distract me even more. Giving me free reign over the lab so I'd be tempted to do something I shouldn't."
-    An "Quand on m'a donné la direction du complexe, c'était juste pour me distraire un peu plus. En me donnant le champ libre sur un laboratoire, je aurait été tenté de faire quelque chose de discutable."
+    An "Quand on m'a donné la direction du complexe, c'était juste pour me distraire un peu plus. En me donnant le champ libre sur un laboratoire, j'aurais été tenté de faire quelque chose de discutable."
 
 # game/anna4.rpy:480
 translate french a4otherwise_cac4c825:
@@ -1360,7 +1360,7 @@ translate french _call_skipcheck_18_32bba1b5:
 translate french _call_skipcheck_18_82c43b40:
 
     # c "I bet some would argue that it would just be easier to conform, then."
-    c "Je parie que certains te dirontue ça serait plus facile pour toi de faire comme les autres."
+    c "Je parie que certains te diront que ça serait plus facile pour toi de faire comme les autres."
 
 # game/anna4.rpy:715
 translate french _call_skipcheck_18_3ebe4391:
