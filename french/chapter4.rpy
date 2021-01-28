@@ -4732,7 +4732,7 @@ translate french c4postsections_a7a76515:
 translate french c4postsections_dfeb653d:
 
     # c "It's no problem, really. My trip to your world wasn't supposed to be a vacation."
-    c "Ce n'est rien, je t'assure. Mon séjour dans votre monde n'était pas censée être une sinécure."
+    c "Ce n'est rien, je t'assure. Mon séjour dans votre monde n'était pas censé être une sinécure."
 
 # game/chapter4.rpy:4112
 translate french c4postsections_999306e1:
