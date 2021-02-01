@@ -6,6 +6,7 @@ Petit guide écrit pour tester les traductions en jeu :
 
 - Mettez-y le dossier "fr_trad_mod" que vous trouverez à la racine du git
 
-- Mettez vos fichiers/images de traduction dans le dossier "fr_trad_mod\resource\tl\french"
+- Copier le dossier "frenchtl" dans le dossier "Angels with Scaly Wings\game\tl"
 
-- C'est terminé. Lancez le jeu et toutes les traductions que vous avez mises dans le jeu seront chargées. Si les fichiers sont mal écrits, cela causera une erreur au chargement. Assurez-vous notamment que toutes les traductions se trouvent bien entre 2 guillemets, pas plus pas moins !
+- Lancez le jeu, et une fois à l'écran titre, ouvrez la console (Shift+O) et tapez la commande : config.language = "french"
+Lancer une partie ou une sauvegarde, puis retournez à l'écran titre, le jeu est maintenant en français
