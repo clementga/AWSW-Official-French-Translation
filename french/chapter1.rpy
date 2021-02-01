@@ -4775,6 +4775,10 @@ translate french strings:
     # chapter1.rpy:1653
     old "You were able to correctly identify our species based on what we look like, congratulations!"
     new "Vous avez été capable d'identifier correctement notre espèce en vous basant sur notre apparence, félicitations !"
+    
+    # chapter1.rpy:1653
+    old "Wait, where?"
+    new "Attends, où ça ?"
 
     # chapter1.rpy:1653
     old "Oh, it's a dragon!"
