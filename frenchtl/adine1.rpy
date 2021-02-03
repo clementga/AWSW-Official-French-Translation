@@ -2078,7 +2078,7 @@ translate frenchtl strings:
 
     # adine1.rpy:880
     old "Say my last goodbyes and hope for the best."
-    new "Dire mes derniers aurevoirs et croiser les doigts."
+    new "Dire mes derniers adieux et croiser les doigts."
 
     # adine1.rpy:880
     old "Stay outside and watch it all unfold before my eyes."
