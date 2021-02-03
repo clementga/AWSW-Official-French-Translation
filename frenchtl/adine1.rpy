@@ -342,7 +342,7 @@ translate frenchtl _call_skipcheck_10_4252207b:
 translate frenchtl _call_skipcheck_10_719209ef:
 
     # Ad "I can't really take them in and care for them 24/7 like a proper parent would. I'd love to, but I work far too much to be a single parent."
-    Ad "Je ne peux pas vraiment m'occuper d'eux 24 heures sur 24, 7 jours sur 7 comme un véritable parent le pourrait. J'adorerais mais je travaille bien trop pour ètre parent unique."
+    Ad "Je ne peux pas vraiment m'occuper d'eux 24 heures sur 24, 7 jours sur 7 comme un véritable parent le pourrait. J'adorerais mais je travaille bien trop pour être parent unique."
 
 # game/adine1.rpy:310
 translate frenchtl _call_skipcheck_10_6dae616b:
@@ -2078,7 +2078,7 @@ translate frenchtl strings:
 
     # adine1.rpy:880
     old "Say my last goodbyes and hope for the best."
-    new "Dire mes derniers aurevoirs et croiser les doigts."
+    new "Dire mes derniers adieux et croiser les doigts."
 
     # adine1.rpy:880
     old "Stay outside and watch it all unfold before my eyes."
