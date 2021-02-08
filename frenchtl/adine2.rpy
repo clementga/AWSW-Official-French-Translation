@@ -18,7 +18,7 @@ translate frenchtl adine2_3d308349:
 translate frenchtl adine2_ca608868:
 
     # Ad "Oh, it's you. I was expecting someone else. You're a little early."
-    Ad "Oh, c'est toi. Je attendais quelqu'un d'autre. Tu es arrivé un peu tôt."
+    Ad "Oh, c'est toi. J'attendais quelqu'un d'autre. Tu es arrivé un peu tôt."
 
 # game/adine2.rpy:47
 translate frenchtl adine2_7ccf0895:
@@ -330,7 +330,7 @@ translate frenchtl _call_skipcheck_23_6645a410:
 translate frenchtl _call_skipcheck_23_a87e7e48:
 
     # Ad disappoint b "Wait, it was murder? I didn't know that; I thought it was an accident or something. That's terrible."
-    Ad disappoint b "Attends, c'était un meurtre ? Je ne le savais pas ça; Je croyais que c'était un accident ou quelque chose. C'est terrible."
+    Ad disappoint b "Attends, c'était un meurtre ? Je ne le savais pas ça, Je croyais que c'était un accident ou quelque chose. C'est terrible."
 
 # game/adine2.rpy:301
 translate frenchtl _call_skipcheck_23_deaa0d16:
@@ -528,7 +528,7 @@ translate frenchtl _call_skipcheck_23_a4aa9181:
 translate frenchtl _call_skipcheck_23_35c9ab45:
 
     # Ad giggle b "It also mentions prophetic dreams, but let's hope that yours don't fall into that category."
-    Ad giggle b "Il fait aussi référence aux les rêves prophétique, mais j'espère que le tien ne tombe pas dans cette catégorie."
+    Ad giggle b "Il fait aussi référence a des rêves prophétique, mais j'espère que le tien ne tombe pas dans cette catégorie."
 
 # game/adine2.rpy:442
 translate frenchtl _call_skipcheck_23_3154d577:
@@ -1506,7 +1506,7 @@ translate frenchtl adine2menb_ac3e265b:
 translate frenchtl adine2menb_8e38b30a:
 
     # Ad disappoint b "As a result, the people waiting for the second order do get angry, because their order has to be remade and delivered all over again."
-    Ad disappoint b "Comme définitive, les personnes qui attendent la deuxième commande s'impatientent, parce que leur commande doit être refaite intégralement."
+    Ad disappoint b "En définitive, les personnes qui attendent la deuxième commande s'impatientent, parce que leur commande doit être refaite intégralement."
 
 # game/adine2.rpy:1113
 translate frenchtl adine2menb_e2a3b9f7:
@@ -1776,7 +1776,7 @@ translate frenchtl adine2skip_7089d516:
 translate frenchtl adine2skip_ac838d28:
 
     # c "So you believe in all of that stuff?"
-    c "Alors tu crois dans toutes ces choses ?"
+    c "Alors tu crois en toutes ces choses ?"
 
 # game/adine2.rpy:1240
 translate frenchtl adine2skip_bb8abd2b:
