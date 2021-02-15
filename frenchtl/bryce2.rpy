@@ -1190,7 +1190,7 @@ translate frenchtl bryce2cont2_d7ae8504:
 translate frenchtl bryce2cont2_302306be:
 
     # Br laugh "Seriously? Everything alive has a tail. How can you just not have one?"
-    Br laugh "T'es sérieux ? Tous les êtes vivants qu'on connaît ont une queue. Pourquoi vous n'en avez pas ?"
+    Br laugh "T'es sérieux ? Tous les êtres vivants qu'on connaît ont une queue. Pourquoi vous n'en avez pas ?"
 
 # game/bryce2.rpy:900
 translate frenchtl bryce2cont2_d5d3a6fa:
@@ -1707,7 +1707,7 @@ translate frenchtl bryce2cont2_d5a6f787:
 translate frenchtl bryce2cont2_0401c90e:
 
     # Br "I guess it's not like you needed ambassadors to represent humanity before, right? That makes this whole process a first, unless you had aliens show up at your place before."
-    Br "En fait, c'est pas comme si vous aviez déjà eu besoin d'ambassadeur avant,n'est-ce pas ? Tout ça est une première pour vous aussi, sauf si vous avez déjà eu faire avec des aliens."
+    Br "En fait, c'est pas comme si vous aviez déjà eu besoin d'ambassadeur avant,n'est-ce pas ? Tout ça est une première pour vous aussi, sauf si vous avez déjà eu à faire avec des aliens."
 
 # game/bryce2.rpy:1173
 translate frenchtl bryce2cont2_23bbf6b1:
@@ -1785,7 +1785,7 @@ translate frenchtl bryce2cont2_4cdb7e4d:
 translate frenchtl bryce2cont2_4918d46a:
 
     # Br brow "Well, you've been interesting enough so far, and Reza... I'm reserving judgment on that one."
-    Br brow "Je te trouve intéressant jusqu'à là. Par contre Reza... je réserve mon jugement."
+    Br brow "Je te trouve intéressant jusque là. Par contre Reza... je réserve mon jugement."
 
 # game/bryce2.rpy:1199
 translate frenchtl bryce2cont2_efb4d3f3:
@@ -1809,7 +1809,7 @@ translate frenchtl bryce2cont2_0627ddb3:
 translate frenchtl bryce2cont2_7a067069:
 
     # Br "I'll start worrying about that once we know what the truth actually is."
-    Br "Je penserai à ça après qu'on a découvert la vérité."
+    Br "Je penserai à ça après qu'on ait découvert la vérité."
 
 # game/bryce2.rpy:1207
 translate frenchtl bryce2cont2_feed6cdd:
@@ -2235,15 +2235,15 @@ translate frenchtl strings:
 
     # bryce2.rpy:1043
     old "Stop him."
-    new "Arrête-le."
+    new "L'arrêter."
 
     # bryce2.rpy:1043
     old "Do nothing."
-    new "Ne fais rien."
+    new "Ne rien faire."
 
     # bryce2.rpy:1043
     old "Ask him if he should really have another."
-    new "Demande lui s'il en veut vraiment une autre."
+    new "lui demander s'il en veut vraiment une autre."
 
     # bryce2.rpy:1219
     old "It can't be that bad."
