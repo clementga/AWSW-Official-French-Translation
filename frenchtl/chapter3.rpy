@@ -1188,7 +1188,7 @@ translate frenchtl c3conty_8759d94c:
 translate frenchtl c3conty_26772518:
 
     # n "From locomotion to repetitious work and household chores, many processes were automated to such a degree that except for our jobs and hobbies, there was nothing that needed to be done by a person anymore."
-    n "De la locomotion au travail répétitif en passant par tâches ménagères, de nombreux procédés étaient automatisés à tel point, qu'en dehors des nos emplois et de nos hobbies, il ne restait rien qui dusse encore être fait par une personne."
+    n "De la locomotion au travail répétitif en passant par les tâches ménagères, de nombreux procédés étaient automatisés à tel point, qu'en dehors des nos emplois et de nos hobbies, il ne restait rien qui dusse encore être fait par une personne."
 
 # game/chapter3.rpy:1304
 translate frenchtl c3conty_40299bbc:
@@ -1332,7 +1332,7 @@ translate frenchtl c3conty_6bdd3699:
 translate frenchtl c3conty_c743571a:
 
     # n "Once the full power of the waves hit us, however, society as we knew it collapsed in one fell swoop. Power grids on Earth shut down in an instant, as did all the machines that automated our routine tasks. Long-distance communication and transport became a thing of the past."
-    n "Une fois que nous fûmes frappés par la pleine puissance de la tempête cependant, la société telle que la connaissions s'effondra d'un seul coup. Le réseau électrique mondial disjoncta en un instant, tout comme toutes les machines qui automatisaient nos tâches quotidiennes. Les communications à longue distance et les moyens de transport devinrent des choses du passé."
+    n "Une fois que nous fûmes frappés par la pleine puissance de la tempête cependant, la société telle que nous la connaissions s'effondra d'un seul coup. Le réseau électrique mondial disjoncta en un instant, tout comme toutes les machines qui automatisaient nos tâches quotidiennes. Les communications à longue distance et les moyens de transport devinrent des choses du passé."
 
 # game/chapter3.rpy:1389
 translate frenchtl c3conty_76b2fe88_6:
@@ -2615,7 +2615,7 @@ translate frenchtl c3conty_85c7ebfb:
 translate frenchtl c3conty_64c7d0cf:
 
     # Em normal "That is what I would like to know."
-    Em normal "C'est ce que voudrais aussi savoir."
+    Em normal "C'est ce que je voudrais aussi savoir."
 
 # game/chapter3.rpy:1971
 translate frenchtl c3conty_daed67c6:
@@ -2735,7 +2735,7 @@ translate frenchtl c3conty_77d4a046:
 translate frenchtl c3conty_d4a6529c:
 
     # Br stern b flip "You better bring that to her. Sebastian and I should hurry to the portal. Meet us there afterwards, okay?"
-    Br stern b flip "Tu ferais mieux de lui apporter. Sébastien et moi allons nous dépêcher jusqu'à au portail. Rejoins-nous après, d'accord ?"
+    Br stern b flip "Tu ferais mieux de lui apporter. Sébastien et moi allons nous dépêcher jusqu'au portail. Rejoins-nous après, d'accord ?"
 
 # game/chapter3.rpy:2031
 translate frenchtl c3conty_c48dc32f:
@@ -3023,7 +3023,7 @@ translate frenchtl c3conty_538f2597:
 translate frenchtl c3conty_2715ead0:
 
     # Br "Maybe Emera was right to take me off the case..."
-    Br "Peut-être qu'Emera avait raison de me retirer l'enqûete."
+    Br "Peut-être qu'Emera avait raison de me retirer l'enquête."
 
 # game/chapter3.rpy:2170
 translate frenchtl c3conty_faaff70c:
@@ -3245,7 +3245,7 @@ translate frenchtl c3conty_f57bbd7f:
 translate frenchtl c3conty_fb571a12:
 
     # Sb "We're just a small town police department, and with Bryce removed from the case, our resources are thinner than ever."
-    Sb "Nous ne sommes que le commissariant d'une petite ville, et avec Bryce retiré de l'enquête, nos ressources sont plus limitées que jamais."
+    Sb "Nous ne sommes que le commissariat d'une petite ville, et avec Bryce retiré de l'enquête, nos ressources sont plus limitées que jamais."
 
 # game/chapter3.rpy:2276
 translate frenchtl c3conty_55fa4d3d:
@@ -5337,7 +5337,7 @@ translate frenchtl stay_0a296b2b:
 translate frenchtl stay_68c069ae:
 
     # St "Of course. This was after I came back from my second job, so around two or three in the morning."
-    St "Bien sûr. C'était après être sorti de mon deuxième emploi, donc aux alentours de deux ou trois heurs du matin."
+    St "Bien sûr. C'était après être sorti de mon deuxième emploi, donc aux alentours de deux ou trois heures du matin."
 
 # game/chapter3.rpy:3955
 translate frenchtl stay_44e0b6ca:
@@ -5397,7 +5397,7 @@ translate frenchtl stay_b7ce660e:
 translate frenchtl stay_aa9539fb:
 
     # c "That would be great, thanks."
-    c "Ca serait super, merci."
+    c "Ça serait super, merci."
 
 # game/chapter3.rpy:3977
 translate frenchtl stay_9602ee8d:
@@ -5427,7 +5427,7 @@ translate frenchtl stay_a3163e52:
 translate frenchtl stay_abf26993:
 
     # c "Okay. That will be all. Thanks for your help."
-    c "D'accord. Ca sera tout. Merci pour votre aide."
+    c "D'accord. Ce sera tout. Merci pour votre aide."
 
 # game/chapter3.rpy:3987
 translate frenchtl stay_258c4f41:
@@ -5703,7 +5703,7 @@ translate frenchtl c3go_73925600:
 translate frenchtl c3go_33fe9f85:
 
     # Sb "The statement from the store clerk is interesting. We've had few reports of Reza since he went into hiding, so this is very helpful. It's another confirmation of his involvement in this whole matter."
-    Sb "La déclaration du caissier est intéressante. On a eu des signalements de Reza depuis qu'il esst parti se cacher, donc c'est très utile. C'est une autre confirmation de son implication dans toute cette affaire."
+    Sb "La déclaration du caissier est intéressante. On a eu des signalements de Reza depuis qu'il est parti se cacher, donc c'est très utile. C'est une autre confirmation de son implication dans toute cette affaire."
 
 # game/chapter3.rpy:4224
 translate frenchtl c3go_b43daeae:
