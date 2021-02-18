@@ -202,7 +202,7 @@ translate frenchtl _call_skipcheck_20_3e323fa0:
 translate frenchtl _call_skipcheck_20_17ceaf01:
 
     # Br "There is another murder victim, an employee of the hatchery who was on night duty. Her body was found quite a way from here. There's evidence of a struggle, but she covered a lot of distance before it was ultimately over."
-    Br "Il y a une victime de meutre, une employée de l'écloserie qui était de garde la nuit. Son corps a été trouvé assez loin d'ici. Il y a des traces de lutte, mais elle a couvert une assez grandee distance avant que ce ne soit fini pour elle."
+    Br "Il y a une victime de meutre, une employée de l'écloserie qui était de garde la nuit. Son corps a été trouvé assez loin d'ici. Il y a des traces de lutte, mais elle a couvert une assez grande distance avant que ce ne soit fini pour elle."
 
 # game/chapter4.rpy:740
 translate frenchtl _call_skipcheck_20_d013c437:
@@ -2260,7 +2260,7 @@ translate frenchtl c4cont2_f43be0cf:
 translate frenchtl c4cont2_0130ecf1:
 
     # Sb "Yes, it has a great tradition behind it. What peeves me most is that I'll be on guard duty when it happens this year, so I probably won't be able to see a thing."
-    Sb "Oui, ce feu d'artifice a une sacré tradition derrière lui. Ce qui me saoule c'est que je serai de garde au portail le soir du festival, donc je ne risque pas de voir grand chose."
+    Sb "Oui, ce feu d'artifice a une sacré tradition derrière lui. Ce qui m'embête c'est que je serai de garde au portail le soir du festival, donc je ne risque pas de voir grand chose."
 
 # game/chapter4.rpy:2089
 translate frenchtl c4cont2_4b635033:
@@ -2398,7 +2398,7 @@ translate frenchtl c4facility_7f786720:
 translate frenchtl c4facility_9eaaf239:
 
     # An sad "I don't know yet. I'm not sure how they expect me to work in these conditions, considering I get assignments from the council and the police."
-    An sad "J'en sais rien. Je ne sais pas comment je suis censée bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
+    An sad "J'en sais rien. Je ne sais pas comment je suis censé bosser dans ces conditions, en sachant que j'ai du boulot pour le conseil et la police."
 
 # game/chapter4.rpy:2307
 translate frenchtl c4facility_b08fa813:
@@ -4954,7 +4954,7 @@ translate frenchtl _call_skipcheck_21_dd5cd2b9:
 translate frenchtl _call_skipcheck_21_b4c2e729:
 
     # n "Before the fall of humanity, I was an engineer. I was part of a team that was formed to create bioweapons."
-    n "Avant la chute de l'humanité, je travaillais dans l'ingéniérie. Je faisais partie d'une équipe qui avait été formée en vue de créer des armes biologiques."
+    n "Avant la chute de l'humanité, je travaillais dans l'ingénierie. Je faisais partie d'une équipe qui avait été formée en vue de créer des armes biologiques."
 
 # game/chapter4.rpy:4282
 translate frenchtl _call_skipcheck_21_17d4583e:
@@ -5116,7 +5116,7 @@ translate frenchtl _call_skipcheck_21_feba23c4:
 translate frenchtl _call_skipcheck_21_8690c8fd:
 
     # n "It was the Earth of 65 million years ago."
-    n "C'était la Terre, environ 65 millions d'année avant notre ère."
+    n "C'était la Terre, environ 65 millions d'années avant notre ère."
 
 # game/chapter4.rpy:4348
 translate frenchtl _call_skipcheck_21_76b2fe88_5:
@@ -5590,7 +5590,7 @@ translate frenchtl _call_skipcheck_21_8d7451c7:
 translate frenchtl _call_skipcheck_21_a13616d3:
 
     # As "After I arrived here, my escape from the portal's hiding place led to its discovery by the dragons. It and the laboratory were unearthed."
-    As "Après mon arrivée ici, le fait de m'échapper de la cachette du portail mena à sa découverte par les dragons. ca ainsi que le laboratoire furent exhumés."
+    As "Après mon arrivée ici, le fait de m'échapper de la cachette du portail mena à sa découverte par les dragons. c'est ainsi que le laboratoire fut exhumé."
 
 # game/chapter4.rpy:4534
 translate frenchtl _call_skipcheck_21_e17fce04:
@@ -5812,7 +5812,7 @@ translate frenchtl _call_skipcheck_21_09805296:
 translate frenchtl _call_skipcheck_21_b36e5f58:
 
     # As "Yet while the dragon population has increased tremendously, I have found that by and large, their society as whole has not changed much."
-    As "Pourtant, alors que la population des dragons a énormément augmenté, j'ai constaté que, dans l'ensemble, leur société dans son ensemble n'a pas beaucoup changé."
+    As "Pourtant, alors que la population des dragons a énormément augmenté, j'ai constaté que, dans l'ensemble, leur société n'a pas beaucoup changé."
 
 # game/chapter4.rpy:4608
 translate frenchtl _call_skipcheck_21_3fee8a5c:
