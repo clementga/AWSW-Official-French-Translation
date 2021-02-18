@@ -1976,7 +1976,7 @@ translate frenchtl _call_syscheck_50_7276c06a:
 translate frenchtl _call_syscheck_50_b9ca54b5:
 
     # c "(I suppose that's all I can do here.)"
-    c "(J'imagine avoir fait le tour déjà.)"
+    c "(J'imagine déjà avoir fait le tour.)"
 
 # game/chapter2.rpy:1746
 translate frenchtl chap2facility_39b1b188:
@@ -2018,13 +2018,13 @@ translate frenchtl chap2facility_781c3892:
 translate frenchtl chap2facility_909ef36b:
 
     # "???" "Either way, Anna is not here. Would that be all?"
-    "???" "Quoi qu'il en soit, Anna n'est pas là. Est-ce tout ?"
+    "???" "Quoi qu'il en soit, Anna n'est pas là. Ce sera tout ?"
 
 # game/chapter2.rpy:1788
 translate frenchtl chap2facility_cb13aa33:
 
     # c "Since you work here, maybe you can help me instead."
-    c "Puisque vous travaillez ici, peut-être pouvez m'aider à la place."
+    c "Puisque vous travaillez ici, peut-être pouvez vous m'aider à la place."
 
 # game/chapter2.rpy:1792
 translate frenchtl chap2facility_d0a98889:
@@ -2072,7 +2072,7 @@ translate frenchtl chap2facility_6d126859:
 translate frenchtl chap2facility_37ef5819:
 
     # "???" "Here's the short version: My name is Damion. I work in this facility, and I'm unfortunate enough to live the nightmare of having to deal with Anna on a daily basis. Nice to meet you."
-    "???" "Je vais faire court : mon nom est Damion. Je travaille dans ce complexe, and je suis suffisament poisseux pour avoir à vivre le cauchemar qu'est de devoir interagir avec Anna quotidiennement. Ravi de vous rencontrer."
+    "???" "Je vais faire court : mon nom est Damion. Je travaille dans ce complexe, et je suis suffisament poisseux pour avoir à vivre le cauchemar qu'est de devoir interagir avec Anna quotidiennement. Ravi de vous rencontrer."
 
 # game/chapter2.rpy:1818
 translate frenchtl chap2facility_4ce6b84d:
@@ -3620,7 +3620,7 @@ translate frenchtl _call_skipcheck_12_369d093b:
 translate frenchtl _call_skipcheck_12_7f224bac:
 
     # Mv "But even worse than that was getting thrown aside by Bryce."
-    Mv "Mais pire que ça a été de se faire mettre de côté par Bryce."
+    Mv "Mais pire que ça, a été de se faire mettre de côté par Bryce."
 
 # game/chapter2.rpy:3481
 translate frenchtl _call_skipcheck_12_36ddc428:
