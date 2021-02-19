@@ -18,7 +18,7 @@ translate frenchtl adine1_d60c0822:
 translate frenchtl adine1_245dbdc1:
 
     # m "It just so happened that Adine herself stood in the doorway, dripping wet and with damp containers in her grip."
-    m "Il se trouva qu'Adine elle-même se tenait dans l'entrée, trempée de la tête aux pieds et tenant des boites humides dans ses griffes."
+    m "Il se trouva qu'Adine elle-même se tenait dans l'entrée, trempée de la tête aux pieds et tenant des boîtes humides dans ses griffes."
 
 # game/adine1.rpy:61
 translate frenchtl adine1_c084e644:
@@ -138,7 +138,7 @@ translate frenchtl menadine_76b2fe88:
 translate frenchtl menadine_544afc3c:
 
     # n "Without another word, I closed the door, with nothing now separating me from the delights of the slightly soggy food before me."
-    n "Sans un mot de plus, je fermai la porte, rien ne me séparant plus des délices de la nourriture légerement trempé devant moi."
+    n "Sans un mot de plus, je fermai la porte, rien ne me séparant plus des délices de la nourriture légèrement trempé devant moi."
 
 # game/adine1.rpy:129
 translate frenchtl menadine_a00b0992:
@@ -324,7 +324,7 @@ translate frenchtl _call_skipcheck_10_77d64a46:
 translate frenchtl _call_skipcheck_10_2463bcdc:
 
     # Ad "They aren't really my children, per se. I just take care of them."
-    Ad "En soi ce ne sont pas vraiment mes enfants. Je m'occupe simplement d'eux."
+    Ad "En soi, ce ne sont pas vraiment mes enfants. Je m'occupe simplement d'eux."
 
 # game/adine1.rpy:306
 translate frenchtl _call_skipcheck_10_6ab075ea:
@@ -360,7 +360,7 @@ translate frenchtl _call_skipcheck_10_8a56387f:
 translate frenchtl _call_skipcheck_10_03b324fd:
 
     # Ad "Thanks. These kids already didn't get a very good hand in life. I just thought that if I can make even a small difference for them it'd be worth it."
-    Ad "Merci. Ces enfants ont déjà eu une mauvais pioche dans la vie. J'ai pensé que si je pouvais faire ne serait-ce qu'une petite différence pour eux ça vaudrait déjà le coup."
+    Ad "Merci. Ces enfants ont déjà eu une mauvaise pioche dans leur vie. J'ai pensé que si je pouvais faire ne serait-ce qu'une petite différence pour eux ça vaudrait déjà le coup."
 
 # game/adine1.rpy:314
 translate frenchtl _call_skipcheck_10_d29d4197:
@@ -534,7 +534,7 @@ translate frenchtl _call_skipcheck_10_410ee6b4:
 translate frenchtl _call_skipcheck_10_02d2db07:
 
     # Ad "This might be an unusual question, so... When they said it was a human that would be coming here, I kinda expected something a little different."
-    Ad "C'est peut-être une question étrange, mais... Lorsque qu'ils ont dit que c'est un humain qui viendrait, je m'attendais à quelque chose d'un peu différent."
+    Ad "C'est peut-être une question étrange, mais... Lorsqu'ils ont dit que c'est un humain qui viendrait, je m'attendais à quelque chose d'un peu différent."
 
 # game/adine1.rpy:418
 translate frenchtl _call_skipcheck_10_9beac2da:
@@ -588,7 +588,7 @@ translate frenchtl _call_skipcheck_10_8b9da41f:
 translate frenchtl _call_skipcheck_10_c21eb134:
 
     # c "There are just too many to list. Some of them good, some not so much."
-    c "Il en a simplement beaucoup trop pour tous les lister. Certain sont positifs, d'autres pas vraiment."
+    c "Il en a simplement beaucoup trop pour tous les lister. Certains sont positifs, d'autres pas vraiment."
 
 # game/adine1.rpy:444
 translate frenchtl _call_skipcheck_10_8abc6d5e:
@@ -726,7 +726,7 @@ translate frenchtl _call_skipcheck_10_9cf84c2e:
 translate frenchtl _call_skipcheck_10_821be8f1:
 
     # Ad "See, it's not so one-sided after all, so don't be surprised if some of us feel the same way."
-    Ad "Tu vois, ce n'est pas si unilatéral aprés tout, alors ne soit pas surpris si certains d'entre nous ressentent la même chose."
+    Ad "Tu vois, ce n'est pas si unilatéral après tout, alors ne sois pas surpris si certains d'entre nous ressentent la même chose."
 
 # game/adine1.rpy:514
 translate frenchtl _call_skipcheck_10_827a62d3:
@@ -750,7 +750,7 @@ translate frenchtl _call_skipcheck_10_5479d226:
 translate frenchtl _call_skipcheck_10_ef4c12fa:
 
     # Ad "By the way, interesting selection of books you have there. \"Draconic Desire\", \"Ixomen Sphere\" - are these yours?"
-    Ad "Au fait, sélection intéressante de livres que tu as là. \"Désir Draconique\", \"Sphere Ixomen\" - ils sont à toi ?"
+    Ad "Au fait, sélection intéressante de livres que tu as là. \"Désir Draconique\", \"Sphère Ixomen\" - ils sont à toi ?"
 
 # game/adine1.rpy:521
 translate frenchtl _call_skipcheck_10_304794b1:
@@ -798,7 +798,7 @@ translate frenchtl _call_skipcheck_10_4f76bc1a:
 translate frenchtl _call_skipcheck_10_a9cad82b:
 
     # Ad "Oh, you've got \"Price and Prayer\". You should totally read that one."
-    Ad "Oh, tu as \"Prix et Prière\". Tu devrais définitivement lire celui là."
+    Ad "Oh, tu as \"Prix et Prière\". Tu devrais définitivement lire celui-là."
 
 # game/adine1.rpy:560
 translate frenchtl _call_skipcheck_10_d98d0cd8:
@@ -810,7 +810,7 @@ translate frenchtl _call_skipcheck_10_d98d0cd8:
 translate frenchtl _call_skipcheck_10_9df698e3:
 
     # Ad "It's not just an interesting story, it's based on true events. The author is so right when he says there's a lot we can learn from what happened back then."
-    Ad "Ce n'est pas juste une histoire intéressante, c'est basé sur des évenement réels. L'auteur a tellement raison lorsqu'il dit qu'il y a beaucoup à apprendre de ce qui c'est passé auparavant."
+    Ad "Ce n'est pas juste une histoire intéressante, c'est basé sur des événements réels. L'auteur a tellement raison lorsqu'il dit qu'il y a beaucoup à apprendre de ce qui c'est passé auparavant."
 
 # game/adine1.rpy:568
 translate frenchtl _call_skipcheck_10_089aa707:
@@ -918,7 +918,7 @@ translate frenchtl choiceb_d3b70432:
 translate frenchtl choiceb_2c403123:
 
     # Ad "No one at all? I don't believe you. I think you just don't want to tell me. So, who is the lucky person?"
-    Ad "Personne du tout ? Je ne te crois pas. Je crois que tu ne veux juste pas me dire. Alors, qui est la personne chanceuse ?"
+    Ad "Personne du tout ? Je ne te crois pas. Je crois que tu ne veux juste pas me le dire. Alors, qui est la personne chanceuse ?"
 
 # game/adine1.rpy:655
 translate frenchtl choicec_9c4bb8e8:
@@ -1032,7 +1032,7 @@ translate frenchtl nextsc_8f23b6c8:
 translate frenchtl nextsc_20ec6614:
 
     # c "We continue asking questions, but if one of us doesn't want to answer the question, we have to do something the other person tells us to."
-    c "On continue à se poser des questions, mais si on ne veut pas répondre à la dite question, on doit faire ce que l'autre personne nous dit de faire."
+    c "On continue à se poser des questions, mais si on ne veut pas répondre à ladite question, on doit faire ce que l'autre personne nous dit de faire."
 
 # game/adine1.rpy:729
 translate frenchtl nextsc_bf87ec10:
@@ -1206,7 +1206,7 @@ translate frenchtl nextsc_24edf6f0:
 translate frenchtl nextsc_646ac1a5:
 
     # Ad "That seems to be a very personal wish, [player_name]."
-    Ad "Ca semble être un vœu très personel, [player_name]."
+    Ad "Ca semble être un vœu très personnel, [player_name]."
 
 # game/adine1.rpy:804
 translate frenchtl nextsc_de415d5c:
@@ -1236,7 +1236,7 @@ translate frenchtl nextsc_2ebf59c9:
 translate frenchtl nextsc_bc0926e9:
 
     # Ad "That's a hard one. I mean, no one would see my flying then, and I do want people to see that."
-    Ad "C'est une question difficile. Je veux dire, personne pourrait me voir voler, et je veux que les gens puissent voir ca."
+    Ad "C'est une question difficile. Je veux dire, personne ne pourrait me voir voler, et je veux que les gens puissent voir ça."
 
 # game/adine1.rpy:821
 translate frenchtl nextsc_5b659cad:
@@ -1374,19 +1374,19 @@ translate frenchtl nextsc_0b95e538:
 translate frenchtl nextsc_375c54ad:
 
     # Ad "An optimist until the very end. I like that."
-    Ad "Un optimiste jusqu'à la fin. J'aime ca."
+    Ad "Un optimiste jusqu'à la fin. J'aime ça."
 
 # game/adine1.rpy:905
 translate frenchtl nextsc_c11e0ee0:
 
     # Ad "That would be quite a show, huh?"
-    Ad "Ca pourrait être tout un spectacle, hein ?"
+    Ad "Ça pourrait être tout un spectacle, hein ?"
 
 # game/adine1.rpy:915
 translate frenchtl nextsc_aa2237bc:
 
     # Ad "I'm not sure if I could do that. I don't like tight, enclosed spaces."
-    Ad "Je ne suis pas certaine de pouvoir faire cela. Je n'aime pas les endroits étroits et enfermé."
+    Ad "Je ne suis pas certaine de pouvoir faire cela. Je n'aime pas les endroits étroits et renfermés."
 
 # game/adine1.rpy:927
 translate frenchtl nextsc_e3afd84b:
@@ -1398,7 +1398,7 @@ translate frenchtl nextsc_e3afd84b:
 translate frenchtl nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
-    Ad "Bien sur j'adorerais visiter - peut-être comme de vacances. Mais si tu parles de rester en permanence, je ne suis pas certaine de pouvoir juste faire mes valises et tout laisser derrière moi comme ça."
+    Ad "Bien sûr j'adorerais visiter - peut-être comme des vacances. Mais si tu parles de rester en permanence, je ne suis pas certaine de pouvoir juste faire mes valises et tout laisser derrière moi comme ça."
 
 # game/adine1.rpy:932
 translate frenchtl nextsc_b8fb304d:
@@ -1692,7 +1692,7 @@ translate frenchtl _call_syscheck_48_334f9430:
 translate frenchtl _call_syscheck_48_3d8af9e3:
 
     # Ad "Anyways, if you want to invite me over again, why don't I give you my personal number and we just skip the part where you order food to make me come by?"
-    Ad "Enfin bref, si tu veux me réinviter chez toi, pourquoi est-ce que je ne te donnerais plutôt pas mon numéro perso et on saute la partie où tu commandes à manger pour que je vienne ?"
+    Ad "Enfin bref, si tu veux me réinviter chez toi, pourquoi est-ce que je ne te donnerais pas plutôt mon numéro perso et on saute la partie où tu commandes à manger pour que je vienne ?"
 
 # game/adine1.rpy:1269
 translate frenchtl _call_syscheck_48_244ffce1:
@@ -1862,7 +1862,7 @@ translate frenchtl strings:
 
     # adine1.rpy:274
     old "Maybe there's more to it than that."
-    new "Peut-être qu'il y a plus que ca."
+    new "Peut-être qu'il y a plus que ça."
 
     # adine1.rpy:274
     old "Maybe I don't care."
