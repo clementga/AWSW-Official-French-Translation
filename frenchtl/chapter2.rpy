@@ -3104,13 +3104,13 @@ translate frenchtl chap2park3_94880a99:
 translate frenchtl chap2park3_14d84080:
 
     # Lu "I should really look where I'm going. Sometimes, I just get lost in my thoughts."
-    Lu "Je devrais vraiment faire attention à où je vais. Parfois, je me perds dans mes pensées."
+    Lu "Je devrais vraiment faire attention vers où je vais. Parfois, je me perds dans mes pensées."
 
 # game/chapter2.rpy:3042
 translate frenchtl chap2park3_bbbe0966:
 
     # c "Hey, I think you dropped this."
-    c "Ah, je crois que vous fait tombé ça."
+    c "Ah, je crois que vous avez fait tomber ça."
 
 # game/chapter2.rpy:3044
 translate frenchtl chap2park3_81ddefb4:
@@ -3128,7 +3128,7 @@ translate frenchtl chap2park3_ef994d78:
 translate frenchtl chap2park3_8833e938:
 
     # Lu "Yep! Oh, I should probably go before the bookstore closes. Bye!"
-    Lu "Yep ! Oh, je devrais probablement y aller avant que la librarie ne ferme. Au revoir !"
+    Lu "Yep ! Oh, je devrais probablement y aller avant que la librairie ne ferme. Au revoir !"
 
 # game/chapter2.rpy:3060
 translate frenchtl chap2park3_be7f9017:
@@ -3356,7 +3356,7 @@ translate frenchtl chap2emselection_19d82974:
 translate frenchtl chap2emselection_4a8f0e96:
 
     # Em normal "It has its perks, but in some ways I'll certainly be happy when my term is over."
-    Em normal "Cela a ses avantages, mais d'une certaine façon, je serai heureuse quand mon terme sera terminé."
+    Em normal "Cela a ses avantages, mais d'une certaine façon, je serai heureuse quand mon terme touchera à sa fin."
 
 # game/chapter2.rpy:3218
 translate frenchtl chap2emselection_d46a388e:
@@ -3374,7 +3374,7 @@ translate frenchtl chap2emselection_960ce40a:
 translate frenchtl chap2emselection_208ec4ed:
 
     # Em normal "We, the ministers, serve our term, and then someone else takes our place. Only one minister changes at a time, though."
-    Em normal "Nous, les ministres, servont notre terme, puis quelqu'un d'autre prendre notre place. Les ministres changent chacun leur tour cependant, jamais plusieurs en même temps."
+    Em normal "Nous, les ministres, servont notre terme, puis quelqu'un d'autre prends notre place. Les ministres changent chacun leur tour cependant, jamais plusieurs en même temps."
 
 # game/chapter2.rpy:3224
 translate frenchtl chap2emselection_6ab4709a:
@@ -4022,7 +4022,7 @@ translate frenchtl chap2skip3_3dd1ee3e:
 translate frenchtl chap2skip3_4e1f8841:
 
     # Sb "The map in the library... I don't know what to think about that."
-    Sb "La carte dans la bibliothèque... Je ne suis pas sûr quoi en penser."
+    Sb "La carte dans la bibliothèque... Je ne suis pas sûr de quoi en penser."
 
 # game/chapter2.rpy:3698
 translate frenchtl chap2skip3_12dac46c:
@@ -4632,7 +4632,7 @@ translate frenchtl strings:
 
     # chapter2.rpy:3644
     old "Thanks, Sébastien."
-    new "Merci Sébastien."
+    new "Merci, Sébastien."
 
     # chapter2.rpy:4444
     old "Meet with Adine."
