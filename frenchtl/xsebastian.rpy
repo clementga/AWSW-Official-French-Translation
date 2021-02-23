@@ -336,7 +336,7 @@ translate frenchtl _call_skipcheck_14_71e61720:
 translate frenchtl _call_skipcheck_14_802d6bb9:
 
     # Sb smile b "It was quite a thing to hear that humans were going to visit our world, but when I met you and it turned out you were just like an ordinary person, that really threw me off."
-    Sb smile b "C'était toute une chose d'entendre que des humains allaient visiter notre monde, mais quand je t'ai rencontré et que j'ai vu que tu étais comme un personne ordinaire, ça m'a vraiment déstabilisé."
+    Sb smile b "C'était toute une chose d'entendre que des humains allaient visiter notre monde, mais quand je t'ai rencontré et que j'ai vu que tu étais comme une personne ordinaire, ça m'a vraiment déstabilisé."
 
 # game/xsebastian.rpy:328
 translate frenchtl _call_skipcheck_14_441b8230:
@@ -468,7 +468,7 @@ translate frenchtl _call_skipcheck_14_fc8548d4:
 translate frenchtl _call_skipcheck_14_8f13fcf1:
 
     # Sb "For sure. It's mostly smaller ones though, because the bigger they get, the more variety you'll find."
-    Sb "Pour sûr. C'est surtout le cas pour les petits villages cependant, car le plus ils sont grands, le plus de variété il y a."
+    Sb "Pour sûr. C'est surtout le cas pour les petits villages cependant, car le plus grands ils sont, le plus de variété il y a."
 
 # game/xsebastian.rpy:394
 translate frenchtl _call_skipcheck_14_89aefe22_1:
@@ -558,7 +558,7 @@ translate frenchtl sebastianquestions_298177f7:
 translate frenchtl sebastianquestions_5a2316f9:
 
     # Sb "In a way, yes. It makes us fairly independent and keeps everything local."
-    Sb "D'une certaine façon, oui. Cela nous rend assez indépendant and permet de tout garder au niveau local."
+    Sb "D'une certaine façon, oui. Cela nous rend assez indépendant et nous permet de tout garder au niveau local."
 
 # game/xsebastian.rpy:465
 translate frenchtl sebastianquestions_5a7a1f3a:
@@ -600,7 +600,7 @@ translate frenchtl sebastianquestions_9515f14d:
 translate frenchtl sebastianquestions_6c768088:
 
     # Sb "On the other hand, it also creates all kinds of new problems that I never would have expected. I won't forget the first time I had to follow a shoplifter who also happened to be a flyer."
-    Sb "De l'autre, cela crée un tas de nouveaux problèmes auxquels je n'aurais jamais pensé. Je n'oublierai jamais la première fois où j'ai un pourchasser un voleur qui se trouvait aussi être un aviateur."
+    Sb "De l'autre, cela crée un tas de nouveaux problèmes auxquels je n'aurais jamais pensé. Je n'oublierai jamais la première fois où j'ai dû pourchasser un voleur qui se trouvait aussi être un aviateur."
 
 # game/xsebastian.rpy:522
 translate frenchtl sebastianquestions_fe4fce32:
@@ -1659,7 +1659,7 @@ translate frenchtl strings:
 
     # xsebastian.rpy:681
     old "You've got my heart already."
-    new "Tu as mon cœur déjà."
+    new "Tu as déjà mon cœur."
 
     # xsebastian.rpy:681
     old "You stole all those hearts, didn't you?"
@@ -1675,7 +1675,7 @@ translate frenchtl strings:
 
     # xsebastian.rpy:4564
     old "I don't know any card games."
-    new "Je ne connais aucune jeu de cartes."
+    new "Je ne connais aucun jeu de cartes."
 
     # xsebastian.rpy:4600
     old "It's pretty cold."
