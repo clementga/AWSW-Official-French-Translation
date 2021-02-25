@@ -22,7 +22,7 @@ translate frenchtl chapter5_9fff8558:
 translate frenchtl aloneendings_ae7c103b:
 
     # m "While I was sure any of those I knew would agree to watch the fireworks with me if I asked, I ultimately decided to go alone, not wanting to impose on anyone if they hadn't asked me first."
-    m "Même si j'étais persuadé que n'importe laquelle de mes nouvelles connaissances ici m'aurait accompagné volontier au feux d'artifices, je décidai finalement d'y aller tout seul. Je ne voulais pas m'imposer à eux s'ils ne me l'avait pas demandé d'abord."
+    m "Même si j'étais persuadé que n'importe laquelle de mes nouvelles connaissances ici m'aurait accompagné volontier aux feux d'artifice, je décidai finalement d'y aller tout seul. Je ne voulais pas m'imposer à eux s'ils ne me l'avait pas demandé d'abord."
 
 # game/chapter5.rpy:506
 translate frenchtl aloneendings_df9f1168:
@@ -34,13 +34,13 @@ translate frenchtl aloneendings_df9f1168:
 translate frenchtl aloneendings_e385c5e3:
 
     # m "When I left my apartment, I realized just how eerily deserted the rest of the place felt. They really weren't kidding when they said {i}everyone{/i} would watch the fireworks. I imagined there were a couple of designated places people gathered for this purpose. I had no doubt they were crowded beyond belief."
-    m "En quittant mon appartement, je me rendis compte à quel point tout semblait si désert. C'était donc vrai ce qui se disait, absolument tout la ville était partie assister au feu d'artifice. Je me disais alors qu'il y avait certainement des endroits où les gens se rassemblaient pour l'évènement. Pas de doutes qu'ils devaient être particulièrement bondés."
+    m "En quittant mon appartement, je me rendis compte à quel point tout semblait si désert. C'était donc vrai ce qui se disait, absolument toute la ville était partie assister au feu d'artifice. Je me disais alors qu'il y avait certainement des endroits où les gens se rassemblaient pour l'évènement. Pas de doutes qu'ils devaient être particulièrement bondés."
 
 # game/chapter5.rpy:516
 translate frenchtl aloneendings_04daa7ff:
 
     # m "While I waited for the fireworks to start, I looked at the area around me. With no soul in sight, I realized I hadn't actually spent many nights outside and was reminded of the day I had arrived here at my apartment in total darkness, with only Remy by my side."
-    m "Tandis que j'attendais le début du feu d'artifice, je regardais tout autour de moi. Pas une âme en vue, je me dis alors que je n'avais pas passé beaucoup de nuits dehors et ça me rappela la nuit de mon arrivée ici jusqu'à mona appartement, avec Rémi pour seul compagnon."
+    m "Tandis que j'attendais le début du feu d'artifice, je regardais tout autour de moi. Pas une âme en vue, je me dis alors que je n'avais pas passé beaucoup de nuits dehors et ça me rappela la nuit de mon arrivée ici jusqu'à mon appartement, avec Rémi pour seul compagnon."
 
 # game/chapter5.rpy:520
 translate frenchtl aloneendings_e507d2af:
@@ -172,7 +172,7 @@ translate frenchtl _call_endingjustafewminuteslater_a04a361a:
 translate frenchtl _call_endingjustafewminuteslater_861dff8c:
 
     # m "Reza was right. In reality, the bomb provided no real leverage against him. If his goal was truly to save our city back home at any costs, he would not turn himself in. Even if the threat of setting off the bomb was a real one, his best chance would be to at least try to kill me now."
-    m "Reza avait malheureusement raison. Comme je le redoutais, même une bombe n'avait aucun impact sur sa détermination. Il état prêt à sauver notre ville à tout prix, il ne se rendrait. Même si je prévoyais réellement d'activer la bombe, il avait encore une chance de gagner en me tuant maintenant."
+    m "Reza avait malheureusement raison. Comme je le redoutais, même une bombe n'avait aucun impact sur sa détermination. Il état prêt à sauver notre ville à tout prix, jamais il ne se rendrait. Même si je prévoyais réellement d'activer la bombe, il avait encore une chance de gagner en me tuant maintenant."
 
 # game/chapter5.rpy:596
 translate frenchtl _call_endingjustafewminuteslater_69f65a19:
@@ -202,7 +202,7 @@ translate frenchtl _call_endingjustafewminuteslater_fcdea398:
 translate frenchtl _call_endingjustafewminuteslater_4ffa6f77:
 
     # m "Just as I reached the outside, the bomb went off. The explosion battered my ears as the shockwave sent me flying."
-    m "Au moment de ma retrouver dehors, la bombe explosa. L'explosion me retentit dans les oreilles tandis que l'onde de choc me fit faire un vol planné."
+    m "Au moment de me retrouver dehors, la bombe explosa. L'explosion me retentit dans les oreilles tandis que l'onde de choc me fit faire un vol planné."
 
 # game/chapter5.rpy:624
 translate frenchtl _call_endingjustafewminuteslater_f42fab5d:
