@@ -490,7 +490,7 @@ translate frenchtl remy2cont_142828fd:
 translate frenchtl remy2cont_505cc211:
 
     # m "Soon, I heard the sizzling of frying meat as the delicious smell of steak wafted into the room."
-    m "Bientôt, j'entendis le grésillement de la viande grillé alors que la délicieuse odeur des steaks flottait dans la pièce."
+    m "Bientôt, j'entendis le grésillement de la viande grillée alors que la délicieuse odeur des steaks flottait dans la pièce."
 
 # game/remy2.rpy:541
 translate frenchtl remy2cont_c8da8664:
@@ -1210,7 +1210,7 @@ translate frenchtl _call_skipcheck_35_13251290:
 translate frenchtl _call_skipcheck_35_99c4fd1f:
 
     # Ry "Now that you've been in our world for a while, how do you like it here?"
-    Ry "Maintenant que tu as été dans notre monde depuis un moment, comment aimes-tu la vie ici ?"
+    Ry "Maintenant que tu as été dans notre monde depuis un moment, comment trouves-tu la vie ici ?"
 
 # game/remy2.rpy:1028
 translate frenchtl _call_skipcheck_35_8a50e9bd:
@@ -1714,7 +1714,7 @@ translate frenchtl _call_skipcheck_35_191efd00:
 translate frenchtl _call_skipcheck_35_0b0ff756:
 
     # n "By the end of dessert, he seemed a little different, though I couldn't pinpoint how."
-    n "Après avoir mangé le dessert, il semblait un peu différent, cependant je ne pouvais dire en quoi."
+    n "Après avoir mangé le dessert, il semblait un peu différent, cependant je ne pouvais le dire en quoi."
 
 # game/remy2.rpy:1387
 translate frenchtl _call_skipcheck_35_a8c78e19:
