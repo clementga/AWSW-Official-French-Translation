@@ -178,7 +178,7 @@ translate frenchtl evilending_3bb85959:
 translate frenchtl evilending_08c123a0:
 
     # c "I think we both know that it would fall under treason, the only crime heinous enough to our leaders to warrant immediate execution."
-    c "Nous savons tout les deux que ça tomberait sous le coup de la trahison, le seul crime assez hideux pour que nos dirigeants nous garrantissent une exécution immédiate."
+    c "Nous savons tout les deux que ça tomberait sous le coup de la trahison, le seul crime assez hideux pour que nos dirigeants nous garantissent une exécution immédiate."
 
 # game/chapter5evilending.rpy:77
 translate frenchtl evilending_a33aae66:
@@ -454,7 +454,7 @@ translate frenchtl no_f6c1a298:
 translate frenchtl no_46ca0c65:
 
     # Rz annoyed "When was there ever anything resembling these ... creatures on Earth? It's not hard to make the jump from dragons to dinosaurs when some of them here look pretty damn near identical to dinosaurs we knew about."
-    Rz annoyed "À quelle époque notre Terre a-t-elle vu de telles... créatures ? C'est pas difficile de faire le rapprochement entre les dragons et les dinosaures quand certains d'entre eux ressemblent comme deux gouttes d'eaux aux dinosaures qu'on connaissaient."
+    Rz annoyed "À quelle époque notre Terre a-t-elle vu de telles... créatures ? C'est pas difficile de faire le rapprochement entre les dragons et les dinosaures quand certains d'entre eux ressemblent comme deux gouttes d'eaux aux dinosaures qu'on connaissait."
 
 # game/chapter5evilending.rpy:467
 translate frenchtl no_9ae497ad:
@@ -742,7 +742,7 @@ translate frenchtl no_01bee785:
 translate frenchtl no_8a741f2c:
 
     # Rz "As long as you can stay here, in this perfect little world of yours. You have discarded everything and everyone back home, and replaced it with this."
-    Rz "Tant que tu peux rester ici, dans ton petit monde parfait. Tu as fait une croix sur ton ancien chez toi, sur tous ceux qui y vivaient, et tu l'as remplacée par ça."
+    Rz "Tant que tu peux rester ici, dans ton petit monde parfait. Tu as fait une croix sur ton ancien chez toi, sur tous ceux qui y vivaient, et tu l'as remplacé par ça."
 
 # game/chapter5evilending.rpy:579
 translate frenchtl no_3d97530d:
@@ -868,7 +868,7 @@ translate frenchtl no_4d5c609b:
 translate frenchtl no_76709b4d:
 
     # Rz annoyed "So, that makes you judge, jury and executioner. What a wonderful set of morals you have there, [player_name]."
-    Rz annoyed "Donc, te voilà juge, jury et bourreau. C'est des joli principes moraux que tu nous tiens là, [player_name]."
+    Rz annoyed "Donc, te voilà juge, juré et bourreau. C'est des joli principes moraux que tu nous tiens là, [player_name]."
 
 # game/chapter5evilending.rpy:625
 translate frenchtl no_2f5f018e:
@@ -1042,7 +1042,7 @@ translate frenchtl skiptut_4cbf1aa4:
 translate frenchtl skiptut_5e30f108:
 
     # s "{i}How is this different from just using the skip buttons like [[Ctrl] and [[Tab]?{/i}, you might ask."
-    s "Vous pourriez vous demander : {i}En quoi ça change de l'utilisation des boutons [[Ctrl] et [[Tab] pour skipper ?{/i}."
+    s "Vous pourriez vous demander : {i}En quoi ça change de l'utilisation des boutons [[Ctrl] et [[Tab] pour passer ?{/i}."
 
 # game/chapter5evilending.rpy:845
 translate frenchtl skiptut_a325d596:
@@ -1078,7 +1078,7 @@ translate frenchtl skiptut_21aa4b71:
 translate frenchtl skiptut_5496eeb1:
 
     # s "Jumping ahead will often skip minor choices that can be made, especially during character sections with lots of dialogue options. This can include parts that would unlock new achievements."
-    s "Sauter une scène complète fera l'impasse sur des choix mineurs que vous avez déjà fait, surtout pendant les rencontres avec les personnages où beaucoup d'options sont possibles. Icluant des options de dialogues pouvant déboucher sur des nouveaux succès."
+    s "Sauter une scène complète fera l'impasse sur des choix mineurs que vous avez déjà fait, surtout pendant les rencontres avec les personnages où beaucoup d'options sont possibles. Incluant des options de dialogues pouvant déboucher sur des nouveaux succès."
 
 # game/chapter5evilending.rpy:869
 translate frenchtl skiptut_2acb98f7:
