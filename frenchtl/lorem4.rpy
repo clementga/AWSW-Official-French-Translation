@@ -48,7 +48,7 @@ translate frenchtl lorem4_adbe5a02:
 translate frenchtl lorem4_7d9b9aaf:
 
     # Lo "And then I also wondered if I was going to remember everything I wanted to tell you... Or worse, if I’d get thrown out again like when I talked to Reza."
-    Lo "En plus je me demandais si j'allais me souvenir de tous ce que je voulais te dire ... Ou pire, si j'allais être encore jeté dehors comme quand j'ai parlé à Reza."
+    Lo "En plus je me demandais si j'allais me souvenir de tout ce que je voulais te dire ... Ou pire, si j'allais être encore jeté dehors comme quand j'ai parlé à Reza."
 
 # game/lorem4.rpy:54
 translate frenchtl lorem4_e0913d67:
@@ -60,7 +60,7 @@ translate frenchtl lorem4_e0913d67:
 translate frenchtl lorem4_a1cb3a80:
 
     # Lo think "Well, not really. He just took the letter I had for him and closed the door. But that was before you arrived here."
-    Lo think "Eh bien, pas vraiment. Il a juste pris la letre que j'avais pour lui et il a fermé la porte. Mais c'était avant que tu n'arrives ici."
+    Lo think "Eh bien, pas vraiment. Il a juste pris la lettre que j'avais pour lui et il a fermé la porte. Mais c'était avant que tu n'arrives ici."
 
 # game/lorem4.rpy:58
 translate frenchtl lorem4_d73246ba:
@@ -96,7 +96,7 @@ translate frenchtl lorem4_0a80d73c:
 translate frenchtl lorem4_da52ff80:
 
     # c "Yeah. Maybe you can help me find out if it's actually Ipsum's or not."
-    c "Ouais. Peut être que tu peux m'aider à découvrir si cela appartient vraiment à Ipsum ou pas."
+    c "Ouais. Peut-être que tu peux m'aider à découvrir si cela appartient vraiment à Ipsum ou pas."
 
 # game/lorem4.rpy:79
 translate frenchtl lorem4_8b3fe1d3:
@@ -114,7 +114,7 @@ translate frenchtl lorem4_bc2cd1a6:
 translate frenchtl lorem4_5f00dd91:
 
     # m "He turned the sphere a few times, then placed it on the base and plugged it in."
-    m "Il tourna la sphère plusieurs fois, puis la plaça sur la base et l'a brancha."
+    m "Il tourna la sphère plusieurs fois, puis la plaça sur la base et la brancha."
 
 # game/lorem4.rpy:102
 translate frenchtl _call_syscheck_29_c0d89991:
@@ -300,7 +300,7 @@ translate frenchtl _call_skipcheck_5_9d2d7e47:
 translate frenchtl _call_skipcheck_5_6e380ef9:
 
     # Lo sad "Still, he was supposed to be your partner in this. And now he's just... gone."
-    Lo sad "Pourtant, il était supposé être ton partenaire dans tous ça. Et maintenant il a juste... disparu."
+    Lo sad "Pourtant, il était supposé être ton partenaire dans tout ça. Et maintenant il a juste... disparu."
 
 # game/lorem4.rpy:276
 translate frenchtl _call_skipcheck_5_a88efb1f:
@@ -420,7 +420,7 @@ translate frenchtl _call_skipcheck_5_b0da2044:
 translate frenchtl _call_skipcheck_5_75d7b717:
 
     # Lo happy "It just seems a bit odd to me, considering this all started with me begging you to meet me so I could draw pictures of you."
-    Lo happy "C'est juste un peu étrange pour moi, considérant que tous ceci a commencé avec moi te suppliant de te rencontrer pour faire des dessins de toi."
+    Lo happy "C'est juste un peu étrange pour moi, considérant que tout ceci a commencé avec moi te suppliant de te rencontrer pour faire des dessins de toi."
 
 # game/lorem4.rpy:316
 translate frenchtl _call_skipcheck_5_a7384d0b:
@@ -504,7 +504,7 @@ translate frenchtl _call_skipcheck_5_f4975d28:
 translate frenchtl _call_skipcheck_5_96dfbcc0:
 
     # c "Maybe for good reason. If they can't even get the treasure hunt right, I don't want to know what they do to their pizzas."
-    c "Peut être pour une bonne raison. S'ils ne peuvent pas faire correctement une chasse au trésor, je ne sais pas ce qu'ils font de leurs pizzas."
+    c "Peut-être pour une bonne raison. S'ils ne peuvent pas faire correctement une chasse au trésor, je ne sais pas ce qu'ils font de leurs pizzas."
 
 # game/lorem4.rpy:344
 translate frenchtl _call_skipcheck_5_6f9d588a:
@@ -780,13 +780,13 @@ translate frenchtl lorem4adinestatusneutral_4d153ac1:
 translate frenchtl lorem4adinestatusneutral_34bd9812:
 
     # c "Maybe she just tried to make some small talk."
-    c "Peut être qu'elle voulait juste faire la conversation."
+    c "Peut-être qu'elle voulait juste faire la conversation."
 
 # game/lorem4.rpy:516
 translate frenchtl lorem4adinestatusneutral_dd3bcc01:
 
     # Lo normal "Maybe."
-    Lo normal "Peut être."
+    Lo normal "Peut-être."
 
 # game/lorem4.rpy:526
 translate frenchtl lorem4adinestatusneutral_e74b03de:
@@ -870,7 +870,7 @@ translate frenchtl lorem4adinestatusneutral_f89a7a5e:
 translate frenchtl lorem4adinestatusneutral_f75f526f:
 
     # Lo normal "With pizza, anything's a party."
-    Lo normal "Avec une pizza, tous peut être une fête."
+    Lo normal "Avec une pizza, tout peut-être une fête."
 
 # game/lorem4.rpy:555
 translate frenchtl lorem4adinestatusneutral_56b71121:
@@ -888,7 +888,7 @@ translate frenchtl lorem4adinestatusneutral_521bcbf7:
 translate frenchtl lorem4adinestatusneutral_108a2a4f:
 
     # m "I took one of the slices. On its surface, there was an obvious layer of grease that was sure to stain anything it came in contact with."
-    m "Je pris une des parts. Sur la surface, il y avait une couche de gras bien visible qui était certaine de tâcher tous ce que ça allait toucher."
+    m "Je pris une des parts. Sur la surface, il y avait une couche de gras bien visible qui était certaine de tâcher tout ce que ça allait toucher."
 
 # game/lorem4.rpy:567
 translate frenchtl lorem4adinestatusneutral_7791e2cf:
@@ -942,7 +942,7 @@ translate frenchtl lorem4adinestatusneutral_0024a139:
 translate frenchtl lorem4adinestatusneutral_64d473ae:
 
     # Lo "Maybe you just haven't had a good pizza to compare it to."
-    Lo "Peut être que tu n'as pas eu de bonne pizza pour comparer."
+    Lo "Peut-être que tu n'as pas eu de bonne pizza pour comparer."
 
 # game/lorem4.rpy:599
 translate frenchtl lorem4adinestatusneutral_2e37f2b6:
@@ -984,7 +984,7 @@ translate frenchtl lorem4adinestatusneutral_1bc47770:
 translate frenchtl lorem4adinestatusneutral_8b5881f5:
 
     # Lo think "Maybe I got in over my head, you know?"
-    Lo think "Peut être que j'en ai trop fait, tu vois ?"
+    Lo think "Peut-être que j'en ai trop fait, tu vois ?"
 
 # game/lorem4.rpy:613
 translate frenchtl lorem4adinestatusneutral_a0c2f669:
@@ -1050,7 +1050,7 @@ translate frenchtl lorem4adinestatusneutral_09c3b87a:
 translate frenchtl lorem4adinestatusneutral_47a8d321:
 
     # Lo "Yeah, it's all fun and games when you're just thinking about ideas that you could turn into a game, but once you actually start working on it, it's a completely different story."
-    Lo "Ouais, c'est une génial et amusant de juste penser aux idées qui pourrait faire un jeu, mais une fois qu'on commence à travailler dessus, c'est une histoire complétement différente."
+    Lo "Ouais, c'est génial et amusant de juste penser aux idées qui pourraientt faire un jeu, mais une fois qu'on commence à travailler dessus, c'est une histoire complétement différente."
 
 # game/lorem4.rpy:635
 translate frenchtl lorem4adinestatusneutral_04469e93:
@@ -1080,7 +1080,7 @@ translate frenchtl lorem4adinestatusneutral_cedc62a4:
 translate frenchtl lorem4adinestatusneutral_a71cc696:
 
     # Lo think "Well, maybe I was wrong about that. I do have something to lose."
-    Lo think "Et bien, Peut être j'avais tord sur ça. J'ai quelque chose à perdre."
+    Lo think "Et bien, Peut-être j'avais tord sur ça. J'ai quelque chose à perdre."
 
 # game/lorem4.rpy:645
 translate frenchtl lorem4adinestatusneutral_df72d121:
@@ -1134,7 +1134,7 @@ translate frenchtl lorem4adinestatusneutral_0ff54503:
 translate frenchtl lorem4adinestatusneutral_170e7329:
 
     # c "But you're not doing this for other people, are you? It's your game and your idea, after all."
-    c "Mais tu ne fais pas ça pour les autres, n'est-ce pas ? C'est ton jeu et tes idées après tous."
+    c "Mais tu ne fais pas ça pour les autres, n'est-ce pas ? C'est ton jeu et tes idées après tout."
 
 # game/lorem4.rpy:663
 translate frenchtl lorem4adinestatusneutral_a4ba009a:
@@ -1164,13 +1164,13 @@ translate frenchtl lorem4adinestatusneutral_01e28b23:
 translate frenchtl lorem4adinestatusneutral_d1235cc6:
 
     # c "Why do you think their pizza sucks?"
-    c "Pourquoi penses-tu que leurs pizza sont nazes ?"
+    c "Pourquoi penses-tu que leurs pizzas sont nazes ?"
 
 # game/lorem4.rpy:673
 translate frenchtl lorem4adinestatusneutral_8a159d08:
 
     # Lo relieved "They probably cut a lot of corners during production and with the ingredients. They value quantity over quality and are only trying to get as many pizzas out as possible to satisfy demand."
-    Lo relieved "Ils économisent probablement beaucoup lors de la production ainsi qu'avec les ingrédients. Ils priment sur la quantié par dessus la qualité et essayent d'avoir le plus de pizza possible pour satisfaire la demande."
+    Lo relieved "Ils économisent probablement beaucoup lors de la production ainsi qu'avec les ingrédients. Ils priment sur la quantité par dessus la qualité et essayent d'avoir le plus de pizza possible pour satisfaire la demande."
 
 # game/lorem4.rpy:675
 translate frenchtl lorem4adinestatusneutral_993b8f13:
@@ -1182,13 +1182,13 @@ translate frenchtl lorem4adinestatusneutral_993b8f13:
 translate frenchtl lorem4adinestatusneutral_ae5ead6d:
 
     # c "Okay, but they are still in business, so this must be working out for them somehow. Even if you don't like it, they are offering something other people clearly want."
-    c "D'accord, mais ils sont toujours dans le business, donc ça doit marcher pour eux quelques part. Même si tu n'aimes pas, ils offrent quelque chose que les gens veulent."
+    c "D'accord, mais ils sont toujours dans le business, donc ça doit marcher pour eux quelque part. Même si tu n'aimes pas, ils offrent quelque chose que les gens veulent."
 
 # game/lorem4.rpy:679
 translate frenchtl lorem4adinestatusneutral_4db9b318:
 
     # c "They probably don't give a damn about whether or not you like their pizza."
-    c "Ils s'en fiche probablement que tu aimes ou pas leurs pizza."
+    c "Ils s'en fichent probablement que tu aimes ou pas leurs pizzas."
 
 # game/lorem4.rpy:681
 translate frenchtl lorem4adinestatusneutral_4504a0ff:
@@ -1230,7 +1230,7 @@ translate frenchtl lorem4adinestatusneutral_a8f59156:
 translate frenchtl lorem4adinestatusneutral_ee5579dd:
 
     # c "So what if other people like their greasy pizzas? That's not what you want to do."
-    c "Donc, si les autres aime leurs pizza grasse ? Toi, ce n'est pas ce que tu veux."
+    c "Donc, si les autres aiment leurs pizzas grasses ? Toi, ce n'est pas ce que tu veux."
 
 # game/lorem4.rpy:695
 translate frenchtl lorem4adinestatusneutral_5352c107:
@@ -1272,7 +1272,7 @@ translate frenchtl lorem4adinestatusneutral_25de2d5c:
 translate frenchtl lorem4adinestatusneutral_bcf52315:
 
     # c "Who knows, maybe you're wrong about Pantoli's. Maybe they're actually a big family restaurant with a rich tradition and history, and that's why people like them."
-    c "Qui sait, peut être que tu as tord pour Pantoli. Peut être qu'ils sont actuellement une grande famille de restorateurs avec de riche traditions et une histoire, et c'est pour ça que les gens les apprécient."
+    c "Qui sait, peut-être que tu as tord pour Pantoli. Peut-être qu'ils sont actuellement une grande famille de restorateurs avec de riche traditions et une histoire, et c'est pour ça que les gens les apprécient."
 
 # game/lorem4.rpy:709
 translate frenchtl lorem4adinestatusneutral_0cd53314:
@@ -1314,7 +1314,7 @@ translate frenchtl lorem4adinestatusneutral_9c3653dd:
 translate frenchtl lorem4adinestatusneutral_e1e34a8d:
 
     # Lo "Maybe I should rephrase that. People are afraid of what they don't understand."
-    Lo "Peut être que je devrais refaire ma phrase. Les gens ont peur de ce qu'ils ne comprennent pas."
+    Lo "Peut-être que je devrais refaire ma phrase. Les gens ont peur de ce qu'ils ne comprennent pas."
 
 # game/lorem4.rpy:723
 translate frenchtl lorem4adinestatusneutral_eb9d99fe:
@@ -1326,13 +1326,13 @@ translate frenchtl lorem4adinestatusneutral_eb9d99fe:
 translate frenchtl lorem4adinestatusneutral_32bee7f8:
 
     # Lo "You know, it can be pretty tough when you're growing up and all the other kids are always bigger than you are."
-    Lo "Tu sais, ça peut être assez rude quand tu grandis et que tous les autres enfants sont toujours plus grand que toi."
+    Lo "Tu sais, ça peut-être assez rude quand tu grandis et que tout les autres enfants sont toujours plus grand que toi."
 
 # game/lorem4.rpy:727
 translate frenchtl lorem4adinestatusneutral_fb1271d4:
 
     # Lo think "Luckily, that was never a big problem for me. Even in kindergarten, we get told not to make fun of our differences because of how different our species are."
-    Lo think "Heureusement, ça n'a jamais été un gros problème pour moi. Même en primaire, ou nous a toujours dit de ne jamais se moquer de nos différences entre les espèces."
+    Lo think "Heureusement, ça n'a jamais été un gros problème pour moi. Même en primaire, on nous a toujours dit de ne jamais se moquer de nos différences entre les espèces."
 
 # game/lorem4.rpy:729
 translate frenchtl lorem4adinestatusneutral_60496819:
@@ -1350,7 +1350,7 @@ translate frenchtl lorem4adinestatusneutral_e3ce680e:
 translate frenchtl lorem4adinestatusneutral_b79f7fe0:
 
     # Lo sad "Their bodies may have been those of adults, but their hearts had stayed in the same place they were a decade before."
-    Lo sad "Leurs corps étaient peut être ceux d'adultes, mais leurs coeurs étaient restés les mêmes qu'une décénnie avant."
+    Lo sad "Leurs corps étaient peut-être ceux d'adultes, mais leurs coeurs étaient restés les mêmes qu'une décénnie avant."
 
 # game/lorem4.rpy:735
 translate frenchtl lorem4adinestatusneutral_f80ec99e:
@@ -1482,7 +1482,7 @@ translate frenchtl lorem4skip_f93907f9:
 translate frenchtl lorem4skip_767269c0:
 
     # Lo "Maybe the next person I tell is going to become violent."
-    Lo "Peut être que la prochaine personne à qui je vais le dire deviendra violente."
+    Lo "Peut-être que la prochaine personne à qui je vais le dire deviendra violente."
 
 # game/lorem4.rpy:789
 translate frenchtl lorem4skip_0cfacc55:
@@ -1506,7 +1506,7 @@ translate frenchtl lorem4skip_423de07c:
 translate frenchtl lorem4skip_3e42659b:
 
     # Lo relieved "I only wish there was a place where I could be safe from all of that. Where it just wouldn't matter that this is who I am."
-    Lo relieved "Je souhaite simplement qu'il y ai une place où je serais protégé de tous ça. Où ce que je suis n'aurait pas d'importance."
+    Lo relieved "Je souhaite simplement qu'il y ai une place où je serais protégé de tout ça. Où ce que je suis n'aurait pas d'importance."
 
 # game/lorem4.rpy:797
 translate frenchtl lorem4skip_af38b6f4_1:
@@ -1518,7 +1518,7 @@ translate frenchtl lorem4skip_af38b6f4_1:
 translate frenchtl lorem4skip_31665aab:
 
     # Lo "If someone like you - someone with a place of authority - said something, maybe that could change things."
-    Lo "Si quelqu'un comme toi - quelqu'un de haut placé - dit quelque chose, peut être que les choses changeront."
+    Lo "Si quelqu'un comme toi - quelqu'un de haut placé - dit quelque chose, peut-être que les choses changeront."
 
 # game/lorem4.rpy:801
 translate frenchtl lorem4skip_b47f4c44:
@@ -1530,13 +1530,13 @@ translate frenchtl lorem4skip_b47f4c44:
 translate frenchtl lorem4skip_b3b9f65a:
 
     # Lo "Doesn't mean I don't have hope that something like that will happen one day."
-    Lo "Ca ne veut pas dire que je n'ai pas espoir que quelque chose comme ça arrive un jour."
+    Lo "Ça ne veut pas dire que je n'ai pas espoir que quelque chose comme ça arrive un jour."
 
 # game/lorem4.rpy:815
 translate frenchtl lorem4skip_aa18fae8:
 
     # Lo relieved "That already tells me all I need to know."
-    Lo relieved "Ca me dit déjà tous ce que je voulais savoir."
+    Lo relieved "Ça me dit déjà tout ce que je voulais savoir."
 
 # game/lorem4.rpy:817
 translate frenchtl lorem4skip_2bddfd6e:
@@ -1572,7 +1572,7 @@ translate frenchtl lorem4skip_82094453_1:
 translate frenchtl lorem4skip_767269c0_1:
 
     # Lo "Maybe the next person I tell is going to become violent."
-    Lo "Peut être que la prochaine personne à qui je vais le dire deviendra violente."
+    Lo "Peut-être que la prochaine personne à qui je vais le dire deviendra violente."
 
 # game/lorem4.rpy:829
 translate frenchtl lorem4skip_1a5c5f16:
@@ -1602,7 +1602,7 @@ translate frenchtl lorem4skip_423de07c_1:
 translate frenchtl lorem4skip_3e42659b_1:
 
     # Lo relieved "I only wish there was a place where I could be safe from all of that. Where it just wouldn't matter that this is who I am."
-    Lo relieved "Je souhaite simplement qu'il y ait une place où je serais protégé de tous ça. Où ce que je suis n'aurait pas d'importance."
+    Lo relieved "Je souhaite simplement qu'il y ait une place où je serais protégé de tout ça. Où ce que je suis n'aurait pas d'importance."
 
 # game/lorem4.rpy:839
 translate frenchtl lorem4skip_af38b6f4_2:
@@ -1614,7 +1614,7 @@ translate frenchtl lorem4skip_af38b6f4_2:
 translate frenchtl lorem4skip_50fe650e:
 
     # Lo relieved "If someone like you - someone with a place of authority - said something, maybe that could change things."
-    Lo relieved "Si quelqu'un comme toi - quelqu'un de haut placé - dit quelque chose, peut être que les choses changerons."
+    Lo relieved "Si quelqu'un comme toi - quelqu'un de haut placé - dit quelque chose, peut-être que les choses changerons."
 
 # game/lorem4.rpy:843
 translate frenchtl lorem4skip_b47f4c44_1:
@@ -1680,7 +1680,7 @@ translate frenchtl lorem4skip_097c2495:
 translate frenchtl lorem4skip_552c0ab6:
 
     # Lo "I don't blame you. After all, I have no idea what they think about people like me in your world."
-    Lo "Je ne t'en veux pas. Après tous, je n'ai aucune idée de ce que les gens de ton monde pense des personnes comme moi."
+    Lo "Je ne t'en veux pas. Après tout, je n'ai aucune idée de ce que les gens de ton monde pense des personnes comme moi."
 
 # game/lorem4.rpy:902
 translate frenchtl lorem4skip_c60c6c11:
@@ -1698,7 +1698,7 @@ translate frenchtl lorem4skip_955a26d6:
 translate frenchtl lorem4skip_71840278:
 
     # Lo relieved "If I hadn't said anything, maybe we could have met a few more times – maybe everything would have been fine."
-    Lo relieved "Si je n'avais rien dit, peut être que nous aurions pu nous rencontrer quelques fois de plus - peut être que tout se serait bien passé."
+    Lo relieved "Si je n'avais rien dit, peut-être que nous aurions pu nous rencontrer quelques fois de plus - peut-être que tout se serait bien passé."
 
 # game/lorem4.rpy:908
 translate frenchtl lorem4skip_6dccd6cc:
@@ -1728,7 +1728,7 @@ translate frenchtl lorem4skip_d19f855d:
 translate frenchtl lorem4skip_79bc58fa:
 
     # Lo "Maybe it was wrong of me to ever think that I could be your friend."
-    Lo "Peut être que j'ai eu tort de penser qu'on aurait pu être amis."
+    Lo "Peut-être que j'ai eu tort de penser qu'on aurait pu être amis."
 
 # game/lorem4.rpy:918
 translate frenchtl lorem4skip_2f6263cf:
@@ -1770,13 +1770,13 @@ translate frenchtl lorem4skip_60d371a6:
 translate frenchtl lorem4skip_6e7485a7:
 
     # Lo "You told me not to worry about the future, and maybe you're right."
-    Lo "Tu m'as dit de pas m'en faire pour le futur, et peut être que tu as raison."
+    Lo "Tu m'as dit de pas m'en faire pour le futur, et peut-être que tu as raison."
 
 # game/lorem4.rpy:964
 translate frenchtl lorem4skip_d95cacda:
 
     # Lo "Sure, there is still a lot of work ahead, but maybe it's not as hopeless as I thought."
-    Lo "Bien sûr, il reste beaucoup de travail à faire, mais peut être que ça n'est pas aussi désespéré que je le pensais."
+    Lo "Bien sûr, il reste beaucoup de travail à faire, mais peut-être que ça n'est pas aussi désespéré que je le pensais."
 
 # game/lorem4.rpy:966
 translate frenchtl lorem4skip_24b2a863:
@@ -1806,7 +1806,7 @@ translate frenchtl lorem4skip_a185d400:
 translate frenchtl lorem4skip_8b7ba330:
 
     # c "I'll do that."
-    c "Ca marche."
+    c "Ça marche."
 
 # game/lorem4.rpy:976
 translate frenchtl lorem4skip_1bcef64c:
