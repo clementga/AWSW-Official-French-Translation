@@ -42,7 +42,7 @@ translate frenchtl lorem5_ed892e4e:
 translate frenchtl lorem5_fb2eb8b5:
 
     # m "After a few minutes of walking, I arrived at a rather empty looking area near the edge of town."
-    m "Après quelques minutes de marche, j'arrivai a une zone plutôt isolé aux abords de la ville."
+    m "Après quelques minutes de marche, j'arrivai a une zone plutôt isolée aux abords de la ville."
 
 # game/lorem5.rpy:46
 translate frenchtl lorem5_ab03b487:
@@ -60,7 +60,7 @@ translate frenchtl lorem5_18d0dd63:
 translate frenchtl lorem5_3f0150c8:
 
     # c "You were right. This will be much better than mingling with the crowds. I can do without all the extra noise and screaming."
-    c "Tu avais raison. Ca sera beaucoup mieux que de se mélanger avec la foule. Je me sens mieux sans les bruits et les cris."
+    c "Tu avais raison. Ça sera beaucoup mieux que de se mélanger avec la foule. Je me sens mieux sans les bruits et les cris."
 
 # game/lorem5.rpy:52
 translate frenchtl lorem5_2899058b:
@@ -78,7 +78,7 @@ translate frenchtl lorem5_103f262c:
 translate frenchtl lorem5_b5801129:
 
     # c "You know, I had some time to think things over. When you first told me, that came as a shock - but now, I don't think it's that big of a deal anymore. At least, it's not enough to just ignore everything else that's happened."
-    c "Tu sais, j'ai eu un peu de temps pour y penser. Quand tu me l'as dit, c'était comme un choc - mais maintenant, je ne pense plus que ce soit un problème. Enfin, ce n'est pas assez pour juste ignorer tous ce qui s'était passé."
+    c "Tu sais, j'ai eu un peu de temps pour y penser. Quand tu me l'as dit, c'était comme un choc - mais maintenant, je ne pense plus que ce soit un problème. Enfin, ce n'est pas assez pour juste ignorer tout ce qui s'était passé."
 
 # game/lorem5.rpy:60
 translate frenchtl lorem5_bcd2eec3:
@@ -108,7 +108,7 @@ translate frenchtl lorem5_60d1c2b6:
 translate frenchtl lorem5_717d1828:
 
     # c "Oh, I also brought Ipsum's sphere. Maybe it can finally find its way home."
-    c "Oh, j'ai aussi pris la sphère d'Ipsum. Peut être que tu pourras la ramener chez toi."
+    c "Oh, j'ai aussi pris la sphère d'Ipsum. Peut-être que tu pourras la ramener chez toi."
 
 # game/lorem5.rpy:73
 translate frenchtl lorem5_fa30b21e:
@@ -204,7 +204,7 @@ translate frenchtl lorem5_c4b15f29:
 translate frenchtl lorem5_6bc14ac6:
 
     # Lo relieved "We? What do you think I can do? He's twice as big as I am, and let's not forget about his weapon."
-    Lo relieved "Nous ? Que crois-tu que je puisse faire? Il est deux fois plus grand que moi, et sans oublier pas son arme."
+    Lo relieved "Nous ? Que crois-tu que je puisse faire? Il est deux fois plus grand que moi, et sans oublier son arme."
 
 # game/lorem5.rpy:123
 translate frenchtl lorem5_0efb5710:
@@ -240,7 +240,7 @@ translate frenchtl lorem5_cb55842b:
 translate frenchtl lorem5_62b8077a:
 
     # Lo "It might not help you much, but if something goes wrong, just throw it at him."
-    Lo "Ca ne devrait pas beaucoup t'aider, mais si quelque chose ne va pas, jettes la lui dessus."
+    Lo "Ça ne devrait pas beaucoup t'aider, mais si quelque chose ne va pas, jettes la lui dessus."
 
 # game/lorem5.rpy:146
 translate frenchtl lorem5_86148265:
@@ -444,7 +444,7 @@ translate frenchtl loremgoodending2_9610c2a8:
 translate frenchtl loremgoodending2_380692ef:
 
     # Rz angry "Why can't I use it then? And what happened to the coordinates?"
-    Rz angry "Pourquoi je ne peut pas l'utiliser alors ? Et que sont devenues les coordonnés ?"
+    Rz angry "Pourquoi je ne peux pas l'utiliser alors ? Et que sont devenues les coordonnés ?"
 
 # game/lorem5.rpy:392
 translate frenchtl loremgoodending2_6a82f08b:
@@ -522,7 +522,7 @@ translate frenchtl loremgoodending2_92ed25e4:
 translate frenchtl loremgoodending2_e4f2c00a:
 
     # Rz "That's what I've been asking myself. It doesn't make any sense."
-    Rz "C'est ce que je me suis demandé. Ca n'a aucun sens."
+    Rz "C'est ce que je me suis demandé. Ça n'a aucun sens."
 
 # game/lorem5.rpy:420
 translate frenchtl loremgoodending2_f7380a92:
@@ -852,7 +852,7 @@ translate frenchtl loremgoodending3_e090932e:
 translate frenchtl loremgoodending3_c70bec44:
 
     # Rz angry flip "You're supposed to be dead."
-    Rz angry flip "Tu es supposé d'être morte."
+    Rz angry flip "Tu es supposée être morte."
 
 # game/lorem5.rpy:964
 translate frenchtl loremgoodending3_281fae35:
@@ -876,7 +876,7 @@ translate frenchtl loremgoodending3_b3ddbc17:
 translate frenchtl loremgoodending3_60bbd535:
 
     # Iz "Good job, [player_name]."
-    Iz "Bon travail, [payer_name]."
+    Iz "Bon travail, [player_name]."
 
 # game/lorem5.rpy:996
 translate frenchtl loremgoodending3_953de383:
