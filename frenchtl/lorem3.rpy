@@ -180,7 +180,7 @@ translate frenchtl _call_skipcheck_13_82ed911f:
 translate frenchtl _call_skipcheck_13_8fb7ccf0:
 
     # Lo normal "Not quite yet. Everyone's on summer break right now."
-    Lo normal "Pas exactement. Tous le monde est en vacances d'été en ce moment."
+    Lo normal "Pas exactement. Tout le monde est en vacances d'été en ce moment."
 
 # game/lorem3.rpy:201
 translate frenchtl _call_skipcheck_13_687a0206:
@@ -204,7 +204,7 @@ translate frenchtl _call_skipcheck_13_48f4b01a:
 translate frenchtl _call_skipcheck_13_c69fb81e:
 
     # c "In general. I'd like to know more about how your school system works as a whole."
-    c "En général. J'aimerais en savoir un peu plus à propos de comment vos école fonctionne en globalité."
+    c "En général. J'aimerais en savoir un peu plus à propos de comment vos écoles fonctionnent en globalité."
 
 # game/lorem3.rpy:209
 translate frenchtl _call_skipcheck_13_6caf900a:
@@ -228,7 +228,7 @@ translate frenchtl _call_skipcheck_13_22715c5a:
 translate frenchtl _call_skipcheck_13_c48dc32f:
 
     # c "Sure."
-    c "Sûr."
+    c "Bien sûr."
 
 # game/lorem3.rpy:217
 translate frenchtl _call_skipcheck_13_be958b38:
@@ -432,7 +432,7 @@ translate frenchtl lorem3searchmenu_ee83d434:
 translate frenchtl lorem3searchmenu_18cb7971:
 
     # c "You can fly, right?"
-    c "Tu peut voler, n'est-ce pas ?"
+    c "Tu peux voler, n'est-ce pas ?"
 
 # game/lorem3.rpy:310
 translate frenchtl lorem3searchmenu_8989f5b7:
@@ -744,7 +744,7 @@ translate frenchtl lorem3searchmenu_bc1ff44b:
 translate frenchtl lorem3searchmenu_333bbf08:
 
     # Lo "I have no idea what you're talking about. These walls don't really look special to me."
-    Lo "Je n'ai pas la moindre idée de ce que tu veux dire. Ses murs ne semble avoir rien de spécial pour moi."
+    Lo "Je n'ai pas la moindre idée de ce que tu veux dire. Ces murs ne semble avoir rien de spécial pour moi."
 
 # game/lorem3.rpy:458
 translate frenchtl lorem3searchmenu_a9857d00:
@@ -918,7 +918,7 @@ translate frenchtl lorem3searchmenu_aef32d88:
 translate frenchtl lorem3searchmenu_10dc0ccf:
 
     # Lo think "Let's hope we find it before it gets too dark, though - or things might become a lot more complicated."
-    Lo think "Espérons alors que nous le trouverons avant qu'ils ne fassent trop sombre - ou les choses pourraient devenir beaucoup plus compliquées."
+    Lo think "Espérons alors que nous le trouverons avant qu'il ne fasse trop sombre - ou les choses pourraient devenir beaucoup plus compliquées."
 
 # game/lorem3.rpy:534
 translate frenchtl lorem3searchmenu_89305cb2:
@@ -1230,7 +1230,7 @@ translate frenchtl lorem3searchmenu_b2ffb4a3:
 translate frenchtl lorem3searchmenu_8244b24f:
 
     # Lo normal "And lastly, there is the third part I just talked about. The one that stands above all of you and unites you in some way. Let's call this your {i}higher self{/i}."
-    Lo normal "Et pour finir, voici la troisième partie dont je te parlais. La partie qui surpasse tous les autres toi et qui vous'unit d'une certaine façon. Appelons cela ton {i}toi supérieur{/i}"
+    Lo normal "Et pour finir, voici la troisième partie dont je te parlais. La partie qui surpasse tous les autres toi et qui vous unit d'une certaine façon. Appelons cela ton {i}toi supérieur{/i}"
 
 # game/lorem3.rpy:662
 translate frenchtl lorem3searchmenu_37375033:
@@ -1740,7 +1740,7 @@ translate frenchtl lorem3searchmenu_57f57b83:
 translate frenchtl lorem3searchmenu_e0086486:
 
     # m "I breathed in deeply, crouched down and began looking underwater as well."
-    m "Je inspirais profondément, accroupi et commençais à regarder sous l'eau aussi."
+    m "J'inspirais profondément, accroupi et commençais à regarder sous l'eau aussi."
 
 # game/lorem3.rpy:910
 translate frenchtl lorem3searchmenu_467351bb:
@@ -1806,7 +1806,7 @@ translate frenchtl lorem3searchmenu_60825bcc:
 translate frenchtl lorem3searchmenu_0eb8bb28:
 
     # c "What just happened?"
-    c "Que s'est t'il passé ?"
+    c "Que s'est-il passé ?"
 
 # game/lorem3.rpy:957
 translate frenchtl lorem3searchmenu_5766f6f2:
@@ -2104,7 +2104,7 @@ translate frenchtl strings:
 
     # lorem3.rpy:156
     old "What about ourselves?"
-    new "Qu'en est t'il de nous ?"
+    new "Qu'en est-il de nous ?"
 
     # lorem3.rpy:237
     old "Math."
