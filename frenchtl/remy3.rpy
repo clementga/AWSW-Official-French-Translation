@@ -52,7 +52,7 @@ translate frenchtltl _call_skipcheck_24_79362d3c:
 translate frenchtltl _call_skipcheck_24_8f7dccd7:
 
     # Ry "I enjoy Tatsu Park is all. Have you been here before?"
-    Ry "J'apprécie le parc Tatsu, c'est tout. Es-tu déjà allé ici auparavant ?"
+    Ry "J'apprécie le parc Tatsu, c'est tout. Es-tu déjà venu ici auparavant ?"
 
 # game/remy3.rpy:128
 translate frenchtltl _call_skipcheck_24_07d1113d:
@@ -226,6 +226,7 @@ translate frenchtltl _call_skipcheck_24_a55f68f8:
 translate frenchtltl _call_skipcheck_24_d5604b17:
 
     # n "In this way, we offered a variety of comprehensive opinions on difficult topics. We found the truth, and allowed people and politicians to make up their minds from there. Our work was a key influence in the community, and because the conclusions of each individual member were often very different, it could never be said that we were biased."
+    nvl clear
     n "De cette façon, nous offriions un panel d'opinions compréhensibles sur des sujets difficiles. On trouvait la réponse, et permettions aux gens et aux politiciens de se faire leur idée. Notre travail avait une influence majeure au sein de la communauté, et parce que les conclusions de chaque membre étaient souvent différentes, on ne pouvait dire que nous étions biaisés."
 
 # game/remy3.rpy:255
@@ -430,7 +431,7 @@ translate frenchtltl _call_skipcheck_24_ee27ef00:
 translate frenchtltl _call_skipcheck_24_cf9bdce1:
 
     # Ry "Even my home is a reminder of her. We were going to move in to that apartment together."
-    Ry "Même chez moi me fait penser à elle. Nous allions emménager dans cet appartement ensemble."
+    Ry "Même mon chez moi me fait penser à elle. Nous allions emménager dans cet appartement ensemble."
 
 # game/remy3.rpy:340
 translate frenchtltl _call_skipcheck_24_e2debe6f:
@@ -472,7 +473,7 @@ translate frenchtltl _call_skipcheck_24_1d07de92:
 translate frenchtltl _call_skipcheck_24_9a64222c:
 
     # Ry shy "Some days, I just don't want to do it anymore. I don't know how much longer I can."
-    Ry shy "Certains jours, je n'ai plus envie de lutter. Je ne sais pas encore combien de temps je vais le pouvoir."
+    Ry shy "Certains jours, je n'ai plus envie de lutter. Je ne sais pas encore combien de temps je vais pouvoir continuer."
 
 # game/remy3.rpy:362
 translate frenchtltl remy3skip1_ea0c63fd:
@@ -1144,7 +1145,7 @@ translate frenchtltl _call_skipcheck_25_6c97725b:
 translate frenchtltl _call_skipcheck_25_ae852ba3:
 
     # Ry "It is a consequence, not necessarily a punishment. Our society at large benefits more from people who are rehabilitated, and if mental issues are the cause, those can at least be found and addressed."
-    Ry "C'est une conséquence, pas nécessairement une punition. Notre société dans son ensemble tire plus de d'avantages des personnes réhabilitées, et si des troubles mentaux en sont la cause, ceux-là peuvent aux moins être trouvés et adressés."
+    Ry "C'est une conséquence, pas nécessairement une punition. Notre société dans son ensemble tire plus d'avantages des personnes réhabilitées, et si des troubles mentaux en sont la cause, ceux-là peuvent aux moins être trouvés et abordés."
 
 # game/remy3.rpy:772
 translate frenchtltl _call_skipcheck_25_7de3b069:
