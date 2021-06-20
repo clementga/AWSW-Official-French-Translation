@@ -1625,7 +1625,7 @@ translate frenchtltl _call_skipcheck_25_af6e8494:
 translate frenchtltl _call_skipcheck_25_79b7f4a7:
 
     # Ry "If I was just your entertainment, that's alright. That's what people do to me. They watch and laugh, in secret or otherwise."
-    Ry "Si j'étais juste là pour t'amuser, c'est correct. C'est ce que les gens font avec moi. Il me regarde et rient, en secret ou non."
+    Ry "Si j'étais juste là pour t'amuser, c'est correct. C'est ce que les gens font avec moi. Ils me regardent et rient, en secret ou non."
 
 # game/remy3.rpy:994
 translate frenchtltl _call_skipcheck_25_66b6925f:
