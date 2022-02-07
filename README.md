@@ -20,7 +20,7 @@ help ✔✔✔<br/>
 images ✔✔✔<br/>
 script ✔✔✔<br/>
 chapter1 ✔✔<br/>
-adine1 ✔✔<br/>
+adine1 ✔✔✔<br/>
 lorem1 ✔✔<br/>
 anna1 ✔✔<br/>
 bryce1 ✔✔<br/>
