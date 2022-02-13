@@ -24,7 +24,6 @@ adine1 ✔✔✔<br/>
 lorem1 ✔✔<br/>
 anna1 ✔✔<br/>
 bryce1 ✔✔<br/>
-lorem1 ✔✔<br/>
 remy1 ✔✔<br/>
 xsebastian ✔✔<br/>
 <i>endings (était utilisé dans la demo de AWSW, et peut donc être ignoré)<i/><br/>
