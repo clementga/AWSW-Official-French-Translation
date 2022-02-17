@@ -6,7 +6,7 @@
 translate frenchtl adine2_f2a6a6f3:
 
     # c "(This should be the right address.)"
-    c "﻿(Ça doit être la bonne adresse.)"
+    c "(Ça doit être la bonne adresse.)"
 
 # game/adine2.rpy:37
 translate frenchtl adine2_3d308349:
@@ -120,7 +120,7 @@ translate frenchtl _call_skipcheck_23_0054b77b:
 translate frenchtl _call_skipcheck_23_3f15710f:
 
     # c "(So this is where you live, Adine. Small, but cozy.)"
-    c "(Alors c'est ici que tu vis, Adine. A l'étroit, mais comfortable.)"
+    c "(Alors c'est ici que tu vis, Adine. A l'étroit, mais confortable.)"
 
 # game/adine2.rpy:197
 translate frenchtl _call_skipcheck_23_70ef8dbe:
@@ -168,7 +168,7 @@ translate frenchtl _call_skipcheck_23_4d017343:
 translate frenchtl _call_skipcheck_23_1e03cd34:
 
     # c "So, what exactly is it that you do at the orphanage?"
-    c "Alors, que fait tu exactement dans l'orphelinat ?"
+    c "Alors, que fais-tu exactement dans l'orphelinat ?"
 
 # game/adine2.rpy:213
 translate frenchtl _call_skipcheck_23_a459ddc5:
@@ -186,13 +186,13 @@ translate frenchtl _call_skipcheck_23_48373b94:
 translate frenchtl _call_skipcheck_23_fccb16e7:
 
     # Ad think b "I guess you could almost call it babysitting, but for the kids, we basically become foster parents."
-    Ad think b "J'imagine que tu pourrais presque appeler ça du babysitting, mais pour les petits, ont devient pratiquement des parents adoptifs."
+    Ad think b "J'imagine que tu pourrais presque appeler ça du babysitting, mais pour les petits, on devient pratiquement des parents adoptifs."
 
 # game/adine2.rpy:219
 translate frenchtl _call_skipcheck_23_9c327c5e:
 
     # Ad disappoint b "The older they get, the less likely they are to be adopted. She might be too old to be considered soon..."
-    Ad disappoint b "Plus ils vieillissent, moins ils ont de chance d'être adoptés. Elle pourrait bientôt être trop âgé pour être considéré..."
+    Ad disappoint b "Plus ils vieillissent, moins ils ont de chance d'être adoptés. Elle pourrait bientôt être trop âgée pour être considéré..."
 
 # game/adine2.rpy:225
 translate frenchtl _call_skipcheck_23_08610c21:
@@ -204,7 +204,7 @@ translate frenchtl _call_skipcheck_23_08610c21:
 translate frenchtl _call_skipcheck_23_635be7ee:
 
     # Ad think b "What do you mean?"
-    Ad think b "Que veux tu dire ?"
+    Ad think b "Que veux-tu dire ?"
 
 # game/adine2.rpy:234
 translate frenchtl _call_skipcheck_23_10c192ff:
@@ -258,7 +258,7 @@ translate frenchtl _call_skipcheck_23_8416514a:
 translate frenchtl _call_skipcheck_23_5ec1c392:
 
     # Ad "I'd adopt her myself, but I don't think I could care for her properly. Not as a single parent with my packed work schedule."
-    Ad "je l'adopterais bien moi même, mais je ne pense pas pouvoir m'occuper d'elle décemment. Pas en tant que parent unique avec mes horaires de travail denses comme elles sont."
+    Ad "Je l'adopterais bien moi-même, mais je ne pense pas pouvoir m'occuper d'elle décemment. Pas en tant que parent unique avec mes horaires de travail denses comme elles sont."
 
 # game/adine2.rpy:257
 translate frenchtl _call_skipcheck_23_434e0470:
@@ -270,25 +270,25 @@ translate frenchtl _call_skipcheck_23_434e0470:
 translate frenchtl _call_skipcheck_23_8793cbdb:
 
     # Ad annoyed b "It's called empathy. Maybe you should try it sometime."
-    Ad annoyed b "Ca s'appelle de l'empathie. Peut-être que tu devrais essayer ça un jour."
+    Ad annoyed b "Ça s'appelle de l'empathie. Peut-être que tu devrais essayer cela un jour."
 
 # game/adine2.rpy:275
 translate frenchtl _call_skipcheck_23_5fd0cd43:
 
     # Ad normal b "Thanks, but for me, it's not about being nice. I almost feel obligated to help, you know?"
-    Ad normal b "Merci, mais pour moi, Il ne s'agit pas de gentillesse. Je me sens presque obligé d'aider, tu sais?"
+    Ad normal b "Merci, mais pour moi, il ne s'agit pas de gentillesse. Je me sens presque obligé d'aider, tu sais ?"
 
 # game/adine2.rpy:283
 translate frenchtl _call_skipcheck_23_8b2336e5:
 
     # Ad "Maybe, maybe not. The only thing I know for certain is that they could use all the help they can get."
-    Ad "Peut être, peut être pas. La seule chose que je sais pour sûr est qu'ils ont besoin de toute l'aide dont ils peuvent bénéficier."
+    Ad "Peut-être, peut-être pas. La seule chose que je sais pour sûr est qu'ils ont besoin de toute l'aide dont ils peuvent bénéficier."
 
 # game/adine2.rpy:285
 translate frenchtl _call_skipcheck_23_d975be1b:
 
     # Ad "Anyway, let's talk about something less depressing."
-    Ad "Enfin bref, parlons de quelque chose de moins déprimant."
+    Ad "Enfin bref, parlons de quelque chose de moins déprimants."
 
 # game/adine2.rpy:287
 translate frenchtl _call_skipcheck_23_efe0e8c3:
@@ -300,7 +300,7 @@ translate frenchtl _call_skipcheck_23_efe0e8c3:
 translate frenchtl _call_skipcheck_23_dc391fd9:
 
     # Ad think b "Let me think."
-    Ad think b "Laisse moi y réfléchir."
+    Ad think b "Laisse-moi y réfléchir."
 
 # game/adine2.rpy:291
 translate frenchtl _call_skipcheck_23_8dd99f8a:
@@ -318,7 +318,7 @@ translate frenchtl _call_skipcheck_23_4c037c2d:
 translate frenchtl _call_skipcheck_23_d2f5052a:
 
     # Ad normal b "No, not here, silly. It was close, though. Barely a block from here."
-    Ad normal b "Non, pas ici, bêta. Bien que, c'était pas loin. A à peine un pâté de maisons d'ici."
+    Ad normal b "Non, pas ici, bêta. Bien que, c'était pas loin. Juste à un pâté de maisons d'ici."
 
 # game/adine2.rpy:297
 translate frenchtl _call_skipcheck_23_6645a410:
@@ -330,7 +330,7 @@ translate frenchtl _call_skipcheck_23_6645a410:
 translate frenchtl _call_skipcheck_23_a87e7e48:
 
     # Ad disappoint b "Wait, it was murder? I didn't know that; I thought it was an accident or something. That's terrible."
-    Ad disappoint b "Attends, c'était un meurtre ? Je ne le savais pas ça, Je croyais que c'était un accident ou quelque chose. C'est terrible."
+    Ad disappoint b "Attends, c'était un meurtre ? Je ne le savais pas ça, je croyais que c'était un accident ou quelque chose. C'est terrible."
 
 # game/adine2.rpy:301
 translate frenchtl _call_skipcheck_23_deaa0d16:
@@ -342,7 +342,7 @@ translate frenchtl _call_skipcheck_23_deaa0d16:
 translate frenchtl _call_skipcheck_23_8b977e7b:
 
     # Ad "Finding the first victim was already bad enough for me, and now I have to hear there was another murder in town... I wish I could get some good news for once."
-    Ad "Trouver la première victime était déjà assez dûr pour moi, et maintenant je dois apprendre qu'il y a eu un autre meurtre en ville... J'espère avoir des bonnes nouvelles pour une fois."
+    Ad "Trouver la première victime était déjà assez dur pour moi, et maintenant je dois apprendre qu'il y a eu un autre meurtre en ville... J'espère avoir de bonnes nouvelles pour une fois."
 
 # game/adine2.rpy:311
 translate frenchtl _call_skipcheck_23_0b322fb0:
@@ -354,7 +354,7 @@ translate frenchtl _call_skipcheck_23_0b322fb0:
 translate frenchtl _call_skipcheck_23_2d65d668:
 
     # Ad annoyed b "You're not really a people person, are you?"
-    Ad annoyed b "Tu ne fais pas vraiment dans le relationnel, n'est ce pas ?"
+    Ad annoyed b "Tu ne fais pas vraiment dans le relationnel, n'est-ce pas ?"
 
 # game/adine2.rpy:327
 translate frenchtl _call_skipcheck_23_89403437:
@@ -378,7 +378,7 @@ translate frenchtl _call_skipcheck_23_dbdb04e5:
 translate frenchtl _call_skipcheck_23_f05d13d2:
 
     # c "Maybe you'll get some good news soon."
-    c "Peut être que tu vas apprendre des bonnes nouvelles bientôt."
+    c "Peut-être que tu vas apprendre de bonnes nouvelles bientôt."
 
 # game/adine2.rpy:335
 translate frenchtl _call_skipcheck_23_baf080e5:
@@ -504,19 +504,19 @@ translate frenchtl _call_skipcheck_23_4e50fccb:
 translate frenchtl _call_skipcheck_23_e2c5f113:
 
     # Ad "Fire? That's interesting."
-    Ad "Du feu ? Ca c'est intéressant."
+    Ad "Du feu ? Ça c'est intéressant."
 
 # game/adine2.rpy:434
 translate frenchtl _call_skipcheck_23_8c4bca97:
 
     # Ad normal b "Apparently, it's a rather common symbol that can mean a variety of things."
-    Ad normal b "Apparement, c'est un symbole assez commun qui peut vouloir dire une variété de choses."
+    Ad normal b "Apparemment, c'est un symbole assez commun qui peut vouloir dire une variété de choses."
 
 # game/adine2.rpy:436
 translate frenchtl _call_skipcheck_23_6a5cd9f5:
 
     # Ad think b "Another thing to consider is the significance of the symbol to the dreamer. So, what does fire mean to you?"
-    Ad think b "Une autre chose à considérer est la signification du symbole pour le rêveur. Alors, qu'est ce que du feu veut dire pour toi?"
+    Ad think b "Une autre chose à considérer est la signification du symbole pour le rêveur. Alors, qu'est-ce que du feu veut dire pour toi?"
 
 # game/adine2.rpy:438
 translate frenchtl _call_skipcheck_23_a4aa9181:
@@ -528,7 +528,7 @@ translate frenchtl _call_skipcheck_23_a4aa9181:
 translate frenchtl _call_skipcheck_23_35c9ab45:
 
     # Ad giggle b "It also mentions prophetic dreams, but let's hope that yours don't fall into that category."
-    Ad giggle b "Il fait aussi référence à des rêves prophétique, mais j'espère que le tien ne tombe pas dans cette catégorie."
+    Ad giggle b "Il fait aussi référence à des rêves prophétiques, mais j'espère que le tien ne tombe pas dans cette catégorie."
 
 # game/adine2.rpy:442
 translate frenchtl _call_skipcheck_23_3154d577:
@@ -570,13 +570,13 @@ translate frenchtl _call_skipcheck_23_25c73dcb:
 translate frenchtl _call_skipcheck_23_b325d80d:
 
     # Ad "So, if you maintain the same schedule every day and sleep for the same amount of time every night, it could prevent you from remembering your dreams."
-    Ad "Alors, si tu maintiens les mêmes horaires chaque jour et que tu dors la même quantité de temps, ça pourrait t'empêcher de te rappeler de tes rêves."
+    Ad "Alors, si tu maintiens les mêmes horaires tous les jours et que tu dors la même quantité de temps, ça pourrait t'empêcher de te rappeler de tes rêves."
 
 # game/adine2.rpy:470
 translate frenchtl _call_skipcheck_23_68b135b3:
 
     # Ad "That could be for a variety of reasons. One theory is that dreams are a way for the brain to process day to day experiences, so it's not unusual to dream of people you've met."
-    Ad "Ca pourrait être pour diverses raisons. Une théorie est que les rêves sont une manière pour le cerveau de trier les expériences de chaque jour, donc ce n'est pas étrange de rêver des gens que tu connais."
+    Ad "Ça pourrait être pour diverses raisons. Une théorie est que les rêves sont une manière pour le cerveau de trier les expériences de chaque jour, donc ce n'est pas étrange de rêver des gens que tu connais."
 
 # game/adine2.rpy:472
 translate frenchtl _call_skipcheck_23_5ed4401f:
@@ -594,7 +594,7 @@ translate frenchtl _call_skipcheck_23_3761077d:
 translate frenchtl _call_skipcheck_23_aa03ac7a:
 
     # Ad think b "It kinda feels like they're different every night. Most of them are nonsense, but sometimes I dream of people I used to know."
-    Ad think b "C'est un peu comme si ils étaient différents chaque nuit. La plupart d'entre eux sont des absurdités, mais parfois je rêve de gens que connaissait."
+    Ad think b "C'est un peu comme s'ils étaient différents chaque nuit. La plupart d'entre eux sont des absurdités, mais parfois je rêve de gens que connaissait."
 
 # game/adine2.rpy:479
 translate frenchtl _call_skipcheck_23_452a7126:
@@ -612,7 +612,7 @@ translate frenchtl _call_skipcheck_23_0b16a848:
 translate frenchtl _call_skipcheck_23_1ad66100:
 
     # c "Or maybe they don't mean anything at all. You're overthinking it."
-    c "Ou peut être qu'ils ne signifient rien du tout. Tu réfléchis trop."
+    c "Ou peut-être qu'ils ne signifient rien du tout. Tu réfléchis trop."
 
 # game/adine2.rpy:491
 translate frenchtl _call_skipcheck_23_a3230f03:
@@ -660,7 +660,7 @@ translate frenchtl _call_skipcheck_23_6c53fdda:
 translate frenchtl _call_skipcheck_23_b4acc597:
 
     # Ad giggle b "See, I told you this was going to be fun."
-    Ad giggle b "Tu vois, je t'ai dit que ça allait être amusant."
+    Ad giggle b "Tu vois, je t'ai dit que cela allait être amusant."
 
 # game/adine2.rpy:536
 translate frenchtl _call_skipcheck_23_7210ca4f:
@@ -684,7 +684,7 @@ translate frenchtl _call_skipcheck_23_bc0d17cb:
 translate frenchtl _call_skipcheck_23_78cf0049:
 
     # Ad annoyed b "Why do you have to be like that? You don't have to take this seriously, but at least have some fun with it."
-    Ad annoyed b "Pourquoi dois-tu te comporter comme ça ? Tu n'as pas besoin de prendre ça au sérieux, mais au moins amuse toi un peu avec."
+    Ad annoyed b "Pourquoi dois-tu te comporter comme ça ? Tu n'as pas besoin de prendre cela au sérieux, mais au moins amuse-toi un peu avec."
 
 # game/adine2.rpy:555
 translate frenchtl _call_skipcheck_23_c8963619:
@@ -696,7 +696,7 @@ translate frenchtl _call_skipcheck_23_c8963619:
 translate frenchtl _call_skipcheck_23_9d5db008:
 
     # Ad giggle b "Let's find out."
-    Ad giggle b "Découvrons ça ensemble."
+    Ad giggle b "Découvrons cela ensemble."
 
 # game/adine2.rpy:569
 translate frenchtl _call_skipcheck_23_a688d1d5:
@@ -762,7 +762,7 @@ translate frenchtl adine2menb_508cb881:
 translate frenchtl adine2menb_0cc0ac49:
 
     # Ad giggle b "That's unusual, but sounds really interesting. I'd love to try some!"
-    Ad giggle b "C'est inhabituel, mais ça a l'air très intéressant. J'adorerais en goûter !"
+    Ad giggle b "C'est inhabituel, mais cela a l'air très intéressant. J'adorerais en goûter !"
 
 # game/adine2.rpy:641
 translate frenchtl adine2menb_eec2b1c8:
@@ -774,7 +774,7 @@ translate frenchtl adine2menb_eec2b1c8:
 translate frenchtl adine2menb_a8a5d6a3:
 
     # Ad think b "I don't think chilies should go anywhere near something that's supposed to be a dessert, but that's just me."
-    Ad think b "Je ne pense pas que les chilis soient proches de quoi que ce soit supposé être un dessert, mais c'est juste moi."
+    Ad think b "Je ne pense pas que les piments soient proches de quoi que ce soit supposé être un dessert, mais c'est juste moi."
 
 # game/adine2.rpy:658
 translate frenchtl adine2menb_b1e68e2d:
@@ -786,7 +786,7 @@ translate frenchtl adine2menb_b1e68e2d:
 translate frenchtl adine2menb_ea6c0095:
 
     # Ad "Here's the next question: What is your dream job?"
-    Ad "Voici la prochaine question: Quel est le job de tes rêves ?"
+    Ad "Voici la prochaine question: Quel est l'emploi de tes rêves ?"
 
 # game/adine2.rpy:676
 translate frenchtl adine2menb_02eaf6a9:
@@ -798,13 +798,13 @@ translate frenchtl adine2menb_02eaf6a9:
 translate frenchtl adine2menb_8f25404d:
 
     # Ad think b "I don't understand the appeal of that kind of job. It certainly doesn't mesh well with my ideals."
-    Ad think b "Je ne comprends pas ce qu'il y a d'intéressant avec ce genre de travail. Ca n'est certainement pas en phase avec mes idéaux."
+    Ad think b "Je ne comprends pas ce qu'il y a d'intéressant avec ce genre de travail. Ça n'est certainement pas en phase avec mes idéaux."
 
 # game/adine2.rpy:696
 translate frenchtl adine2menb_ec4c07a4:
 
     # Ad think b "I'm with you on that one, but does that really qualify as a job?"
-    Ad think b "Je suis avec toi pour celui-ci, mais est ce que c'est vraiment considéré comme un travail ?"
+    Ad think b "Je suis avec toi pour celui-ci, mais est-ce que c'est vraiment considéré comme un travail ?"
 
 # game/adine2.rpy:698
 translate frenchtl adine2menb_4b0981a6:
@@ -840,7 +840,7 @@ translate frenchtl adine2menb_d653223e:
 translate frenchtl adine2menb_fd8933bb:
 
     # Ad think b "Oh, it says here that the results are outlined in the weight-loss booklet that came with the magazine, but I already threw that away."
-    Ad think b "Oh, ça dit ici que les résultats était renseigné dans le livret de perte de poids qui venait avec le magazine, mais je l'ai déjà jeté."
+    Ad think b "Oh, ça dit ici que les résultats étaient renseignés dans le livret de perte de poids qui venaient avec le magazine, mais je l'ai déjà jeté."
 
 # game/adine2.rpy:727
 translate frenchtl adine2menb_d5bba2c1:
@@ -876,7 +876,7 @@ translate frenchtl adine2menb_59cf7678:
 translate frenchtl adine2menb_bf587384:
 
     # c "There's no other way. I'll be at a loss for the rest of my life."
-    c "Il n'y a pas d'autre moyens. Je serai perdu pour le restant de mes jours."
+    c "Il n'y a pas d'autres moyens. Je serai perdu pour le restant de mes jours."
 
 # game/adine2.rpy:753
 translate frenchtl adine2menb_efe42388:
@@ -924,13 +924,13 @@ translate frenchtl adine2menb_c6638b47:
 translate frenchtl adine2menb_7a3a5cff:
 
     # Ad think b "Apparently, there are different schools of thought regarding the use of fortune telling cards."
-    Ad think b "Apparement, il y a différentes écoles de pensées  au sujet de l'utilisation des cartes de divination."
+    Ad think b "Apparemment, il y a différentes écoles de pensées  au sujet de l'utilisation des cartes de divination."
 
 # game/adine2.rpy:790
 translate frenchtl adine2menb_9f38610b:
 
     # Ad "The cards themselves don't know anything. They're just a tool."
-    Ad "Les cartes en elles-même ne savent rien. Ce ne sont que des outils."
+    Ad "Les cartes en elles-mêmes ne savent rien. Ce ne sont que des outils."
 
 # game/adine2.rpy:792
 translate frenchtl adine2menb_e2cef971:
@@ -954,13 +954,13 @@ translate frenchtl adine2menb_d9442b37:
 translate frenchtl adine2menb_a05d560e:
 
     # Ad normal b "Similar to how dreams can be interpreted, the interpretation of the cards is very dependent on the person itself and the symbols they recognize in the card's images."
-    Ad normal b "Semblable à la manière dont les rêves peuvent être interprétés, l'interprétation des cartes dépend beaucoup de la personne elle-même et les symboles qu'elle reconnaît dans l'image des cartes."
+    Ad normal b "Semblable à la manière dont les rêves peuvent être interprétés, l'interprétation des cartes dépendent beaucoup de la personne elle-même et les symboles qu'elle reconnaît dans l'image des cartes."
 
 # game/adine2.rpy:800
 translate frenchtl adine2menb_e39569d8:
 
     # Ad "We recognize images that are relevant to our lives, and that gives us an idea about ourselves and our current problems."
-    Ad "On reconnaît des images qui sont pertinentes pour nos vies, et ça nous donne une idée à propos de nous-même et de nos problèmes actuels."
+    Ad "On reconnaît des images qui sont pertinentes pour nos vies, et ça nous donne une idée à propos de nous-mêmes et de nos problèmes actuels."
 
 # game/adine2.rpy:802
 translate frenchtl adine2menb_9281ee4a:
@@ -1032,7 +1032,7 @@ translate frenchtl adine2menb_4bcb453b:
 translate frenchtl adine2menb_2e81d834:
 
     # Ad think b "Okay, what should I draw for you?"
-    Ad think b "Ok, qu'est ce que je devrais tirer pour toi?"
+    Ad think b "Ok, qu'est-ce que je devrais tirer pour toi?"
 
 # game/adine2.rpy:826
 translate frenchtl adine2menb_455b9da8:
@@ -1068,7 +1068,7 @@ translate frenchtl adine2menb_40be0483:
 translate frenchtl adine2menb_6b90aa54:
 
     # Ad think b "What is it going to be?"
-    Ad think b "Qu'est ce que ça va être ?"
+    Ad think b "Qu'est-ce que ça va être ?"
 
 # game/adine2.rpy:845
 translate frenchtl adine2menb_b4fdb6ce:
@@ -1086,7 +1086,7 @@ translate frenchtl adine2menb_06b47c2f:
 translate frenchtl adine2menb_136ed5fb:
 
     # Ad think b "Your past is filled with fire, strife and conflict. Yet like steel, you adopted it and were tempered by it. What didn't kill you only made you stronger."
-    Ad think b "Votre passé est rempli de flammes, de guerres et de conflits. Mais tele l'acier, vous l'avez embrassé et vous êtes endurci en son sein. ce qui ne vous a pas tué n'a fait que vous rendre plus fort."
+    Ad think b "Votre passé est rempli de flammes, de guerres et de conflits. Mais comme l'acier, vous l'avez embrassé et vous êtes endurci en son sein. ce qui ne vous a pas tué n'a fait que vous rendre plus fort."
 
 # game/adine2.rpy:859
 translate frenchtl adine2menb_db719df0:
@@ -1116,19 +1116,19 @@ translate frenchtl adine2menb_be7b3cad:
 translate frenchtl adine2menb_2a8663e1:
 
     # c "That doesn't really apply to me. Like, at all."
-    c "Ca ne s'applique pas à moi. Genre, pas du tout"
+    c "Ça ne s'applique pas à moi. Genre, pas du tout"
 
 # game/adine2.rpy:882
 translate frenchtl adine2menb_03673aa6:
 
     # Ad think b "Maybe I did it wrong."
-    Ad think b "Peut être que je l'ai mal fait."
+    Ad think b "Peut-être que je l'ai malfait."
 
 # game/adine2.rpy:884
 translate frenchtl adine2menb_f4b0bc8c:
 
     # c "Who knows? Maybe you should ask your almighty magazine."
-    c "Qui sait ? peut être que tu devrais demander à ton magazine tout puissant."
+    c "Qui sait ? Peut-être que tu devrais demander à ton magazine tout puissant."
 
 # game/adine2.rpy:886
 translate frenchtl adine2menb_d8b41529:
@@ -1158,7 +1158,7 @@ translate frenchtl adine2menb_9d0d3f05:
 translate frenchtl adine2menb_fa90a747:
 
     # Ad "Let's see what it says about the present... According to this, understanding our present situation is paramount to understanding the future, as what we do now influences the future that will become our present."
-    Ad "Voyons voir ce que ça dit sur le présent... D'après ceci, La compréhension de notre présent est primordiale pour comprendre le futur, car ce que nous faisons maintenant influence le futur qui deviendra notre présent."
+    Ad "Voyons voir ce que ça dit sur le présent... D'après ceci, la compréhension de notre présent est primordiale pour comprendre le futur, car ce que nous faisons maintenant influence le futur qui deviendra notre présent."
 
 # game/adine2.rpy:918
 translate frenchtl adine2menb_88df5d81:
@@ -1170,7 +1170,7 @@ translate frenchtl adine2menb_88df5d81:
 translate frenchtl adine2menb_02b35a09:
 
     # c "What does it mean?"
-    c "Qu'est ce que ça veut dire?"
+    c "Qu'est-ce que ça veut dire?"
 
 # game/adine2.rpy:924
 translate frenchtl adine2menb_f173471c:
@@ -1188,7 +1188,7 @@ translate frenchtl adine2menb_78cdb8e2:
 translate frenchtl adine2menb_019f1399:
 
     # Ad "What's your opinion on this?"
-    Ad "Quelle est ton opinion à ce sujet ?"
+    Ad "Quel est ton opinion à ce sujet ?"
 
 # game/adine2.rpy:934
 translate frenchtl adine2menb_414990f6:
@@ -1242,8 +1242,7 @@ translate frenchtl adine2menb_9d0d3f05_1:
 translate frenchtl adine2menb_d2139c34:
 
     # Ad "The prediction of the future is what most people associate with these readings. However, their purpose is to prepare the person in question for a possible future, rather than just predicting it."
-    Ad "La prédiction du futur est ce que la majorité des gens associe avec ces interprétations. En revanche, leur but est de préparer les personnes en questions à un futur possible, plutôt que de juste le prédire."
-
+    Ad "La prédiction du futur est-ce que la majorité des gens associent avec ces interprétations. En revanche, leur but est de préparer les personnes en question à un futur possible, plutôt que de juste le prédire."
 # game/adine2.rpy:980
 translate frenchtl adine2menb_af424b97:
 
@@ -1266,13 +1265,13 @@ translate frenchtl adine2menb_497f0dbd:
 translate frenchtl adine2menb_a9733ea8:
 
     # Ad "This can be interpreted in many ways, but it can refer to death, the ultimate conclusion. It can also mean many other things, like a violent outcome of a brewing conflict, or a positive resolution of a long-running conflict."
-    Ad "Ca peut être interprété de plusieurs manières, mais ça peut faire référence à la mort, la conclusion ultime. Ca peut aussi dire plein d'autre choses, comme une fin violente à une conflit en gestation, ou la résolution positive d'une confrontation de longue durée."
+    Ad "Ça peut être interprété de plusieurs manières, mais ça peut faire référence à la mort, la conclusion ultime. Ça peut aussi dire plein d'autres choses, comme une fin violente à un conflit en gestation, ou la résolution positive d'une confrontation de longue durée."
 
 # game/adine2.rpy:990
 translate frenchtl adine2menb_6922aff7:
 
     # Ad "What do you think?"
-    Ad "Qu'en penses tu ?"
+    Ad "Qu'en penses-tu ?"
 
 # game/adine2.rpy:996
 translate frenchtl adine2menb_631e6cfa:
@@ -1284,19 +1283,19 @@ translate frenchtl adine2menb_631e6cfa:
 translate frenchtl adine2menb_85205a4b:
 
     # c "Let's just say I have a hunch. It mentioned resolutions to conflicts that have been brewing, and there's definitely stuff brewing."
-    c "Disons juste que j'ai un pressentiment. Ca mentionnait la résolution de conflits qui ont macéré, et il se passe définitivement quelque chose."
+    c "Disons juste que j'ai un pressentiment. Ça mentionnait la résolution de conflits qui a macéré et il se passe définitivement quelque chose."
 
 # game/adine2.rpy:1007
 translate frenchtl adine2menb_c80ff75f:
 
     # Ad normal b "If anything, it's not supposed to make you worry, but give you some input so you can prepare for what is to come."
-    Ad normal b "Quoi qu'il en soit, ce n'est pas censé t'inquiéter, mais te donner des idée pour que tu puisses te préparer à ce qui va arriver."
+    Ad normal b "Quoi qu'il en soit, ce n'est pas censé t'inquiéter, mais te donner des idées pour que tu puisses te préparer à ce qui va arriver."
 
 # game/adine2.rpy:1009
 translate frenchtl adine2menb_d343259d:
 
     # c "And what would that be?"
-    c "Et qu'est-ce que ca pourrait être ?"
+    c "Et qu'est-ce que ça pourrait être ?"
 
 # game/adine2.rpy:1011
 translate frenchtl adine2menb_2e04c98c:
@@ -1332,7 +1331,7 @@ translate frenchtl adine2menb_e778aec1:
 translate frenchtl adine2menb_1195d717:
 
     # Ad normal b "I guess that means you had fun, then?"
-    Ad normal b "J'imagine que ca veut dire que tu t'es amusé, alors ?"
+    Ad normal b "J'imagine que ça veut dire que tu t'es amusé, alors ?"
 
 # game/adine2.rpy:1036
 translate frenchtl adine2menb_f59a91d6:
@@ -1362,7 +1361,7 @@ translate frenchtl adine2menb_9cefa3aa:
 translate frenchtl adine2menb_72213e9e:
 
     # Ad disappoint b "It's got to be so much work to create a magazine like this. From selecting the topics, writing the articles, doing all the photos and the layouts... And then to get it to shops and into the hands of customers. All that work just for it to end up in the trash."
-    Ad disappoint b "Ça a dû être tellement de travail pour créer un magazine comme celui ci. De sélectionner les sujets, écrire les articles, prendre toutes les photos et les schémas... Et ensuite les mettre dans les magasins et sur les mains des clients. Tout ce travail juste pour que ça finisse à la poubelle."
+    Ad disappoint b "Ça a dû être tellement de travail pour créer un magazine comme celui-ci. De sélectionner les sujets, écrire les articles, prendre toutes les photos et les schémas... Et ensuite les mettre dans les magasins et sur les mains des clients. Tout ce travail juste pour que ça finisse à la poubelle."
 
 # game/adine2.rpy:1055
 translate frenchtl adine2menb_c9e7ff04:
@@ -1386,7 +1385,7 @@ translate frenchtl adine2menb_6cbb26c0:
 translate frenchtl adine2menb_40b53bc0:
 
     # Ad normal b "I could try to find the diet booklet if you're that desperate to find out the personality test results."
-    Ad normal b "Je pourrais essayer de trouver le livret de régime si tu es si désepéré de découvrir les résultats du test de personnalité."
+    Ad normal b "Je pourrais essayer de trouver le livret de régime si tu es si désespéré de découvrir les résultats du test de personnalité."
 
 # game/adine2.rpy:1070
 translate frenchtl adine2menb_a6894498:
@@ -1410,7 +1409,7 @@ translate frenchtl adine2menb_93e0bca7:
 translate frenchtl adine2menb_c4073417:
 
     # c "It's been busy. I thought this whole thing would go by quickly and without any mishaps, but now it seems like there's always something happening."
-    c "Ca a été assez dense. Je croyais que toute cette histoire allait finir vite et sans pépins, mais on dirait qu'il se passe toujours quelque chose."
+    c "Ça a été assez dense. Je croyais que toute cette histoire allait finir vite et sans pépins, mais on dirait qu'il se passe toujours quelque chose."
 
 # game/adine2.rpy:1081
 translate frenchtl adine2menb_f4e0c922:
@@ -1422,13 +1421,13 @@ translate frenchtl adine2menb_f4e0c922:
 translate frenchtl adine2menb_491287e4:
 
     # c "Yeah. I figured I'd come here, do the exchange and leave again, but apparently it's not that easy."
-    c "Ouais. Je me disais que je viendrais ici, faire l'échange et repartir, mais apparement ce n'est pas si facile."
+    c "Ouais. Je me disais que je viendrais ici, faire l'échange et repartir, mais apparemment ce n'est pas si facile."
 
 # game/adine2.rpy:1085
 translate frenchtl adine2menb_e93999f4:
 
     # Ad disappoint b "It never is."
-    Ad disappoint b "Ca ne l'est jamais."
+    Ad disappoint b "Ça ne l'est jamais."
 
 # game/adine2.rpy:1087
 translate frenchtl adine2menb_150fc667:
@@ -1440,8 +1439,7 @@ translate frenchtl adine2menb_150fc667:
 translate frenchtl adine2menb_fbdb7bb4:
 
     # Ad normal b "Well, no, but doing deliveries is similar. People order something, I fly to them, we exchange the product for payment and then I go back. It's basically the same thing."
-    Ad normal b "Eh bien, non, mais faire des livraisons est similaire. Les personnes commandent quelque chose, je vole jusqu'à eux, on échange les produits contre paiement et je rentre. c'est basiquement la même chose."
-
+    Ad normal b "Eh bien, non, mais faire des livraisons sont similaire. Les personnes commandent quelque chose, je vole jusqu'à eux, on échange les produits contre paiement et je rentre. C'est basiquement la même chose."
 # game/adine2.rpy:1091
 translate frenchtl adine2menb_9633229f:
 
@@ -1476,7 +1474,7 @@ translate frenchtl adine2menb_f7af450f:
 translate frenchtl adine2menb_e16edad8:
 
     # Ad "Now you have to go back to the first family you delivered to, who by now have probably noticed that they got the wrong delivery, and exchange what you gave them for what they actually ordered."
-    Ad "Maintenant tu dois retourner voir la première famille que tu as livré, lesquels se sont probablement aperçus d'avoir eu la mauvaise livraison, et échanger ce que tu leur as donné par ce qu'ils ont réellement commandé."
+    Ad "Maintenant tu dois retourner voir la première famille que tu as livré, lesquels se sont probablement aperçus d'avoir eu la mauvaise livraison, et échanger ce que tu leur as donné parce qu'ils ont réellement commandé."
 
 # game/adine2.rpy:1103
 translate frenchtl adine2menb_f5f7c27d:
@@ -1488,13 +1486,13 @@ translate frenchtl adine2menb_f5f7c27d:
 translate frenchtl adine2menb_b089f199:
 
     # Ad giggle b "But it turns out that they didn't mind the mix-up. As a matter of fact, they have already started eating what they got instead."
-    Ad giggle b "Mais il semble que le mélange ne les ait pas dérangé. Pour preuve, ils avaient déjà commencé à manger ce qu'ils avaient reçu à la place."
+    Ad giggle b "Mais il semble que le mélange ne les ait pas dérangés. Pour preuve, ils avaient déjà commencé à manger ce qu'ils avaient reçu à la place."
 
 # game/adine2.rpy:1107
 translate frenchtl adine2menb_4685d231:
 
     # Ad normal b "It's not so bad that they aren't angry, but now you can't exchange the orders anymore, so you have to fly back to the restaurant to get the second order remade."
-    Ad normal b "Ce n'est pas si mal qu'ils ne soient pas fâché, mais maintenant tu ne peux plus échanger les commandes, donc tu dois retourner au restaurant pour refaire la seconde commande."
+    Ad normal b "Ce n'est pas si mal qu'ils ne soient pas fâchés, mais maintenant tu ne peux plus échanger les commandes, donc tu dois retourner au restaurant pour refaire la seconde commande."
 
 # game/adine2.rpy:1109
 translate frenchtl adine2menb_ac3e265b:
@@ -1524,7 +1522,7 @@ translate frenchtl adine2menb_c16905a7:
 translate frenchtl adine2menb_d3f38257:
 
     # Ad disappoint b "The restaurant can no longer sell that first order you still have, so the orders for both families are deducted from your paycheck and you end up eating nothing but ramen all week again, just so you can make rent this month."
-    Ad disappoint b "Le restaurant ne peut plus vendre cette première commande que tu as encore, alors les commandes des deux familles sont déduites de ton salaire et tu finis par manger que du ramen toute la semaine, juste pour payer le loyer ce mois ci."
+    Ad disappoint b "Le restaurant ne peut plus vendre cette première commande que tu as encore, alors les commandes des deux familles sont déduites de ton salaire et tu finis par manger que du ramen toute la semaine, juste pour payer le loyer ce mois-ci."
 
 # game/adine2.rpy:1119
 translate frenchtl adine2menb_c70db99e:
@@ -1536,7 +1534,7 @@ translate frenchtl adine2menb_c70db99e:
 translate frenchtl adine2menb_90397797:
 
     # Ad normal b "And that's why you always double check your orders, because even a small mistake can have consequences reaching further than you'd think."
-    Ad normal b "Et voilà pourquoi tu vérifies toujours tes commandes deux fois, parce que même une petite erreur peut avoir des conséquences plus grande que tu ne le crois."
+    Ad normal b "Et voilà pourquoi tu vérifies toujours tes commandes deux fois, parce que même une petite erreur peut avoir des conséquences plus grandes que tu ne le crois."
 
 # game/adine2.rpy:1123
 translate frenchtl adine2menb_2c567139:
@@ -1554,13 +1552,13 @@ translate frenchtl adine2menb_4ad9854f:
 translate frenchtl adine2menb_e3cf18f6:
 
     # c "Anyway, what else have you been up to recently?"
-    c "Enfin bref, Il y a quoi d'autre de neuf récemment ?"
+    c "Enfin bref, il y a quoi d'autre de neuf récemment ?"
 
 # game/adine2.rpy:1129
 translate frenchtl adine2menb_4a504078:
 
     # Ad normal b "Do you remember the stunt flying competition I told you about?"
-    Ad normal b "Tu te rappelles de la compétition d'acrobaties aérienne dont je t'avais parlé ?"
+    Ad normal b "Tu te rappelles de la compétition d'acrobaties aériennes dont je t'avais parlé ?"
 
 # game/adine2.rpy:1131
 translate frenchtl adine2menb_1277548e:
@@ -1578,7 +1576,7 @@ translate frenchtl adine2menb_c5d42cb2:
 translate frenchtl adine2menb_560c5588:
 
     # Ad giggle b "Or maybe I should just fly it over myself. While showing off a few moves, that is."
-    Ad giggle b "Ou peut être que je devrais juste voler là bas en personne. Et dans le même temps leur montrer quelques cascades, bien sûr."
+    Ad giggle b "Ou peut être que je devrais juste voler là-bas en personne. Et dans le même temps leur montrer quelques cascades, bien sûr."
 
 # game/adine2.rpy:1137
 translate frenchtl adine2menb_807de2e9:
@@ -1596,13 +1594,13 @@ translate frenchtl adine2menb_e962cf79:
 translate frenchtl adine2skip_5446a5a2:
 
     # Ad think b "By the way, could you do me a favor?"
-    Ad think b "Au fait, pourrais-tu me faire une faveur ?"
+    Ad think b "Au fait, pourrais-tu me rendre service ?"
 
 # game/adine2.rpy:1145
 translate frenchtl adine2skip_3206ae11:
 
     # c "That depends on the favor, I suppose."
-    c "Ca dépend de la faveur, je suppose"
+    c "Ça dépend de la faveur, je suppose"
 
 # game/adine2.rpy:1147
 translate frenchtl adine2skip_b341871b:
@@ -1644,7 +1642,7 @@ translate frenchtl adine2skip_fde92139:
 translate frenchtl adine2skip_8bfde663:
 
     # Ad think b "Let's just say I'm interested in doing a little investigation of the place myself."
-    Ad think b "Disons juste que je suis intéressé par une petite investigation de l'endroit par moi-même."
+    Ad think b "Disons juste que je suis intéressé par une petite investigation de l'endroit moi-même."
 
 # game/adine2.rpy:1161
 translate frenchtl adine2skip_cf1a4a1a:
@@ -1656,19 +1654,19 @@ translate frenchtl adine2skip_cf1a4a1a:
 translate frenchtl adine2skip_3d7a1cf2:
 
     # Ad normal b "It's supposed to be a remnant of an earlier civilization, or maybe even something created by humans. Who wouldn't be interested in that?"
-    Ad normal b "C'est supposé être les restes d'une ancienne civilisation, ou peut être même quelque chose créé par les humains. Qui ne serait pas intéressé par ça ?"
+    Ad normal b "C'est supposé être les restes d'une ancienne civilisation, ou peut être même quelque chose créée par les humains. Qui ne serait pas intéressé par ça ?"
 
 # game/adine2.rpy:1171
 translate frenchtl adine2skip_46a68dc8:
 
     # Ad giggle b "If I had you all to myself it might be enough, but since your stay is only temporary, I'll need some other human-related things to keep me busy."
-    Ad giggle b "Si je t'avais pour moi toute seule ce serait peut être suffisant, mais puisque ton séjour est seulement temporaire, J'ai besoin d'autre artefacts humains pour me tenir occupée."
+    Ad giggle b "Si je t'avais pour moi toute seule ce serait peut être suffisant, mais puisque ton séjour est seulement temporaire, j'ai besoin d'autres artefacts humains pour me tenir occupée."
 
 # game/adine2.rpy:1180
 translate frenchtl adine2skip_0395e0a6:
 
     # Ad disappoint b "Even if you don't believe in the myths, it's still a fascinating discovery."
-    Ad disappoint b "Même si tu ne crois pas au mythes, c'est quand même une découverte fascinante."
+    Ad disappoint b "Même si tu ne crois pas aux mythes, c'est quand même une découverte fascinante."
 
 # game/adine2.rpy:1186
 translate frenchtl adine2skip_e2af3c5d:
@@ -1752,7 +1750,7 @@ translate frenchtl adine2skip_f842cf75:
 translate frenchtl adine2skip_309e5307:
 
     # c "Why's that?"
-    c "Pourquoi ca ?"
+    c "Pourquoi ça ?"
 
 # game/adine2.rpy:1232
 translate frenchtl adine2skip_83335fed:
@@ -1770,7 +1768,7 @@ translate frenchtl adine2skip_42be37ee:
 translate frenchtl adine2skip_7089d516:
 
     # Ad giggle b "Yes! What a time to be alive."
-    Ad giggle b "Oui! Sacré époque pour être en vie."
+    Ad giggle b "Oui ! Sacré époque pour être en vie."
 
 # game/adine2.rpy:1238
 translate frenchtl adine2skip_ac838d28:
@@ -1800,7 +1798,7 @@ translate frenchtl adine2skip_83e05bed:
 translate frenchtl adine2skip_c434c535:
 
     # Ad giggle b "Oh, actually, I have places to be. Especially if I want to make sure my contest application arrives on time."
-    Ad giggle b "Oh, en fait, j'ai des endroits où je dois aller. Surtout si je veut être sûre que ma candidature pour la compétition arrive à temps."
+    Ad giggle b "Oh, en fait, j'ai des endroits où je dois aller. Surtout si je veux être sûre que ma candidature pour la compétition arrive à temps."
 
 # game/adine2.rpy:1248
 translate frenchtl adine2skip_aa8eed7d:
@@ -1848,13 +1846,13 @@ translate frenchtl adine2skip_c48dc32f:
 translate frenchtl adine2skip_c1f8ed28:
 
     # Ad normal b "For now, at least. I certainly wouldn't mind if you stopped by again sometime."
-    Ad normal b "Pour l'instant, du moins. Ca ne me dérangerait vraiment pas si tu repassais me voir un de ces quatre."
+    Ad normal b "Pour l'instant, du moins. Ça ne me dérangerait vraiment pas si tu repassais me voir un de ces quatre."
 
 # game/adine2.rpy:1296
 translate frenchtl adine2skip_971f2892:
 
     # c "Will there be any magazines involved?"
-    c "Est-ce que ça impliquera des magazines ?"
+    c "Est-ce que cela impliquera des magazines ?"
 
 # game/adine2.rpy:1298
 translate frenchtl adine2skip_339ac162:
@@ -1908,7 +1906,7 @@ translate frenchtl adine2skip_3bbeabf2:
 translate frenchtl adine2skip_c94ba23a:
 
     # Ad annoyed b "Besides acting like a jerk, not much."
-    Ad annoyed b "A part te comporter comme un con, pas grand chose."
+    Ad annoyed b "A part te comporter comme un con, pas grand-chose."
 
 # game/adine2.rpy:1347
 translate frenchtl adine2skip_a069954c:
@@ -1920,7 +1918,7 @@ translate frenchtl adine2skip_a069954c:
 translate frenchtl adine2skip_09c2f3b9:
 
     # Ad disappoint b "Whatever. I have to go now, anyway, so please just leave."
-    Ad disappoint b "Peu importe. Je dois y aller maintenant, alors va-t'en s'il te plait."
+    Ad disappoint b "Peu importe. Je dois y aller maintenant, alors va-t-en s'il te plait."
 
 translate frenchtl strings:
 
@@ -1962,7 +1960,7 @@ translate frenchtl strings:
 
     # adine2.rpy:259
     old "Someone else would probably volunteer, even if you didn't."
-    new "Quelqu'un d'autre se porterait probablement volontaire, même tu ne le ne fais pas."
+    new "Quelqu'un d'autre se porterait probablement volontaire, même tu ne le fais pas."
 
     # adine2.rpy:305
     old "At least it wasn't you who was murdered."
@@ -2014,7 +2012,7 @@ translate frenchtl strings:
 
     # adine2.rpy:419
     old "My dreams are often about people I know."
-    new "Mes rêves sont souvent à propos des gens que je connaît."
+    new "Mes rêves sont souvent à propos des gens que je connais."
 
     # adine2.rpy:481
     old "It's a whole bunch of baloney, if you ask me."
@@ -2026,7 +2024,7 @@ translate frenchtl strings:
 
     # adine2.rpy:509
     old "I'll reserve judgment on that."
-    new "Je réserve mon jugement là dessus."
+    new "Je réserve mon jugement là-dessus."
 
     # adine2.rpy:509
     old "Do you think you can hit the trash can with it from here? You should try."
@@ -2074,7 +2072,7 @@ translate frenchtl strings:
 
     # adine2.rpy:623
     old "Red hot chili cookies."
-    new "Un biscuit au chili épicé."
+    new "Un biscuit aux piments épicés."
 
     # adine2.rpy:623
     old "What does this question have to do with relationships?"
@@ -2146,7 +2144,7 @@ translate frenchtl strings:
 
     # adine2.rpy:992
     old "I think I know what this refers to."
-    new "Je pense que je sais ce à quoi cela fait référence."
+    new "Je pense que je sais à quoi cela fait référence."
 
     # adine2.rpy:992
     old "I wonder if I should be worried."
