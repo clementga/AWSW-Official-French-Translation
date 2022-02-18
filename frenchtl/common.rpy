@@ -103,7 +103,7 @@ translate frenchtl strings:
 
     # 00action_file.rpy:47
     old "{#month}November"
-    new "{#month}Novrembre"
+    new "{#month}Novembre"
 
     # 00action_file.rpy:47
     old "{#month}December"
@@ -184,7 +184,7 @@ translate frenchtl strings:
 
     # 00gui.rpy:228
     old "Are you sure you want to delete this save?"
-    new "Êtes-vous sur de vouloir supprimer cette sauvegarde ?"
+    new "Êtes-vous sûr de vouloir supprimer cette sauvegarde ?"
 
     # 00gui.rpy:229
     old "Are you sure you want to overwrite your save?"
@@ -224,15 +224,15 @@ translate frenchtl strings:
 
     # 00library.rpy:142
     old "Self-voicing disabled."
-    new "Commande vocale desactivé."
+    new "Commande vocale desactivée."
 
     # 00library.rpy:143
     old "Clipboard voicing enabled. "
-    new "Presse papier vocal activé."
+    new "Presse-papier vocal activé."
 
     # 00library.rpy:144
     old "Self-voicing enabled. "
-    new "Commande vocale activé."
+    new "Commande vocale activée."
 
     # 00library.rpy:179
     old "Skip Mode"
@@ -240,11 +240,11 @@ translate frenchtl strings:
 
     # 00library.rpy:262
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Ce programme contient des logiciels gratuits sous un certaines licences, incluant la licence MIT et la licence publique général limitée GNU. Une liste complète des logiciels, incluant des liens vers le code source complet, peuvent être trouvés à {a=https://www.renpy.org/l/license}ici{/a}."
+    new "Ce programme contient des logiciels gratuits sous certaines licences, incluant la licence MIT et la licence publique général limitée GNU. Une liste complète des logiciels, incluant des liens vers le code source complet, peut être trouvée {a=https://www.renpy.org/l/license}ici{/a}."
 
     # 00preferences.rpy:422
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Presse papier vocal activé. Appuyez sur 'shift+C' pour le désactiver"
+    new "Presse-papier vocal activé. Appuyez sur 'shift+C' pour le désactiver."
 
     # 00preferences.rpy:424
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
@@ -252,7 +252,7 @@ translate frenchtl strings:
 
     # 00preferences.rpy:426
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Commande vocale activé. Appuyer sur 'v' pour la désactiver."
+    new "Commande vocale activée. Appuyez sur 'v' pour la désactiver."
 
     # _compat\gamemenu.rpym:355
     old "Previous"
@@ -284,7 +284,7 @@ translate frenchtl strings:
 
     # _developer\developer.rpym:49
     old "Theme Test"
-    new "Thème test"
+    new "Test de Thèmes"
 
     # _developer\developer.rpym:51
     old "Image Location Picker"
@@ -392,7 +392,7 @@ translate frenchtl strings:
 
     # 00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new "Contacting App Store\nPlease Wait..."
+    new "Connexion à l'App Store\nVeuillez attendre..."
 
     # 00updater.rpy:373
     old "The Ren'Py Updater is not supported on mobile devices."
@@ -404,7 +404,7 @@ translate frenchtl strings:
 
     # 00updater.rpy:668
     old "Either this project does not support updating, or the update status file was deleted."
-    new "Soit ce projet ne supporte pas les mises à jours, ou alors les fichiers statut ont été supprimés."
+    new "Soit ce projet ne supporte pas les mises à jours, soit les fichiers de statut ont été supprimés."
 
     # 00updater.rpy:682
     old "This account does not have permission to perform an update."
@@ -416,7 +416,7 @@ translate frenchtl strings:
 
     # 00updater.rpy:710
     old "Could not verify update signature."
-    new "Impossible de vérifier la trace des mises à jour"
+    new "Impossible de vérifier la trace des mises à jour."
 
     # 00updater.rpy:981
     old "The update file was not downloaded."
@@ -424,7 +424,7 @@ translate frenchtl strings:
 
     # 00updater.rpy:999
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "Le fichier de mise à jour n'a pas le bon répertoir - il a peut être été corrompu."
+    new "Le fichier de mise à jour n'a pas le bon répertoire - il a peut être été corrompu."
 
     # 00updater.rpy:1055
     old "While unpacking {}, unknown type {}."
@@ -440,7 +440,7 @@ translate frenchtl strings:
 
     # 00updater.rpy:1408
     old "Checking for updates."
-    new "vérification des mises à jour."
+    new "Vérification des mises à jour."
 
     # 00updater.rpy:1410
     old "This program is up to date."
@@ -516,7 +516,7 @@ translate frenchtl strings:
 
     # 00gltest.rpy:75
     old "Force Angle/DirectX Renderer"
-    new "Force Angle/DirectX Renderer"
+    new "Forcer l'Angle/Rendu DirectX"
 
     # 00gltest.rpy:79
     old "Force OpenGL Renderer"
@@ -544,7 +544,7 @@ translate frenchtl strings:
 
     # 00gltest.rpy:109
     old "Changes will take effect the next time this program is run."
-    new "Les changements prendrons effet la prochaine fois que le programme sera lancé."
+    new "Les changements prendront effet la prochaine fois que le programme sera lancé."
 
     # 00gltest.rpy:114
     old "Quit"
@@ -556,7 +556,7 @@ translate frenchtl strings:
 
     # 00gltest.rpy:146
     old "This computer is using software rendering."
-    new "Cet ordinateur est en train d'utiliser un rendu de logiciel."
+    new "Cet ordinateur est en train d'utiliser un rendu logiciel."
 
     # 00gltest.rpy:148
     old "This computer is not using shaders."
@@ -612,11 +612,11 @@ translate frenchtl strings:
 
     # 00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new "Sélectionner le Gamepad pour effectuer la calibration "
+    new "Sélectionner le Contrôleur de jeu pour effectuer la calibration "
 
     # 00gamepad.rpy:35
     old "No Gamepads Available"
-    new "Pas de Gamepads Disponible"
+    new "Pas de Contrôleur de jeu Disponible"
 
     # 00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
@@ -660,7 +660,7 @@ translate frenchtl strings:
 
     # _errorhandling.rpym:548
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Tentative de remboninage à un instant antérieur, vous permettant de sauvegarder ou de choisr une autre option."
+    new "Tentative de rembobinage à un instant antérieur, vous permettant de sauvegarder ou de choisir une autre option."
 
     # _errorhandling.rpym:551
     old "Ignore"
@@ -676,11 +676,11 @@ translate frenchtl strings:
 
     # _errorhandling.rpym:558
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Recharger le jeu à partir du disque, sauvgardant et restaurant l'état du jeu si possible."
+    new "Recharger le jeu à partir du disque, sauvegardant et restaurant l'état du jeu si possible."
 
     # _errorhandling.rpym:568
     old "Quits the game."
-    new "Quitter le jeu."
+    new "Quitte le jeu."
 
     # _errorhandling.rpym:590
     old "Parsing the script failed."
@@ -688,7 +688,7 @@ translate frenchtl strings:
 
     # _errorhandling.rpym:614
     old "Open Parse Errors"
-    new "Ouvrir les erreurs d'analyse"
+    new "Ouvrir les Erreurs d'analyse"
 
     # _errorhandling.rpym:616
     old "Opens the errors.txt file in a text editor."
