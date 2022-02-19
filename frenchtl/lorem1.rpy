@@ -120,7 +120,7 @@ translate frenchtl _call_skipcheck_16_45499fc8:
 translate frenchtl _call_skipcheck_16_260d481d:
 
     # Lo happy "If I was, Sebastian wouldn’t have let me meet you in the first place."
-    Lo happy "Si j'en étais un, Sébastien ne m'aurait même pas laissé te rencontrer dans un premier temps."
+    Lo happy "Si j'en étais un, Sébastien ne m'aurait même pas laissé te rencontrer en premier lieu."
 
 # game/lorem1.rpy:161
 translate frenchtl _call_skipcheck_16_57ab5828:
@@ -300,7 +300,7 @@ translate frenchtl _call_skipcheck_16_fc346745:
 translate frenchtl _call_skipcheck_16_7e729438:
 
     # c "Why do you want to make this game in the first place?"
-    c "Pourquoi veux tu developper ce jeu dans un premier temps ?"
+    c "Pourquoi veux-tu développer ce jeu dans un premier temps ?"
 
 # game/lorem1.rpy:326
 translate frenchtl _call_skipcheck_16_3097ad9e:
@@ -570,13 +570,13 @@ translate frenchtl _call_skipcheck_16_c5aed8d5:
 translate frenchtl _call_skipcheck_16_0cef7eef:
 
     # Lo happy "Maybe it’s meant to be taken literally – meaning that when that ability was given to us, you lost it."
-    Lo happy "Peut-être que c'est à prendre littéralement - c'est-à-dire qu'en nous donnant cette aptitude, vous l'avez perdu."
+    Lo happy "Peut-être que c'est à prendre littéralement - c'est-à-dire qu'en nous donnant cette aptitude, vous l'avez perdue."
 
 # game/lorem1.rpy:494
 translate frenchtl _call_skipcheck_16_8054cb2a:
 
     # c "Or maybe we never had it in the first place."
-    c "Ou peut être que nous ne l'avons jamais eu dans un premier temps."
+    c "Ou peut-être que nous ne l'avons jamais eue dans un premier temps."
 
 # game/lorem1.rpy:496
 translate frenchtl _call_skipcheck_16_efda574e:
@@ -696,7 +696,7 @@ translate frenchtl _call_skipcheck_16_e3d49b89:
 translate frenchtl _call_skipcheck_16_19a36f81:
 
     # Lo happy "Angels basically look like humans with wings. Their existence in ancient scripts was used to lend some credence to the theories about humans having become dragons."
-    Lo happy "Les anges ressemblent en gros à des humains avec des ailes. Leur existence dans les scripts anciens a été utilisée afin d'appuyer les théories selon lesquelles les humains seraient devenus des dragons."
+    Lo happy "Les anges ressemblent en gros à des humains avec des ailes. Leur existence dans les écritures anciennes a été utilisée afin d'appuyer les théories selon lesquelles les humains seraient devenus des dragons."
 
 # game/lorem1.rpy:536
 translate frenchtl _call_skipcheck_16_cafbb74d:
@@ -744,7 +744,7 @@ translate frenchtl _call_skipcheck_16_62c174e9:
 translate frenchtl _call_skipcheck_16_5be894cd:
 
     # Lo "That might not really matter if we were talking about a non-physical entity or a spiritual being, though."
-    Lo "Cela n'aurait plus aucune importance si nous parlions d'une entité non physique ou d'un être spirituel, cependant."
+    Lo "Cela n'aurait plus aucune importance si nous parlions d'une entité non-physique ou d'un être spirituel, cependant."
 
 # game/lorem1.rpy:552
 translate frenchtl _call_skipcheck_16_142a8591:
@@ -798,7 +798,7 @@ translate frenchtl _call_skipcheck_16_6dae6f38:
 translate frenchtl _call_skipcheck_16_3a0f9dbc:
 
     # Lo happy "Oh, do tell!"
-    Lo happy "Oh, racontes !"
+    Lo happy "Oh, raconte !"
 
 # game/lorem1.rpy:570
 translate frenchtl _call_skipcheck_16_84b644db:
@@ -846,7 +846,7 @@ translate frenchtl _call_skipcheck_16_6ab78f6e:
 translate frenchtl _call_skipcheck_16_abec4e3c:
 
     # Lo think "Like merhumans?"
-    Lo think "Comme les hommes-poissons?"
+    Lo think "Comme les hommes-poissons ?"
 
 # game/lorem1.rpy:586
 translate frenchtl _call_skipcheck_16_c48dc32f:
@@ -1032,7 +1032,7 @@ translate frenchtl _call_skipcheck_16_6a49ecc6:
 translate frenchtl _call_skipcheck_16_ae0c3ac6:
 
     # c "As for things that aren't immediately visible, we also have different blood types, but I assume you know about that."
-    c "Pour ce qui est des choses qui ne sont pas directement visibles, nous avons aussi différent groupes sanguins, mais je suppose que tu le sais déjà."
+    c "Pour ce qui est des choses qui ne sont pas directement visibles, nous avons aussi différents groupes sanguins, mais je suppose que tu le sais déjà."
 
 # game/lorem1.rpy:678
 translate frenchtl _call_skipcheck_16_7f71981e:
@@ -1122,7 +1122,7 @@ translate frenchtl _call_skipcheck_16_a51215b8:
 translate frenchtl _call_skipcheck_16_a371ebeb:
 
     # Lo happy "Sure! Feedback is a very important part of the development process, so I regularly gather ideas and opinions from others. I even made a website to do this!"
-    Lo happy "Bien sûr ! Le feedback est très important dans le processus de dévelopement, je collecte donc régulièrement les idées et les opinions des autres. J'ai même créé un site internet pour ça !"
+    Lo happy "Bien sûr ! Le retour d'information est très important dans le processus de dévelopement, je collecte donc régulièrement les idées et les opinions des autres. J'ai même créé un site internet pour ça !"
 
 # game/lorem1.rpy:708
 translate frenchtl _call_skipcheck_16_d21af984:
@@ -1326,7 +1326,7 @@ translate frenchtl _call_skipcheck_16_a2b55cc8:
 translate frenchtl _call_skipcheck_16_260f4bd1:
 
     # Lo happy "I got more than enough material to work with. Thanks a lot!"
-    Lo happy "J'ai plus qu'assez de matière avec lequel travailler. Merci beaucoup !"
+    Lo happy "J'ai plus qu'assez de matière avec laquelle travailler. Merci beaucoup !"
 
 # game/lorem1.rpy:821
 translate frenchtl _call_skipcheck_16_d4b333ad:
@@ -1464,7 +1464,7 @@ translate frenchtl lorem1skip_8d36ec37:
 translate frenchtl lorem1skip_fe5f3366:
 
     # c "Okay."
-    c "D'accord"
+    c "D'accord."
 
 # game/lorem1.rpy:926
 translate frenchtl lorem1skip_7efc4cd0:
@@ -1476,7 +1476,7 @@ translate frenchtl lorem1skip_7efc4cd0:
 translate frenchtl lorem1skip_3ec77663:
 
     # Lo "Take care."
-    Lo "Prend soin de toi."
+    Lo "Prends soin de toi."
 
 # game/lorem1.rpy:930
 translate frenchtl lorem1skip_bf8cb88a:
@@ -1560,7 +1560,7 @@ translate frenchtl strings:
 
     # lorem1.rpy:332
     old "Does that mean I'm going to be your game's mascot?"
-    new "Cela veut-il dire que je serais la mascotte de ton jeu ?"
+    new "Cela veut-il dire que je serai la mascotte de ton jeu ?"
 
     # lorem1.rpy:332
     old "So now I'm part of your viral marketing campaign, great."
