@@ -5,7 +5,7 @@
 translate frenchtl anna1_d2dc5415:
 
     # c "(She told me to meet her here, so she's got to be around somewhere.)"
-    c "﻿Elle m'a dit de la retrouver ici, elle doit donc être dans les environs.)"
+    c "﻿(Elle m'a dit de la retrouver ici, elle doit donc être dans les environs.)"
 
 # game/anna1.rpy:30
 translate frenchtl anna1_8d584416:
