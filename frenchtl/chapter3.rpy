@@ -900,13 +900,13 @@ translate frenchtl c3conty_fb272e71:
 translate frenchtl c3conty_ff44517b:
 
     # Br "The night he followed Reza, he found both him and [player_name] at the portal."
-    Br "La nuit où il a suivi Reza, il l'a trouvé ainsi que [player_name] au portail."
+    Br "La nuit où il a suivi Reza, il l'a trouvé avec [player_name] au portail."
 
 # game/chapter3.rpy:1185
 translate frenchtl c3conty_42c8fe85:
 
     # Br "The humans intended to send one of their promised generators through, but there was a confrontation that ended with both Maverick and [player_name] wounded, and Reza running away."
-    Br "Les humains s'apprêtaient à envoyer l'un des générateurs qui leur ont été promis par le portail, mais il y a eu une confrontation dont le résultat fut Maverick ainsi que [player_name] blessés et Reza enfui."
+    Br "Les humains s'apprêtaient à envoyer l'un des générateurs qui leur ont été promis par le portail, mais il y a eu une confrontation dont le résultat fut Maverick ainsi que [player_name] blessés et Reza en fuite."
 
 # game/chapter3.rpy:1187
 translate frenchtl c3conty_de0e4b28:
@@ -924,13 +924,13 @@ translate frenchtl c3conty_1822d45e:
 translate frenchtl c3conty_a380502c:
 
     # Em frown "The question is: Did Maverick cause this, or did he just fail to prevent it?"
-    Em frown "La question est : Maverick a-t-il causé cela, ou a-t-il simplement échoué à l'empêcher ?"
+    Em frown "La question étant : Maverick a-t-il causé cela, ou a-t-il simplement échoué à l'empêcher ?"
 
 # game/chapter3.rpy:1193
 translate frenchtl c3conty_1d484af8:
 
     # Br brow b flip "I have no way of knowing that, Minister."
-    Br brow b flip "Je n'ai aucun moyen de savoir cela, madame la ministre."
+    Br brow b flip "Je n'ai aucun moyen de le savoir, madame la ministre."
 
 # game/chapter3.rpy:1195
 translate frenchtl c3conty_f06bbeac:
@@ -1056,13 +1056,13 @@ translate frenchtl c3conty_76921f74:
 translate frenchtl c3conty_e868e996:
 
     # c "The deal between our races. I firmly stand by our original agreement."
-    c "L'accord entre nos races. Je défends fermement notre accord initial."
+    c "L'accord entre nos espèces. Je défends fermement notre accord initial."
 
 # game/chapter3.rpy:1249
 translate frenchtl c3conty_3b50eeec:
 
     # c "If Reza is involved with these crimes, I want no part of it. It has nothing to do with me or the reasons I came here in the first place. If his actions are endangering this agreement in any way, I want to put a stop to him."
-    c "Si Reza est impliqué dans ces crimes, je ne veux pas quoi que ce soit à voir avec. Cela n'a rien à voir avec moi ou avec les raisons pour lesquelles je suis venu ici à l'origine. Si ces actions mettent en danger notre accord de quelle que manière que ce soit, je veux l'arrêter."
+    c "Si Reza est impliqué dans ces crimes, je ne veux pas à voir quoi que ce soit avec ça. Cela n'a rien à voir avec moi ou avec les raisons pour lesquelles je suis venu ici à l'origine. Si ces actions mettent en danger notre accord de quelque manière que ce soit, je veux y mettre un terme."
 
 # game/chapter3.rpy:1251
 translate frenchtl c3conty_56daee83:
@@ -1080,7 +1080,7 @@ translate frenchtl c3conty_56909199:
 translate frenchtl c3conty_d1151c36:
 
     # Em frown "Nevertheless, I think [player_name] presents a great risk."
-    Em frown "Malgré tout, je pense [player_name] présente un grand risque."
+    Em frown "Malgré tout, je pense que [player_name] présente un grand risque."
 
 # game/chapter3.rpy:1258
 translate frenchtl c3conty_1bc47770:
@@ -1128,7 +1128,7 @@ translate frenchtl c3conty_91b1f921:
 translate frenchtl c3conty_bbf70829:
 
     # Em normal "Then, with your support, this is what shall be done."
-    Em normal "Alors, avec votre aide, c'est ce qu'il sera fait."
+    Em normal "Alors, avec votre soutient, c'est la bonne décision."
 
 # game/chapter3.rpy:1274
 translate frenchtl c3conty_2b92b0a8:
@@ -1254,7 +1254,7 @@ translate frenchtl c3conty_d2b5800f:
 translate frenchtl c3conty_ff4b3897:
 
     # n "It was only then, when our race had become so dependent on technology, that we were immeasurably vulnerable against this kind of disaster."
-    n "C'est seulement à ce moment, quand notre race était devenue si dépendante sur la technologie, que nous étions incroyablement vulnérables face à ce genre de désastre."
+    n "C'est seulement à ce moment, quand notre race était devenue si dépendante de la technologie, que nous étions incroyablement vulnérables face à ce genre de désastre."
 
 # game/chapter3.rpy:1343
 translate frenchtl c3conty_76b2fe88_2:
@@ -1363,7 +1363,7 @@ translate frenchtl c3conty_3ef53b09:
 
     # n "Practically, we were back in the middle ages. Governments collapsed and were overthrown, and the ensuing power vacuums filled with groups of people that were sometimes organized and sometimes not."
     nvl clear
-    n "Nous étions pratiquement de retour au Moyen-Âge. Les gouvernements s'effondrèrent ou furent renversés, les vides du pouvoir qui en résultèrent furent remplis par des groupes, parfois organisés, et parfois non."
+    n "Nous étions pratiquement de retour au Moyen-Âge. Les gouvernements s'effondrèrent ou furent renversés, les vides régaliens qui en résultèrent furent remplis par des groupes, parfois organisés, et parfois non."
 
 # game/chapter3.rpy:1400
 translate frenchtl c3conty_f4cf3da8:
@@ -1399,7 +1399,7 @@ translate frenchtl c3conty_d0161738:
 translate frenchtl c3conty_43c1cb3e:
 
     # n "It's the only way we can retain a modicum of order. Gangs of raiders and looters run rampant on the outside. They wouldn't hesitate to kill first and ask questions later if they had known about my PDA."
-    n "C'est la seule manière par laquelle nous pouvons conserver un certain degré d'ordre. Les gangs de pilleurs sont partout en dehors des murs. Ils n'auraient pas hésité à tuer d'abord et à poser des questions après s'ils avaient su pour mes PDA."
+    n "C'est la seule manière par laquelle nous pouvons conserver un certain degré d'ordre. Les gangs de pillards sont partout en dehors des murs. Ils n'auraient pas hésité à tuer d'abord et à poser des questions après s'ils avaient su pour mes PDA."
 
 # game/chapter3.rpy:1417
 translate frenchtl c3conty_76b2fe88_8:
@@ -1531,7 +1531,7 @@ translate frenchtl c3conty_3c643606:
 translate frenchtl c3conty_81b9cf49:
 
     # Em frown "I cannot take your word under consideration in this matter, Chief. Taking into account Maverick's actions, and your responsibility for them, you will have to be dealt with separately."
-    Em frown "Je ne peux pas prendre votre parole en considération en la matière, commissaire. Considérant les actions de Maverick et votre responsabilité dans celles-ci, je devrai m'occuper de vous séparément."
+    Em frown "Je ne peux pas prendre votre parole en considération dans ce problème, commissaire. Considérant les actions de Maverick et votre responsabilité dans celles-ci, je devrai m'occuper de vous séparément."
 
 # game/chapter3.rpy:1484
 translate frenchtl c3conty_afede6e9:
