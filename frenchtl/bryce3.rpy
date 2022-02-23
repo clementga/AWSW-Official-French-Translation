@@ -226,7 +226,7 @@ translate frenchtl _call_skipcheck_26_f9bad0dc:
 translate frenchtl _call_skipcheck_26_99fb2fd2:
 
   # Br laugh "That's a good one."
-  Br laugh "Ha ! Elle est pas mal, celle là !"
+  Br laugh "Ha ! Elle est pas mal, celle-là !"
 
 # game/bryce3.rpy:241
 translate frenchtl _call_skipcheck_26_58d9fe85:
@@ -615,7 +615,7 @@ translate frenchtl _call_skipcheck_26_1c70d726:
 translate frenchtl _call_skipcheck_26_6efdbf9a:
 
   # Br laugh "Sure, but we just want to have a BBQ, not set the whole beach on fire."
-  Br laugh "Je sais, mais on veux juste allumer un barbeuc', pas foutre le feu à la plage !"
+  Br laugh "Je sais, mais on veut juste allumer un barbeuc', pas foutre le feu à la plage !"
 
 # game/bryce3.rpy:428
 translate frenchtl _call_skipcheck_26_a2e522b8:
@@ -855,7 +855,7 @@ translate frenchtl _call_skipcheck_26_0b89dc64:
 translate frenchtl _call_skipcheck_26_d63c67d4:
 
   # Br laugh "But it's true. I'm not even interested in her. For one, she isn't really my type, and regardless if it's her public or private persona, her personality really sucks."
-  Br laugh "Mais c'est la vérité ! Elle ne m'attire pas plus que ça, en plus ! Déjà, c'est pas mon genre, et peu importe que ce soit en privé ou en public, niveau personalité, ça ne colle pas !"
+  Br laugh "Mais c'est la vérité ! Elle ne m'attire pas plus que ça, en plus ! Déjà, c'est pas mon genre, et peu importe que ce soit en privé ou en public, niveau personnalité, ça ne colle pas !"
 
 # game/bryce3.rpy:537
 translate frenchtl _call_skipcheck_26_ef0b4fdd:
@@ -873,7 +873,7 @@ translate frenchtl _call_skipcheck_26_71a0ef03:
 translate frenchtl _call_skipcheck_26_4251f55e:
 
   # c "I can actually confirm that she does act like a totally different person when she doesn't think she's being watched by the general public."
-  c "Je confirme, elle n'est pas du tout pareil lorsqu'elle n'est plus aux yeux du public."
+  c "Je confirme, elle n'est pas du tout pareille lorsqu'elle n'est plus aux yeux du public."
 
 # game/bryce3.rpy:545
 translate frenchtl _call_skipcheck_26_1bc62c78:
@@ -927,7 +927,7 @@ translate frenchtl _call_skipcheck_26_0e626702:
 translate frenchtl _call_skipcheck_26_2eb3e553:
 
   # Br laugh "She wasn't even remotely subtle about it, either. Once, even the words \"cavity search\" came up. From her, mind you, not me."
-  Br laugh "Elle n'a pas vraiment fait preuve de subtilité à ce sujet d'ailleurs. Une fois il ya même eu les mots \"fouille au corps\" dans une phrase ! C'était d'elle hein, pas de moi !"
+  Br laugh "Elle n'a pas vraiment fait preuve de subtilité à ce sujet d'ailleurs. Une fois il y a même eu les mots \"fouille au corps\" dans une phrase ! C'était d'elle hein, pas de moi !"
 
 # game/bryce3.rpy:563
 translate frenchtl _call_skipcheck_26_36e4ce71:
@@ -993,7 +993,7 @@ translate frenchtl _call_skipcheck_26_16f70752:
 translate frenchtl _call_skipcheck_26_16ff4958:
 
   # Sb "Maybe she does it with everyone she meets."
-  Sb "Elle est peut-être comme ça avec tout ceux qui rentrent dans son bureau ?"
+  Sb "Elle est peut-être comme ça avec tous ceux qui rentrent dans son bureau ?"
 
 # game/bryce3.rpy:593
 translate frenchtl _call_skipcheck_26_a161cce3:
@@ -1065,7 +1065,7 @@ translate frenchtl bryce3pass_fcc80f05:
 translate frenchtl bryce3pass_56fac078:
 
   # Zh "Well, I'm done with this."
-  Zh "Moi perso, j'en ai entendu assez."
+  Zh "Moi perso, j'en ai assez entendu."
 
 # game/bryce3.rpy:628
 translate frenchtl bryce3pass_01f01318:
@@ -1311,7 +1311,7 @@ translate frenchtl bryce3pass_f0490e1a:
 translate frenchtl bryce3pass_7f60646a:
 
   # Sb smile flip "Crossbreeding, that's funny."
-  Sb smile flip "Des croisements, amusant !"
+  Sb smile flip "Des croisements,c’est amusant !"
 
 # game/bryce3.rpy:755
 translate frenchtl bryce3pass_70df3bbd:
@@ -1341,7 +1341,7 @@ translate frenchtl bryce3pass_40bc9a18:
 translate frenchtl bryce3pass_41c5f45d:
 
   # c "And what happens if those couples want to have a child?"
-  c "ET si ces couples veulent un enfant ?"
+  c "Et si ces couples veulent un enfant ?"
 
 # game/bryce3.rpy:767
 translate frenchtl bryce3pass_937a7587:
@@ -1684,7 +1684,7 @@ translate frenchtl bryce3pass_76f738b8:
 translate frenchtl bryce3pass_86e1e633:
 
   # Br "Let's hope [player_name] doesn't have any lasting damage from the experience."
-  Br "Expérons que [player_name] arrivera à se remettre de cette expérience."
+  Br "Espérons que [player_name] arrivera à se remettre de cette expérience."
 
 # game/bryce3.rpy:941
 translate frenchtl bryce3pass_a0cc92d6:
@@ -1841,7 +1841,7 @@ translate frenchtl bryce3pass_dec7d235:
 translate frenchtl bryce3pass_710cb42c:
 
   # Zh "Are you going to make fun of my food choices again?"
-  Zh "Tu vas encore de moquer de mes habitudes alimentaires ?"
+  Zh "Tu vas encore te moquer de mes habitudes alimentaires ?"
 
 # game/bryce3.rpy:1013
 translate frenchtl bryce3pass_1c082526:
@@ -1973,7 +1973,7 @@ translate frenchtl bryce3pass_3070bc42:
 translate frenchtl bryce3pass_929b98a2:
 
   # Br "Well, they all live in the vicinity, but your apartment is on the other side of town. I'm not letting you go home alone at this hour. Reza has always operated during the night, and he may just be waiting for an opportunity like this."
-  Br "Tous ces gus vivent dans le coin, alors que ton appart' est à l'autre bout de la ville. Hors de question que je te laisse rentrer tout seul à cette heure ci. Reza a toujours opéré de nuit, va savoir, si ça se trouve il est pas loin."
+  Br "Tous ces gus vivent dans le coin, alors que ton appart' est à l'autre bout de la ville. Hors de question que je te laisse rentrer tout seul à cette heure-ci. Reza a toujours opéré de nuit, va savoir, si ça se trouve il est pas loin."
 
 # game/bryce3.rpy:1071
 translate frenchtl bryce3pass_6f947559:
@@ -2009,7 +2009,7 @@ translate frenchtl bryce3pass_4e8c7062:
 translate frenchtl bryce3pass_c9d53571:
 
   # m "We started to clean up together, but with the amount of trash left by five people, it was clear it would take a while."
-  m "Nous commençâmes nettoyer et à ranger. On était cinq à avoir mangé ici, et nettoyer tout ce qu'on avait laissé allait prendre du temps."
+  m "Nous commençâmes à nettoyer et ranger. On était cinq à avoir mangé ici, et nettoyer tout ce qu'on avait laissé allait prendre du temps."
 
 # game/bryce3.rpy:1089
 translate frenchtl bryce3pass_1ca03a49:
@@ -2069,7 +2069,7 @@ translate frenchtl bryce3pass_0c64f8b0:
 translate frenchtl bryce3pass_edd97bfe:
 
   # n "We could go anywhere, as long as it was close enough to town. Woods, mountains, beaches, we loved to explore every one of them. We got fairly familiar with our surroundings."
-  n "On avait le droit d'aller où on voulait, tant qu'on restait près de la ville. Les bois, les sommets, les plages, on adorait s'y perdre ! On a tellement bourlingué qu'on connait bien le coin."
+  n "On avait le droit d'aller où on voulait, tant qu'on restait près de la ville. Les bois, les sommets, les plages, on adorait s'y perdre ! On a tellement bourlingué qu'on connaît bien le coin."
 
 # game/bryce3.rpy:1130
 translate frenchtl bryce3pass_acc0137a:
@@ -2105,7 +2105,7 @@ translate frenchtl bryce3pass_26a7647c:
 translate frenchtl bryce3pass_40aa9350:
 
   # n "Plus, since I was alone, I could take the time to explore every last nook and cranny that I wanted to."
-  n "En plus, vu que j'étais tout seul, j'ai pu prendre le temps d'explorer tout les coins et recoins à ma guise."
+  n "En plus, vu que j'étais tout seul, j'ai pu prendre le temps d'explorer tous les coins et recoins à ma guise."
 
 # game/bryce3.rpy:1144
 translate frenchtl bryce3pass_3b2582ce:
@@ -2123,7 +2123,7 @@ translate frenchtl bryce3pass_b477ced8:
 translate frenchtl bryce3pass_525bcad9:
 
   # n "There were a few holes, but I could never fit through any of them or make them bigger in any way. Even if I could, I didn't know where they'd lead."
-  n "J'avais bien trouvé quelques creux, mais aucun n'étais assez large pour moi. Et impossible de creuser ou quoi, de toute façon, je n'avais même aucune idée d'où ils menaient."
+  n "J'avais bien trouvé quelques creux, mais aucun n'était assez large pour moi. Et impossible de creuser ou quoi, de toute façon, je n'avais même aucune idée d'où ils menaient."
 
 # game/bryce3.rpy:1151
 translate frenchtl bryce3pass_76b2fe88_2:
@@ -2159,7 +2159,7 @@ translate frenchtl bryce3pass_13dfc915:
 translate frenchtl bryce3pass_021c07dd:
 
   # n "I must have been there for about four or five hours, all alone, before I heard footsteps above and a search party found me."
-  n "Je crois bien que je suis resté là tout seul pendant quatre ou cinq heures, avant d'entendre des bruits de pas au dessus. C'était l'équipe qui s'était lancée à ma recherche."
+  n "Je crois bien que je suis resté là tout seul pendant quatre ou cinq heures, avant d'entendre des bruits de pas au-dessus. C'était l'équipe qui s'était lancée à ma recherche."
 
 # game/bryce3.rpy:1193
 translate frenchtl bryce3pass_cd1d2fae:
@@ -2309,7 +2309,7 @@ translate frenchtl bryce3skip_89aefe22:
 translate frenchtl bryce3skip_326beed0:
 
   # Br "With all this armor, I'll barely even feel anything, so it doesn't matter where I sleep."
-  Br "Avec ce cuir, je ne sentirai quasiment rien, peu importe ou je dors."
+  Br "Avec ce cuir, je ne sentirai quasiment rien, peu importe où je dors."
 
 # game/bryce3.rpy:1275
 translate frenchtl bryce3skip_84a6eb8a:
@@ -2595,8 +2595,9 @@ translate frenchtl strings:
 
   # bryce3.rpy:1277
   old "The couch is big enough for both of us."
-  new "On devrait loger tout les deux dans le divan."
+  new "On devrait loger tous les deux dans le divan."
 
   # bryce3.rpy:1277
   old "I'll sleep on the floor."
   new "Je vais dormir par terre."
+
