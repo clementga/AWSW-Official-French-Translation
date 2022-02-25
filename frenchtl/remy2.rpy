@@ -532,7 +532,7 @@ translate frenchtl remy2cont_d6d4994f:
 translate frenchtl remy2cont_e78d707f:
 
     # m "Then, I pierced it with the fork, its three prongs penetrating the flesh unrelentingly. Slowly, I raised it to my mouth, and my tongue glided over the bare substance briefly as it entered my lips."
-    m "Je perçai alors avec la fourchette, ses trois dents pénétrant la chair sans résistance aucune. Lentement, je l'amenais à ma bouche, et ma langue carressa brièvement la substance alors qu'elle passait mes lèvres."
+    m "Je perçai alors avec la fourchette, ses trois dents pénétrant la chair sans grande résistance. Lentement, je l'amenais à ma bouche, et ma langue carressa brièvement la substance alors qu'elle passait mes lèvres."
 
 # game/remy2.rpy:565
 translate frenchtl remy2cont_39716cc4:
@@ -754,7 +754,7 @@ translate frenchtl remy2picturesmenu_ba6fa663:
 translate frenchtl remy2picturesmenu_41b1776b:
 
     # Ry "She certainly does that a lot."
-    Ry "Elle fait beaucoup ça."
+    Ry "Elle fait souvent ça."
 
 # game/remy2.rpy:717
 translate frenchtl remy2picturesmenu_2ddd56b8:
@@ -1714,7 +1714,7 @@ translate frenchtl _call_skipcheck_35_191efd00:
 translate frenchtl _call_skipcheck_35_0b0ff756:
 
     # n "By the end of dessert, he seemed a little different, though I couldn't pinpoint how."
-    n "Après avoir mangé le dessert, il semblait un peu différent, cependant je ne pouvais le dire en quoi."
+    n "Après avoir mangé le dessert, il semblait un peu différent, cependant je ne pouvais dire en quoi."
 
 # game/remy2.rpy:1387
 translate frenchtl _call_skipcheck_35_a8c78e19:

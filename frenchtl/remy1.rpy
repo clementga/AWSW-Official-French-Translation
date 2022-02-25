@@ -91,7 +91,7 @@ translate frenchtl _call_skipcheck_22_6788763a:
 
     # m "It was quite a spacious building, lined with many bookcases on multiple floors. From the looks of it, it seemed to be as much of an archive as it was a library, with immaculate order permeating the chamber. It was the kind of place I could see myself getting lost in for an afternoon or two, thumbing through all the interesting books it could offer me."
     m "Le bâtiment était assez spacieux, bordé de nombreuses bibliothèques, le tout sur plusieurs étages. En apparence, cela ressemblait plus à une salle d'archives qu'à une bibliothèque, notamment en raison de l'ordre immaculé qui embaumait la pièce."
-    m "C'était le genre de lieu dans lequel je pouvais volontiers me voir perdu une après-midi ou deux, à feuilleter tous les livres intéressants que cet endroit pouvait m'offrir."
+    m "C'était le genre de lieu dans lequel je pouvais facilement me perdre une après-midi ou deux, à feuilleter tous les livres intéressants que cet endroit avait à m'offrir."
 
 # game/remy1.rpy:121
 translate frenchtl _call_skipcheck_22_97628180:
@@ -115,7 +115,7 @@ translate frenchtl _call_skipcheck_22_b1af94d4:
 translate frenchtl _call_skipcheck_22_5e2d76e5:
 
     # m "I couldn't see who the voice belonged to, but it came from the more private area in the back. It was followed by footsteps that approached it."
-    m "Je ne pus voir à qui la voix appartenait, mais elle semblait provenir d'une zone à l'accès plus restreint à l'arrière. Elle fut suivie par des bruits de pas se rapprochant d'elle."
+    m "Je ne pus voir à qui la voix appartenait, mais elle semblait provenir d'une zone à accès restreint à l'arrière. Elle fut suivie par des bruits de pas se rapprochant d'elle."
 
 # game/remy1.rpy:132
 translate frenchtl _call_skipcheck_22_6d9aa4da:
@@ -175,7 +175,7 @@ translate frenchtl _call_skipcheck_22_a95ce9a8:
 translate frenchtl _call_skipcheck_22_a45b01ce:
 
     # Ry "Of course."
-    Ry "Entendu."
+    Ry "Bien sûr."
 
 # game/remy1.rpy:149
 translate frenchtl _call_skipcheck_22_fd1c755b:
@@ -229,7 +229,7 @@ translate frenchtl _call_skipcheck_22_db919de6:
 translate frenchtl _call_skipcheck_22_d65000d9:
 
     # Ry "I guess you heard that, didn't you? That was my superior. She's the Minister of Culture & Arts, which means I'm technically in her employment, though generally speaking I work for the council at large, not just her."
-    Ry "Il faut croire que tu as entendu tout ça, n'est-ce pas ? C'était ma supérieure. C'est la ministre de la Culture et des Arts, ce qui signifie que je suis techniquement son employé, bien que de manière plus générale je travaille pour le conseil dans son ensemble, pas juste pour elle."
+    Ry "Il faut croire que tu as tout entendu, n'est-ce pas ? C'était ma supérieure. C'est la ministre de la Culture et des Arts, ce qui signifie que je suis techniquement son employé, bien que de manière plus générale je travaille pour le conseil dans son ensemble, pas juste pour elle."
 
 # game/remy1.rpy:191
 translate frenchtl _call_skipcheck_22_50e9faed:
@@ -1369,7 +1369,7 @@ translate frenchtl remystuff_b1af94d4:
 translate frenchtl remystuff_a1dc5ba8:
 
     # Ry "I better go and see what that is about."
-    Ry "Je ferais mieux d'aller voir de quoi il est s'agit."
+    Ry "Je ferais mieux d'aller voir de quoi il s'agit."
 
 # game/remy1.rpy:1270
 translate frenchtl remystuff_1c08a712:

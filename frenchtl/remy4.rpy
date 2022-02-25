@@ -100,7 +100,7 @@ translate frenchtltl _call_skipcheck_28_9a58be3d:
 translate frenchtltl _call_skipcheck_28_10ca1927:
 
     # Ry "Now that you mention it, I did get that impression, but I found the sentiment a bit puzzling. Why would a product like this only be used by one gender?"
-    Ry "Maintenant que tu le mentionnes, j'ai eu cette impression, mais j'ai trouvé cet état d'esprit un peu déroutant. Pourquoi un produit comme celui ci ne serait utilisé que par seulement un sexe ?"
+    Ry "Maintenant que tu le mentionnes, j'ai eu cette impression, mais j'ai trouvé cet état d'esprit un peu déroutant. Pourquoi un produit comme celui ci ne serait utilisé que par seulement un genre ?"
 
 # game/remy4.rpy:135
 translate frenchtltl _call_skipcheck_28_8ef1e24d:
@@ -220,7 +220,7 @@ translate frenchtltl _call_skipcheck_28_7a9d2314:
 translate frenchtltl _call_skipcheck_28_9e8264c2:
 
     # c "I see. Well, we could just stay here in the meantime."
-    c "J vois. Eh bien, on pourrait juste rester ici en attendant."
+    c "Je vois. Eh bien, on pourrait juste rester ici en attendant."
 
 # game/remy4.rpy:209
 translate frenchtltl _call_skipcheck_28_f4be9341:
