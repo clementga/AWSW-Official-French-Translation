@@ -268,7 +268,7 @@ translate french _call_skipcheck_27_90893c34:
 translate french _call_skipcheck_27_1e569efa:
 
     # Ka "If it keeps going like this for much longer, I might have to face the reality of bankruptcy. I was planning to retire in a few years... But I can't. Not like this."
-    Ka "Si ça continue à aller dans ce sens, je devrais fermer boutique. Je prévoyais de prendre ma retraite d'ici quelques années encore... Mais je ne veux pas terminer de cette façon."
+    Ka "Si ça continue à aller dans ce sens, Je devrai mettre la clé sous la porte. Je prévoyais de prendre ma retraite d'ici quelques années encore... Mais je ne veux pas terminer de cette façon."
 
 # game/xkatsu.rpy:200
 translate french _call_skipcheck_27_96db169b:
