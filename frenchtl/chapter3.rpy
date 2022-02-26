@@ -1645,7 +1645,7 @@ translate frenchtl c3conty_4f3c2b46:
 translate frenchtl c3conty_9c719d56:
 
     # m "All in all, I certainly had a unique experience alongside these dragons, and although this place was filled with just as much drama and murder as back home..."
-    m "Somme toute, j'avais certainement eu une expérience unique au côté de ces dragons, et même si cet endroit était aussi rempli de drames et de meurtres qu'à la maison..."
+    m "Au final, j'avais certainement eu une expérience unique au côté de ces dragons, même si cet endroit était aussi rempli de drames et de meurtres qu'à la maison..."
 
 # game/chapter3.rpy:1536
 translate frenchtl c3conty_7a6d8797:
@@ -1681,7 +1681,7 @@ translate frenchtl c3conty_496fe292:
 translate frenchtl c3conty_642d5188:
 
     # Sb "It's none of your concern. Please leave."
-    Sb "Ce n'est rien qui vous concerne. Veuillez partir s'il vous plait."
+    Sb "Ce n'est rien qui vous concerne. Veuillez partir s'il vous plaît."
 
 # game/chapter3.rpy:1556
 translate frenchtl c3conty_6b72891a:
@@ -1717,7 +1717,7 @@ translate frenchtl c3conty_a8b7639c:
 translate frenchtl c3conty_95221d1b:
 
     # c "It wasn't my choice. The Minister made this decision just a moment ago. You'll be hearing about the reasons soon enough."
-    c "Ce n'était pas mon choix. Le ministre a pris cette décision il n'y a que peu de temps. Tu entendras parler des raisons bien assez tôt."
+    c "Ce n'était pas mon choix. Le ministre a pris cette décision à l'instant. Tu entendras parler des raisons bien assez tôt."
 
 # game/chapter3.rpy:1578
 translate frenchtl c3conty_d39faff6:
@@ -1741,7 +1741,7 @@ translate frenchtl c3conty_7707a1a7:
 translate frenchtl c3conty_977a308b:
 
     # c "I don't have anything to do with that. I was helping the police find him. "
-    c "Je n'ai rien à faire avec tout ça. J'aidais la police à le retrouver."
+    c "Je n'ai rien à voir avec tout ça. J'aidais la police à le retrouver."
 
 # game/chapter3.rpy:1586
 translate frenchtl c3conty_88c0fd78:
@@ -1801,7 +1801,7 @@ translate frenchtl c3conty_2d24d594:
 translate frenchtl c3conty_9ea817d3:
 
     # Ad disappoint b "And I couldn't even show you my flying. I was just practicing when I saw you down here."
-    Ad disappoint b "Et je n'ai même pas pu te montrer mes techniques de vol. J'étais justement en train de m'entraîner quand je t'ai aperçu ici."
+    Ad disappoint b "Et je n'ai même pas pu te montrer mes figures aériennes. J'étais justement en train de m'entraîner quand je t'ai aperçu ici."
 
 # game/chapter3.rpy:1606
 translate frenchtl c3conty_d9006070:
@@ -1885,7 +1885,7 @@ translate frenchtl c3conty_a9d0b1ac:
 translate frenchtl c3conty_977a308b_1:
 
     # c "I don't have anything to do with that. I was helping the police find him. "
-    c "Je n'ai rien à faire avec tout ça. J'aidais la police à le retrouver."
+    c "Je n'ai rien à voir avec tout ça. J'aidais la police à le retrouver."
 
 # game/chapter3.rpy:1637
 translate frenchtl c3conty_88c0fd78_1:
@@ -1939,7 +1939,7 @@ translate frenchtl c3conty_71da670e:
 translate frenchtl c3conty_e9b0da49:
 
     # Ad "I was practicing my flying when I saw you down here. What's going on?"
-    Ad "Je m'entraînais sur mes techniques de vol quand je t'ai aperçu ici. Qu'est-ce qu'il se passe ?"
+    Ad "Je m'entraînais sur mes figures aériennes quand je t'ai aperçu ici. Qu'est-ce qu'il se passe ?"
 
 # game/chapter3.rpy:1658
 translate frenchtl c3conty_e56d1698:
@@ -2089,7 +2089,7 @@ translate frenchtl c3conty_add0f654:
 translate frenchtl c3conty_bb3816a8:
 
     # Ad normal b "I was just practicing my flying when I spotted you down here, and who would say no to an opportunity to meet one of the humans? Not me."
-    Ad normal b "J'étais juste en train de m'entraîner sur mes techniques de vol quand je t'ai aperçu ici. Qui refuserait une opportunité de rencontrer l'un des humain ? Pas moi."
+    Ad normal b "J'étais juste en train de m'entraîner sur mes figures aériennes quand je t'ai aperçu ici. Qui refuserait une opportunité de rencontrer l'un des humain ? Pas moi."
 
 # game/chapter3.rpy:1711
 translate frenchtl c3conty_349fafb7:
@@ -2131,7 +2131,7 @@ translate frenchtl c3conty_96933db5:
 translate frenchtl c3conty_977a308b_3:
 
     # c "I don't have anything to do with that. I was helping the police find him. "
-    c "Je n'ai rien à faire avec tout ça. J'aidais la police à le retrouver."
+    c "Je n'ai rien à voir avec tout ça. J'aidais la police à le retrouver."
 
 # game/chapter3.rpy:1725
 translate frenchtl c3conty_88c0fd78_2:
