@@ -64,7 +64,7 @@ translate frenchtltl _call_skipcheck_24_07d1113d:
 translate frenchtltl _call_skipcheck_24_ac05d355:
 
     # Ry "Well, what do you think of it?"
-    Ry "Eh bien, Qu'est-ce que tu en penses ?"
+    Ry "Eh bien, qu'est-ce que tu en penses ?"
 
 # game/remy3.rpy:139
 translate frenchtltl _call_skipcheck_24_3724466d:
@@ -148,7 +148,7 @@ translate frenchtltl _call_skipcheck_24_3eb4c49e:
 translate frenchtltl _call_skipcheck_24_c2b8d8a8:
 
     # Ry "Do you ever feel like there is an emptiness inside you? That every day is the same, joyless routine that you wish you could escape - but you can't?"
-    Ry "As tu déjà senti un vide au fond de toi ? Que chaque jour était la même routine triste dont tu rêverais d'échapper - sans le puvoir ?"
+    Ry "As-tu déjà senti un vide au fond de toi ? Que chaque jour était la même routine triste dont tu rêverais d'échapper - sans le puvoir ?"
 
 # game/remy3.rpy:206
 translate frenchtltl _call_skipcheck_24_07d1113d_1:
@@ -353,7 +353,7 @@ translate frenchtltl _call_skipcheck_24_6ace5aff:
 translate frenchtltl _call_skipcheck_24_12960b72:
 
     # n "One late evening, she went out to pick up her medication - in addition to something to help her stay awake. But she was sick and overworked. The combination of the prescription's side effects and the supplements caused her to collapse. No one was around to see her fall."
-    n "Un soir tard, elle sortit pour aller chercher ses médicaments - en plus de quelque chose pour la maintenir éveillée. Mais elle était malade et surmenée. La combinaison des effets secondaires du traitement et les suppléments causèrent sont évanouissement. Personne n'était présent quand c'est arrivé."
+    n "Un soir tard, elle sortit pour aller chercher ses médicaments - en plus de quelque chose pour la maintenir éveillée. Mais elle était malade et surmenée. La combinaison des effets secondaires du traitement et des suppléments causèrent sont évanouissement. Personne n'était présent quand c'est arrivé."
 
 # game/remy3.rpy:304
 translate frenchtltl _call_skipcheck_24_daa29987:
@@ -431,7 +431,7 @@ translate frenchtltl _call_skipcheck_24_ee27ef00:
 translate frenchtltl _call_skipcheck_24_cf9bdce1:
 
     # Ry "Even my home is a reminder of her. We were going to move in to that apartment together."
-    Ry "Même mon chez moi me fait penser à elle. Nous allions emménager dans cet appartement ensemble."
+    Ry "Même mon chez-moi me fait penser à elle. Nous allions emménager dans cet appartement ensemble."
 
 # game/remy3.rpy:340
 translate frenchtltl _call_skipcheck_24_e2debe6f:
@@ -1163,7 +1163,7 @@ translate frenchtltl _call_skipcheck_25_f959f65b:
 translate frenchtltl _call_skipcheck_25_a3b2eb8b:
 
     # c "Three infractions of our rules and you get thrown out of the city. If someone is a drain on our limited resources, we won't support them."
-    c "Trois infractions de nos règles et tu est banni de la ville. Si quelqu'un tire trop sur nos ressources, qui sont déjà limitées, on ne le soutiendra pas"
+    c "Trois infractions de nos règles et tu est banni de la ville. Si quelqu'un tire trop sur nos ressources, qui sont déjà limitées, on ne le soutiendra pas."
 
 # game/remy3.rpy:778
 translate frenchtltl _call_skipcheck_25_420d1f0a:
@@ -1493,7 +1493,7 @@ translate frenchtltl _call_skipcheck_25_eadae91a:
 translate frenchtltl _call_skipcheck_25_e862099e:
 
     # c "Back home, I was just trying to survive and help others do the same. That hasn't changed. I'm almost afraid of going back to the city, though. Times are so rough."
-    c "Chez moi, J'essayais juste de survivre et d'aider les autres à faire de même. Ça n'a pas changé. En revanche, je suis effrayé à l'idée de rentrer chez moi. Les temps sont durs."
+    c "Chez moi, j'essayais juste de survivre et d'aider les autres à faire de même. Ça n'a pas changé. En revanche, je suis effrayé à l'idée de rentrer chez moi. Les temps sont durs."
 
 # game/remy3.rpy:933
 translate frenchtltl _call_skipcheck_25_c7ad976e:
