@@ -2359,7 +2359,7 @@ translate frenchtl c3conty_8f99437e:
 translate frenchtl c3conty_27d5d292:
 
     # Sb "I hope I can remember how this thing works..."
-    Sb "J'espère pouvoir me rappeler de comment cette chose fonctionne..."
+    Sb "J'espère me rappeler comment fonctionne ce truc..."
 
 # game/chapter3.rpy:1834
 translate frenchtl c3conty_148b8d6f:
@@ -2383,7 +2383,7 @@ translate frenchtl c3conty_44f9bfc0:
 translate frenchtl c3conty_3456d2be:
 
     # Sb normal b "Let's keep it professional. I don't like to mix personal matters with work."
-    Sb normal b "Restons professionnels. Je n'aime mêler affaires personnelles et travail."
+    Sb normal b "Restons professionnels. Je n'aime pas mêler affaires personnelles et travail."
 
 # game/chapter3.rpy:1842
 translate frenchtl c3conty_4ff6fd93:
@@ -2591,7 +2591,7 @@ translate frenchtl c3conty_929882d8:
 translate frenchtl c3conty_8b24b374:
 
     # m "We were back at the Ministry before long. Emera and Bryce were still outside, as Remy approached the two of them."
-    m "Quelques instants plus tard nous étions de retour au ministère. Emera et Bryce étaient toujours dehors, alors que Rémi s'approchait de ces deux-là."
+    m "Quelques instants plus tard nous étions de retour au ministère. Emera et Bryce étaient toujours dehors, alors que Rémi s'approchait d'eux."
 
 # game/chapter3.rpy:1963
 translate frenchtl c3conty_48f06d44:
@@ -2663,7 +2663,7 @@ translate frenchtl c3conty_3df534d0:
 translate frenchtl c3conty_6d182056:
 
     # Em ques "Chief, as a result of your carelessness regarding Maverick and Reza, you are temporarily removed from any duties related to the humans."
-    Em ques "Commissaire, en raison de votre négligence en regard de Maverick et de Reza, vous êtes temporairement suspendu de tout devoir en lien avec les humains."
+    Em ques "Commissaire, en raison de votre négligence en regard de Maverick et de Reza, vous êtes temporairement suspendu de tout devoir relatifs aux humains."
 
 # game/chapter3.rpy:1991
 translate frenchtl c3conty_23c8f7d9:
@@ -2807,7 +2807,7 @@ translate frenchtl c3conty_2bbdb8a8:
 translate frenchtl c3conty_d3f8a3f0:
 
     # Em "I am afraid we will have to deduct this from your wage again."
-    Em "Je crains que j'aurai à déduire cela de ton salaire de nouveau."
+    Em "Je crains que j'aurai à déduire cela de ton salaire une fois de plus."
 
 # game/chapter3.rpy:2068
 translate frenchtl c3conty_07d1113d:
@@ -2855,7 +2855,7 @@ translate frenchtl c3conty_c09a99fc:
 translate frenchtl c3conty_a7037060:
 
     # m "I only opened the door long enough to hand Remy the sheet of paper."
-    m "J'ouvris la porte juste assez pour donner la feuille de papier à Rémi."
+    m "J'ouvris la porte juste assez longtemps pour donner la feuille de papier à Rémi."
 
 # game/chapter3.rpy:2090
 translate frenchtl c3conty_bc8855dc:
@@ -5109,7 +5109,7 @@ translate frenchtl _call_syscheck_20_06fe5d86:
 translate frenchtl _call_syscheck_20_0839c1ef:
 
     # s "You pranked Bryce. You naughty, naughty person."
-    s "Tu as fait une farce à Bryce. Ca pour être espiègle."
+    s "Tu as fait une farce à Bryce. Ça pour être espiègle."
 
 # game/chapter3.rpy:3704
 translate frenchtl _call_syscheck_20_4c34f1c4:
@@ -6351,7 +6351,7 @@ translate frenchtl strings:
 
     # chapter3.rpy:1223
     old "Bryce wouldn't let me say no."
-    new "Bryce ne m'a pas laissé dire non."
+    new "Bryce ne me laisserait pas dire non."
 
     # chapter3.rpy:1223
     old "It is my best bet at finding the truth."
@@ -6411,7 +6411,7 @@ translate frenchtl strings:
 
     # chapter3.rpy:3282
     old "Actually, I'm kinda busy right now."
-    new "Au fait, je suis plutôt occupé en ce moment."
+    new "En fait, je suis plutôt occupé en ce moment."
 
     # chapter3.rpy:3465
     old "Study the blueprint of the underground building near the portal."
