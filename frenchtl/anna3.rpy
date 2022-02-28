@@ -64,7 +64,7 @@ translate frenchtl _call_skipcheck_0054b77b:
 translate frenchtl _call_skipcheck_7237b0a4:
 
     # c "So, what exactly is this room?"
-    c "Quelle est donc cette pièce ?"
+    c "À quoi sert cette pièce exactement ?"
 
 # game/anna3.rpy:150
 translate frenchtl _call_skipcheck_69d9df16:
@@ -76,13 +76,13 @@ translate frenchtl _call_skipcheck_69d9df16:
 translate frenchtl _call_skipcheck_bfc7829e:
 
     # c "And what exactly do you test here?"
-    c "Et qu'est-ce que tu testes exactement ?"
+    c "Et qu'est-ce que vous testez ici, exactement ?"
 
 # game/anna3.rpy:154
 translate frenchtl _call_skipcheck_0d7511f8:
 
     # An smirk b "You'll see that soon enough. I intend to use this facility to its fullest potential."
-    An smirk b "Tu vas le voir très vite. J'ai l'intention d'utiliser ce laboratoire a son plein potentiel."
+    An smirk b "Tu vas très vite le voir. J'ai l'intention d'utiliser ce laboratoire à son plein potentiel."
 
 # game/anna3.rpy:156
 translate frenchtl _call_skipcheck_89aefe22:
@@ -94,19 +94,19 @@ translate frenchtl _call_skipcheck_89aefe22:
 translate frenchtl _call_skipcheck_0d56635a:
 
     # An normal b "Let's start with this one."
-    An normal b "Commençons avec celui-ci."
+    An normal b "Commençons avec ça."
 
 # game/anna3.rpy:162
 translate frenchtl _call_skipcheck_df72d121:
 
     # c "What's that?"
-    c "Qu'est-ce donc ?"
+    c "Qu'est-ce c'est ?"
 
 # game/anna3.rpy:164
 translate frenchtl _call_skipcheck_27ed4a2a:
 
     # An "I can get a good look at your bone structure, muscle groups and organs with this. For the finer details, we'll need a different machine."
-    An "Avec ça, je vais pouvoir avoir un bon aperçu de ta structure osseuse, ainsi que de tes groupes musculaires et organes. Pour les détails les plus fins, il nous faudra une autre machine."
+    An "Avec ça, je vais avoir un bon aperçu de ta structure osseuse, ainsi que de tes groupes musculaires et de tes organes. Pour les détails plus fins, il nous faudra une autre machine."
 
 # game/anna3.rpy:166
 translate frenchtl _call_skipcheck_e6746144:
@@ -166,7 +166,7 @@ translate frenchtl _call_skipcheck_c1bfa14d:
 translate frenchtl _call_skipcheck_dc7a3460:
 
     # An sad b "Now, please try not to move too much while this is running."
-    An sad b "Maintenant, s'il te plaît, essaye de ne pas trop bouger pendant que la machine est en route."
+    An sad b "Maintenant, essaye de ne pas trop bouger pendant que la machine est en route."
 
 # game/anna3.rpy:191
 translate frenchtl _call_skipcheck_436ffffb:
@@ -184,7 +184,7 @@ translate frenchtl _call_skipcheck_963f63c3:
 translate frenchtl _call_skipcheck_7c35cf59:
 
     # c "And what do we do now? Just wait until it's over?"
-    c "Et que fait-on maintenant ? Simplement attendre jusqu'à ce qu'elle finisse ?"
+    c "Et que fait-on maintenant ? Simplement attendre jusqu'à ce ça soit fini ?"
 
 # game/anna3.rpy:197
 translate frenchtl _call_skipcheck_9c360a25:
@@ -208,7 +208,7 @@ translate frenchtl _call_skipcheck_dc15bd8a:
 translate frenchtl _call_skipcheck_282a6965:
 
     # An smirk b "Is that your scientific curiosity shining through? I can approve of that."
-    An smirk b "Serait-ce ta curiosité scientifique qui s'illumine ? Je peux approuver cela."
+    An smirk b "Serait-ce ta curiosité scientifique qui ressort ? Je ne peux qu'approuver cela."
 
 # game/anna3.rpy:229
 translate frenchtl _call_skipcheck_7416e511:
@@ -232,7 +232,7 @@ translate frenchtl _call_skipcheck_98d32ec3:
 translate frenchtl _call_skipcheck_13ce0798:
 
     # An smirk b "Oh, there’s a lot you haven’t seen yet."
-    An smirk b "Oh, il y a bien des choses que tu n'as pas encore vus."
+    An smirk b "Oh, il y a bien des choses que tu n'as pas encore vues."
 
 # game/anna3.rpy:243
 translate frenchtl _call_skipcheck_f69898f4:
@@ -268,7 +268,7 @@ translate frenchtl _call_skipcheck_95705667:
 translate frenchtl _call_skipcheck_eb4b8d72:
 
     # An sad b "It's quite something, isn't it? You know, if I stayed as late as I used to, I might have been there when the break-in happened."
-    An sad b "C'est incroyable n'est-ce pas ? Tu sais, si j'étais restée aussi tardivement que d'habitude, j'aurais pu être là lors de l'effraction !"
+    An sad b "C'est incroyable n'est-ce pas ? Tu sais, si j'étais restée aussi tardivement que d'habitude, j'aurais pu être là lors de l'effraction."
 
 # game/anna3.rpy:260
 translate frenchtl _call_skipcheck_305afc93:
