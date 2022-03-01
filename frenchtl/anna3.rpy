@@ -328,7 +328,7 @@ translate frenchtl _call_skipcheck_5bd33aec:
 translate frenchtl _call_skipcheck_c9d4967f:
 
     # An normal b "Don't hold your breath. It'll be processing for some time, and the resulting data will be so vast that I'll probably end up studying it for days."
-    An normal b "Ne retiens pas ton souffle. Il va falloir un moment pour calculer, mais les données résultantes vont être si fournis, que je vais probablement finir par les étudiers pendant des jours."
+    An normal b "Ne retiens pas ton souffle. Il va falloir un moment pour calculer, mais les données résultantes vont être si fournis, que je vais probablement me retrouver à les étudier pendant des jours."
 
 # game/anna3.rpy:284
 translate frenchtl _call_skipcheck_bf7914e7:
@@ -358,7 +358,7 @@ translate frenchtl _call_skipcheck_dbb15bb8:
 translate frenchtl _call_skipcheck_f4cc1e47:
 
     # An "I suppose you're right. It would be insulting to call those thin little things of yours claws. They'd probably break off before you could make use of them in any practical way."
-    An "Je suppose que tu as raison. Ce serait une insulte d'appeller ces petites choses fragiles des griffes. Ils se briseront probablement avant que tu puisses en faire un quelconque usage."
+    An "Je suppose que tu as raison. Ce serait une insulte d'appeller ces petites choses fragiles des griffes. Ils se briseront probablement avant que tu puisses en faire quoi que ce soit."
 
 # game/anna3.rpy:294
 translate frenchtl _call_skipcheck_2c080525:
@@ -382,7 +382,7 @@ translate frenchtl _call_skipcheck_41d0fcd3:
 translate frenchtl _call_skipcheck_947bc3b6:
 
     # An face b "Hold still, then."
-    An face b "Ne bouge plus dans ce cas."
+    An face b "Ne bouge plus."
 
 # game/anna3.rpy:302
 translate frenchtl _call_skipcheck_6aac9cf2:
@@ -496,7 +496,7 @@ translate frenchtl _call_skipcheck_c9371a49:
 translate frenchtl _call_skipcheck_34b94ecc:
 
     # An "Keratin is the substance that forms the claws on us dragons and most of the animals here. At least as far as mammals, reptiles and birds are concerned."
-    An "La Kératine est la substance qui forme nos griffes a nous autres dragons, mais aussi pour la majorité des animaux ici. Enfin ce sont principalement les mammifères, les reptiles et les oiseaux qui sont concernés."
+    An "La Kératine est la substance qui forme nos griffes à nous autres dragons, mais aussi pour la majorité des animaux ici. Enfin ce sont principalement les mammifères, les reptiles et les oiseaux qui sont concernés."
 
 # game/anna3.rpy:390
 translate frenchtl _call_skipcheck_3e38b9a5:
@@ -550,13 +550,13 @@ translate frenchtl _call_skipcheck_440bf815:
 translate frenchtl _call_skipcheck_ddcf9964:
 
     # An sad b "What a hassle."
-    An sad b "Quelle tracas."
+    An sad b "Quelle plaie."
 
 # game/anna3.rpy:409
 translate frenchtl _call_skipcheck_b32286d1:
 
     # c "So, how long are you planning on keeping me here?"
-    c "Et tu plannifies de me garder ici encore combien de temps ?"
+    c "Et tu prévois de me garder ici encore combien de temps ?"
 
 # game/anna3.rpy:411
 translate frenchtl _call_skipcheck_ada9c9ed:
@@ -580,7 +580,7 @@ translate frenchtl _call_skipcheck_168b3fa1:
 translate frenchtl _call_skipcheck_7f6008ee:
 
     # An smirk b "I don't complain, I just point out errors. Besides, I'd be empress, not just a queen."
-    An smirk b "Je ne me plains pas, je démontre juste les erreurs. De plus je serais impératrice et non juste reine."
+    An smirk b "Je ne me plains pas, je démontre juste les erreurs. De plus je serais impératrice, pas juste reine."
 
 # game/anna3.rpy:432
 translate frenchtl _call_skipcheck_e864050c:
