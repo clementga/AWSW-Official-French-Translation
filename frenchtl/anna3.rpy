@@ -730,13 +730,13 @@ translate frenchtl _call_skipcheck_9fe2c3cb:
 translate frenchtl _call_skipcheck_27fa0868:
 
     # An "You turn blue when you get cold? I'd like to see that."
-    An "Tu deviens bleu lorsque tu as froid ? J'aimerais bien voir ça."
+    An "Tu vires au bleu quand tu as froid ? J'aimerais bien voir ça."
 
 # game/anna3.rpy:536
 translate frenchtl _call_skipcheck_dcf3fea3:
 
     # c "It was just a joke. Besides, when that happens, it's usually too late to get out of it again unscathed."
-    c "C'était une blague ! De toute façon, si jamais ça arrive, il sera généralement trop tard pour s'en sortir indemne."
+    c "C'était une blague. De toute façon, si jamais ça arrive, il sera généralement trop tard pour s'en sortir indemne."
 
 # game/anna3.rpy:538
 translate frenchtl _call_skipcheck_907fd9b9:
@@ -766,7 +766,7 @@ translate frenchtl _call_skipcheck_d8769e8b:
 translate frenchtl _call_skipcheck_923677ef:
 
     # An "Perfect, just as if it was made for you."
-    An "Parfait, il te va à merveille !"
+    An "Parfait, il te va à merveille."
 
 # game/anna3.rpy:560
 translate frenchtl _call_skipcheck_ace5230b:
@@ -808,7 +808,7 @@ translate frenchtl _call_skipcheck_89aefe22_1:
 translate frenchtl _call_skipcheck_d0bcea50:
 
     # An "Now, I'm going to ask you a few questions."
-    An "Je vais a présent te poser une série de questions."
+    An "Je vais à présent te poser une série de questions."
 
 # game/anna3.rpy:576
 translate frenchtl _call_skipcheck_53c42227:
@@ -892,7 +892,7 @@ translate frenchtl _call_skipcheck_e69e42b8_1:
 translate frenchtl _call_skipcheck_517c1f4e:
 
     # An smirk b "Interesting."
-    An smirk b "Intéréssant."
+    An smirk b "Intéressant."
 
 # game/anna3.rpy:628
 translate frenchtl _call_skipcheck_20ebc311:
@@ -952,7 +952,7 @@ translate frenchtl _call_skipcheck_ad47e3fc:
 translate frenchtl _call_skipcheck_be96e93c:
 
     # An normal b "Did you have any ulterior motives when you came to our world, or is it as simple as we are led to believe?"
-    An normal b "Vous aviez d'autres objectifs en venant dans notre monde, où tout est aussi clair que ce qu'on a été amené à croire ?"
+    An normal b "Vous aviez d'autres objectifs en venant dans notre monde, où tout est aussi simple que ce qu'on a été amené à croire ?"
 
 # game/anna3.rpy:690
 translate frenchtl _call_skipcheck_80b7fddd_2:
@@ -988,13 +988,13 @@ translate frenchtl _call_skipcheck_89aefe22_2:
 translate frenchtl _call_skipcheck_36e9dc76:
 
     # An "It's kind of a shame, because in the end a lack of additional subjects for this test means those results might not be very useful to us. We'd probably need a few more humans."
-    An "En fait, c'est dommage que je n'aie pas d'autres cobayes humains à portée de griffes, parce que sans ça l'intérêt de ce test reste limité. Il nous en faudrait certainement une poignée supplémentaire."
+    An "En fait, c'est dommage que je n'aie pas d'autres cobayes humains à portée de griffes, parce que sans ça, l'intérêt de ce test reste limité. Il nous en faudrait certainement une poignée supplémentaire."
 
 # game/anna3.rpy:704
 translate frenchtl _call_skipcheck_56c533ec:
 
     # c "Then why do them in the first place?"
-    c "Alors pourquoi les faires ?"
+    c "Alors pourquoi les faire ?"
 
 # game/anna3.rpy:706
 translate frenchtl _call_skipcheck_14f50917:
@@ -1006,7 +1006,7 @@ translate frenchtl _call_skipcheck_14f50917:
 translate frenchtl _call_skipcheck_f14b9121:
 
     # c "Well, what's next?"
-    c "D'accord... c'est quoi la suite ?"
+    c "D'accord, c'est quoi la suite ?"
 
 # game/anna3.rpy:710
 translate frenchtl _call_skipcheck_2f478378:
@@ -1054,7 +1054,7 @@ translate frenchtl _call_skipcheck_ad7e5d05:
 translate frenchtl _call_skipcheck_72f12414:
 
     # An "No, I'm not in the mood to put the suit on and sterilize the whole room."
-    An "Nan, je ne suis pas d'humeur à enfiler de combinaison intégrale et à stériliser tout le labo."
+    An "Nan, je ne suis pas d'humeur à enfiler la combinaison et à stériliser tout le labo."
 
 # game/anna3.rpy:749
 translate frenchtl _call_skipcheck_d4cea22c:
@@ -1204,7 +1204,7 @@ translate frenchtl _call_skipcheck_7366e021:
 translate frenchtl _call_skipcheck_c5e3065c:
 
     # An "Anyway, you can start whenever. The monitor should take care of the rest."
-    An "Quoi qu'il en soit, tu peux commencer quand tu sera prêt. Le moniteur s'occupera du reste."
+    An "Efin bref, tu peux commencer quand tu sera prêt. Le moniteur s'occupera du reste."
 
 # game/anna3.rpy:859
 translate frenchtl _call_skipcheck_ceb6fc6a:
@@ -1354,7 +1354,7 @@ translate frenchtl _call_skipcheck_afce4b58:
 translate frenchtl _call_skipcheck_3d9e61f3:
 
     # Ry "One question before I go: Have you made up your mind about it yet?"
-    Ry "Dit, avant que je ne parte, est-ce que tu t'es enfin décidé ?"
+    Ry "Une question avant que je ne parte, est-ce que tu t'es enfin décidé ?"
 
 # game/anna3.rpy:928
 translate frenchtl _call_skipcheck_bb00a52c_1:
@@ -1390,7 +1390,7 @@ translate frenchtl _call_skipcheck_2ee5b10f:
 translate frenchtl _call_skipcheck_acc659e8:
 
     # Ry "Until we meet again."
-    Ry "A la prochaine."
+    Ry "À la prochaine."
 
 # game/anna3.rpy:949
 translate frenchtl _call_skipcheck_5fc96028:
@@ -1570,7 +1570,7 @@ translate frenchtl _call_skipcheck_106cdec3:
 translate frenchtl _call_skipcheck_f282a91e:
 
     # Ry "I would've warned you about her, but I think you know what you're doing."
-    Ry "J'aurai pu te parler un peu d'elle et te prévenir à son sujet. Mais bon je suppose que te sais ce que tu fais."
+    Ry "J'aurai pu te parler un peu d'elle et te prévenir à son sujet. Mais bon je suppose que tu sais ce que tu fais."
 
 # game/anna3.rpy:1039
 translate frenchtl _call_skipcheck_3e831290:
@@ -1642,7 +1642,7 @@ translate frenchtl _call_skipcheck_0f173ebb:
 translate frenchtl _call_skipcheck_5e2c01f1:
 
     # Ry "Is there a reason why you haven't returned my calls?"
-    Ry "Y a-t-il une raison pour laquelle tu ne m'ais pas rappelé ?"
+    Ry "Y a-t-il une raison pour laquelle tu ne m'aies pas rappelé ?"
 
 # game/anna3.rpy:1072
 translate frenchtl _call_skipcheck_252e6333:
@@ -1786,13 +1786,13 @@ translate frenchtl _call_skipcheck_80b7fddd_3:
 translate frenchtl _call_skipcheck_1ffa9ae9:
 
     # c "You sure get to ask me a lot of questions here."
-    c "Pour sûr tu me poses un paquet de questions."
+    c "Pour sûr, tu me poses un paquet de questions."
 
 # game/anna3.rpy:1192
 translate frenchtl _call_skipcheck_8e8d0cab:
 
     # An "All just part of the tests."
-    An "Ça fait partie du travail."
+    An "Ça fait partie des tests."
 
 # game/anna3.rpy:1194
 translate frenchtl _call_skipcheck_6545724e:
@@ -1804,13 +1804,13 @@ translate frenchtl _call_skipcheck_6545724e:
 translate frenchtl _call_skipcheck_b9416955:
 
     # c "Does that mean we're done here?"
-    c "Ça veux dire qu'on en a fini pour le moment ?"
+    c "Ça veut dire qu'on en a fini pour le moment ?"
 
 # game/anna3.rpy:1198
 translate frenchtl _call_skipcheck_d7326f0d:
 
     # An "Oh, some of the data from the scanning machine has been processed. We can look at some pretty pictures of you."
-    An "Oh, certaines données du scanner ont été traitées ! Ça veux dire qu'on va pouvoir regarder quelques jolies photos de toi."
+    An "Oh, certaines données du scanner ont été traitées ! Ça veut dire qu'on va pouvoir regarder quelques jolies photos de toi."
 
 # game/anna3.rpy:1204
 translate frenchtl _call_skipcheck_26759579:
@@ -1954,7 +1954,7 @@ translate frenchtl _call_skipcheck_2617345f:
 translate frenchtl _call_skipcheck_909eef1d:
 
     # c "Does that approach ever work?"
-    c "Ça marche toujours cette tactique ?"
+    c "Ça marche toujours cette approche ?"
 
 # game/anna3.rpy:1274
 translate frenchtl _call_skipcheck_62558beb:
@@ -1966,7 +1966,7 @@ translate frenchtl _call_skipcheck_62558beb:
 translate frenchtl _call_skipcheck_ee8878c8:
 
     # c "You being that rude to everyone."
-    c "Tu es insuportable avec tout le monde, ou juste avec moi ?"
+    c "D'être insuportable avec tout le monde."
 
 # game/anna3.rpy:1280
 translate frenchtl _call_skipcheck_cbd94a65_1:
@@ -2158,7 +2158,7 @@ translate frenchtl _call_skipcheck_ab75d247:
 translate frenchtl _call_skipcheck_b2210746:
 
     # c "And that’s why you became a scientist?"
-    c "C'est pour elle que tu es devenue scientifique ?"
+    c "C'est pour ça que tu es devenue scientifique ?"
 
 # game/anna3.rpy:1397
 translate frenchtl _call_skipcheck_8736a70b:
@@ -2200,7 +2200,7 @@ translate frenchtl _call_skipcheck_c604cb5c:
 translate frenchtl _call_skipcheck_7e7e1abc:
 
     # c "And you're doing all of that, because of your pure, unselfish heart."
-    c "Et c'est a cause de ton coeur pur et altruiste que tu fais tout ça ?"
+    c "Et c'est à cause de ton cœur pur et altruiste que tu fais tout ça ?"
 
 # game/anna3.rpy:1411
 translate frenchtl _call_skipcheck_9b6765fb:
@@ -2248,7 +2248,7 @@ translate frenchtl anna3skip_ca0dca51:
 translate frenchtl anna3skip_844b0123:
 
     # An normal b "But, maybe some other time."
-    An normal b "Mais, peut être Une autre fois."
+    An normal b "Mais, peut être une autre fois."
 
 # game/anna3.rpy:1433
 translate frenchtl anna3skip_4e24c2ca:
