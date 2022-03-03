@@ -4,7 +4,7 @@
 translate frenchtl adine4_82ee252e:
 
     # c "(That must be her.)"
-    c "(Ca doit être elle.)"
+    c "(Ça doit être elle.)"
 
 # game/adine4.rpy:38
 translate frenchtl adine4_265e20e7:
@@ -22,13 +22,13 @@ translate frenchtl adine4_9fe9869e:
 translate frenchtl adine4_e7995973:
 
     # Ad giggle b "Are you ready to go?"
-    Ad giggle b "Alors, tu es prêt ?"
+    Ad giggle b "Tu es prêt à y aller ?"
 
 # game/adine4.rpy:44
 translate frenchtl adine4_abbd9af4:
 
     # c "Sure am! I can't wait to see everything the festival has to offer."
-    c "Bien sûr, j'ai hâte de voir ce que le festival a à offrir."
+    c "Bien sûr, j'ai hâte de voir ce que le festival a dans le ventre."
 
 # game/adine4.rpy:62
 translate frenchtl _call_skiptut_30_0ff5f677:
@@ -70,19 +70,19 @@ translate frenchtl _call_skipcheck_30_7e7e79bf:
 translate frenchtl _call_skipcheck_30_f0b69231:
 
     # c "Oh, really?"
-    c "Ah oui ?"
+    c "Ah bon ?"
 
 # game/adine4.rpy:123
 translate frenchtl _call_skipcheck_30_ae9bd704:
 
     # Ad "Yeah, I'll have to spend most of my time at the competition grounds. We'll arrive there early so I can check in and do my warmup, and I'll still have to stick around after my performance to wait for the awards ceremony."
-    Ad "Oui, je vais devoir passer le gros de mon temps au stand de la compétition. On va y aller de bonne heure histoire que je puisse m'enregistrer et m'échauffer, et même quand je serai passée, il ne faudra pas s'éloigner en attendant la remise des prix."
+    Ad "Ouais, je vais devoir passer le gros de mon temps au stand de la compétition. On va y aller de bonne heure histoire que je puisse m'enregistrer et m'échauffer, et même quand je serai passée, il ne faudra pas s'éloigner en attendant la remise des prix."
 
 # game/adine4.rpy:125
 translate frenchtl _call_skipcheck_30_8be16951:
 
     # Ad think b "Well, I guess you don't have to wait with me. You could see the rest of the festival if you wanted to."
-    Ad think b "Mais au pire tu n'auras pas besoin de rester tout le temps avec moi ! Si tu veux, tu pourras aller voir le reste du festival."
+    Ad think b "Mais au pire, tu n'es pas obligé de rester tout le temps avec moi. Si tu veux, tu pourras aller voir le reste du festival."
 
 # game/adine4.rpy:127
 translate frenchtl _call_skipcheck_30_80560524:
@@ -118,19 +118,19 @@ translate frenchtl _call_skipcheck_30_e0a733fd:
 translate frenchtl _call_skipcheck_30_89332629:
 
     # Ad giggle b "It's not that important, but if you have the opportunity, you really should go."
-    Ad giggle b "Il n'est pas si important, mais si tu as l'opportunité de le voir, vraiment n'hésite pas."
+    Ad giggle b "Il n'est pas si important, mais si tu as l'opportunité de le voir, n'hésites pas."
 
 # game/adine4.rpy:139
 translate frenchtl _call_skipcheck_30_3c99baa8:
 
     # c "I'm not sure if I'll be able to attend, but I'd gladly accompany you if I have the chance."
-    c "Je ne sais pas encore si je pourrais y assister, mais si je peux, je t'accompagne volontier."
+    c "Je ne sais pas encore si je pourrai y assister, mais si je peux, je t'accompagne volontier."
 
 # game/adine4.rpy:141
 translate frenchtl _call_skipcheck_30_6357ebb6:
 
     # Ad normal b "Sure. So, today's agenda is emotional support, and next time, we can take in all aspects of the festival. Sound good?"
-    Ad normal b "Ca marche. Bon, ton emploi du temps de la journée, ça va être du soutien moral, Et la prochaine fois, on verra pour la suite du festival. Ca te va ?"
+    Ad normal b "Ça marche. Bon, ton emploi du temps de la journée, ça va être du soutien moral, et la prochaine fois, on explorera le reste du festival. Ça te va ?"
 
 # game/adine4.rpy:143
 translate frenchtl _call_skipcheck_30_c0cdabcc:
@@ -148,7 +148,7 @@ translate frenchtl _call_skipcheck_30_55c241e4:
 translate frenchtl _call_skipcheck_30_9dc2fca5:
 
     # m "It took a while for us to arrive at the festival, which had already begun by this point. The last of the booths that lined the way were still being set up, but dragons of all shapes and sizes were already pouring in."
-    m "Il nous fallut du temps avant d'arriver au festival qui avait déjà bien commencé. L'on voyait les derniers stands longeant la rue se monter, mais il y avait déjà beaucoup de dragons de toutes les tailleset de toutes les formes venu assister aux festivités."
+    m "Il nous fallut du temps avant d'arriver au festival qui avait déjà bien commencé. L'on voyait les derniers stands longeant la rue se monter, mais il y avait déjà beaucoup de dragons de toutes les tailles et de toutes les formes venus assister aux festivités."
 
 # game/adine4.rpy:159
 translate frenchtl _call_skipcheck_30_029afb69:
@@ -160,7 +160,7 @@ translate frenchtl _call_skipcheck_30_029afb69:
 translate frenchtl _call_skipcheck_30_df3ca2e6:
 
     # m "Eventually, we arrived at a rather large open air area near the facility that had been roped off. At one corner of the building, a few flyers had already gathered."
-    m "Finalement, nous sommes arrivés sur une grande place totallement réservée à l'occasion. Ce n'était rien de plus que la cour du complexe de production. Au coin du bâtiment, quelques aviateurs étaient rassemblés."
+    m "Finalement, nous arrivâmes sur une grande place entièrement réservée à l'occasion. Ce n'était rien de plus que la cour du complexe de production. Quelques aviateurs étaient rassemblés au coin du bâtiment."
 
 # game/adine4.rpy:171
 translate frenchtl _call_skipcheck_30_063136f1:
@@ -226,7 +226,7 @@ translate frenchtl _call_skipcheck_30_392933aa:
 translate frenchtl _call_skipcheck_30_e93337e5:
 
     # m "She held up a piece of cloth with a large number printed on it. A few straps were hanging from it."
-    m "Elle tenait un morceau de tissus sur lequel était imprimé un gros nombre. Des sangles pendaient de chaque côté."
+    m "Elle tenait un morceau de tissus sur lequel était imprimé un nombre en gros. Des sangles pendaient de chaque côté."
 
 # game/adine4.rpy:197
 translate frenchtl _call_skipcheck_30_075e02d8:
@@ -238,7 +238,7 @@ translate frenchtl _call_skipcheck_30_075e02d8:
 translate frenchtl _call_skipcheck_30_6f25aa46:
 
     # c "Of course. Sorry for the mistake."
-    c "Bien sûr, pardon de m'être trompé."
+    c "Bien sûr, au temps pour moi."
 
 # game/adine4.rpy:201
 translate frenchtl _call_skipcheck_30_84b55115:
@@ -268,13 +268,13 @@ translate frenchtl _call_skipcheck_30_1dbee2a3:
 translate frenchtl _call_skipcheck_30_504e401e:
 
     # Ad think b "I've seen most of them fly before. Some are really, really good."
-    Ad think b "J'ai déjà vu la plupart en vol. Certains sont vraiment très bons."
+    Ad think b "J'en ai déjà vu la plupart en vol. Certains sont vraiment très bons."
 
 # game/adine4.rpy:211
 translate frenchtl _call_skipcheck_30_c8ada606:
 
     # Ad normal b "It doesn't seem like there are many newcomers here. So, right now, I'm the odd one out."
-    Ad normal b "On dirait qu'il n'y a pas beaucoup de nouveau cette année. Pour l'instant, j'ai l'impression d'être la seule."
+    Ad normal b "On dirait qu'il n'y a pas beaucoup de nouveaux cette année. Pour l'instant, j'ai l'impression d'être la seule."
 
 # game/adine4.rpy:213
 translate frenchtl _call_skipcheck_30_64f0f308:
@@ -334,7 +334,7 @@ translate frenchtl _call_skipcheck_30_92eec963:
 translate frenchtl _call_skipcheck_30_85601413:
 
     # c "How good do you think your chances are?"
-    c "À ton avis, quelles sont tes perspectives ?"
+    c "À ton avis, quelles sont tes pronostics ?"
 
 # game/adine4.rpy:233
 translate frenchtl _call_skipcheck_30_4650287c:
@@ -388,7 +388,7 @@ translate frenchtl _call_skipcheck_30_0976511e:
 translate frenchtl _call_skipcheck_30_b6b0581a:
 
     # m "She spread out her wing, and only then did I notice that her shoulder joint was tightly bandaged."
-    m "Elle déploya son aile, ce n'est qu'à ce moment que je remarquai le bandage sur l'articulation de son épaule."
+    m "Elle déploya son aile, ce n'est qu'à ce moment que je remarquai le bandage serré sur l'articulation de son épaule."
 
 # game/adine4.rpy:251
 translate frenchtl _call_skipcheck_30_be383434:
@@ -400,7 +400,7 @@ translate frenchtl _call_skipcheck_30_be383434:
 translate frenchtl _call_skipcheck_30_ca0ad645:
 
     # Ad normal b "It's just a training bandage to stabilize my shoulder after that little blunder you witnessed last time. We can't fly with these in the competition though, so I'll have to take it off."
-    Ad normal b "C'est plus une atelle pour stabiliser mon épaule, après la bourde que tu as vu l'autre jour. On ne peut pas voler avec durant la compétition, donc je dois l'enlever."
+    Ad normal b "C'est juste une atelle pour stabiliser mon épaule, après la bourde que tu as vu l'autre jour. On ne peut pas voler avec durant la compétition, donc je dois l'enlever."
 
 # game/adine4.rpy:255
 translate frenchtl _call_skipcheck_30_fe5f3366:
@@ -430,19 +430,19 @@ translate frenchtl _call_skipcheck_30_0da14851:
 translate frenchtl _call_skipcheck_30_977d9843:
 
     # m "She spread both of her wings, beating them a few times. I couldn't help noticing that the previously bandaged wing was sagging noticeably compared to its counterpart, as if it were misaligned."
-    m "Elle déploya ses deux ailes et les battit doucement à plusieurs reprises. Je ne pouvais m'empêcher de remarquer que celle ci s'affaissait coparé à l'autre, comme si elle n'étais pas bien positionnée."
+    m "Elle déploya ses deux ailes et les battit doucement à plusieurs reprises. Je ne pouvais m'empêcher de remarquer que celle-ci s'affaissait comparée à l'autre, comme si elle n'était pas bien positionnée."
 
 # game/adine4.rpy:273
 translate frenchtl _call_skipcheck_30_a1b5b231:
 
     # m "She seemed to be examining her shoulder, somewhat lost in thought when I spoke up."
-    m "Elle échauffait ses articulations, quelque peu perdue dans ses pensées lorsque je l'interrompis."
+    m "Elle semblait examiner son épaule, quelque peu perdue dans ses pensées lorsque je pris la parole."
 
 # game/adine4.rpy:275
 translate frenchtl _call_skipcheck_30_bd3b9cdf:
 
     # c "Are you sure you want to do this?"
-    c "Tu es sûre que tu veux le faire ?"
+    c "Tu es certaine de vouloir le faire ?"
 
 # game/adine4.rpy:277
 translate frenchtl _call_skipcheck_30_b17e7bef:
