@@ -502,7 +502,7 @@ translate frenchtl _call_skipcheck_30_8f90f4fd:
 translate frenchtl _call_skipcheck_30_fb8f8319:
 
     # Ad "Right now, I have the chance to do this. And if I don't take it, maybe I never will."
-    Ad "Aujourd'hui, j'ai l'occasion de le faire. Si je ne saisis pas cette occasion maintenant, peut-être que jamais plus je ne l'aurais."
+    Ad "Aujourd'hui, j'ai l'occasion de le faire. Si je ne saisis pas cette occasion maintenant, peut-être que je ne l'aurais plus."
 
 # game/adine4.rpy:297
 translate frenchtl _call_skipcheck_30_10dc1d98:
@@ -580,7 +580,7 @@ translate frenchtl _call_skipcheck_30_49943373:
 translate frenchtl _call_skipcheck_30_186264ff:
 
     # Ad "You know what? I will fly and do the best damn job I've ever done, and there's nothing you can do to stop me."
-    Ad "Tu sais quoi ? Je vais voleret faire la meilleure performance que j'ai jamais exécutée, et tu ne pourras rien faire pour m'en empêcher."
+    Ad "Tu sais quoi ? Je vais voler et faire la meilleure performance que j'ai jamais exécutée, et tu ne pourras rien faire pour m'en empêcher."
 
 # game/adine4.rpy:325
 translate frenchtl _call_skipcheck_30_1bee9df9:
@@ -604,7 +604,7 @@ translate frenchtl _call_skipcheck_30_09a2b00d:
 translate frenchtl _call_skipcheck_30_b529e5e9:
 
     # m "In the end, I decided to stay and watch from the sidelines. I didn't want to join the rest of the audience, as I was sure it would get me unwanted attention."
-    m "Au final, je décidai quand même de rester pour regarder du bord des gradins. Je ne voulais pas rejoindre le reste du public, car j'étais sûre d'attirer sur moi une attention qu je ne voulais en rien."
+    m "Au final, je décidai quand même de rester pour regarder du bord des gradins. Je ne voulais pas rejoindre le reste du public, car j'étais sûr d'attirer sur moi une attention non désirée."
 
 # game/adine4.rpy:333
 translate frenchtl _call_skipcheck_30_a09871d5:
@@ -622,7 +622,7 @@ translate frenchtl _call_skipcheck_30_dbeb7d2e:
 translate frenchtl _call_skipcheck_30_93a336df:
 
     # m "Even though my rational mind doubted that would happen, for her own sake I hoped it would."
-    m "Même si my côté rationnel doutait que ça puisse arriver, j'avais envie que ça se passe bien pour elle."
+    m "Même si mon côté rationnel doutait que ça puisse arriver, j'avais envie que ça se passe bien pour elle."
 
 # game/adine4.rpy:339
 translate frenchtl _call_skipcheck_30_470e192b:
