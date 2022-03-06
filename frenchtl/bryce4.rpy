@@ -652,8 +652,7 @@ translate frenchtl _call_skipcheck_1_66515c0a:
 translate frenchtl _call_skipcheck_1_3cd7e277:
 
     # Br "It's the same for me, really. Sure, they could ask someone else to be Chief, but If I'm the one who's best suited for the job, who am I to reject that? Otherwise, I'd have to blame myself for every mistake the other Chief made."
-    Br "C'est la même chose pour moi, personne ne peut me remplacer. Oh, bien sûr, y a toujours moyen de trouver un autre chef, mais si on m'a choisi parce que j'ai le profil, je serais qui pour rejeter le job ?"
-    Br "Si je laisse la place à quelqu'un d'autre, et qu'il fait encore plus d'erreurs que moi, je m'en voudrais encore plus."
+    Br "C'est la même chose pour moi, personne ne peut me remplacer. Oh, bien sûr, y a toujours moyen de trouver un autre chef, mais si on m'a choisi parce que j'ai le profil, je serais qui pour rejeter le job ?\nSi je laisse la place à quelqu'un d'autre, et qu'il fait encore plus d'erreurs que moi, je m'en voudrais encore plus."
 
 # game/bryce4.rpy:363
 translate frenchtl _call_skipcheck_1_d0adae6d:
