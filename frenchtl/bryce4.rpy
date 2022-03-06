@@ -178,7 +178,7 @@ translate frenchtl _call_skipcheck_1_aa7b75ec:
 translate frenchtl _call_skipcheck_1_e5c84619:
 
     # c "So that's what you're really looking for."
-    c "Donc, tu es parti chercher..."
+    c "C'est donc ça que tu cherchais vraiment."
 
 # game/bryce4.rpy:165
 translate frenchtl _call_skipcheck_1_3e022742:
@@ -1374,7 +1374,7 @@ translate frenchtl bryce4skip_5aab73ee:
 translate frenchtl bryce4skip_33a2c623:
 
     # c "I think he doesn't suspect me as much anymore."
-    c "Je crois qu'il a moins de doute à mon égard."
+    c "Je crois qu'il a moins de doutes à mon égard."
 
 # game/bryce4.rpy:621
 translate frenchtl bryce4skip_6a644b5a:
@@ -1776,7 +1776,7 @@ translate frenchtl b4romance_ab2755cb:
 translate frenchtl b4romance_5a7fabd8:
 
     # Br "Some do. Some don't."
-    Br "Pour certains oui, pour d'autre non."
+    Br "Pour certains oui, pour d'autres non."
 
 # game/bryce4.rpy:881
 translate frenchtl b4romance_0dd6eefb:
