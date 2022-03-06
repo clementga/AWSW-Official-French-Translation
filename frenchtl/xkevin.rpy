@@ -88,7 +88,7 @@ translate french _call_skipcheck_15_db84b8c4:
 translate french _call_skipcheck_15_e69a3c80:
 
     # Kv ramble "Well, I haven't actually met that many candidates out here so far."
-    Kv ramble "Eh bien, je n'ai pas rencontré beaucoup de candidats jusqu'ici."
+    Kv ramble "Eh bien, je n'ai pas vraiment rencontré beaucoup de candidats jusqu'à présent."
 
 # game/xkevin.rpy:131
 translate french _call_skipcheck_15_43ec750c:
@@ -142,7 +142,7 @@ translate french _call_skipcheck_15_da373fe8:
 translate french _call_skipcheck_15_8daf1725:
 
     # Kv brow "Everything surrounding the portal has been a well-kept secret. People know that it exists and that we currently have human visitors, but the exact location is only known to those who live here."
-    Kv brow "Tout ce qui est autour du portail a été gardé très secret. Les gens savent qu'il existe et que nous avons des visiteurs humains, mais le lieu exact n'est connu que par les gens d'ici."
+    Kv brow "Tout ce qui concerne le portail est un secret jalousement gardé. La population sait qu'il existe, et que des visiteurs humains sont parmi nous, mais nul n'en connaît l'emplacement exact excepté ceux qui vivent sur place."
 
 # game/xkevin.rpy:149
 translate french _call_skipcheck_15_0bb8bb27:
@@ -256,7 +256,7 @@ translate french _call_skipcheck_15_ca222335:
 translate french _call_skipcheck_15_81d6c677:
 
     # Kv ramble "The same goes for teaching positions in those areas as well."
-    Kv ramble "Et il en va de même pour l'enseignement dans ce zones là."
+    Kv ramble "Et il en va de même pour l'enseignement dans ces zones là."
 
 # game/xkevin.rpy:187
 translate french _call_skipcheck_15_fbbaa2ba:
@@ -352,7 +352,7 @@ translate french _call_skipcheck_15_7c28f73c:
 translate french _call_skipcheck_15_992aa2b5:
 
     # Kv ramble "I guess you could say I'm kind of a techie. I do like following news about technology and hearing all about new developments in the industry."
-    Kv ramble "Je pense qu'il est juste de dire que je suis fan de technologie. J'aime suivre les nouvelles sur la technologie et entendre parler de toutes ce avancées dans l'industrie."
+    Kv ramble "Je pense qu'on pourrait me qualifier de tech-savvy. J'aime me tenir au courant des dernières nouvelles sur la technologie, et rester à l'affût des avancées dans ce domaine."
 
 # game/xkevin.rpy:219
 translate french _call_skipcheck_15_f88a83ef:
