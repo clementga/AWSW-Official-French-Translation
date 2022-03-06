@@ -178,7 +178,7 @@ translate frenchtl _call_skipcheck_1_aa7b75ec:
 translate frenchtl _call_skipcheck_1_e5c84619:
 
     # c "So that's what you're really looking for."
-    c "Donc, tu es parti chercher..."
+    c "C'est donc ça que tu cherchais vraiment."
 
 # game/bryce4.rpy:165
 translate frenchtl _call_skipcheck_1_3e022742:
@@ -652,8 +652,7 @@ translate frenchtl _call_skipcheck_1_66515c0a:
 translate frenchtl _call_skipcheck_1_3cd7e277:
 
     # Br "It's the same for me, really. Sure, they could ask someone else to be Chief, but If I'm the one who's best suited for the job, who am I to reject that? Otherwise, I'd have to blame myself for every mistake the other Chief made."
-    Br "C'est la même chose pour moi, personne ne peut me remplacer. Oh, bien sûr, y a toujours moyen de trouver un autre chef, mais si on m'a choisi parce que j'ai le profil, je serais qui pour rejeter le job ?"
-    Br "Si je laisse la place à quelqu'un d'autre, et qu'il fait encore plus d'erreurs que moi, je m'en voudrais encore plus."
+    Br "C'est la même chose pour moi, personne ne peut me remplacer. Oh, bien sûr, y a toujours moyen de trouver un autre chef, mais si on m'a choisi parce que j'ai le profil, je serais qui pour rejeter le job ?\nSi je laisse la place à quelqu'un d'autre, et qu'il fait encore plus d'erreurs que moi, je m'en voudrais encore plus."
 
 # game/bryce4.rpy:363
 translate frenchtl _call_skipcheck_1_d0adae6d:
@@ -1374,7 +1373,7 @@ translate frenchtl bryce4skip_5aab73ee:
 translate frenchtl bryce4skip_33a2c623:
 
     # c "I think he doesn't suspect me as much anymore."
-    c "Je crois qu'il a moins de doute à mon égard."
+    c "Je crois qu'il a moins de doutes à mon égard."
 
 # game/bryce4.rpy:621
 translate frenchtl bryce4skip_6a644b5a:
@@ -1776,7 +1775,7 @@ translate frenchtl b4romance_ab2755cb:
 translate frenchtl b4romance_5a7fabd8:
 
     # Br "Some do. Some don't."
-    Br "Pour certains oui, pour d'autre non."
+    Br "Pour certains oui, pour d'autres non."
 
 # game/bryce4.rpy:881
 translate frenchtl b4romance_0dd6eefb:
