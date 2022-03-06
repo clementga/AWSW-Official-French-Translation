@@ -18,7 +18,7 @@ translate frenchtl chapter3_76b2fe88_1:
 translate frenchtl chapter3_0adae58e:
 
     # n "The morning sun declared the arrival of a new day and woke me from my vivid dreams. Memories of my home, enclosed within the towering perimeter wall raced through my head."
-    n "Le soleil matinal déclara l'aube d'une nouvelle journée et me réveilla de vifs rêves. Des souvenirs de ma maison, entourée d'imposants murs d'enceinte, traversèrent mon esprit."
+    n "Le soleil matinal annonça l'aube d'une nouvelle journée et me réveilla de vifs rêves. Des souvenirs de ma maison, entourée d'imposants murs d'enceinte, traversèrent mon esprit."
 
 # game/chapter3.rpy:576
 translate frenchtl chapter3_f37eb593:
@@ -36,13 +36,13 @@ translate frenchtl chapter3_76b2fe88_2:
 translate frenchtl chapter3_70f733e0:
 
     # Sb "[player_name], please come with me."
-    Sb "[player_name], viens avec moi s'il te plait."
+    Sb "[player_name], viens avec moi s'il te plaît."
 
 # game/chapter3.rpy:600
 translate frenchtl chapter3_e71fe657:
 
     # c "What's going on? You sound serious."
-    c "Que se passe-t-il ? Tu as l'air grave."
+    c "Que se passe-t-il ? Ça a l'air grave."
 
 # game/chapter3.rpy:602
 translate frenchtl chapter3_3c7f8840:
@@ -108,7 +108,7 @@ translate frenchtl chapter3_322fdf23:
 translate frenchtl chapter3_2003f708:
 
     # c "Well, what is it?"
-    c "Eh bien, quelles sont-elles ?"
+    c "Eh bien, qu'y a-t-il ?"
 
 # game/chapter3.rpy:662
 translate frenchtl chapter3_789f2de9:
@@ -150,7 +150,7 @@ translate frenchtl chapter3_37eb7a13:
 translate frenchtl chapter3_f1930e50:
 
     # m "When I turned the corner, there was no mistaking her. Anna was haphazardly covered by a sheet, leaving her tail and bloodstained hand exposed. In the end, she didn't even deserve full discretion."
-    m "L'angle du couloir passé, il ne put y avoir aucune erreur. Anna avait été rapidement recouverte par une couverture, laissant sa queue et ses mains tachées de sang apparaître. Au final, elle n'aura même pas mérité pleine discrétion."
+    m "L'angle du couloir passé, il n'y avait point d'erreur possible. Anna avait été rapidement recouverte par une couverture, laissant sa queue et ses mains tachées de sang à nu. Au final, elle n'aura même pas mérité pleine discrétion."
 
 # game/chapter3.rpy:699
 translate frenchtl chapter3_c72ebea5:
@@ -174,19 +174,19 @@ translate frenchtl chapter3_4838dbe2:
 translate frenchtl chapter3_7db4a2dc:
 
     # c "Let's just get this over with."
-    c "Finissons-en juste au plus vite."
+    c "Finissons-en au plus vite."
 
 # game/chapter3.rpy:719
 translate frenchtl chapter3_f5a56af5:
 
     # m "Bryce gave me a concerned look, but then nodded."
-    m "Bryce me regarda avec inquiétude, mais acquiesça ensuite."
+    m "Bryce me regarda avec inquiétude, mais acquiesça."
 
 # game/chapter3.rpy:725
 translate frenchtl chapter3_b9def07b:
 
     # c "Yeah, I'm fine. Let's just get this over with."
-    c "Oui, je vais bien. Finissons-en juste au plus vite."
+    c "Oui, je vais bien. Finissons-en au plus vite."
 
 # game/chapter3.rpy:729
 translate frenchtl chapter3_e7043b09:
@@ -264,7 +264,7 @@ translate frenchtl chapter3_4f1de054:
 translate frenchtl chapter3_7db4a2dc_1:
 
     # c "Let's just get this over with."
-    c "Finissons-en juste au plus vite."
+    c "Finissons-en au plus vite."
 
 # game/chapter3.rpy:806
 translate frenchtl chapter3_f5a56af5_1:
@@ -276,7 +276,7 @@ translate frenchtl chapter3_f5a56af5_1:
 translate frenchtl chapter3_b9def07b_1:
 
     # c "Yeah, I'm fine. Let's just get this over with."
-    c "Oui, je vais bien. Finissons-en juste au plus vite."
+    c "Oui, je vais bien. Finissons-en au plus vite."
 
 # game/chapter3.rpy:814
 translate frenchtl chapter3_e7043b09_1:
@@ -312,7 +312,7 @@ translate frenchtl chapter3_6c747af0:
 translate frenchtl chapter3_a739845d:
 
     # Br "The murder weapon and method appear identical for both, and while we already knew that, the DNA evidence linking the murders together could become a big problem for you."
-    Br "L'arme du crime et les méthodes apparaissent identiques pour les deux, et bien que tu savais déjà ça, les preuves ADN reliant les meurtres ensemble pourraient devenir un gros problème pour toi."
+    Br "L'arme du crime et les méthodes apparaissent identiques pour les deux, et bien que tu le savais déjà, les preuves ADN reliant les meurtres ensemble pourraient devenir un gros problème pour toi."
 
 # game/chapter3.rpy:831
 translate frenchtl chapter3_1bc47770:
@@ -336,7 +336,7 @@ translate frenchtl chapter3_6ceb347b:
 translate frenchtl chapter3_b372ad4f:
 
     # c "I'm not sure what to say."
-    c "Je ne suis pas sûr quoi répondre à cela."
+    c "Je ne sais pas quoi dire."
 
 # game/chapter3.rpy:839
 translate frenchtl chapter3_81a13922:
@@ -366,7 +366,7 @@ translate frenchtl chapter3_504cc006:
 translate frenchtl chapter3_6f357246:
 
     # c "This would be the worst possible time for me to leave. We've given up our PDAs and hardly have anything to show for it. We are owed several more generators, and let's not forget that Reza is still missing."
-    c "Ça serait le pire moment possible pour partir. Nous avons donné nos PDA et n'avons encore rien en retour. On nous doit encore plusieurs générateurs, et n'oublions pas que Reza fait toujours défaut."
+    c "Ça serait le pire moment possible pour partir. Nous avons donné nos PDA et n'avons encore rien en retour. On nous doit encore plusieurs générateurs, et n'oublions pas que Reza est toujours porté disparu."
 
 # game/chapter3.rpy:849
 translate frenchtl chapter3_97b938c0:
@@ -414,7 +414,7 @@ translate frenchtl c3contx_8445db31:
 translate frenchtl c3contx_405efdd0:
 
     # c "I'm not sure what to say to that."
-    c "Je ne suis pas sûr quoi répondre à cela."
+    c "Je ne sais pas quoi dire."
 
 # game/chapter3.rpy:872
 translate frenchtl c3contx_f5bf1324:
@@ -450,7 +450,7 @@ translate frenchtl c3contx_504cc006:
 translate frenchtl c3contx_6f357246:
 
     # c "This would be the worst possible time for me to leave. We've given up our PDAs and hardly have anything to show for it. We are owed several more generators, and let's not forget that Reza is still missing."
-    c "Ça serait le pire moment possible pour partir. Nous avons donné nos PDA et n'avons encore rien en retour. On nous doit encore plusieurs générateurs, et n'oublions pas que Reza fait toujours défaut."
+    c "Ça serait le pire moment possible pour partir. Nous avons donné nos PDA et n'avons encore rien en retour. On nous doit encore plusieurs générateurs, et n'oublions pas que Reza est toujours porté disparu."
 
 # game/chapter3.rpy:884
 translate frenchtl c3contx_97b938c0:
@@ -462,19 +462,19 @@ translate frenchtl c3contx_97b938c0:
 translate frenchtl c3contx_5af18c6b:
 
     # Br "If that's your decision, then so be it."
-    Br "Si telle est ta décision, alors qu'il en soit ainsi."
+    Br "Si telle est ta décision, qu'il en soit ainsi."
 
 # game/chapter3.rpy:896
 translate frenchtl c3contx_5af18c6b_1:
 
     # Br "If that's your decision, then so be it."
-    Br "Si telle est ta décision, alors qu'il en soit ainsi."
+    Br "Si telle est ta décision, qu'il en soit ainsi."
 
 # game/chapter3.rpy:900
 translate frenchtl c3contx_cced64d8:
 
     # Br "If that's your decision, then so be it. I'll have your back either way."
-    Br "Si telle est ta décision, alors qu'il en soit ainsi. Dans tous les cas, je te soutiendrai."
+    Br "Si telle est ta décision, qu'il en soit ainsi. Dans tous les cas, je te soutiendrai."
 
 # game/chapter3.rpy:902
 translate frenchtl c3contx_f53f8226:
@@ -486,7 +486,7 @@ translate frenchtl c3contx_f53f8226:
 translate frenchtl c3contx_5af18c6b_2:
 
     # Br "If that's your decision, then so be it."
-    Br "Si telle est ta décision, alors qu'il en soit ainsi."
+    Br "Si telle est ta décision, qu'il en soit ainsi."
 
 # game/chapter3.rpy:930
 translate frenchtl _call_skiptut_4_7c2b96fe:
@@ -528,7 +528,7 @@ translate frenchtl _call_skipcheck_4_0054b77b:
 translate frenchtl _call_skipcheck_4_593aff2a:
 
     # Br "Anyway, let's get back on track. I called you here for a reason, [player_name]. In addition to the murder, several things were stolen, among them your PDAs, batteries, and some components used to build generators."
-    Br "Bref, revenons en à nos mouflons. Je t'ai appelé ici pour une raison, [player_name]. En plus du meurtre, plusieurs objets ont été volés, entre autres vos PDAs, des batteries et quelques composants utilisés pour fabriquer des générateurs."
+    Br "Bref, revenons-en à nos mouflons. Je t'ai appelé ici pour une raison, [player_name]. En plus du meurtre, plusieurs objets ont été volés, entre autres vos PDAs, des batteries et quelques composants utilisés pour fabriquer des générateurs."
 
 # game/chapter3.rpy:990
 translate frenchtl _call_skipcheck_4_21bd9d09:
@@ -594,13 +594,13 @@ translate frenchtl c3conty_da82da9a:
 translate frenchtl c3conty_755c9c2a:
 
     # Sb "We just got a message from the higher-ups. You and [player_name] are to report to the Ministry of Culture & Arts immediately."
-    Sb "Nous venons de recevoir un message des supérieurs. Toi et [player_name] devez vous présenter au ministère de la Culture et de l'Art immédiatement."
+    Sb "Nous venons de recevoir un message des supérieurs. Toi et [player_name] devez vous présenter au ministère de la Culture et des Arts immédiatement."
 
 # game/chapter3.rpy:1018
 translate frenchtl c3conty_5eb0e509:
 
     # Br stern b "Immediately, as in right now?"
-    Br stern b "Tout de suite ?"
+    Br stern b "Genre, Tout de suite ?"
 
 # game/chapter3.rpy:1020
 translate frenchtl c3conty_3cd345fc:
@@ -660,7 +660,7 @@ translate frenchtl c3conty_03186aad:
 translate frenchtl c3conty_b1e13d6a:
 
     # c "It's not like we have a choice."
-    c "Ce n'est pas comme si j'avais le choix."
+    c "Ce n'est pas comme si nous avions le choix."
 
 # game/chapter3.rpy:1094
 translate frenchtl c3conty_04e3ec11:
@@ -690,7 +690,7 @@ translate frenchtl c3conty_5fdc5c6c:
 translate frenchtl c3conty_a7ee13db:
 
     # Em mean "No, I've got everything I need right here. It gets so stuffy inside on hot days. My assistant doesn't seem to mind, but I prefer the fresh air. I'd rather just stay right here, unless you have any objections."
-    Em mean "Non, j'ai tout ce qu'il faut ici même. L'air devient étouffant à l'intérieur lors des jours chauds. Cela semble ne pas déranger mon assistant, mais je préfère l'air frais. J'aimerais donc rester ici, si vous n'y voyez aucun inconvénient. "
+    Em mean "Non, j'ai tout ce qu'il faut ici même. L'air devient étouffant à l'intérieur lors des jours chauds. Cela semble ne pas déranger mon assistant, mais je préfère l'air frais. J'aimerais donc rester ici, si vous n'y voyez aucun inconvénient."
 
 # game/chapter3.rpy:1109
 translate frenchtl c3conty_11942d8f:
@@ -702,7 +702,7 @@ translate frenchtl c3conty_11942d8f:
 translate frenchtl c3conty_2d868013:
 
     # Em normal "I see. Well, I know I haven't exactly been up to date in regards to Reza's sudden disappearance, but to get the message today that he is a confirmed serial killer was quite shocking."
-    Em normal "Je vois. Eh bien, je sais que je ne me suis pas exactement tenue au courant de la soudaine disparition de Reza, mais recevoir un message aujourd'hui confirmant qu'il était un tueur en série a été assez bouleversant."
+    Em normal "Je vois. Eh bien, je sais que je ne me suis pas exactement tenue au courant de la soudaine disparition de Reza, mais recevoir un message aujourd'hui confirmant qu'il est un tueur en série a été assez bouleversant."
 
 # game/chapter3.rpy:1115
 translate frenchtl c3conty_98aeb2ec:
@@ -726,7 +726,7 @@ translate frenchtl c3conty_fe17f0dd:
 translate frenchtl c3conty_2d868013_1:
 
     # Em normal "I see. Well, I know I haven't exactly been up to date in regards to Reza's sudden disappearance, but to get the message today that he is a confirmed serial killer was quite shocking."
-    Em normal "Je vois. Eh bien, je sais que je ne me suis pas exactement tenu au courant de la soudaine disparition de Reza, mais recevoir un message aujourd'hui confirmant qu'il était un tueur en série a été assez bouleversant."
+    Em normal "Je vois. Eh bien, je sais que je ne me suis pas exactement tenu au courant de la soudaine disparition de Reza, mais recevoir un message aujourd'hui confirmant qu'il est un tueur en série a été assez bouleversant."
 
 # game/chapter3.rpy:1125
 translate frenchtl c3conty_98aeb2ec_1:
@@ -780,7 +780,7 @@ translate frenchtl c3conty_08704206:
 translate frenchtl c3conty_cbf12e76:
 
     # Br stern b flip "I'm afraid so, Minister."
-    Br stern b flip "Je le crains, ministre."
+    Br stern b flip "Je le crains, madame la Ministre."
 
 # game/chapter3.rpy:1146
 translate frenchtl c3conty_fbdbd54b:
@@ -816,7 +816,7 @@ translate frenchtl c3conty_4bd14a5d:
 translate frenchtl c3conty_4475366a:
 
     # Em frown "But that's enough about myself. We now face the question of what should be done about Reza and [player_name]."
-    Em frown "Mais suffisamment sur moi. Nous devons maintenant decider quoi faire à propos de Reza et de [player_name]."
+    Em frown "Mais assez parlé de moi. Nous devons maintenant decider quoi faire à propos de Reza et de [player_name]."
 
 # game/chapter3.rpy:1158
 translate frenchtl c3conty_43f93125:
@@ -900,13 +900,13 @@ translate frenchtl c3conty_fb272e71:
 translate frenchtl c3conty_ff44517b:
 
     # Br "The night he followed Reza, he found both him and [player_name] at the portal."
-    Br "La nuit où il a suivi Reza, il l'a trouvé ainsi que [player_name] au portail."
+    Br "La nuit où il a suivi Reza, il l'a trouvé avec [player_name] au portail."
 
 # game/chapter3.rpy:1185
 translate frenchtl c3conty_42c8fe85:
 
     # Br "The humans intended to send one of their promised generators through, but there was a confrontation that ended with both Maverick and [player_name] wounded, and Reza running away."
-    Br "Les humains s'apprêtaient à envoyer l'un des générateurs qui leur ont été promis par le portail, mais il y a eu une confrontation dont le résultat fut Maverick ainsi que [player_name] blessés et Reza enfui."
+    Br "Les humains s'apprêtaient à envoyer l'un des générateurs qui leur ont été promis par le portail, mais il y a eu une confrontation dont le résultat fut Maverick ainsi que [player_name] blessés et Reza en fuite."
 
 # game/chapter3.rpy:1187
 translate frenchtl c3conty_de0e4b28:
@@ -924,13 +924,13 @@ translate frenchtl c3conty_1822d45e:
 translate frenchtl c3conty_a380502c:
 
     # Em frown "The question is: Did Maverick cause this, or did he just fail to prevent it?"
-    Em frown "La question est : Maverick a-t-il causé cela, ou a-t-il simplement échoué à l'empêcher ?"
+    Em frown "La question étant : Maverick a-t-il causé cela, ou a-t-il simplement échoué à l'empêcher ?"
 
 # game/chapter3.rpy:1193
 translate frenchtl c3conty_1d484af8:
 
     # Br brow b flip "I have no way of knowing that, Minister."
-    Br brow b flip "Je n'ai aucun moyen de savoir cela, madame la ministre."
+    Br brow b flip "Je n'ai aucun moyen de le savoir, madame la ministre."
 
 # game/chapter3.rpy:1195
 translate frenchtl c3conty_f06bbeac:
@@ -1056,13 +1056,13 @@ translate frenchtl c3conty_76921f74:
 translate frenchtl c3conty_e868e996:
 
     # c "The deal between our races. I firmly stand by our original agreement."
-    c "L'accord entre nos races. Je défends fermement notre accord initial."
+    c "L'accord entre nos espèces. Je défends fermement notre accord initial."
 
 # game/chapter3.rpy:1249
 translate frenchtl c3conty_3b50eeec:
 
     # c "If Reza is involved with these crimes, I want no part of it. It has nothing to do with me or the reasons I came here in the first place. If his actions are endangering this agreement in any way, I want to put a stop to him."
-    c "Si Reza est impliqué dans ces crimes, je ne veux pas quoi que ce soit à voir avec. Cela n'a rien à voir avec moi ou avec les raisons pour lesquelles je suis venu ici à l'origine. Si ces actions mettent en danger notre accord de quelle que manière que ce soit, je veux l'arrêter."
+    c "Si Reza est impliqué dans ces crimes, je ne veux pas à voir quoi que ce soit avec ça. Cela n'a rien à voir avec moi ou avec les raisons pour lesquelles je suis venu ici à l'origine. Si ces actions mettent en danger notre accord de quelque manière que ce soit, je veux y mettre un terme."
 
 # game/chapter3.rpy:1251
 translate frenchtl c3conty_56daee83:
@@ -1080,7 +1080,7 @@ translate frenchtl c3conty_56909199:
 translate frenchtl c3conty_d1151c36:
 
     # Em frown "Nevertheless, I think [player_name] presents a great risk."
-    Em frown "Malgré tout, je pense [player_name] présente un grand risque."
+    Em frown "Malgré tout, je pense que [player_name] présente un grand risque."
 
 # game/chapter3.rpy:1258
 translate frenchtl c3conty_1bc47770:
@@ -1128,7 +1128,7 @@ translate frenchtl c3conty_91b1f921:
 translate frenchtl c3conty_bbf70829:
 
     # Em normal "Then, with your support, this is what shall be done."
-    Em normal "Alors, avec votre aide, c'est ce qu'il sera fait."
+    Em normal "Alors, avec votre soutient, c'est la bonne décision."
 
 # game/chapter3.rpy:1274
 translate frenchtl c3conty_2b92b0a8:
@@ -1254,7 +1254,7 @@ translate frenchtl c3conty_d2b5800f:
 translate frenchtl c3conty_ff4b3897:
 
     # n "It was only then, when our race had become so dependent on technology, that we were immeasurably vulnerable against this kind of disaster."
-    n "C'est seulement à ce moment, quand notre race était devenue si dépendante sur la technologie, que nous étions incroyablement vulnérables face à ce genre de désastre."
+    n "C'est seulement à ce moment, quand notre race était devenue si dépendante de la technologie, que nous étions incroyablement vulnérables face à ce genre de désastre."
 
 # game/chapter3.rpy:1343
 translate frenchtl c3conty_76b2fe88_2:
@@ -1363,7 +1363,7 @@ translate frenchtl c3conty_3ef53b09:
 
     # n "Practically, we were back in the middle ages. Governments collapsed and were overthrown, and the ensuing power vacuums filled with groups of people that were sometimes organized and sometimes not."
     nvl clear
-    n "Nous étions pratiquement de retour au Moyen-Âge. Les gouvernements s'effondrèrent ou furent renversés, les vides du pouvoir qui en résultèrent furent remplis par des groupes, parfois organisés, et parfois non."
+    n "Nous étions pratiquement de retour au Moyen-Âge. Les gouvernements s'effondrèrent ou furent renversés, les vides régaliens qui en résultèrent furent remplis par des groupes, parfois organisés, et parfois non."
 
 # game/chapter3.rpy:1400
 translate frenchtl c3conty_f4cf3da8:
@@ -1399,7 +1399,7 @@ translate frenchtl c3conty_d0161738:
 translate frenchtl c3conty_43c1cb3e:
 
     # n "It's the only way we can retain a modicum of order. Gangs of raiders and looters run rampant on the outside. They wouldn't hesitate to kill first and ask questions later if they had known about my PDA."
-    n "C'est la seule manière par laquelle nous pouvons conserver un certain degré d'ordre. Les gangs de pilleurs sont partout en dehors des murs. Ils n'auraient pas hésité à tuer d'abord et à poser des questions après s'ils avaient su pour mes PDA."
+    n "C'est la seule manière par laquelle nous pouvons conserver un certain degré d'ordre. Les gangs de pillards sont partout en dehors des murs. Ils n'auraient pas hésité à tuer d'abord et à poser des questions après s'ils avaient su pour mes PDA."
 
 # game/chapter3.rpy:1417
 translate frenchtl c3conty_76b2fe88_8:
@@ -1531,7 +1531,7 @@ translate frenchtl c3conty_3c643606:
 translate frenchtl c3conty_81b9cf49:
 
     # Em frown "I cannot take your word under consideration in this matter, Chief. Taking into account Maverick's actions, and your responsibility for them, you will have to be dealt with separately."
-    Em frown "Je ne peux pas prendre votre parole en considération en la matière, commissaire. Considérant les actions de Maverick et votre responsabilité dans celles-ci, je devrai m'occuper de vous séparément."
+    Em frown "Je ne peux pas prendre votre parole en considération dans ce problème, commissaire. Considérant les actions de Maverick et votre responsabilité dans celles-ci, je devrai m'occuper de vous séparément."
 
 # game/chapter3.rpy:1484
 translate frenchtl c3conty_afede6e9:
@@ -1645,7 +1645,7 @@ translate frenchtl c3conty_4f3c2b46:
 translate frenchtl c3conty_9c719d56:
 
     # m "All in all, I certainly had a unique experience alongside these dragons, and although this place was filled with just as much drama and murder as back home..."
-    m "Somme toute, j'avais certainement eu une expérience unique au côté de ces dragons, et même si cet endroit était aussi rempli de drames et de meurtres qu'à la maison..."
+    m "Au final, j'avais certainement eu une expérience unique au côté de ces dragons, même si cet endroit était aussi rempli de drames et de meurtres qu'à la maison..."
 
 # game/chapter3.rpy:1536
 translate frenchtl c3conty_7a6d8797:
@@ -1681,7 +1681,7 @@ translate frenchtl c3conty_496fe292:
 translate frenchtl c3conty_642d5188:
 
     # Sb "It's none of your concern. Please leave."
-    Sb "Ce n'est rien qui vous concerne. Veuillez partir s'il vous plait."
+    Sb "Ce n'est rien qui vous concerne. Veuillez partir s'il vous plaît."
 
 # game/chapter3.rpy:1556
 translate frenchtl c3conty_6b72891a:
@@ -1717,7 +1717,7 @@ translate frenchtl c3conty_a8b7639c:
 translate frenchtl c3conty_95221d1b:
 
     # c "It wasn't my choice. The Minister made this decision just a moment ago. You'll be hearing about the reasons soon enough."
-    c "Ce n'était pas mon choix. Le ministre a pris cette décision il n'y a que peu de temps. Tu entendras parler des raisons bien assez tôt."
+    c "Ce n'était pas mon choix. Le ministre a pris cette décision à l'instant. Tu entendras parler des raisons bien assez tôt."
 
 # game/chapter3.rpy:1578
 translate frenchtl c3conty_d39faff6:
@@ -1741,7 +1741,7 @@ translate frenchtl c3conty_7707a1a7:
 translate frenchtl c3conty_977a308b:
 
     # c "I don't have anything to do with that. I was helping the police find him. "
-    c "Je n'ai rien à faire avec tout ça. J'aidais la police à le retrouver."
+    c "Je n'ai rien à voir avec tout ça. J'aidais la police à le retrouver."
 
 # game/chapter3.rpy:1586
 translate frenchtl c3conty_88c0fd78:
@@ -1801,7 +1801,7 @@ translate frenchtl c3conty_2d24d594:
 translate frenchtl c3conty_9ea817d3:
 
     # Ad disappoint b "And I couldn't even show you my flying. I was just practicing when I saw you down here."
-    Ad disappoint b "Et je n'ai même pas pu te montrer mes techniques de vol. J'étais justement en train de m'entraîner quand je t'ai aperçu ici."
+    Ad disappoint b "Et je n'ai même pas pu te montrer mes figures aériennes. J'étais justement en train de m'entraîner quand je t'ai aperçu ici."
 
 # game/chapter3.rpy:1606
 translate frenchtl c3conty_d9006070:
@@ -1885,7 +1885,7 @@ translate frenchtl c3conty_a9d0b1ac:
 translate frenchtl c3conty_977a308b_1:
 
     # c "I don't have anything to do with that. I was helping the police find him. "
-    c "Je n'ai rien à faire avec tout ça. J'aidais la police à le retrouver."
+    c "Je n'ai rien à voir avec tout ça. J'aidais la police à le retrouver."
 
 # game/chapter3.rpy:1637
 translate frenchtl c3conty_88c0fd78_1:
@@ -1939,7 +1939,7 @@ translate frenchtl c3conty_71da670e:
 translate frenchtl c3conty_e9b0da49:
 
     # Ad "I was practicing my flying when I saw you down here. What's going on?"
-    Ad "Je m'entraînais sur mes techniques de vol quand je t'ai aperçu ici. Qu'est-ce qu'il se passe ?"
+    Ad "Je m'entraînais sur mes figures aériennes quand je t'ai aperçu ici. Qu'est-ce qu'il se passe ?"
 
 # game/chapter3.rpy:1658
 translate frenchtl c3conty_e56d1698:
@@ -2089,7 +2089,7 @@ translate frenchtl c3conty_add0f654:
 translate frenchtl c3conty_bb3816a8:
 
     # Ad normal b "I was just practicing my flying when I spotted you down here, and who would say no to an opportunity to meet one of the humans? Not me."
-    Ad normal b "J'étais juste en train de m'entraîner sur mes techniques de vol quand je t'ai aperçu ici. Qui refuserait une opportunité de rencontrer l'un des humain ? Pas moi."
+    Ad normal b "J'étais juste en train de m'entraîner sur mes figures aériennes quand je t'ai aperçu ici. Qui refuserait une opportunité de rencontrer l'un des humain ? Pas moi."
 
 # game/chapter3.rpy:1711
 translate frenchtl c3conty_349fafb7:
@@ -2131,7 +2131,7 @@ translate frenchtl c3conty_96933db5:
 translate frenchtl c3conty_977a308b_3:
 
     # c "I don't have anything to do with that. I was helping the police find him. "
-    c "Je n'ai rien à faire avec tout ça. J'aidais la police à le retrouver."
+    c "Je n'ai rien à voir avec tout ça. J'aidais la police à le retrouver."
 
 # game/chapter3.rpy:1725
 translate frenchtl c3conty_88c0fd78_2:
@@ -2359,7 +2359,7 @@ translate frenchtl c3conty_8f99437e:
 translate frenchtl c3conty_27d5d292:
 
     # Sb "I hope I can remember how this thing works..."
-    Sb "J'espère pouvoir me rappeler de comment cette chose fonctionne..."
+    Sb "J'espère me rappeler comment fonctionne ce truc..."
 
 # game/chapter3.rpy:1834
 translate frenchtl c3conty_148b8d6f:
@@ -2383,7 +2383,7 @@ translate frenchtl c3conty_44f9bfc0:
 translate frenchtl c3conty_3456d2be:
 
     # Sb normal b "Let's keep it professional. I don't like to mix personal matters with work."
-    Sb normal b "Restons professionnels. Je n'aime mêler affaires personnelles et travail."
+    Sb normal b "Restons professionnels. Je n'aime pas mêler affaires personnelles et travail."
 
 # game/chapter3.rpy:1842
 translate frenchtl c3conty_4ff6fd93:
@@ -2591,7 +2591,7 @@ translate frenchtl c3conty_929882d8:
 translate frenchtl c3conty_8b24b374:
 
     # m "We were back at the Ministry before long. Emera and Bryce were still outside, as Remy approached the two of them."
-    m "Quelques instants plus tard nous étions de retour au ministère. Emera et Bryce étaient toujours dehors, alors que Rémi s'approchait de ces deux-là."
+    m "Quelques instants plus tard nous étions de retour au ministère. Emera et Bryce étaient toujours dehors, alors que Rémi s'approchait d'eux."
 
 # game/chapter3.rpy:1963
 translate frenchtl c3conty_48f06d44:
@@ -2663,7 +2663,7 @@ translate frenchtl c3conty_3df534d0:
 translate frenchtl c3conty_6d182056:
 
     # Em ques "Chief, as a result of your carelessness regarding Maverick and Reza, you are temporarily removed from any duties related to the humans."
-    Em ques "Commissaire, en raison de votre négligence en regard de Maverick et de Reza, vous êtes temporairement suspendu de tout devoir en lien avec les humains."
+    Em ques "Commissaire, en raison de votre négligence en regard de Maverick et de Reza, vous êtes temporairement suspendu de tout devoir relatifs aux humains."
 
 # game/chapter3.rpy:1991
 translate frenchtl c3conty_23c8f7d9:
@@ -2807,7 +2807,7 @@ translate frenchtl c3conty_2bbdb8a8:
 translate frenchtl c3conty_d3f8a3f0:
 
     # Em "I am afraid we will have to deduct this from your wage again."
-    Em "Je crains que j'aurai à déduire cela de ton salaire de nouveau."
+    Em "Je crains que j'aurai à déduire cela de ton salaire une fois de plus."
 
 # game/chapter3.rpy:2068
 translate frenchtl c3conty_07d1113d:
@@ -2855,7 +2855,7 @@ translate frenchtl c3conty_c09a99fc:
 translate frenchtl c3conty_a7037060:
 
     # m "I only opened the door long enough to hand Remy the sheet of paper."
-    m "J'ouvris la porte juste assez pour donner la feuille de papier à Rémi."
+    m "J'ouvris la porte juste assez longtemps pour donner la feuille de papier à Rémi."
 
 # game/chapter3.rpy:2090
 translate frenchtl c3conty_bc8855dc:
@@ -5109,7 +5109,7 @@ translate frenchtl _call_syscheck_20_06fe5d86:
 translate frenchtl _call_syscheck_20_0839c1ef:
 
     # s "You pranked Bryce. You naughty, naughty person."
-    s "Tu as fait une farce à Bryce. Ca pour être espiègle."
+    s "Tu as fait une farce à Bryce. Ça pour être espiègle."
 
 # game/chapter3.rpy:3704
 translate frenchtl _call_syscheck_20_4c34f1c4:
@@ -6351,7 +6351,7 @@ translate frenchtl strings:
 
     # chapter3.rpy:1223
     old "Bryce wouldn't let me say no."
-    new "Bryce ne m'a pas laissé dire non."
+    new "Bryce ne me laisserait pas dire non."
 
     # chapter3.rpy:1223
     old "It is my best bet at finding the truth."
@@ -6411,7 +6411,7 @@ translate frenchtl strings:
 
     # chapter3.rpy:3282
     old "Actually, I'm kinda busy right now."
-    new "Au fait, je suis plutôt occupé en ce moment."
+    new "En fait, je suis plutôt occupé en ce moment."
 
     # chapter3.rpy:3465
     old "Study the blueprint of the underground building near the portal."

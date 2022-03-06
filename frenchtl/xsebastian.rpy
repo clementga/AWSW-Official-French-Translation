@@ -623,7 +623,7 @@ translate french sebastianquestions_921c62dd:
 translate french sebastianquestions_cc1e9e12:
 
     # Sb smile b "I'd think as a member of the police force I'd get to see everything there is to see."
-    Sb smile b "Je pense qu'en temps que membre de la police, j'aurais vu tout ce qu'il y a à voir."
+    Sb smile b "Je pense qu'en tant que membre de la police, j'aurais vu tout ce qu'il y a à voir."
 
 # game/xsebastian.rpy:530
 translate french sebastianquestions_bea7ba6b:
@@ -635,7 +635,7 @@ translate french sebastianquestions_bea7ba6b:
 translate french sebastiancont_1c0040b6:
 
     # Sb smile b "But hey, I'm not the only one who's been new here. What are your impressions? Good, bad, ...ugly?" references The Good, the Bad and the Ugly
-    Sb smile b "Mais bon, je ne suis pas le seul qui sois nouveau ici. Quelles sont tes impressions ? Bon, mauvais, ...horrible ?"
+    Sb smile b "Mais bon, je ne suis pas le seul qui soit nouveau ici. Quelles sont tes impressions ? Bon, mauvais, ...horrible ?"
     # La référence sur le bon, la brute et le truand ne peut pas vraiment être traduite en français
 
 # game/xsebastian.rpy:551
@@ -750,7 +750,7 @@ translate french sebastiancont_63856961:
 translate french sebastiancont_7e88c41c:
 
     # Sb "We often play it in the break room to pass the time. It's good fun, though things can get quite heated sometimes."
-    Sb "Nous y jouons souvent la salle de détente pour passer le temps. C'est bien amusant, même si les choses peuvent devenir assez tendues parfois."
+    Sb "Nous y jouons souvent dans la salle de détente pour passer le temps. C'est bien amusant, même si les choses peuvent devenir assez tendues parfois."
 
 # game/xsebastian.rpy:609
 translate french sebastiancont_b02cd128:
@@ -822,7 +822,7 @@ translate french sebgameexplanation_718c24c0:
 translate french sebgameexplanation_39ba47ec:
 
     # Sb "Once we have both played a card, we flip them over. The highest card wins the round, and whoever played it gets a point."
-    Sb "Une fois que l'on a tous les deux joué une carte, nous la retournons. La carte avec la plus haute valeure, donc la plus forte, remporte le tour, et quiconque l'a jouée obtient le point."
+    Sb "Une fois que l'on a tous les deux joué une carte, nous la retournons. La carte avec la plus haute valeur, donc la plus forte, remporte le tour, et quiconque l'a jouée obtient le point."
 
 # game/xsebastian.rpy:749
 translate french sebgameexplanation_8bf06079:
@@ -846,7 +846,7 @@ translate french sebgameexplanation_d93d316b:
 translate french sebgameexplanation_57c20a01:
 
     # Sb "At the end, the player with the most number of points wins the game."
-    Sb "À la fin, le joueur avec le plus de point remporte la partie."
+    Sb "À la fin, le joueur avec le plus de points remporte la partie."
 
 # game/xsebastian.rpy:757
 translate french sebgameexplanation_cefcd0b4:
@@ -948,13 +948,13 @@ translate french sebgamestart_27c639f4:
 translate french sebgamestart_9c42457b:
 
     # Sb "Looks like a tie. Of course, the only card that beats a king is the ace, but playing it here would be a rookie mistake. It's definitely a safer play to just get rid of a low card here."
-    Sb "On dirait une égalité. Évidemment, la seule carte qui bat un roi est l'as, mais le jouer ici serait une erreur de débutant. Il est certainement plus sûr de se débarasser d'une carte basse dans ce cas."
+    Sb "On dirait une égalité. Évidemment, la seule carte qui bat un roi est l'as, mais le jouer ici serait une erreur de débutant. Il est certainement plus sûr de se débarrasser d'une carte basse dans ce cas."
 
 # game/xsebastian.rpy:1364
 translate french sebgamestart_5ae39e73:
 
     # Sb "You did the predictable thing and play the ace, the only card that beats a king. Since my 3 beats your ace, though, this round is considered a tie. You may think that's not so bad, but taking away your ace with just a lowly 3 gives me big advantage during the rest of the game."
-    Sb "Tu as fait la chose prévisible et joué l'as, la seule carte qui peut battre un roi. Puisque mon 3 bat ton as cependant, ce tour est considéré comme une égalité. Tu peux penser que ce n'est pas si grave, mais abattre ton as avec un simple 3 me donne un gros avantage pour le reste de la partie."
+    Sb "Tu as fait la chose prévisible et joué l'as, la seule carte qui peut battre un roi. Puisque mon 3 bat ton As cependant, ce tour est considéré comme une égalité. Tu peux penser que ce n'est pas si grave, mais abattre ton as avec un simple 3 me donne un gros avantage pour le reste de la partie."
 
 # game/xsebastian.rpy:1613
 translate french sebgamestart_31c2f00e:
@@ -1044,7 +1044,7 @@ translate french sebgamestart_6e7a07bf:
 translate french sebgamestart_be1f1867:
 
     # Sb "Seriously, how could I lose seven times in a row? Guess you win this one, [player_name]. I won't be able to catch up, so let's just finish it for the sake of it."
-    Sb "Sérieusement, comment ai-ju perdre sept fois d'affilé ? Je suppose que tu as gagné cette partie, [player_name]. Je ne pourrai pas de rattraper, alors finissons juste cette partie pour la forme."
+    Sb "Sérieusement, comment ai-je perdu sept fois d'affilée ? Je suppose que tu as gagné cette partie, [player_name]. Je ne pourrai pas te rattraper, alors finissons juste cette partie pour la forme."
 
 # game/xsebastian.rpy:2750
 translate french sebgamestart_d85f3682:
@@ -1056,7 +1056,7 @@ translate french sebgamestart_d85f3682:
 translate french sebgamestart_4fe2895a:
 
     # Sb "This is the halfway point, so now it's really going to get serious. Anyone can still win."
-    Sb "On est à la moitié de la partie, les choses vont donc devenir sérieuse. N'importe qui peut encore gagner."
+    Sb "On est à la moitié de la partie, les choses vont donc devenir sérieuses. N'importe qui peut encore gagner."
 
 # game/xsebastian.rpy:3003
 translate french sebgamestart_c8e86297:
@@ -1134,7 +1134,7 @@ translate french sebgamestart_558807b7_2:
 translate french sebgamestart_d7e623fc:
 
     # Sb "Yeah, this game is pretty much over."
-    Sb "Ouais, cette parte est déjà plus ou moins finie."
+    Sb "Ouais, cette partie est déjà plus ou moins finie."
 
 # game/xsebastian.rpy:4390
 translate french sebgamestart_0d7e0644:
@@ -1594,7 +1594,7 @@ translate french strings:
 
     # xsebastian.rpy:270
     old "So I'm supposed to just sleep on the ground?"
-    new "Alors je suis sensé dormir sur le sol, comme ça ?"
+    new "Alors je suis censé dormir sur le sol, comme ça ?"
 
     # xsebastian.rpy:270
     old "Sounds great."
