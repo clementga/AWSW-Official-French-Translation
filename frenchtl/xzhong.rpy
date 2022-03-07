@@ -1126,7 +1126,7 @@ translate french zhongsoundtrackfinish_fea1d688:
 translate french zhongsoundtrackfinish_360b22e1:
     
     # Zh "Really? I didn't think you would."
-    Zh "Ah oui, je ne m'attendais pas à ce que vous aimiez."
+    Zh "Ah oui? je ne m'attendais pas à ce que vous aimiez."
 
 # game/xzhong.rpy:909
 translate french zhongsoundtrackfinish_309e5307:

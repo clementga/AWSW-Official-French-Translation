@@ -160,13 +160,13 @@ translate frenchtl _call_skipcheck_17_6a52549c:
 translate frenchtl _call_skipcheck_17_6770fe0f:
 
     # n "I was still in school and already solving problems that no one had even touched before."
-    n "J'étais encore à l'école que je résolvais déjà des problèmes que personne n'avait encore abordé."
+    n "J'étais encore à l'école que je résolvais déjà des problèmes que personne n'avait encore abordés."
 
 # game/anna4.rpy:173
 translate frenchtl _call_skipcheck_17_b7f336c7:
 
     # n "I had so many awards lining my shelves that new ones just went straight to the trash. I didn't need them; I just enjoyed the challenge."
-    n "J'avais tellement de trophés sur mes étagères que je finis par balancer les nouveaux au fur et à mesure qu'on me les donnait. Je n'en avait pas besoin; j'aimais juste le défi."
+    n "J'avais tellement de trophés sur mes étagères que je finis par balancer les nouveaux au fur et à mesure qu'on me les donnait. Je n'en avais pas besoin; j'aimais juste le défi."
 
 # game/anna4.rpy:175
 translate frenchtl _call_skipcheck_17_944bcbb5:
@@ -226,7 +226,7 @@ translate frenchtl _call_skipcheck_17_76b2fe88_2:
 translate frenchtl _call_skipcheck_17_1e4ed520:
 
     # n "I told no one about my affliction and set out to do what many others had failed to. Any materials I needed to start my work were easily acquired just by waving my status around."
-    n "Je n'avais parlé à personne de ma maladie et entrprit de réussir ce que beaucoup d'autres avaient échoué. Je pouvais obtenir tout le matériel dont j'avais besoin pour démarrer, juste en usant de mon statut."
+    n "Je n'avais parlé à personne de ma maladie et entrepris de réussir ce que beaucoup d'autres avaient échoué. Je pouvais obtenir tout le matériel dont j'avais besoin pour démarrer, juste en usant de mon statut."
 
 # game/anna4.rpy:199
 translate frenchtl _call_skipcheck_17_3dce64c9:
@@ -256,7 +256,7 @@ translate frenchtl _call_skipcheck_17_76b2fe88_3:
 translate frenchtl _call_skipcheck_17_43ca2846:
 
     # n "Being pushed through the various boards and committees could have taken months, if not years, depending on how generous they would be. I just couldn't afford to wait that long, as I was working against the clock."
-    n "Etre baladée entre les comités et les conseils aurait pu prendre des mois, voire des années, en fonction de leur générosité. Je ne pouvais pas me permettre d'attendre aussi longtemps, puisque mon temps était compté."
+    n "Être baladée entre les comités et les conseils aurait pu prendre des mois, voire des années, en fonction de leur générosité. Je ne pouvais pas me permettre d'attendre aussi longtemps, puisque mon temps était compté."
 
 # game/anna4.rpy:211
 translate frenchtl _call_skipcheck_17_e7ef2f0b:
@@ -268,7 +268,7 @@ translate frenchtl _call_skipcheck_17_e7ef2f0b:
 translate frenchtl _call_skipcheck_17_e2558e4a:
 
     # n "The method I was going to use was not necessarily a new one, but it was controversial. It didn't even cross my mind that anyone would object, seeing as I would cure thousands, if not millions of future people."
-    n "La méthode que j'avais choisi était connue, mais sujette à controverse. Il ne m'est pas venu à l'esprit qu'un refus était envisageable, en voyant que j'allais soigner des milliers, voir des millions de gens à l'avenir."
+    n "La méthode que j'avais choisie était connue, mais sujette à controverse. Il ne m'est pas venu à l'esprit qu'un refus était envisageable, en voyant que j'allais soigner des milliers, voire des millions de gens à l'avenir."
 
 # game/anna4.rpy:215
 translate frenchtl _call_skipcheck_17_17a03a2a:
@@ -292,7 +292,7 @@ translate frenchtl _call_skipcheck_17_87e6ff57:
 translate frenchtl _call_skipcheck_17_1f1991bf:
 
     # n "The proposal that I was sure would be approved was ultimately rejected, putting all the work I had already done into jeopardy. I had already made good progress at the time, too."
-    n "Cette proposition que j'étais certaine de voir acceptée fut finalement rejetée, fouttant en l'air tout le travail que j'avais déjà fait. J'avais aussi déjà bien avancé à ce moment."
+    n "Cette proposition que j'étais certaine de voir acceptée fut finalement rejetée, foutant en l'air tout le travail que j'avais déjà fait. J'avais aussi déjà bien avancé à ce moment."
 
 # game/anna4.rpy:225
 translate frenchtl _call_skipcheck_17_8bfd241e:
@@ -316,7 +316,7 @@ translate frenchtl _call_skipcheck_17_76b2fe88_5:
 translate frenchtl _call_skipcheck_17_bde93a67:
 
     # n "In the end, I had very little warning. Thankfully, I managed to dispose of the most egregious evidence before they arrived."
-    n "Au final je n'eus qu'un petit avertissement. Heureusement, j'avais réussi à me débarasser des preuves les plus scandaleuses avant leur arrivée."
+    n "Au final je n'eus qu'un petit avertissement. Heureusement, j'avais réussi à me débarrasser des preuves les plus scandaleuses avant leur arrivée."
 
 # game/anna4.rpy:237
 translate frenchtl _call_skipcheck_17_ee41b11a:
@@ -364,7 +364,7 @@ translate frenchtl _call_skipcheck_17_0ffc5c99:
 translate frenchtl _call_skipcheck_17_3461f980:
 
     # c "Why didn't you just do things the proper way and wait for the paperwork to clear?"
-    c "Pourquoi n'as-tu pas fait les choses dans les règles et attendue la fin de la procédure administrative ?"
+    c "Pourquoi n'as-tu pas fait les choses dans les règles et attendu la fin de la procédure administrative ?"
 
 # game/anna4.rpy:267
 translate frenchtl _call_skipcheck_17_c9c53b69:
@@ -430,7 +430,7 @@ translate frenchtl _call_skipcheck_17_03619e40:
 translate frenchtl _call_skipcheck_17_d4509248:
 
     # An "This is my life we're talking about. Do you think I didn't spend hours on the ground in the hallway of the facility after Reza's first visit, trying to find a stray hair or anything else I could use?"
-    An "On parle de ma vie là. Tu crois que j'ai pas passé des heures à scrutter le sol des couloirs du complexe après la première visite de Reza, essayant de trouver un poils ou n'importe quel chose d'utile ?"
+    An "On parle de ma vie là. Tu crois que j'ai pas passé des heures à scruter le sol des couloirs du complexe après la première visite de Reza, essayant de trouver un poil ou n'importe quel chose d'utile ?"
 
 # game/anna4.rpy:289
 translate frenchtl _call_skipcheck_17_6c24cd3e:
@@ -448,7 +448,7 @@ translate frenchtl _call_skipcheck_17_473c72e2:
 translate frenchtl _call_skipcheck_17_5d5a2c5a:
 
     # An rage "It was Damion, my assistant. That piece of shit."
-    An rage "Damion, mon assistant ! Cet espèce de salopard !"
+    An rage "Damion, mon assistant ! Cette espèce de salopard !"
 
 # game/anna4.rpy:297
 translate frenchtl _call_skipcheck_17_3b76e4bd:
@@ -490,13 +490,13 @@ translate frenchtl _call_skipcheck_17_d3561ec0:
 translate frenchtl _call_skipcheck_17_113143e4:
 
     # An face "And now, everything is coming down. I will be punished to the full extent of the law, and I will die in prison."
-    An face "Et maintenant tout s'écroule. Je vais payer pour toute les lois que j'ai enfreintes et je vais mourir en prison."
+    An face "Et maintenant tout s'écroule. Je vais payer pour toutes les lois que j'ai enfreintes et je vais mourir en prison."
 
 # game/anna4.rpy:311
 translate frenchtl _call_skipcheck_17_e70339e4:
 
     # An "My work will forever be tainted. Not that I'll care about that when I'm dead."
-    An "Mon travail sera entachée à jamais. Même si après ma mort ce ne sera plus mon problème."
+    An "Mon travail sera entaché à jamais. Même si après ma mort ce ne sera plus mon problème."
 
 # game/anna4.rpy:313
 translate frenchtl _call_skipcheck_17_32aacc7a:
@@ -586,7 +586,7 @@ translate frenchtl anna4skip1_02c0e145:
 translate frenchtl anna4skip1_db825c8a:
 
     # An "All those filthy bureaucrats. You should've heard them."
-    An "Et tout ces salauds de bureaucrates, tu aurais tu les entendre..."
+    An "Et tous ces salauds de bureaucrates, tu aurais tu les entendre..."
 
 # game/anna4.rpy:359
 translate frenchtl anna4skip1_03ea2e42:
@@ -598,7 +598,7 @@ translate frenchtl anna4skip1_03ea2e42:
 translate frenchtl anna4skip1_7742d6a7:
 
     # An cry "Tradition now demands that I die."
-    An cry "La tradition me demande de mourrir."
+    An cry "La tradition me demande de mourir."
 
 # game/anna4.rpy:363
 translate frenchtl anna4skip1_7a1f7feb:
@@ -610,7 +610,7 @@ translate frenchtl anna4skip1_7a1f7feb:
 translate frenchtl anna4skip1_a9f239d5:
 
     # An disgust "Actually, why don't I line up all of those who got me here and kill them?"
-    An disgust "D'ailleurs, pourquoi ne pas aligner tout ceux qui m'ont amené là où j'en suis et les tuer hein ?"
+    An disgust "D'ailleurs, pourquoi ne pas aligner tous ceux qui m'ont amené là où j'en suis et les tuer hein ?"
 
 # game/anna4.rpy:367
 translate frenchtl anna4skip1_58341936:
@@ -664,7 +664,7 @@ translate frenchtl anna4skip1_f98bd948:
 translate frenchtl anna4skip1_fd6031dd:
 
     # An disgust "So what? That doesn't give you any right to look into my stuff!"
-    An disgust "Et alors ? Ca ne te donne pas le droit de fouiller dans mes affaires !"
+    An disgust "Et alors ? Ça ne te donne pas le droit de fouiller dans mes affaires !"
 
 # game/anna4.rpy:394
 translate frenchtl anna4skip1_59631e6a:
@@ -700,13 +700,13 @@ translate frenchtl anna4skip1_e3dd800d:
 translate frenchtl anna4skip1_cb810fa6:
 
     # An disgust "The same rules and traditions that would make them worship you, just because of some stupid, old legend."
-    An disgust "Ces mêmes règles et traditions qui les fait vous vénérer, tout ça à cause de croyances stupides et de vielles légendes."
+    An disgust "Ces mêmes règles et traditions qui les fait vous vénérer, tout ça à cause de croyances stupides et de vieilles légendes."
 
 # game/anna4.rpy:406
 translate frenchtl anna4skip1_3d2095fb:
 
     # An "You know it and used it to your advantage to arrange this one-sided trade with us."
-    An "Vous le saviez, et vous en avez profiter pour arranger ce marché à sens unique avec nous"
+    An "Vous le saviez, et vous en avez profité pour arranger ce marché à sens unique avec nous"
 
 # game/anna4.rpy:408
 translate frenchtl anna4skip1_80b842d8:
@@ -730,7 +730,7 @@ translate frenchtl anna4skip1_7620d745:
 translate frenchtl anna4skip1_dc8edbd9:
 
     # An sad "You look into things you shouldn't, and Reza does whatever the heck he does nowadays."
-    An sad "Tu fourres ton museau là ou il n'a pas lieu d'être, et Reza fait je ne sais quoi dehors."
+    An sad "Tu fourres ton museau là où il n'a pas lieu d'être, et Reza fait je ne sais quoi dehors."
 
 # game/anna4.rpy:416
 translate frenchtl anna4skip1_b21e8396:
@@ -754,7 +754,7 @@ translate frenchtl anna4skip1_2c34807f:
 translate frenchtl anna4skip1_4f60a6da:
 
     # An "Oh, really? Prove it." with Shake((0, 0, 0, 0), 2, dist=10)
-    An "Oh, vraiment ? Prouve le." with Shake((0, 0, 0, 0), 2, dist=10)
+    An "Oh, vraiment ? Prouve-le." with Shake((0, 0, 0, 0), 2, dist=10)
 
 # game/anna4.rpy:426
 translate frenchtl anna4skip1_79349d46:
@@ -802,7 +802,7 @@ translate frenchtl anna4skip1_09163495_1:
 translate frenchtl anna4skip1_c7cd94ef:
 
     # c "Maybe we could work something out. I'm sure humanity would not object, or maybe we could just give you the technology or the necessary method. We have already cured cancer, so there's no need for you to die."
-    c "On pourrait trouver une solution. Je suis sûr que l'humanité de posera pas d'objection, ou bien nous pourrions juste vous donner la technologie ou les méthodes nécéssaires. On a déjà soigné le cancer, donc tu n'as pas à mourir."
+    c "On pourrait trouver une solution. Je suis sûr que l'humanité ne posera pas d'objection, ou bien nous pourrions juste vous donner la technologie ou les méthodes nécessaires. On a déjà soigné le cancer, donc tu n'as pas à mourir."
 
 # game/anna4.rpy:449
 translate frenchtl anna4skip1_0562251b:
@@ -814,7 +814,7 @@ translate frenchtl anna4skip1_0562251b:
 translate frenchtl anna4skip1_6e1a3c24:
 
     # An "You know I didn't care about you. I just wanted your blood, your data. Just anything that would help me save myself."
-    An "Tu sais que je me fichais de toi. Tout ce que je voulais, c'était ton sang, des données sur toi. Tout ce qui aurait été succeptible de me sauver."
+    An "Tu sais que je me fichais de toi. Tout ce que je voulais, c'était ton sang, des données sur toi. Tout ce qui aurait été susceptible de me sauver."
 
 # game/anna4.rpy:453
 translate frenchtl anna4skip1_45711d91:
@@ -838,7 +838,7 @@ translate frenchtl a4otherwise_a95bb18d:
 translate frenchtl a4otherwise_6d9b9a7e:
 
     # An "You know, after that whole affair back then and the suspended sentence, the rumors about me never stopped. Did they warn you about me? Tell you to stay away? I'm sure they have."
-    An "Tu sais, après toute l'affaire à l'époque et la sentence suspendue, les rumeurs sur moi ne se sont jamais arrêtée. T'ont-ils averti à mon sujet ? De rester loin de moi ? J'en suis certaine."
+    An "Tu sais, après toute l'affaire à l'époque et la sentence suspendue, les rumeurs sur moi ne se sont jamais arrêtées. T'ont-ils averti à mon sujet ? De rester loin de moi ? J'en suis certaine."
 
 # game/anna4.rpy:470
 translate frenchtl a4otherwise_6bb3777a:
@@ -880,7 +880,7 @@ translate frenchtl a4otherwise_cac4c825:
 translate frenchtl a4otherwise_a07e2e36:
 
     # An cry "One of their oh-so-important founding principles is how every individual is important. That's clearly not the case with me. At least, they never showed it was."
-    An cry "L'un de nos grand principes fondamentaux, c'est de mettre en avant l'importance de chaque individu. Ca n'était clairement pas le cas avec moi. Du moins, il ne me l'ont jamais montré."
+    An cry "L'un de nos grands principes fondamentaux, c'est de mettre en avant l'importance de chaque individu. Ça n'était clairement pas le cas avec moi. Du moins, il ne me l'ont jamais montré."
 
 # game/anna4.rpy:484
 translate frenchtl a4otherwise_c04fd889:
@@ -916,7 +916,7 @@ translate frenchtl a4otherwise_91881375:
 translate frenchtl a4otherwise_48a02ca7:
 
     # An cry "And you still came back for more. You let me do all those tests on you. Sure, you complained like a pro, but you sat it out for me."
-    An cry "Et tu es venu. Tu m'as laissé faire tout ces tests sur toi. Bien sûr tu as râlé comme un vrai pro, mais tu y as participé pour moi."
+    An cry "Et tu es venu. Tu m'as laissé faire tous ces tests sur toi. Bien sûr tu as râlé comme un vrai pro, mais tu y as participé pour moi."
 
 # game/anna4.rpy:496
 translate frenchtl a4otherwise_5626babf:
@@ -1018,7 +1018,7 @@ translate frenchtl _call_skipcheck_18_0054b77b:
 translate frenchtl _call_skipcheck_18_a6c475aa:
 
     # An sad "Anyway, enough of that. I hope you dont mind me hanging around here. My place still looks like the police raided it. Oh, wait, that's exactly what happened."
-    An sad "Enfin, arrêtons de parler de ça. J'espère que ça ne te dérange pas si je traine ici. Chez moi c'est comme si j'avais eu droit à une descente de flic. Non attends, c'est exactement ce qui s'est passé."
+    An sad "Enfin, arrêtons de parler de ça. J'espère que ça ne te dérange pas si je traîne ici. Chez moi c'est comme si j'avais eu droit à une descente de flic. Non attends, c'est exactement ce qui s'est passé."
 
 # game/anna4.rpy:601
 translate frenchtl _call_skipcheck_18_ea1507a8:
@@ -1036,7 +1036,7 @@ translate frenchtl _call_skipcheck_18_c01cbb0a:
 translate frenchtl _call_skipcheck_18_4d006aae:
 
     # An sad "Nice apartment you've got here, by the way. Not quite as fancy as mine, but this isn't bad either. I guess the council treats you nicely, huh?"
-    An sad "Joli cet apaprtement au fait. Pas aussi chic que le miens, mais c'est pas mal quand même. Il faut croire que le conseil te traite bien, hein ?"
+    An sad "Joli cet appartement au fait. Pas aussi chic que le mien, mais c'est pas mal quand même. Il faut croire que le conseil te traite bien, hein ?"
 
 # game/anna4.rpy:607
 translate frenchtl _call_skipcheck_18_b8565449:
@@ -1048,7 +1048,7 @@ translate frenchtl _call_skipcheck_18_b8565449:
 translate frenchtl _call_skipcheck_18_d10c9fc3:
 
     # An face "You're such a VIP, aren't you?"
-    An face "Tu es traîté comme un VIP, tu en es conscient ?"
+    An face "Tu es traité comme un VIP, tu en es conscient ?"
 
 # game/anna4.rpy:611
 translate frenchtl _call_skipcheck_18_23e7ac20:
@@ -1108,13 +1108,13 @@ translate frenchtl _call_skipcheck_18_fcbd37e9:
 translate frenchtl _call_skipcheck_18_214f7aef:
 
     # An normal "Just be a dragon. Then you've got everything you need and don't have to rely on tools and other stupid stuff."
-    An normal "Juste, sois un dragon. Tu as tout ce dont tu as besoin sans t'appuyer sur des outils ou autre trucs stupides."
+    An normal "Juste, sois un dragon. Tu as tout ce dont tu as besoin sans t'appuyer sur des outils ou autres trucs stupides."
 
 # game/anna4.rpy:631
 translate frenchtl _call_skipcheck_18_5e62e772:
 
     # c "Yeah, that's super helpful. How do you think I'm supposed to do that?"
-    c "Ouais, C'est super utile. Mais comment je suis supposé faire ça ?"
+    c "Ouais, c'est super utile. Mais comment je suis supposé faire ça ?"
 
 # game/anna4.rpy:633
 translate frenchtl _call_skipcheck_18_19152924:
@@ -1126,7 +1126,7 @@ translate frenchtl _call_skipcheck_18_19152924:
 translate frenchtl _call_skipcheck_18_846cf6e7:
 
     # c "Actually, can you tell me about your advances in genetic engineering? Maybe you could make it happen."
-    c "En fait, Peux-tu m'en dire plus sur vos avancées en matière de génie génétique ? Peut être que tu pourrais rendre ça possible ?"
+    c "En fait, Peux-tu m'en dire plus sur vos avancées en matière de génie génétique ? Peut-être que tu pourrais rendre ça possible ?"
 
 # game/anna4.rpy:637
 translate frenchtl _call_skipcheck_18_8b800a52:
@@ -1138,7 +1138,7 @@ translate frenchtl _call_skipcheck_18_8b800a52:
 translate frenchtl _call_skipcheck_18_ce34c345:
 
     # c "I was speaking more of your society as a whole, but if you have personal experience, that could also be interesting."
-    c "Je parlais de celle de votre société en général. Mais si tu as une experience personnelle, ça pourrait être intéressant."
+    c "Je parlais de celle de votre société en général. Mais si tu as une expérience personnelle, ça pourrait être intéressant."
 
 # game/anna4.rpy:641
 translate frenchtl _call_skipcheck_18_e60b8374:
@@ -1174,7 +1174,7 @@ translate frenchtl _call_skipcheck_18_a9a698ae:
 translate frenchtl _call_skipcheck_18_f60d7ae9:
 
     # An normal "Yeah, that one. It's the only one we have."
-    An normal "Oui, celui là. C'est le seul qu'on aie d'ailleurs."
+    An normal "Oui, celui-là. C'est le seul qu'on aie d'ailleurs."
 
 # game/anna4.rpy:653
 translate frenchtl _call_skipcheck_18_d65c3b37:
@@ -1228,7 +1228,7 @@ translate frenchtl _call_skipcheck_18_a4b9d871:
 translate frenchtl _call_skipcheck_18_a6861586:
 
     # An "You could say so. These structures can be pretty rigid in places, especially where the council is concerned. They really like to employ the members of the various species in their traditional roles."
-    An "On peut dire ça oui. Ces structures peuvent être rigides là dessus, tout particulièrement là où le conseil est impliqué. Ils aiment beaucoup employer les membres des différentes espèces dans leur rôles traditionnels."
+    An "On peut dire ça oui. Ces structures peuvent être rigides là dessus, tout particulièrement là où le conseil est impliqué. Ils aiment beaucoup employer les membres des différentes espèces dans leurs rôles traditionnels."
 
 # game/anna4.rpy:671
 translate frenchtl _call_skipcheck_18_d5d94e01:
@@ -1246,7 +1246,7 @@ translate frenchtl _call_skipcheck_18_4d3f3918:
 translate frenchtl _call_skipcheck_18_74e6fa19:
 
     # An normal "Well, a council's aide - particularly one who works in the archives - is usually a member of a species with more dextrous hands. You can't really expect a four legged species to do that kind of job well."
-    An normal "Eh bien un assistant du conseil - en particulier ceux qui travaillent aux archives - est habituellement une espèce avec des mains habiles. Tu ne t'attends pas à ce qu'une espèce quadripède fasse correctement ce genre de travail."
+    An normal "Eh bien un assistant du conseil - en particulier ceux qui travaillent aux archives - est habituellement une espèce avec des mains habiles. Tu ne t'attends pas à ce qu'une espèce quadrupède fasse correctement ce genre de travail."
 
 # game/anna4.rpy:677
 translate frenchtl _call_skipcheck_18_04f2322a:
@@ -1270,7 +1270,7 @@ translate frenchtl _call_skipcheck_18_79bada66:
 translate frenchtl _call_skipcheck_18_0b08dffc:
 
     # An normal "She wasn't like that in the beginning. It certainly caused people to remember her, though, and now that people know her, she has changed her attitude a bit."
-    An normal "Elle n'était pas comme ça à ses début. Mais ça a fait que les gens se souviennent d'elle, et maintenant qu'ils la connaissent, elle a un peu changé son attitude."
+    An normal "Elle n'était pas comme ça à ses débuts. Mais ça a fait que les gens se souviennent d'elle, et maintenant qu'ils la connaissent, elle a un peu changé son attitude."
 
 # game/anna4.rpy:685
 translate frenchtl _call_skipcheck_18_0a5c0446:
@@ -1282,7 +1282,7 @@ translate frenchtl _call_skipcheck_18_0a5c0446:
 translate frenchtl _call_skipcheck_18_2b22d815:
 
     # c "So she just likes the attention?"
-    c "Alors tout ce qu'elle veux, c'est qu'on s'intéresse à elle ?"
+    c "Alors tout ce qu'elle veut, c'est qu'on s'intéresse à elle ?"
 
 # game/anna4.rpy:689
 translate frenchtl _call_skipcheck_18_f3de8142:
@@ -1318,7 +1318,7 @@ translate frenchtl _call_skipcheck_18_5f687d6d:
 translate frenchtl _call_skipcheck_18_0b3a944c:
 
     # c "At some point, it just gets tiring. People get loud and argumentative, and those are supposed to be our leaders."
-    c "À un moment donné, ça devient fatigant. Les gens sont bruyants et péremptoires, et ils sont supposés être nos dirigeants."
+    c "À un moment donné, ça devient fatiguant. Les gens sont bruyants et péremptoires, et ils sont supposés être nos dirigeants."
 
 # game/anna4.rpy:701
 translate frenchtl _call_skipcheck_18_b9a6a655:
@@ -1354,7 +1354,7 @@ translate frenchtl _call_skipcheck_18_46bb97c0:
 translate frenchtl _call_skipcheck_18_32bba1b5:
 
     # An sad "What kind of world do we live in where speaking one’s mind is seen as something bad? I never held back… Now, see where that got me."
-    An sad "Dans quel genre de monde nous vivons si tu n'as pas le droit de dire ce que tu penses sans être mal vu ? Je ne me suis jamais retenu... Regarde où j'en suis aujourd'hui."
+    An sad "Dans quel genre de monde nous vivons si tu n'as pas le droit de dire ce que tu penses sans être mal vu ? Je ne me suis jamais retenue... Regarde où j'en suis aujourd'hui."
 
 # game/anna4.rpy:713
 translate frenchtl _call_skipcheck_18_82c43b40:
@@ -1366,7 +1366,7 @@ translate frenchtl _call_skipcheck_18_82c43b40:
 translate frenchtl _call_skipcheck_18_3ebe4391:
 
     # An normal "I could never do that. And besides, I don't want to. There is this thing called \"integrity\", and if there's one thing this society needs, that's it."
-    An normal "Je ne pourrais jamais faire ça. Et puis, je ne veux pas. Il y a un truc qui s'appelle \"l'integrité\", et crois moi, cette société en a bien besoin."
+    An normal "Je ne pourrais jamais faire ça. Et puis, je ne veux pas. Il y a un truc qui s'appelle \"l'intégrité\", et crois moi, cette société en a bien besoin."
 
 # game/anna4.rpy:717
 translate frenchtl _call_skipcheck_18_6b9a06e9:
@@ -1420,19 +1420,19 @@ translate frenchtl _call_skipcheck_18_998dda8e:
 translate frenchtl _call_skipcheck_18_d66751e3:
 
     # An sad "But good intentions alone don't get us anywhere. If we all just followed everyone's ill-informed good intentions, it'd be chaos."
-    An sad "Mais les bonnes intention ne nous mènent nul part. Si on suivait tous les types plein de bonnes intention mais très mal informé, Ce serait le chaos."
+    An sad "Mais les bonnes intentions ne nous mènent nulle part. Si on suivait tous les types plein de bonnes intentions mais très mal informé, ce serait le chaos."
 
 # game/anna4.rpy:741
 translate frenchtl _call_skipcheck_18_1ec5c993:
 
     # An face "Just look at me, I'm a victim of this. Stupid backwards laws made on so-called \"good intentions\" are what will put me in prison."
-    An face "Regarde moi, je suis une victime de cette manière de penser. Des lois débiles et rétrogrades fondées sur de \"bonnes intentions\" vont m'envoyer en prison."
+    An face "Regarde moi, je suis victime de cette manière de penser. Des lois débiles et rétrogrades fondées sur de \"bonnes intentions\" vont m'envoyer en prison."
 
 # game/anna4.rpy:743
 translate frenchtl _call_skipcheck_18_9a22ef9a:
 
     # An sad "That kind of thinking doesn't help in my work, because in the end, feelings can be wrong."
-    An sad "Ce genre de réflexion ne m'aide pas dans mon travail. Car au final, les sentiments peuvent êtres erronnés."
+    An sad "Ce genre de réflexion ne m'aide pas dans mon travail. Car au final, les sentiments peuvent êtres erronés."
 
 # game/anna4.rpy:745
 translate frenchtl _call_skipcheck_18_585cfc59:
@@ -1456,13 +1456,13 @@ translate frenchtl _call_skipcheck_18_2299c8b3:
 translate frenchtl _call_skipcheck_18_ec53b8d7:
 
     # An face "What's that supposed to mean?"
-    An face "Qu'est-ce que ça veux dire ça ?"
+    An face "Qu'est-ce que ça veut dire ça ?"
 
 # game/anna4.rpy:767
 translate frenchtl _call_skipcheck_18_dbb8391a:
 
     # c "It's a philosophical phrase. It means that, ultimately, we can't really know anything with absolute certainty."
-    c "C'est de la philosophie. Ça veux dire qu'en fin de compte, nous ne pouvons rien savoir avec une certitude absolue."
+    c "C'est de la philosophie. Ça veut dire qu'en fin de compte, nous ne pouvons rien savoir avec une certitude absolue."
 
 # game/anna4.rpy:769
 translate frenchtl _call_skipcheck_18_b0225365:
@@ -1504,7 +1504,7 @@ translate frenchtl _call_skipcheck_18_4ee5fba7:
 translate frenchtl _call_skipcheck_18_904c6800:
 
     # c "Not necessarily. Even if someone like that gave me their opinion, it's still important to hear the people's voices themselves."
-    c "Pas nécessairement. Tu sais, même si quelqu'un de ce milieu me donnait son avis, c'est toujours important d'avoir l'avis des gens eux même."
+    c "Pas nécessairement. Tu sais, même si quelqu'un de ce milieu me donnait son avis, c'est toujours important d'avoir l'avis des gens eux-même."
 
 # game/anna4.rpy:786
 translate frenchtl _call_skipcheck_18_c7bf314e:
@@ -1576,7 +1576,7 @@ translate frenchtl _call_skipcheck_18_c833ae37:
 translate frenchtl _call_skipcheck_18_e5742ad6:
 
     # An sad "Even if something happened between us, you know it's not made to last. You will go back to your own world, and I'll probably spend the next few years in prison."
-    An sad "Même si il y avait un truc entre nous, tu sais que ça ne peut pas durer. Tu vas retourner dans ton monde, et moi je vais sûrement passer les prochaines années en prison."
+    An sad "Même s'il y avait un truc entre nous, tu sais que ça ne peut pas durer. Tu vas retourner dans ton monde, et moi je vais sûrement passer les prochaines années en prison."
 
 # game/anna4.rpy:810
 translate frenchtl _call_skipcheck_18_b262cb16:
@@ -1594,7 +1594,7 @@ translate frenchtl _call_skipcheck_18_f06169ff:
 translate frenchtl _call_skipcheck_18_f9c569a3:
 
     # An sad "Right now, though, I'd have to say that you're probably the person I hate the least."
-    An sad "Même si, quelque part, je doit bien admettre que tu es la personne que je déteste le moins."
+    An sad "Même si, quelque part, je dois bien admettre que tu es la personne que je déteste le moins."
 
 # game/anna4.rpy:816
 translate frenchtl _call_skipcheck_18_87cb5ec3:
@@ -1630,19 +1630,19 @@ translate frenchtl anna4skip2_4052a8d2:
 translate frenchtl anna4skip2_b139f60c:
 
     # An sad "Why else would you follow my every whim?"
-    An sad "Pour quelle autre raison tu aurais accepté tout mes caprices ?"
+    An sad "Pour quelle autre raison tu aurais accepté tous mes caprices ?"
 
 # game/anna4.rpy:838
 translate frenchtl anna4skip2_c0dc9e7c:
 
     # An normal "Not that I mind. We both got what we wanted. And now I even kinda like you."
-    An normal "Non pas que ça me dérange. On a eu ce qu'on voulait tout les deux. Et je t'apprécie même un peu à présent..."
+    An normal "Non pas que ça me dérange. On a eu ce qu'on voulait tous les deux. Et je t'apprécie même un peu à présent..."
 
 # game/anna4.rpy:840
 translate frenchtl anna4skip2_8c981368:
 
     # An smirk "Usually, people stay away from me after the first date, because that's apparently all it takes. Not for you, I guess."
-    An smirk "En général, les gens restent éloignés de moi après le premier rencard, car c'est tout ce qui leur faut. Mais toi non visiblement."
+    An smirk "En général, les gens restent éloignés de moi après le premier rencard, car c'est tout ce qu'il leur faut. Mais toi non visiblement."
 
 # game/anna4.rpy:848
 translate frenchtl anna4skip2_e6b344a4:
@@ -1678,7 +1678,7 @@ translate frenchtl anna4skip2_9f4c3685:
 translate frenchtl anna4skip2_2a273f16:
 
     # An face "You're such a do-gooder. You spent enough time with me that I started to care, and then it turns out it's just platonic."
-    An face "Quelle âme charitable. Tu as passé suffisament de temps avec moi que j'ai commencé à tenir à toi, et il s'est avéré que c'était juste platonique."
+    An face "Quelle âme charitable. Tu as passé suffisamment de temps avec moi que j'ai commencé à tenir à toi, et il s'est avéré que c'était juste platonique."
 
 # game/anna4.rpy:864
 translate frenchtl anna4skip2_230bcb88:
@@ -1690,7 +1690,7 @@ translate frenchtl anna4skip2_230bcb88:
 translate frenchtl anna4skip2_be761c8f:
 
     # c "I can do that, but that doesn't mean I can't hang around with you."
-    c "Je peux faire ça, mais ça ne veux pas dire que je ne veux plus traîner avec toi."
+    c "Je peux faire ça, mais ça ne veut pas dire que je ne veux plus traîner avec toi."
 
 # game/anna4.rpy:868
 translate frenchtl anna4skip2_76d07fe0:
@@ -1720,7 +1720,7 @@ translate frenchtl anna4skip2_7607c97c:
 translate frenchtl anna4skip2_8602b865:
 
     # An "The big fireworks show at the end of the summer festival. It may be the last one I'll ever see. If the police don't arrest me beforehand, that is."
-    An "Le grand feu d'artifice, le final du festival d'été. C'est peut-être le dernier que je verrai. Si la police ne m'arrête pas avant, Ce le sera."
+    An "Le grand feu d'artifice, le final du festival d'été. C'est peut-être le dernier que je verrai. Si la police ne m'arrête pas avant, ce le sera."
 
 # game/anna4.rpy:878
 translate frenchtl anna4skip2_dfc6aaca:
@@ -1738,7 +1738,7 @@ translate frenchtl anna4skip2_b6123621:
 translate frenchtl anna4skip2_e9412bc9:
 
     # An "Anyway, I guess it's time for me to go. There is plenty of stuff I have to take care of before they take me in. Research papers, the facility and other things."
-    An "Enfin bon. Je dois y aller. J'ai beaucoup de truc à régler avant qu'ils m'embarquent. Les documents sur mes recherches, le colmplexe et tout ça."
+    An "Enfin bon. Je dois y aller. J'ai beaucoup de trucs à régler avant qu'ils m'embarquent. Les documents sur mes recherches, le complexe et tout ça."
 
 # game/anna4.rpy:884
 translate frenchtl anna4skip2_6d5c66fb:
@@ -1762,7 +1762,7 @@ translate frenchtl a4romance_9ea70273:
 translate frenchtl a4romance_c8682f7c:
 
     # An "Is that a yes?"
-    An "Ça veux dire oui ?"
+    An "Ça veut dire oui ?"
 
 # game/anna4.rpy:930
 translate frenchtl a4romance_26eefe0a:
@@ -1774,7 +1774,7 @@ translate frenchtl a4romance_26eefe0a:
 translate frenchtl a4romance_55fffe1d:
 
     # m "She strode forward, reaching out with a claw before she hooked it into the neckline of my shirt."
-    m "Elle s'approcha alors de moi, me saisissant avenc une griffe qu'elle a accrochée dans l'encolure de ma chemise."
+    m "Elle s'approcha alors de moi, me saisissant avec une griffe qu'elle a accrochée dans l'encolure de ma chemise."
 
 # game/anna4.rpy:940
 translate frenchtl a4romance_506c11b1:
@@ -1828,7 +1828,7 @@ translate frenchtl a4romance_e9647dac:
 translate frenchtl a4romance_9343dc67:
 
     # An "Well, I guess it's time for me to go, then. There is plenty of stuff I have to take care of before they take me in. Research papers, the facility and other things."
-    An "Bon, Je pense que vais y aller, alors. J'ai beaucoup de truc à régler avant qu'ils m'embarquent. Les documents sur mes recherches, le colmplexe et tout ça."
+    An "Bon, Je pense que vais y aller, alors. J'ai beaucoup de trucs à régler avant qu'ils m'embarquent. Les documents sur mes recherches, le complexe et tout ça."
 
 # game/anna4.rpy:988
 translate frenchtl a4romance_6d5c66fb:
@@ -1899,3 +1899,4 @@ translate frenchtl strings:
     # anna4.rpy:924
     old "I can't."
     new "Non, désolé."
+
