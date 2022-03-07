@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2019-06-07 17:56
 # Original translator : BananaSplit2
-# Reviews : 1 (AraMacaw)
+# Reviews : 2 (AraMacaw) (LilacVenus)
 
 # game/chapter2.rpy:198
 translate frenchtl chapter2_76b2fe88:
@@ -48,7 +48,7 @@ translate frenchtl _call_skipcheck_11_80d4d75b:
 translate frenchtl _call_skipcheck_11_e0495caa:
 
     # n "I awoke from dreams filled with fire and smoke. The sun shining through the window gave me a comforting feeling of familiarity, despite the portal in the distance reminding me of my purpose here."
-    n "Mon réveil mis fin à une nuit de rêves emplis de feu et de fumée. L'éclat du soleil traversant la fenêtre me donnait un sentiment réconfortant de familiarité, malgré la présence du portail au loin me rappelant la raison de ma présence en ce monde."
+    n "Mon réveil mis fin à une nuit de rêves emplis de feu et de fumée. L'éclat du soleil traversant la fenêtre me donnait un sentiment réconfortant de familiarité, malgré la présence du portail au loin me rappelant la raison de ma présence dans ce monde."
 
 # game/chapter2.rpy:291
 translate frenchtl _call_skipcheck_11_8daf1491:
@@ -60,14 +60,12 @@ translate frenchtl _call_skipcheck_11_8daf1491:
 translate frenchtl _call_skipcheck_11_d527dbc7:
 
     # n "While I got ready for the day, my thoughts strayed to the people I knew back home. I couldn't help but wonder how they were doing."
-    n "Tandis que je me préparais pour la journée, mes pensées se dirigèrent vers ceux que je connaissais chez moi. Je ne pouvais m'empêcher de me demander comment ils allaient."
-
+    n "Tandis que je me préparais pour la journée, mes pensées se dirigèrent vers ceux que je connaissais chez moi. Je ne pouvais m'empêcher de me demander comment ils y allaient."
 # game/chapter2.rpy:293
 translate frenchtl _call_skipcheck_11_2c4ed385:
 
     # n "But I had greater things to worry about at the moment, like Reza, murders and generators. How much danger was I in, really?"
-    n "Mais j'avais d'autres préoccupations pour le moment, telles que Reza, les meurtres et les générateurs. A quel point étais-je vraiment en danger ?"
-
+    n "Mais j'avais d'autres préoccupations pour le moment, telles que Reza, les meurtres et les générateurs. À quel point étais-je vraiment en danger ?"
 # game/chapter2.rpy:307
 translate frenchtl _call_skipcheck_11_76b2fe88:
 
@@ -102,19 +100,18 @@ translate frenchtl _call_skipcheck_11_287666fc:
 translate frenchtl _call_skipcheck_11_58e3d9b1:
 
     # Br "Why'd you just leave when we were in the bar?"
-    Br "Pourquoi est-tu parti comme ça quand nous étions au bar ?"
+    Br "Pourquoi es-tu parti comme ça quand nous étions au bar ?"
 
 # game/chapter2.rpy:323
 translate frenchtl _call_skipcheck_11_a9a10fb3:
 
     # c "Getting drunk isn't really my idea of fun and you were kinda pushy about the whole thing."
-    c "Me saouler n'est pas exactement ma vision de l'amusement et tu étais un peu trop insistant à mon goût."
-
+    c "Me saouler n'est pas exactement ma vision de plaisir et tu étais un peu trop insistant à mon goût."
 # game/chapter2.rpy:327
 translate frenchtl _call_skipcheck_11_de08b67a:
 
     # Br "Is that so? That's my bad, sorry. I just wanted to have a nice evening and relax with a few beers. You know, that's kinda what bars are all about."
-    Br "Vraiment ? Je m'en excuse, désolé. Je voulais juste passer une bonne soirée et me relaxer avec quelques bières. Tu sais, c'est un peu ce pour quoi les bars existent."
+    Br "Vraiment ? Je m'en excuse, désolé. Je voulais juste passer une bonne soirée et me relaxer avec quelques bières. Tu sais, c'est un peu ce pourquoi les bars existent."
 
 # game/chapter2.rpy:331
 translate frenchtl _call_skipcheck_11_7b28e1dc:
@@ -264,8 +261,7 @@ translate frenchtl _call_skipcheck_11_467820d0:
 translate frenchtl _call_skipcheck_11_eebfaa9c:
 
     # Br "We obtained a list of places Reza visited in the days before he vanished. We'll check those out, maybe find a lead, and you might help us understand his motivations or give us some context to his actions."
-    Br "Nous nous sommes procuré une liste des endroits visités par Reza dans les jours précédant sa disparition. Nous allons nous y rendre, peut être trouver une piste, et tu pourrais nous aider à comprendre ses motivations ou nous donner du contexte quant à ses actions."
-
+    Br "Nous nous sommes procuré une liste des endroits visités par Reza dans les jours précédant sa disparition. Nous allons-nous y rendre, peut-être trouver une piste, et tu pourrais nous aider à comprendre ses motivations ou nous donner du contexte quant à ses actions."
 # game/chapter2.rpy:437
 translate frenchtl _call_skipcheck_11_46b81fe9:
 
@@ -318,7 +314,7 @@ translate frenchtl _call_skipcheck_11_4f7bded3:
 translate frenchtl _call_skipcheck_11_7cb7dde3:
 
     # m "While Bryce focused on his list, I saw someone approach out of the corner of my eye."
-    m "Alors que Bryce se concentrait sur sa liste, j'aperçus quelqu'un arriver du coin de l'oeil."
+    m "Alors que Bryce se concentrait sur sa liste, j'aperçus quelqu'un arrive du coin de l'oeil."
 
 # game/chapter2.rpy:475
 translate frenchtl _call_skipcheck_11_16bf0d2a:
@@ -330,7 +326,7 @@ translate frenchtl _call_skipcheck_11_16bf0d2a:
 translate frenchtl _call_skipcheck_11_703c30a7:
 
     # Sb "There you are, Chief. I was looking for you."
-    Sb "Te voila, chef. Je te cherchais."
+    Sb "Te voilà, chef. Je te cherchais."
 
 # game/chapter2.rpy:489
 translate frenchtl _call_skipcheck_11_501fc209:
@@ -378,7 +374,7 @@ translate frenchtl _call_skipcheck_11_7cc75b70:
 translate frenchtl _call_skipcheck_11_a2d72728:
 
     # Br "I know, I know. We'll go to the crime scene, sign a few forms and then we're out."
-    Br "Je sais, je sais. Nous allons nous rendre sur la scène du crime, signer quelques papiers et repartir."
+    Br "Je sais, je sais. Nous allons-nous rendre sur la scène du crime, signer quelques papiers et repartir."
 
 # game/chapter2.rpy:515
 translate frenchtl _call_skipcheck_11_597828cb:
@@ -420,7 +416,7 @@ translate frenchtl _call_skipcheck_11_1aa784d7:
 translate frenchtl _call_skipcheck_11_84799c01:
 
     # Br stern b "We should get that fixed as soon as possible. We don't need civilians showing up around here complaining about sitting in the dark."
-    Br stern b "Nous devrions nous occuper de ça au plus vite. La dernière chose dont nous avons besoin sont des civils se ramenant ici pour se plaindre d'être dans le noir."
+    Br stern b "Nous devrions-nous occuper de ça au plus vite. La dernière chose dont nous avons besoin sont des civils se ramenant ici pour se plaindre d'être dans le noir."
 
 # game/chapter2.rpy:533
 translate frenchtl _call_skipcheck_11_1685698e:
@@ -432,7 +428,7 @@ translate frenchtl _call_skipcheck_11_1685698e:
 translate frenchtl _call_skipcheck_11_9540e863:
 
     # m "Bryce's snout wrinkled with distaste as he glanced over Sébastien's shoulder."
-    m "Le museau de Bryce se rida de dégoût alors qu'il jetait un oeil par dessus l'épaule de Sébastien."
+    m "Le museau de Bryce se rida de dégoût alors qu'il jetait un oeil par-dessus l'épaule de Sébastien."
 
 # game/chapter2.rpy:537
 translate frenchtl _call_skipcheck_11_4916c811:
@@ -588,7 +584,7 @@ translate frenchtl _call_skipcheck_11_52919f38:
 translate frenchtl _call_skipcheck_11_24a49291:
 
     # Br "Damn you and your articulated knees."
-    Br "Allez au diable, vous and vos genoux articulés."
+    Br "Allez au diable, vous et vos genoux articulés."
 
 # game/chapter2.rpy:655
 translate frenchtl _call_skipcheck_11_b1e1dd58:
@@ -648,8 +644,7 @@ translate frenchtl _call_skipcheck_11_2539b8a1:
 translate frenchtl _call_skipcheck_11_889731a9:
 
     # Br "We spent all that time studying the portal and barely got anywhere with it. This stuff is just... beyond what we know."
-    Br "Nous avons déjà passé beaucoup de temps à étudier le portail et avons à peine avancé sur le sujet. Tout cela est simplement... au-delà de ce que nous connaissons."
-
+    Br "Nous avons déjà passé beaucoup de temps à étudier le portail et avons à peine avancé sur le sujet. Tout cela est simplement... au-delà de ce que nous savons."
 # game/chapter2.rpy:691
 translate frenchtl _call_skipcheck_11_32517d79:
 
@@ -690,8 +685,7 @@ translate frenchtl _call_skipcheck_11_bbb2170d:
 translate frenchtl _call_skipcheck_11_e3fa7472:
 
     # m "I looked above toward the source of the noise as it grew louder, and in the next instant I was pushed sideways and fell to the ground — just barely avoiding the giant light fixture that fell from the ceiling and shattered into countless pieces alongside me."
-    m "Je levai les yeux vers la source du bruit tandis que celui-ci devenait assourdissant, et dans la seconde qui suit, je fus projeté sur le côté, me faisant tomber au sol - juste à temps pour éviter le luminaire géant qui venait de se décrocher du plafond et qui s'explosa en une innombrable quantité de petits morceaux à côté de moi."
-
+    m "Je levai les yeux vers la source du bruit tandis que celui-ci devenait assourdissant, et dans la seconde qui suit, je fus projeté sur le côté, me faisant tomber au sol - juste à temps pour éviter le luminaire géant qui venait de se décrocher du plafond et qui s'éclaté dans une innombrable quantité de petits morceaux à côté de moi."
 # game/chapter2.rpy:763
 translate frenchtl _call_skipcheck_11_d4938ded:
 
@@ -708,7 +702,7 @@ translate frenchtl _call_skipcheck_11_ec9e9e05:
 translate frenchtl _call_skipcheck_11_4efdbd2a:
 
     # m "The figure crouched down next to me, its mask hovering right in front of my face. Merely a whisper reached my ears when it spoke."
-    m "La figure s'accroupit à mon niveau, son masque semblant flotter juste en face de mon visage. A peine un chuchotement parvint à mes oreilles lorsque celle-ci se mit à parler."
+    m "La figure s'accroupit à mon niveau, son masque semblant flotter juste en face de mon visage. À peine un chuchotement parvint à mes oreilles lorsque celle-ci se mit à parler."
 
 # game/chapter2.rpy:777
 translate frenchtl _call_skipcheck_11_9beb3abe:
@@ -768,7 +762,7 @@ translate frenchtl _call_skipcheck_11_ce6bda9f:
 translate frenchtl _call_skipcheck_11_a2f5e26a:
 
     # Br "I can't see a damn thing in here!"
-    Br "Je n'y vois rien là dedans !"
+    Br "Je n'y vois rien là-dedans !"
 
 # game/chapter2.rpy:840
 translate frenchtl _call_skipcheck_11_b6800c39:
@@ -822,7 +816,7 @@ translate frenchtl _call_skipcheck_11_8ff0be75:
 translate frenchtl _call_skipcheck_11_6dadc1bd:
 
     # Br "We've got a long search ahead of us... and with a head start like that, there might be no end to it."
-    Br "Nous avons une longue recherche devant nous... et avec un retard comme celui-là, on est pas prêt d'avoir fini."
+    Br "Nous avons une longue recherche devant nous... et avec un retard comme celui-là, on n'est pas prêt d'avoir fini."
 
 # game/chapter2.rpy:880
 translate frenchtl _call_skipcheck_11_7e1e1ddf:
@@ -888,13 +882,13 @@ translate frenchtl _call_skipcheck_11_747d1237:
 translate frenchtl _call_skipcheck_11_7ec97a9f:
 
     # Br "It bloody well can't be someone else, so let's not kid ourselves here."
-    Br "Il est impossible que ce soit quelqu'un d'autre, ne nous leurrons pas."
+    Br "Il est impossible que ce soit quelqu'un d'autre, ne leurrons-nous pas."
 
 # game/chapter2.rpy:916
 translate frenchtl _call_skipcheck_11_4a4afe9d:
 
     # Sb disapproval b flip "Wait a minute... When we were down there, didn't you refer to him as \"she\"?"
-    Sb disapproval b flip "Attends une minute... Quand on était en bas, n'as tu pas utilisé \"elle\" pour parler de lui ?"
+    Sb disapproval b flip "Attends une minute... Quand on était en bas, n'as-tu pas utilisé \"elle\" pour parler de lui ?"
 
 # game/chapter2.rpy:918
 translate frenchtl _call_skipcheck_11_9ec5cbc4:
@@ -936,7 +930,7 @@ translate frenchtl _call_skipcheck_11_24642328:
 translate frenchtl _call_skipcheck_11_37b00703:
 
     # Sb "This whole thing doesn't make any sense."
-    Sb "Tout cette histoire n'a aucun sens."
+    Sb "Toute cette histoire n'a aucun sens."
 
 # game/chapter2.rpy:954
 translate frenchtl _call_skipcheck_11_0bb352b1:
