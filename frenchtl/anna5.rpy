@@ -100,7 +100,7 @@ translate frenchtl anna5_53482720:
 translate frenchtl anna5_0d382a65:
 
     # An normal "No, that's not it. Actually, that could be quite fun. It would only be another reason for people to be jealous of me."
-    An normal "Non, ce n'est pas ça. Enfait, ça pourrait être amusant. Ça leur donnerait une raison de plus d'être jaloux de moi."
+    An normal "Non, ce n'est pas ça. Enfin, ça pourrait être amusant. Ça leur donnerait une raison de plus d'être jaloux de moi."
 
 # game/anna5.rpy:60
 translate frenchtl anna5_126dd557:
@@ -856,7 +856,7 @@ translate frenchtl annagoodending_eeeb9c7e:
 translate frenchtl annagoodending_fcc1db76:
 
     # An "Besides, I'm the one who's dying here, not you. No reason for you to be so upset."
-    An "Mais, c'est moi qui vait mourir, pas toi. T'as pas de raison d'être si boulversé."
+    An "Mais, c'est moi qui vait mourir, pas toi. T'as pas de raison d'être si bouleversé."
 
 # game/anna5.rpy:829
 translate frenchtl annagoodending_8d96a732:
