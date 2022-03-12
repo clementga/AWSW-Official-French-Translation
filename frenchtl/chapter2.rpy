@@ -1008,7 +1008,7 @@ translate frenchtl chap2q1_8902e5af:
 translate frenchtl chap2q1_b6c6ffba:
 
     # Br "Now you're grasping at straws, [player_name]."
-    Br "Tu dois être désesperé pour te raccrocher à ça, [player_name]."
+    Br "Tu dois être désespéré pour te raccrocher à ça, [player_name]."
 
 # game/chapter2.rpy:1024
 translate frenchtl chap2q1_5bc75d03:
@@ -1062,19 +1062,19 @@ translate frenchtl chap2q1_a3eda8d1:
 translate frenchtl chap2q1_199760a9:
 
     # Br brow b "Let's put this into perspective: We've found two corpses so far. Reza is the prime suspect, and you think all he needs is someone to talk to him? Sorry, but I'll be going with a \"no\" on that one."
-    Br brow b "Remettons les faits en perspective : nous avons déjà découvert 2 cadavres, Reza est le suspect numéro un, et tu penses que tout ce qu'il faut faire est de lui parler ? Désolé, mais ça sera un \"non\" pour moi."
+    Br brow b "Remettons les faits en perspective : nous avons déjà découvert deux cadavres, Reza est le suspect numéro un, et tu penses que tout ce qu'il faut faire est de lui parler ? Désolé, mais ça sera un \"non\" pour moi."
 
 # game/chapter2.rpy:1064
 translate frenchtl chap2q1_cedac8ae:
 
     # c "You do understand why he ran away in the first place, right? Strange, alien world; a big, scary dragon coming to arrest him; and he had no idea what consequences being arrested would have here."
-    c "Tu comprends pourquoi il s'est enfui initialement, non ? Un monde étrange et alien ; un grand et effrayant dragon qui vient l'arrêter ; et il n'avait aucune idée des conséquences qu'aurait le fait de se faire arrêter ici."
+    c "Tu comprends pourquoi il s'est enfui initialement, non ? Un monde étrange et extraterrestre ; un grand et effrayant dragon qui vient l'arrêter ; et il n'avait aucune idée des conséquences qu'aurait le fait de se faire arrêter ici."
 
 # game/chapter2.rpy:1066
 translate frenchtl chap2q1_bb30d331:
 
     # Br "Are you actually defending him?"
-    Br "Est-tu vraiment en train de le défendre ?"
+    Br "Es-tu vraiment en train de le défendre ?"
 
 # game/chapter2.rpy:1068
 translate frenchtl chap2q1_0056c5b5:
@@ -1170,7 +1170,7 @@ translate frenchtl chap2q1_2476223c:
 translate frenchtl chap2q1_b7c76e6e:
 
     # Br "All of us are going to be busy with the search, and we can't really afford to spare someone right now. You'll be fine."
-    Br "Nous allons tous être occupés avec la recherche de Reza, and nous ne pouvons pas nous permettre d'affecter quelqu'un pour t'escorter. Tout ira bien."
+    Br "Nous allons tous être occupés avec la recherche de Reza, et nous ne pouvons pas nous permettre d'affecter quelqu'un pour t'escorter. Tout ira bien."
 
 # game/chapter2.rpy:1120
 translate frenchtl chap2q1_4e269bd8:
@@ -1182,7 +1182,7 @@ translate frenchtl chap2q1_4e269bd8:
 translate frenchtl chap2q1_60debecd:
 
     # Br smirk b "That policy was mostly Maverick's fault, and he's out of the picture. With my authority as chief, I say you can go alone."
-    Br smirk b "Cette décision était surtout la faute de Maverick, et il n'est plus impliqué dans l'histoire. De par mon autorité de commissaire de police, je t'autorise à y aller par toi-même."
+    Br smirk b "Cette décision était surtout la faute de Maverick, et il n'est plus impliqué dans l'histoire. De par mon autorité de commissaire de police, je t'autorise à y aller seul."
 
 # game/chapter2.rpy:1124
 translate frenchtl chap2q1_26ecc061:
@@ -1236,7 +1236,7 @@ translate frenchtl chapter2sections2_864b25a3:
 translate frenchtl chapter2sections2_9196ef07:
 
     # n "My earlier encounter with the masked person was the only time today someone was close enough to smuggle something into my pocket. I figured if someone like Bryce tried to do something like that, I definitely would have noticed."
-    n "Ma rencontre fortuite avec la personne masquée plus tôt était le seul moment dans la journée où quelqu'un fut suffisament près de moi pour glisser dicrètement quelque chose dans ma poche. Si quelqu'un comme Bryce avait tenté de le faire, je l'aurais forcément remarqué."
+    n "Ma rencontre fortuite avec la personne masquée plus tôt était le seul moment dans la journée où quelqu'un fut suffisamment près de moi pour glisser discrètement quelque chose dans ma poche. Si quelqu'un comme Bryce avait tenté de le faire, je l'aurais forcément remarqué."
     nvl clear
 
 # game/chapter2.rpy:1166
@@ -1256,8 +1256,7 @@ translate frenchtl chapter2sections2_a3c147d5:
 
     # nvl clear
     # n "I also had to consider the list of places Reza had been to: A local grocery store, the production facility we had visited and the library were the three places closest to here."
-    n "Il fallait aussi considérer la liste des endroits auxquels Reza s'était rendu : une épicerie locale, le complexe de production que nous avions visité, et la bibliothèque étaient les 3 endroits les plus proches d'ici."
-
+    n "Il fallait aussi considérer la liste des endroits auxquels Reza s'était rendu : une épicerie locale, le complexe de production que nous avions visité, et la bibliothèque étaient les trois endroits les plus proches d'ici."
 # game/chapter2.rpy:1174
 translate frenchtl chapter2sections2_814ec0e4:
 
@@ -1286,8 +1285,7 @@ translate frenchtl chapter2sections_008d9b72:
 translate frenchtl chap2store_6edff375:
 
     # m "I entered the store, the sound of a bell alerting the staff to my arrival. Seeing the patrons browsing the shelves - neatly stocked with wares of all kinds - evoked some feelings of nostalgia and normalcy in me."
-    m "J'entrai dans le magasin, le son d'une clochette alertant la personnel de mon arrivée. Voir les clients regarder les rayons - remplis soigneusement de marchandises en tout genre - m'évoqua quelques sentiments de nostalgie et de normalité."
-
+    m "J'entrai dans le magasin, le son d'une clochette alertant le personnel de mon arrivée. Voir les clients regarder les rayons - remplis soigneusement de marchandises en tout genre - m'évoqua quelques sentiments de nostalgie et de normalité."
 # game/chapter2.rpy:1280
 translate frenchtl chap2store_3e8a1606:
 
@@ -1400,7 +1398,7 @@ translate frenchtl chap2store_6147dda4:
 translate frenchtl chap2store_bcce3ec2:
 
     # St "Interesting. I guess he realized getting you drunk might not be such a good idea, or he just really likes you."
-    St "Intéressant. Il a du réaliser que te rendre saoul n'était sans doute pas une bonne idée, ou peut-être qu'il t'apprécie juste beaucoup."
+    St "Intéressant. Il a dû réaliser que te rendre saoul n'était sans doute pas une bonne idée, ou peut-être qu'il t'apprécie juste beaucoup."
 
 # game/chapter2.rpy:1354
 translate frenchtl chap2store_0f4008f3:
@@ -1430,7 +1428,7 @@ translate frenchtl chap2store_a83ed354:
 translate frenchtl chap2store_60df1031:
 
     # St "Well, if you put it that way, it kind of is."
-    St "Eh bien, si tu le considères comme tel, ça en est plus ou moins une."
+    St "Eh bien, si tu le considères comme tel, cela en est plus ou moins une."
 
 # game/chapter2.rpy:1374
 translate frenchtl chap2store_90c9ae06_1:
@@ -1460,7 +1458,7 @@ translate frenchtl chap2store_e39d4dc3:
 translate frenchtl chap2store_87a08b08:
 
     # St "I suppose that's the downside of working in a bar. Everybody's there to get drunk."
-    St "Je suppose que c'est la côté négatif de travailler dans un bar. Tout le monde vient pour se saouler."
+    St "Je suppose que c'est le côté négatif de travailler dans un bar. Tout le monde vient pour se saouler."
 
 # game/chapter2.rpy:1388
 translate frenchtl chap2store_8cea894f:
@@ -1490,7 +1488,7 @@ translate frenchtl chap2store_1b043254:
 translate frenchtl chap2store_1f5067bf:
 
     # c "I'll keep that in mind, thanks."
-    c "Je garderai ça en tête, merci."
+    c "Je garderai cela en tête, merci."
 
 # game/chapter2.rpy:1398
 translate frenchtl chap2store_bc8ef928:
@@ -1550,7 +1548,7 @@ translate frenchtl chap2store_3f210a8a:
 translate frenchtl chap2store_1f5067bf_1:
 
     # c "I'll keep that in mind, thanks."
-    c "Je garderai ça en tête, merci."
+    c "Je garderai cela en tête, merci."
 
 # game/chapter2.rpy:1432
 translate frenchtl chap2store_bc8ef928_1:
@@ -1622,7 +1620,7 @@ translate frenchtl chap2store_2b5a955c:
 translate frenchtl chap2store_5cd7eb66:
 
     # c "Thanks, I'll keep that in mind."
-    c "Merci, je garderai ça en tête."
+    c "Merci, je garderai cela en tête."
 
 # game/chapter2.rpy:1478
 translate frenchtl chap2store_90c9ae06_4:
@@ -1676,7 +1674,7 @@ translate frenchtl chap2store_a83ed354_1:
 translate frenchtl chap2store_60df1031_1:
 
     # St "Well, if you put it that way, it kind of is."
-    St "Eh bien, si tu le considères comme tel, ça en est plus ou moins une."
+    St "Eh bien, si tu le considères comme tel, cela en est plus ou moins une."
 
 # game/chapter2.rpy:1506
 translate frenchtl chap2store_90c9ae06_5:
@@ -1790,7 +1788,7 @@ translate frenchtl chap2storeques_af2aceae:
 translate frenchtl chap2storeques_3e8b8203:
 
     # St "Since our government takes care of all his purchases, they're filed separately. It was simple to pull them up."
-    St "Puisque notre gouvernement prend en charge tout ses achats, ils sont enregistrés à part. Il était simple de les ressortir."
+    St "Puisque notre gouvernement prend en charge tous ses achats, ils sont enregistrés à part. Il était simple de les ressortir."
 
 # game/chapter2.rpy:1575
 translate frenchtl chap2storeques_3fea1af0:
@@ -1814,13 +1812,13 @@ translate frenchtl chap2storeques_f56fb333:
 translate frenchtl chap2storeques_258c4f41:
 
     # St "You're welcome."
-    St "Le plasir est pour moi."
+    St "Le plaisir est pour moi."
 
 # game/chapter2.rpy:1593
 translate frenchtl chap2storeques_fd5d0715:
 
     # St "Let me know if you need anything."
-    St "Dis-le moi si tu as besoin de quelque chose."
+    St "Dis-le-moi si tu as besoin de quelque chose."
 
 # game/chapter2.rpy:1603
 translate frenchtl chap2storeques_3069e29e:
@@ -1838,7 +1836,7 @@ translate frenchtl chap2storebrowsemenu_d04c13c7:
 translate frenchtl chap2storebrowsemenu_0f7d0fbe:
 
     # c "(Since when do dragons eat bread, anyway?)"
-    c "(Mais depuis quand les dragons mangent-il du pain en fait ?)"
+    c "(Mais depuis quand les dragons mangent-ils du pain en fait ?)"
 
 # game/chapter2.rpy:1615
 translate frenchtl chap2storebrowsemenu_845ad9fa:
@@ -1862,7 +1860,7 @@ translate frenchtl chap2storebrowsemenu_c0b3ec20:
 translate frenchtl chap2storebrowsemenu_681dd9c0:
 
     # Op "Yes! What do you say, melon or lemon bread? I mean, the only difference between the two is, like, one letter - so how am I supposed to choose?"
-    Op "Oui ! Pain au melon ou pain au citron, qu'en pensez-vous ? Je veux dire, la seule différence entre les deux est, euh, trois lettres - alors comment suis-je sensée choisir ?"
+    Op "Oui ! Pain au melon ou pain au citron, qu'en pensez-vous ? Je veux dire, la seule différence entre les deux est, euh, trois lettres - alors comment suis-je censée choisir ?"
 
 # game/chapter2.rpy:1625
 translate frenchtl chap2storebrowsemenu_fbab3b6f:
@@ -1916,7 +1914,7 @@ translate frenchtl chap2storebrowsemenu_06fdb0d2:
 translate frenchtl chap2storebrowsemenu_7e23c833:
 
     # c "(Fresh meat, smoked meat, cured meat, dried meat, pre-packaged meat, prepared meat, ready-to-eat meat, meat snacks, burgers, kebab, nuggets, whole hams, bacon, meat loaf, sausages.)"
-    c "(Viande fraîche, viande fumée, charcuterie, viande séchée, viande pré-emballée, viande cuisinée, viande prête à manger, gourmandises à base de viande, burgers, kebab, nuggets, jambons entiers, bacon, pain de viande, saucisses.)"
+    c "(Viande fraîche, viande fumée, charcuterie, viande séchée, viande préemballée, viande cuisinée, viande prête à manger, gourmandises à base de viande, burgers, kebab, nuggets, jambons entiers, bacon, pain de viande, saucisses.)"
 
 # game/chapter2.rpy:1669
 translate frenchtl chap2storebrowsemenu_d4e1bf0b:
@@ -1976,7 +1974,7 @@ translate frenchtl _call_syscheck_50_b9ca54b5:
 translate frenchtl chap2facility_39b1b188:
 
     # c "(Reza was allegedly here at some point. Maybe I should ask Anna.)"
-    c "(Reza est déjà venu par ici apparamment. Peut-être devrais-je en parler à Anna.)"
+    c "(Reza est déjà venu par ici apparemment. Peut-être devrais-je en parler à Anna.)"
 
 # game/chapter2.rpy:1752
 translate frenchtl chap2facility_98ba7ce2:
