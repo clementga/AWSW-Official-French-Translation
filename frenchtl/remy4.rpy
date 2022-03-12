@@ -70,7 +70,7 @@ translate frenchtltl _call_skipcheck_28_65bedffc:
 translate frenchtltl _call_skipcheck_28_43dc67d1:
 
     # Ry smile c "I have one of your PDAs, remember? I studied it a bit and came across the entry on lipstick. Based on the necessary ingredients, I realized I could make some myself, and so I did."
-    Ry smile c "J'ai un de vos PDAs, tu te souviens ? Je l'ai étudié un peu et suis tombé sur la rubrique du rouge à lèvre. En me fondant sur les ingrédients nécessaires, j'ai réalisé que je pouvais en fabriquer moi-même, et c'est ce que j'ai fait."
+    Ry smile c "J'ai un de vos PDAs, tu te souviens ? Je l'ai étudié un peu et suis tombé sur la rubrique du rouge à lèvres. En me fondant sur les ingrédients nécessaires, j'ai réalisé que je pouvais en fabriquer moi-même, et c'est ce que j'ai fait."
 
 # game/remy4.rpy:125
 translate frenchtltl _call_skipcheck_28_8c486a3c:
@@ -250,7 +250,7 @@ translate frenchtltl _call_skipcheck_28_1abd23c9:
 translate frenchtltl _call_skipcheck_28_2411d834:
 
     # Ry "They're all library books. I wanted to provide you with a good sample of what we have to offer, so there should be something in there for anyone."
-    Ry "Ce sont tous des livres de la bibliothèque. Je voulais te fournir un bon échantillon de ce qu'on avait à proposer, donc il devrait y en avoir pour tout les goûts."
+    Ry "Ce sont tous des livres de la bibliothèque. Je voulais te fournir un bon échantillon de ce qu'on avait à proposer, donc il devrait y en avoir pour tous les goûts."
 
 # game/remy4.rpy:225
 translate frenchtltl _call_skipcheck_28_086bcd3a:
@@ -454,7 +454,7 @@ translate frenchtltl _call_skipcheck_28_ad95221e:
 translate frenchtltl _call_skipcheck_28_02991e21:
 
     # Ry "That should be everything."
-    Ry "Ca devrait être tout."
+    Ry "Ça devrait être tout."
 
 # game/remy4.rpy:319
 translate frenchtltl _call_skipcheck_28_dd20ffbf:
@@ -568,19 +568,19 @@ translate frenchtltl _call_skipcheck_28_7cdc3eb6:
 translate frenchtltl _call_skipcheck_28_5bfcfb4d:
 
     # Ry "What shall we drink to?"
-    Ry "A quoi devrions-nous trinquer ?"
+    Ry "À quoi devrions-nous trinquer ?"
 
 # game/remy4.rpy:376
 translate frenchtltl _call_skipcheck_28_1ffd676a:
 
     # Ry smile "Alright. To an interesting afternoon and whatever it may bring."
-    Ry smile "D'accord. A un après midi bien rempli et quoi que ce soit que ça puisse amener."
+    Ry smile "D'accord. À un après-midi bien rempli et quoi que ce soit que ça puisse amener."
 
 # game/remy4.rpy:382
 translate frenchtltl _call_skipcheck_28_ed05a844:
 
     # Ry smile "Alright. To a wonderful friendship."
-    Ry smile "D'accord. A une formidable amitié."
+    Ry smile "D'accord. À une formidable amitié."
 
 # game/remy4.rpy:389
 translate frenchtltl _call_skipcheck_28_00974107:
@@ -604,7 +604,7 @@ translate frenchtltl _call_skipcheck_28_85881e65:
 translate frenchtltl _call_skipcheck_28_d5c6589c:
 
     # Ry "Must be an acquired taste, I think."
-    Ry "Ca doit être pour les palais raffinés, je pense."
+    Ry "Ça doit être pour les palais raffinés, je pense."
 
 # game/remy4.rpy:405
 translate frenchtltl _call_skipcheck_28_a3d65aa3:
@@ -718,7 +718,7 @@ translate frenchtltl _call_skipcheck_28_a6f3bbb5:
 translate frenchtltl _call_skipcheck_28_14f640c0:
 
     # c "Hey, I think I know this guy. Let's go and ask him."
-    c "Hey, Je crois que je connais cette personne. Allons lui demander."
+    c "Hey, je crois que je connais cette personne. Allons lui demander."
 
 # game/remy4.rpy:472
 translate frenchtltl _call_skipcheck_28_08ae875a:
@@ -748,7 +748,7 @@ translate frenchtltl _call_skipcheck_28_a91e7ba9:
 translate frenchtltl _call_skipcheck_28_ff11f82d:
 
     # Fv "You must have missed the memo, then. They moved it by an hour. Something about the daylight and making the fireworks more visible as a result."
-    Fv "Dans ce cas, vous avez dû rater le mémo. ils l'ont décalé d'une heure. Quelque chose à propos de la lumière du jour et de rendre les feux d'artifice plus visibles en conséquence."
+    Fv "Dans ce cas, vous avez dû rater le mémo. Ils l'ont décalé d'une heure. Quelque chose à propos de la lumière du jour et de rendre les feux d'artifice plus visibles en conséquence."
 
 # game/remy4.rpy:482
 translate frenchtltl _call_skipcheck_28_61255d84:
@@ -790,7 +790,7 @@ translate frenchtltl _call_skipcheck_28_a5dec48f:
 translate frenchtltl _call_skipcheck_28_833eb8a5:
 
     # Fv "No problem, just let me pack this up for you."
-    Fv "Pas de problème, laissez moi juste emballer ça pour vous."
+    Fv "Pas de problème, laissez-moi juste emballer ça pour vous."
 
 # game/remy4.rpy:520
 translate frenchtltl _call_skipcheck_28_acad0f7e:
@@ -838,7 +838,7 @@ translate frenchtltl _call_skipcheck_28_17352176:
 translate frenchtltl _call_skipcheck_28_c48dc32f_1:
 
     # c "Sure."
-    c "Ca marche."
+    c "Ça marche."
 
 # game/remy4.rpy:544
 translate frenchtltl _call_skipcheck_28_bfc9e371:
@@ -903,14 +903,14 @@ translate frenchtltl _call_skipcheck_28_89aefe22:
 # game/remy4.rpy:566
 translate frenchtltl _call_skipcheck_28_6f342349:
 
-    # m "A while later, the festival had kicked off and the crowds were already coming in. Dragons of all shapes and colors filled the paths, ready to see the sights the festival had to offer."
-    m "Un peu plus tard, le festival fut ouvert et la foule pénétrait sur les lieux. Des dragons de toutes les formes et les couleurs remplissaient les rues, prêts à voir les curiosités que le festival avait à leur offrir."
+    # m "À while later, the festival had kicked off and the crowds were already coming in. Dragons of all shapes and colors filled the paths, ready to see the sights the festival had to offer."
+    m "Un peu plus tard, le festival fut ouvert et la foule pénétrait sur les lieux. Des dragons de toutes les formes et couleurs remplissaient les rues, prêts à voir les curiosités que le festival avait à leur offrir."
 
 # game/remy4.rpy:568
 translate frenchtltl _call_skipcheck_28_9d5e9a20:
 
     # m "Booths lined both sides of the way. It reminded me a lot of a typical carnival setup, with the booths being filled with shops, food stands, games and much more."
-    m "Les baraques étaient alignés des deux côtés de la rue. Cela me rappelait beaucoup l'organisation typique d'une fête foraine, avec les stands remplis de boutiques, de quoi se restaurer, de jeux et plus encore."
+    m "Les baraques étaient alignées des deux côtés de la rue. Cela me rappelait beaucoup l'organisation typique d'une fête foraine, avec les stands remplis de boutiques, de quoi se restaurer, de jeux et plus encore."
 
 # game/remy4.rpy:570
 translate frenchtltl _call_skipcheck_28_ddfec17d:
@@ -964,7 +964,7 @@ translate frenchtltl _call_skipcheck_28_471cb936:
 translate frenchtltl _call_skipcheck_28_027b6343:
 
     # Ry "In my job, I always have to smile when serving the customers. How could I be surrounded by people all the time, yet feel so alone?"
-    Ry "A mon boulot, je dois toujours sourire quand je sers les clients. Comment pouvais-je être entouré de tant de personnes tout ce temps, et pourtant me sentir si seul ?"
+    Ry "À mon boulot, je dois toujours sourire quand je sers les clients. Comment pouvais-je être entouré de tant de personnes tout ce temps, et pourtant me sentir si seul ?"
 
 # game/remy4.rpy:588
 translate frenchtltl _call_skipcheck_28_62e74721:
@@ -988,19 +988,19 @@ translate frenchtltl _call_skipcheck_28_f01fee62:
 translate frenchtltl _call_skipcheck_28_897f35dd:
 
     # Ry "Like many others, I was very excited at the prospect of our myths coming true."
-    Ry "Comme beaucoup d'autre, j'étais très excité par la perspective que nos mythes deviennent réalité."
+    Ry "Comme beaucoup d'autres, j'étais très excité par la perspective que nos mythes deviennent réalité."
 
 # game/remy4.rpy:596
 translate frenchtltl _call_skipcheck_28_2f856f93:
 
     # Ry "And then, the day came when Reza stepped through the portal - amidst all the pomp and fanfare you could imagine. It was quite a sight to behold, really."
-    Ry "Et puis, le jour où Reza traversa le portail- au milieu de toute les fastes et fanfares que tu puisses imaginer. C'était une sacrée vue à contempler, vraiment."
+    Ry "Et puis, vint le jour où Reza traversa le portail- au milieu de toute les fastes et fanfares que tu puisses imaginer. C'était une sacrée vue à contempler, vraiment."
 
 # game/remy4.rpy:598
 translate frenchtltl _call_skipcheck_28_9a0f8f61:
 
     # Ry "You wouldn't believe how much joy I felt during that moment. Emera, of course, took all the limelight she could. First there was a big speech in front of a huge crowd, then a procession after she had officially welcomed Reza."
-    Ry "Tu n'imagines pas la joie que j'ai ressenti durant ce moment. Emera, bien sûr, attira les projecteurs autant qu'elle le pouvait. D'abord, il y a eu un grand discours devant une grande foule, puis un défilé après qu'elle a officiellement accueilli Reza."
+    Ry "Tu n'imagines pas la joie que j'ai ressentie durant ce moment. Emera, bien sûr, attira les projecteurs autant qu'elle le pouvait. D'abord, il y a eu un grand discours devant une grande foule, puis un défilé après qu'elle ait officiellement accueilli Reza."
 
 # game/remy4.rpy:600
 translate frenchtltl _call_skipcheck_28_2beeb5d5:
@@ -1042,7 +1042,7 @@ translate frenchtltl _call_skipcheck_28_ff716e0f:
 translate frenchtltl _call_skipcheck_28_a0a9844a:
 
     # Ry "It might not have seemed like much to you, but with just us two and no one else being there, it was something very special for me."
-    Ry "Ca n'a pas dû te sembler être quelque chose de gros, mais avec seulement nous deux et personne d'autre, c'était quelque chose de très spécial pour moi."
+    Ry "Ça n'a pas dû te sembler être quelque chose de gros, mais avec seulement nous deux et personne d'autre, c'était quelque chose de très spécial pour moi."
 
 # game/remy4.rpy:614
 translate frenchtltl _call_skipcheck_28_cc369ecb:
@@ -1120,13 +1120,13 @@ translate frenchtltl remy4skip1_6be34af2:
 translate frenchtltl remy4skip1_9159c31e:
 
     # Ry "All those times when I felt alone and depressed, I really was only a phone call away from someone who still cared about me."
-    Ry "Toutes ces fois où je me suis senti seul et déprimé, J'étais à un coup de téléphone de quelqu'un qui tenait toujours à moi."
+    Ry "Toutes ces fois où je me suis senti seul et déprimé, j'étais à un coup de téléphone de quelqu'un qui tenait toujours à moi."
 
 # game/remy4.rpy:644
 translate frenchtltl remy4skip1_3c3feecb:
 
     # c "But now that you have, this also means that your worst times are over. You're not alone anymore."
-    c "Mais maintenant que tu l'as rappelé, cela veut dire aussi que tes heures les plus sombres sont derrière toi. Tu n'es plus seul désormais."
+    c "Mais maintenant que tu l'as rappelée, cela veut dire aussi que tes heures les plus sombres sont derrière toi. Tu n'es plus seul désormais."
 
 # game/remy4.rpy:646
 translate frenchtltl remy4skip1_d9441013:
@@ -1144,13 +1144,13 @@ translate frenchtltl remy4skip1_932b01d8:
 translate frenchtltl remy4skip1_0d5f907c:
 
     # Ry "We even went to the orphanage together some time ago to help with the kids there. It seems one of them has taken quite a liking to me."
-    Ry "Nous sommes même allé à l'orphelinat ensemble il y a peu pour aider avec les enfants là bas. Il semblerait même qu'un des enfants m'apprécie beaucoup."
+    Ry "Nous sommes même allés à l'orphelinat ensemble il y a peu pour aider avec les enfants là bas. Il semblerait même qu'un des enfants m'apprécie beaucoup."
 
 # game/remy4.rpy:652
 translate frenchtltl remy4skip1_eef41f58:
 
     # c "That sounds lovely."
-    c "Ca a l'air génial."
+    c "Ça a l'air génial."
 
 # game/remy4.rpy:654
 translate frenchtltl remy4skip1_2adf9517:
@@ -1174,7 +1174,7 @@ translate frenchtltl remy4skip1_9d4673c7:
 translate frenchtltl remy4skip1_2c33a8c1:
 
     # c "It can't be all that bad. Ever since I came here, I've met plenty of lovely people - all with their own relationships, struggles and dreams."
-    c "Ca ne peut pas être si catastrophique. Depuis que je arrivé ici, j'ai rencontré plein de personnes adorables - tous avec leurs relations, leurs luttes et leurs rêves."
+    c "Ça ne peut pas être si catastrophique. Depuis que je arrivé ici, j'ai rencontré plein de personnes adorables - toutes avec leurs relations, leurs luttes et leurs rêves."
 
 # game/remy4.rpy:665
 translate frenchtltl remy4skip1_dcc66629:
@@ -1186,7 +1186,7 @@ translate frenchtltl remy4skip1_dcc66629:
 translate frenchtltl remy4skip1_edaefd0b:
 
     # c "Rather, why don't you take it as an opportunity? Now that we're here, who's to say that you won't be able to find others once I'm gone?"
-    c "A la place, pourquoi ne prendrais tu pas ça comme une opportunité ? Maintenant que nous en sommes là, qui dit que tu ne seras pas capable de trouver d'autre personnes une fois que je serai parti ?"
+    c "À la place, pourquoi ne prendrais-tu pas ça comme une opportunité ? Maintenant que nous en sommes là, qui dit que tu ne seras pas capable de trouver d'autres personnes une fois que je serai parti ?"
 
 # game/remy4.rpy:669
 translate frenchtltl remy4skip1_69be09bc:
@@ -1203,7 +1203,7 @@ translate frenchtltl remy4skip1_d4e2ef2d:
 # game/remy4.rpy:673
 translate frenchtltl remy4skip1_d0ab1843:
 
-    # Ry "A completely new start? I like that idea."
+    # Ry "À completely new start? I like that idea."
     Ry "Un nouveau départ ? J'aime bien l'idée."
 
 # game/remy4.rpy:676
@@ -1276,7 +1276,7 @@ translate frenchtltl _call_skipcheck_29_1cb1d0f8:
 translate frenchtltl _call_skipcheck_29_5a9a0466:
 
     # Ry "You should be careful with rhetoric like that."
-    Ry "Tu devrais faire attention avec une rhétorique comme celle là."
+    Ry "Tu devrais faire attention avec une rhétorique comme celle-là."
 
 # game/remy4.rpy:762
 translate frenchtltl _call_skipcheck_29_bb00a52c:
@@ -1288,7 +1288,7 @@ translate frenchtltl _call_skipcheck_29_bb00a52c:
 translate frenchtltl _call_skipcheck_29_70eca3a9:
 
     # Ry "That kind of talk makes it very easy to justify any means when it serves the right cause, whatever that may be. The more important thing is: Have you done anything that you might regret?"
-    Ry "Avec ce genre de discours, on peut légitimer n'importe quelle méthode quand elle sert la bonne cause, peu importe ce que c'est. Le plus important est de te demander : As-tu fait quoi que ce soit que tu puisses regretter ?"
+    Ry "Avec ce genre de discours, on peut légitimer n'importe quelle méthode quand elle sert la bonne cause, peu importe ce que c'est. Le plus important est de te demander : as-tu fait quoi que ce soit que tu puisses regretter ?"
 
 # game/remy4.rpy:766
 translate frenchtltl _call_skipcheck_29_1a23d3a2:
@@ -1384,7 +1384,7 @@ translate frenchtltl _call_skipcheck_29_c732224d:
 translate frenchtltl _call_skipcheck_29_7935ef31:
 
     # Ry shy "Don't you think that's a matter better left to our police force? It could be very dangerous for you to interfere."
-    Ry shy "Ne penses-tu pas que c'est un problème qu'on ferait mieux de laisser à la Police ? Ca pourrait être dangereux d'interférer."
+    Ry shy "Ne penses-tu pas que c'est un problème qu'on ferait mieux de laisser à la Police ? Ça pourrait être dangereux d'interférer."
 
 # game/remy4.rpy:800
 translate frenchtltl _call_skipcheck_29_76b58d40:
@@ -1438,7 +1438,7 @@ translate frenchtltl _call_skipcheck_29_8e19e9e6:
 translate frenchtltl _call_skipcheck_29_7f7ffe4b:
 
     # Ry "We've been here for a while now. How about I walk you back to your apartment?"
-    Ry "Ca fait un moment que nous sommes là. Et si on retournait à ton appartement ?"
+    Ry "Ça fait un moment que nous sommes là. Et si on retournait à ton appartement ?"
 
 # game/remy4.rpy:818
 translate frenchtltl _call_skipcheck_29_f408cad6:
@@ -1503,7 +1503,7 @@ translate frenchtltl _call_skipcheck_29_39892884:
 # game/remy4.rpy:848
 translate frenchtltl _call_skipcheck_29_a7a8c23f:
 
-    # c "A tempting offer, but we're just about to call it a day."
+    # c "À tempting offer, but we're just about to call it a day."
     c "Une offre tentante, mais ça ira pour aujourd'hui."
 
 # game/remy4.rpy:850
@@ -1618,7 +1618,7 @@ translate frenchtltl remy4skip2_0969ec1b:
 translate frenchtltl remy4skip2_d79351d2:
 
     # Ry "Maybe you will, too."
-    Ry "peut-être que tu finiras par le dire aussi."
+    Ry "Peut-être que tu finiras par le dire aussi."
 
 # game/remy4.rpy:904
 translate frenchtltl remy4skip2_7bf19640:
@@ -1642,13 +1642,13 @@ translate frenchtltl remy4skip2_e085fae4:
 translate frenchtltl remy4skip2_6ec78670:
 
     # Ry normal "Until we meet again."
-    Ry normal "A notre prochaine rencontre."
+    Ry normal "À notre prochaine rencontre."
 
 # game/remy4.rpy:912
 translate frenchtltl remy4skip2_a4c90328:
 
     # c "See you."
-    c "A plus."
+    c "À plus."
 
 # game/remy4.rpy:942
 translate frenchtltl remy4skip2_e7d82850:
@@ -1732,13 +1732,13 @@ translate frenchtltl remy4skip2_7f0f33d6:
 translate frenchtltl remy4skip2_a5e30217:
 
     # Ry "I'll see you, then."
-    Ry "A la revoyure, alors."
+    Ry "À la revoyure, alors."
 
 # game/remy4.rpy:998
 translate frenchtltl remy4skip2_ca40710d:
 
     # c "Until we meet again."
-    c "A notre prochaine rencontre."
+    c "À notre prochaine rencontre."
 
 # game/remy4.rpy:1000
 translate frenchtltl remy4skip2_f210ba5f:
@@ -1822,13 +1822,13 @@ translate frenchtltl remy4skip2_7f0f33d6_1:
 translate frenchtltl remy4skip2_a5e30217_1:
 
     # Ry "I'll see you, then."
-    Ry "A la revoyure, alors."
+    Ry "À la revoyure, alors."
 
 # game/remy4.rpy:1069
 translate frenchtltl remy4skip2_ca40710d_1:
 
     # c "Until we meet again."
-    c "A notre prochaine rencontre."
+    c "À notre prochaine rencontre."
 
 # game/remy4.rpy:1071
 translate frenchtltl remy4skip2_f210ba5f_1:
@@ -1875,7 +1875,7 @@ translate frenchtltl strings:
     new "Une intéressante après-midi."
 
     # remy4.rpy:370
-    old "A wonderful friendship."
+    old "À wonderful friendship."
     new "Une formidable amitié."
 
     # remy4.rpy:407

@@ -112,7 +112,7 @@ translate frenchtl _call_endingjustafewminuteslater_18fd4acb:
 translate frenchtl _call_endingjustafewminuteslater_a113acc6:
 
     # Rz "That... wasn't intended for you."
-    Rz "Ca... ne t'était pas destiné."
+    Rz "Ça... ne t'était pas destiné."
 
 # game/chapter5.rpy:572
 translate frenchtl _call_endingjustafewminuteslater_e00fadee:
@@ -142,13 +142,13 @@ translate frenchtl _call_endingjustafewminuteslater_46985aa4:
 translate frenchtl _call_endingjustafewminuteslater_bf205efc:
 
     # Rz "So, what's the plan?"
-    Rz "Donc, C'est quoi le plan ?"
+    Rz "Donc, c'est quoi le plan ?"
 
 # game/chapter5.rpy:582
 translate frenchtl _call_endingjustafewminuteslater_c6368b6d:
 
     # c "I'll tell you what's going to happen. You leave the generator and turn yourself in."
-    c "Je vais te dire ce qui va se passer. tu vas laisser le générateur, et te rendre."
+    c "Je vais te dire ce qui va se passer. Tu vas laisser le générateur, et te rendre."
 
 # game/chapter5.rpy:584
 translate frenchtl _call_endingjustafewminuteslater_b4c6de5d:
@@ -172,7 +172,7 @@ translate frenchtl _call_endingjustafewminuteslater_a04a361a:
 translate frenchtl _call_endingjustafewminuteslater_861dff8c:
 
     # m "Reza was right. In reality, the bomb provided no real leverage against him. If his goal was truly to save our city back home at any costs, he would not turn himself in. Even if the threat of setting off the bomb was a real one, his best chance would be to at least try to kill me now."
-    m "Reza avait malheureusement raison. Comme je le redoutais, même une bombe n'avait aucun impact sur sa détermination. Il état prêt à sauver notre ville à tout prix, jamais il ne se rendrait. Même si je prévoyais réellement d'activer la bombe, il avait encore une chance de gagner en me tuant maintenant."
+    m "Reza avait malheureusement raison. Comme je le redoutais, même une bombe n'avait aucun impact sur sa détermination. Il était prêt à sauver notre ville à tous prix, jamais il ne se rendrait. Même si je prévoyais réellement d'activer la bombe, il avait encore une chance de gagner en me tuant maintenant."
 
 # game/chapter5.rpy:596
 translate frenchtl _call_endingjustafewminuteslater_69f65a19:
@@ -196,7 +196,7 @@ translate frenchtl _call_endingjustafewminuteslater_6bb0c534:
 translate frenchtl _call_endingjustafewminuteslater_fcdea398:
 
     # m "Out of bullets, Reza was not far behind me as we both scrambled towards the exit."
-    m "A court de balles, Reza n'était pas loin derrière moi alors que nous nous précipitâmes vers la sortie."
+    m "À court de balles, Reza n'était pas loin derrière moi alors que nous nous précipitâmes vers la sortie."
 
 # game/chapter5.rpy:622
 translate frenchtl _call_endingjustafewminuteslater_4ffa6f77:
@@ -382,7 +382,7 @@ translate frenchtl tut_49c5e701:
 translate frenchtl tut_dc60dc4d:
 
     # s "During the next playthrough, you may want to make different choices. You may even find the information you've gained this time to be helpful!"
-    s "Au cours de votre prochaine partie, vous pourrez faire des choix différents. Vous pourriez même trouver une utilité aux informations que vous avez recceuilli cette fois ci !"
+    s "Au cours de votre prochaine partie, vous pourrez faire des choix différents. Vous pourriez même trouver une utilité aux informations que vous avez recceuilli cette fois-ci !"
 
 # game/chapter5.rpy:909
 translate frenchtl tut_10345df0:
@@ -400,7 +400,7 @@ translate frenchtl tut_1e8d4b79:
 translate frenchtl tut_72b3f8a3:
 
     # s "Can you find all the different endings?"
-    s "Saurez-vous accomplir toute les fins possibles ?"
+    s "Saurez-vous accomplir toutes les fins possibles ?"
 
 # game/chapter5.rpy:932
 translate frenchtl _call_syscheck_28_4ef8e3e2:
@@ -416,23 +416,23 @@ translate frenchtl strings:
 
     # chapter5.rpy:457
     old "Remy."
-    new "Rémi"
+    new "Rémi."
 
     # chapter5.rpy:457
     old "Anna."
-    new "Anna"
+    new "Anna."
 
     # chapter5.rpy:457
     old "Lorem."
-    new "Lorem"
+    new "Lorem."
 
     # chapter5.rpy:457
     old "Bryce."
-    new "Bryce"
+    new "Bryce."
 
     # chapter5.rpy:457
     old "Adine."
-    new "Adine"
+    new "Adine."
 
     # chapter5.rpy:457
     old "Go alone."
