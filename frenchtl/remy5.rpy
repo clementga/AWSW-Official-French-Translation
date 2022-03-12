@@ -4,7 +4,7 @@
 translate frenchtltl remy5_cb2b8cb1:
 
     # c "(That must be him.)"
-    c "(Ca doit être lui.)"
+    c "(Ça doit être lui.)"
 
 # game/remy5.rpy:20
 translate frenchtltl remy5_743a614e:
@@ -34,7 +34,7 @@ translate frenchtltl remy5_8aa8fa3e:
 translate frenchtltl remy5_88f8a48d:
 
     # c "Looks deserted to me. I thought everyone was watching the fireworks."
-    c "Ca m'a l'air désert. Je pensais que tout le monde était en train de regarder le feu d'artifice."
+    c "Ça m'a l'air désert. Je pensais que tout le monde était en train de regarder le feu d'artifice."
 
 # game/remy5.rpy:38
 translate frenchtltl remy5_444d83a8:
@@ -58,7 +58,7 @@ translate frenchtltl remy5_bd15ba18:
 translate frenchtltl remy5_5ecef224:
 
     # c "This reminds me a bit of the night I arrived here. Everything was dark and empty, and it was just us walking through the landscape."
-    c "Ca me rappelle un peu la nuit où je suis arrivé ici. Tout était sombre et vide, et il y avait juste nous marchant à travers le paysage."
+    c "Ça me rappelle un peu la nuit où je suis arrivé ici. Tout était sombre et vide, et il y avait juste nous marchant à travers le paysage."
 
 # game/remy5.rpy:46
 translate frenchtltl remy5_f09c15d0:
@@ -76,7 +76,7 @@ translate frenchtltl remy5_6a31016d:
 translate frenchtltl remy5_f705c1cd:
 
     # m "We were quiet as we waited and the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "On attendit tranquillement, alors que le silence de la nuit nous enveloppait. Et puis j'entendit le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle explosa dans un motif de couleurs."
+    m "On attendit tranquillement, alors que le silence de la nuit nous enveloppait. Et puis j'entendis le sifflement de la première fusée s'élevant dans le ciel nocturne. Enfin, elle explosa dans un motif de couleurs."
 
 # game/remy5.rpy:54
 translate frenchtltl remy5_07037632:
@@ -94,7 +94,7 @@ translate frenchtltl remy5_3de6ab5e:
 translate frenchtltl remy5_8a6266e6:
 
     # m "Considering how public of an event this was and how I was told multiple times that everyone would be watching the fireworks, now would be the best time for Reza to do anything he planned to do."
-    m "En considérant que cet évènement était public et le nombre de fois où on m'a dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il a planifié."
+    m "En considérant que cet événement était public et le nombre de fois où on m'a dit que tout le monde serait en train de regarder les feux d'artifices, ce serait le meilleur moment pour Reza de faire tout ce qu'il a planifié."
 
 # game/remy5.rpy:75
 translate frenchtltl remy5_cf6444f6:
@@ -154,7 +154,7 @@ translate frenchtltl remy5_d33580c6:
 translate frenchtltl remy5_eedcf341:
 
     # Ry sad "Maybe you can hold him off, and I'll try to get some help."
-    Ry sad "Peut être que tu peux le retenir, quand à moi je vais aller chercher de l'aide."
+    Ry sad "Peut être que tu peux le retenir, quant à moi je vais aller chercher de l'aide."
 
 # game/remy5.rpy:95
 translate frenchtltl remy5_91cde1b5:
@@ -328,13 +328,13 @@ translate frenchtltl _call_endingjustafewminuteslater_2_4ad2d72c:
 translate frenchtltl _call_endingjustafewminuteslater_2_a77485bf:
 
     # Rz "You're not going to help me, are you? Then it is futile."
-    Rz "Tu te vas pas m'aider, n'est-ce pas ? Alors, ça ne sert à rien."
+    Rz "Tu ne vas pas m'aider, n'est-ce pas ? Alors, ça ne sert à rien."
 
 # game/remy5.rpy:272
 translate frenchtltl _call_endingjustafewminuteslater_2_79e038f4:
 
     # m "He raised his gun, aiming at me while I regained my composure and tried to run."
-    m "Il leva son pistolet, me visant alors que je regagnais mon sang-froid et tentais de fuir."
+    m "Il leva son pistolet, me visant alors que je regagnais mon sang-froid et tentait de fuir."
 
 # game/remy5.rpy:296
 translate frenchtltl _call_endingjustafewminuteslater_2_04cea20f:
@@ -358,13 +358,13 @@ translate frenchtltl _call_endingjustafewminuteslater_2_61918c17:
 translate frenchtltl _call_endingjustafewminuteslater_2_1f200234:
 
     # m "Reza was leaning against the wall, his head slumped forward lifelessly."
-    m "Reza était affalé contre le mur, sa tête retombée mollement, sans vie."
+    m "Reza était affalé contre le mur, sa tête retomber mollement, sans vie."
 
 # game/remy5.rpy:322
 translate frenchtltl _call_endingjustafewminuteslater_2_bd6f8931:
 
     # m "Maverick and the Administrator - both lying in a pool of their own blood - were not moving."
-    m "Maverick et l'Administreur - tout les deux gisant dans une mare de leur propre sang - ne bougeaient plus non plus."
+    m "Maverick et l'Administrateur - tout les deux gisant dans une mare de leur propre sang - ne bougeaient plus non plus."
 
 # game/remy5.rpy:333
 translate frenchtltl _call_endingjustafewminuteslater_2_08c15b2e:
@@ -454,7 +454,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_e53174bf:
 translate frenchtltl _call_endingjustafewminuteslater_2_a56d7ef0:
 
     # m "Remy was right. Both Reza and the Administrator were gone."
-    m "Rémi avait raison. Reza et l'Administrateur avaient tout les deux disparu."
+    m "Rémi avait raison. Reza et l'Administrateur avaient tous les deux disparu."
 
 # game/remy5.rpy:365
 translate frenchtltl _call_endingjustafewminuteslater_2_c290c862:
@@ -556,7 +556,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_c7a74a32:
 translate frenchtltl _call_endingjustafewminuteslater_2_a5cec8b2:
 
     # n "I checked a few of the rooms and even found a first aid kit that I used to treat both of us."
-    n "Je fouillai quelques-unes des salles et trouvai même un kit de premier secours que j'utilisai pour nous soigner tout les deux."
+    n "Je fouillai quelques-unes des salles et trouvai même un kit de premier secours que j'utilisai pour nous soigner tous les deux."
 
 # game/remy5.rpy:425
 translate frenchtltl _call_endingjustafewminuteslater_2_5a3fd7c9:
@@ -658,7 +658,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_76b2fe88_3:
 translate frenchtltl _call_endingjustafewminuteslater_2_ae961ca6:
 
     # n "The thousands of people living in our city were quickly relocated. For them, it was a better solution than any other. Here, they had an already working infrastructure, buildings, and things looked just like they used to."
-    n "Les milliers de personnes qui vivaient dans notre ville furent rapidement relocalisées. Pour eux, c'était une meilleure solution que m'importe quelle autre. Ici, ils avaient une infrastructure fonctionnelle, des bâtiments, et les choses ressemblaient à ce qu'elles étaient auparavant."
+    n "Les milliers de personnes qui vivaient dans notre ville furent rapidement relocalisées. Pour eux, c'était une meilleure solution que n'importe quelle autre. Ici, ils avaient une infrastructure fonctionnelle, des bâtiments, et les choses ressemblaient à ce qu'elles étaient auparavant."
 
 # game/remy5.rpy:465
 translate frenchtltl _call_endingjustafewminuteslater_2_0843a8c3:
@@ -724,7 +724,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_48feb085:
 translate frenchtltl _call_endingjustafewminuteslater_2_041d5c86:
 
     # m "Blinded by the sun, I couldn't quite make out the dragon before it landed and approached. It was Remy."
-    m "Aveuglé par le soleil, je ne pus pas vraiment reconnaître le dragon avant qu'il n'atterrisse et ne s'approche. C'était Rémi."
+    m "Aveuglé par le soleil, je ne pus vraiment reconnaître le dragon avant qu'il n'atterisse et ne s'approche. C'était Rémi."
 
 # game/remy5.rpy:503
 translate frenchtltl _call_endingjustafewminuteslater_2_d8f61250:
@@ -796,7 +796,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_0047d285:
 translate frenchtltl _call_endingjustafewminuteslater_2_d2efe431:
 
     # Ry "I guess they realized the error they made by leaving you behind, but now all of us need you as a witness. You must tell them the truth."
-    Ry "Il faut croire qu'ils ont réalisé l'erreur qu'ils ont fait en te laissant derrière, mais maintenant on a besoin de toi en tant que témoin. Tu dois leur dire la vérité."
+    Ry "Il faut croire qu'ils ont réalisé l'erreur qu'ils ont faite en te laissant derrière, mais maintenant on a besoin de toi en tant que témoin. Tu dois leur dire la vérité."
 
 # game/remy5.rpy:527
 translate frenchtltl _call_endingjustafewminuteslater_2_c6a9d48a:
@@ -820,7 +820,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_f134d298:
 translate frenchtltl _call_endingjustafewminuteslater_2_8a00f518:
 
     # c "The portal is just around the corner, but how are we going to get back? They deactivated it."
-    c "Le portail est juste au coin, mais comment on va revenir ? Ils l'ont désactivé."
+    c "Le portail est juste au coin, mais comment on va revenir ? Ils l'ont désactivée."
 
 # game/remy5.rpy:535
 translate frenchtltl _call_endingjustafewminuteslater_2_5aad6110:
@@ -916,7 +916,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_86807aa6:
 translate frenchtltl _call_endingjustafewminuteslater_2_3d67c9dc:
 
     # c "Back? They're all gone."
-    c "Revenir ? Ils sont tous morts."
+    c "Repartir ? Ils sont tous morts."
 
 # game/remy5.rpy:583
 translate frenchtltl _call_endingjustafewminuteslater_2_a7c0eab4:
@@ -988,7 +988,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_025f0c6c:
 translate frenchtltl _call_endingjustafewminuteslater_2_b002277d:
 
     # As "I don't think you realize what is at stake here. All the others you have met are dead. Their whole civilization was wiped out in one fell swoop, and their world lies in ashes. Only we can go back and try to prevent this from ever happening."
-    As "Je ne pense pas que tu réalises ce qui est en jeu ici. Tout ceux que tu as rencontrés sont mort. Leur civilisation entière a été décimée d'une traite, et et leur monde n'est plus qu'un tas de cendres. Il n'y a que nous qui puissions empêcher ça d'arriver à nouveau."
+    As "Je ne pense pas que tu réalises ce qui est en jeu ici. Tous ceux que tu as rencontrés sont morts. Leur civilisation entière a été décimée d'une traite, et et leur monde n'est plus qu'un tas de cendres. Il n'y a que nous qui puissions empêcher ça d'arriver à nouveau."
 
 # game/remy5.rpy:607
 translate frenchtltl _call_endingjustafewminuteslater_2_933c72df:
@@ -1000,7 +1000,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_933c72df:
 translate frenchtltl _call_endingjustafewminuteslater_2_46006188:
 
     # Ry shy flip "It's alright, [player_name]. Just go. You have to save them."
-    Ry shy flip "Ca ira, [player_name]. Vas-y. Tu dois les sauver."
+    Ry shy flip "Ça ira, [player_name]. Vas-y. Tu dois les sauver."
 
 # game/remy5.rpy:611
 translate frenchtltl _call_endingjustafewminuteslater_2_fb1fc4b2:
@@ -1030,7 +1030,7 @@ translate frenchtltl _call_endingjustafewminuteslater_2_82944e6e:
 translate frenchtltl _call_endingjustafewminuteslater_2_e8c23392:
 
     # c "What should I call you?"
-    c "Comment devrai-je vous appeler ?"
+    c "Comment devrais-je vous appeler ?"
 
 # game/remy5.rpy:633
 translate frenchtltl _call_endingjustafewminuteslater_2_4997a4ae:
@@ -1060,13 +1060,13 @@ translate frenchtltl _call_endingjustafewminuteslater_2_a5e8870e:
 translate frenchtltl _call_endingjustafewminuteslater_2_998fd1c1:
 
     # Iz "Not that it matters much. Once we arrive on the other side, you probably won't remember a thing."
-    Iz "Bien que ce ne soit pas important. Une fois qu'on arrivera de l'autre côté, tu ne souviendras probablement de rien."
+    Iz "Bien que ce ne soit pas important. Une fois qu'on arrivera de l'autre côté, tu ne te souviendras probablement de rien."
 
 # game/remy5.rpy:651
 translate frenchtltl _call_endingjustafewminuteslater_2_0d874340:
 
     # m "As I heard the familiar sound of the portal starting up, the last thing I saw was Remy watching us as he slowly undid his tie and slipped it off his neck."
-    m "Tandis que j'entendais le bruit familier du portail démarrer, la dernière chose que je vis fut Rémi nous regardant alors qu'il défaisait sa cravate et l'enlevait de son cou."
+    m "Tandis que j'entendais le bruit familier du portail démarrer, la dernière chose que je vis fut Rémi nous regardant alors qu'il défaisait sa cravate et l'enlever de son cou."
 
 # game/remy5.rpy:807
 translate frenchtltl _call_syscheck_71_b73da2a0:
@@ -1078,7 +1078,7 @@ translate frenchtltl _call_syscheck_71_b73da2a0:
 translate frenchtltl remygoodending_14f8db56:
 
     # m "I hobbled to my feet and made my way back outside. In the distance, near the portal, I saw Reza and something that was standing between them."
-    m "Je me remis difficilement sur pieds et fonçai vers la sortie. Au loin, proche du portail, Je vis Reza et quelque chose qui lui barrait la route."
+    m "Je me remis difficilement sur pieds et fonçai vers la sortie. Au loin, proche du portail, je vis Reza et quelque chose qui lui barrait la route."
 
 # game/remy5.rpy:835
 translate frenchtltl remygoodending_3bdde3df:
@@ -1108,7 +1108,7 @@ translate frenchtltl remygoodending_184af11a:
 translate frenchtltl remygoodending_d4d75cb5:
 
     # m "Slowly, he got up again and walked over to the portal's controls when the Administrator suddenly appeared behind him."
-    m "Lentement, il se releva et marcha vers le terminal du portail quand l'Administrateur apparu soudainement derrière lui."
+    m "Lentement, il se releva et marcha vers le terminal du portail quand l'Administrateur apparut soudainement derrière lui."
 
 # game/remy5.rpy:998
 translate frenchtltl remygoodending_b2385318:
@@ -1120,7 +1120,7 @@ translate frenchtltl remygoodending_b2385318:
 translate frenchtltl remygoodending_332d900f:
 
     # m "When they came to a halt, the fight resumed. There was a flurry of fists, and suddenly, I heard the distinct sound of a gunshot, after which the Administrator slumped and fell."
-    m "Quand il firent une pause, le combat reprit de plus belle. C'était une pluie de coups de poings, et soudainement, j'entendis le son caractéristique d'un coup de feu, après quoi l'Administrateur s'effondra au sol."
+    m "Quand ils firent une pause, le combat reprit de plus belle. C'était une pluie de coups de poings, et soudainement, j'entendis le son caractéristique d'un coup de feu, après quoi l'Administrateur s'effondra au sol."
 
 # game/remy5.rpy:1014
 translate frenchtltl remygoodending_d0d4a5fb:
@@ -1150,7 +1150,7 @@ translate frenchtltl remygoodending_1b3f7f53:
 translate frenchtltl remygoodending_e9d0ca20:
 
     # Ry "Were you looking for me? Did you sneak out again? Poor girl."
-    Ry "Etais-tu en train de me chercher ? Tu t'es encore enfuie ? Ma pauvre puce..."
+    Ry "Étais-tu en train de me chercher ? Tu t'es encore enfuie ? Ma pauvre puce..."
 
 # game/remy5.rpy:1030
 translate frenchtltl remygoodending_38c3881e:
@@ -1186,7 +1186,7 @@ translate frenchtltl remygoodending_fbf00c38:
 translate frenchtltl remygoodending_299d93c6:
 
     # n "In the weeks I was out, a variety of things happened."
-    n "Durant les semaines où je restai inconscient, beaucoup de choses se passèrent."
+    n "Durant les semaines où je restais inconscient, beaucoup de choses se passèrent."
 
 # game/remy5.rpy:1052
 translate frenchtltl remygoodending_9578c082:
@@ -1252,7 +1252,7 @@ translate frenchtltl remygoodending_e57d4525:
 translate frenchtltl remygoodending_986e0b1c:
 
     # n "While the dragons were able to create a new power source for the portal, I wouldn't have known how to send myself back to humanity, as their portal was already deactivated - at least not without the expertise of the dead Administrator."
-    n "Alors que les dragons étaient capable de créer une nouvelle source d'énergie pour le portail, Je n'aurais jamais su comment me renvoyer à l'époque des humains alors que le portail était déjà désactivé - du moins, pas sans l'expertise de l'Administrateur décédée."
+    n "Alors que les dragons étaient capables de créer une nouvelle source d'énergie pour le portail, Je n'aurais jamais su comment me renvoyer à l'époque des humains alors que le portail était déjà désactivé - du moins, pas sans l'expertise de l'Administrateur décédée."
 
 # game/remy5.rpy:1078
 translate frenchtltl remygoodending_af3ad756:
@@ -1288,7 +1288,7 @@ translate frenchtltl remygoodending_f2f43cc5:
 translate frenchtltl remygoodending_64db0ab9:
 
     # Ry "What will you do now?"
-    Ry "Qu'est-ce que tu va faire, maintenant ?"
+    Ry "Qu'est-ce que tu vas faire, maintenant ?"
 
 # game/remy5.rpy:1099
 translate frenchtltl remygoodending_1b9150d6:
@@ -1342,7 +1342,7 @@ translate frenchtltl remygoodending_3265bdbd:
 translate frenchtltl remygoodending_7695138b:
 
     # Ry "Don't let me stop you from going back if that's what you want to do, though. I'll be fine."
-    Ry "Ne me laisse pas t'empêcher de repartir si c'est ce que tu veux faire. Ca ira pour moi."
+    Ry "Ne me laisse pas t'empêcher de repartir si c'est ce que tu veux faire. Ça ira pour moi."
 
 # game/remy5.rpy:1117
 translate frenchtltl remygoodending_af548332:
