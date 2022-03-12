@@ -903,7 +903,7 @@ translate frenchtltl _call_skipcheck_28_89aefe22:
 # game/remy4.rpy:566
 translate frenchtltl _call_skipcheck_28_6f342349:
 
-    # m "À while later, the festival had kicked off and the crowds were already coming in. Dragons of all shapes and colors filled the paths, ready to see the sights the festival had to offer."
+    # m "A while later, the festival had kicked off and the crowds were already coming in. Dragons of all shapes and colors filled the paths, ready to see the sights the festival had to offer."
     m "Un peu plus tard, le festival fut ouvert et la foule pénétrait sur les lieux. Des dragons de toutes les formes et couleurs remplissaient les rues, prêts à voir les curiosités que le festival avait à leur offrir."
 
 # game/remy4.rpy:568
@@ -1203,7 +1203,7 @@ translate frenchtltl remy4skip1_d4e2ef2d:
 # game/remy4.rpy:673
 translate frenchtltl remy4skip1_d0ab1843:
 
-    # Ry "À completely new start? I like that idea."
+    # Ry "A completely new start? I like that idea."
     Ry "Un nouveau départ ? J'aime bien l'idée."
 
 # game/remy4.rpy:676
@@ -1503,7 +1503,7 @@ translate frenchtltl _call_skipcheck_29_39892884:
 # game/remy4.rpy:848
 translate frenchtltl _call_skipcheck_29_a7a8c23f:
 
-    # c "À tempting offer, but we're just about to call it a day."
+    # c "A tempting offer, but we're just about to call it a day."
     c "Une offre tentante, mais ça ira pour aujourd'hui."
 
 # game/remy4.rpy:850
@@ -1875,7 +1875,7 @@ translate frenchtltl strings:
     new "Une intéressante après-midi."
 
     # remy4.rpy:370
-    old "À wonderful friendship."
+    old "A wonderful friendship."
     new "Une formidable amitié."
 
     # remy4.rpy:407
