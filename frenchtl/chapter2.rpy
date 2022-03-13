@@ -2064,7 +2064,7 @@ translate frenchtl chap2facility_6d126859:
 translate frenchtl chap2facility_37ef5819:
 
     # "???" "Here's the short version: My name is Damion. I work in this facility, and I'm unfortunate enough to live the nightmare of having to deal with Anna on a daily basis. Nice to meet you."
-    "???" "Je vais faire court : mon nom est Damion. Je travaille dans ce complexe, et je suis suffisament poisseux pour avoir à vivre le cauchemar qu'est de devoir interagir avec Anna quotidiennement. Ravi de vous rencontrer."
+    "???" "Je vais faire court : je m'appelle Damion. Je travaille dans ce complexe, et je suis suffisamment poisseux pour avoir à vivre le cauchemar qu'est de devoir interagir avec Anna quotidiennement. Ravi de vous rencontrer."
 
 # game/chapter2.rpy:1818
 translate frenchtl chap2facility_4ce6b84d:
@@ -2088,19 +2088,19 @@ translate frenchtl chap2facility_2c897276:
 translate frenchtl chap2facility_ccccd2cf:
 
     # Dm arrogant "Tchk, of course I know who you are, but your assumption validated the point I was going to make. You see, this whole thing about you coming here has been blown out of proportion, like it's some huge event that everyone should be celebrating."
-    Dm arrogant "Tsss, bien sûr que je le sais, mais votre supposition a validé ce que je m'apprêtais à dire. Vous savez, toute cette histoire à propos de votre visite a été largement exagérée, comme s'il s'agissait d'un évèmenent phénoménal que tout le monde devrait célébrer."
+    Dm arrogant "Tsss, bien sûr que je le sais, mais votre supposition a validé ce que je m'apprêtais à dire. Vous savez, toute cette histoire à propos de votre visite a été largement exagérée, comme s'il s'agissait d'un évènement phénoménal que tout le monde devrait célébrer."
 
 # game/chapter2.rpy:1826
 translate frenchtl chap2facility_3e235e4f:
 
     # Dm "Newsflash: Not everyone cares. Once both of you are gone, life will return to normal and we can all go back to what we actually should be doing."
-    Dm "Flash spécial : Il y a des gens n'en ont a rien à faire. Quand vous serez tous les deux reparti, la vie reprendra son cours normal et nous pourrons tous retourner à nos réelles occupations."
+    Dm "Flash spécial : Il y a des gens n'en ont a rien à faire. Quand vous serez tous les deux repartis, la vie reprendra son cours normal et nous pourrons tous retourner à nos réelles occupations."
 
 # game/chapter2.rpy:1828
 translate frenchtl chap2facility_78e507f9:
 
     # c "I imagine a lot of it has to do with those human myths you have."
-    c "J'imagine que ça a beaucoup à voir avec tous ces mythes sur les humains que vous avez."
+    c "J'imagine que cela a beaucoup à voir avec tous ces mythes sur les humains que vous avez."
 
 # game/chapter2.rpy:1830
 translate frenchtl chap2facility_122f0543:
@@ -2238,7 +2238,7 @@ translate frenchtl _call_syscheck_51_a499679e:
 translate frenchtl _call_syscheck_51_556f2a28:
 
     # s "You interrogated Damion. Fun times."
-    s "Vous avez interrogé Damion. Une vraie partie de plasir."
+    s "Vous avez interrogé Damion. Une vraie partie de plaisir."
 
 # game/chapter2.rpy:1980
 translate frenchtl _call_syscheck_51_0bd78e3c:
@@ -2346,7 +2346,7 @@ translate frenchtl chap2library_397c9469:
 translate frenchtl chap2library_ec2d8db0:
 
     # m "I waited a few moments and wondered if it was a good time to talk to Rémi. In the end, I decided that my task was too pressing to come back at another time. I shuffled through books and tried to look busy until I noticed he resumed his work so I could approach him."
-    m "J'attendis quelques minutes et me demandai s'il s'agissait d'un bon moment pour parler à Rémi. Au final, je décidai que ma tâche était trop pressante pour avoir à revenir un autre jour. Je fouillai dans les livres et essayai d'avoir l'air occupé jusqu'à qu'il reprit son travail afin de pouvoir l'approcher."
+    m "J'attendis quelques minutes et me-demandai s'il s'agissait d'un bon moment pour parler à Rémi. Au final, je décidai que ma tâche était trop pressante pour avoir à revenir un autre jour. Je fouillai dans les livres et essayai d'avoir l'air occupé jusqu'à qu'il reprit son travail afin de pouvoir l'approcher."
 
 # game/chapter2.rpy:2061
 translate frenchtl chap2library_bb8b98cc:
@@ -2424,19 +2424,19 @@ translate frenchtl chap2libmenu_dd8425b8:
 translate frenchtl chap2libmenu_a996483d:
 
     # Ry "Yes. I showed him a few, but none of them seemed to be what he was looking for."
-    Ry "Oui. Je lui en ai montré quelques unes, mais aucune ne semblait correspondre à ce qu'il cherchait."
+    Ry "Oui. Je lui en ai montré quelques-unes, mais aucune ne semblait correspondre à ce qu'il cherchait."
 
 # game/chapter2.rpy:2113
 translate frenchtl chap2libmenu_fd7b6f67:
 
     # c "Did he talk to you about anything strange while he was here?"
-    c "T'as-t-il parlé de quoi que ce soit d'étrange lorsqu'il était ici ?"
+    c "T'a-t-il parlé de quoi que ce soit d'étrange lorsqu'il était ici ?"
 
 # game/chapter2.rpy:2115
 translate frenchtl chap2libmenu_8f6a1e77:
 
     # Ry "Besides the maps, nothing else worth mentioning comes to mind. Only the usual pleasantries."
-    Ry "À part les cartes, rien de particulier ne me vient en tête. Juste les civilités habituelles."
+    Ry "À part les cartes, rien de particulier ne me vient en tête. Seulement les civilités habituelles."
 
 # game/chapter2.rpy:2130
 translate frenchtl chap2libmenu_e1a3eb0d:
