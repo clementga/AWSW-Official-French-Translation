@@ -46,7 +46,7 @@ translate frenchtl adine5_2f763075:
 translate frenchtl adine5_045cea44:
 
     # c "If this is everyone, I'm disappointed. I thought it would be crowded here."
-    c "Oh, tout le monde est déjà là ? Je suis déçu, je pensais qu'on verrait tout le monde dehors."
+    c "Si c'est vraiment tout le monde, je suis déçu. Je pensais qu'on serait entassés ici."
 
 # game/adine5.rpy:42
 translate frenchtl adine5_4940f35f:
@@ -58,7 +58,7 @@ translate frenchtl adine5_4940f35f:
 translate frenchtl adine5_d1711577:
 
     # c "So this is your secret spot, then?"
-    c "Oh, alors c'est ton petit coin secret hein ?"
+    c "C'est donc ton petit coin secret hein ?"
 
 # game/adine5.rpy:46
 translate frenchtl adine5_5d270bd2:
@@ -610,7 +610,7 @@ translate frenchtl adinegoodending_4ebd8ca6:
 translate frenchtl adinegoodending_2f14a3e7:
 
     # m "I saw Reza running to the box containing the generator. He lifted it up using both of his hands before making his way towards the exit as fast as he could."
-    m "Je le vit se précipiter vers la boîte contenant le générateur, il la prit à deux main avant de rejoindre la sortie aussi vite que possible."
+    m "Je le vit se précipiter vers la boîte contenant le générateur, il l'a prit à deux main avant de rejoindre la sortie aussi vite que possible."
 
 # game/adine5.rpy:630
 translate frenchtl adinegoodending_34815cf8:
@@ -910,7 +910,7 @@ translate frenchtl adinegoodending_f8021a84:
 translate frenchtl adinegoodending_78b89aba:
 
     # c "Then the only way to achieve what we want is to not delete those coordinates."
-    c "Alors, la seul façon d'arriver à nos fins à nous, et de ne pas supprimer ces coordonnées."
+    c "Alors, la seul façon d'arriver à nos propre fins, est de ne pas supprimer ces coordonnées."
 
 # game/adine5.rpy:838
 translate frenchtl adinegoodending_640c0e24:
@@ -1150,7 +1150,7 @@ translate frenchtl adinegoodending_255f2038:
 translate frenchtl adinegoodending_b8ea7ec5:
 
     # Ad normal b "Don't worry, I'll be here with you the whole time. But you'll have to be very careful, alright?"
-    Ad normal b "Ne t'inquiète pas, je serai avec toi tout le temps. Quand même il faudra que tu fasses attention, d'accord ?"
+    Ad normal b "Ne t'inquiète pas, je serai avec toi tout le temps. Il faudra quand même que tu fasses attention, d'accord ?"
 
 # game/adine5.rpy:1038
 translate frenchtl adinegoodending_4e8c7062:
