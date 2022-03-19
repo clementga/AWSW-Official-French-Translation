@@ -1,10 +1,11 @@
 # TODO: Translation updated at 2017-05-02 20:02
+# Reviews : 1 (LilacVenus)
 
 # game/sec.rpy:11
 translate frenchtltl sec_45a1f6f7:
 
     # m "I suddenly awoke to the chill of the cool outside air. The stars of the night sky were the first thing I saw as I found myself being dragged along the ground."
-    m "Je me réveillai soudainement à la fraicheur de l'air extérieur. Les étoiles de ce ciel nocturne furent la première chose que je vis alors que je me faisais trainer sur le sol."
+    m "Je me réveillai soudainement au fraicheur de l'air extérieur. Les étoiles de ce ciel nocturne furent la première chose que je vis alors que je me faisais trainer sur le sol."
 
 # game/sec.rpy:15
 translate frenchtltl sec_8eb32190:
@@ -58,7 +59,7 @@ translate frenchtltl sec_b56d6d33:
 translate frenchtltl sec_53ef6372:
 
     # Iz "In that case, maybe you can help me with this."
-    Iz "Dans ce cas, peut être que tu peux m'aider avec ça."
+    Iz "Dans ce cas, peut-être que tu peux m'aider avec ça."
 
 # game/sec.rpy:57
 translate frenchtltl sec_19fbf5f8:
@@ -70,7 +71,7 @@ translate frenchtltl sec_19fbf5f8:
 translate frenchtltl sec_3f2b4fc9:
 
     # Iz "It gets rather tiring having to do all this on my own every time. I'm not as young as I was when this all started, you know."
-    Iz "Ca devient assez fatiguant d'avoir à faire tous toute seule à chaque fois. Je ne suis plus aussi jeune que quand tout cela a commencé, tu sais."
+    Iz "Ça devient assez fatiguant d'avoir à faire tous toute seule à chaque fois. Je ne suis plus aussi jeune que quand tout cela a commencé, tu sais."
 
 # game/sec.rpy:63
 translate frenchtltl sec_c3656a60:
@@ -82,7 +83,7 @@ translate frenchtltl sec_c3656a60:
 translate frenchtltl sec_ff1a6790:
 
     # Iz "I don't know that yet. There is no shortage of bodies that will need one."
-    Iz "Je ne le sais pas encore. Ca ne manque pas de corps qui en auront besoin d'une."
+    Iz "Je ne le sais pas encore. Ça ne manque pas de corps qui en auront besoin d'une."
 
 # game/sec.rpy:67
 translate frenchtltl sec_78dba70c:
@@ -106,25 +107,25 @@ translate frenchtltl sec_a54e0a41:
 translate frenchtltl sec_14bb254b:
 
     # c "That time, we also achieved our goals. Together."
-    c "Cette fois aussi, nous avons accomplis nos objectifs. Ensembles."
+    c "Cette fois aussi, nous avons accompli nos objectifs. Ensembles."
 
 # game/sec.rpy:75
 translate frenchtltl sec_0dbc6fec:
 
     # Iz "So they are safe? What a comforting thought."
-    Iz "Donc ils sont saufs? C'est une pensée réconfortante."
+    Iz "Donc ils sont saufs ? C'est une pensée réconfortante."
 
 # game/sec.rpy:77
 translate frenchtltl sec_a77efeb5:
 
     # Iz "As good as that may be, however, having achieved our goals in another timeline doesn't help us here. In this one, we have to do it all over again."
-    Iz "Aussi agréable que ça puisse être, avoit atteint notre but dans une autre chronologie ne nous aide pas ici. Dans celle là, On va être obligé de refaire la même."
+    Iz "Aussi agréable que ça puisse être, avoir atteint notre but dans une autre chronologie ne nous aide pas ici. Dans celle-là, on va être obligé de refaire la même."
 
 # game/sec.rpy:79
 translate frenchtltl sec_b69a1abd:
 
     # Iz "If you still have that knowledge, we should have no trouble doing the same thing here, though. Maybe we could do even more than that."
-    Iz "Si tu as connaissance de cela, Nous ne devrions pas avoir de problème à refaire la même chose ici. Paut être que nous pourrions même faire plus que ça."
+    Iz "Si tu as connaissance de cela, nous ne devrions pas avoir de problème à refaire la même chose ici. Peut-être que nous pourrions même faire plus que ça."
 
 # game/sec.rpy:83
 translate frenchtltl sec_3070bc42:
@@ -154,13 +155,13 @@ translate frenchtltl sec_3198d0c5:
 translate frenchtltl sec_77e9a20b:
 
     # c "It's a little fancy for a hideout, I'd say."
-    c "Je dirais que c'est plutôt luxeux pour une cachette."
+    c "Je dirais que c'est plutôt luxueux pour une cachette."
 
 # game/sec.rpy:111
 translate frenchtltl sec_8fc7fa5d:
 
     # Iz "This building used to be a prison before they moved the inmates to a bigger facility. Apparently, this one didn't get much use."
-    Iz "Ce bâtiment était une prison avant qu'il ne déménage les pensionnaires dans un plus grand bâtiment. Apparement, celui ci n'a pas été beaucoup utilisé."
+    Iz "Ce bâtiment était une prison avant qu'il ne déménage les pensionnaires dans un plus grand bâtiment. Apparemment, celui-ci n'a pas été beaucoup utilisé."
 
 # game/sec.rpy:113
 translate frenchtltl sec_07b8b5b5:
