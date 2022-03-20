@@ -118,7 +118,7 @@ translate frenchtl evilending_b90201e3:
 translate frenchtl evilending_0317ceea:
 
     # c "Do you think this was a spontaneous decision, Reza? You have no idea for how long I've been planning to do this."
-    c "Tu crois que c'est une décision prise à la dernière minute Reza ? Tu n'as pas idée du temps que j'ai eu pour plannifier tout ça."
+    c "Tu crois que c'est une décision prise à la dernière minute Reza ? Tu n'as pas idée du temps que j'ai eu pour planifier tout ça."
 
 # game/chapter5evilending.rpy:57
 translate frenchtl evilending_94f76ec3:
@@ -130,13 +130,13 @@ translate frenchtl evilending_94f76ec3:
 translate frenchtl evilending_1c64755a:
 
     # c "You think so? Think again. We both know that humanity would have had so much more to gain if we actually cooperated with the dragons."
-    c "Tu crois ça ? Réfléchis bien. On sait tout les deux que l'humanité aurait eu bien plus à gagner en coopérant réellement avec les dragons."
+    c "Tu crois ça ? Réfléchis bien. On sait tous les deux que l'humanité aurait eu bien plus à gagner en coopérant réellement avec les dragons."
 
 # game/chapter5evilending.rpy:61
 translate frenchtl evilending_dab815b3:
 
     # c "Just look at all their technology. You were willing to waste it all, and for what? Just so you and I could profit most from this and be hailed as heroes when at large our world wouldn't change."
-    c "Tu n'as qu'à voir leur technologie. Tu étais prêt à gâcher tout ça, et pour quoi ? Juste pour que toi et moi puissions profiter de tout ça et être vu comme des héros quand notre monde, lui, serait toujours en déperdition."
+    c "Tu n'as qu'à voir leur technologie. Tu étais prêt à gâcher tout ça, et pourquoi ? Juste pour que toi et moi puissions profiter de tout ça et être vu comme des héros quand notre monde, lui, serait toujours en déperdition."
 
 # game/chapter5evilending.rpy:63
 translate frenchtl evilending_c60afc0e:
@@ -178,7 +178,7 @@ translate frenchtl evilending_3bb85959:
 translate frenchtl evilending_08c123a0:
 
     # c "I think we both know that it would fall under treason, the only crime heinous enough to our leaders to warrant immediate execution."
-    c "Nous savons tout les deux que ça tomberait sous le coup de la trahison, le seul crime assez hideux pour que nos dirigeants nous garantissent une exécution immédiate."
+    c "Nous savons tous les deux que ça tomberait sous le coup de la trahison, le seul crime assez hideux pour que nos dirigeants nous garantissent une exécution immédiate."
 
 # game/chapter5evilending.rpy:77
 translate frenchtl evilending_a33aae66:
@@ -202,7 +202,7 @@ translate frenchtl evilending_a0e44aee:
 translate frenchtl evilending_d642e0de:
 
     # Rz "I could've gotten rid of you a long time ago if I wanted."
-    Rz "J'aurai pu me débarasser de toi depuis bien longtemps si je l'avais voulu."
+    Rz "J'aurai pu me débarrasser de toi depuis bien longtemps si je l'avais voulu."
 
 # game/chapter5evilending.rpy:85
 translate frenchtl evilending_cc81ed0c:
@@ -226,7 +226,7 @@ translate frenchtl evilending_d1ace9ca:
 translate frenchtl evilending_82b931ec:
 
     # Rz "It doesn't have to. I'd rather die trying to do what is right than sit around, living my life doing nothing and watching our world go down in ashes."
-    Rz "Peu importe. Je préfèrerais mourir en essayant de faire ce qui est juste que de m'asseoir, en vivant à rien faire tout en voyant notre monde tomber en ruines."
+    Rz "Peu importe. Je préfèrerais mourir en essayant de faire ce qui est juste que de m'asseoir, en ne vivant à rien faire tout en voyant notre monde tomber en ruines."
 
 # game/chapter5evilending.rpy:95
 translate frenchtl evilending_e15c9673:
@@ -274,7 +274,7 @@ translate frenchtl evilending_3cc2cda2:
 translate frenchtl _call_syscheck_96_2a06d2db:
 
     # s "You have seen the evil ending!"
-    s "Vous avez vu la fin méchante !"
+    s "Vous avez vu la fin cruelle !"
 
 # game/chapter5evilending.rpy:311
 translate frenchtl endingjustafewminuteslater_18f7c84a:
@@ -322,7 +322,7 @@ translate frenchtl endingjustafewminuteslaterx_962f46a5:
 translate frenchtl endingjustafewminuteslaterx_92c81424:
 
     # m "When I opened it to check on its contents, I was surprised to find a few eggs inside. I had no doubt that this was Reza's doing."
-    m "En l'ouvrant pour vérifier son contenu, je fus surpris de tomber sur quelques oeufs. Aucun doute que c'était l'oeuvre de Reza."
+    m "En l'ouvrant pour vérifier son contenu, je fus surpris de tomber sur quelques œufs. Aucun doute que c'était l'œuvre de Reza."
 
 # game/chapter5evilending.rpy:342
 translate frenchtl endingjustafewminuteslaterx_dc3daea9:
@@ -358,7 +358,7 @@ translate frenchtl endingjustafewminuteslaterx_fb7b0378:
 translate frenchtl endingjustafewminuteslaterx_d51db7e2:
 
     # m "Even in the darkness, it was easy for me to spot the site where they had unearthed the building's entry as it was in a roped off area that I had seen from afar before."
-    m "J'avais déjà repéré l'endroit de loin lors d'une de mes précédentes visites. De ce fait, bien qu'il faisait sombre, je n'ai eut aucun mal à trouver l'accès au laboratoire."
+    m "J'avais déjà repéré l'endroit de loin lors d'une de mes précédentes visites. De ce fait, bien qu'il faisait sombre, je n'ai eu aucun mal à trouver l'accès au laboratoire."
 
 # game/chapter5evilending.rpy:367
 translate frenchtl endingjustafewminuteslaterx_c1029fbb:
@@ -436,7 +436,7 @@ translate frenchtl no_5b2b6059:
 translate frenchtl no_91ed222d:
 
     # c "I only recently found out."
-    c "Je ne l'a idécouvert que depuis très récemment."
+    c "Je ne l'ai découvert que depuis très récemment."
 
 # game/chapter5evilending.rpy:461
 translate frenchtl no_7baa11a8:
@@ -448,13 +448,13 @@ translate frenchtl no_7baa11a8:
 translate frenchtl no_f6c1a298:
 
     # Rz normal "I mean, how could a supposedly completely different, independent civilization speak the same language as us? What was this supposed to be? An alternate reality? No, it was just a different time."
-    Rz normal "Je veux dire, comment une civilisation soi-disant d'un autre monde, complètement différente de nous et complètement autonome pourrait parler les mêmes langues que nous ? Dans quoi on avait atteri ? Une réalité alternative ? Nan, on était juste dans une autre époque."
+    Rz normal "Je veux dire, comment une civilisation soi-disant d'un autre monde, complètement différente de nous et complètement autonome pourrait parler les mêmes langues que nous ? Dans quoi on avait atterri ? Une réalité alternative ? Nan, on était juste dans une autre époque."
 
 # game/chapter5evilending.rpy:465
 translate frenchtl no_46ca0c65:
 
     # Rz annoyed "When was there ever anything resembling these ... creatures on Earth? It's not hard to make the jump from dragons to dinosaurs when some of them here look pretty damn near identical to dinosaurs we knew about."
-    Rz annoyed "À quelle époque notre Terre a-t-elle vu de telles... créatures ? C'est pas difficile de faire le rapprochement entre les dragons et les dinosaures quand certains d'entre eux ressemblent comme deux gouttes d'eaux aux dinosaures qu'on connaissait."
+    Rz annoyed "À quelle époque notre Terre a-t-elle vu de telles... créatures ? C'est pas difficile de faire le rapprochement entre les dragons et les dinosaures quand certains d'entre eux ressemblent comme deux gouttes d'eau aux dinosaures qu'on connaissait."
 
 # game/chapter5evilending.rpy:467
 translate frenchtl no_9ae497ad:
@@ -466,7 +466,7 @@ translate frenchtl no_9ae497ad:
 translate frenchtl no_7b7df0a0:
 
     # Rz normal "But we don't even have to think that abstract. You just needed to look at the sky."
-    Rz normal "Mais pas besoin de s'attarder sur tout ces détail, il suffit de regarder le ciel."
+    Rz normal "Mais pas besoin de s'attarder sur tous ces détail, il suffit de regarder le ciel."
 
 # game/chapter5evilending.rpy:471
 translate frenchtl no_2fa3d196:
@@ -514,7 +514,7 @@ translate frenchtl no_07aeb999:
 translate frenchtl no_6a44d004:
 
     # c "Why did you do it?"
-    c "Pourquoi tu as fait ça ?"
+    c "Pourquoi as-tu fait ça ?"
 
 # game/chapter5evilending.rpy:503
 translate frenchtl no_f1d480b3:
@@ -538,7 +538,7 @@ translate frenchtl no_653a4234:
 translate frenchtl no_d33516e0:
 
     # Rz annoyed "You wouldn't believe how hard it was for me to acquire some generators. Some of the dragons didn't go down easily."
-    Rz annoyed "Tu n'imagines pas comme ça a été difficile d'avoir tout ces générateurs. Certains des dragons ne cédèrent pas facilement."
+    Rz annoyed "Tu n'imagines pas comme ça a été difficile d'avoir tous ces générateurs. Certains de ces dragons ne cédèrent pas facilement."
 
 # game/chapter5evilending.rpy:511
 translate frenchtl no_f538170b:
@@ -586,7 +586,7 @@ translate frenchtl no_676e21ed:
 translate frenchtl no_f730d570:
 
     # Rz normal "With the right... persuasion, I think we'll have plenty of reasons to keep at least some of them around. Bodyguards, border patrols, weapons. Even as pets or companions, as long as we make the necessary changes."
-    Rz normal "Avec les bons... arguments, je pense que nous aurons plein de raisons de garder certains d'entres eux chez nous. Gardes du corps, gardes à la frontière, des armes. Même comme des animaux de compagnie, du moment qu'on fait les changements nécéssaires."
+    Rz normal "Avec les bons... arguments, je pense que nous aurons plein de raisons de garder certains d'entres eux chez nous. Gardes du corps, gardes à la frontière, des armes. Même comme des animaux de compagnie, du moment qu'on fait les changements nécessaires."
 
 # game/chapter5evilending.rpy:527
 translate frenchtl no_4ca4f52e:
@@ -646,7 +646,7 @@ translate frenchtl no_b1f85f2a:
 translate frenchtl no_f109bdfd:
 
     # Rz "Don't tell me you've been drinking up what they've been telling you. You know they have as much of a vested interest in this whole thing as humanity does - that I and you do, or at least used to."
-    Rz "Ne me dis pas que tu as cru ce qu'ils t'ont dits. Tu sais qu'ils ont un intérêt tout particulier dans cette histoire tout comme l'humanité en a un - tout comme moi ou même toi, quand tu en avais un."
+    Rz "Ne me dis pas que tu as cru ce qu'ils t'ont dit. Tu sais qu'ils ont un intérêt tout particulier dans cette histoire tout comme l'humanité en a un - tout comme moi ou même toi, quand tu en avais un."
 
 # game/chapter5evilending.rpy:547
 translate frenchtl no_a39121b7:
@@ -718,7 +718,7 @@ translate frenchtl no_36a74191:
 translate frenchtl no_c0dcf3df:
 
     # Rz "Do you think I like it? If there was a different way, I wouldn't have spent the last few weeks doing what you didn't."
-    Rz "Tu crois que ça m'a plu ? S'il y avait un autre moyen, Je n'aurais pas passé ces dernières semaines à faire ce dont tu n'as pas été capable."
+    Rz "Tu crois que ça m'a plu ? S'il y avait un autre moyen, je n'aurais pas passé ces dernières semaines à faire ce dont tu n'as pas été capable."
 
 # game/chapter5evilending.rpy:571
 translate frenchtl no_9e38606f:
@@ -754,7 +754,7 @@ translate frenchtl no_3d97530d:
 translate frenchtl no_ed68b007:
 
     # Rz normal "I can even understand that a little. Of course it would be nice to just stay here where they have everything that we don't, but being here also reminded me of everything I hated about our world as it used to be."
-    Rz normal "Je pourrais même te comprendre un peu. Évidement qu'on pourrait rester ici, à profiter de tout ce que notre monde n'a pas. Mais en passant du temps ici, je me suis souvenu de tout ce que je détestais de notre ancien monde."
+    Rz normal "Je pourrais même te comprendre un peu. Évidemment qu'on pourrait rester ici, à profiter de tout ce que notre monde n'a pas. Mais en passant du temps ici, je me suis souvenu de tout ce que je détestais de notre ancien monde."
 
 # game/chapter5evilending.rpy:583
 translate frenchtl no_50b2933d:
@@ -766,7 +766,7 @@ translate frenchtl no_50b2933d:
 translate frenchtl no_057799eb:
 
     # Rz "For all of our efforts, what did we get? A vote that was meaningless in a sea of stupidity and lies. Now everyone has to pull their own weight. We make the rules."
-    Rz "Avec tous nous efforts, qu'est-ce qu'on avait ? Un pauvre vote qui n'avait aucun pouvoir dans cet océan de stupidité et de mensonges. Maintenant tout le monde doit tirer son épingle du jeu. Nous établissons les règles."
+    Rz "Avec tous nos efforts, qu'est-ce qu'on avait ? Un pauvre vote qui n'avait aucun pouvoir dans cet océan de stupidité et de mensonges. Maintenant tout le monde doit tirer son épingle du jeu. Nous établissons les règles."
 
 # game/chapter5evilending.rpy:587
 translate frenchtl no_5e7282f6:
@@ -790,13 +790,13 @@ translate frenchtl no_44206026:
 translate frenchtl no_11bb049e:
 
     # Rz "How many do you think died back home just in the two weeks you've been here because we don't have power for the hospital, huh? Do you think those victims aren't worth mentioning, or do you just care about the few dragons I killed?"
-    Rz "À ton avis, combien de gens sont morts durant les deux semaines que tu as passé ici, simplement parce qu'il n'ont pas l'électricité à l'hôpital, hein ? Ne penses-tu pas qu'il serait important de les mentionner, ou tu ne te soucis que des quelques dragons que j'ai tué ?"
+    Rz "À ton avis, combien de gens sont morts durant les deux semaines que tu as passées ici, simplement parce qu'il n'ont pas l'électricité à l'hôpital, hein ? Ne penses-tu pas qu'il serait important de les mentionner, ou tu ne te soucis que des quelques dragons que j'ai tué ?"
 
 # game/chapter5evilending.rpy:595
 translate frenchtl no_c901c5b9:
 
     # Rz "Our city is the last bastion of a civilized society in a world where nothing else is left."
-    Rz "Notre ville est le dernier bastion d'une humanité civilisée perdu au milieu d'un monde où il n'y a plus rien."
+    Rz "Notre ville est le dernier bastion d'une humanité civilisée perdue au milieu d'un monde où il n'y a plus rien."
 
 # game/chapter5evilending.rpy:597
 translate frenchtl no_2873155b:
@@ -928,7 +928,7 @@ translate frenchtl no_488376d7:
 translate frenchtl no_bb787d06:
 
     # Rz "Because it's a joke. It must be. I'm the one with the gun, and you thought you could just waltz in here and lecture me."
-    Rz "C'est une blague. Oui ça ne peut être qu'une blague. C'est moi qui ai un flingue, et tu t'imaginais que tu pouvais valser comme ça et me faire la moral."
+    Rz "C'est une blague. Oui ça ne peut être qu'une blague. C'est moi qui ai un flingue, et tu t'imaginais que tu pouvais valser comme ça et me faire la morale."
 
 # game/chapter5evilending.rpy:645
 translate frenchtl no_138dcbc4:
@@ -958,7 +958,7 @@ translate frenchtl _call_syscheck_97_0ffb665d:
 translate frenchtl _call_syscheck_97_42aff287:
 
     # s "You decided not to meet anyone or investigate for the tenth time. Being exceptionally good at doing nothing apparently is a skill, too."
-    s "Vous avez décidé de ne rencontrer personne ou d'enquêter pour la dixième fois. Être exceptionnellement bon à rien est également une compétence, apparement."
+    s "Vous avez décidé de ne rencontrer personne ou d'enquêter pour la dixième fois. Être exceptionnellement bon à rien est également une compétence, apparemment."
 
 # game/chapter5evilending.rpy:733
 translate frenchtl _call_syscheck_98_b9c658b8:
@@ -988,13 +988,13 @@ translate frenchtl _call_syscheck_99_8ed1e5e6:
 translate frenchtl _call_syscheck_99_42e2e280:
 
     # s "You had two messages waiting for you. I wonder why..."
-    s "Vous aviez deux message sur votre répondeur. Je me demande pourquoi..."
+    s "Vous aviez deux messages sur votre répondeur. Je me demande pourquoi..."
 
 # game/chapter5evilending.rpy:771
 translate frenchtl _call_syscheck_99_044dc97c:
 
     # s "You had two messages waiting for you. You sure are getting around, aren't you?"
-    s "Vous aviez deux message sur votre répondeur. Vous êtes toujours en déplacement, n'est-ce pas ?"
+    s "Vous aviez deux messages sur votre répondeur. Vous êtes toujours en déplacement, n'est-ce pas ?"
 
 # game/chapter5evilending.rpy:791
 translate frenchtl _call_syscheck_100_dcad8579:
@@ -1024,13 +1024,13 @@ translate frenchtl _call_syscheck_101_d5bbc844:
 translate frenchtl skiptut_b619f659:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner."
-    s "Mes enregistrements indiquent que vous avez déjà vu cette scène de manière satifsaisante."
+    s "Mes enregistrements indiquent que vous avez déjà vu cette scène de manière satisfaisante."
 
 # game/chapter5evilending.rpy:833
 translate frenchtl skiptut_dee13ebb:
 
     # s "If you wish, we could skip sections like these which you have already cleared before."
-    s "Si vous voulez, on peut passer des scènes que vous avez déjà vécu, comme celle qui vient après."
+    s "Si vous voulez, on peut passer des scènes que vous avez déjà vécues, comme celle qui vient après."
 
 # game/chapter5evilending.rpy:837
 translate frenchtl skiptut_4cbf1aa4:
@@ -1090,7 +1090,7 @@ translate frenchtl skiptut_2acb98f7:
 translate frenchtl skiptut_06013450:
 
     # s "It's up to you whether you want to use it or not, but it might save you some time."
-    s "À vous de voir si vous voulez en user ou non, mais ça pourra vous faire gagner du temps dans tout les cas."
+    s "À vous de voir si vous voulez en user ou non, mais ça pourra vous faire gagner du temps dans tous les cas."
 
 # game/chapter5evilending.rpy:877
 translate frenchtl skiptut_c5ae7a1f:
@@ -1108,4 +1108,5 @@ translate frenchtl strings:
 
     # chapter5evilending.rpy:3
     old "Chapter 5 - Evil"
-    new "Chapitre 5 - Fin du méchant"
+    new "Chapitre 5 - Fin cruel"
+
