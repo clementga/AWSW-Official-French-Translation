@@ -804,7 +804,7 @@ translate frenchtl loremgoodending3_11dd5dd2:
 translate frenchtl loremgoodending3_8cc57f7f:
 
     # n "The conversation they had overheard was enough for the dragons to find out about the comet, and with the help of the portal's power source, they were able to divert it."
-    n "La conversation qu'ils avaient surpris était suffisante pour que les dragons découvrent la comète et, avec l'aide de la source d'alimentation du portail, furent en mesure de la détourner."
+    n "La conversation qu'ils avaient surprise suffit aux Dragons pour découvrir la comète, et, avec l'aide de la source d'énergie qui alimentait le portail, ces derniers furent en mesure de la détourner."
 
 # game/lorem5.rpy:815
 translate frenchtl loremgoodending3_3d679fda:
