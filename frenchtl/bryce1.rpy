@@ -300,7 +300,7 @@ translate frenchtl waitmenu_118c9439:
 translate frenchtl waitmenu_1353b25f:
 
     # Wr "There you go. Just call me if you need anything."
-    Wr "Voilà pour vous. Appelez-moi si il vous faut quoi que ce soit."
+    Wr "Voilà pour vous. Appelez-moi s' il vous faut quoi que ce soit."
 
 # game/bryce1.rpy:331
 translate frenchtl waitmenu_50600d31:
@@ -426,7 +426,7 @@ translate frenchtl waitmenu_5fc73175:
 translate frenchtl waitmenu_72e5cf10:
 
     # Br "In any case, thanks for telling me all of this. You never know when this kind of information could be useful."
-    Br "Dans tous les cas, merci de m'avoir dit tout ça. On ne sait jamais quand ce genre d'information se révèlera utile."
+    Br "Dans tous les cas, merci de m'avoir dit tout ça. On ne sait jamais quand ce genre d'information se révélera utile."
 
 # game/bryce1.rpy:373
 translate frenchtl waitmenu_bd805a76:
@@ -943,7 +943,7 @@ translate frenchtl _call_syscheck_41_2a421450:
 translate frenchtl _call_syscheck_41_1b059110:
 
     # Br "We'll see how much you like it when I've drunk you under the table."
-    Br "On verra si tu apprécieras le moment ou tu seras en train de rouler sous la table."
+    Br "On verra si tu apprécieras le moment où tu seras en train de rouler sous la table."
 
 # game/bryce1.rpy:777
 translate frenchtl _call_syscheck_41_1af65026:
@@ -1021,7 +1021,7 @@ translate frenchtl _call_syscheck_41_e5a84285:
 translate frenchtl _call_syscheck_41_57b54eec:
 
     # Br laugh "Now, don't spoil the fun. I don't go around telling people about what you're up to, either."
-    Br laugh "Ne gâche pas le plaisir, je ne vais pas parler de tes manigances à toi devant les autres..."
+    Br laugh "Ne gâche pas le plaisir, je ne vais pas parler de tes manigances devant les autres..."
 
 # game/bryce1.rpy:826
 translate frenchtl _call_syscheck_41_f828523f:
@@ -1938,7 +1938,7 @@ translate frenchtl bryce1skip_9eb38675:
 translate frenchtl bryce1skip_70fb6772:
 
     # c "But how are we going to find out who won if we aren't going to have a rematch?"
-    c "Mais comment faire pour connaître le gagnant si il n'y a pas de revanche ?"
+    c "Mais comment faire pour connaître le gagnant s'il n'y a pas de revanche ?"
 
 # game/bryce1.rpy:1415
 translate frenchtl bryce1skip_c45783e0:
@@ -2211,3 +2211,4 @@ translate frenchtl strings:
     # bryce1.rpy:1276
     old "Good morning, sunshine."
     new "Bonjour, beau gosse."
+
