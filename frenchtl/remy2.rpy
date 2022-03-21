@@ -46,7 +46,7 @@ translate frenchtl _call_skipcheck_34_1dee48fd:
 translate frenchtl _call_skipcheck_34_2d45f5fb:
 
     # Ry smile "Well, my gratitude is yours regardless."
-    Ry smile "Peu importe, tu as toute ma gratitude."
+    Ry smile "Néanmoins, tu as toute ma gratitude."
 
 # game/remy2.rpy:135
 translate frenchtl _call_skipcheck_34_f07a64eb:
@@ -112,7 +112,7 @@ translate frenchtl _call_skipcheck_34_98839ce7:
 translate frenchtl _call_skipcheck_34_17add4b3:
 
     # Ry "Oh, you're in luck. I do have a few steaks we could dine upon."
-    Ry "Oh, tu es en veine. J'ai effectivement quelques steaks sur lesquels nous pourrions dîner."
+    Ry "Oh, tu es en veine. J'ai effectivement quelques steaks de côté pour le dîner."
 
 # game/remy2.rpy:189
 translate frenchtl _call_skipcheck_34_9ff9bc10:
@@ -592,7 +592,7 @@ translate frenchtl remy2menu2_1223f003:
 translate frenchtl remy2menu2_8d7d4662:
 
     # c "I saw as much. You may have heard that I have a degree in biology, which is one of the reasons I was given the honor of coming here in the first place. As such, your anatomy is of high interest to me and one of the things I'm supposed to study."
-    c "Je l'ai vu moi aussi. Tu as dû entendre que j'avais un diplôme en biologie, ce qui constitue une des raisons pour lesquelles j'ai eu l'honneur de venir ici en premier lieu. Ce faisant, ton anatomie est d'un grand intérêt pour moi et également une des choses que je suis supposé étudier."
+    c "J'ai cru voir ça, en effet. Tu as dû entendre que j'avais un diplôme en biologie, ce qui constitue une des raisons pour lesquelles j'ai eu l'honneur de venir ici en premier lieu. Ce faisant, ton anatomie est d'un grand intérêt pour moi et également une des choses que je suis supposé étudier."
 
 # game/remy2.rpy:596
 translate frenchtl remy2menu2_ca8681b9:

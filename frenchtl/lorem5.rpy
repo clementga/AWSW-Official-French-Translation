@@ -18,7 +18,7 @@ translate frenchtl lorem5_453e49d0:
 translate frenchtl lorem5_bbb7baf9:
 
     # c "(The sooner Ipsum gets it, the better.)"
-    c "(Le plus tôt Ipsum l'aura, mieux ce sera.)"
+    c "(Le plus tôt Ipsum l'aura, le mieux ce sera.)"
 
 # game/lorem5.rpy:22
 translate frenchtl lorem5_9365f413:
@@ -120,7 +120,7 @@ translate frenchtl lorem5_fa30b21e:
 translate frenchtl lorem5_e8553cda:
 
     # c "That's alright. Just remind me to give it to you later."
-    c "C'est correct. Fais moi juste penser à te la donner plus tard."
+    c "Pas de soucis. Fais moi juste penser à te la donner plus tard."
 
 # game/lorem5.rpy:77
 translate frenchtl lorem5_8b3fe1d3:
@@ -252,7 +252,7 @@ translate frenchtl lorem5_86148265:
 translate frenchtl lorem5_5ec02e53:
 
     # Lo "Where is he, anyway?"
-    Lo "Au faite, Où est t'il ?"
+    Lo "Au fait, Où est t'il ?"
 
 # game/lorem5.rpy:152
 translate frenchtl lorem5_9fb08834:
@@ -708,7 +708,7 @@ translate frenchtl loremgoodending_55e802ec:
 translate frenchtl loremgoodending_22401a1c:
 
     # Rz annoyed "What is your problem, [player_name]? You know about the comet, so we can't stay here."
-    Rz annoyed "C'est quoi ton problème, [player_name] ? Tu sais à propos de la comette, donc on ne peut pas rester ici."
+    Rz annoyed "C'est quoi ton problème, [player_name] ? Tu sais à propos de la comète, donc on ne peut pas rester ici."
 
 # game/lorem5.rpy:691
 translate frenchtl loremgoodending_b2b01095:
@@ -804,7 +804,7 @@ translate frenchtl loremgoodending3_11dd5dd2:
 translate frenchtl loremgoodending3_8cc57f7f:
 
     # n "The conversation they had overheard was enough for the dragons to find out about the comet, and with the help of the portal's power source, they were able to divert it."
-    n "La conversation qu'ils avaient surprise était suffisante pour que les dragons découvrent la comète et, avec l'aide de la source d'alimentation du portail, furent en mesure de la détourner."
+    n "La conversation qu'ils avaient surprise suffit aux Dragons pour découvrir la comète, et, avec l'aide de la source d'énergie qui alimentait le portail, ces derniers furent en mesure de la détourner."
 
 # game/lorem5.rpy:815
 translate frenchtl loremgoodending3_3d679fda:

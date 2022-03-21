@@ -10,7 +10,7 @@ translate frenchtl trueendings_5780b4f3:
 translate frenchtl trueendings_e7f07360:
 
     # m "Suddenly, memories of my many attempts burst forth like the fireworks themselves. All the different things that had happened, the people I met and also my many confrontations with Reza - I remembered everything."
-    m "Les nombreux souvenirs de mes précédentes tentatives me revinrent d'un coup en même temps que les feu d'artifices dont je me souvenais. Les dragons que j'avais rencontrés, les décisions que j'avais prises, même mes face-à-face avec Reza, je me souvins de tout."
+    m "Les nombreux souvenirs de mes précédentes tentatives me revinrent d'un coup en même temps que les feux d'artifice dont je me souvenais. Les dragons que j'avais rencontrés, les décisions que j'avais prises, même mes faces-à-faces avec Reza, je me souvins de tout."
 
 # game/chapter5trueendings.rpy:31
 translate frenchtl trueendings_ae02df19:
@@ -106,7 +106,7 @@ translate frenchtl trueendings_c0dfc826:
 translate frenchtl trueendings_43f5fd9c:
 
     # c "I remember things from timelines where I died. The same must be true for all of you. It's not just your imagination."
-    c "Je me suis souvenu de choses passées dans des lignes temporelles ou j'ai trouvé la mort. C'est aussi votre cas à tous, ce n'est pas simplement votre imagination."
+    c "Je me suis souvenu de choses passées dans des lignes temporelles où j'ai trouvé la mort. C'est aussi votre cas à tous, ce n'est pas simplement votre imagination."
 
 # game/chapter5trueendings.rpy:71
 translate frenchtl trueendings_d5a1863a:
@@ -156,7 +156,7 @@ translate frenchtl trueendings_ed11f126:
 translate frenchtl trueendings_468315a7:
 
     # Ad disappoint b "He's killed at least four people so far, right?"
-    Ad disappoint b "Il a déjà tué quatre personne jusqu'à maintenant, non ?"
+    Ad disappoint b "Il a déjà tué quatre personnes jusqu'à maintenant, non ?"
 
 # game/chapter5trueendings.rpy:91
 translate frenchtl trueendings_589d609a:
@@ -193,7 +193,7 @@ translate frenchtl trueendings_07e0f499:
 translate frenchtl trueendings_55f91d0b:
 
     # Ad annoyed b "Of course you'd only help for your own good."
-    Ad annoyed b "Bien sûr, vos écailles avant la sauvegarde notre monde, j'admire votre sens de l'altruisme."
+    Ad annoyed b "Bien sûr, vos écailles avant la sauvegarde de notre monde, j'admire votre sens de l'altruisme."
 
 # game/chapter5trueendings.rpy:103
 translate frenchtl trueendings_ab701e8e:
@@ -241,7 +241,7 @@ translate frenchtl trueendings_60feb5d3:
 translate frenchtl trueendings_5208e243:
 
     # c "Previously, I only realized where he was once he was already inside, but this time we can think about the best way to stop him."
-    c "Dans les chronologies précédentes, j'ai toujours réalisé l'endroit où le prendre seulement après qu'il est rentré dans le complexe."
+    c "Dans les chronologies précédentes, j'ai toujours réalisé l'endroit où le prendre seulement après qu'il soit rentré dans le complexe."
     c "Là, on a le temps de réfléchir à la meilleure façon de procéder."
 
 # game/chapter5trueendings.rpy:122
@@ -302,7 +302,7 @@ translate frenchtl trueendings_14620001:
 translate frenchtl trueendings_d8445a8e:
 
     # Br brow flip "And we can cuff him after that. I'll show you how to do it. Actually, I'll let each one of you have a pair just in case."
-    Br brow flip "Et on peut lui passer les menottes après ça. Je vais vous montrer comment ça marche à tous. En fait, vous en aurez chacun une paire, comme ça le premier qui le peux les lui passe."
+    Br brow flip "Et on peut lui passer les menottes après ça. Je vais vous montrer comment ça marche à tous. En fait, vous en aurez chacun une paire, comme ça le premier qui le peut les lui passe."
 
 # game/chapter5trueendings.rpy:142
 translate frenchtl trueendings_34123c84:
@@ -314,7 +314,7 @@ translate frenchtl trueendings_34123c84:
 translate frenchtl trueendings_52df1032:
 
     # Br normal flip "Don't worry about it. They were designed with flyers in mind. It's really easy to cuff someone if you know how."
-    Br normal flip "Ne t'inquiète pas, ces menottes ont été conçus pour que même les vouivres puissent s'en servir. C'est facile quand on connait les gestes."
+    Br normal flip "Ne t'inquiète pas, ces menottes ont été conçues pour que même les vouivres puissent s'en servir. C'est facile quand on connait les gestes."
 
 # game/chapter5trueendings.rpy:146
 translate frenchtl trueendings_e024b866:
@@ -464,7 +464,7 @@ translate frenchtl trueendings_1b20a0ea:
 translate frenchtl trueendings_368093ee:
 
     # Br brow flip "We better get ready, then. I'll have to fetch the cuffs from the department and Anna should get her shocker. I also have to make a phone call before I go."
-    Br brow flip "Bon, on ferais mieux de se préparer alors. 'Faudra que je passe chercher des menottes au poste. Vous, Anna, vous vous occupez de ramener votre pistolet paralysant. Et j'ai un coup de fil à passer aussi."
+    Br brow flip "Bon, on ferait mieux de se préparer alors. 'Faudra que je passe chercher des menottes au poste. Vous, Anna, vous vous occupez de ramener votre pistolet paralysant. Et j'ai un coup de fil à passer aussi."
 
 # game/chapter5trueendings.rpy:202
 translate frenchtl trueendings_2f074e9c:
@@ -578,7 +578,7 @@ translate frenchtl trueendings_e3e50b02:
 translate frenchtl trueendings_da54db3a:
 
     # Br "Hey, it's not my fault you violated the conditions of your suspended sentence. I'm just following protocol."
-    Br "Hé, c'est pas moi qui ai enfreint les condition de mon sursis, hein. Moi je fais ce qu'on m'demande."
+    Br "Hé, c'est pas moi qui ai enfreint les conditions de mon sursis, hein. Moi je fais ce qu'on m'demande."
 
 # game/chapter5trueendings.rpy:276
 translate frenchtl trueendings_c2deb4f7:
@@ -632,7 +632,7 @@ translate frenchtl trueendings_fca93ae4:
 translate frenchtl trueendings_4fcc90ed:
 
     # An sad flip "You don't know the whole story, either."
-    An sad flip "Ouais, vous même, Chef, vous ne connaissez pas toute l'histoire."
+    An sad flip "Ouais, vous-même, Chef, vous ne connaissez pas toute l'histoire."
 
 # game/chapter5trueendings.rpy:294
 translate frenchtl trueendings_e88bd1ee:
@@ -644,13 +644,13 @@ translate frenchtl trueendings_e88bd1ee:
 translate frenchtl trueendings_ff392013:
 
     # Ad "See, that's what I mean. She only cares about herself."
-    Ad "C'est ce que je pense depuis le début, ses écailles avant celle des autres."
+    Ad "C'est ce que je pense depuis le début, ses écailles avant celles des autres."
 
 # game/chapter5trueendings.rpy:298
 translate frenchtl trueendings_b2194495:
 
     # An face flip "My research has saved thousands of lives, if not millions. What did you ever do for the community?"
-    An face flip "Mes travaux ont sauvé des milliers, voire des millions de vie ! Qu'est-ce que t'as fait, toi, pour faire avancer le monde, hein !?"
+    An face flip "Mes travaux ont sauvé des milliers, voire des millions de vies ! Qu'est-ce que t'as fait, toi, pour faire avancer le monde, hein !?"
 
 # game/chapter5trueendings.rpy:300
 translate frenchtl trueendings_3e94ddc6:
@@ -830,7 +830,7 @@ translate frenchtl trueendings_54b432e1:
 translate frenchtl trueendings_97d6e3c8:
 
     # n "For me, this opened up a lot of possibilities. Usually, the council wouldn't allow fertilized eggs to be used for research, but here we were talking about a few fertilized egg cells that hadn't even formed an egg shell yet. They would've perished quickly if I hadn't noticed that she was technically pregnant."
-    n "J'ai vu là l'occasion à saisir. Normalement, le conseil ne permet pas l'utilisation d'œufs contenant des embryons à des fins de recherche. Mais nous parlions ici d'ovules fécondé, il n'avait même pas de coquille ! Ils aurait vite péri si je ne m'étais pas rendue compte qu'elle était techniquement enceinte."
+    n "J'ai vu là l'occasion à saisir. Normalement, le conseil ne permet pas l'utilisation d'œufs contenant des embryons à des fins de recherche. Mais nous parlions ici d'ovules fécondé, ils n'avaient même pas de coquille ! Ils aurait vite péri si je ne m'étais pas rendue compte qu'elle était techniquement enceinte."
 
 # game/chapter5trueendings.rpy:373
 translate frenchtl trueendings_76b2fe88_3:
@@ -842,7 +842,7 @@ translate frenchtl trueendings_76b2fe88_3:
 translate frenchtl trueendings_536a6fcc:
 
     # n "I submitted my forms for the research and started my work. Since the material was very sensitive, there wasn't really time to wait for approval as it would've put the whole experiment at risk."
-    n "J'ai rempli mes formulaires d'autorisation de recherche et me suis lancée. Comme le matériel biologique dont je disposais était très fragile, je n'avais pas le temps d'attendre l'approbation pour commencer, il y avait trop de risque pour mon expérience."
+    n "J'ai rempli mes formulaires d'autorisation de recherche et me suis lancée. Comme le matériel biologique dont je disposais était très fragile, je n'avais pas le temps d'attendre l'approbation pour commencer, il y avait trop de risques pour mon expérience."
 
 # game/chapter5trueendings.rpy:378
 translate frenchtl trueendings_93f35b03:
@@ -890,7 +890,7 @@ translate frenchtl trueendings_b0344659:
 translate frenchtl trueendings_e5bfa567:
 
     # n "Proposals like mine that needed the council's approval could be seen by anyone and were open to discourse, but people usually didn't care about them unless they had some experience in the field."
-    n "Les propositions qui nécessitaient l'approvation du Conseil, telles que la miennes, pouvaient être consultées par n'importe qui et étaient ouvertes à la discussion. En temps normal les gens s'en fichent, ce n'état qu'une série de mots incompréhensible pour le citoyen lambda."
+    n "Les propositions qui nécessitaient l'approbation du Conseil, telles que la mienne, pouvaient être consultées par n'importe qui et étaient ouvertes à la discussion. En temps normal les gens s'en fichent, ce n'état qu'une série de mots incompréhensibles pour le citoyen lambda."
 
 # game/chapter5trueendings.rpy:396
 translate frenchtl trueendings_f96e7cfd:
@@ -1028,7 +1028,7 @@ translate frenchtl trueendings_b639acc7:
 translate frenchtl trueendings_d03e8836:
 
     # Ad "Did it even have a name, or was it just a product for you, a failed experiment?"
-    Ad "Lui aviez-vous seulement donné un nom ? Où ce n'état pour vous qu'un numéro ? Une expérience ratée ?"
+    Ad "Lui aviez-vous seulement donné un nom ? Ou ce n'était pour vous qu'un numéro ? Une expérience ratée ?"
 
 # game/chapter5trueendings.rpy:470
 translate frenchtl trueendings_7bd839c6:
@@ -1058,13 +1058,13 @@ translate frenchtl trueendings_df86fe96:
 translate frenchtl trueendings_769538f2:
 
     # Ad disappoint b "What was the name?"
-    Ad disappoint b "Quel nom lui aviez vous donné ?"
+    Ad disappoint b "Quel nom lui aviez-vous donné ?"
 
 # game/chapter5trueendings.rpy:480
 translate frenchtl trueendings_2ce1802d:
 
     # An face flip "Why do you even care? They probably found her, she went to a nice family and lived happily ever after. End of story."
-    An face flip "Qu'est-ce que ça peut te faire ? Il a probablement été recueilli, il elle vit certainement auprès d'une gentille famille qui lui donne tout l'amour -"
+    An face flip "Qu'est-ce que ça peut te faire ? Elle a probablement été recueillie, elle vit certainement auprès d'une gentille famille qui lui donne tout l'amour -"
 
 # game/chapter5trueendings.rpy:484
 translate frenchtl trueendings_20e93173:
@@ -1238,7 +1238,7 @@ translate frenchtl trueendings_edcae2d4:
 translate frenchtl trueendings_670c4241:
 
     # c "Reza! You're here? You don't know how glad I am to see you. I've wanted to talk with you for so long. Where have you been all this time?"
-    c "Ah, Reza ! Enfin te voilà. T'imagines pas depuis combien de temps j'attends ce moment, celui de pouvoir te parler. Où est-ce que tu étais depuis tout ce temps ?"
+    c "Ah, Reza ! Enfin te voilà. T'imagines pas depuis combien de temps j'attends ce moment pour pouvoir te parler. Où est-ce que tu étais depuis tout ce temps ?"
 
 # game/chapter5trueendings.rpy:560
 translate frenchtl trueendings_28270e60:
@@ -1791,7 +1791,7 @@ translate frenchtl trueendings_8f6e587b:
 translate frenchtl trueendings_7105dc10:
 
     # Iz "We were an elite team, sent to break new ground. There were four of us."
-    Iz "On était une équipe d'élite, envoyée pour innover. On était quatre."
+    Iz "On était une équipe d'élites, envoyée pour innover. On était quatre."
 
 # game/chapter5trueendings.rpy:938
 translate frenchtl trueendings_27494a4d:
@@ -1863,7 +1863,7 @@ translate frenchtl trueendings_d0aadd52:
 translate frenchtl trueendings_0a0c301a:
 
     # Hz "Good guess. Ms. Thomas?"
-    Hz "Bien vu. Mademoiselle Thomas?"
+    Hz "Bien vu. Mademoiselle Thomas ?"
 
 # game/chapter5trueendings.rpy:994
 translate frenchtl trueendings_43884d9b:
@@ -1935,7 +1935,7 @@ translate frenchtl trueendings_02b11160:
 translate frenchtl trueendings_6521db65:
 
     # Hz "Who says we need to wait until then?"
-    Hz "Qui vous dit qu'il faudra attendre jusque là ?"
+    Hz "Qui vous dit qu'il faudra attendre jusque-là ?"
 
 # game/chapter5trueendings.rpy:1018
 translate frenchtl trueendings_af4d4e0f:
@@ -1959,7 +1959,7 @@ translate frenchtl trueendings_f637e9cc:
 translate frenchtl trueendings_e20ecb99:
 
     # Hz "What else are we supposed to do while we are here? If worst comes to worst, we can just destroy the results."
-    Hz "Et que voulez vous qu'on fasse pendant que nous sommes coincés ici ? Si le pire devait arriver, nous pourrions toujours détruire les résultats de nos recherches, et toutes autres preuves gênantes."
+    Hz "Et que voulez-vous qu'on fasse pendant que nous sommes coincés ici ? Si le pire devait arriver, nous pourrions toujours détruire les résultats de nos recherches, et toutes autres preuves gênantes."
 
 # game/chapter5trueendings.rpy:1026
 translate frenchtl trueendings_46e8bc42:
@@ -2091,13 +2091,13 @@ translate frenchtl trueendings_f63d5524:
 translate frenchtl trueendings_ded0f124:
 
     # Hz "That is not a question we ask at this company. You should know that by now."
-    Hz "Ce n'est pas une question qu'on peut se permettre se poser à l'entreprise, vous devriez le savoir."
+    Hz "Ce n'est pas une question qu'on peut se permettre de poser à l'entreprise, vous devriez le savoir."
 
 # game/chapter5trueendings.rpy:1070
 translate frenchtl trueendings_90c527be:
 
     # Fr "Have you never seen {i}Jurassic Park{/i}?"
-    Fr "Foreman, vous avez déjà vu {i}Jurassic Park{/i}?"
+    Fr "Foreman, vous avez déjà vu {i}Jurassic Park{/i} ?"
 
 # game/chapter5trueendings.rpy:1072
 translate frenchtl trueendings_8311daf2:
@@ -2345,7 +2345,7 @@ translate frenchtl trueendings_2498d88f:
 translate frenchtl trueendings_a64c594e:
 
     # n "Soon, the first proto-dragons were born. One was to be raised as naturally as possible. Another was going to receive the hormones for accelerated growth, while the third one was to be trained via the automated learning program. The last one was to receive all of the safeguards at once."
-    n "Bientôt, les premiers proto-dragons sont nés. L'un d'entre eux devait être élevé le plus naturellement possible. Un autre allait recevoir les hormones de croissance accélérée, tandis que le troisième devait être formé via le programme d'apprentissage automatisé. Le dernier devait recevoir toutes les protections en même temps."
+    n "Bientôt, les premiers proto-dragons étaient nés. L'un d'entre eux devait être élevé le plus naturellement possible. Un autre allait recevoir les hormones de croissance accélérée, tandis que le troisième devait être formé via le programme d'apprentissage automatisé. Le dernier devait recevoir toutes les protections en même temps."
 
 # game/chapter5trueendings.rpy:1162
 translate frenchtl trueendings_10947420:
@@ -2807,7 +2807,7 @@ translate frenchtl trueendings_fb3cb7ac_1:
 translate frenchtl trueendings_9d8cd5a5:
 
     # Iz "Hey, [player_name]. Do you remember anything about the first time you came here?"
-    Iz "Hé, [player_name]. Tu te rappelle de la première fois que tu es venu ici ?"
+    Iz "Hé, [player_name]. Tu te rappelles de la première fois que tu es venu ici ?"
 
 # game/chapter5trueendings.rpy:1506
 translate frenchtl trueendings_cc2c6348:
@@ -2975,7 +2975,7 @@ translate frenchtl trueendings_cd1267a8:
 translate frenchtl trueendings_ac215380:
 
     # c "Back home, there are plenty of empty buildings. If the dragons took their generators and technology with them, we could revive all the infrastructure - the hospitals, schools, everything."
-    c "Dans notre monde, il y a énormément de bâtiments vides. Si les dragon apportaient avec eux leurs générateurs et leur technologie, nous pourrions redonner vie à toute ces villes endormies ! Hopitaux, écoles, tout !"
+    c "Dans notre monde, il y a énormément de bâtiments vides. Si les dragon apportaient avec eux leurs générateurs et leur technologie, nous pourrions redonner vie à toutes ces villes endormies ! Hôpitaux, écoles, tout !"
 
 # game/chapter5trueendings.rpy:1575
 translate frenchtl trueendings_df0507a0:
@@ -2999,7 +2999,7 @@ translate frenchtl trueendings_4b66103a:
 translate frenchtl trueendings_00dcaf97:
 
     # c "Even if they won't accept them, they will have safe passage to set up a new city. I don't think it will come to that, though. We have plenty of dead infrastructure and room to fill."
-    c "Même si les humains n'acceptent pas les dragons, ces derniers auront un passage sûr pour établir une nouvelle ville. Mais je ne pense pas que ce sera nécessaire. Nous avons beaucoup de villes mortes et de places à remplir."
+    c "Même si les humains n'acceptent pas les dragons, ces derniers auront un passage sûr pour établir une nouvelle ville. Mais je ne pense pas que ce sera nécessaire. Nous avons beaucoup de villes mortes et de place à remplir."
 
 # game/chapter5trueendings.rpy:1583
 translate frenchtl trueendings_083f701c:
@@ -3035,13 +3035,13 @@ translate frenchtl trueendings_fb3cb7ac_2:
 translate frenchtl trueendings_1bb745cb:
 
     # Iz "You don't realize the weight that's been on my shoulders from all the things I had to do to make this work. Now that we are here, I don't think I could continue this existence with these memories in my mind."
-    Iz "Tu n'imagines pas de tout ce que j'ai dans la tête, et le poids de tout les souvenirs qui pèse sur mes épaules. Maintenant que nous en sommes à ce résultat, je ne pense pas être capable de continuer encore cette existence, avec tout ces souvenirs à l'esprit."
+    Iz "Tu ne te rend pas compte de tout ce que j'ai dans la tête, et le poids de tout les souvenirs qui pèse sur mes épaules. Maintenant que nous en sommes à ce résultat, je ne pense pas être capable de continuer encore cette existence, avec tous ces souvenirs à l'esprit."
 
 # game/chapter5trueendings.rpy:1595
 translate frenchtl trueendings_970ed56d:
 
     # Iz "Now that we have saved them, I can finally rest."
-    Iz "Maintenant que tu les as sauvé, je peux enfin me reposer."
+    Iz "Maintenant que tu les as sauvés, je peux enfin me reposer."
 
 # game/chapter5trueendings.rpy:1597
 translate frenchtl trueendings_2c2f1959:
@@ -3107,13 +3107,13 @@ translate frenchtl trueendings_d19f855d_2:
 translate frenchtl trueendings_022917be:
 
     # Iz "Besides, I'm sure you'll do a fine job."
-    Iz "En outre, je suis sûr que tu feras du bon travail."
+    Iz "En outre, je suis sûre que tu feras du bon travail."
 
 # game/chapter5trueendings.rpy:1632
 translate frenchtl trueendings_598e4e08:
 
     # c "How can you be sure I will?"
-    c "Comment pouvez-vous être sûr que j'y arriverai ?"
+    c "Comment pouvez-vous être sûre que j'y arriverai ?"
 
 # game/chapter5trueendings.rpy:1636
 translate frenchtl trueendings_41f739d3:
@@ -3167,7 +3167,7 @@ translate frenchtl trueendings_0ac6c96f:
 translate frenchtl trueendings_344fba1b:
 
     # Iz "Maybe we will be lucky and this won't be necessary, but you will have to be careful and watch them. See how things develop from here on out."
-    Iz "Peut-être qu'on aura de la chance, et que ça ne sera pas nécessaire. Mais tu dois faire attention, et les surveiller. Vois comment les choses évoluent à partie de maintenant."
+    Iz "Peut-être qu'on aura de la chance, et que ça ne sera pas nécessaire. Mais tu dois faire attention, et les surveiller. Vois comment les choses évoluent à partir de maintenant."
 
 # game/chapter5trueendings.rpy:1656
 translate frenchtl trueendings_529ca38d:
@@ -3233,7 +3233,7 @@ translate frenchtl trueendings_76b2fe88_14:
 translate frenchtl trueendings_8f4ab4de:
 
     # a "After being told of the comet and realizing that any of their attempts to stop or redirect it would fail without the lab's generator, the dragons' council agreed with my course of action, as did humanity.{p=3.3}{nw}\nWhile the repopulation of our city turned out very differently than humanity had initially hoped, all concerns were naught against the possibility of the vast amounts of technology and generators the dragons would bring to revive it.{p=3.3}{nw}\nSoon, the initiative to relocate the dragons through the portal was in full force, and I - still acting as an ambassador - helped as much as I could to make it go as smoothly as possible.{p=4.0}{nw}"
-    a "Après avoir appris l'existence de la comète et réalisé que toute tentative pour l'arrêter ou la rediriger échouerait sans le générateur du laboratoire, le Conseil des dragons approuva ma ligne de conduite, tout comme l'humanité.{p=3.3}{nw}\nBien que le repeuplement de notre ville se fût déroulé très différemment de ce que l'humanité avait espéré au départ, toutes les inquiétudes furent réduites à zéro face à la possibilité de voir les énormes quantités de technologie et de générateurs que les dragons apporteraient pour la faire revivre.{p=3.3}{nw}\nTrès vite, le programme de relocalisation des Dragons au travers du portail battit son plein, et j'aidai du mieux que je le pus, en ma qualité d'Ambassadeur, afin que tout se déroulât de la manière la plus optimale possible"
+    a "Après avoir appris l'existence de la comète et réalisé que toute tentative pour l'arrêter ou la rediriger échouerait sans le générateur du laboratoire, le Conseil des dragons approuva ma ligne de conduite, tout comme l'humanité.{p=3.3}{nw}\nBien que le repeuplement de notre ville se fût déroulé très différemment de ce que l'humanité avait espéré au départ, toutes les inquiétudes furent réduites à zéro face à la possibilité de voir les énormes quantités de technologie et de générateurs que les dragons apporteraient pour la faire revivre.{p=3.3}{nw}\nTrès vite, le programme de relocalisation des Dragons au travers du portail battit son plein, et j'aidai du mieux que je le pus, en ma qualité d'Ambassadeur, afin que tout se déroulât de la manière la plus optimale possible.{p=4.0}{nw}"
 
 # game/chapter5trueendings.rpy:1751
 translate frenchtl trueendings_d0541220:
@@ -3241,7 +3241,7 @@ translate frenchtl trueendings_d0541220:
     # nvl clear
     # n "After being told of the comet and realizing that any of their attempts to stop or redirect it would fail without the lab's generator, the dragons' council agreed with my course of action, as did humanity.{p=3.3}{nw}\nWhile the repopulation of our city turned out very differently than humanity had initially hoped, all concerns were naught against the possibility of the vast amounts of technology and generators the dragons would bring to revive it.{p=3.3}{nw}\nSoon, the initiative to relocate the dragons through the portal was in full force, and I - still acting as an ambassador - helped as much as I could to make it go as smoothly as possible.{fast}{p=0.0}{nw}"
     nvl clear
-    a "Après avoir appris l'existence de la comète et réalisé que toute tentative pour l'arrêter ou la rediriger échouerait sans le générateur du laboratoire, le Conseil des dragons approuva ma ligne de conduite, tout comme l'humanité.{p=3.3}{nw}\nBien que le repeuplement de notre ville se fût déroulé très différemment de ce que l'humanité avait espéré au départ, toutes les inquiétudes furent réduites à zéro face à la possibilité de voir les énormes quantités de technologie et de générateurs que les dragons apporteraient pour la faire revivre.{p=3.3}{nw}\nTrès vite, le programme de relocalisation des Dragons au travers du portail battit son plein, et j'aidai du mieux que je le pus, en ma qualité d'Ambassadeur, afin que tout se déroulât de la manière la plus optimale possible"
+    a "Après avoir appris l'existence de la comète et réalisé que toute tentative pour l'arrêter ou la rediriger échouerait sans le générateur du laboratoire, le Conseil des dragons approuva ma ligne de conduite, tout comme l'humanité.{p=3.3}{nw}\nBien que le repeuplement de notre ville se fût déroulé très différemment de ce que l'humanité avait espéré au départ, toutes les inquiétudes furent réduites à zéro face à la possibilité de voir les énormes quantités de technologie et de générateurs que les dragons apporteraient pour la faire revivre.{p=3.3}{nw}\nTrès vite, le programme de relocalisation des Dragons au travers du portail battit son plein, et j'aidai du mieux que je le pus, en ma qualité d'Ambassadeur, afin que tout se déroulât de la manière la plus optimale possible.{p=4.0}{nw}"
 
 # game/chapter5trueendings.rpy:1758
 translate frenchtl trueendings_76b2fe88_15:
@@ -3261,7 +3261,7 @@ translate frenchtl trueendings_dd1b017d:
     # nvl clear
     # n "After a few weeks, we had done it and as the last of the dragons from even the furthest regions had arrived at the other side, the time for me had come to walk through the portal for the very last time.{p=3.3}{nw}\nI looked back to their village and saw all the abandoned buildings, doomed to be destroyed when the comet would hit soon.{p=3.3}{nw}\nAs I walked up to the platform and waited for the portal to do its starting routine, I thought about what would happen now and what would come of this collaboration between humans and dragons.{fast}{p=0.0}{nw}"
     nvl clear
-    a "Après quelques semaines, nous en avions terminé avec la relocalisation, et tandis que le dernier des Dragons des régions les plus reculées passait de l'autre côté, le moment vint pour moi de franchir le portail pour la toute dernière fois.{p=3.3}{nw}\nJe me retournai vers le village et je vis tous les bâtiments abandonnés, condamnés à être détruits lorsque la comète frapperait.{p=3.3}{nw}\nEn m'approchant de la plateforme et en attendant que le portail fasse sa routine de démarrage, je pensai à ce qui allait se passer maintenant et à ce qui allait résulter de cette collaboration entre les humains et les dragons.{p=4.0}{nw}"
+    a "Après quelques semaines, nous en avions terminé avec la relocalisation, et tandis que le dernier des Dragons des régions les plus reculées passait de l'autre côté, le moment vint pour moi de franchir le portail pour la toute dernière fois.{p=3.3}{nw}\nJe me retournai vers le village et je vis tous les bâtiments abandonnés, condamnés à être détruits lorsque la comète frapperait.{p=3.3}{nw}\nEn m'approchant de la plateforme et en attendant que le portail fasse sa routine de démarrage, je pensai à ce qui allait se passer maintenant et à ce qui allait résulter de cette collaboration entre les humains et les dragons.{fast}{p=4.0}{nw}"
 
 # game/chapter5trueendings.rpy:1770
 translate frenchtl trueendings_76b2fe88_16:
