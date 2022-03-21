@@ -72,7 +72,7 @@ translate frenchtl adine2_880895e8:
 translate frenchtl adine2_ad960bf9:
 
     # Ad "I just have to bring her back to the orphanage real quick. Feel free to make yourself at home in the meantime, okay?"
-    Ad "Je dois juste la ramener assez vite à l'orphelinat. Fait comme chez toi en attendant, d'accord ?"
+    Ad "Je dois juste la ramener vite fait à l'orphelinat. En attendant Fait comme chez toi , d'accord ?"
 
 # game/adine2.rpy:97
 translate frenchtl adine2_c48dc32f:
@@ -138,7 +138,7 @@ translate frenchtl _call_skipcheck_23_4bab5848:
 translate frenchtl _call_skipcheck_23_8d6aa6f3:
 
     # Ad giggle b "Being able to fly does have its perks, you know."
-    Ad giggle b "Être capable de voler a ces avantages, tu sais."
+    Ad giggle b "Être capable de voler a ses avantages, tu sais."
 
 # game/adine2.rpy:203
 translate frenchtl _call_skipcheck_23_8c00b781:
@@ -258,7 +258,7 @@ translate frenchtl _call_skipcheck_23_8416514a:
 translate frenchtl _call_skipcheck_23_5ec1c392:
 
     # Ad "I'd adopt her myself, but I don't think I could care for her properly. Not as a single parent with my packed work schedule."
-    Ad "Je l'adopterais bien moi-même, mais je ne pense pas pouvoir m'occuper d'elle décemment. Pas en tant que parent unique avec mes horaires de travail denses comme elles sont."
+    Ad "Je l'adopterais bien moi-même, mais je ne pense pas pouvoir m'occuper d'elle décemment. Pas en tant que parent unique avec des horaires de travail aussi denses."
 
 # game/adine2.rpy:257
 translate frenchtl _call_skipcheck_23_434e0470:
@@ -300,7 +300,7 @@ translate frenchtl _call_skipcheck_23_efe0e8c3:
 translate frenchtl _call_skipcheck_23_dc391fd9:
 
     # Ad think b "Let me think."
-    Ad think b "Laisse-moi y réfléchir."
+    Ad think b "Laisse-moi réfléchir."
 
 # game/adine2.rpy:291
 translate frenchtl _call_skipcheck_23_8dd99f8a:
@@ -342,7 +342,7 @@ translate frenchtl _call_skipcheck_23_deaa0d16:
 translate frenchtl _call_skipcheck_23_8b977e7b:
 
     # Ad "Finding the first victim was already bad enough for me, and now I have to hear there was another murder in town... I wish I could get some good news for once."
-    Ad "Trouver la première victime était déjà assez dur pour moi, et maintenant je dois apprendre qu'il y a eu un autre meurtre en ville... J'espère avoir de bonnes nouvelles pour une fois."
+    Ad "Trouver la première victime était déjà assez dur pour moi, et maintenant je dois apprendre qu'il y a eu un autre meurtre en ville... Je souhaiterais avoir de bonnes nouvelles pour une fois."
 
 # game/adine2.rpy:311
 translate frenchtl _call_skipcheck_23_0b322fb0:
@@ -408,7 +408,7 @@ translate frenchtl _call_skipcheck_23_72a69e39:
 translate frenchtl _call_skipcheck_23_1d8e34de:
 
     # m "Using her partial hands, she held up a magazine to show me its cover. A rather bold-looking female was presented on the front, adorned with trinkets like rings and jewels. Various headlines gave me an idea of the content within. It reminded me a lot of the typical gossip magazines back home."
-    m "En utilisant ses mains partielles, elle brandit un magazine pour me montrer la couverture. Une femelle à l'allure audacieuse était présentée en première page, ornée de bibelots ressemblant à des bagues et des bijoux. Plusieurs en-têtes me donnaient une idée du contenu. Ça me rappelait pas mal les magazines de potins typiques de chez moi."
+    m "En utilisant ses mains partielles, elle brandit un magazine pour me montrer la couverture. Une femelle à l'allure audacieuse était présentée en première page, ornée de bibelots ressemblant à des bagues et des bijoux. Plusieurs en-têtes me donnaient une idée du contenu. Ça me rappelait les magazines de potins typiques de chez moi."
 
 # game/adine2.rpy:350
 translate frenchtl _call_skipcheck_23_782e5967:
