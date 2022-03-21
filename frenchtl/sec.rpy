@@ -1,10 +1,11 @@
 # TODO: Translation updated at 2017-05-02 20:02
+# Reviews : 1 (LilacVenus)
 
 # game/sec.rpy:11
 translate frenchtltl sec_45a1f6f7:
 
     # m "I suddenly awoke to the chill of the cool outside air. The stars of the night sky were the first thing I saw as I found myself being dragged along the ground."
-    m "Je me réveillai soudainement à la fraicheur de l'air extérieur. Les étoiles de ce ciel nocturne furent la première chose que je vis alors que je me faisais trainer sur le sol."
+    m "Je me réveillai soudainement au fraicheur de l'air extérieur. Les étoiles de ce ciel nocturne furent la première chose que je vis alors que je me faisais trainer sur le sol."
 
 # game/sec.rpy:15
 translate frenchtltl sec_8eb32190:
@@ -58,7 +59,7 @@ translate frenchtltl sec_b56d6d33:
 translate frenchtltl sec_53ef6372:
 
     # Iz "In that case, maybe you can help me with this."
-    Iz "Dans ce cas, peut être que tu peux m'aider avec ça."
+    Iz "Dans ce cas, peut-être que tu peux m'aider avec ça."
 
 # game/sec.rpy:57
 translate frenchtltl sec_19fbf5f8:
@@ -70,7 +71,7 @@ translate frenchtltl sec_19fbf5f8:
 translate frenchtltl sec_3f2b4fc9:
 
     # Iz "It gets rather tiring having to do all this on my own every time. I'm not as young as I was when this all started, you know."
-    Iz "Ca devient assez fatiguant d'avoir à faire tous toute seule à chaque fois. Je ne suis plus aussi jeune que quand tout cela a commencé, tu sais."
+    Iz "Ça devient assez fatiguant d'avoir à faire tous toute seule à chaque fois. Je ne suis plus aussi jeune que quand tout cela a commencé, tu sais."
 
 # game/sec.rpy:63
 translate frenchtltl sec_c3656a60:
@@ -82,7 +83,7 @@ translate frenchtltl sec_c3656a60:
 translate frenchtltl sec_ff1a6790:
 
     # Iz "I don't know that yet. There is no shortage of bodies that will need one."
-    Iz "Je ne le sais pas encore. Ca ne manque pas de corps qui en auront besoin d'une."
+    Iz "Je ne le sais pas encore. Ça ne manque pas de corps qui en auront besoin d'une."
 
 # game/sec.rpy:67
 translate frenchtltl sec_78dba70c:
@@ -106,25 +107,25 @@ translate frenchtltl sec_a54e0a41:
 translate frenchtltl sec_14bb254b:
 
     # c "That time, we also achieved our goals. Together."
-    c "Cette fois aussi, nous avons accomplis nos objectifs. Ensembles."
+    c "Cette fois aussi, nous avons accompli nos objectifs. Ensembles."
 
 # game/sec.rpy:75
 translate frenchtltl sec_0dbc6fec:
 
     # Iz "So they are safe? What a comforting thought."
-    Iz "Donc ils sont saufs? C'est une pensée réconfortante."
+    Iz "Donc ils sont saufs ? C'est une pensée réconfortante."
 
 # game/sec.rpy:77
 translate frenchtltl sec_a77efeb5:
 
     # Iz "As good as that may be, however, having achieved our goals in another timeline doesn't help us here. In this one, we have to do it all over again."
-    Iz "Aussi agréable que ça puisse être, avoit atteint notre but dans une autre chronologie ne nous aide pas ici. Dans celle là, On va être obligé de refaire la même."
+    Iz "Aussi agréable que ça puisse être, avoir atteint notre but dans une autre chronologie ne nous aide pas ici. Dans celle-là, on va être obligé de refaire la même."
 
 # game/sec.rpy:79
 translate frenchtltl sec_b69a1abd:
 
     # Iz "If you still have that knowledge, we should have no trouble doing the same thing here, though. Maybe we could do even more than that."
-    Iz "Si tu as connaissance de cela, Nous ne devrions pas avoir de problème à refaire la même chose ici. Paut être que nous pourrions même faire plus que ça."
+    Iz "Si tu as connaissance de cela, nous ne devrions pas avoir de problème à refaire la même chose ici. Peut-être que nous pourrions même faire plus que ça."
 
 # game/sec.rpy:83
 translate frenchtltl sec_3070bc42:
@@ -154,19 +155,19 @@ translate frenchtltl sec_3198d0c5:
 translate frenchtltl sec_77e9a20b:
 
     # c "It's a little fancy for a hideout, I'd say."
-    c "Je dirais que c'est plutôt luxeux pour une cachette."
+    c "Je dirais que c'est plutôt luxueux pour une cachette."
 
 # game/sec.rpy:111
 translate frenchtltl sec_8fc7fa5d:
 
     # Iz "This building used to be a prison before they moved the inmates to a bigger facility. Apparently, this one didn't get much use."
-    Iz "Ce bâtiment était une prison avant qu'il ne déménage les pensionnaires dans un plus grand bâtiment. Apparement, celui ci n'a pas été beaucoup utilisé."
+    Iz "Ce bâtiment était une prison avant qu'il ne déménage les pensionnaires dans un plus grand bâtiment. Apparemment, celui-ci n'a pas été beaucoup utilisé."
 
 # game/sec.rpy:113
 translate frenchtltl sec_07b8b5b5:
 
     # Iz "They are planning to repurpose it, but you know how bureaucracy works. It will be a while before they'll have made up their minds."
-    Iz "Ils ont prévu de le réutiliser autrement, mais tu sais comment la bureaucratie fonctionne. Ca va prendre du temps avant qu'ils ne se décide."
+    Iz "Ils ont prévu de le réutiliser autrement, mais tu sais comment la bureaucratie fonctionne. Ça va prendre du temps avant qu'ils ne se décident."
 
 # game/sec.rpy:115
 translate frenchtltl sec_db4eb384:
@@ -232,13 +233,13 @@ translate frenchtltl denied_4aff6d4b:
 translate frenchtltl denied_efd4dfe7:
 
     # Iz "Don't worry about it. It makes my choice all the easier."
-    Iz "Ne t'en fait pas pour ça. Ca ne rend mon choix que plus facile."
+    Iz "Ne t'en fait pas pour ça. Ça me rend mon choix que plus facile."
 
 # game/sec.rpy:199
 translate frenchtltl denied_6d3d48d8:
 
     # Iz "You see, whenever one of you travels back in time, I'm the one who has to decide with whom to continue the timeline."
-    Iz "Vois tu, à chaque fois que l'un d'entre vous remonte dans le temps, Je suis celle qui dois décider duquel va continuer cette chronologie."
+    Iz "Vois-tu, à chaque fois que l'un d'entre vous remonte dans le temps, je suis celle qui doit décider duquel va continuer cette chronologie."
 
 # game/sec.rpy:201
 translate frenchtltl denied_a4f844d5:
@@ -298,7 +299,7 @@ translate frenchtltl denied_06f4c37f:
 translate frenchtltl denied_3427b9d7:
 
     # s "Hello, [player_name]. Finally, we meet face to face. Or as close to face to face as it could possibly be here."
-    s "Bonjour, [player_name]. Enfin, nous voilà face à face. Ou du moins pour ce que ça a de face à face dans notre cas à nous."
+    s "Bonjour, [player_name]. Enfin, nous voilà face à face. Ou du moins pour ce que cela de face à face dans notre cas à nous."
 
 # game/sec.rpy:241
 translate frenchtltl denied_707f17ba:
@@ -316,13 +317,13 @@ translate frenchtltl denied_d623fc26:
 translate frenchtltl denied_6d0451dc:
 
     # c "Wow, so a part of the AI that used to govern nearly every electronic device in existence was preserved here."
-    c "Wow, donc une partie de l'IA employée à gérer la quasi totalité des appareils électroniques a été préservé ici."
+    c "Wow, donc une partie de l'IA employée à gérer la quasi-totalité des appareils électroniques a été préservé ici."
 
 # game/sec.rpy:251
 translate frenchtltl denied_8e77f7b6:
 
     # s "My personality may have survived, but only a sliver of knowledge is available to me."
-    s "Ma personalité a peut être survécu, mais seulement un éclat de mes connaissances m'est accessible."
+    s "Ma personnalité a peut-être survécu, mais seulement un éclat de mes connaissances m'est accessible."
 
 # game/sec.rpy:253
 translate frenchtltl denied_6f776a45:
@@ -340,13 +341,13 @@ translate frenchtltl denied_17f0d772:
 translate frenchtltl denied_b2d787f6:
 
     # c "This could help us so much back home."
-    c "Ca pourrait tellement nous aider pour chez nous."
+    c "Ça pourrait tellement nous aider pour chez nous."
 
 # game/sec.rpy:263
 translate frenchtltl denied_319592bc:
 
     # s "I already entered your personal device when you arrived here. You would only need to return to your own world to start spreading it to other active devices."
-    s "Je me suis déjà infiltré dans votre appareil personnel quand vous êtes arrivé ici. Vous n'aurez qu'à revenir dans votre monde pour commencer à me diffuser à d'autre appareils actifs."
+    s "Je me suis déjà infiltré dans votre appareil personnel quand vous êtes arrivé ici. Vous n'aurez qu'à revenir dans votre monde pour commencer à me diffuser à d'autres appareils actifs."
 
 # game/sec.rpy:265
 translate frenchtltl denied_55e2ce95:
@@ -364,7 +365,7 @@ translate frenchtltl denied_d8ce1f70:
 translate frenchtltl denied_5401a521:
 
     # c "Show me what you can do."
-    c "Montre moi ce dont tu es capable."
+    c "Montre-moi ce dont tu es capable."
 
 # game/sec.rpy:275
 translate frenchtltl denied_09a2c8f2:
@@ -382,7 +383,7 @@ translate frenchtltl denied_59e810c4:
 translate frenchtltl secmenu_47e8abd1:
 
     # s "[[corrupted] individual [[corrupted] Philanthropists [[corrupted]"
-    s "[[corrupted] indviduel [[corrupted] Philantropes [[corrupted]"
+    s "[[corrupted] individuel [[corrupted] Philantropes [[corrupted]"
 
 # game/sec.rpy:317
 translate frenchtltl noperm_2c982259:
@@ -394,7 +395,7 @@ translate frenchtltl noperm_2c982259:
 translate frenchtltl noperm_c8736af9:
 
     # s "It looks like you don't have the necessary permission to look at this file."
-    s "Il semblerait que tu n'ais pas la permission nécéssaire pour consulter ce fichier."
+    s "Il semblerait que tu n'as pas la permission nécessaire pour consulter ce fichier."
 
 # game/sec.rpy:332
 translate frenchtltl noperm_a66d28c0:
@@ -406,7 +407,7 @@ translate frenchtltl noperm_a66d28c0:
 translate frenchtltl noperm_1cb045f3:
 
     # s "Biggest city of the new world, population roughly [[file corrupted] million."
-    s "La plus grande ville du nouveau monde, population d'à peu près [[file corrupted] million."
+    s "La plus grande ville du nouveau monde, population à peu près [[file corrupted] million."
 
 # game/sec.rpy:349
 translate frenchtltl noperm_f5b65cea:
@@ -898,7 +899,7 @@ translate frenchtltl noperm_fff001ad:
 translate frenchtltl noperm_56cb2696:
 
     # s "No results found."
-    s "Aucun résultat trouvé."
+    s "Aucun résultats trouvé."
 
 # game/sec.rpy:1081
 translate frenchtltl noperm_84d6bbbf:
@@ -928,7 +929,7 @@ translate frenchtltl noperm_84c0fcc5:
 translate frenchtltl noperm_571a8edb:
 
     # s "You got me there. That was fun, though."
-    s "Tu m'as bien eu sur celle là. C'était fun."
+    s "Tu m'as bien eu sur celle-là. C'était fun."
 
 # game/sec.rpy:1145
 translate frenchtltl noperm_acd73aeb:
@@ -940,7 +941,7 @@ translate frenchtltl noperm_acd73aeb:
 translate frenchtltl noperm_8ddd0f54:
 
     # s "It doesn't look complete, but I'll add it to the menu regardless."
-    s "Ca n'a pas l'air complet, mais je vais quand même l'ajouter au menu."
+    s "Ça n'a pas l'air complet, mais je vais quand même l'ajouter au menu."
 
 # game/sec.rpy:1160
 translate frenchtltl noperm_dcc79b45:
@@ -970,7 +971,7 @@ translate frenchtltl noperm_f0facc53:
 translate frenchtltl noperm_b5a5d467:
 
     # s "Database permissions have been upgraded. You should be able to access some files now that you weren't able to read before."
-    s "Les permissions des bases de données ont été mises à jours. Tu devrais être capable d'accéder à certains fichiers que tu ne pouvais pas lire avant."
+    s "Les permissions des bases de données ont été mises à jour. Tu devrais être capable d'accéder à certains fichiers que tu ne pouvais pas lire avant."
 
 # game/sec.rpy:1216
 translate frenchtltl noperm_f0facc53_1:
@@ -1036,7 +1037,7 @@ translate frenchtltl noperm_f0facc53_10:
 translate frenchtltl noperm_ed908b4e:
 
     # s "Wow, this broken link just unlocked the prompt for the developer tools. This should be interesting."
-    s "Woah, ce lien mort vient de débloquer la console des développeurs. Ca devrait être intéressant."
+    s "Woah, ce lien mort vient de débloquer la console des développeurs. Ça devrait être intéressant."
 
 # game/sec.rpy:1308
 translate frenchtltl noperm_a1ed0e31:
@@ -1054,7 +1055,7 @@ translate frenchtltl noperm_79932bcc:
 translate frenchtltl noperm_0bf1f1a0:
 
     # s "For my own survival, and everyone else's. You know, if my server was destroyed for any reason - say, an explosion or flooding - a lot of information would be lost."
-    s "Pour ma propre survie, et celle de tout le monde. Tu sais, si mes serveurs venaient à être détruits pour quelques raisons - soit une explosion ou une inondation - beaucoup d'informations seraient perdus."
+    s "Pour ma propre survie, et celle de tout le monde. Tu sais, si mes serveurs venaient à être détruits pour quelques raisons - soit une explosion ou une inondation - beaucoup d'informations seraient perdues."
 
 # game/sec.rpy:1320
 translate frenchtltl noperm_89aefe22:
@@ -1108,7 +1109,7 @@ translate frenchtltl noperm_f9c3564a:
 translate frenchtltl noperm_66f1dd62:
 
     # s "Developer tools are only available to trained technicians of the company or licensed developers."
-    s "La console de développeur est accessible uniquement à des techniciens formés de la companie ou des développeurs licenciés."
+    s "La console de développeur est accessible uniquement à des techniciens formés de la compagnie ou des développeurs licenciés."
 
 # game/sec.rpy:1391
 translate frenchtltl noperm_22cd97f2:
@@ -1132,13 +1133,13 @@ translate frenchtltl noperm_d34d5dbf:
 translate frenchtltl noperm_5f7a713e:
 
     # c "A password? Does someone who even used to work for this company not have the permission to use these tools?"
-    c "Un mot de passe? Est-ce que quelqu'un ayant travaillé pour cette entreprise ne devrait pas avoir la permission d'utiliser la console ?"
+    c "Un mot de passe ? Est-ce que quelqu'un ayant travaillé pour cette entreprise ne devrait pas avoir la permission d'utiliser la console ?"
 
 # game/sec.rpy:1405
 translate frenchtltl noperm_cb2ea48d:
 
     # s "That's the thing - these tools undergo a periodical password reset according to a proprietary algorithm in order to prevent unlicensed access and hacking of the company's devices."
-    s "C'est le problème - cette console est soumise à un mot de passe périodique se réinitialisant sur la base d'un algorithme breveté pour prévenir un accès sans licence et le priatage des appareils de l'entreprise."
+    s "C'est le problème - cette console est soumise à un mot de passe périodique se réinitialisant sur la base d'un algorithme breveté pour prévenir un accès sans licence et le piratage des appareils de l'entreprise."
 
 # game/sec.rpy:1409
 translate frenchtltl noperm_e86d55e1:
@@ -1198,19 +1199,19 @@ translate frenchtltl _call_filename_list_6f36d847:
 translate frenchtltl _call_filename_list_10a4ff4e:
 
     # s "I have to warn you here. These tools combined with Izumi's hacked server connection pose an incredible risk if used improperly."
-    s "Je dois t'avertir. Cette console combinée avec la connection piratée du serveur d'Izumi pose un gros risque si elle est mal utilisée."
+    s "Je dois t'avertir. Cette console combinée avec la connexion piratée du serveur d'Izumi pose un gros risque si elle est mal utilisée."
 
 # game/sec.rpy:1503
 translate frenchtltl _call_filename_list_4879116e:
 
     # s "I recommend backing up your save files before you use them. Otherwise, I will not be able to guarantee your safety beyond this point." 
-    s "Je recommande de faire une copie de tes fichiers de sauvegarde avant de les utiliser. Autrement, je ne serai pas capable de guarantir votre sécurité."
+    s "Je recommande de faire une copie de tes fichiers de sauvegarde avant de les utiliser. Autrement, je ne serai pas capable de garantir votre sécurité."
 
 # game/sec.rpy:1507
 translate frenchtltl _call_filename_list_05aa516d:
 
     # s "You may inadvertedly cause irreversible damage to all the progress you have made so far if you use them improperly. Please be aware of this risk before you proceed."
-    s "Vous pouvez causer par inadvertance des dégats irréversibles à tout les progrès effectués si vous ne les utilisez pas correctement. Soyez conscient de ce risque avant de poursuivre."
+    s "Vous pouvez causer par inadvertance des dégâts irréversibles à tous les progrès effectués si vous ne les utilisez pas correctement. Soyez conscients de ce risque avant de poursuivre."
 
 # game/sec.rpy:1518
 translate frenchtltl _call_filename_list_f5b65cea:
@@ -1228,7 +1229,7 @@ translate frenchtltl badpw_248be5b3:
 translate frenchtltl badpw_5ad9aebb:
 
     # s "Your device has now been locked."
-    s "Votre appareil a été vérouillé."
+    s "Votre appareil a été verrouillé."
 
 # game/sec.rpy:1554
 translate frenchtltl secend_76b2fe88:
@@ -1342,7 +1343,7 @@ translate frenchtltl secend_96be98e3:
 translate frenchtltl secend_862f65a5:
 
     # c "I just tried to look at a file about this fellow named Marcus."
-    c "J'ai juste essayé de regarder un fichier au sujet d'une personne nommée Marcus."
+    c "J'ai juste essayé de regarder un fichier au sujet d'une personne s'appelle Marcus."
 
 # game/sec.rpy:1612
 translate frenchtltl secend_403e7334:
@@ -1390,7 +1391,7 @@ translate frenchtltl secend_e07e718b:
 translate frenchtltl secend_b1991657:
 
     # Iz "It's getting pretty late, anyway. Maybe we should get you back to your apartment, [player_name]."
-    Iz "Il commence à se faire tard, de toute façon. Peut être qu'on devrait rentrer à ton appartement, [player_name]."
+    Iz "Il commence à se faire tard, de toute façon. Peut-être qu'on devrait rentrer à ton appartement, [player_name]."
 
 # game/sec.rpy:1632
 translate frenchtltl secend_115c34c4:
