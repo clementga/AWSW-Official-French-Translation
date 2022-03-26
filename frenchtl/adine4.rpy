@@ -229,10 +229,10 @@ translate frenchtl _call_skipcheck_30_e93337e5:
     m "Elle tenait un morceau de tissus sur lequel était imprimé un nombre en gros. Des sangles pendaient de chaque côté."
 
 # game/adine4.rpy:197
-translate frenchtl _call_skipcheck_30_075e02d8:
+translate frenchtl _call_skipcheck_30_5519a080:
 
     # Ad giggle b "What, this? No, of course not. This is [adinestagename]'s number."
-    Ad giggle b "De quoi, ça ? Nan, pas du tout, c'est le numéro d'une certaine [adinestagename]."
+    Ad giggle b "De quoi, ça ? Nan, pas du tout, c'est le numéro d'une certaine [adinestagename!t]."
 
 # game/adine4.rpy:199
 translate frenchtl _call_skipcheck_30_6f25aa46:
@@ -631,10 +631,10 @@ translate frenchtl _call_skipcheck_30_470e192b:
     m "Les uns après les autres, les participants se donnèrent à de spectaculaires prouesses aériennes, généralements suivies par les applaudissenments du public. Finalement, ce fut au tour d'Adine."
 
 # game/adine4.rpy:341
-translate frenchtl _call_skipcheck_30_35916995:
+translate frenchtl _call_skipcheck_30_88c6fc5b:
 
     # "Announcer" "Next on the stage is number 11. A promising newcomer who will show her skills to the public here for the very first time in her debut performance. Please welcome [adinestagename]!"
-    "Annonceur" "La prochaine participante est le numéro 11 : Une nouvelle prometteuse qui s'apprête à montrer ses prouesses au public pour la première fois durant cette représentation, je vous demande d'accueillir [adinestagename] !"
+    "Annonceur" "La prochaine participante est le numéro 11 : Une nouvelle prometteuse qui s'apprête à montrer ses prouesses au public pour la première fois durant cette représentation, je vous demande d'accueillir [adinestagename!t] !"
 
 # game/adine4.rpy:343
 translate frenchtl _call_skipcheck_30_64d1b8e7:

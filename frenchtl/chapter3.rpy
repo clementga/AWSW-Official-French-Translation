@@ -1984,7 +1984,7 @@ translate frenchtl c3conty_228b8580:
     Ad "Ouais. T'étais un vrai connard."
 
 # game/chapter3.rpy:1672
-translate frenchtl c3conty_205dffa4:
+translate frenchtl c3conty_7092424c:
 
     # Ad normal b Ad "But even though you were a jerk, it was extraordinary to have a human around."
     Ad normal b Ad "Mais même si j'ai pensé que tu étais un abruti, c'était extraordinaire d'avoir un humain parmi nous."

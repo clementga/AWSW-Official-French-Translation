@@ -277,7 +277,7 @@ translate frenchtl remy2menu_68a85906:
     m "La seconde photo montrait Rémi dans son attirail typique - cravatte, lunettes, la totale."
 
 # game/remy2.rpy:338
-translate frenchtl remy2menu_6496ac67:
+translate frenchtl remy2menu_8ca34d2e:
 
     # m "The last of the three pictures was of another red dragon, who - as far as I could tell - was a fairly young member of its species. It reminded me of a younger version of Remy, although without his typical accessoires."
     m "La dernière des trois photos était un autre dragon rouge, qui - d'après ce que je pouvais dire - était un membre plutôt jeune de son espèce. Il me rappelait une version plus jeune de Rémi, quoique sans ses accessoires typiques."
@@ -733,7 +733,7 @@ translate frenchtl remy2picturesmenu_9a6d275a:
     c "En effet. De là où je viens, des incidents comme ceux là sont assez communs."
 
 # game/remy2.rpy:702
-translate frenchtl remy2picturesmenu_5b23810d:
+translate frenchtl remy2picturesmenu_cf8ea549:
 
     # Ry "Truly? Here, it is almost unnheard of. One just needs to take a look at the statistics to realize that this is very unusual. Or just an exceptionally bad week.."
     Ry "Vraiment ? Ici, on en entend très peu parler. On a juste besoin de jeter un œil aux statistiques pour réaliser que c'est assez inhabituel. Ou juste une mauvaise semaine, aussi exceptionnelle soit elle..."
@@ -1075,7 +1075,7 @@ translate frenchtl _call_skipcheck_35_371779db:
     c "Ça ressemble à un animal que l'on a chez nous. En parlant de créatures inhabituelles, pourquoi ne m'en dis-tu pas plus au sujet de vos espèces ?"
 
 # game/remy2.rpy:956
-translate frenchtl _call_skipcheck_35_b03c4714:
+translate frenchtl _call_skipcheck_35_de52b834:
 
     # Ry "Are you refering to me, or all of us? Our society is comprised of a number of different species, which you have probably noticed by now."
     Ry "Fais-tu référence à moi, ou à nous tous ? Notre société comprend différentes espèces, ce que tu as probablement remarqué depuis."
@@ -1189,7 +1189,7 @@ translate frenchtl _call_skipcheck_35_656c86bc:
     Ry smile "Nous produisons notre propre chaleur corporelle."
 
 # game/remy2.rpy:1014
-translate frenchtl _call_skipcheck_35_07751ccd:
+translate frenchtl _call_skipcheck_35_1f09ca41:
 
     # c "That is unusual. Where I come from, all reptiles are endothermic. Unless you count birds as reptiles, I guess."
     c "C'est assez inhabituel. De là où je viens, tous les reptiles sont endothermiques. A moins que tu ne considères les oiseaux comme des reptiles, je suppose."
@@ -2006,13 +2006,15 @@ translate frenchtl strings:
     old "Maybe she isn't as bad as you say."
     new "Peut être qu'elle n'est pas si méchante que ça."
     
+    #Commented out because they're already translated in a previous file and cause an error
+    
     # remy2.rpy:885
-    old "I agree."
-    new "Je suis d'accord."
+    # old "I agree."
+    # new "Je suis d'accord."
 
     # remy2.rpy:968
-    old "I don't know."
-    new "Je ne sais pas."
+    # old "I don't know."
+    # new "Je ne sais pas."
 
     # remy2.rpy:968
     old "Fur has a set length, whereas hair will keep growing."

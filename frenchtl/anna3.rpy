@@ -877,10 +877,10 @@ translate frenchtl _call_skipcheck_80b7fddd:
     An "Très bien."
 
 # game/anna3.rpy:622
-translate frenchtl _call_skipcheck_13c6142b:
+translate frenchtl _call_skipcheck_daeab8e8:
 
     # An "Is your favorite color [persistent.playercolorname]?"
-    An "Est-ce que ta couleur favorite est le [persistent.playercolorname] ?"
+    An "Est-ce que ta couleur favorite est le [persistent.playercolorname!t] ?"
 
 # game/anna3.rpy:624
 translate frenchtl _call_skipcheck_e69e42b8_1:
