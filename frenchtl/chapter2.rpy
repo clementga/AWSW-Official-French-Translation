@@ -2769,7 +2769,7 @@ translate frenchtl _call_syscheck_52_5b5b19eb:
     c "(On ne sait jamais ce que l'on peut trouver dans un pavillon. Allons-y.)"
 
 # game/chapter2.rpy:2396
-translate frenchtl _call_syscheck_52_e503e1f9:
+translate frenchtl chap2findnothing_e503e1f9:
 
     # c "(There doesn't seem to be anything important here, but at least it provides excellent shade.)"
     c "(Il ne semble pas y avoir quoi que ce soit d'important ici, mais au moins c'est un excellent abri contre la lumière du soleil.)"
@@ -2793,25 +2793,25 @@ translate frenchtl chap2findnothing_62a5e033_1:
     c "(Encore ? Je devrais chercher encore plus minutieusement cette fois.)"
 
 # game/chapter2.rpy:2428
-translate frenchtl chap2findnothing_3957cd4c:
+translate frenchtl _call_syscheck_52_3957cd4c:
 
     # c "(I found something!)"
     c "(J'ai trouvé quelque chose !)"
 
 # game/chapter2.rpy:2430
-translate frenchtl chap2findnothing_e54fa79d:
+translate frenchtl _call_syscheck_52_e54fa79d:
 
     # c "(It's a round, smooth orb about the size of a bowling ball.)"
     c "(Il s'agit d'une orbe ronde et lisse, de la taille d'une boule de bowling.)"
 
 # game/chapter2.rpy:2434
-translate frenchtl chap2findnothing_d57a7dc7:
+translate frenchtl _call_syscheck_52_d57a7dc7:
 
     # c "(Wait a minute... I recognize this. It looks like something I saw in one of the books the other day.)"
     c "(Attends une seconde... Je reconnais cet objet. Ça me rappelle quelque chose que j'ai vu dans l'un de ces livres l'autre jour.)"
 
 # game/chapter2.rpy:2436
-translate frenchtl chap2findnothing_44e8dccf:
+translate frenchtl _call_syscheck_52_44e8dccf:
 
     # c "(Might as well take it with me.)"
     c "(Autant l'emmener avec moi.)"
@@ -2859,7 +2859,7 @@ translate frenchtl _call_syscheck_54_5f8bcb01:
     s "Vous avez acquis une orbe mystérieuse. Vous pensez qu'elle peut flotter ? {image=image/ui/status/orb_taken.png}"
 
 # game/chapter2.rpy:2498
-translate frenchtl _call_syscheck_54_8d5859d7:
+translate frenchtl chap2findnothing_8d5859d7:
 
     # c "(I don't think I'll find anything else here.)"
     c "(Je ne pense pas que je trouverais quoi que ce soit par ici.)"

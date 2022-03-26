@@ -2053,8 +2053,8 @@ translate frenchtl strings:
     new "C'est... intéressant."
 
     # adine1.rpy:836
-    old "To be honest, I feel the same way."
-    new "Pour être hônnete, je suis pareil."
+    # old "To be honest, I feel the same way."
+    # new "Pour être hônnete, je suis pareil."
 
     # adine1.rpy:836
     old "You know, if you're so eager to find out, I could help you with that."

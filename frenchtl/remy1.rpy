@@ -642,17 +642,17 @@ translate frenchtl _call_syscheck_85_76b2fe88_2:
 # game/remy1.rpy:865
 translate frenchtl _call_syscheck_85_cb3d9530_1:
 
-   # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
+    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
     n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
-translate frenchtl _call_syscheck_85_6fabc8b8:
+translate frenchtl _call_syscheck_85_6fabc8b8_1:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place?"
+    n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place ?"
 
 # game/remy1.rpy:805
-translate frenchtl _call_syscheck_85_c3f8240c:
+translate frenchtl _call_syscheck_85_c3f8240c_1:
 
     # n "Thanks, but no thanks, buddy."
     n "Merci, mais non merci, l'ami."
@@ -676,13 +676,13 @@ translate frenchtl _call_syscheck_85_b548434c_2:
     Ry "D'accord, je reviens plus tard."
 
 # game/remy1.rpy:850
-translate frenchtl _call_syscheck_85_1b7297b4:
+translate frenchtl _call_syscheck_85_1b7297b4_1:
 
     # Ry "I see. Let me fix that up for you, then."
     Ry "Je vois. Laisse-moi arranger ça pour toi, alors."
 
 # game/remy1.rpy:854
-translate frenchtl _call_syscheck_85_d703d4e0_1:
+translate frenchtl _call_syscheck_85_d703d4e0_2:
 
     # Ry "There, that should be it."
     Ry "Voilà, ça devrait être bon."
@@ -708,17 +708,17 @@ translate frenchtl _call_syscheck_85_76b2fe88_4:
 # game/remy1.rpy:927
 translate frenchtl _call_syscheck_85_cb3d9530_2:
 
-      # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
+    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
     n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
-translate frenchtl _call_syscheck_85_6fabc8b8:
+translate frenchtl _call_syscheck_85_6fabc8b8_2:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place?"
+    n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place ?"
 
 # game/remy1.rpy:805
-translate frenchtl _call_syscheck_85_c3f8240c:
+translate frenchtl _call_syscheck_85_c3f8240c_2:
 
     # n "Thanks, but no thanks, buddy."
     n "Merci, mais non merci, l'ami."
@@ -738,17 +738,17 @@ translate frenchtl _call_syscheck_85_fdbdfbc8:
 # game/remy1.rpy:965
 translate frenchtl _call_syscheck_85_b548434c_3:
 
-     # Ry "Alright, I'll come back in a bit."
+    # Ry "Alright, I'll come back in a bit."
     Ry "D'accord, je reviens plus tard."
 
 # game/remy1.rpy:850
-translate frenchtl _call_syscheck_85_1b7297b4:
+translate frenchtl _call_syscheck_85_1b7297b4_2:
 
     # Ry "I see. Let me fix that up for you, then."
     Ry "Je vois. Laisse-moi arranger ça pour toi, alors."
 
 # game/remy1.rpy:854
-translate frenchtl _call_syscheck_85_d703d4e0_1:
+translate frenchtl _call_syscheck_85_d703d4e0_3:
 
     # Ry "There, that should be it."
     Ry "Voilà, ça devrait être bon."
@@ -774,17 +774,17 @@ translate frenchtl _call_syscheck_85_76b2fe88_6:
 # game/remy1.rpy:989
 translate frenchtl _call_syscheck_85_cb3d9530_3:
 
-     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
+    # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
     n "Apparemment Rémi n'avait pas approuvé ma réticence à jouer les esclaves."
 
 # game/remy1.rpy:804
-translate frenchtl _call_syscheck_85_6fabc8b8:
+translate frenchtl _call_syscheck_85_6fabc8b8_3:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
     n "Pensait-il sérieusement que je voulais passer mon temps libre à faire son boulot à sa place?"
 
 # game/remy1.rpy:805
-translate frenchtl _call_syscheck_85_c3f8240c:
+translate frenchtl _call_syscheck_85_c3f8240c_3:
 
     # n "Thanks, but no thanks, buddy."
     n "Merci, mais non merci, l'ami."
