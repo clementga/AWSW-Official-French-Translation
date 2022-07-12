@@ -1713,7 +1713,7 @@ translate frenchtl bryce2cont2_0401c90e:
 translate frenchtl bryce2cont2_23bbf6b1:
 
     # c "It's funny that you say that, because for a while there actually was speculation that you were aliens."
-    c "C'est marrant que tu dises ça, parce qu'on s'est dit durant un certain temps que vous [i]étiez[/i] des extraterrestres."
+    c "C'est marrant que tu dises ça, parce qu'on s'est dit durant un certain temps que vous {i}étiez{/i} des extraterrestres."
 
 # game/bryce2.rpy:1175
 translate frenchtl bryce2cont2_2e42d7f3:
